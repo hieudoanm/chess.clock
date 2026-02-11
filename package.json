@@ -1,0 +1,35 @@
+{
+  "name": "@chess.clock/workspaces",
+  "version": "0.0.1",
+  "description": "Chess Clock",
+  "keywords": [
+    "chess",
+    "clock"
+  ],
+  "homepage": "https://hieudoanm.github.io/chess.clock",
+  "bugs": {
+    "url": "https://github.com/hieudoanm/chess.clock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hieudoanm/chess.clock.git"
+  },
+  "license": "GPL-3.0",
+  "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+  "packageManager": "pnpm@10.29.2",
+  "engines": {
+    "node": "25.6.1"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "build": "turbo run build",
+    "format": "turbo run format",
+    "prepare": "husky || true"
+  },
+  "devDependencies": {
+    "husky": "9.1.7",
+    "turbo": "2.8.5"
+  }
+}

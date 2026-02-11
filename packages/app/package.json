@@ -1,0 +1,88 @@
+{
+	"name": "@chess.clock/app",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Chess Clock",
+	"keywords": [
+		"chess",
+		"clock"
+	],
+	"homepage": "https://hieudoanm.github.io/chess.clock",
+	"bugs": {
+		"url": "https://github.com/hieudoanm/chess.clock/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/hieudoanm/chess.clock.git"
+	},
+	"license": "GPL-3.0",
+	"author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
+	"packageManager": "pnpm@10.29.2",
+	"engines": {
+		"node": "25.6.1"
+	},
+	"scripts": {
+		"predev": "kill-port 3000",
+		"dev": "next dev --turbopack",
+		"prebuild": "rimraf .next ../../docs",
+		"build": "next build --turbopack",
+		"postbuild": "touch ../../docs/.nojekyll",
+		"build:tauri": "tauri build",
+		"build:android": "rm -rf mobile/android && cap add android && cap sync android",
+		"build:ios": "rm -rf mobile/ios && cap add ios && cap sync ios",
+		"build:mobile": "pnpm run build:android && pnpm run build:ios",
+		"prestart": "kill-port 3000",
+		"start": "next start",
+		"test": "jest --clearCache",
+		"format": "prettier --cache --write .",
+		"lint": "eslint"
+	},
+	"dependencies": {
+		"@capacitor/android": "8.0.2",
+		"@capacitor/core": "8.0.2",
+		"@capacitor/ios": "8.0.2",
+		"chess.js": "1.4.0",
+		"chroma-js": "3.2.0",
+		"gif.js": "0.2.0",
+		"html2canvas-pro": "1.6.6",
+		"next": "16.1.6",
+		"pino": "10.3.1",
+		"react": "19.2.4",
+		"react-chessboard": "5.10.0",
+		"react-dom": "19.2.4",
+		"react-icons": "5.5.0",
+		"react-scroll": "1.9.3",
+		"recharts": "3.7.0",
+		"zod": "4.3.6"
+	},
+	"devDependencies": {
+		"@capacitor/cli": "8.0.2",
+		"@dotenvx/dotenvx": "1.52.0",
+		"@eslint/eslintrc": "3.3.3",
+		"@tailwindcss/postcss": "4.1.18",
+		"@tauri-apps/cli": "2.10.0",
+		"@testing-library/jest-dom": "6.9.1",
+		"@testing-library/react": "16.3.2",
+		"@types/chroma-js": "3.1.2",
+		"@types/gif.js": "0.2.5",
+		"@types/jest": "30.0.0",
+		"@types/node": "25.2.3",
+		"@types/react": "19.2.13",
+		"@types/react-dom": "19.2.3",
+		"@types/react-scroll": "1.8.10",
+		"daisyui": "5.5.18",
+		"eslint": "9.39.2",
+		"eslint-config-next": "16.1.6",
+		"husky": "9.1.7",
+		"jest": "30.2.0",
+		"jest-environment-jsdom": "30.2.0",
+		"kill-port": "2.0.1",
+		"prettier": "3.8.1",
+		"prettier-plugin-tailwindcss": "0.7.2",
+		"rimraf": "6.1.2",
+		"tailwindcss": "4.1.18",
+		"ts-jest": "29.4.6",
+		"ts-node": "10.9.2",
+		"typescript": "5.9.3"
+	}
+}
