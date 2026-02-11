@@ -1,0 +1,13 @@
+[project]
+name = "chess-openings"
+version = "0.0.1"
+description = "Chess Openings"
+readme = "README.md"
+requires-python = "==3.14.4"
+dependencies = [
+    "chess==1.11.2",
+    "chess-gif==1.2.0",
+    "pandas==3.0.2",
+    "requests==2.33.1",
+    "stockfish==5.2.0",
+]

@@ -1,0 +1,23 @@
+datasource db {
+  provider = "sqlite"
+}
+
+generator dbml {
+  provider = "prisma-dbml-generator"
+}
+
+generator jsonSchema {
+  provider = "prisma-json-schema-generator"
+}
+
+model Opening {
+  eco       String @id @default(uuid())
+  group     String @map("group")
+  subgroup  String @map("subgroup")
+  name      String @map("name")
+  pgn       String @map("pgn")
+  fen       String @map("fen")
+
+  @@index([eco])
+  @@map("openings")
+}
