@@ -1,5 +1,4 @@
 import { defineConfig, globalIgnores } from 'eslint/config';
-import path from 'node:path';
 
 export default defineConfig([
 	globalIgnores([

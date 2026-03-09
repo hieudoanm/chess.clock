@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
 	appId: 'io.github.hieudoanm.chess.clock',
-	appName: '@chess.clock/app',
+	appName: 'Chess Clock',
 	webDir: '../../docs',
 	android: { path: 'mobile/android' },
 	ios: { path: 'mobile/ios' },
