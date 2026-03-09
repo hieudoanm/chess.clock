@@ -35,7 +35,7 @@
 		"start": "next start",
 		"test": "jest --clearCache",
 		"format": "prettier --cache --write .",
-		"lint": "eslint"
+		"lint": "eslint . --fix"
 	},
 	"dependencies": {
 		"@capacitor/android": "8.2.0",
