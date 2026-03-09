@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
 	trailingSlash: true,
 	reactCompiler: true,
 	reactStrictMode: true,
+	images: { unoptimized: true },
 	basePath: NODE_ENV === 'development' ? '' : '/chess.clock',
 	output: NODE_ENV === 'development' ? 'standalone' : 'export',
 	distDir: NODE_ENV === 'development' ? '.next' : '../../docs',
