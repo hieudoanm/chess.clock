@@ -1,7 +1,7 @@
 import {
 	LandingContent,
 	LandingTemplate,
-} from '@clock/templates/LandingTemplate';
+} from '@chess.clock/templates/LandingTemplate';
 import { NextPage } from 'next';
 
 const content: LandingContent = {

@@ -1,4 +1,4 @@
-import '@clock/styles/globals.css';
+import '@chess.clock/styles/globals.css';
 import type { AppProps } from 'next/app';
 import { Geist, Geist_Mono } from 'next/font/google';
 import Head from 'next/head';

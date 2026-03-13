@@ -1,4 +1,4 @@
-import { VersionTemplate } from '@clock/templates/VersionTemplate';
+import { VersionTemplate } from '@chess.clock/templates/VersionTemplate';
 import { GetStaticProps, NextPage } from 'next';
 
 type Props = {

@@ -1,4 +1,4 @@
-import { ErrorTemplate } from '@clock/templates/ErrorTemplate';
+import { ErrorTemplate } from '@chess.clock/templates/ErrorTemplate';
 import { NextPage } from 'next';
 
 const messages = [
