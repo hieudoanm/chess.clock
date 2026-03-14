@@ -1,8 +1,8 @@
 {
 	"$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-	"productName": "@chess.clock/app",
-	"version": "0.1.0",
-	"identifier": "com.tauri.dev",
+	"productName": "Check Clock",
+	"version": "0.0.1",
+	"identifier": "io.github.hieudoanm.chess.clock",
 	"build": {
 		"frontendDist": "../../../docs",
 		"devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
 	"app": {
 		"windows": [
 			{
-				"title": "@chess.clock/app",
+				"title": "Chess Clock",
 				"width": 800,
 				"height": 600,
 				"resizable": true,
