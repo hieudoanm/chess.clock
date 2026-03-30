@@ -30,7 +30,7 @@
     "test": "jest",
     "prebuild": "rimraf .next ../../docs",
     "build": "next build --turbopack",
-    "postbuild": "./scripts/sh/post-build.sh",
+    "postbuild": "bash ./scripts/sh/post-build.sh",
     "prestart": "kill-port 3000",
     "start": "next start",
     "tauri": "tauri",
