@@ -39,6 +39,9 @@ Chess Clock is a dedicated timer application for chess games, helping players ma
 - 💻 [CLI](https://github.com/hieudoanm/chess.clock/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/chess.clock/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/chess.clock/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/chess.clock/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/chess.clock/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/chess.clock/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
