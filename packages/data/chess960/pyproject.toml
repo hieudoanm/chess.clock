@@ -1,0 +1,10 @@
+[project]
+name = "chess960"
+version = "0.0.1"
+description = "Chess960"
+readme = "README.md"
+requires-python = "==3.14.4"
+dependencies = [
+    "pandas==3.0.2",
+    "requests==2.33.1",
+]

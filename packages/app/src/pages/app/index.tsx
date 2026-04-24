@@ -25,6 +25,17 @@ const APPS = [
     symbol: '♜',
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
+  {
+    id: 'chess960',
+    href: '/app/random',
+    title: 'Chess960',
+    subtitle: 'Fischer Random',
+    description:
+      'Generate randomized starting positions with 960 unique setups. Break opening theory and play pure chess.',
+    meta: '960 Positions · Random Start',
+    symbol: '♞',
+    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
+  },
 ];
 
 const AppPage: NextPage = () => {
