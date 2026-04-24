@@ -1,439 +1,173 @@
 import { NextPage } from 'next';
-import { useEffect, useRef, useState } from 'react';
-import {
-  FaArrowsRotate,
-  FaPause,
-  FaPlay,
-  FaGear,
-  FaDownload,
-} from 'react-icons/fa6';
+import { useRouter } from 'next/router';
+import { useState } from 'react';
 
-/* ---------------- Utils ---------------- */
-
-const ONE_SECOND = 1000;
-const ONE_MINUTE = 60 * ONE_SECOND;
-const ONE_UNIT = 10;
-
-const addZero = (n: number) => (n < 10 ? `0${n}` : `${n}`);
-
-/* ---------------- Types ---------------- */
-
-type ChessClockSide = 'white' | 'black';
-
-type DelayType = 'none' | 'bronstein' | 'fischer';
-
-type ClockState = {
-  running: boolean;
-  current: ChessClockSide | '';
-  timeControl: { white: string; black: string };
-  milliseconds: { white: number; black: number };
-  increment: { white: number; black: number };
-  delay: number;
-  delayType: DelayType;
-  moves: number;
-  timeout: ChessClockSide | ''; // 👈 ADD
-};
-
-/* ---------------- Presets ---------------- */
-
-const PRESETS = {
-  Bullet: ['1+0', '1+1', '2+1'],
-  Blitz: ['3+0', '3+2', '5+0', '5+2', '5+5'],
-  Rapid: ['10+0', '10+5', '15+0', '15+10', '30+0'],
-};
-
-/* ---------------- Page ---------------- */
+const APPS = [
+  {
+    id: 'chess-clock',
+    href: '/app/clock',
+    title: 'Chess Clock',
+    subtitle: 'Time Control',
+    description:
+      'Manage game time with precision. Supports blitz, rapid, and custom time controls with increment and delay.',
+    meta: 'Blitz · Rapid · Classical',
+    symbol: '♟',
+    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
+  },
+  {
+    id: 'chess-elo',
+    href: '/app/elo',
+    title: 'Elo Calculator',
+    subtitle: 'Rating System',
+    description:
+      'Estimate rating changes based on match results. Input player ratings and outcomes to calculate Elo adjustments.',
+    meta: 'FIDE · Expected Score · K-Factor',
+    symbol: '♜',
+    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
+  },
+];
 
 const AppPage: NextPage = () => {
-  const initial: ClockState = {
-    running: false,
-    current: '',
-    timeControl: { white: '10+0', black: '10+0' },
-    milliseconds: { white: 10 * ONE_MINUTE, black: 10 * ONE_MINUTE },
-    increment: { white: 0, black: 0 },
-    delay: 0,
-    delayType: 'none',
-    moves: 0,
-    timeout: '', // 👈 ADD
-  };
-
-  const [clock, setClock] = useState<ClockState>(initial);
-  const [timer, setTimer] = useState<any>(null);
-  const [showModal, setShowModal] = useState(true);
-
-  /* Bronstein tracking */
-  const delaySpent = useRef<{ white: number; black: number }>({
-    white: 0,
-    black: 0,
-  });
-
-  /* ---------------- Helpers ---------------- */
-
-  const convert = (tc: string) => {
-    const [min, inc] = tc.split('+');
-    return {
-      milliseconds: Number.parseInt(min) * ONE_MINUTE,
-      increment: Number.parseInt(inc),
-    };
-  };
-
-  const format = (ms: number) => {
-    const m = Math.floor(ms / ONE_MINUTE);
-    const remain = ((ms % ONE_MINUTE) / 1000).toFixed(1);
-    const [s, d] = remain.split('.');
-    return `${addZero(m)}:${addZero(Number.parseFloat(s))}.${d}`;
-  };
-
-  /* ---------------- Clock Logic ---------------- */
-
-  const startTurn = (side: ChessClockSide) => {
-    delaySpent.current[side] = 0;
-  };
-
-  const endTurn = (side: ChessClockSide) => {
-    setClock((p) => {
-      let refund = 0;
-
-      if (p.delayType === 'bronstein') {
-        refund = Math.min(delaySpent.current[side], p.delay * ONE_SECOND);
-      }
-
-      if (p.delayType === 'fischer') {
-        refund = p.increment[side] * ONE_SECOND;
-      }
-
-      return {
-        ...p,
-        milliseconds: {
-          ...p.milliseconds,
-          [side]: p.milliseconds[side] + refund,
-        },
-        moves: p.moves + (side === 'black' ? 1 : 0),
-      };
-    });
-  };
-
-  const click = (side: ChessClockSide) => {
-    const other = side === 'white' ? 'black' : 'white';
-
-    if (clock.current) endTurn(side);
-    startTurn(other);
-
-    setClock((p) => ({ ...p, current: other, running: true }));
-
-    clearInterval(timer);
-
-    const t = setInterval(() => {
-      setClock((p) => {
-        if (!p.current) return p;
-
-        let deduction = ONE_UNIT;
-
-        /* Bronstein delay countdown */
-        if (p.delayType === 'bronstein') {
-          const spent = delaySpent.current[p.current];
-          if (spent < p.delay * ONE_SECOND) {
-            delaySpent.current[p.current] += ONE_UNIT;
-            deduction = 0;
-          }
-        }
-
-        const newMs = p.milliseconds[p.current] - deduction;
-
-        if (newMs <= 0) {
-          clearInterval(timer);
-
-          return {
-            ...p,
-            milliseconds: {
-              ...p.milliseconds,
-              [p.current]: 0,
-            },
-            running: false,
-            current: '',
-            timeout: p.current, // 👈 FLAG
-          };
-        }
-
-        return {
-          ...p,
-          milliseconds: {
-            ...p.milliseconds,
-            [p.current]: newMs,
-          },
-        };
-      });
-    }, ONE_UNIT);
-
-    setTimer(t);
-  };
-
-  const pause = () => {
-    clearInterval(timer);
-    setClock((p) => ({ ...p, running: false }));
-  };
-
-  const reset = () => {
-    setClock((p) => {
-      const w = convert(p.timeControl.white);
-      const b = convert(p.timeControl.black);
-
-      return {
-        ...initial,
-        timeControl: p.timeControl,
-        milliseconds: { white: w.milliseconds, black: b.milliseconds },
-        increment: { white: w.increment, black: b.increment },
-        delay: p.delay,
-        delayType: p.delayType,
-      };
-    });
-  };
-
-  /* ---------------- PGN Export ---------------- */
-
-  const exportPGN = () => {
-    const pgn = `[TimeControl "${clock.timeControl.white}"]\n[Moves "${clock.moves}"]`;
-    const blob = new Blob([pgn], { type: 'text/plain' });
-    const url = URL.createObjectURL(blob);
-
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'clock.pgn';
-    a.click();
-  };
-
-  useEffect(() => () => clearInterval(timer), [timer]);
-
-  /* ---------------- UI ---------------- */
+  const router = useRouter();
+  const [hovered, setHovered] = useState<string | null>(null);
 
   return (
-    <div className="bg-base-300 flex h-screen w-screen flex-col">
-      {/* ---------- Modal ---------- */}
-      {showModal && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 p-4 backdrop-blur-md">
-          <form
-            onSubmit={(e) => {
-              e.preventDefault();
-              setShowModal(false);
-            }}
-            className="card bg-base-100 w-full max-w-2xl shadow-2xl">
-            <div className="card-body gap-6">
-              <h2 className="text-lg font-bold">Time Control</h2>
+    <div
+      data-theme="luxury"
+      className="bg-base-100 relative flex min-h-screen w-screen flex-col items-center justify-center overflow-hidden pt-16 pb-14">
+      {/* Vignette */}
+      <div
+        className="pointer-events-none fixed inset-0 z-0"
+        style={{
+          background:
+            'radial-gradient(ellipse at center, transparent 35%, rgba(0,0,0,0.75) 100%)',
+        }}
+      />
 
-              {/* Presets */}
-              <div className="space-y-3">
-                {Object.entries(PRESETS).map(([group, list]) => (
-                  <div key={group}>
-                    <p className="text-sm opacity-60">{group}</p>
-                    <div className="flex flex-wrap gap-2">
-                      {list.map((tc) => (
-                        <button
-                          type="button"
-                          key={tc}
-                          className="btn btn-sm btn-outline"
-                          onClick={() => {
-                            const c = convert(tc);
-                            setClock((p) => ({
-                              ...p,
-                              timeControl: { white: tc, black: tc },
-                              milliseconds: {
-                                white: c.milliseconds,
-                                black: c.milliseconds,
-                              },
-                              increment: {
-                                white: c.increment,
-                                black: c.increment,
-                              },
-                            }));
-                          }}>
-                          {tc}
-                        </button>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
+      {/* Top gold rule */}
+      <div className="via-primary fixed top-0 right-0 left-0 z-10 h-[3px] bg-gradient-to-r from-transparent to-transparent" />
 
-              {/* Separate Custom Inputs */}
-              <div className="grid grid-cols-2 gap-4">
-                <input
-                  type="number"
-                  placeholder="White minutes"
-                  className="input input-bordered"
-                  onChange={(e) => {
-                    const m = parseInt(e.target.value || '0');
-                    setClock((p) => ({
-                      ...p,
-                      milliseconds: {
-                        ...p.milliseconds,
-                        white: m * ONE_MINUTE,
-                      },
-                    }));
-                  }}
-                />
-
-                <input
-                  type="number"
-                  placeholder="Black minutes"
-                  className="input input-bordered"
-                  onChange={(e) => {
-                    const m = Number.parseInt(e.target.value || '0');
-                    setClock((p) => ({
-                      ...p,
-                      milliseconds: {
-                        ...p.milliseconds,
-                        black: m * ONE_MINUTE,
-                      },
-                    }));
-                  }}
-                />
-
-                <input
-                  type="number"
-                  placeholder="White increment"
-                  className="input input-bordered"
-                  onChange={(e) => {
-                    const v = Number.parseInt(e.target.value || '0');
-                    setClock((p) => ({
-                      ...p,
-                      increment: { ...p.increment, white: v },
-                    }));
-                  }}
-                />
-
-                <input
-                  type="number"
-                  placeholder="Black increment"
-                  className="input input-bordered"
-                  onChange={(e) => {
-                    const v = Number.parseInt(e.target.value || '0');
-                    setClock((p) => ({
-                      ...p,
-                      increment: { ...p.increment, black: v },
-                    }));
-                  }}
-                />
-              </div>
-
-              {/* Delay */}
-              <div className="grid grid-cols-2 gap-4">
-                <select
-                  className="select select-bordered"
-                  value={clock.delayType}
-                  onChange={(e) =>
-                    setClock((p) => ({
-                      ...p,
-                      delayType: e.target.value as DelayType,
-                    }))
-                  }>
-                  <option value="none">No Delay</option>
-                  <option value="bronstein">Bronstein</option>
-                  <option value="fischer">Fischer</option>
-                </select>
-
-                <input
-                  type="number"
-                  placeholder="Delay sec"
-                  className="input input-bordered"
-                  onChange={(e) =>
-                    setClock((p) => ({
-                      ...p,
-                      delay: Number.parseInt(e.target.value || '0'),
-                    }))
-                  }
-                />
-              </div>
-
-              <button className="btn">Start</button>
-            </div>
-          </form>
+      {/* Header */}
+      <div className="relative z-10 mb-16 flex flex-col items-center gap-3 text-center">
+        <span className="text-primary/40 text-[0.55rem] tracking-[0.5em] uppercase">
+          Chess Toolkit
+        </span>
+        <h1 className="text-base-content font-serif text-4xl font-bold tracking-wide">
+          Chess Apps
+        </h1>
+        <div className="mt-1 flex items-center gap-3">
+          <div className="bg-primary/30 h-px w-12" />
+          <div className="bg-primary h-1 w-1 rounded-full" />
+          <div className="bg-primary/30 h-px w-12" />
         </div>
-      )}
-
-      {/* ---------- Clock ---------- */}
-      <div className="flex h-full flex-col">
-        {/* Times */}
-        <div className="grid flex-1 grid-cols-1 md:grid-cols-2">
-          <button
-            className={`flex items-center justify-center p-6 text-6xl font-bold md:text-9xl ${
-              clock.timeout === 'white'
-                ? 'bg-error text-error-content'
-                : clock.current === 'white'
-                  ? 'bg-secondary text-secondary-content'
-                  : 'bg-base-100'
-            }`}
-            onClick={() => click('white')}>
-            {format(clock.milliseconds.white)}
-          </button>
-
-          <button
-            className={`flex items-center justify-center p-6 text-6xl font-bold md:text-9xl ${
-              clock.timeout === 'black'
-                ? 'bg-error text-error-content'
-                : clock.current === 'black'
-                  ? 'bg-secondary text-secondary-content'
-                  : 'bg-base-200'
-            }`}
-            onClick={() => click('black')}>
-            {format(clock.milliseconds.black)}
-          </button>
-        </div>
-
-        {/* Bottom Controls */}
-        <div className="bg-base-300 grid grid-cols-4 gap-2 p-3 md:grid-cols-4">
-          <button
-            className="btn btn-base flex items-center justify-center"
-            onClick={() => setShowModal(true)}>
-            <FaGear />
-          </button>
-
-          <button
-            className="btn btn-base flex items-center justify-center"
-            onClick={() => {
-              // If time is over → reset
-              if (clock.timeout) {
-                reset();
-                return;
-              }
-
-              // Running → pause
-              if (clock.running) {
-                pause();
-                return;
-              }
-
-              // Paused → resume
-              if (!clock.running && clock.current !== '') {
-                click(clock.current === 'white' ? 'black' : 'white');
-              }
-            }}>
-            {clock.timeout ? (
-              <FaArrowsRotate />
-            ) : clock.running ? (
-              <FaPause />
-            ) : (
-              <FaPlay />
-            )}
-          </button>
-
-          <button
-            className="btn flex items-center justify-center"
-            onClick={reset}>
-            <FaArrowsRotate />
-          </button>
-
-          <button
-            className="btn flex items-center justify-center"
-            onClick={exportPGN}>
-            <FaDownload />
-          </button>
-        </div>
-
-        {/* Move Counter */}
-        <div className="pointer-events-none absolute top-2 left-1/2 -translate-x-1/2">
-          <div className="badge badge-primary badge-lg">Move {clock.moves}</div>
-        </div>
+        <p className="text-base-content/40 mt-1 text-[0.65rem] tracking-[0.2em] uppercase">
+          Select a tool to begin
+        </p>
       </div>
+
+      {/* Cards */}
+      <div className="relative z-10 flex w-full max-w-3xl flex-col items-stretch justify-center gap-px px-6 sm:flex-row">
+        {APPS.map((app, i) => {
+          const isHovered = hovered === app.id;
+          return (
+            <button
+              key={app.id}
+              onClick={() => router.push(app.href)}
+              onMouseEnter={() => setHovered(app.id)}
+              onMouseLeave={() => setHovered(null)}
+              className={[
+                'group relative flex flex-col items-center justify-between gap-8',
+                'flex-1 cursor-pointer px-8 py-10 text-center',
+                'border-primary/10 border transition-all duration-500',
+                'focus-visible:ring-primary outline-none focus-visible:ring-1',
+                isHovered
+                  ? 'bg-primary/[0.06] border-primary/30'
+                  : 'bg-base-100/40 hover:bg-primary/[0.04]',
+                i === 0 ? 'sm:rounded-l-none' : '',
+                i === APPS.length - 1 ? 'sm:rounded-r-none' : '',
+              ].join(' ')}>
+              {/* Number */}
+              <span className="text-primary/20 self-start text-[0.5rem] tracking-[0.4em] uppercase">
+                0{i + 1}
+              </span>
+
+              {/* Symbol */}
+              <div
+                className={[
+                  'text-base-content transition-all duration-500',
+                  isHovered
+                    ? 'text-primary scale-110 opacity-90'
+                    : 'opacity-25',
+                ].join(' ')}>
+                <span className={app.symbolClass}>{app.symbol}</span>
+              </div>
+
+              {/* Text */}
+              <div className="flex flex-col items-center gap-2">
+                <div className="flex flex-col items-center gap-0.5">
+                  <h2 className="text-base-content font-serif text-lg font-bold tracking-wider">
+                    {app.title}
+                  </h2>
+                  <span className="text-primary/60 text-[0.6rem] tracking-[0.3em] uppercase">
+                    {app.subtitle}
+                  </span>
+                </div>
+
+                <div className="bg-primary/15 my-1 h-px w-8" />
+
+                <p className="text-base-content/40 max-w-[180px] text-[0.65rem] leading-relaxed tracking-wide">
+                  {app.description}
+                </p>
+
+                <span className="text-primary/30 mt-1 text-[0.55rem] tracking-[0.2em] uppercase">
+                  {app.meta}
+                </span>
+              </div>
+
+              {/* CTA */}
+              <div
+                className={[
+                  'flex items-center gap-2 transition-all duration-300',
+                  isHovered
+                    ? 'translate-y-0 opacity-100'
+                    : 'translate-y-1 opacity-0',
+                ].join(' ')}>
+                <span className="text-primary text-[0.6rem] tracking-[0.3em] uppercase">
+                  Begin
+                </span>
+                <svg width="12" height="12" viewBox="0 0 16 16" fill="none">
+                  <path
+                    d="M4 8h8M8 4l4 4-4 4"
+                    stroke="currentColor"
+                    strokeWidth="1.4"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    className="text-primary"
+                  />
+                </svg>
+              </div>
+
+              {/* Hover border glow bottom */}
+              <div
+                className={[
+                  'via-primary absolute right-0 bottom-0 left-0 h-[2px] bg-gradient-to-r from-transparent to-transparent transition-all duration-500',
+                  isHovered ? 'opacity-100' : 'opacity-0',
+                ].join(' ')}
+              />
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Footer note */}
+      <div className="relative z-10 mt-12 text-center">
+        <p className="text-base-content/20 text-[0.5rem] tracking-[0.25em] uppercase">
+          Control time precisely · Track and improve your rating
+        </p>
+      </div>
+
+      {/* Bottom gold rule */}
+      <div className="via-primary fixed right-0 bottom-0 left-0 z-10 h-[3px] bg-gradient-to-r from-transparent to-transparent" />
     </div>
   );
 };
