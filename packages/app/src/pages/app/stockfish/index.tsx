@@ -1,20 +1,63 @@
 import { Chessboard } from '@chess/components/ChessBoard';
 import { useStockfish } from '@chess/hooks/use-stockfish';
+import { INITIAL_GAME, INITIAL_ID } from '@chess/constants/app';
+import { chess960 } from '@chess/data/chess960';
+import { chess960BackRankToInitialFEN } from '@chess/utils/chess/fen';
+import { addZero, range } from '@chess/utils/number';
 import { Chess } from 'chess.js';
 import { NextPage } from 'next';
-import { useEffect, useRef, useState } from 'react';
+import { ChangeEvent, useEffect, useRef, useState } from 'react';
+import { PiShuffle, PiRobot, PiEye } from 'react-icons/pi';
 import { PieceDataType } from 'react-chessboard';
 
-const START_FEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1';
+type Mode = 'explore' | 'play';
 
 const StockfishPage: NextPage = () => {
-  const gameRef = useRef(new Chess(START_FEN));
-  const [fen, setFen] = useState(START_FEN);
+  const gameRef = useRef<Chess>(INITIAL_GAME);
+
+  const [id, setId] = useState<number>(INITIAL_ID);
+  const [fen, setFen] = useState<string>(INITIAL_GAME.fen());
+  const [mode, setMode] = useState<Mode>('explore');
   const [thinking, setThinking] = useState(false);
 
   const { analyze, bestMove, evaluation } = useStockfish();
 
-  /* ---------------- PLAYER MOVE ---------------- */
+  /* ─── helpers ─── */
+
+  const buildGame = (positionId: number): Chess => {
+    const position = chess960[positionId] ?? '';
+    const startFen = chess960BackRankToInitialFEN(position);
+    return new Chess(startFen);
+  };
+
+  const syncState = (newId: number, newGame: Chess) => {
+    gameRef.current = newGame;
+    setId(newId);
+    setFen(newGame.fen());
+    setThinking(false);
+  };
+
+  /* ─── position select / randomize ─── */
+
+  const handleSelectChange = (event: ChangeEvent<HTMLSelectElement>) => {
+    const newId = Number.parseInt(event.target.value, 10) ?? 0;
+    syncState(newId, buildGame(newId));
+  };
+
+  const randomize = () => {
+    const newId = Math.floor(Math.random() * 960);
+    syncState(newId, buildGame(newId));
+  };
+
+  /* ─── mode switch ─── */
+
+  const switchMode = (next: Mode) => {
+    // Reset to the current 960 starting position when switching
+    syncState(id, buildGame(id));
+    setMode(next);
+  };
+
+  /* ─── player move (play mode only) ─── */
 
   const onPieceDrop = ({
     sourceSquare,
@@ -23,48 +66,43 @@ const StockfishPage: NextPage = () => {
     sourceSquare: string;
     targetSquare: string | null;
   }): boolean => {
+    if (mode !== 'play') return false;
     const game = gameRef.current;
-
-    // Only allow white moves
     if (game.turn() !== 'w') return false;
 
     let move = null;
-
     try {
       move = game.move({
         from: sourceSquare,
         to: targetSquare ?? '',
         promotion: 'q',
       });
-    } catch (error) {
-      console.error(error);
+    } catch (e) {
+      console.error(e);
     }
 
     if (!move) return false;
 
     setFen(game.fen());
     setThinking(true);
-
     return true;
   };
 
-  /* ---------------- ENGINE THINK ---------------- */
+  /* ─── trigger engine after white move ─── */
 
   useEffect(() => {
+    if (mode !== 'play') return;
     const game = gameRef.current;
-
     if (game.turn() === 'b' && !game.isGameOver()) {
       analyze(game.fen(), 15);
     }
-  }, [fen]);
+  }, [fen, mode]);
 
-  /* ---------------- APPLY ENGINE MOVE ---------------- */
+  /* ─── apply engine move ─── */
 
   useEffect(() => {
-    if (!bestMove) return;
-
+    if (!bestMove || mode !== 'play') return;
     const game = gameRef.current;
-
     if (game.turn() !== 'b') return;
 
     const move = game.move({
@@ -73,14 +111,11 @@ const StockfishPage: NextPage = () => {
       promotion: 'q',
     });
 
-    if (move) {
-      setFen(game.fen());
-    }
-
+    if (move) setFen(game.fen());
     setThinking(false);
-  }, [bestMove]);
+  }, [bestMove, mode]);
 
-  /* ---------------- DRAG RULES ---------------- */
+  /* ─── drag rules ─── */
 
   const canDragPiece = ({
     piece,
@@ -89,41 +124,89 @@ const StockfishPage: NextPage = () => {
     piece: PieceDataType;
     square: string | null;
   }) => {
-    // Only allow white pieces
+    if (mode === 'explore') return false;
     return piece.pieceType.startsWith('w');
   };
 
-  const resetGame = () => {
-    const game = new Chess(START_FEN);
+  /* ─── eval bar ─── */
 
-    gameRef.current = game;
-    setFen(game.fen());
-    setThinking(false);
-
-    // Stop engine + re-init position
-    analyze(game.fen(), 10);
-  };
-
-  // Convert centipawn → percentage
   const evalPercent = (() => {
-    if (evaluation === null) return 50;
-
-    // Clamp eval (-1000 → +1000 cp)
+    if (evaluation === null || mode !== 'play') return 50;
     const clamped = Math.max(-1000, Math.min(1000, evaluation));
-
-    // Convert to 0–100 scale
     return 50 + clamped / 20;
   })();
 
-  /* ---------------- UI ---------------- */
+  const evalLabel = (() => {
+    if (evaluation === null || mode !== 'play') return '0.0';
+    return (evaluation / 100).toFixed(1);
+  })();
+
+  /* ─── game status ─── */
+
+  const statusLabel = (() => {
+    const game = gameRef.current;
+    if (mode !== 'play') return null;
+    if (game.isCheckmate()) return 'Checkmate!';
+    if (game.isDraw()) return 'Draw';
+    if (game.isCheck()) return 'Check!';
+    if (thinking) return 'Stockfish is thinking…';
+    return game.turn() === 'w' ? 'Your move' : null;
+  })();
+
+  /* ─── UI ─── */
 
   return (
-    <div className="bg-base-200 flex h-screen w-screen items-center justify-center">
-      <div className="w-full max-w-md space-y-4 p-4 md:p-8">
-        <h1 className="text-center text-2xl font-bold">Stockfish 18</h1>
+    <div className="bg-base-200 flex min-h-screen w-screen items-center justify-center p-4 md:p-8">
+      <div className="flex w-full max-w-md flex-col gap-y-4">
+        {/* Header */}
+        <div className="flex items-center justify-between">
+          <h1 className="text-2xl font-black md:text-3xl">
+            Chess{' '}
+            <select
+              id="id"
+              name="id"
+              value={id}
+              className="appearance-none font-black"
+              onChange={handleSelectChange}>
+              {range(0, 959).map((i: number) => (
+                <option key={i} value={i}>
+                  {addZero(i, 3)}
+                </option>
+              ))}
+            </select>
+          </h1>
 
+          <div className="flex items-center gap-2">
+            <button
+              type="button"
+              className="btn btn-ghost btn-sm"
+              title="Randomize position"
+              onClick={randomize}>
+              <PiShuffle />
+            </button>
+          </div>
+        </div>
+
+        {/* Mode tabs */}
+        <div role="tablist" className="tabs tabs-boxed">
+          <button
+            role="tab"
+            className={`tab gap-1 ${mode === 'explore' ? 'tab-active' : ''}`}
+            onClick={() => switchMode('explore')}>
+            <PiEye />
+            Explore
+          </button>
+          <button
+            role="tab"
+            className={`tab gap-1 ${mode === 'play' ? 'tab-active' : ''}`}
+            onClick={() => switchMode('play')}>
+            <PiRobot />
+            Play vs Stockfish
+          </button>
+        </div>
+
+        {/* Board + Eval bar */}
         <div className="flex items-stretch gap-2">
-          {/* Chessboard */}
           <div className="border-base-content/20 flex-1 overflow-hidden rounded border">
             <Chessboard
               allowDragging
@@ -133,26 +216,38 @@ const StockfishPage: NextPage = () => {
             />
           </div>
 
-          {/* Eval Bar */}
-          <div className="border-base-content/20 bg-base-100 relative h-[400px] w-6 overflow-hidden rounded border">
-            {/* White advantage */}
+          {/* Eval bar — visible in play mode only */}
+          <div
+            className={`border-base-content/20 bg-base-100 relative w-6 overflow-hidden rounded border transition-opacity duration-300 ${
+              mode === 'play' ? 'opacity-100' : 'pointer-events-none opacity-0'
+            }`}>
             <div
               className="absolute bottom-0 w-full bg-white transition-all duration-300"
               style={{ height: `${evalPercent}%` }}
             />
-
-            {/* Divider line */}
             <div className="bg-base-content/40 absolute inset-x-0 top-1/2 h-[2px] -translate-y-1/2" />
-
             <div className="absolute bottom-1 left-1/2 -translate-x-1/2 text-[8px] font-bold">
-              {evaluation ? (evaluation / 100).toFixed(1) : '0.0'}
+              {evalLabel}
             </div>
           </div>
         </div>
 
-        <button className="btn btn-primary btn-sm w-full" onClick={resetGame}>
-          Reset Game
-        </button>
+        {/* Status / reset */}
+        <div className="flex items-center justify-between gap-2">
+          <p className="text-base-content/60 text-sm">
+            {statusLabel ??
+              (mode === 'explore'
+                ? 'Drag disabled — switch to Play to move'
+                : '')}
+          </p>
+          {mode === 'play' && (
+            <button
+              className="btn btn-primary btn-sm"
+              onClick={() => switchMode('play')}>
+              Reset
+            </button>
+          )}
+        </div>
       </div>
     </div>
   );

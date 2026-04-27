@@ -12,7 +12,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0z9v6zqny5_3q.js"
   ],
   "/app": [
-    "static/chunks/0iqirlx8xlazj.js"
+    "static/chunks/0iwv1fy6ux.t2.js"
   ],
   "/app/clock": [
     "static/chunks/17g_au07a5-72.js"
@@ -21,16 +21,13 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0vj96dwdsxiv9.js"
   ],
   "/app/graphics": [
-    "static/chunks/0bz6w6enl3gd..js"
+    "static/chunks/11vxr~.geaehs.js"
   ],
   "/app/openings": [
     "static/chunks/0c6hc7_yx_.rt.js"
   ],
-  "/app/random": [
-    "static/chunks/13kkkx8~lugns.js"
-  ],
   "/app/stockfish": [
-    "static/chunks/05tnpuwtx4.w6.js"
+    "static/chunks/0vns33a5zjmx1.js"
   ],
   "/downloads": [
     "static/chunks/0nfimjla0g7x-.js"
@@ -54,7 +51,6 @@ self.__BUILD_MANIFEST = {
     "/app/elo",
     "/app/graphics",
     "/app/openings",
-    "/app/random",
     "/app/stockfish",
     "/downloads",
     "/version"
