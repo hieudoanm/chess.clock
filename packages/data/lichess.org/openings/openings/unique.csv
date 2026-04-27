@@ -36,8 +36,8 @@ B02,Alekhine Defense,The Squirrel,Alekhine Defense: The Squirrel,1. e4 Nf6 2. e5
 B02,Alekhine Defense,Two Pawns Attack,"Alekhine Defense: Two Pawns Attack, Tate Variation",1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. a4,e4-Nf6,7,rnbqkb1r/pppppppp/1n6/4P3/P1P5/8/1P1P1PPP/RNBQKBNR b KQkq - 0 4,-0.29,black,7
 B02,Alekhine Defense,Welling Variation,Alekhine Defense: Welling Variation,1. e4 Nf6 2. e5 Nd5 3. b3,e4-Nf6,5,rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 3,0.4,white,5
 A00,Amar Opening,Paris Gambit,"Amar Opening: Paris Gambit, Gent Gambit",1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3,Nh3-d5,11,rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq - 0 6,1.08,white,1
-D00,Amazon Attack,,Amazon Attack,1. d4 d5 2. Qd3,d4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq - 1 2,0.5,white,3
 A45,Amazon Attack,Siberian Attack,Amazon Attack: Siberian Attack,1. d4 Nf6 2. Nc3 d5 3. Qd3,d4-Nf6,5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2NQ4/PPP1PPPP/R1B1KBNR b KQkq - 1 3,0.85,white,5
+D00,Amazon Attack,,Amazon Attack,1. d4 d5 2. Qd3,d4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq - 1 2,0.5,white,3
 A00,Amsterdam Attack,,Amsterdam Attack,1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6,e3-e5,8,r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq - 1 5,0.19,white,3
 A00,Anderssen's Opening,Polish Gambit,Anderssen's Opening: Polish Gambit,1. a3 a5 2. b4,a3-a5,3,rnbqkbnr/1ppppppp/8/p7/1P6/P7/2PPPPPP/RNBQKBNR b KQkq - 0 2,0.86,white,2
 A40,Australian Defense,,Australian Defense,1. d4 Na6,d4-Na6,2,r1bqkbnr/pppppppp/n7/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,1.04,white,2
@@ -46,11 +46,11 @@ A00,Barnes Opening,Gedult Gambit,Barnes Opening: Gedult Gambit,1. f3 d5 2. e4 g6
 A00,Barnes Opening,Gedult Gambit,Barnes Opening: Gedult Gambit,1. f3 f5 2. e4 fxe4 3. Nc3,f3-f5,5,rnbqkbnr/ppppp1pp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq - 1 3,-0.32,black,2
 A00,Barnes Opening,Hammerschlag,Barnes Opening: Hammerschlag,1. f3 e5 2. Kf2,f3-e5,3,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2,1.7,white,3
 C20,Barnes Opening,Walkerling,Barnes Opening: Walkerling,1. f3 e5 2. e4 Nf6 3. Bc4,f3-e5,5,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5P2/PPPP2PP/RNBQK1NR b KQkq - 2 3,1.25,white,3
-A59,Benko Gambit,,Benko Gambit,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8. Kxf1 d6 9. g3,d4-Nf6,17,rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq - 0 9,-0.81,black,17
 A58,Benko Gambit,Fianchetto Variation,Benko Gambit: Fianchetto Variation,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3,d4-Nf6,15,rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 8,-0.6,black,15
 A57,Benko Gambit,Mutkin Countergambit,Benko Gambit: Mutkin Countergambit,1. d4 Nf6 2. c4 c5 3. d5 b5 4. g4,d4-Nf6,7,rnbqkb1r/p2ppppp/5n2/1ppP4/2P3P1/8/PP2PP1P/RNBQKBNR b KQkq - 0 4,0.76,white,7
 A58,Benko Gambit,Nd2 Variation,Benko Gambit: Nd2 Variation,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2,d4-Nf6,15,rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N5/PP1NPPPP/R1BQKB1R b KQkq - 1 8,-0.36,black,15
 A57,Benko Gambit,Nescafe Frappe Attack,Benko Gambit: Nescafe Frappe Attack,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4,d4-Nf6,15,rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq - 1 8,0.63,white,9
+A59,Benko Gambit,,Benko Gambit,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8. Kxf1 d6 9. g3,d4-Nf6,17,rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq - 0 9,-0.81,black,17
 A58,Benko Gambit Accepted,Central Storming Variation,Benko Gambit Accepted: Central Storming Variation,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. f4,d4-Nf6,13,rn1qkb1r/3ppp1p/b4np1/2pP4/5P2/2N5/PP2P1PP/R1BQKBNR b KQkq - 0 7,-0.24,black,13
 A57,Benko Gambit Accepted,Dlugy Variation,Benko Gambit Accepted: Dlugy Variation,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3,d4-Nf6,9,rnbqkb1r/3ppppp/p4n2/1PpP4/8/5P2/PP2P1PP/RNBQKBNR b KQkq - 0 5,-0.1,black,9
 A58,Benko Gambit Accepted,Fianchetto Variation,Benko Gambit Accepted: Fianchetto Variation,1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2 Bg7 9. Nf3,d4-Nf6,17,rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 3 9,-0.68,black,13
@@ -553,7 +553,7 @@ C13,French Defense,Classical Variation,"French Defense: Classical Variation, Fra
 C14,French Defense,Classical Variation,"French Defense: Classical Variation, Pollock Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qg4,e4-e6,13,rnb1k2r/pppnqppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R3KBNR b KQkq - 1 7,0.04,white,13
 C13,French Defense,Classical Variation,"French Defense: Classical Variation, Richter Attack",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4,e4-e6,13,rnbqk2r/ppp1bppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R3KBNR b KQkq - 2 7,0.71,white,9
 C14,French Defense,Classical Variation,"French Defense: Classical Variation, Rubinstein Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qd2,e4-e6,13,rnb1k2r/pppnqppp/4p3/3pP3/3P4/2N5/PPPQ1PPP/R3KBNR b KQkq - 1 7,-0.42,black,13
-C11,French Defense,Classical Variation,"French Defense: Classical Variation, Shirov-A""""d Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2,e4-e6,9,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/8/PPP1NPPP/R1BQKBNR b KQkq - 2 5,-0.22,black,9
+C11,French Defense,Classical Variation,"French Defense: Classical Variation, Shirov-Anand Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2,e4-e6,9,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/8/PPP1NPPP/R1BQKBNR b KQkq - 2 5,-0.22,black,9
 C14,French Defense,Classical Variation,"French Defense: Classical Variation, Stahlberg Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 O-O 8. Nf3 c5 9. Qd2 Nc6 10. O-O-O c4,e4-e6,20,r1b2rk1/pp1nqppp/2n1p3/3pP3/2pP1P2/2N2N2/PPPQ2PP/2KR1B1R w - - 0 11,0.64,white,13
 C11,French Defense,Classical Variation,"French Defense: Classical Variation, Swiss Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3,e4-e6,7,rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 3 4,0.11,white,7
 C14,French Defense,Classical Variation,"French Defense: Classical Variation, Tarrasch Variation",1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Bd3,e4-e6,13,rnb1k2r/pppnqppp/4p3/3pP3/3P4/2NB4/PPP2PPP/R2QK1NR b KQkq - 1 7,-0.24,black,13
@@ -721,7 +721,6 @@ A00,Hungarian Opening,Symmetrical Variation,Hungarian Opening: Symmetrical Varia
 A00,Hungarian Opening,Van Kuijk Gambit,Hungarian Opening: Van Kuijk Gambit,1. g3 h5 2. Nf3 h4,g3-h5,4,rnbqkbnr/ppppppp1/8/8/7p/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3,1.14,white,2
 A07,Hungarian Opening,Wiedenhagen-Beta Gambit,Hungarian Opening: Wiedenhagen-Beta Gambit,1. g3 d5 2. Nf3 g5,g3-d5,4,rnbqkbnr/ppp1pp1p/8/3p2p1/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3,1.53,white,3
 A00,Hungarian Opening,Winterberg Gambit,Hungarian Opening: Winterberg Gambit,1. g3 d5 2. Bg2 e5 3. c4 dxc4 4. b3,g3-d5,7,rnbqkbnr/ppp2ppp/8/4p3/2p5/1P4P1/P2PPPBP/RNBQK1NR b KQkq - 0 4,0.72,white,5
-E00,Indian Defense,,Indian Defense,1. d4 Nf6 2. c4 e6 3. Qb3,d4-Nf6,5,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/1Q6/PP2PPPP/RNB1KBNR b KQkq - 1 3,0.34,white,5
 A45,Indian Defense,Accelerated London System,Indian Defense: Accelerated London System,1. d4 Nf6 2. Bf4,d4-Nf6,3,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,-0.16,black,3
 E60,Indian Defense,Anti-Grünfeld,"Indian Defense: Anti-Grünfeld, Adorjan Gambit",1. d4 Nf6 2. c4 g6 3. d5 b5,d4-Nf6,6,rnbqkb1r/p1pppp1p/5np1/1p1P4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,0.12,white,5
 E60,Indian Defense,Anti-Grünfeld,"Indian Defense: Anti-Grünfeld, Alekhine Variation, Leko Gambit",1. d4 Nf6 2. c4 g6 3. f3 e5,d4-Nf6,6,rnbqkb1r/pppp1p1p/5np1/4p3/2PP4/5P2/PP2P1PP/RNBQKBNR w KQkq - 0 4,0.92,white,6
@@ -757,6 +756,7 @@ A47,Indian Defense,Schnepper Gambit,Indian Defense: Schnepper Gambit,1. d4 Nf6 2
 E00,Indian Defense,Seirawan Attack,Indian Defense: Seirawan Attack,1. d4 Nf6 2. c4 e6 3. Bg5,d4-Nf6,5,rnbqkb1r/pppp1ppp/4pn2/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq - 1 3,0.05,white,5
 A45,Indian Defense,Tartakower Attack,Indian Defense: Tartakower Attack,1. d4 Nf6 2. g3,d4-Nf6,3,rnbqkb1r/pppppppp/5n2/8/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2,0.03,white,3
 A46,Indian Defense,Wade-Tartakower Defense,Indian Defense: Wade-Tartakower Defense,1. d4 Nf6 2. Nf3 d6,d4-Nf6,4,rnbqkb1r/ppp1pppp/3p1n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,0.54,white,4
+E00,Indian Defense,,Indian Defense,1. d4 Nf6 2. c4 e6 3. Qb3,d4-Nf6,5,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/1Q6/PP2PPPP/RNB1KBNR b KQkq - 1 3,0.34,white,5
 C50,Italian Game,Anti-Fried Liver Defense,Italian Game: Anti-Fried Liver Defense,1. e4 e5 2. Nf3 Nc6 3. Bc4 h6,e4-e5,6,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,0.59,white,6
 C53,Italian Game,Bird's Attack,Italian Game: Bird's Attack,1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. b4,e4-e5,9,r1bqk2r/pppp1ppp/2n2n2/2b1p3/1PB1P3/2P2N2/P2P1PPP/RNBQK2R b KQkq - 0 5,-0.04,black,9
 C50,Italian Game,Blackburne-Kostić Gambit,Italian Game: Blackburne-Kostić Gambit,1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4,e4-e5,6,r1bqkbnr/pppp1ppp/8/4p3/2BnP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,1.11,white,6
@@ -1108,9 +1108,9 @@ C20,King's Pawn Game,Tortoise Opening,King's Pawn Game: Tortoise Opening,1. e4 e
 C20,King's Pawn Game,Wayward Queen Attack,"King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit",1. e4 e5 2. Qh5 Nf6,e4-e5,4,rnbqkb1r/pppp1ppp/5n2/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,-0.15,black,4
 C20,King's Pawn Game,Wayward Queen Attack,"King's Pawn Game: Wayward Queen Attack, Mellon Gambit",1. e4 e5 2. Qh5 Nc6 3. Bc4 Nh6 4. d3 g6 5. Qf3 f6 6. Ne2 d5,e4-e5,12,r1bqkb1r/ppp4p/2n2ppn/3pp3/2B1P3/3P1Q2/PPP1NPPP/RNB1K2R w KQkq - 0 7,1.62,white,4
 C20,King's Pawn Game,Weber Gambit,King's Pawn Game: Weber Gambit,1. e4 e5 2. d3 d5 3. exd5 c6 4. dxc6 Nxc6,e4-e5,8,r1bqkbnr/pp3ppp/2n5/4p3/8/3P4/PPP2PPP/RNBQKBNR w KQkq - 0 5,0.45,white,4
-C20,King's Pawn Opening,,King's Pawn Opening,1. e4 e5 2. b3,e4-e5,3,rnbqkbnr/pppp1ppp/8/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,0.75,white,3
 C20,King's Pawn Opening,Speers,King's Pawn Opening: Speers,1. e4 e5 2. Qg4 Nf6 3. Qf5,e4-e5,5,rnbqkb1r/pppp1ppp/5n2/4pQ2/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 3 3,2.32,white,3
 C20,King's Pawn Opening,Van Hooydoon Gambit,King's Pawn Opening: Van Hooydoon Gambit,1. e4 e5 2. Qe2 Nc6 3. c3 Nf6 4. Nf3 Bc5 5. d4 exd4 6. cxd4 Nxd4,e4-e5,12,r1bqk2r/pppp1ppp/5n2/2b5/3nP3/5N2/PP2QPPP/RNB1KB1R w KQkq - 0 7,-1.34,black,3
+C20,King's Pawn Opening,,King's Pawn Opening,1. e4 e5 2. b3,e4-e5,3,rnbqkbnr/pppp1ppp/8/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,0.75,white,3
 A00,Kádas Opening,Beginner's Trap,Kádas Opening: Beginner's Trap,1. h4 d5 2. Rh3,h4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq - 1 2,2.78,white,3
 A00,Kádas Opening,Koola-Koola Variation,Kádas Opening: Koola-Koola Variation,1. h4 a5,h4-a5,2,rnbqkbnr/1ppppppp/8/p7/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2,0.43,white,2
 A00,Kádas Opening,Kádas Gambit,Kádas Opening: Kádas Gambit,1. h4 c5 2. b4,h4-c5,3,rnbqkbnr/pp1ppppp/8/2p5/1P5P/8/P1PPPPP1/RNBQKBNR b KQkq - 0 2,1.16,white,2
@@ -1134,12 +1134,12 @@ C40,Latvian Gambit,Mayet Attack,"Latvian Gambit: Mayet Attack, Polerio-Svedenbor
 C40,Latvian Gambit,Mayet Attack,"Latvian Gambit: Mayet Attack, Strautins Gambit",1. e4 e5 2. Nf3 f5 3. Bc4 b5,e4-e5,6,rnbqkbnr/p1pp2pp/8/1p2pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,1.61,white,6
 C40,Latvian Gambit,Mlotkowski Variation,Latvian Gambit: Mlotkowski Variation,1. e4 e5 2. Nf3 f5 3. Nc3,e4-e5,5,rnbqkbnr/pppp2pp/8/4pp2/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,-1.27,black,5
 C40,Latvian Gambit,Senechaud Gambit,Latvian Gambit: Senechaud Gambit,1. e4 e5 2. Nf3 f5 3. b4,e4-e5,5,rnbqkbnr/pppp2pp/8/4pp2/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3,1.1,white,5
-C40,Latvian Gambit Accepted,,Latvian Gambit Accepted,1. e4 e5 2. Nf3 f5 3. exf5,e4-e5,5,rnbqkbnr/pppp2pp/8/4pP2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,-0.95,black,5
 C40,Latvian Gambit Accepted,Bronstein Attack,Latvian Gambit Accepted: Bronstein Attack,1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Be2,e4-e5,11,rnb1kbnr/ppp3pp/3p1q2/8/2NPp3/8/PPP1BPPP/RNBQK2R b KQkq - 1 6,-1.3,black,11
 C40,Latvian Gambit Accepted,Bronstein Gambit,Latvian Gambit Accepted: Bronstein Gambit,1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Qh5+ g6 7. Qe2,e4-e5,13,rnb1kbnr/ppp4p/3p1qp1/8/2NPp3/8/PPP1QPPP/RNB1KB1R b KQkq - 1 7,0.61,white,11
 C40,Latvian Gambit Accepted,Foltys Variation,Latvian Gambit Accepted: Foltys Variation,1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. d3,e4-e5,9,rnb1kbnr/pppp2pp/5q2/8/2N1p3/3P4/PPP2PPP/RNBQKB1R b KQkq - 0 5,-0.69,black,9
 C40,Latvian Gambit Accepted,Leonhardt Variation,Latvian Gambit Accepted: Leonhardt Variation,1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. Nc4 fxe4 5. Nc3,e4-e5,9,rnb1kbnr/pppp2pp/5q2/8/2N1p3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 1 5,-1.47,black,9
 C40,Latvian Gambit Accepted,Nimzowitsch Attack,Latvian Gambit Accepted: Nimzowitsch Attack,1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Ne3,e4-e5,11,rnb1kbnr/ppp3pp/3p1q2/8/3Pp3/4N3/PPP2PPP/RNBQKB1R b KQkq - 1 6,-1.1,black,11
+C40,Latvian Gambit Accepted,,Latvian Gambit Accepted,1. e4 e5 2. Nf3 f5 3. exf5,e4-e5,5,rnbqkbnr/pppp2pp/8/4pP2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,-0.95,black,5
 B00,Lemming Defense,,Lemming Defense,1. e4 Na6,e4-Na6,2,r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,1.21,white,2
 B07,Lion Defense,Anti-Philidor,"Lion Defense: Anti-Philidor, Lion's Cave, Lion Claw Gambit",1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Bc4 d5,e4-d6,14,r1bqkb1r/pp1n1ppp/2p2n2/3p4/2BQPP2/2N2N2/PPP3PP/R1B1K2R w KQkq - 0 8,-0.09,black,7
 B07,Lion Defense,Bayonet Attack,Lion Defense: Bayonet Attack,1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. g4,e4-d6,7,r1bqkb1r/pppnpppp/3p1n2/8/3PP1P1/2N5/PPP2P1P/R1BQKBNR b KQkq - 0 4,-0.56,black,7
@@ -1412,7 +1412,6 @@ C44,Ponziani Opening,Vukovic Gambit,Ponziani Opening: Vukovic Gambit,1. e4 e5 2.
 C20,Portuguese Opening,Miguel Gambit,Portuguese Opening: Miguel Gambit,1. e4 e5 2. Bb5 Bc5 3. b4,e4-e5,5,rnbqk1nr/pppp1ppp/8/1Bb1p3/1P2P3/8/P1PP1PPP/RNBQK1NR b KQkq - 0 3,1.24,white,4
 C20,Portuguese Opening,Portuguese Gambit,Portuguese Opening: Portuguese Gambit,1. e4 e5 2. Bb5 Nf6 3. d4,e4-e5,5,rnbqkb1r/pppp1ppp/5n2/1B2p3/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3,0.33,white,4
 A47,Pseudo Queen's Indian Defense,,Pseudo Queen's Indian Defense,1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Bd3 e6 5. Nbd2 c5 6. b3 Be7,d4-Nf6,12,rn1qk2r/pb1pbppp/1p2pn2/2p5/3P4/1P1BPN2/P1PN1PPP/R1BQK2R w KQkq - 1 7,0.21,white,5
-A42,Pterodactyl Defense,,Pterodactyl Defense,1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 d6,Nf3-c5,10,rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,0.79,white,8
 B06,Pterodactyl Defense,Austrian,"Pterodactyl Defense: Austrian, Austriadactylus Western",1. e4 g6 2. d4 Bg7 3. f4 c5 4. Nf3 Qa5+,e4-g6,8,rnb1k1nr/pp1pppbp/6p1/q1p5/3PPP2/5N2/PPP3PP/RNBQKB1R w KQkq - 2 5,0.58,white,7
 B06,Pterodactyl Defense,Austrian,"Pterodactyl Defense: Austrian, Grand Prix Pterodactyl",1. e4 g6 2. Nc3 Bg7 3. f4 c5 4. Nf3 Qa5,e4-g6,8,rnb1k1nr/pp1pppbp/6p1/q1p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5,0.8,white,3
 B06,Pterodactyl Defense,Austrian,"Pterodactyl Defense: Austrian, Pteranodon",1. e4 g6 2. d4 Bg7 3. f4 c5 4. c3 Qa5,e4-g6,8,rnb1k1nr/pp1pppbp/6p1/q1p5/3PPP2/2P5/PP4PP/RNBQKBNR w KQkq - 1 5,0.49,white,7
@@ -1442,7 +1441,7 @@ B27,Pterodactyl Defense,Sicilian,"Pterodactyl Defense: Sicilian, Unpin",1. e4 c5
 B06,Pterodactyl Defense,Western,"Pterodactyl Defense: Western, Anhanguera",1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Be3 Qa5+,e4-g6,8,rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 2 5,0.85,white,6
 B27,Pterodactyl Defense,Western,"Pterodactyl Defense: Western, Pterodactyl",1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 Qa5,e4-c5,8,rnb1k1nr/pp1pppbp/6p1/q1p5/3PP3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 5,1.16,white,5
 B06,Pterodactyl Defense,Western,"Pterodactyl Defense: Western, Siroccopteryx",1. e4 g6 2. Nf3 Bg7 3. d4 c5 4. Bc4 cxd4 5. Nxd4 Qa5+,e4-g6,10,rnb1k1nr/pp1pppbp/6p1/q7/2BNP3/8/PPP2PPP/RNBQK2R w KQkq - 1 6,0.13,white,3
-D24,Queen's Gambit Accepted,,Queen's Gambit Accepted,1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4,d4-d5,9,rnbqkb1r/ppp2ppp/4pn2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,-0.44,black,8
+A42,Pterodactyl Defense,,Pterodactyl Defense,1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+ 5. Nc3 d6,Nf3-c5,10,rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,0.79,white,8
 D20,Queen's Gambit Accepted,Accelerated Mannheim Variation,Queen's Gambit Accepted: Accelerated Mannheim Variation,1. d4 d5 2. c4 dxc4 3. Qa4+,d4-d5,5,rnbqkbnr/ppp1pppp/8/8/Q1pP4/8/PP2PPPP/RNB1KBNR b KQkq - 1 3,-0.05,black,5
 D22,Queen's Gambit Accepted,Alekhine Defense,"Queen's Gambit Accepted: Alekhine Defense, Alatortsev Variation",1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. d5,d4-d5,11,rn1qkbnr/1pp2ppp/p3p3/3P4/2B3b1/4PN2/PP3PPP/RNBQK2R b KQkq - 0 6,-0.19,black,8
 D21,Queen's Gambit Accepted,Alekhine Defense,"Queen's Gambit Accepted: Alekhine Defense, Borisenko-Furman Variation",1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4,d4-d5,7,rnbqkbnr/1pp1pppp/p7/8/2pPP3/5N2/PP3PPP/RNBQKB1R b KQkq - 0 4,-0.18,black,7
@@ -1476,7 +1475,7 @@ D20,Queen's Gambit Accepted,Schwartz Defense,Queen's Gambit Accepted: Schwartz D
 D21,Queen's Gambit Accepted,Slav Gambit,Queen's Gambit Accepted: Slav Gambit,1. d4 d5 2. c4 dxc4 3. Nf3 b5,d4-d5,6,rnbqkbnr/p1p1pppp/8/1p6/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,0.49,white,6
 D25,Queen's Gambit Accepted,Smyslov Variation,Queen's Gambit Accepted: Smyslov Variation,1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6,d4-d5,8,rnbqkb1r/ppp1pp1p/5np1/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,0.63,white,8
 D25,Queen's Gambit Accepted,Winawer Defense,Queen's Gambit Accepted: Winawer Defense,1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Be6,d4-d5,8,rn1qkb1r/ppp1pppp/4bn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5,0.72,white,8
-D53,Queen's Gambit Declined,,Queen's Gambit Declined,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3,d4-d5,9,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 5 5,-0.19,black,9
+D24,Queen's Gambit Accepted,,Queen's Gambit Accepted,1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4,d4-d5,9,rnbqkb1r/ppp2ppp/4pn2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,-0.44,black,8
 D31,Queen's Gambit Declined,Alapin Variation,Queen's Gambit Declined: Alapin Variation,1. d4 e6 2. c4 b6 3. Nc3 d5,d4-e6,6,rnbqkbnr/p1p2ppp/1p2p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,0.61,white,5
 D08,Queen's Gambit Declined,Albin Countergambit,"Queen's Gambit Declined: Albin Countergambit, Balogh Variation",1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Qe7,d4-d5,10,r1b1kbnr/ppp1qppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq - 4 6,1.13,white,10
 D09,Queen's Gambit Declined,Albin Countergambit,"Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Be6 Line",1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6,d4-d5,10,r2qkbnr/ppp2ppp/2n1b3/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 6,1.25,white,10
@@ -1584,6 +1583,7 @@ D30,Queen's Gambit Declined,Vienna Variation,Queen's Gambit Declined: Vienna Var
 D37,Queen's Gambit Declined,Vienna Variation,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3,d4-Nf6,9,rnbqkb1r/ppp2ppp/4pn2/8/2pP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,-0.2,black,8
 D38,Queen's Gambit Declined,Westphalian Variation,Queen's Gambit Declined: Westphalian Variation,1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. e3 c5,d4-Nf6,12,r1bqk2r/pp1n1ppp/4pn2/2pp2B1/1bPP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 7,0.47,white,10
 D06,Queen's Gambit Declined,Zilbermints Gambit,Queen's Gambit Declined: Zilbermints Gambit,1. d4 d5 2. c4 b5,d4-d5,4,rnbqkbnr/p1p1pppp/8/1p1p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,1.29,white,4
+D53,Queen's Gambit Declined,,Queen's Gambit Declined,1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3,d4-d5,9,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 5 5,-0.19,black,9
 A50,Queen's Indian Accelerated,,Queen's Indian Accelerated,1. d4 Nf6 2. c4 b6,d4-Nf6,4,rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,0.56,white,4
 E14,Queen's Indian Defense,Averbakh Variation,Queen's Indian Defense: Averbakh Variation,1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 c5 6. O-O Be7 7. b3 O-O 8. Bb2 cxd4 9. Nxd4,d4-Nf6,17,rn1q1rk1/pb1pbppp/1p2pn2/8/2PN4/1P1BP3/PB3PPP/RN1Q1RK1 b - - 0 9,0.05,white,11
 E15,Queen's Indian Defense,Buerger Variation,Queen's Indian Defense: Buerger Variation,1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Ng5,d4-Nf6,13,rn1qkb1r/pb1p1ppp/1p3n2/2pp2N1/2P5/6P1/PP2PPBP/RNBQK2R b KQkq - 1 7,-0.46,black,13
@@ -1865,7 +1865,6 @@ A09,Réti Opening,Reversed Blumenfeld Gambit,Réti Opening: Reversed Blumenfeld 
 A09,Réti Opening,Réti Gambit,"Réti Opening: Réti Gambit, Keres Variation",1. Nf3 d5 2. c4 dxc4 3. e3 Be6,Nf3-d5,6,rn1qkbnr/ppp1pppp/4b3/8/2p5/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 1 4,0.44,white,4
 A09,Réti Opening,Zilbermints Gambit,Réti Opening: Zilbermints Gambit,1. Nf3 d5 2. c4 b5,Nf3-d5,4,rnbqkbnr/p1p1pppp/8/1p1p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,1.27,white,4
 A00,Saragossa Opening,,Saragossa Opening,1. c3,c3-,1,rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1,-0.14,black,1
-B01,Scandinavian Defense,,Scandinavian Defense,1. e4 d5 2. b3,e4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,1.07,white,3
 B01,Scandinavian Defense,Anderssen Counterattack,"Scandinavian Defense: Anderssen Counterattack, Collijn Variation",1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bg4,e4-d5,10,rn2kbnr/ppp2ppp/8/q3p3/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6,1.19,white,9
 B01,Scandinavian Defense,Anderssen Counterattack,"Scandinavian Defense: Anderssen Counterattack, Orthodox Attack",1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Nc6 6. Nf3 Bb4 7. Bd2,e4-d5,13,r1b1k1nr/ppp2ppp/2n5/q3P3/1b6/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 4 7,-1.36,black,9
 B01,Scandinavian Defense,Blackburne Gambit,Scandinavian Defense: Blackburne Gambit,1. e4 d5 2. exd5 c6 3. dxc6 Nxc6,e4-d5,6,r1bqkbnr/pp2pppp/2n5/8/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 4,0.76,white,6
@@ -1895,6 +1894,7 @@ B01,Scandinavian Defense,Schiller-Pytel Variation,"Scandinavian Defense: Schille
 B01,Scandinavian Defense,Valencian Variation,"Scandinavian Defense: Valencian Variation, Ilundain Variation",1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 c6,e4-d5,10,rnbqkb1r/pp2pppp/2p2n2/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,0.96,white,10
 B01,Scandinavian Defense,Valencian Variation,"Scandinavian Defense: Valencian Variation, Main Line",1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4,e4-d5,10,rn1qkb1r/ppp1pppp/5n2/8/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6,0.84,white,10
 B01,Scandinavian Defense,Zilbermints Gambit,Scandinavian Defense: Zilbermints Gambit,1. e4 d5 2. b4,e4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2,1.8,white,3
+B01,Scandinavian Defense,,Scandinavian Defense,1. e4 d5 2. b3,e4-d5,3,rnbqkbnr/ppp1pppp/8/3p4/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,1.07,white,3
 C45,Scotch Game,Alekhine Gambit,Scotch Game: Alekhine Gambit,1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. e5,e4-e5,9,r1bqkb1r/pppp1ppp/2n2n2/4P3/3N4/8/PPP2PPP/RNBQKB1R b KQkq - 0 5,0.81,white,9
 C45,Scotch Game,Blumenfeld Attack,Scotch Game: Blumenfeld Attack,1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5,e4-e5,11,r1b1k1nr/pppp1ppp/2n2q2/1Nb5/4P3/4B3/PPP2PPP/RN1QKB1R b KQkq - 4 6,0.77,white,11
 C45,Scotch Game,Braune Variation,Scotch Game: Braune Variation,1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Be3,e4-e5,9,r1b1kbnr/pppp1ppp/2n5/8/3NP2q/4B3/PPP2PPP/RN1QKB1R b KQkq - 2 5,-0.64,black,9
@@ -2201,11 +2201,11 @@ B44,Sicilian Defense,Taimanov Variation,"Sicilian Defense: Taimanov Variation, G
 B44,Sicilian Defense,Taimanov Variation,"Sicilian Defense: Taimanov Variation, Modern Line",1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6,e4-c5,20,r1bq1rk1/4bppp/ppnppn2/8/2P1P3/N1N5/PP2BPPP/R1BQ1RK1 w - - 0 11,0.27,white,16
 B89,Sicilian Defense,Velimirovic Attack,Sicilian Defense: Velimirovic Attack,1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Be3 Be7 8. Qe2,e4-c5,15,r1bqk2r/pp2bppp/2nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R b KQkq - 3 8,-0.46,black,13
 B56,Sicilian Defense,Venice Attack,Sicilian Defense: Venice Attack,1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+,e4-c5,11,rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6,-0.76,black,10
-B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, """"u Gambit",1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6 7. Bd3,e4-c5,13,rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P2B1N2/3P1PPP/RNBQK2R b KQkq - 2 7,1.01,white,11
 B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Abrahams Variation",1. e4 c5 2. b4 cxb4 3. Bb2,e4-c5,5,rnbqkbnr/pp1ppppp/8/8/1p2P3/8/PBPP1PPP/RN1QKBNR b KQkq - 1 3,0.81,white,5
 B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Carlsbad Variation",1. e4 c5 2. b4 cxb4 3. a3 bxa3,e4-c5,6,rnbqkbnr/pp1ppppp/8/8/4P3/p7/2PP1PPP/RNBQKBNR w KQkq - 0 4,-0.34,black,6
 B50,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Deferred Variation",1. e4 c5 2. Nf3 d6 3. b4,e4-c5,5,rnbqkbnr/pp2pppp/3p4/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3,0.35,white,5
 B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Marienbad Variation",1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Bb2,e4-c5,9,rnb1kbnr/pp2pppp/8/3q4/1p6/P7/1BPP1PPP/RN1QKBNR b KQkq - 1 5,0.72,white,9
+B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Nanu Gambit",1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6 7. Bd3,e4-c5,13,rnb1kbnr/pp3ppp/4q3/4p3/1pP5/P2B1N2/3P1PPP/RNBQK2R b KQkq - 2 7,1.01,white,11
 B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Romanian Defense",1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. Bb2 Nc6 7. c4 Qe6,e4-c5,14,r1b1kbnr/pp3ppp/2n1q3/4p3/1pP5/P4N2/1B1P1PPP/RN1QKB1R w KQkq - 1 8,-0.62,black,11
 B20,Sicilian Defense,Wing Gambit,"Sicilian Defense: Wing Gambit, Santasiere Variation",1. e4 c5 2. b4 cxb4 3. c4,e4-c5,5,rnbqkbnr/pp1ppppp/8/8/1pP1P3/8/P2P1PPP/RNBQKBNR b KQkq c3 0 3,1.3,white,5
 B40,Sicilian Defense,Wing Gambit Deferred,Sicilian Defense: Wing Gambit Deferred,1. e4 c5 2. Nf3 e6 3. b4,e4-c5,5,rnbqkbnr/pp1p1ppp/4p3/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3,0.51,white,5
@@ -2238,8 +2238,8 @@ D16,Slav Defense,Soultanbeieff Variation,Slav Defense: Soultanbeieff Variation,1
 D16,Slav Defense,Steiner Variation,Slav Defense: Steiner Variation,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4,d4-d5,10,rn1qkb1r/pp2pppp/2p2n2/8/P1pP2b1/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6,0.94,white,10
 D15,Slav Defense,Süchting Variation,Slav Defense: Süchting Variation,1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Qb6,d4-d5,8,rnb1kb1r/pp2pppp/1qp2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5,0.69,white,8
 D10,Slav Defense,Winawer Countergambit,"Slav Defense: Winawer Countergambit, Anti-Winawer Gambit",1. d4 d5 2. c4 c6 3. Nc3 e5 4. e4,d4-d5,7,rnbqkbnr/pp3ppp/2p5/3pp3/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,0.57,white,6
-A50,Slav Indian,,Slav Indian,1. d4 Nf6 2. c4 c6,d4-Nf6,4,rnbqkb1r/pp1ppppp/2p2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,0.34,white,4
 A40,Slav Indian,Kudischewitsch Gambit,Slav Indian: Kudischewitsch Gambit,1. d4 c6 2. Nf3 Nf6 3. c4 b5,d4-c6,6,rnbqkb1r/p2ppppp/2p2n2/1p6/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,0.48,white,3
+A50,Slav Indian,,Slav Indian,1. d4 Nf6 2. c4 c6,d4-Nf6,4,rnbqkb1r/pp1ppppp/2p2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,0.34,white,4
 A00,Sodium Attack,Celadon Variation,Sodium Attack: Celadon Variation,1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1,Na3-e5,9,rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq - 1 5,0.97,white,3
 A00,Sodium Attack,Chenoboskion Variation,Sodium Attack: Chenoboskion Variation,1. Na3 g6 2. g4,Na3-g6,3,rnbqkbnr/pppppp1p/6p1/8/6P1/N7/PPPPPP1P/R1BQKBNR b KQkq - 0 2,1.39,white,2
 A00,Sodium Attack,Durkin Gambit,Sodium Attack: Durkin Gambit,1. Na3 e5 2. Nc4 Nc6 3. e4 f5,Na3-e5,6,r1bqkbnr/pppp2pp/2n5/4pp2/2N1P3/8/PPPP1PPP/R1BQKBNR w KQkq - 0 4,-0.49,black,3
@@ -2352,7 +2352,6 @@ A00,Ware Opening,Wing Gambit,Ware Opening: Wing Gambit,1. a4 b5 2. axb5 Bb7,a4-b
 A40,Zaire Defense,,Zaire Defense,1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8,d4-Nc6,8,rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 1 5,1.73,white,3
 A04,Zukertort Defense,Kingside Variation,Zukertort Defense: Kingside Variation,1. Nf3 Nh6 2. d4 g6,Nf3-Nh6,4,rnbqkb1r/pppppp1p/6pn/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,1.05,white,2
 A04,Zukertort Defense,Sicilian Knight Variation,Zukertort Defense: Sicilian Knight Variation,1. Nf3 Na6 2. e4 c5,Nf3-Na6,4,r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,1.32,white,4
-A05,Zukertort Opening,,Zukertort Opening,1. Nf3 Nf6 2. Nc3 Nc6,Nf3-Nf6,4,r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3,0.27,white,3
 A06,Zukertort Opening,Ampel Variation,Zukertort Opening: Ampel Variation,1. Nf3 d5 2. Rg1,Nf3-d5,3,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKBR1 b Qkq - 1 2,0.83,white,3
 A04,Zukertort Opening,Arctic Defense,"Zukertort Opening: Arctic Defense, Drunken Knight Variation",1. Nf3 f6 2. e4 Nh6 3. d4 Nf7,Nf3-f6,6,rnbqkb1r/pppppnpp/5p2/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,1.23,white,2
 A04,Zukertort Opening,Basman Defense,Zukertort Opening: Basman Defense,1. Nf3 h6,Nf3-h6,2,rnbqkbnr/ppppppp1/7p/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,0.67,white,2
@@ -2386,3 +2385,4 @@ A04,Zukertort Opening,Vos Gambit,Zukertort Opening: Vos Gambit,1. Nf3 d6 2. d4 e
 A04,Zukertort Opening,Wade Defense,Zukertort Opening: Wade Defense,1. Nf3 d6 2. e4 Bg4,Nf3-d6,4,rn1qkbnr/ppp1pppp/3p4/8/4P1b1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 3,0.88,white,3
 A41,Zukertort Opening,Wade Defense,"Zukertort Opening: Wade Defense, Chigorin Plan",1. d4 d6 2. Nf3 Bg4 3. c4 Nd7 4. Qb3 Rb8,d4-d6,8,1r1qkbnr/pppnpppp/3p4/8/2PP2b1/1Q3N2/PP2PPPP/RNB1KB1R w KQk - 3 5,0.85,white,4
 A04,Zukertort Opening,Ware Defense,Zukertort Opening: Ware Defense,1. Nf3 a5,Nf3-a5,2,rnbqkbnr/1ppppppp/8/p7/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,0.83,white,2
+A05,Zukertort Opening,,Zukertort Opening,1. Nf3 Nf6 2. Nc3 Nc6,Nf3-Nf6,4,r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3,0.27,white,3

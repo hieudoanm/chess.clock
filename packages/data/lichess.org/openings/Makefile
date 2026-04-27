@@ -1,3 +1,6 @@
+query: query-all query-tree query-unique query-unique-stockfish
+	@echo "Done"
+
 query-all:
 	uv run ./scripts/query_all.py
 

@@ -6,6 +6,8 @@ from stockfish import Stockfish
 from re import sub
 from chess_gif.gif_maker import GIFMaker
 import pathlib
+import shutil
+import os
 
 
 stockfish = Stockfish()
@@ -20,6 +22,18 @@ class Opening(TypedDict):
 unique_openings: list[Opening] = []
 with open("openings/unique.json", "r", encoding="utf-8") as unique_openings_file:
     unique_openings = json.load(unique_openings_file)
+
+
+# =========================
+# CLEAN GIF FOLDER
+# =========================
+GIF_ROOT = "./openings/gif"
+
+if os.path.exists(GIF_ROOT):
+    print("🧹 Removing existing GIF folder...")
+    shutil.rmtree(GIF_ROOT)
+
+os.makedirs(GIF_ROOT, exist_ok=True)
 
 
 def get_moves(pgn: str) -> list[str]:
@@ -64,24 +78,30 @@ def get_value_or_empty(lst, index):
 
 unique_openings_data_frame = pandas.DataFrame(unique_openings)
 pgn_list: list[str] = unique_openings_data_frame["pgn"].tolist()
+
 unique_openings_data_frame["evaluation"] = unique_openings_data_frame["fen"].apply(
     lambda fen: get_evaluation(fen)
 )
+
 unique_openings_data_frame["advantage"] = unique_openings_data_frame[
     "evaluation"
 ].apply(lambda evaluation: "white" if evaluation > 0 else "black")
+
 unique_openings_data_frame["main_line_score"] = unique_openings_data_frame["pgn"].apply(
     lambda pgn: get_main_line_score(pgn, pgn_list)
 )
+
 unique_openings_data_frame: pandas.DataFrame = unique_openings_data_frame.sort_values(
     by=["group", "subgroup", "name", "first", "pgn", "main_line_score"]
 )
+
 unique_openings_data_frame.to_csv("./openings/unique.csv", index=False)
 
 
 unique_openings_group_counts: pandas.Series[int] = unique_openings_data_frame[
     ["first", "name"]
 ].value_counts()
+
 print(unique_openings_group_counts)
 
 
@@ -99,26 +119,36 @@ for index in unique_openings_data_frame.index:
     opening: str = unique_openings_data_frame["name"][index]
     half_moves: int = unique_openings_data_frame["half_moves"][index]
     main_line_score: int = unique_openings_data_frame["main_line_score"][index]
+
     opening_folder: str = (
         snake_case(opening).replace(":", "").replace(",", "").replace("'", "_")
     )
+
     name: str = unique_openings_data_frame["name"][index]
+
     file_name: str = (
         snake_case(name).replace(":", "").replace(",", "").replace("'", "_")
     )
+
     gif_maker = GIFMaker(delay=500, h_margin=0, v_margin=0)
+
     pgn_bytes: bytes = str.encode(pgn)
+
     pgn_folder: str = f"./openings/pgn/{first}/{opening_folder}"
     pathlib.Path(pgn_folder).mkdir(parents=True, exist_ok=True)
-    pgn_file: io.TextIOWrapper[io._WrappedBuffer] = open(
-        f"{pgn_folder}/{main_line_score}_{file_name}_{half_moves}.pgn", "w"
-    )
-    print(f"{first}/{file_name}", pgn)
-    pgn_file.write(pgn)
-    pgn_file.close()
+
+    pgn_file_path = f"{pgn_folder}/{main_line_score}_{file_name}_{half_moves}.pgn"
+
+    with open(pgn_file_path, "w") as pgn_file:
+        print(f"{first}/{file_name}", pgn)
+        pgn_file.write(pgn)
+
     gif_folder: str = f"./openings/gif/{first}/{opening_folder}"
     pathlib.Path(gif_folder).mkdir(parents=True, exist_ok=True)
+
+    gif_file_path = f"{gif_folder}/{main_line_score}_{file_name}_{half_moves}.gif"
+
     gif_maker.make_gif_from_pgn_file(
-        f"{pgn_folder}/{main_line_score}_{file_name}_{half_moves}.pgn",
-        f"{gif_folder}/{main_line_score}_{file_name}_{half_moves}.gif",
+        pgn_file_path,
+        gif_file_path,
     )
