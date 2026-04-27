@@ -4,6 +4,17 @@ import { useState } from 'react';
 
 const APPS = [
   {
+    id: 'chess-board',
+    href: '/app/board',
+    title: 'Board',
+    subtitle: 'Analysis Engine',
+    description:
+      'Analyze positions with a powerful engine. Get best moves, evaluations, and deep search insights instantly.',
+    meta: 'Eval · Best Moves · Depth',
+    symbol: '♚', // King → ultimate authority / decision
+    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
+  },
+  {
     id: 'chess-clock',
     href: '/app/clock',
     title: 'Chess Clock',
@@ -26,17 +37,6 @@ const APPS = [
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
   {
-    id: 'chess-graphics',
-    href: '/app/graphics',
-    title: 'Graphics',
-    subtitle: 'FEN & PGN Tools',
-    description:
-      'Convert FEN to board images and PGN to animated GIFs. Perfect for sharing positions and games visually.',
-    meta: 'FEN → PNG · PGN → GIF',
-    symbol: '♛', // Queen → visualization / power / all-in-one
-    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
-  },
-  {
     id: 'chess-openings',
     href: '/app/openings',
     title: 'Openings',
@@ -45,17 +45,6 @@ const APPS = [
       'Browse and study chess openings. Explore lines, variations, and common positions to improve your early game.',
     meta: 'ECO · Lines · Variations',
     symbol: '♝', // Bishop → theory / diagonals / long-term planning
-    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
-  },
-  {
-    id: 'stockfish',
-    href: '/app/stockfish',
-    title: 'Analysis Engine',
-    subtitle: 'Stockfish',
-    description:
-      'Analyze positions with a powerful engine. Get best moves, evaluations, and deep search insights instantly.',
-    meta: 'Eval · Best Moves · Depth',
-    symbol: '♚', // King → ultimate authority / decision
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
 ];
