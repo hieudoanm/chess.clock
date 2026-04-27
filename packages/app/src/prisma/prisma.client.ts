@@ -1,9 +1,13 @@
 import { PrismaClient } from '@chess/generated/prisma/client';
+import { PrismaLibSql } from '@prisma/adapter-libsql';
 
-export let prismaClient = new PrismaClient({ adapter: 'sqlite' });
+let prismaClient: PrismaClient | undefined;
 
 export const getPrismaClient = (): PrismaClient => {
-  if (prismaClient !== undefined) return prismaClient;
-  prismaClient = new PrismaClient({ adapter: 'sqlite' });
+  if (prismaClient) return prismaClient;
+  const adapter = new PrismaLibSql({
+    url: process.env.DATABASE_URL ?? 'file:./prisma/chess.db',
+  });
+  prismaClient = new PrismaClient({ adapter });
   return prismaClient;
 };
