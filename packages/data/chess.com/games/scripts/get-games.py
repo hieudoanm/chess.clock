@@ -172,6 +172,7 @@ def fetch_all_games(conn):
             exists = cursor.fetchone()[0] > 0
 
             if exists and not is_current_month(year, month):
+                print(f"⚠️ {username} {year}-{month} already exists")
                 continue
 
             print(f"➡️ {username} {year}-{month}")
