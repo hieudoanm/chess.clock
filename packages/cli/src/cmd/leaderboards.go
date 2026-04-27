@@ -9,8 +9,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/hieudoanm/chess.insights/src/data"
-	"github.com/hieudoanm/chess.insights/src/utils/requests"
+	"github.com/hieudoanm/chess/src/data"
+	"github.com/hieudoanm/chess/src/utils/requests"
 )
 
 func country(url string) (string, string) {
