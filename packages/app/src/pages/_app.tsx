@@ -1,8 +1,9 @@
 import '@chess/styles/globals.css';
-import { HeadTemplate } from '../templates/HeadTemplate';
+import { trpc } from '@chess/utils/trpc';
 import type { AppProps } from 'next/app';
 import { Geist, Geist_Mono } from 'next/font/google';
 import { FC } from 'react';
+import { HeadTemplate } from '../templates/HeadTemplate';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -25,4 +26,4 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
   );
 };
 
-export default App;
+export default trpc.withTRPC(App);

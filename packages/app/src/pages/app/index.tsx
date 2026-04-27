@@ -36,6 +36,17 @@ const APPS = [
     symbol: '♜', // Rook → structure / rating foundation
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
+  {
+    id: 'chess-stats',
+    href: '/app/stats',
+    title: 'Chess Stats',
+    subtitle: 'Personal Insights',
+    description:
+      'Get insights about your chess games. See your strengths and weaknesses.',
+    meta: 'Stats · Insights · Analysis',
+    symbol: '♝',
+    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
+  },
 ];
 
 const AppPage: NextPage = () => {

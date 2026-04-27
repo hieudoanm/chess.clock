@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`InsightsCalendarTimeOfDays to match snapshot 1`] = `
+<div>
+  <div
+    class="card border-base-content border shadow"
+  >
+    <div
+      class="border-base-content border-b px-8 py-4"
+    >
+      <div
+        class="text-base md:text-lg lg:text-xl"
+      >
+        Time of Day
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Games by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Accuracy by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Results by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body"
+    />
+  </div>
+</div>
+`;

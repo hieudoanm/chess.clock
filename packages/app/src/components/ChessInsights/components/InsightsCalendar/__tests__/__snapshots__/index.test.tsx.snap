@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`InsightsCalendar to match snapshot 1`] = `
+<div>
+  <div
+    class="flex flex-col gap-y-2 text-center"
+    id="calendar"
+  >
+    <div
+      class="text-lg md:text-xl lg:text-2xl"
+    >
+      <div
+        class="flex items-center justify-center gap-x-2"
+      >
+        <svg
+          class="text-teal-500"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          stroke-width="0"
+          viewBox="0 0 448 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"
+          />
+        </svg>
+         Calendar
+      </div>
+    </div>
+    <p
+      class="text-xs md:text-sm lg:text-base"
+    >
+      When do you play your best?
+    </p>
+  </div>
+  <div
+    class="card border-base-content border shadow"
+  >
+    <div
+      class="border-base-content border-b px-8 py-4"
+    >
+      <div
+        class="text-base md:text-lg lg:text-xl"
+      >
+        Time of Day
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Games by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Accuracy by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Results by Time of Day
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body"
+    />
+  </div>
+  <div
+    class="card border-base-content border shadow"
+  >
+    <div
+      class="border-base-content border-b px-8 py-4"
+    >
+      <div
+        class="text-base md:text-lg lg:text-xl"
+      >
+        Day of Week
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Games by Days of Week
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Accuracy by Days of Week
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Results by Days of Week
+        </p>
+      </div>
+    </div>
+    <div
+      class="card-body"
+    />
+  </div>
+</div>
+`;

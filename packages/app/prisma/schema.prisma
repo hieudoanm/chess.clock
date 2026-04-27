@@ -10,14 +10,42 @@ generator jsonSchema {
   provider = "prisma-json-schema-generator"
 }
 
-model Opening {
-  eco       String @id @default(uuid())
-  group     String @map("group")
-  subgroup  String @map("subgroup")
-  name      String @map("name")
-  pgn       String @map("pgn")
-  fen       String @map("fen")
+model Player {
+  id               Int      @id @default(0) @map("id")
+  name             String   @default("") @map("name")
+  username         String   @default("") @map("username")
+  title            String   @default("") @map("title")
+  country          String   @default("") @map("country")
+  location         String   @default("") @map("location")
+  joined           DateTime @default(now()) @map("joined")
+  status           String   @default("") @map("status")
+  verified         Boolean  @default(false) @map("verified")
+  league           String   @default("") @map("league")
+  bulletRatingLast Int      @default(0) @map("bullet_rating_last")
+  bulletRatingBest Int      @default(0) @map("bullet_rating_best")
+  bulletRecordWin  Int      @default(0) @map("bullet_record_win")
+  bulletRecordDraw Int      @default(0) @map("bullet_record_draw")
+  bulletRecordLoss Int      @default(0) @map("bullet_record_loss")
+  blitzRatingLast  Int      @default(0) @map("blitz_rating_last")
+  blitzRatingBest  Int      @default(0) @map("blitz_rating_best")
+  blitzRecordWin   Int      @default(0) @map("blitz_record_win")
+  blitzRecordDraw  Int      @default(0) @map("blitz_record_draw")
+  blitzRecordLoss  Int      @default(0) @map("blitz_record_loss")
+  rapidRatingLast  Int      @default(0) @map("rapid_rating_last")
+  rapidRatingBest  Int      @default(0) @map("rapid_rating_best")
+  rapidRecordWin   Int      @default(0) @map("rapid_record_win")
+  rapidRecordDraw  Int      @default(0) @map("rapid_record_draw")
+  rapidRecordLoss  Int      @default(0) @map("rapid_record_loss")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @default(now()) @map("updated_at")
 
-  @@index([eco])
-  @@map("openings")
+  @@index([username])
+  @@map("players")
+}
+
+model Game {
+  uuid String @id @default("") @map("uuid")
+  url  String @default("") @map("url")
+
+  @@map("games")
 }

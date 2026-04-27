@@ -1,0 +1,393 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`InsightsGamesOverview to match snapshot 1`] = `
+<div>
+  <div
+    class="card border-base-content border shadow"
+  >
+    <div
+      class="border-base-content border-b px-8 py-4"
+    >
+      <div
+        class="text-base md:text-lg lg:text-xl"
+      >
+        <div
+          class="flex items-center gap-x-2"
+        >
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 512 512"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"
+            />
+          </svg>
+          Overview
+        </div>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="truncate text-base font-bold capitalize md:text-lg"
+        >
+          Games played
+        </p>
+        <div
+          class="flex flex-col overflow-auto"
+        >
+          <div
+            class="flex items-center justify-between gap-x-2 md:gap-x-4"
+          >
+            <div
+              class="flex items-center gap-x-2 md:gap-x-4"
+            >
+              <svg
+                class="text-3xl text-teal-500 md:text-4xl"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 448 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm64 64l0 64 64 0 0-64 64 0 0 64 64 0 0-64 64 0 0 64-64 0 0 64 64 0 0 64-64 0 0 64 64 0 0 64-64 0 0-64-64 0 0 64-64 0 0-64-64 0 0 64-64 0 0-64 64 0 0-64-64 0 0-64 64 0 0-64-64 0 0-64 64 0zm64 128l64 0 0-64-64 0 0 64zm0 64l0-64-64 0 0 64 64 0zm64 0l-64 0 0 64 64 0 0-64zm0 0l64 0 0-64-64 0 0 64z"
+                />
+              </svg>
+              <p
+                class="truncate text-3xl md:text-4xl"
+              >
+                1
+              </p>
+            </div>
+            <div
+              class="flex flex-col gap-y-2"
+            >
+              <div
+                class="flex items-center gap-x-2 md:gap-x-4"
+              >
+                <div
+                  class="flex flex-col gap-y-1 md:gap-y-2"
+                >
+                  <div
+                    class="flex items-center gap-x-1 md:gap-x-2"
+                  >
+                    <svg
+                      class="text-teal-500"
+                      fill="currentColor"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 448 512"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zM200 344l0-64-64 0c-13.3 0-24-10.7-24-24s10.7-24 24-24l64 0 0-64c0-13.3 10.7-24 24-24s24 10.7 24 24l0 64 64 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-64 0 0 64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"
+                      />
+                    </svg>
+                    <b
+                      class="text-base md:text-lg"
+                    >
+                      0.00
+                      %
+                    </b>
+                  </div>
+                  <div
+                    class="truncate text-right text-xs capitalize md:text-sm"
+                  >
+                    0
+                     
+                    won
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col gap-y-1 md:gap-y-2"
+                >
+                  <div
+                    class="flex items-center gap-x-1 md:gap-x-2"
+                  >
+                    <svg
+                      class="text-gray-500"
+                      fill="currentColor"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 448 512"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z"
+                      />
+                    </svg>
+                    <b
+                      class="text-base md:text-lg"
+                    >
+                      0.00
+                      %
+                    </b>
+                  </div>
+                  <div
+                    class="truncate text-right text-xs capitalize md:text-sm"
+                  >
+                    0
+                     
+                    drawn
+                  </div>
+                </div>
+                <div
+                  class="flex flex-col gap-y-1 md:gap-y-2"
+                >
+                  <div
+                    class="flex items-center gap-x-1 md:gap-x-2"
+                  >
+                    <svg
+                      class="text-red-500"
+                      fill="currentColor"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 448 512"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm88 200l144 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-144 0c-13.3 0-24-10.7-24-24s10.7-24 24-24z"
+                      />
+                    </svg>
+                    <b
+                      class="text-base md:text-lg"
+                    >
+                      0.00
+                      %
+                    </b>
+                  </div>
+                  <div
+                    class="truncate text-right text-xs capitalize md:text-sm"
+                  >
+                    0
+                     
+                    lost
+                  </div>
+                </div>
+              </div>
+              <div
+                class="flex h-4 w-full overflow-hidden rounded-full"
+              >
+                <div
+                  class="h-full bg-teal-500"
+                  style="width: 0%;"
+                />
+                <div
+                  class="h-full bg-gray-500"
+                  style="width: 0%;"
+                />
+                <div
+                  class="h-full bg-red-500"
+                  style="width: 0%;"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="aspect-video"
+        >
+          <div
+            class="recharts-responsive-container"
+            style="width: 100%; height: 100%; min-width: 0;"
+          >
+            <div
+              style="width: 0px; height: 0px; overflow: visible;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card-body border-base-content border-b"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="truncate text-base font-bold capitalize md:text-lg"
+        >
+          Average accuracy
+        </p>
+        <div
+          class="flex flex-col overflow-auto"
+        >
+          <div
+            class="flex items-center justify-between gap-x-2 md:gap-x-4"
+          >
+            <div
+              class="flex items-center gap-x-2 md:gap-x-4"
+            >
+              <svg
+                class="text-3xl text-teal-500 md:text-4xl"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 512 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"
+                />
+              </svg>
+              <p
+                class="truncate text-3xl md:text-4xl"
+              >
+                0
+              </p>
+            </div>
+            <div
+              class="flex items-center gap-x-2 md:gap-x-4"
+            >
+              <div
+                class="flex flex-col gap-y-1 md:gap-y-2"
+              >
+                <p
+                  class="truncate text-right text-xs capitalize md:text-sm"
+                >
+                  When you win
+                </p>
+                <div
+                  class="flex items-center justify-end gap-x-1 md:gap-x-2"
+                >
+                  <svg
+                    class="text-teal-500"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 448 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zM200 344l0-64-64 0c-13.3 0-24-10.7-24-24s10.7-24 24-24l64 0 0-64c0-13.3 10.7-24 24-24s24 10.7 24 24l0 64 64 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-64 0 0 64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"
+                    />
+                  </svg>
+                  <b
+                    class="text-base md:text-lg"
+                  >
+                    0.00
+                    %
+                  </b>
+                </div>
+              </div>
+              <div
+                class="flex flex-col gap-y-1 md:gap-y-2"
+              >
+                <p
+                  class="truncate text-right text-xs capitalize md:text-sm"
+                >
+                  When you draw
+                </p>
+                <div
+                  class="flex items-center justify-end gap-x-1 md:gap-x-2"
+                >
+                  <svg
+                    class="text-gray-500"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 448 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z"
+                    />
+                  </svg>
+                  <b
+                    class="text-base md:text-lg"
+                  >
+                    0.00
+                    %
+                  </b>
+                </div>
+              </div>
+              <div
+                class="flex flex-col gap-y-1 md:gap-y-2"
+              >
+                <p
+                  class="truncate text-right text-xs capitalize md:text-sm"
+                >
+                  When you lose
+                </p>
+                <div
+                  class="flex items-center justify-end gap-x-1 md:gap-x-2"
+                >
+                  <svg
+                    class="text-red-500"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 448 512"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm88 200l144 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-144 0c-13.3 0-24-10.7-24-24s10.7-24 24-24z"
+                    />
+                  </svg>
+                  <b
+                    class="text-base md:text-lg"
+                  >
+                    0.00
+                    %
+                  </b>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="aspect-video"
+        >
+          <div
+            class="recharts-responsive-container"
+            style="width: 100%; height: 100%; min-width: 0;"
+          >
+            <div
+              style="width: 0px; height: 0px; overflow: visible;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="card-body"
+    >
+      <div
+        class="flex flex-col gap-y-8"
+      >
+        <p
+          class="text-base font-bold md:text-lg"
+        >
+          Results by Opponent Rating
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
