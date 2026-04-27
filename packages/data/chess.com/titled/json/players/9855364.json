@@ -1,0 +1,85 @@
+{
+  "player_id": 9855364,
+  "@id": "https://api.chess.com/pub/player/igor_janik",
+  "url": "https://www.chess.com/member/Igor_Janik",
+  "name": "Igor Janik",
+  "username": "igor_janik",
+  "title": "GM",
+  "followers": 417,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Elblag",
+  "last_online": 1776251947,
+  "joined": 1354390074,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2520,
+      "date": 1771273976,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1613316028,
+      "game": "https://www.chess.com/game/live/126215921531"
+    },
+    "record": {
+      "win": 21,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3003,
+      "date": 1769210624,
+      "rd": 40
+    },
+    "best": {
+      "rating": 3061,
+      "date": 1768701425,
+      "game": "https://www.chess.com/game/live/148151483156"
+    },
+    "record": {
+      "win": 437,
+      "loss": 227,
+      "draw": 49
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2944,
+      "date": 1775943443,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3090,
+      "date": 1770806168,
+      "game": "https://www.chess.com/game/live/165916257294"
+    },
+    "record": {
+      "win": 7081,
+      "loss": 4960,
+      "draw": 1459
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2702,
+      "date": 1759015684
+    },
+    "lowest": {
+      "rating": 2503,
+      "date": 1765452691
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

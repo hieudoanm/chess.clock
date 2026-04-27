@@ -1,0 +1,66 @@
+{
+    "player_id": 71347978,
+    "@id": "https://api.chess.com/pub/player/inspektor_rex",
+    "url": "https://www.chess.com/member/Inspektor_Rex",
+    "username": "inspektor_rex",
+    "title": "GM",
+    "followers": 20,
+    "country": "https://api.chess.com/pub/country/CA",
+    "last_online": 1658632582,
+    "joined": 1580134202,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2855,
+            "date": 1656515671,
+            "rd": 105
+        },
+        "best": {
+            "rating": 3041,
+            "date": 1600555886,
+            "game": "https://www.chess.com/game/live/5469954432"
+        },
+        "record": {
+            "win": 28,
+            "loss": 46,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2909,
+            "date": 1658635475,
+            "rd": 36
+        },
+        "best": {
+            "rating": 3030,
+            "date": 1656419804,
+            "game": "https://www.chess.com/game/live/51419422173"
+        },
+        "record": {
+            "win": 281,
+            "loss": 243,
+            "draw": 56
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3422,
+            "date": 1583793180
+        },
+        "lowest": {
+            "rating": 2699,
+            "date": 1580253196
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 51123018,
+  "@id": "https://api.chess.com/pub/player/swiss_fighter",
+  "url": "https://www.chess.com/member/Swiss_Fighter",
+  "name": "Gabriel G\u00e4hwiler",
+  "username": "swiss_fighter",
+  "title": "IM",
+  "followers": 160,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776441487,
+  "joined": 1540469980,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2798,
+      "date": 1776104175,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2819,
+      "date": 1751885390,
+      "game": "https://www.chess.com/game/live/139328460018"
+    },
+    "record": {
+      "win": 1087,
+      "loss": 177,
+      "draw": 84
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3098,
+      "date": 1776285723,
+      "rd": 22
+    },
+    "best": {
+      "rating": 3112,
+      "date": 1770022618,
+      "game": "https://www.chess.com/game/live/165867062046"
+    },
+    "record": {
+      "win": 14285,
+      "loss": 5113,
+      "draw": 1076
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2998,
+      "date": 1776320355,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1768046100,
+      "game": "https://www.chess.com/game/live/143597754674"
+    },
+    "record": {
+      "win": 3014,
+      "loss": 1408,
+      "draw": 457
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2745,
+      "date": 1771829297
+    },
+    "lowest": {
+      "rating": 2335,
+      "date": 1765239798
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

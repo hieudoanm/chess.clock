@@ -1,0 +1,49 @@
+{
+  "player_id": 44041546,
+  "@id": "https://api.chess.com/pub/player/avantage_ru",
+  "url": "https://www.chess.com/member/avantage_ru",
+  "name": "Dmitry Kokarev",
+  "username": "avantage_ru",
+  "title": "GM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776337444,
+  "joined": 1520454835,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_blitz": {
+    "last": {
+      "rating": 2803,
+      "date": 1634404366,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1603819657,
+      "game": "https://www.chess.com/game/live/5611162444"
+    },
+    "record": {
+      "win": 92,
+      "loss": 39,
+      "draw": 20
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2716,
+      "date": 1520454835
+    },
+    "lowest": {
+      "rating": 2716,
+      "date": 1520454835
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

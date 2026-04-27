@@ -1,0 +1,93 @@
+{
+  "player_id": 5141788,
+  "@id": "https://api.chess.com/pub/player/demadirk",
+  "url": "https://www.chess.com/member/demadirk",
+  "name": "Dirk Demarcke",
+  "username": "demadirk",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776596073,
+  "joined": 1305746710,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1823,
+      "date": 1704652796,
+      "rd": 212
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 3197,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2004,
+      "date": 1694152580,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1694152580,
+      "game": "https://www.chess.com/game/live/87890445453"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1804,
+      "date": 1407615468,
+      "rd": 320
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2097,
+      "date": 1776592458,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2266,
+      "date": 1763127381,
+      "game": "https://www.chess.com/game/live/145822342600"
+    },
+    "record": {
+      "win": 29678,
+      "loss": 26682,
+      "draw": 3765
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2296,
+      "date": 1755640771
+    },
+    "lowest": {
+      "rating": 2024,
+      "date": 1755642151
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 518383475,
+  "@id": "https://api.chess.com/pub/player/rubix-time2",
+  "url": "https://www.chess.com/member/rubix-time2",
+  "name": "Virgile Breuil",
+  "username": "rubix-time2",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776597610,
+  "joined": 1768123166,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2836,
+      "date": 1776431037,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2921,
+      "date": 1771698357,
+      "game": "https://www.chess.com/game/live/166614018225"
+    },
+    "record": {
+      "win": 450,
+      "loss": 323,
+      "draw": 53
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2783,
+      "date": 1776356525,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1771012023,
+      "game": "https://www.chess.com/game/live/170498446779"
+    },
+    "record": {
+      "win": 94,
+      "loss": 45,
+      "draw": 11
+    }
+  },
+  "fide": 2264,
+  "tactics": {
+    "highest": {
+      "rating": 2317,
+      "date": 1774934323
+    },
+    "lowest": {
+      "rating": 497,
+      "date": 1768421436
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

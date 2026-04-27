@@ -1,0 +1,86 @@
+{
+  "player_id": 12242572,
+  "@id": "https://api.chess.com/pub/player/thounder",
+  "url": "https://www.chess.com/member/thounder",
+  "name": "Mikhail Tokmachev",
+  "username": "thounder",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776493587,
+  "joined": 1370814464,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2296,
+      "date": 1744914338,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1669543162,
+      "game": "https://www.chess.com/game/live/37740023707"
+    },
+    "record": {
+      "win": 243,
+      "loss": 39,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2406,
+      "date": 1758455352,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1640637266,
+      "game": "https://www.chess.com/game/live/35716000437"
+    },
+    "record": {
+      "win": 18987,
+      "loss": 13406,
+      "draw": 858
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2676,
+      "date": 1774904633,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1766667151,
+      "game": "https://www.chess.com/game/live/36275971839"
+    },
+    "record": {
+      "win": 2957,
+      "loss": 987,
+      "draw": 209
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2433,
+      "date": 1776493495
+    },
+    "lowest": {
+      "rating": 2180,
+      "date": 1757278087
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 39
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39368418.ae05f905.200x200o.650abf32a088.jpeg",
+  "player_id": 39368418,
+  "@id": "https://api.chess.com/pub/player/ezov",
+  "url": "https://www.chess.com/member/Ezov",
+  "name": "Ilja Biriukov",
+  "username": "ezov",
+  "title": "IM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1774195626,
+  "joined": 1507755842,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1968,
+      "date": 1708443419,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2186,
+      "date": 1679324976,
+      "game": "https://www.chess.com/game/live/73071549141"
+    },
+    "record": {
+      "win": 2,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2164,
+      "date": 1701201910,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1606734965,
+      "game": "https://www.chess.com/game/live/4394392588"
+    },
+    "record": {
+      "win": 68,
+      "loss": 55,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2187,
+      "date": 1730214378,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1563647705,
+      "game": "https://www.chess.com/game/live/56237650013"
+    },
+    "record": {
+      "win": 1256,
+      "loss": 854,
+      "draw": 258
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2047,
+      "date": 1773858661
+    },
+    "lowest": {
+      "rating": 2047,
+      "date": 1773858661
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

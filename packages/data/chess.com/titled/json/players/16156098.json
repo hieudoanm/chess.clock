@@ -1,0 +1,99 @@
+{
+    "player_id": 16156098,
+    "@id": "https://api.chess.com/pub/player/ilijaika2001",
+    "url": "https://www.chess.com/member/ilijaika2001",
+    "name": "Ilija Stanojevic",
+    "username": "ilijaika2001",
+    "title": "FM",
+    "followers": 25,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Ni&scaron;",
+    "last_online": 1639664633,
+    "joined": 1393015632,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 942,
+            "date": 1714985538,
+            "rd": 181
+        },
+        "record": {
+            "win": 0,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 14087,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1496,
+            "date": 1608675099,
+            "rd": 221
+        },
+        "best": {
+            "rating": 1510,
+            "date": 1400850417,
+            "game": "https://www.chess.com/game/live/814510437"
+        },
+        "record": {
+            "win": 2,
+            "loss": 3,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2266,
+            "date": 1639626845,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1639626582,
+            "game": "https://www.chess.com/game/live/31620022091"
+        },
+        "record": {
+            "win": 354,
+            "loss": 263,
+            "draw": 17
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2528,
+            "date": 1639670646,
+            "rd": 34
+        },
+        "best": {
+            "rating": 2537,
+            "date": 1639670304,
+            "game": "https://www.chess.com/game/live/33246653659"
+        },
+        "record": {
+            "win": 279,
+            "loss": 185,
+            "draw": 21
+        }
+    },
+    "fide": 2198,
+    "tactics": {
+        "highest": {
+            "rating": 2476,
+            "date": 1635416368
+        },
+        "lowest": {
+            "rating": 1404,
+            "date": 1393016746
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 55,
+            "score": 52
+        }
+    }
+}

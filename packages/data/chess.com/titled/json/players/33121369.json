@@ -1,0 +1,117 @@
+{
+  "player_id": 33121369,
+  "@id": "https://api.chess.com/pub/player/c-joy",
+  "url": "https://www.chess.com/member/C-Joy",
+  "name": "Chiara Polterauer",
+  "username": "c-joy",
+  "title": "WFM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776539085,
+  "joined": 1486840766,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1566,
+      "date": 1776539061,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1625,
+      "date": 1761478975,
+      "game": "https://www.chess.com/game/daily/730278413"
+    },
+    "record": {
+      "win": 30,
+      "loss": 6,
+      "draw": 15,
+      "time_per_move": 23935,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1400,
+      "date": 1531849928,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 23935,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1723,
+      "date": 1630759154,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2182,
+      "date": 1597401939,
+      "game": "https://www.chess.com/game/live/5296064644"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2038,
+      "date": 1771833356,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1762611934,
+      "game": "https://www.chess.com/game/live/145267542192"
+    },
+    "record": {
+      "win": 21,
+      "loss": 24,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2224,
+      "date": 1771780149,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1569528405,
+      "game": "https://www.chess.com/game/live/4117247653"
+    },
+    "record": {
+      "win": 1011,
+      "loss": 803,
+      "draw": 269
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2170,
+      "date": 1767806479
+    },
+    "lowest": {
+      "rating": 1963,
+      "date": 1767991317
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

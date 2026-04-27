@@ -1,0 +1,104 @@
+{
+  "player_id": 35862114,
+  "@id": "https://api.chess.com/pub/player/legendadada",
+  "url": "https://www.chess.com/member/LegenDaDaDa",
+  "name": "Marina Kaydanovich",
+  "username": "legendadada",
+  "title": "WIM",
+  "followers": 102,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1713281917,
+  "joined": 1495909987,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 818,
+      "date": 1731662930,
+      "rd": 107
+    },
+    "best": {
+      "rating": 822,
+      "date": 1699363152,
+      "game": "https://www.chess.com/game/daily/580199553"
+    },
+    "record": {
+      "win": 8,
+      "loss": 14,
+      "draw": 1,
+      "time_per_move": 8267,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1706642810,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1699336614,
+      "game": "https://www.chess.com/game/live/93075113401"
+    },
+    "record": {
+      "win": 200,
+      "loss": 132,
+      "draw": 35
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2209,
+      "date": 1712748498,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1699597018,
+      "game": "https://www.chess.com/game/live/93036212327"
+    },
+    "record": {
+      "win": 315,
+      "loss": 223,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2326,
+      "date": 1713287413,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1713287413,
+      "game": "https://www.chess.com/game/live/106415210123"
+    },
+    "record": {
+      "win": 627,
+      "loss": 456,
+      "draw": 58
+    }
+  },
+  "fide": 1800,
+  "tactics": {
+    "highest": {
+      "rating": 2227,
+      "date": 1495909987
+    },
+    "lowest": {
+      "rating": 2227,
+      "date": 1495909987
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

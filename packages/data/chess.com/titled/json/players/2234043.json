@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2234043.dc981493.200x200o.88457f4a4247.jpeg",
+  "player_id": 2234043,
+  "@id": "https://api.chess.com/pub/player/shumy",
+  "url": "https://www.chess.com/member/Shumy",
+  "name": "Victor Shumyatsky",
+  "username": "shumy",
+  "title": "IM",
+  "followers": 102,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Brasilia",
+  "last_online": 1776483413,
+  "joined": 1255794235,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2328,
+      "date": 1589478482,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1448902697,
+      "game": "https://www.chess.com/game/daily/44992248"
+    },
+    "record": {
+      "win": 106,
+      "loss": 46,
+      "draw": 19,
+      "time_per_move": 22035,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1937,
+      "date": 1592184518,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1589075623,
+      "game": "https://www.chess.com/game/live/4866627150"
+    },
+    "record": {
+      "win": 9,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2533,
+      "date": 1486520188,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1482282406,
+      "game": "https://www.chess.com/game/live/1863178759"
+    },
+    "record": {
+      "win": 32,
+      "loss": 23,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2629,
+      "date": 1692990917,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1692990917,
+      "game": "https://www.chess.com/game/live/5013650399"
+    },
+    "record": {
+      "win": 190,
+      "loss": 181,
+      "draw": 30
+    }
+  },
+  "fide": 2468,
+  "tactics": {
+    "highest": {
+      "rating": 2667,
+      "date": 1255794235
+    },
+    "lowest": {
+      "rating": 2667,
+      "date": 1255794235
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

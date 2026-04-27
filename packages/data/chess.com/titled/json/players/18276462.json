@@ -1,0 +1,87 @@
+{
+  "player_id": 18276462,
+  "@id": "https://api.chess.com/pub/player/flightsoffancy",
+  "url": "https://www.chess.com/member/FlightsOfFancy",
+  "name": "Michael Walder",
+  "username": "flightsoffancy",
+  "title": "NM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Alameda, CA",
+  "last_online": 1630488257,
+  "joined": 1406664589,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1638,
+      "date": 1656750499,
+      "rd": 153
+    },
+    "best": {
+      "rating": 1643,
+      "date": 1610759857,
+      "game": "https://www.chess.com/game/daily/281725658"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 18362,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2235,
+      "date": 1629431388,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1628221685,
+      "game": "https://www.chess.com/game/live/15126992535"
+    },
+    "record": {
+      "win": 207,
+      "loss": 86,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1991,
+      "date": 1630196015,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2028,
+      "date": 1586831111,
+      "game": "https://www.chess.com/game/live/4812298111"
+    },
+    "record": {
+      "win": 624,
+      "loss": 509,
+      "draw": 71
+    }
+  },
+  "fide": 2101,
+  "tactics": {
+    "highest": {
+      "rating": 2188,
+      "date": 1406664589
+    },
+    "lowest": {
+      "rating": 2188,
+      "date": 1406664589
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 27
+    }
+  }
+}

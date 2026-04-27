@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22699560.b2ea6a87.200x200o.3cd1986df67a.jpeg",
+  "player_id": 22699560,
+  "@id": "https://api.chess.com/pub/player/sandpacer",
+  "url": "https://www.chess.com/member/Sandpacer",
+  "name": "Jason Yu",
+  "username": "sandpacer",
+  "title": "NM",
+  "followers": 157,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Seattle",
+  "last_online": 1775470345,
+  "joined": 1433546482,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1919,
+      "date": 1739525318,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2009,
+      "date": 1542321240,
+      "game": "https://www.chess.com/game/daily/203401206"
+    },
+    "record": {
+      "win": 85,
+      "loss": 40,
+      "draw": 2,
+      "time_per_move": 51739,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2425,
+      "date": 1732601658,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2460,
+      "date": 1624408553,
+      "game": "https://www.chess.com/game/live/75295226545"
+    },
+    "record": {
+      "win": 50,
+      "loss": 20,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2666,
+      "date": 1773972593,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1769822585,
+      "game": "https://www.chess.com/game/live/130975789521"
+    },
+    "record": {
+      "win": 2869,
+      "loss": 2182,
+      "draw": 274
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2645,
+      "date": 1773996735,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2754,
+      "date": 1737884138,
+      "game": "https://www.chess.com/game/live/127589465417"
+    },
+    "record": {
+      "win": 2236,
+      "loss": 1645,
+      "draw": 292
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2511,
+      "date": 1433546482
+    },
+    "lowest": {
+      "rating": 2511,
+      "date": 1433546482
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "player_id": 10407132,
+  "@id": "https://api.chess.com/pub/player/jszabolcsi",
+  "url": "https://www.chess.com/member/jszabolcsi",
+  "name": "Janos Szabolcsi",
+  "username": "jszabolcsi",
+  "title": "IM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1775822602,
+  "joined": 1358070926,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2005,
+      "date": 1439737748,
+      "rd": 344
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1439737748,
+      "game": "https://www.chess.com/game/daily/116574834"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 44,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2237,
+      "date": 1724390414,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1683030007,
+      "game": "https://www.chess.com/game/live/48415220683"
+    },
+    "record": {
+      "win": 109,
+      "loss": 56,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1887,
+      "date": 1587125415,
+      "rd": 280
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1358283139,
+      "game": "https://www.chess.com/game/live/435352838"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2422,
+      "date": 1775822593,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1770026565,
+      "game": "https://www.chess.com/game/live/145612208578"
+    },
+    "record": {
+      "win": 624,
+      "loss": 368,
+      "draw": 65
+    }
+  },
+  "fide": 2374,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1358070926
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1358070926
+    }
+  },
+  "puzzle_rush": {}
+}

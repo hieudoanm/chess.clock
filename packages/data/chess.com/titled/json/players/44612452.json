@@ -1,0 +1,122 @@
+{
+  "player_id": 44612452,
+  "@id": "https://api.chess.com/pub/player/skakackonj",
+  "url": "https://www.chess.com/member/skakackonj",
+  "name": "Efim",
+  "username": "skakackonj",
+  "title": "FM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/BA",
+  "location": "Gorazde",
+  "last_online": 1619442291,
+  "joined": 1521920998,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2305,
+      "date": 1651739315,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1609243917,
+      "game": "https://www.chess.com/game/daily/258786054"
+    },
+    "record": {
+      "win": 81,
+      "loss": 7,
+      "draw": 27,
+      "time_per_move": 42706,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2089,
+      "date": 1620276003,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2190,
+      "date": 1614876452,
+      "game": "https://www.chess.com/game/daily/307348128"
+    },
+    "record": {
+      "win": 35,
+      "loss": 6,
+      "draw": 9,
+      "time_per_move": 42706,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1619296082,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1574625359,
+      "game": "https://www.chess.com/game/live/4653882596"
+    },
+    "record": {
+      "win": 52,
+      "loss": 25,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2294,
+      "date": 1618773101,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1616953197,
+      "game": "https://www.chess.com/game/live/10005761935"
+    },
+    "record": {
+      "win": 217,
+      "loss": 136,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1619376019,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2473,
+      "date": 1568574684,
+      "game": "https://www.chess.com/game/live/10008056041"
+    },
+    "record": {
+      "win": 1612,
+      "loss": 1324,
+      "draw": 267
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2463,
+      "date": 1521920998
+    },
+    "lowest": {
+      "rating": 2463,
+      "date": 1521920998
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 40
+    }
+  }
+}

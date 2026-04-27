@@ -1,0 +1,139 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23923456.fe4bfcc6.200x200o.32ec14ac6602.jpg",
+  "player_id": 23923456,
+  "@id": "https://api.chess.com/pub/player/viktorskliarov",
+  "url": "https://www.chess.com/member/viktorskliarov",
+  "name": "Viktor Skliarov",
+  "username": "viktorskliarov",
+  "title": "IM",
+  "followers": 1071,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kyiv",
+  "last_online": 1776596207,
+  "joined": 1441133208,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/im_skliarov",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/im_skliarov"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@im_skliarov_chess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2395,
+      "date": 1773307291,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1653145822,
+      "game": "https://www.chess.com/game/daily/624500951"
+    },
+    "record": {
+      "win": 99,
+      "loss": 13,
+      "draw": 32,
+      "time_per_move": 21823,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2339,
+      "date": 1736496477,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1736496477,
+      "game": "https://www.chess.com/game/daily/733605557"
+    },
+    "record": {
+      "win": 57,
+      "loss": 5,
+      "draw": 10,
+      "time_per_move": 21823,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2370,
+      "date": 1773772888,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1676308556,
+      "game": "https://www.chess.com/game/live/52518131545"
+    },
+    "record": {
+      "win": 267,
+      "loss": 112,
+      "draw": 96
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2818,
+      "date": 1769964971,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2818,
+      "date": 1767466811,
+      "game": "https://www.chess.com/game/live/71090821275"
+    },
+    "record": {
+      "win": 491,
+      "loss": 214,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2768,
+      "date": 1775581740,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1770741686,
+      "game": "https://www.chess.com/game/live/68409675941"
+    },
+    "record": {
+      "win": 3296,
+      "loss": 1621,
+      "draw": 720
+    }
+  },
+  "fide": 2450,
+  "tactics": {
+    "highest": {
+      "rating": 2813,
+      "date": 1764004571
+    },
+    "lowest": {
+      "rating": 2734,
+      "date": 1760129226
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 85,
+      "score": 82
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

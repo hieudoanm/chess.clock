@@ -1,0 +1,67 @@
+{
+  "player_id": 7135603,
+  "@id": "https://api.chess.com/pub/player/nikomiko",
+  "url": "https://www.chess.com/member/NikoMiko",
+  "name": "Nikolaj Mikkelsen",
+  "username": "nikomiko",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776018995,
+  "joined": 1333139308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2493,
+      "date": 1774431820,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1768680244,
+      "game": "https://www.chess.com/game/live/139085652760"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2534,
+      "date": 1776018981,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2554,
+      "date": 1771877271,
+      "game": "https://www.chess.com/game/live/130540866023"
+    },
+    "record": {
+      "win": 194,
+      "loss": 104,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2534,
+      "date": 1333139308
+    },
+    "lowest": {
+      "rating": 2534,
+      "date": 1333139308
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

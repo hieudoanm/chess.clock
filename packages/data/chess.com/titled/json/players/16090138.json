@@ -1,0 +1,78 @@
+{
+  "player_id": 16090138,
+  "@id": "https://api.chess.com/pub/player/romeofantiquity",
+  "url": "https://www.chess.com/member/RomeOfAntiquity",
+  "username": "romeofantiquity",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775149530,
+  "joined": 1392603801,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2116,
+      "date": 1676541588,
+      "rd": 294
+    },
+    "best": {
+      "rating": 2116,
+      "date": 1468003333,
+      "game": "https://www.chess.com/game/live/1645939571"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1676541588,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2321,
+      "date": 1714396133,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1710200501,
+      "game": "https://www.chess.com/game/live/103861183325"
+    },
+    "record": {
+      "win": 221,
+      "loss": 103,
+      "draw": 22
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2441,
+      "date": 1392603801
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1392603801
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

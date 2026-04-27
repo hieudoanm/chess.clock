@@ -1,0 +1,86 @@
+{
+  "player_id": 353557575,
+  "@id": "https://api.chess.com/pub/player/aiaru-01",
+  "url": "https://www.chess.com/member/Aiaru-01",
+  "name": "Aiaru Altynbek",
+  "username": "aiaru-01",
+  "title": "WFM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776595623,
+  "joined": 1711612767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1664,
+      "date": 1769683573,
+      "rd": 217
+    },
+    "best": {
+      "rating": 1664,
+      "date": 1769683573,
+      "game": "https://www.chess.com/game/daily/824252238"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 27612,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2448,
+      "date": 1776526017,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1775804601,
+      "game": "https://www.chess.com/game/live/167115368156"
+    },
+    "record": {
+      "win": 121,
+      "loss": 141,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2663,
+      "date": 1775415744,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2663,
+      "date": 1775415744,
+      "game": "https://www.chess.com/game/live/160387051563"
+    },
+    "record": {
+      "win": 279,
+      "loss": 272,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1772640841
+    },
+    "lowest": {
+      "rating": 2273,
+      "date": 1757001590
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

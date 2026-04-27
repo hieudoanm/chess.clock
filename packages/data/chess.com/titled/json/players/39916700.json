@@ -1,0 +1,73 @@
+{
+  "player_id": 39916700,
+  "@id": "https://api.chess.com/pub/player/matt2master",
+  "url": "https://www.chess.com/member/matt2master",
+  "username": "matt2master",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776584729,
+  "joined": 1509404757,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2186,
+      "date": 1749082711,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1652582865,
+      "game": "https://www.chess.com/game/live/35072395255"
+    },
+    "record": {
+      "win": 54,
+      "loss": 45,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1825,
+      "date": 1708431860,
+      "rd": 328
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2371,
+      "date": 1776584717,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1757195152,
+      "game": "https://www.chess.com/game/live/126340180215"
+    },
+    "record": {
+      "win": 14858,
+      "loss": 11975,
+      "draw": 2139
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2241,
+      "date": 1509404757
+    },
+    "lowest": {
+      "rating": 2241,
+      "date": 1509404757
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/453013106.7c747192.200x200o.1282cfb06fdd.png",
+  "player_id": 453013106,
+  "@id": "https://api.chess.com/pub/player/windenwanderer",
+  "url": "https://www.chess.com/member/WindenWanderer",
+  "name": "Jonas Kahnwald",
+  "username": "windenwanderer",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Winden",
+  "last_online": 1776568995,
+  "joined": 1747692175,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1665,
+      "date": 1773228214,
+      "rd": 184
+    },
+    "best": {
+      "rating": 1812,
+      "date": 1752370310,
+      "game": "https://www.chess.com/game/daily/837745320"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 5460,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2511,
+      "date": 1774372383,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1755198883,
+      "game": "https://www.chess.com/game/live/141885669452"
+    },
+    "record": {
+      "win": 94,
+      "loss": 38,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1775770904,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2946,
+      "date": 1775012068,
+      "game": "https://www.chess.com/game/live/147019638332"
+    },
+    "record": {
+      "win": 573,
+      "loss": 431,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2741,
+      "date": 1776534207,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2818,
+      "date": 1774741316,
+      "game": "https://www.chess.com/game/live/165344258040"
+    },
+    "record": {
+      "win": 551,
+      "loss": 482,
+      "draw": 87
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1760497517
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1757201915
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

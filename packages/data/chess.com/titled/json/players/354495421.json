@@ -1,0 +1,94 @@
+{
+  "player_id": 354495421,
+  "@id": "https://api.chess.com/pub/player/osielchesslover2011",
+  "url": "https://www.chess.com/member/osielchesslover2011",
+  "name": "Osiel Alberto Alonso Orta",
+  "username": "osielchesslover2011",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/CU",
+  "last_online": 1774192399,
+  "joined": 1712004460,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1723183047,
+      "rd": 350
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2221,
+      "date": 1768085537,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1768084324,
+      "game": "https://www.chess.com/game/live/111962591247"
+    },
+    "record": {
+      "win": 58,
+      "loss": 40,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2477,
+      "date": 1774192390,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1771779068,
+      "game": "https://www.chess.com/game/live/112206592321"
+    },
+    "record": {
+      "win": 245,
+      "loss": 458,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2126,
+      "date": 1767991105,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1716329312,
+      "game": "https://www.chess.com/game/live/108250296471"
+    },
+    "record": {
+      "win": 211,
+      "loss": 245,
+      "draw": 15
+    }
+  },
+  "fide": 2043,
+  "tactics": {
+    "highest": {
+      "rating": 2557,
+      "date": 1771768446
+    },
+    "lowest": {
+      "rating": 2450,
+      "date": 1771768516
+    }
+  },
+  "puzzle_rush": {}
+}

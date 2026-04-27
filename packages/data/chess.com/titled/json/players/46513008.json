@@ -1,0 +1,67 @@
+{
+  "player_id": 46513008,
+  "@id": "https://api.chess.com/pub/player/brainspeedzero",
+  "url": "https://www.chess.com/member/BrainSpeedZero",
+  "username": "brainspeedzero",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776577142,
+  "joined": 1527277215,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2135,
+      "date": 1776303266,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2246,
+      "date": 1677907830,
+      "game": "https://www.chess.com/game/live/73194341503"
+    },
+    "record": {
+      "win": 365,
+      "loss": 344,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2090,
+      "date": 1775714788,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2090,
+      "date": 1775714788,
+      "game": "https://www.chess.com/game/live/103620034487"
+    },
+    "record": {
+      "win": 241,
+      "loss": 152,
+      "draw": 17
+    }
+  },
+  "fide": 2063,
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1775341822
+    },
+    "lowest": {
+      "rating": 2178,
+      "date": 1775363818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 29
+    }
+  }
+}

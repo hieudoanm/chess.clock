@@ -1,0 +1,83 @@
+{
+  "player_id": 87965246,
+  "@id": "https://api.chess.com/pub/player/copernicium112",
+  "url": "https://www.chess.com/member/copernicium112",
+  "username": "copernicium112",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1752396724,
+  "joined": 1596177319,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2273,
+      "date": 1697301685,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1696753628,
+      "game": "https://www.chess.com/game/live/90488378497"
+    },
+    "record": {
+      "win": 25,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2380,
+      "date": 1713548012,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1713109554,
+      "game": "https://www.chess.com/game/live/106847999667"
+    },
+    "record": {
+      "win": 91,
+      "loss": 40,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2430,
+      "date": 1739341764,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1739341764,
+      "game": "https://www.chess.com/game/live/133079959599"
+    },
+    "record": {
+      "win": 321,
+      "loss": 207,
+      "draw": 47
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2546,
+      "date": 1596177319
+    },
+    "lowest": {
+      "rating": 2546,
+      "date": 1596177319
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

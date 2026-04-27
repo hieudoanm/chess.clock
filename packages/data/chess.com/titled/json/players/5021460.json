@@ -1,0 +1,102 @@
+{
+  "player_id": 5021460,
+  "@id": "https://api.chess.com/pub/player/el_ultimo_pablo",
+  "url": "https://www.chess.com/member/El_ultimo_Pablo",
+  "username": "el_ultimo_pablo",
+  "title": "CM",
+  "followers": 373,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1740984230,
+  "joined": 1303469532,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1286,
+      "date": 1728393888,
+      "rd": 233
+    },
+    "best": {
+      "rating": 1286,
+      "date": 1462485067,
+      "game": "https://www.chess.com/game/daily/134710752"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 31421,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2262,
+      "date": 1736863084,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1646943261,
+      "game": "https://www.chess.com/game/live/111946432843"
+    },
+    "record": {
+      "win": 71,
+      "loss": 49,
+      "draw": 32
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2502,
+      "date": 1730373333,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2665,
+      "date": 1696333638,
+      "game": "https://www.chess.com/game/live/103662717007"
+    },
+    "record": {
+      "win": 6302,
+      "loss": 7157,
+      "draw": 1310
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1730291224,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2697,
+      "date": 1662648278,
+      "game": "https://www.chess.com/game/live/56297744557"
+    },
+    "record": {
+      "win": 10879,
+      "loss": 13616,
+      "draw": 3952
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2762,
+      "date": 1303469532
+    },
+    "lowest": {
+      "rating": 2762,
+      "date": 1303469532
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

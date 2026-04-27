@@ -1,0 +1,99 @@
+{
+  "player_id": 65067342,
+  "@id": "https://api.chess.com/pub/player/flo65",
+  "url": "https://www.chess.com/member/flo65",
+  "name": "Florian Popist",
+  "username": "flo65",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776584200,
+  "joined": 1567536516,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1319,
+      "date": 1776584174,
+      "rd": 288
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 239872,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2208,
+      "date": 1776170163,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1757628841,
+      "game": "https://www.chess.com/game/live/146473072940"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1775014986,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1730139982,
+      "game": "https://www.chess.com/game/live/164030013142"
+    },
+    "record": {
+      "win": 32,
+      "loss": 27,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2313,
+      "date": 1776168259,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2473,
+      "date": 1767488981,
+      "game": "https://www.chess.com/game/live/147514403084"
+    },
+    "record": {
+      "win": 123,
+      "loss": 90,
+      "draw": 14
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 1866,
+      "date": 1768849485
+    },
+    "lowest": {
+      "rating": 1631,
+      "date": 1758277471
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

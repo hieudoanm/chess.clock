@@ -1,0 +1,83 @@
+{
+  "player_id": 25198196,
+  "@id": "https://api.chess.com/pub/player/bigsis01",
+  "url": "https://www.chess.com/member/bigsis01",
+  "username": "bigsis01",
+  "title": "WFM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776307861,
+  "joined": 1448199025,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2271,
+      "date": 1644747906,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1644747906,
+      "game": "https://www.chess.com/game/live/38485491313"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1754,
+      "date": 1637852972,
+      "rd": 71
+    },
+    "best": {
+      "rating": 1797,
+      "date": 1622387813,
+      "game": "https://www.chess.com/game/live/16126534505"
+    },
+    "record": {
+      "win": 106,
+      "loss": 102,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2009,
+      "date": 1623428718,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2226,
+      "date": 1609148436,
+      "game": "https://www.chess.com/game/live/6177096572"
+    },
+    "record": {
+      "win": 25,
+      "loss": 29,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1948,
+      "date": 1448199025
+    },
+    "lowest": {
+      "rating": 1948,
+      "date": 1448199025
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

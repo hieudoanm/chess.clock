@@ -1,0 +1,83 @@
+{
+  "player_id": 344566215,
+  "@id": "https://api.chess.com/pub/player/furius_baco",
+  "url": "https://www.chess.com/member/Furius_Baco",
+  "username": "furius_baco",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/PG",
+  "last_online": 1766506214,
+  "joined": 1707598117,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1712401939,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1712401939,
+      "game": "https://www.chess.com/game/live/106140621277"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1719399954,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1718290034,
+      "game": "https://www.chess.com/game/live/112028657421"
+    },
+    "record": {
+      "win": 48,
+      "loss": 52,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2454,
+      "date": 1719420742,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2454,
+      "date": 1719420742,
+      "game": "https://www.chess.com/game/live/105901139463"
+    },
+    "record": {
+      "win": 33,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2184,
+      "date": 1707598117
+    },
+    "lowest": {
+      "rating": 2184,
+      "date": 1707598117
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

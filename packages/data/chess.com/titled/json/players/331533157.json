@@ -1,0 +1,83 @@
+{
+  "player_id": 331533157,
+  "@id": "https://api.chess.com/pub/player/ieie2007",
+  "url": "https://www.chess.com/member/ieie2007",
+  "username": "ieie2007",
+  "title": "WFM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1769614021,
+  "joined": 1702217417,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2196,
+      "date": 1754260292,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1725387379,
+      "game": "https://www.chess.com/game/live/102283527173"
+    },
+    "record": {
+      "win": 263,
+      "loss": 194,
+      "draw": 30
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2137,
+      "date": 1742979523,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2266,
+      "date": 1725992380,
+      "game": "https://www.chess.com/game/live/119659819081"
+    },
+    "record": {
+      "win": 115,
+      "loss": 99,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2257,
+      "date": 1762729015,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1758387474,
+      "game": "https://www.chess.com/game/live/109690858689"
+    },
+    "record": {
+      "win": 238,
+      "loss": 194,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2105,
+      "date": 1702217417
+    },
+    "lowest": {
+      "rating": 2105,
+      "date": 1702217417
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

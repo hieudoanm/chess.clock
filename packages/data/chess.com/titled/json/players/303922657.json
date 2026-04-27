@@ -1,0 +1,81 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/303922657.fc712876.200x200o.8592f6cc9ba0.jpg",
+  "player_id": 303922657,
+  "@id": "https://api.chess.com/pub/player/miserableplayer4",
+  "url": "https://www.chess.com/member/miserableplayer4",
+  "username": "miserableplayer4",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776569644,
+  "joined": 1691186439,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1755527609,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 11,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2744,
+      "date": 1773597311,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1767482158,
+      "game": "https://www.chess.com/game/live/142436167738"
+    },
+    "record": {
+      "win": 119,
+      "loss": 96,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2731,
+      "date": 1776569636,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2857,
+      "date": 1770111022,
+      "game": "https://www.chess.com/game/live/140266630282"
+    },
+    "record": {
+      "win": 1134,
+      "loss": 1179,
+      "draw": 221
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2390,
+      "date": 1761018157
+    },
+    "lowest": {
+      "rating": 2180,
+      "date": 1775417669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

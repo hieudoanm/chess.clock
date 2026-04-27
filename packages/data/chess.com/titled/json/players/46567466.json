@@ -1,0 +1,85 @@
+{
+  "player_id": 46567466,
+  "@id": "https://api.chess.com/pub/player/lapleutrerie",
+  "url": "https://www.chess.com/member/lapleutrerie",
+  "name": "Adrien Anciaux",
+  "username": "lapleutrerie",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776535276,
+  "joined": 1527443708,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2557,
+      "date": 1775572051,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1773277335,
+      "game": "https://www.chess.com/game/live/147562098988"
+    },
+    "record": {
+      "win": 121,
+      "loss": 31,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2812,
+      "date": 1776535177,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2890,
+      "date": 1776445120,
+      "game": "https://www.chess.com/game/live/144923268610"
+    },
+    "record": {
+      "win": 4641,
+      "loss": 3412,
+      "draw": 537
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2749,
+      "date": 1763650930,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2749,
+      "date": 1763650930,
+      "game": "https://www.chess.com/game/live/148815507181"
+    },
+    "record": {
+      "win": 2932,
+      "loss": 2366,
+      "draw": 331
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2634,
+      "date": 1773237595
+    },
+    "lowest": {
+      "rating": 2508,
+      "date": 1766542341
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15691098.e298786d.200x200o.b2fe0ac42ee9.jpeg",
+  "player_id": 15691098,
+  "@id": "https://api.chess.com/pub/player/highlama",
+  "url": "https://www.chess.com/member/highlama",
+  "name": "Alex Chua",
+  "username": "highlama",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Portland, Oregon area",
+  "last_online": 1776556805,
+  "joined": 1390360899,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1710,
+      "date": 1743409703,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1390360899,
+      "game": "https://www.chess.com/game/daily/634729423"
+    },
+    "record": {
+      "win": 42,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 6624,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2350,
+      "date": 1759026399,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1759026399,
+      "game": "https://www.chess.com/game/live/142503787038"
+    },
+    "record": {
+      "win": 58,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2144,
+      "date": 1776479352,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1770524790,
+      "game": "https://www.chess.com/game/live/143321736378"
+    },
+    "record": {
+      "win": 4462,
+      "loss": 4205,
+      "draw": 162
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1769745547,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1749439641,
+      "game": "https://www.chess.com/game/live/134239739571"
+    },
+    "record": {
+      "win": 1589,
+      "loss": 1461,
+      "draw": 124
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2579,
+      "date": 1758239533
+    },
+    "lowest": {
+      "rating": 2433,
+      "date": 1774114088
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

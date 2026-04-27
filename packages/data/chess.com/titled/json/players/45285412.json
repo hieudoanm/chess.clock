@@ -1,0 +1,86 @@
+{
+  "player_id": 45285412,
+  "@id": "https://api.chess.com/pub/player/pavel_chernyshov",
+  "url": "https://www.chess.com/member/Pavel_Chernyshov",
+  "name": "Pavel Chernyshov",
+  "username": "pavel_chernyshov",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moskow",
+  "last_online": 1685721923,
+  "joined": 1523700889,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2434,
+      "date": 1648313694,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1648313694,
+      "game": "https://www.chess.com/game/live/42051060583"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2314,
+      "date": 1650635592,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1639872739,
+      "game": "https://www.chess.com/game/live/33611405409"
+    },
+    "record": {
+      "win": 323,
+      "loss": 287,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1649175578,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1642588406,
+      "game": "https://www.chess.com/game/live/35542633827"
+    },
+    "record": {
+      "win": 1178,
+      "loss": 905,
+      "draw": 146
+    }
+  },
+  "fide": 2280,
+  "tactics": {
+    "highest": {
+      "rating": 2328,
+      "date": 1523700889
+    },
+    "lowest": {
+      "rating": 2328,
+      "date": 1523700889
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

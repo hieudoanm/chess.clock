@@ -1,0 +1,104 @@
+{
+  "player_id": 9518920,
+  "@id": "https://api.chess.com/pub/player/busygin",
+  "url": "https://www.chess.com/member/busygin",
+  "name": "Stanislav Busygin",
+  "username": "busygin",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Penn Valley, PA",
+  "last_online": 1775322232,
+  "joined": 1352059742,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2111,
+      "date": 1535012894,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1503464470,
+      "game": "https://www.chess.com/game/daily/171885802"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 8703,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2043,
+      "date": 1615057807,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1414194965,
+      "game": "https://www.chess.com/game/live/1175631003"
+    },
+    "record": {
+      "win": 202,
+      "loss": 41,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2202,
+      "date": 1594958291,
+      "rd": 301
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1594958291,
+      "game": "https://www.chess.com/game/live/5161422455"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1909,
+      "date": 1606166850,
+      "rd": 57
+    },
+    "best": {
+      "rating": 1988,
+      "date": 1441681773,
+      "game": "https://www.chess.com/game/live/5366071094"
+    },
+    "record": {
+      "win": 641,
+      "loss": 132,
+      "draw": 30
+    }
+  },
+  "fide": 2342,
+  "tactics": {
+    "highest": {
+      "rating": 2447,
+      "date": 1762392154
+    },
+    "lowest": {
+      "rating": 2251,
+      "date": 1763328739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

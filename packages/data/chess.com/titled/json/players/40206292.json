@@ -1,0 +1,78 @@
+{
+    "player_id": 40206292,
+    "@id": "https://api.chess.com/pub/player/arturomorales98",
+    "url": "https://www.chess.com/member/ArturoMorales98",
+    "username": "arturomorales98",
+    "title": "GM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1733297684,
+    "joined": 1510247706,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2500,
+            "date": 1718368505,
+            "rd": 296
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2978,
+            "date": 1726696210,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2978,
+            "date": 1726696210,
+            "game": "https://www.chess.com/game/live/116851262387"
+        },
+        "record": {
+            "win": 129,
+            "loss": 47,
+            "draw": 10
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2985,
+            "date": 1732851951,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2987,
+            "date": 1732850869,
+            "game": "https://www.chess.com/game/live/126588584455"
+        },
+        "record": {
+            "win": 787,
+            "loss": 517,
+            "draw": 142
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1383,
+            "date": 1594806421
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1528880632
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

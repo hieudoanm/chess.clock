@@ -1,0 +1,80 @@
+{
+  "player_id": 417891071,
+  "@id": "https://api.chess.com/pub/player/ansprvt",
+  "url": "https://www.chess.com/member/ansprvt",
+  "name": "Aldiyar Ansat",
+  "username": "ansprvt",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776515632,
+  "joined": 1736931643,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2466,
+      "date": 1774978280,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1775116640,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2904,
+      "date": 1775116640,
+      "game": "https://www.chess.com/game/live/164683268790"
+    },
+    "record": {
+      "win": 84,
+      "loss": 38,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2864,
+      "date": 1771348127,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2868,
+      "date": 1771347578,
+      "game": "https://www.chess.com/game/live/146303014535"
+    },
+    "record": {
+      "win": 37,
+      "loss": 20,
+      "draw": 3
+    }
+  },
+  "fide": 2474,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1736931643
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1736931643
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

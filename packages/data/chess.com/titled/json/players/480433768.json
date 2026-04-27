@@ -1,0 +1,83 @@
+{
+  "player_id": 480433768,
+  "@id": "https://api.chess.com/pub/player/ilovechess20150",
+  "url": "https://www.chess.com/member/Ilovechess20150",
+  "username": "ilovechess20150",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776483303,
+  "joined": 1756970296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1769758880
+    },
+    "best": {
+      "rating": 1219,
+      "date": 1769758880,
+      "game": "https://www.chess.com/game/live/163995199318"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2580,
+      "date": 1771495238,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1760750845,
+      "game": "https://www.chess.com/game/live/144345767640"
+    },
+    "record": {
+      "win": 46,
+      "loss": 20,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2629,
+      "date": 1775894027,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2783,
+      "date": 1770949105,
+      "game": "https://www.chess.com/game/live/164610770046"
+    },
+    "record": {
+      "win": 274,
+      "loss": 142,
+      "draw": 31
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 696,
+      "date": 1759721252
+    },
+    "lowest": {
+      "rating": 475,
+      "date": 1758112419
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

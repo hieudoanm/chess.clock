@@ -1,0 +1,83 @@
+{
+  "player_id": 77560420,
+  "@id": "https://api.chess.com/pub/player/thebulldog1",
+  "url": "https://www.chess.com/member/thebulldog1",
+  "username": "thebulldog1",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776341063,
+  "joined": 1587637842,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2152,
+      "date": 1776100460,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2297,
+      "date": 1590425710,
+      "game": "https://www.chess.com/game/live/66336664631"
+    },
+    "record": {
+      "win": 39,
+      "loss": 12,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1776341052,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1662745903,
+      "game": "https://www.chess.com/game/live/43853123089"
+    },
+    "record": {
+      "win": 478,
+      "loss": 515,
+      "draw": 53
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2654,
+      "date": 1775763099,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2737,
+      "date": 1676565540,
+      "game": "https://www.chess.com/game/live/144749983894"
+    },
+    "record": {
+      "win": 2007,
+      "loss": 2045,
+      "draw": 366
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2428,
+      "date": 1587637842
+    },
+    "lowest": {
+      "rating": 2428,
+      "date": 1587637842
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 55526174,
+  "@id": "https://api.chess.com/pub/player/dasatcu",
+  "url": "https://www.chess.com/member/dasatcu",
+  "username": "dasatcu",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1602639003,
+  "joined": 1546630566,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1708,
+      "date": 1634891315,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1941,
+      "date": 1601390765,
+      "game": "https://www.chess.com/game/daily/279021602"
+    },
+    "record": {
+      "win": 17,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 67240,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2125,
+      "date": 1601061507,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1587054187,
+      "game": "https://www.chess.com/game/live/4540638642"
+    },
+    "record": {
+      "win": 405,
+      "loss": 316,
+      "draw": 43
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1546630566
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1546630566
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

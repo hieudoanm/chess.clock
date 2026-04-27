@@ -1,0 +1,103 @@
+{
+  "player_id": 11103040,
+  "@id": "https://api.chess.com/pub/player/initiatingasc",
+  "url": "https://www.chess.com/member/InitiatingASC",
+  "name": "Michael Buscar",
+  "username": "initiatingasc",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776574940,
+  "joined": 1362962187,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1177,
+      "date": 1602956642,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1362962187,
+      "game": "https://www.chess.com/game/daily/277924792"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 29708,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2415,
+      "date": 1776574917,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1776574917,
+      "game": "https://www.chess.com/game/live/167507056730"
+    },
+    "record": {
+      "win": 77,
+      "loss": 68,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1772111103,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1666211967,
+      "game": "https://www.chess.com/game/live/9080840303"
+    },
+    "record": {
+      "win": 317,
+      "loss": 214,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2508,
+      "date": 1772458396,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1755621740,
+      "game": "https://www.chess.com/game/live/146905401037"
+    },
+    "record": {
+      "win": 1538,
+      "loss": 1782,
+      "draw": 326
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1773587010
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1773587010
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

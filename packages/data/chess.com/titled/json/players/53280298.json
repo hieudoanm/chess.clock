@@ -1,0 +1,98 @@
+{
+  "player_id": 53280298,
+  "@id": "https://api.chess.com/pub/player/shambleschess06",
+  "url": "https://www.chess.com/member/shambleschess06",
+  "name": "Louis Auribault",
+  "username": "shambleschess06",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776599565,
+  "joined": 1544881894,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1762183357,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 78,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2162,
+      "date": 1743519435
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1741274779,
+      "game": "https://www.chess.com/game/live/55354754641"
+    },
+    "record": {
+      "win": 25,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2268,
+      "date": 1772467950,
+      "rd": 194
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1772467262,
+      "game": "https://www.chess.com/game/live/165415833034"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2563,
+      "date": 1773749324,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1761669791,
+      "game": "https://www.chess.com/game/live/145695573425"
+    },
+    "record": {
+      "win": 377,
+      "loss": 258,
+      "draw": 42
+    }
+  },
+  "fide": 2162,
+  "tactics": {
+    "highest": {
+      "rating": 2574,
+      "date": 1773168400
+    },
+    "lowest": {
+      "rating": 2155,
+      "date": 1761327632
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

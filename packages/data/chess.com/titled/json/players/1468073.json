@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1468073.25010c49.200x200o.bb623162d969.jpeg",
+  "player_id": 1468073,
+  "@id": "https://api.chess.com/pub/player/shaunpress",
+  "url": "https://www.chess.com/member/shaunpress",
+  "name": "Shaun Press",
+  "username": "shaunpress",
+  "title": "FM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/PG",
+  "location": "Canberra",
+  "last_online": 1774736978,
+  "joined": 1218600086,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2417,
+      "date": 1633229398,
+      "rd": 225
+    },
+    "best": {
+      "rating": 2417,
+      "date": 1600783802,
+      "game": "https://www.chess.com/game/daily/51764501"
+    },
+    "record": {
+      "win": 34,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 76388,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1748,
+      "date": 1608112324,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1584607253,
+      "game": "https://www.chess.com/game/live/5419871512"
+    },
+    "record": {
+      "win": 34,
+      "loss": 15,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2170,
+      "date": 1613426655,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1613423438,
+      "game": "https://www.chess.com/game/live/4519396375"
+    },
+    "record": {
+      "win": 191,
+      "loss": 144,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1856,
+      "date": 1595238416,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1578044131,
+      "game": "https://www.chess.com/game/live/4760251213"
+    },
+    "record": {
+      "win": 88,
+      "loss": 76,
+      "draw": 10
+    }
+  },
+  "fide": 2038,
+  "tactics": {
+    "highest": {
+      "rating": 2304,
+      "date": 1218600086
+    },
+    "lowest": {
+      "rating": 2304,
+      "date": 1218600086
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

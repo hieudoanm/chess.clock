@@ -1,0 +1,80 @@
+{
+  "player_id": 55523542,
+  "@id": "https://api.chess.com/pub/player/raphcamora",
+  "url": "https://www.chess.com/member/RaphCamora",
+  "name": "Raphael Lagunow",
+  "username": "raphcamora",
+  "title": "IM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1774697138,
+  "joined": 1546627226,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1745576840,
+      "rd": 49
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2316,
+      "date": 1627684260,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1606650958,
+      "game": "https://www.chess.com/game/live/3870991509"
+    },
+    "record": {
+      "win": 60,
+      "loss": 21,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2543,
+      "date": 1770335794,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2583,
+      "date": 1662048855,
+      "game": "https://www.chess.com/game/live/20539268629"
+    },
+    "record": {
+      "win": 872,
+      "loss": 681,
+      "draw": 157
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2503,
+      "date": 1546627226
+    },
+    "lowest": {
+      "rating": 2503,
+      "date": 1546627226
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

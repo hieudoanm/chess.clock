@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1343066.75d76f4d.200x200o.d97102355dcf.jpeg",
+  "player_id": 1343066,
+  "@id": "https://api.chess.com/pub/player/gmg",
+  "url": "https://www.chess.com/member/GMG",
+  "name": "Andrey Gorovets",
+  "username": "gmg",
+  "title": "GM",
+  "followers": 4272,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1776541758,
+  "joined": 1206652296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2262,
+      "date": 1776528043,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2763,
+      "date": 1599781339,
+      "game": "https://www.chess.com/game/live/167994017483"
+    },
+    "record": {
+      "win": 601,
+      "loss": 100,
+      "draw": 1296
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2090,
+      "date": 1743030023,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2804,
+      "date": 1605510755,
+      "game": "https://www.chess.com/game/live/3226955693"
+    },
+    "record": {
+      "win": 862,
+      "loss": 608,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2785,
+      "date": 1776518196,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2928,
+      "date": 1675771015,
+      "game": "https://www.chess.com/game/live/3580855988"
+    },
+    "record": {
+      "win": 15874,
+      "loss": 12149,
+      "draw": 4112
+    }
+  },
+  "fide": 2616,
+  "tactics": {
+    "highest": {
+      "rating": 2616,
+      "date": 1773907132
+    },
+    "lowest": {
+      "rating": 2581,
+      "date": 1773907108
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

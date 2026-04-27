@@ -1,0 +1,66 @@
+{
+  "player_id": 397472927,
+  "@id": "https://api.chess.com/pub/player/only_10_min",
+  "url": "https://www.chess.com/member/Only_10_min",
+  "username": "only_10_min",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1767002174,
+  "joined": 1729582098,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2440,
+      "date": 1765748975,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1765407099,
+      "game": "https://www.chess.com/game/live/144408065484"
+    },
+    "record": {
+      "win": 33,
+      "loss": 7,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2407,
+      "date": 1755681819,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1730151601,
+      "game": "https://www.chess.com/game/live/142105509366"
+    },
+    "record": {
+      "win": 63,
+      "loss": 64,
+      "draw": 22
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1729582098
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1729582098
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 320007633,
+  "@id": "https://api.chess.com/pub/player/kongechess",
+  "url": "https://www.chess.com/member/kongechess",
+  "username": "kongechess",
+  "title": "IM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1753644758,
+  "joined": 1697489592,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2543,
+      "date": 1753646465,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1753646465,
+      "game": "https://www.chess.com/game/live/91482538105"
+    },
+    "record": {
+      "win": 23,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1753646167,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1698612866,
+      "game": "https://www.chess.com/game/live/96488359215"
+    },
+    "record": {
+      "win": 86,
+      "loss": 58,
+      "draw": 14
+    }
+  },
+  "fide": 2448,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1697489592
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1697489592
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 43
+    }
+  }
+}

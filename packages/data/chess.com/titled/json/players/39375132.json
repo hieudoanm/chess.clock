@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39375132.4492e22c.200x200o.02caa6d58823.jpg",
+  "player_id": 39375132,
+  "@id": "https://api.chess.com/pub/player/2sks",
+  "url": "https://www.chess.com/member/2sks",
+  "name": "Vladimir Hrtko",
+  "username": "2sks",
+  "title": "CM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776594191,
+  "joined": 1507781168,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1706712391,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 226599,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2305,
+      "date": 1776587652,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1776507917,
+      "game": "https://www.chess.com/game/live/167410793474"
+    },
+    "record": {
+      "win": 838,
+      "loss": 687,
+      "draw": 239
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2054,
+      "date": 1776098975,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1776098939,
+      "game": "https://www.chess.com/game/live/10060949657"
+    },
+    "record": {
+      "win": 2914,
+      "loss": 2856,
+      "draw": 418
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2188,
+      "date": 1776594139,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1775817538,
+      "game": "https://www.chess.com/game/live/143785261436"
+    },
+    "record": {
+      "win": 15485,
+      "loss": 14330,
+      "draw": 3478
+    }
+  },
+  "fide": 2102,
+  "tactics": {
+    "highest": {
+      "rating": 2177,
+      "date": 1756059759
+    },
+    "lowest": {
+      "rating": 2063,
+      "date": 1775230845
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

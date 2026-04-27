@@ -1,0 +1,121 @@
+{
+  "player_id": 37939532,
+  "@id": "https://api.chess.com/pub/player/alma-ata",
+  "url": "https://www.chess.com/member/Alma-Ata",
+  "username": "alma-ata",
+  "title": "IM",
+  "followers": 109,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776539021,
+  "joined": 1503134618,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1776531623,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2025,
+      "date": 1769773850,
+      "game": "https://www.chess.com/game/daily/542473729"
+    },
+    "record": {
+      "win": 204,
+      "loss": 74,
+      "draw": 23,
+      "time_per_move": 13571,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1919,
+      "date": 1727815442,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1681116556,
+      "game": "https://www.chess.com/game/daily/568017395"
+    },
+    "record": {
+      "win": 35,
+      "loss": 17,
+      "draw": 8,
+      "time_per_move": 13571,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1755622337,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2060,
+      "date": 1688579529,
+      "game": "https://www.chess.com/game/live/109254081861"
+    },
+    "record": {
+      "win": 11,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1771171800,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2451,
+      "date": 1694875143,
+      "game": "https://www.chess.com/game/live/89325702713"
+    },
+    "record": {
+      "win": 394,
+      "loss": 283,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1774534468,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1679665438,
+      "game": "https://www.chess.com/game/live/2487772566"
+    },
+    "record": {
+      "win": 875,
+      "loss": 763,
+      "draw": 102
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2455,
+      "date": 1763322552
+    },
+    "lowest": {
+      "rating": 2067,
+      "date": 1776290857
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

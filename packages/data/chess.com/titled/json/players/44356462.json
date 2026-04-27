@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44356462.24ff5e36.200x200o.2093f425f345.png",
+  "player_id": 44356462,
+  "@id": "https://api.chess.com/pub/player/doghateme",
+  "url": "https://www.chess.com/member/DogHateMe",
+  "username": "doghateme",
+  "title": "WCM",
+  "followers": 82,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776588204,
+  "joined": 1521273116,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1538,
+      "date": 1749101651,
+      "rd": 166
+    },
+    "best": {
+      "rating": 1604,
+      "date": 1619879206,
+      "game": "https://www.chess.com/game/daily/291240260"
+    },
+    "record": {
+      "win": 40,
+      "loss": 56,
+      "draw": 4,
+      "time_per_move": 50678,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2030,
+      "date": 1729689206,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2043,
+      "date": 1714050101,
+      "game": "https://www.chess.com/game/live/107785957677"
+    },
+    "record": {
+      "win": 56,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2344,
+      "date": 1775546745,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2472,
+      "date": 1771751320,
+      "game": "https://www.chess.com/game/live/165042994116"
+    },
+    "record": {
+      "win": 4346,
+      "loss": 4638,
+      "draw": 483
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1776247793,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1776247793,
+      "game": "https://www.chess.com/game/live/139189201788"
+    },
+    "record": {
+      "win": 1533,
+      "loss": 1534,
+      "draw": 164
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2390,
+      "date": 1776215973
+    },
+    "lowest": {
+      "rating": 2180,
+      "date": 1770858913
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

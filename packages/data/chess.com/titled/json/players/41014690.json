@@ -1,0 +1,93 @@
+{
+  "player_id": 41014690,
+  "@id": "https://api.chess.com/pub/player/dogsofwar",
+  "url": "https://www.chess.com/member/dogsofwar",
+  "username": "dogsofwar",
+  "title": "GM",
+  "followers": 448,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776598393,
+  "joined": 1512436459,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1707,
+      "date": 1737380312,
+      "rd": 284
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1259930,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1948,
+      "date": 1744240042,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3025,
+      "date": 1760571595,
+      "rd": 42
+    },
+    "best": {
+      "rating": 3141,
+      "date": 1605300914,
+      "game": "https://www.chess.com/game/live/5680407997"
+    },
+    "record": {
+      "win": 610,
+      "loss": 216,
+      "draw": 90
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3284,
+      "date": 1776599887,
+      "rd": 39
+    },
+    "best": {
+      "rating": 3320,
+      "date": 1774780333,
+      "game": "https://www.chess.com/game/live/144085155342"
+    },
+    "record": {
+      "win": 2314,
+      "loss": 1012,
+      "draw": 568
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2325,
+      "date": 1512436459
+    },
+    "lowest": {
+      "rating": 2325,
+      "date": 1512436459
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

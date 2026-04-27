@@ -1,0 +1,104 @@
+{
+  "player_id": 28243124,
+  "@id": "https://api.chess.com/pub/player/abdalagathos",
+  "url": "https://www.chess.com/member/AbdAlAgathos",
+  "name": "Tristan Remille",
+  "username": "abdalagathos",
+  "title": "FM",
+  "followers": 99,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776577976,
+  "joined": 1463574487,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 950,
+      "date": 1723032815,
+      "rd": 333
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1463574487,
+      "game": "https://www.chess.com/game/daily/674838265"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30135,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1994,
+      "date": 1693848318,
+      "rd": 136
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1685977581,
+      "game": "https://www.chess.com/game/live/87583267039"
+    },
+    "record": {
+      "win": 2,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2481,
+      "date": 1776577966,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1763698163,
+      "game": "https://www.chess.com/game/live/147247425168"
+    },
+    "record": {
+      "win": 13876,
+      "loss": 10678,
+      "draw": 1422
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1745237887,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1669074184,
+      "game": "https://www.chess.com/game/live/76840168941"
+    },
+    "record": {
+      "win": 1905,
+      "loss": 1549,
+      "draw": 340
+    }
+  },
+  "fide": 2276,
+  "tactics": {
+    "highest": {
+      "rating": 2415,
+      "date": 1760861378
+    },
+    "lowest": {
+      "rating": 2211,
+      "date": 1774260515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

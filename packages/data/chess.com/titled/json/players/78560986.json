@@ -1,0 +1,98 @@
+{
+  "player_id": 78560986,
+  "@id": "https://api.chess.com/pub/player/phonysallly",
+  "url": "https://www.chess.com/member/phonySallly",
+  "username": "phonysallly",
+  "title": "FM",
+  "followers": 282,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776587779,
+  "joined": 1588597282,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1762899094,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 263807,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2641,
+      "date": 1771163120,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1771163120,
+      "game": "https://www.chess.com/game/live/164451726692"
+    },
+    "record": {
+      "win": 229,
+      "loss": 64,
+      "draw": 58
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2625,
+      "date": 1775749283,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1771164655,
+      "game": "https://www.chess.com/game/live/143257955848"
+    },
+    "record": {
+      "win": 2847,
+      "loss": 2485,
+      "draw": 590
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2677,
+      "date": 1776589301,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2756,
+      "date": 1771414849,
+      "game": "https://www.chess.com/game/live/97150293801"
+    },
+    "record": {
+      "win": 24566,
+      "loss": 20738,
+      "draw": 7813
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1912,
+      "date": 1588597282
+    },
+    "lowest": {
+      "rating": 1912,
+      "date": 1588597282
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

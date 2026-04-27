@@ -1,0 +1,84 @@
+{
+  "player_id": 14972962,
+  "@id": "https://api.chess.com/pub/player/mbneu",
+  "url": "https://www.chess.com/member/Mbneu",
+  "name": "Matthia Bach",
+  "username": "mbneu",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776599847,
+  "joined": 1386757456,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2138,
+      "date": 1692039105,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2280,
+      "date": 1561831270,
+      "game": "https://www.chess.com/game/live/85159367801"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2202,
+      "date": 1768069556,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1604438735,
+      "game": "https://www.chess.com/game/live/162379027795"
+    },
+    "record": {
+      "win": 99,
+      "loss": 174,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2475,
+      "date": 1775938167,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1761487600,
+      "game": "https://www.chess.com/game/live/21233490613"
+    },
+    "record": {
+      "win": 11961,
+      "loss": 11903,
+      "draw": 1689
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2528,
+      "date": 1386757456
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1386757456
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 81,
+      "score": 78
+    }
+  }
+}

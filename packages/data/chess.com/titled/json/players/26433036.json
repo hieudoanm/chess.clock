@@ -1,0 +1,85 @@
+{
+  "player_id": 26433036,
+  "@id": "https://api.chess.com/pub/player/agamat",
+  "url": "https://www.chess.com/member/AgaMat",
+  "name": "Agnieszka Matras-Clement",
+  "username": "agamat",
+  "title": "WIM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Edmonton",
+  "last_online": 1776388722,
+  "joined": 1454203081,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 990,
+      "date": 1655852838,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1478367704,
+      "game": "https://www.chess.com/game/live/5646163648"
+    },
+    "record": {
+      "win": 39,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1965,
+      "date": 1603827120,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2107,
+      "date": 1518889260,
+      "game": "https://www.chess.com/game/live/2622869242"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1481,
+      "date": 1743785205,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1611713848,
+      "game": "https://www.chess.com/game/live/4701252054"
+    },
+    "record": {
+      "win": 40,
+      "loss": 8,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2342,
+      "date": 1454203081
+    },
+    "lowest": {
+      "rating": 2342,
+      "date": 1454203081
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

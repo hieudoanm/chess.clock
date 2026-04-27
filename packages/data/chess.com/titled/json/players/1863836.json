@@ -1,0 +1,105 @@
+{
+  "player_id": 1863836,
+  "@id": "https://api.chess.com/pub/player/swarajan",
+  "url": "https://www.chess.com/member/Swarajan",
+  "name": "Abhiram Sasitharan",
+  "username": "swarajan",
+  "title": "FM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/BW",
+  "location": "Gaborone",
+  "last_online": 1776566418,
+  "joined": 1239271258,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1981,
+      "date": 1670340688,
+      "rd": 69
+    },
+    "best": {
+      "rating": 1981,
+      "date": 1398936726,
+      "game": "https://www.chess.com/game/daily/88417376"
+    },
+    "record": {
+      "win": 49,
+      "loss": 10,
+      "draw": 8,
+      "time_per_move": 8827,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2098,
+      "date": 1723394951,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1614428852,
+      "game": "https://www.chess.com/game/live/5260441048"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2103,
+      "date": 1775503739,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2249,
+      "date": 1736892818,
+      "game": "https://www.chess.com/game/live/130631387723"
+    },
+    "record": {
+      "win": 498,
+      "loss": 425,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2299,
+      "date": 1776564953,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1775007285,
+      "game": "https://www.chess.com/game/live/165828856584"
+    },
+    "record": {
+      "win": 1062,
+      "loss": 1011,
+      "draw": 127
+    }
+  },
+  "fide": 1965,
+  "tactics": {
+    "highest": {
+      "rating": 2172,
+      "date": 1756759970
+    },
+    "lowest": {
+      "rating": 1817,
+      "date": 1766585097
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

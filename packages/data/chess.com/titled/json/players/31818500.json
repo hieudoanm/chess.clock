@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31818500.5679201d.200x200o.46996ccc050a.jpg",
+  "player_id": 31818500,
+  "@id": "https://api.chess.com/pub/player/sebazzano",
+  "url": "https://www.chess.com/member/SEBAZZANO",
+  "name": "Sebastian Bazzano",
+  "username": "sebazzano",
+  "title": "CM",
+  "followers": 242,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776574568,
+  "joined": 1482502585,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1409,
+      "date": 1752894619,
+      "rd": 343
+    },
+    "best": {
+      "rating": 1409,
+      "date": 1752894619,
+      "game": "https://www.chess.com/game/daily/839870252"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 192,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2351,
+      "date": 1717628763,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2461,
+      "date": 1609970458,
+      "game": "https://www.chess.com/game/live/84926447293"
+    },
+    "record": {
+      "win": 42,
+      "loss": 26,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2301,
+      "date": 1776303993,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1772153645,
+      "game": "https://www.chess.com/game/live/165523189392"
+    },
+    "record": {
+      "win": 14761,
+      "loss": 12847,
+      "draw": 1391
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2396,
+      "date": 1753074278,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1753074278,
+      "game": "https://www.chess.com/game/live/94342961393"
+    },
+    "record": {
+      "win": 5969,
+      "loss": 4765,
+      "draw": 1225
+    }
+  },
+  "fide": 2280,
+  "tactics": {
+    "highest": {
+      "rating": 2428,
+      "date": 1772338519
+    },
+    "lowest": {
+      "rating": 2308,
+      "date": 1760608042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "player_id": 23122372,
+  "@id": "https://api.chess.com/pub/player/ril1997",
+  "url": "https://www.chess.com/member/ril1997",
+  "name": "Carlos Javier Bernab\u00e9u L\u00f3pez",
+  "username": "ril1997",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776552885,
+  "joined": 1436196726,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2814,
+      "date": 1775667907,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2861,
+      "date": 1724868332,
+      "game": "https://www.chess.com/game/live/118606762287"
+    },
+    "record": {
+      "win": 427,
+      "loss": 193,
+      "draw": 90
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2733,
+      "date": 1775300788,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2777,
+      "date": 1770748526,
+      "game": "https://www.chess.com/game/live/142087840101"
+    },
+    "record": {
+      "win": 264,
+      "loss": 146,
+      "draw": 75
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2494,
+      "date": 1757175382
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1771267459
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    },
+    "daily": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

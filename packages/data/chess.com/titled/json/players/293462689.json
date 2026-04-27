@@ -1,0 +1,101 @@
+{
+  "player_id": 293462689,
+  "@id": "https://api.chess.com/pub/player/meredolna",
+  "url": "https://www.chess.com/member/meredolna",
+  "username": "meredolna",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776540725,
+  "joined": 1686739046,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1648,
+      "date": 1773661514,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1648,
+      "date": 1712590104,
+      "game": "https://www.chess.com/game/daily/634648921"
+    },
+    "record": {
+      "win": 35,
+      "loss": 5,
+      "draw": 4,
+      "time_per_move": 10581,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1931,
+      "date": 1776540426,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1751568734,
+      "game": "https://www.chess.com/game/live/140294148742"
+    },
+    "record": {
+      "win": 324,
+      "loss": 292,
+      "draw": 53
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1338,
+      "date": 1775566205,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1785,
+      "date": 1732888126,
+      "game": "https://www.chess.com/game/live/129198817085"
+    },
+    "record": {
+      "win": 70,
+      "loss": 121,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1586,
+      "date": 1776512744,
+      "rd": 44
+    },
+    "best": {
+      "rating": 1827,
+      "date": 1733425500,
+      "game": "https://www.chess.com/game/live/127163979283"
+    },
+    "record": {
+      "win": 372,
+      "loss": 413,
+      "draw": 38
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2232,
+      "date": 1757616732
+    },
+    "lowest": {
+      "rating": 1876,
+      "date": 1766394816
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

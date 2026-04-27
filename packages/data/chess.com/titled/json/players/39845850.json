@@ -1,0 +1,103 @@
+{
+  "player_id": 39845850,
+  "@id": "https://api.chess.com/pub/player/littlemymoomin",
+  "url": "https://www.chess.com/member/LittleMyMoomin",
+  "name": "Ellen Kakulidis",
+  "username": "littlemymoomin",
+  "title": "WFM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776446163,
+  "joined": 1509203216,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1217,
+      "date": 1744965070,
+      "rd": 337
+    },
+    "best": {
+      "rating": 1217,
+      "date": 1685830232,
+      "game": "https://www.chess.com/game/daily/524670955"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7590,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1798,
+      "date": 1691341364,
+      "rd": 191
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1596815216,
+      "game": "https://www.chess.com/game/live/5306424899"
+    },
+    "record": {
+      "win": 8,
+      "loss": 12,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1814,
+      "date": 1645044745,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1885,
+      "date": 1645044418,
+      "game": "https://www.chess.com/game/live/4095508398"
+    },
+    "record": {
+      "win": 16,
+      "loss": 23,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2012,
+      "date": 1700424845,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1696762362,
+      "game": "https://www.chess.com/game/live/43515060589"
+    },
+    "record": {
+      "win": 476,
+      "loss": 479,
+      "draw": 56
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2443,
+      "date": 1509203216
+    },
+    "lowest": {
+      "rating": 2443,
+      "date": 1509203216
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

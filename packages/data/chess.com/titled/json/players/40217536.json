@@ -1,0 +1,123 @@
+{
+  "player_id": 40217536,
+  "@id": "https://api.chess.com/pub/player/flukeynz",
+  "url": "https://www.chess.com/member/flukeyNZ",
+  "name": "Stephen G Lukey",
+  "username": "flukeynz",
+  "title": "FM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "location": "Christchurch",
+  "last_online": 1776339412,
+  "joined": 1510271157,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2270,
+      "date": 1718910073,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2290,
+      "date": 1621983197,
+      "game": "https://www.chess.com/game/daily/364838179"
+    },
+    "record": {
+      "win": 57,
+      "loss": 6,
+      "draw": 8,
+      "time_per_move": 15781,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2112,
+      "date": 1627533003,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1627533003,
+      "game": "https://www.chess.com/game/daily/312123876"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 15781,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2021,
+      "date": 1714558041,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1664079765,
+      "game": "https://www.chess.com/game/live/57817808641"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2066,
+      "date": 1757768767,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2179,
+      "date": 1753688317,
+      "game": "https://www.chess.com/game/live/111849165283"
+    },
+    "record": {
+      "win": 12240,
+      "loss": 9853,
+      "draw": 876
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2258,
+      "date": 1771501491,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1754962331,
+      "game": "https://www.chess.com/game/live/90107458019"
+    },
+    "record": {
+      "win": 474,
+      "loss": 330,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2719,
+      "date": 1762941941
+    },
+    "lowest": {
+      "rating": 2400,
+      "date": 1761808949
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

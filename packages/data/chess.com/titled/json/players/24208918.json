@@ -1,0 +1,102 @@
+{
+  "player_id": 24208918,
+  "@id": "https://api.chess.com/pub/player/hurburt1",
+  "url": "https://www.chess.com/member/Hurburt1",
+  "username": "hurburt1",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776234743,
+  "joined": 1442791449,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1691,
+      "date": 1744944169,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1932,
+      "date": 1445182338,
+      "game": "https://www.chess.com/game/daily/120452260"
+    },
+    "record": {
+      "win": 57,
+      "loss": 42,
+      "draw": 17,
+      "time_per_move": 31709,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2126,
+      "date": 1749514467,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2133,
+      "date": 1749002863,
+      "game": "https://www.chess.com/game/live/138756145156"
+    },
+    "record": {
+      "win": 18,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2578,
+      "date": 1755397906,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1630117942,
+      "game": "https://www.chess.com/game/live/6343848932"
+    },
+    "record": {
+      "win": 380,
+      "loss": 295,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1774820377,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1691284411,
+      "game": "https://www.chess.com/game/live/113524199177"
+    },
+    "record": {
+      "win": 367,
+      "loss": 326,
+      "draw": 49
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1442791449
+    },
+    "lowest": {
+      "rating": 2302,
+      "date": 1442791449
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

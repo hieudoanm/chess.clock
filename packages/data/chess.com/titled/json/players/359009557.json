@@ -1,0 +1,98 @@
+{
+  "player_id": 359009557,
+  "@id": "https://api.chess.com/pub/player/misterchess_07",
+  "url": "https://www.chess.com/member/misterchess_07",
+  "username": "misterchess_07",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1733326387,
+  "joined": 1713908686,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1603,
+      "date": 1733328323,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1603,
+      "date": 1721937724,
+      "game": "https://www.chess.com/game/daily/682216497"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3394,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1733328324,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1720603423,
+      "game": "https://www.chess.com/game/live/114342036963"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2412,
+      "date": 1732623556,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1719471037,
+      "game": "https://www.chess.com/game/live/112814985235"
+    },
+    "record": {
+      "win": 1136,
+      "loss": 1026,
+      "draw": 155
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2418,
+      "date": 1726521691,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1714069617,
+      "game": "https://www.chess.com/game/live/107807078097"
+    },
+    "record": {
+      "win": 49,
+      "loss": 46,
+      "draw": 7
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2247,
+      "date": 1713908686
+    },
+    "lowest": {
+      "rating": 2247,
+      "date": 1713908686
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 31891390,
+  "@id": "https://api.chess.com/pub/player/martynkovaelena",
+  "url": "https://www.chess.com/member/martynkovaelena",
+  "name": "Elena Martynkova",
+  "username": "martynkovaelena",
+  "title": "WIM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1660798886,
+  "joined": 1482750201,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1592478129,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1936,
+      "date": 1522691821,
+      "game": "https://www.chess.com/game/live/2686897797"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2343,
+      "date": 1607103860,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1607103860,
+      "game": "https://www.chess.com/game/live/3005247248"
+    },
+    "record": {
+      "win": 998,
+      "loss": 751,
+      "draw": 55
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2310,
+      "date": 1622302752,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1561798985,
+      "game": "https://www.chess.com/game/live/5250752155"
+    },
+    "record": {
+      "win": 787,
+      "loss": 479,
+      "draw": 81
+    }
+  },
+  "fide": 2280,
+  "tactics": {
+    "highest": {
+      "rating": 2356,
+      "date": 1482750201
+    },
+    "lowest": {
+      "rating": 2356,
+      "date": 1482750201
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

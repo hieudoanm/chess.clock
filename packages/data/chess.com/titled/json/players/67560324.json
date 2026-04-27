@@ -1,0 +1,84 @@
+{
+  "player_id": 67560324,
+  "@id": "https://api.chess.com/pub/player/region_07",
+  "url": "https://www.chess.com/member/Region_07",
+  "name": "David Temirkanov",
+  "username": "region_07",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776338270,
+  "joined": 1572935746,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2279,
+      "date": 1633527741,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1633527741,
+      "game": "https://www.chess.com/game/live/27265333823"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2230,
+      "date": 1767499220,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1579290918,
+      "game": "https://www.chess.com/game/live/21905934755"
+    },
+    "record": {
+      "win": 68,
+      "loss": 56,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2525,
+      "date": 1758114110,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1747309837,
+      "game": "https://www.chess.com/game/live/4466668904"
+    },
+    "record": {
+      "win": 2022,
+      "loss": 1853,
+      "draw": 191
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2263,
+      "date": 1572935746
+    },
+    "lowest": {
+      "rating": 2263,
+      "date": 1572935746
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 38
+    }
+  }
+}

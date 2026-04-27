@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13302748.d22f7a99.200x200o.1982fa700580.jpeg",
+  "player_id": 13302748,
+  "@id": "https://api.chess.com/pub/player/ocmoen",
+  "url": "https://www.chess.com/member/ocmoen",
+  "name": "Ole Chr Moen",
+  "username": "ocmoen",
+  "title": "FM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Oslo Schakselskap",
+  "last_online": 1776584368,
+  "joined": 1377625237,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1147,
+      "date": 1765408528,
+      "rd": 322
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1377625237,
+      "game": "https://www.chess.com/game/daily/898344997"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 36826,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2373,
+      "date": 1776181604,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1761605225,
+      "game": "https://www.chess.com/game/live/143034700514"
+    },
+    "record": {
+      "win": 233,
+      "loss": 128,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2214,
+      "date": 1776519013,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2297,
+      "date": 1769985347,
+      "game": "https://www.chess.com/game/live/164098005794"
+    },
+    "record": {
+      "win": 1128,
+      "loss": 910,
+      "draw": 143
+    }
+  },
+  "fide": 2239,
+  "tactics": {
+    "highest": {
+      "rating": 2412,
+      "date": 1757502609
+    },
+    "lowest": {
+      "rating": 2220,
+      "date": 1770128995
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 7,
+      "score": 6
+    }
+  }
+}

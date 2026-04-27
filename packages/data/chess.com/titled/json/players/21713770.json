@@ -1,0 +1,81 @@
+{
+  "player_id": 21713770,
+  "@id": "https://api.chess.com/pub/player/hoacin",
+  "url": "https://www.chess.com/member/hoacin",
+  "name": "Stepan Zilka",
+  "username": "hoacin",
+  "title": "GM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1743311695,
+  "joined": 1427528323,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1373,
+      "date": 1466789043,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1373,
+      "date": 1454713331,
+      "game": "https://www.chess.com/game/daily/127979650"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 14428,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2474,
+      "date": 1587810501,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1442865435,
+      "game": "https://www.chess.com/game/live/1430421235"
+    },
+    "record": {
+      "win": 340,
+      "loss": 186,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1618683197,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1618680508,
+      "game": "https://www.chess.com/game/live/12419228385"
+    },
+    "record": {
+      "win": 234,
+      "loss": 143,
+      "draw": 25
+    }
+  },
+  "fide": 2516,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1427528323
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1427528323
+    }
+  },
+  "puzzle_rush": {}
+}

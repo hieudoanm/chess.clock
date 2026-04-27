@@ -1,0 +1,82 @@
+{
+  "player_id": 357876519,
+  "@id": "https://api.chess.com/pub/player/sobasachess",
+  "url": "https://www.chess.com/member/sobasachess",
+  "username": "sobasachess",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1772226616,
+  "joined": 1713432620,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1718975159
+    },
+    "best": {
+      "rating": 2022,
+      "date": 1718375790,
+      "game": "https://www.chess.com/game/live/112540806839"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1771737229
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1758122785,
+      "game": "https://www.chess.com/game/live/143233486742"
+    },
+    "record": {
+      "win": 115,
+      "loss": 65,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2712,
+      "date": 1771958422,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2856,
+      "date": 1762457484,
+      "game": "https://www.chess.com/game/live/125300368511"
+    },
+    "record": {
+      "win": 1443,
+      "loss": 1521,
+      "draw": 316
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1589,
+      "date": 1767600609
+    },
+    "lowest": {
+      "rating": 1461,
+      "date": 1761212442
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

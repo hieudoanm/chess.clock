@@ -1,0 +1,77 @@
+{
+  "player_id": 37625894,
+  "@id": "https://api.chess.com/pub/player/richardwe",
+  "url": "https://www.chess.com/member/RichardWe",
+  "name": "Richard Wessman",
+  "username": "richardwe",
+  "title": "IM",
+  "followers": 52,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776590256,
+  "joined": 1502103553,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 937,
+      "date": 1775984292,
+      "rd": 347
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 223311,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2177,
+      "date": 1679136934,
+      "rd": 171
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1564601967,
+      "game": "https://www.chess.com/game/live/3910319669"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2656,
+      "date": 1776590224,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1765693705,
+      "game": "https://www.chess.com/game/live/166607230208"
+    },
+    "record": {
+      "win": 15017,
+      "loss": 11902,
+      "draw": 3602
+    }
+  },
+  "fide": 2424,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1502103553
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1502103553
+    }
+  },
+  "puzzle_rush": {}
+}

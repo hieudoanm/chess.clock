@@ -1,0 +1,75 @@
+{
+  "player_id": 59719486,
+  "@id": "https://api.chess.com/pub/player/hercules64",
+  "url": "https://www.chess.com/member/Hercules64",
+  "username": "hercules64",
+  "title": "GM",
+  "followers": 133,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1747993081,
+  "joined": 1555059273,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1700581085,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1358900,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1787,
+      "date": 1709608176,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1556111412,
+      "game": "https://www.chess.com/game/live/3643432315"
+    },
+    "record": {
+      "win": 4,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2315,
+      "date": 1748803599,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2451,
+      "date": 1555074857,
+      "game": "https://www.chess.com/game/live/4756718119"
+    },
+    "record": {
+      "win": 11506,
+      "loss": 9189,
+      "draw": 1073
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1496,
+      "date": 1555059273
+    },
+    "lowest": {
+      "rating": 1496,
+      "date": 1555059273
+    }
+  },
+  "puzzle_rush": {}
+}

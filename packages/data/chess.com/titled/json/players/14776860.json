@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14776860.99a206aa.200x200o.89b86da7afb4.jpeg",
+  "player_id": 14776860,
+  "@id": "https://api.chess.com/pub/player/anon102030",
+  "url": "https://www.chess.com/member/anon102030",
+  "username": "anon102030",
+  "title": "FM",
+  "followers": 1613,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1683565378,
+  "joined": 1385834021,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2332,
+      "date": 1712651303,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2367,
+      "date": 1623880633,
+      "game": "https://www.chess.com/game/daily/204055518"
+    },
+    "record": {
+      "win": 74,
+      "loss": 19,
+      "draw": 11,
+      "time_per_move": 20755,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2705,
+      "date": 1683560776,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1670961794,
+      "game": "https://www.chess.com/game/live/44060105681"
+    },
+    "record": {
+      "win": 241,
+      "loss": 12,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2748,
+      "date": 1686247464,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2926,
+      "date": 1612411919,
+      "game": "https://www.chess.com/game/live/5568417295"
+    },
+    "record": {
+      "win": 23920,
+      "loss": 16858,
+      "draw": 2549
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2778,
+      "date": 1683561017,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2863,
+      "date": 1677601128,
+      "game": "https://www.chess.com/game/live/70953651115"
+    },
+    "record": {
+      "win": 6605,
+      "loss": 4399,
+      "draw": 869
+    }
+  },
+  "fide": 2451,
+  "tactics": {
+    "highest": {
+      "rating": 2592,
+      "date": 1385834021
+    },
+    "lowest": {
+      "rating": 2592,
+      "date": 1385834021
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

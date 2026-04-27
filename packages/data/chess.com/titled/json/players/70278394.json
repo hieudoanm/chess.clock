@@ -1,0 +1,84 @@
+{
+  "player_id": 70278394,
+  "@id": "https://api.chess.com/pub/player/sissophie",
+  "url": "https://www.chess.com/member/SisSophie",
+  "username": "sissophie",
+  "title": "WCM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776591971,
+  "joined": 1578115127,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2058,
+      "date": 1776590619,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1775384722,
+      "game": "https://www.chess.com/game/live/147520420524"
+    },
+    "record": {
+      "win": 233,
+      "loss": 161,
+      "draw": 33
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1803,
+      "date": 1775099096,
+      "rd": 56
+    },
+    "best": {
+      "rating": 1803,
+      "date": 1775099096,
+      "game": "https://www.chess.com/game/live/166745580964"
+    },
+    "record": {
+      "win": 158,
+      "loss": 105,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1772,
+      "date": 1776591169,
+      "rd": 52
+    },
+    "best": {
+      "rating": 1788,
+      "date": 1775477193,
+      "game": "https://www.chess.com/game/live/166935810114"
+    },
+    "record": {
+      "win": 157,
+      "loss": 90,
+      "draw": 10
+    }
+  },
+  "fide": 1706,
+  "tactics": {
+    "highest": {
+      "rating": 2473,
+      "date": 1765337210
+    },
+    "lowest": {
+      "rating": 2258,
+      "date": 1776578608
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 13088370,
+  "@id": "https://api.chess.com/pub/player/j164",
+  "url": "https://www.chess.com/member/j164",
+  "username": "j164",
+  "title": "WFM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1693430007,
+  "joined": 1376124915,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1846,
+      "date": 1693145988,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1602915573,
+      "game": "https://www.chess.com/game/live/24488518651"
+    },
+    "record": {
+      "win": 27,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1767,
+      "date": 1597140775,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1927,
+      "date": 1597132421,
+      "game": "https://www.chess.com/game/live/1550239588"
+    },
+    "record": {
+      "win": 1565,
+      "loss": 1425,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1747,
+      "date": 1605290355,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1597090273,
+      "game": "https://www.chess.com/game/live/5279462085"
+    },
+    "record": {
+      "win": 81,
+      "loss": 88,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2076,
+      "date": 1376124915
+    },
+    "lowest": {
+      "rating": 2076,
+      "date": 1376124915
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "player_id": 19623590,
+  "@id": "https://api.chess.com/pub/player/mlchen",
+  "url": "https://www.chess.com/member/mlchen",
+  "name": "Michael Chen",
+  "username": "mlchen",
+  "title": "NM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New Hampshire",
+  "last_online": 1761666755,
+  "joined": 1415412538,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2067,
+      "date": 1718615262,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1425138376,
+      "game": "https://www.chess.com/game/daily/105052724"
+    },
+    "record": {
+      "win": 77,
+      "loss": 122,
+      "draw": 1,
+      "time_per_move": 129475,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1173,
+      "date": 1441768096,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1437,
+      "date": 1427947328,
+      "game": "https://www.chess.com/game/daily/111868918"
+    },
+    "record": {
+      "win": 4,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 129475,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2374,
+      "date": 1747792420,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1747791122,
+      "game": "https://www.chess.com/game/live/981102936"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2398,
+      "date": 1602644953,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2398,
+      "date": 1602644805,
+      "game": "https://www.chess.com/game/live/1552798977"
+    },
+    "record": {
+      "win": 46,
+      "loss": 20,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2480,
+      "date": 1756933585,
+      "rd": 239
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1551822079,
+      "game": "https://www.chess.com/game/live/3510856409"
+    },
+    "record": {
+      "win": 224,
+      "loss": 118,
+      "draw": 33
+    }
+  },
+  "fide": 2214,
+  "tactics": {
+    "highest": {
+      "rating": 2521,
+      "date": 1415412538
+    },
+    "lowest": {
+      "rating": 2521,
+      "date": 1415412538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

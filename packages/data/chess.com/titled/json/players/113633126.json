@@ -1,0 +1,67 @@
+{
+  "player_id": 113633126,
+  "@id": "https://api.chess.com/pub/player/skeadam",
+  "url": "https://www.chess.com/member/SKEAdam",
+  "username": "skeadam",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776340960,
+  "joined": 1610990278,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2222,
+      "date": 1681955322,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1680035274,
+      "game": "https://www.chess.com/game/live/74530258349"
+    },
+    "record": {
+      "win": 28,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2201,
+      "date": 1611021302,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1611004011,
+      "game": "https://www.chess.com/game/live/6275519141"
+    },
+    "record": {
+      "win": 11,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1610990278
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1610990278
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 28
+    }
+  }
+}

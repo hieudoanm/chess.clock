@@ -1,0 +1,67 @@
+{
+  "player_id": 79584092,
+  "@id": "https://api.chess.com/pub/player/polotnik",
+  "url": "https://www.chess.com/member/Polotnik",
+  "username": "polotnik",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775134250,
+  "joined": 1589559698,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2579,
+      "date": 1763606293,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1663982753,
+      "game": "https://www.chess.com/game/live/35430466311"
+    },
+    "record": {
+      "win": 244,
+      "loss": 182,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2825,
+      "date": 1773357363,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1773357363,
+      "game": "https://www.chess.com/game/live/148534554222"
+    },
+    "record": {
+      "win": 654,
+      "loss": 524,
+      "draw": 113
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2365,
+      "date": 1589559698
+    },
+    "lowest": {
+      "rating": 2365,
+      "date": 1589559698
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 52
+    }
+  }
+}

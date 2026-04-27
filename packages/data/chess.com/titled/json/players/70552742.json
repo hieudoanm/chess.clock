@@ -1,0 +1,105 @@
+{
+  "player_id": 70552742,
+  "@id": "https://api.chess.com/pub/player/hankmd",
+  "url": "https://www.chess.com/member/HankMD",
+  "name": "Hanchi Yao",
+  "username": "hankmd",
+  "title": "NM",
+  "followers": 187,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1776193101,
+  "joined": 1578637010,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1219,
+      "date": 1774577142,
+      "rd": 201
+    },
+    "best": {
+      "rating": 1400,
+      "date": 1578637010,
+      "game": "https://www.chess.com/game/daily/458256089"
+    },
+    "record": {
+      "win": 23,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 27591,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2067,
+      "date": 1750364315,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2077,
+      "date": 1750108739,
+      "game": "https://www.chess.com/game/live/54693340805"
+    },
+    "record": {
+      "win": 263,
+      "loss": 258,
+      "draw": 42
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2262,
+      "date": 1769745159,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1749312992,
+      "game": "https://www.chess.com/game/live/143626223959"
+    },
+    "record": {
+      "win": 519,
+      "loss": 545,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2362,
+      "date": 1776022320,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1747594185,
+      "game": "https://www.chess.com/game/live/145112368267"
+    },
+    "record": {
+      "win": 796,
+      "loss": 814,
+      "draw": 103
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2209,
+      "date": 1767638114
+    },
+    "lowest": {
+      "rating": 1981,
+      "date": 1771884271
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

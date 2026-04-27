@@ -1,0 +1,63 @@
+{
+  "player_id": 456253094,
+  "@id": "https://api.chess.com/pub/player/tdatar2",
+  "url": "https://www.chess.com/member/tdatar2",
+  "name": "Tejas Datar",
+  "username": "tdatar2",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1775403835,
+  "joined": 1748936040,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1903,
+      "date": 1769919943,
+      "rd": 229
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1774914959,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2447,
+      "date": 1768181162,
+      "game": "https://www.chess.com/game/live/146945951068"
+    },
+    "record": {
+      "win": 629,
+      "loss": 524,
+      "draw": 62
+    }
+  },
+  "fide": 2077,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1748936040
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1748936040
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

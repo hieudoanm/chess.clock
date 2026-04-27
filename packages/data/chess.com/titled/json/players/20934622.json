@@ -1,0 +1,105 @@
+{
+    "player_id": 20934622,
+    "@id": "https://api.chess.com/pub/player/kabachess",
+    "url": "https://www.chess.com/member/Kabachess",
+    "name": "Abhishek Das",
+    "username": "kabachess",
+    "title": "FM",
+    "followers": 124,
+    "country": "https://api.chess.com/pub/country/IN",
+    "location": "Bangalore, India",
+    "last_online": 1726926426,
+    "joined": 1423057830,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 762,
+            "date": 1726310408,
+            "rd": 162
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1423057830,
+            "game": "https://www.chess.com/game/daily/687242009"
+        },
+        "record": {
+            "win": 9,
+            "loss": 5,
+            "draw": 2,
+            "time_per_move": 257240,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 626,
+            "date": 1726924071,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2292,
+            "date": 1665811672,
+            "game": "https://www.chess.com/game/live/60242399797"
+        },
+        "record": {
+            "win": 618,
+            "loss": 752,
+            "draw": 64
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 667,
+            "date": 1726923168,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2284,
+            "date": 1666694744,
+            "game": "https://www.chess.com/game/live/89842118225"
+        },
+        "record": {
+            "win": 98,
+            "loss": 220,
+            "draw": 8
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 704,
+            "date": 1726930267,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2454,
+            "date": 1702763898,
+            "game": "https://www.chess.com/game/live/62266869301"
+        },
+        "record": {
+            "win": 801,
+            "loss": 857,
+            "draw": 75
+        }
+    },
+    "fide": 2258,
+    "tactics": {
+        "highest": {
+            "rating": 3305,
+            "date": 1619007865
+        },
+        "lowest": {
+            "rating": 1047,
+            "date": 1721477593
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 70,
+            "score": 67
+        }
+    }
+}

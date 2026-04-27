@@ -1,0 +1,105 @@
+{
+  "player_id": 4524721,
+  "@id": "https://api.chess.com/pub/player/richardcwang",
+  "url": "https://www.chess.com/member/RichardCWang",
+  "name": "Richard Wang",
+  "username": "richardcwang",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Baltimore",
+  "last_online": 1768297642,
+  "joined": 1294525321,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1567,
+      "date": 1691449584,
+      "rd": 325
+    },
+    "best": {
+      "rating": 2026,
+      "date": 1350435733,
+      "game": "https://www.chess.com/game/daily/59637492"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 799,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2703,
+      "date": 1691449674,
+      "rd": 261
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1690742821,
+      "game": "https://www.chess.com/game/live/84480791517"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2677,
+      "date": 1761825497,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2716,
+      "date": 1690831100,
+      "game": "https://www.chess.com/game/live/4684883227"
+    },
+    "record": {
+      "win": 382,
+      "loss": 261,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1761721088,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1688950338,
+      "game": "https://www.chess.com/game/live/4581594384"
+    },
+    "record": {
+      "win": 175,
+      "loss": 111,
+      "draw": 20
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2418,
+      "date": 1763844307
+    },
+    "lowest": {
+      "rating": 2367,
+      "date": 1763844330
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

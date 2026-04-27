@@ -1,0 +1,67 @@
+{
+  "player_id": 43920960,
+  "@id": "https://api.chess.com/pub/player/brian_dew",
+  "url": "https://www.chess.com/member/Brian_Dew",
+  "name": "Brian Dew",
+  "username": "brian_dew",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1775308562,
+  "joined": 1520134474,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2062,
+      "date": 1674892814,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1674892720,
+      "game": "https://www.chess.com/game/live/68631715913"
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2268,
+      "date": 1645552837,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2461,
+      "date": 1643732383,
+      "game": "https://www.chess.com/game/live/38684690453"
+    },
+    "record": {
+      "win": 13,
+      "loss": 29,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2513,
+      "date": 1768633865
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1768633890
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

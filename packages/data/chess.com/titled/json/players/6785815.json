@@ -1,0 +1,68 @@
+{
+  "player_id": 6785815,
+  "@id": "https://api.chess.com/pub/player/amazingoid",
+  "url": "https://www.chess.com/member/amazingoid",
+  "name": "Brandon Ashe",
+  "username": "amazingoid",
+  "title": "NM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776302313,
+  "joined": 1330322752,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2831,
+      "date": 1674118391,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2831,
+      "date": 1669107841,
+      "game": "https://www.chess.com/game/live/852709546"
+    },
+    "record": {
+      "win": 571,
+      "loss": 280,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2347,
+      "date": 1675741609,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1492552207,
+      "game": "https://www.chess.com/game/live/2056789285"
+    },
+    "record": {
+      "win": 87,
+      "loss": 61,
+      "draw": 5
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2653,
+      "date": 1760042990
+    },
+    "lowest": {
+      "rating": 2605,
+      "date": 1760042749
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

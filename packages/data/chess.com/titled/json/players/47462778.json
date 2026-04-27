@@ -1,0 +1,99 @@
+{
+  "player_id": 47462778,
+  "@id": "https://api.chess.com/pub/player/aot317",
+  "url": "https://www.chess.com/member/aot317",
+  "name": "Eyal Noy",
+  "username": "aot317",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/MG",
+  "last_online": 1776205004,
+  "joined": 1530209840,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1745045466,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 19,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2217,
+      "date": 1718373325,
+      "rd": 227
+    },
+    "best": {
+      "rating": 1374,
+      "date": 1682606997,
+      "game": "https://www.chess.com/game/live/3546940390"
+    },
+    "record": {
+      "win": 18,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2625,
+      "date": 1772759952,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2625,
+      "date": 1772759952,
+      "game": "https://www.chess.com/game/live/165565316420"
+    },
+    "record": {
+      "win": 435,
+      "loss": 327,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2524,
+      "date": 1774869587,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1739899789,
+      "game": "https://www.chess.com/game/live/132446457663"
+    },
+    "record": {
+      "win": 447,
+      "loss": 317,
+      "draw": 36
+    }
+  },
+  "fide": 2217,
+  "tactics": {
+    "highest": {
+      "rating": 1999,
+      "date": 1530209840
+    },
+    "lowest": {
+      "rating": 1999,
+      "date": 1530209840
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

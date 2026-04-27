@@ -1,0 +1,104 @@
+{
+  "player_id": 38879974,
+  "@id": "https://api.chess.com/pub/player/alexmoscow2011",
+  "url": "https://www.chess.com/member/AlexMoscow2011",
+  "name": "Alexander Fedosov",
+  "username": "alexmoscow2011",
+  "title": "FM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776434363,
+  "joined": 1506167053,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1386,
+      "date": 1754921354,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1386,
+      "date": 1691774971,
+      "game": "https://www.chess.com/game/daily/189476782"
+    },
+    "record": {
+      "win": 71,
+      "loss": 57,
+      "draw": 7,
+      "time_per_move": 16717,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2332,
+      "date": 1763894762,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1763894762,
+      "game": "https://www.chess.com/game/live/122812462745"
+    },
+    "record": {
+      "win": 374,
+      "loss": 330,
+      "draw": 60
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2772,
+      "date": 1776003952,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2839,
+      "date": 1753208747,
+      "game": "https://www.chess.com/game/live/139847838598"
+    },
+    "record": {
+      "win": 347,
+      "loss": 247,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2924,
+      "date": 1776434307,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2960,
+      "date": 1776274177,
+      "game": "https://www.chess.com/game/live/167381035464"
+    },
+    "record": {
+      "win": 1472,
+      "loss": 1301,
+      "draw": 266
+    }
+  },
+  "fide": 2127,
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1767948419
+    },
+    "lowest": {
+      "rating": 2388,
+      "date": 1764853698
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56863252.198ec24e.200x200o.eab9e88d5b30.jpeg",
+  "player_id": 56863252,
+  "@id": "https://api.chess.com/pub/player/pocketpivot",
+  "url": "https://www.chess.com/member/PocketPivot",
+  "name": "Michael de Verdier",
+  "username": "pocketpivot",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776208584,
+  "joined": 1549138223,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2603,
+      "date": 1773050624,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1773050624,
+      "game": "https://www.chess.com/game/live/147200369258"
+    },
+    "record": {
+      "win": 113,
+      "loss": 28,
+      "draw": 39
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2676,
+      "date": 1776208516,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1763113354,
+      "game": "https://www.chess.com/game/live/146308161596"
+    },
+    "record": {
+      "win": 1900,
+      "loss": 1657,
+      "draw": 942
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2547,
+      "date": 1762717754
+    },
+    "lowest": {
+      "rating": 2449,
+      "date": 1775921280
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

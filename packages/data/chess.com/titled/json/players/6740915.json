@@ -1,0 +1,103 @@
+{
+  "player_id": 6740915,
+  "@id": "https://api.chess.com/pub/player/merryram",
+  "url": "https://www.chess.com/member/MerryRam",
+  "name": "Maria Jose Ramirez Gonzalez",
+  "username": "merryram",
+  "title": "WFM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/CR",
+  "last_online": 1770839799,
+  "joined": 1329963672,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1698697186,
+      "rd": 350
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1329963672,
+      "game": "https://www.chess.com/game/daily/58701310"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 21980,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1935,
+      "date": 1752464276,
+      "rd": 204
+    },
+    "best": {
+      "rating": 1935,
+      "date": 1730867870,
+      "game": "https://www.chess.com/game/live/124606708903"
+    },
+    "record": {
+      "win": 12,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1626,
+      "date": 1748405203,
+      "rd": 69
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1579159183,
+      "game": "https://www.chess.com/game/live/5517385272"
+    },
+    "record": {
+      "win": 212,
+      "loss": 217,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2032,
+      "date": 1755640751,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1755639392,
+      "game": "https://www.chess.com/game/live/133636760647"
+    },
+    "record": {
+      "win": 387,
+      "loss": 347,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2267,
+      "date": 1755796486
+    },
+    "lowest": {
+      "rating": 2239,
+      "date": 1755796622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

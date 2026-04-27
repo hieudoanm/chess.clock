@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37176474.bcfe9a66.200x200o.5b48532eee3a.jpg",
+  "player_id": 37176474,
+  "@id": "https://api.chess.com/pub/player/ryanmito",
+  "url": "https://www.chess.com/member/Ryanmito",
+  "name": "Ryan Wesley",
+  "username": "ryanmito",
+  "title": "FM",
+  "followers": 244,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776441038,
+  "joined": 1500571348,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1547,
+      "date": 1680078509,
+      "rd": 204
+    },
+    "best": {
+      "rating": 1625,
+      "date": 1640101759,
+      "game": "https://www.chess.com/game/daily/367902575"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 28469,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2091,
+      "date": 1662215730,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1662208790,
+      "game": "https://www.chess.com/game/live/53740210737"
+    },
+    "record": {
+      "win": 14,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1776437456,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2583,
+      "date": 1767886679,
+      "game": "https://www.chess.com/game/live/6067909801"
+    },
+    "record": {
+      "win": 7488,
+      "loss": 8186,
+      "draw": 630
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2409,
+      "date": 1767713282,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1664837595,
+      "game": "https://www.chess.com/game/live/75230628941"
+    },
+    "record": {
+      "win": 5326,
+      "loss": 5528,
+      "draw": 579
+    }
+  },
+  "fide": 2307,
+  "tactics": {
+    "highest": {
+      "rating": 2344,
+      "date": 1500571348
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1500571348
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

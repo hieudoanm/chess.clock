@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11474230.1802ddb7.200x200o.60d5d5608100.jpeg",
+  "player_id": 11474230,
+  "@id": "https://api.chess.com/pub/player/jefferyx",
+  "url": "https://www.chess.com/member/jefferyx",
+  "name": "Jeffery Xiong",
+  "username": "jefferyx",
+  "title": "GM",
+  "followers": 2811,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Dallas",
+  "last_online": 1776596661,
+  "joined": 1365648529,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmjx",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmjx"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1898,
+      "date": 1763057604,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1429566178,
+      "game": "https://www.chess.com/game/daily/109628630"
+    },
+    "record": {
+      "win": 32,
+      "loss": 14,
+      "draw": 2,
+      "time_per_move": 19833,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2671,
+      "date": 1774465865,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1598117971,
+      "game": "https://www.chess.com/game/live/39644388335"
+    },
+    "record": {
+      "win": 176,
+      "loss": 75,
+      "draw": 143
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3192,
+      "date": 1767464580,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3249,
+      "date": 1767460598,
+      "game": "https://www.chess.com/game/live/6007385935"
+    },
+    "record": {
+      "win": 1208,
+      "loss": 609,
+      "draw": 158
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3124,
+      "date": 1776184199,
+      "rd": 45
+    },
+    "best": {
+      "rating": 3251,
+      "date": 1769118675,
+      "game": "https://www.chess.com/game/live/144490175669"
+    },
+    "record": {
+      "win": 3258,
+      "loss": 974,
+      "draw": 743
+    }
+  },
+  "fide": 2550,
+  "tactics": {
+    "highest": {
+      "rating": 2870,
+      "date": 1760408941
+    },
+    "lowest": {
+      "rating": 2776,
+      "date": 1760045828
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 148,
+      "score": 145
+    }
+  }
+}

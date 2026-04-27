@@ -1,0 +1,87 @@
+{
+    "player_id": 22684732,
+    "@id": "https://api.chess.com/pub/player/mendel84",
+    "url": "https://www.chess.com/member/Mendel84",
+    "name": "Noham Jablonski",
+    "username": "mendel84",
+    "title": "FM",
+    "followers": 0,
+    "country": "https://api.chess.com/pub/country/CH",
+    "last_online": 1763323757,
+    "joined": 1433454450,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1425,
+            "date": 1755090034,
+            "rd": 259
+        },
+        "best": {
+            "rating": 1425,
+            "date": 1434466733,
+            "game": "https://www.chess.com/game/daily/112694618"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 29470,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2361,
+            "date": 1735666231,
+            "rd": 83
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1627076404,
+            "game": "https://www.chess.com/game/live/129044663889"
+        },
+        "record": {
+            "win": 29,
+            "loss": 20,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2541,
+            "date": 1736278938,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2599,
+            "date": 1736021808,
+            "game": "https://www.chess.com/game/live/9384944269"
+        },
+        "record": {
+            "win": 957,
+            "loss": 792,
+            "draw": 79
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3506,
+            "date": 1683975984
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 0
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

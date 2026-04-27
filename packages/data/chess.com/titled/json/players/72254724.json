@@ -1,0 +1,79 @@
+{
+  "player_id": 72254724,
+  "@id": "https://api.chess.com/pub/player/chesscoach64",
+  "url": "https://www.chess.com/member/ChessCoach64",
+  "name": "John Doknjas",
+  "username": "chesscoach64",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1773602512,
+  "joined": 1581828544,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2305,
+      "date": 1646874087,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1632467404,
+      "game": "https://www.chess.com/game/live/26202622861"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2443,
+      "date": 1614223496,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1602987371,
+      "game": "https://www.chess.com/game/live/5184920519"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1731492122,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1721790153,
+      "game": "https://www.chess.com/game/live/115528677493"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1581828544
+    },
+    "lowest": {
+      "rating": 2517,
+      "date": 1581828544
+    }
+  },
+  "puzzle_rush": {}
+}

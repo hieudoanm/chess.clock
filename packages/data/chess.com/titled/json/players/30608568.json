@@ -1,0 +1,83 @@
+{
+  "player_id": 30608568,
+  "@id": "https://api.chess.com/pub/player/jaquetriple",
+  "url": "https://www.chess.com/member/jaquetriple",
+  "username": "jaquetriple",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776541537,
+  "joined": 1477552947,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1764523352,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2100,
+      "date": 1736537727,
+      "game": "https://www.chess.com/game/live/146149858148"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1971,
+      "date": 1776541469,
+      "rd": 15
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1767204755,
+      "game": "https://www.chess.com/game/live/147955011964"
+    },
+    "record": {
+      "win": 4977,
+      "loss": 5019,
+      "draw": 446
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2010,
+      "date": 1764515067,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1641412384,
+      "game": "https://www.chess.com/game/live/34968025571"
+    },
+    "record": {
+      "win": 159,
+      "loss": 118,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2060,
+      "date": 1765733498
+    },
+    "lowest": {
+      "rating": 1827,
+      "date": 1755874320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

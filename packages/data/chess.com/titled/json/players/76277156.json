@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76277156.fed9860f.200x200o.99e925f8027e.png",
+  "player_id": 76277156,
+  "@id": "https://api.chess.com/pub/player/crossingthestreet",
+  "url": "https://www.chess.com/member/crossingthestreet",
+  "name": "Akira Nakada",
+  "username": "crossingthestreet",
+  "title": "IM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1747877309,
+  "joined": 1586537376,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1734484517,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1599329403,
+      "game": "https://www.chess.com/game/daily/275299672"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 187915,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2212,
+      "date": 1705778810,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1599886252,
+      "game": "https://www.chess.com/game/live/5433471179"
+    },
+    "record": {
+      "win": 9,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1706731751,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2521,
+      "date": 1599756794,
+      "game": "https://www.chess.com/game/live/27062460173"
+    },
+    "record": {
+      "win": 721,
+      "loss": 711,
+      "draw": 119
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1747877089,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1686982274,
+      "game": "https://www.chess.com/game/live/15061067089"
+    },
+    "record": {
+      "win": 4051,
+      "loss": 3711,
+      "draw": 641
+    }
+  },
+  "fide": 101,
+  "tactics": {
+    "highest": {
+      "rating": 2658,
+      "date": 1586537376
+    },
+    "lowest": {
+      "rating": 2658,
+      "date": 1586537376
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

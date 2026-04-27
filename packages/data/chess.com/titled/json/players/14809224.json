@@ -1,0 +1,98 @@
+{
+  "player_id": 14809224,
+  "@id": "https://api.chess.com/pub/player/jaddiejiet",
+  "url": "https://www.chess.com/member/Jaddiejiet",
+  "username": "jaddiejiet",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776536217,
+  "joined": 1385985250,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 624,
+      "date": 1746025923,
+      "rd": 249
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 49797,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2573,
+      "date": 1748118258,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1689595282,
+      "game": "https://www.chess.com/game/live/83333722249"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2490,
+      "date": 1776536209,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1748970817,
+      "game": "https://www.chess.com/game/live/165929743832"
+    },
+    "record": {
+      "win": 615,
+      "loss": 449,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1775678405,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1689430568,
+      "game": "https://www.chess.com/game/live/5611658019"
+    },
+    "record": {
+      "win": 629,
+      "loss": 420,
+      "draw": 67
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2267,
+      "date": 1755629073
+    },
+    "lowest": {
+      "rating": 2033,
+      "date": 1759032723
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

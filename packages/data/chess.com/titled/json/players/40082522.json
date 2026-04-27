@@ -1,0 +1,99 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40082522.3640f534.200x200o.026ba9fd0c08.jpeg",
+  "player_id": 40082522,
+  "@id": "https://api.chess.com/pub/player/mr_sinigami",
+  "url": "https://www.chess.com/member/Mr_Sinigami",
+  "name": "Ivan Mezentsev",
+  "username": "mr_sinigami",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "Almaty",
+  "last_online": 1639475236,
+  "joined": 1509895372,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1587815711,
+      "rd": 350
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 279,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2184,
+      "date": 1633615015,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1633148850,
+      "game": "https://www.chess.com/game/live/6086823139"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2593,
+      "date": 1617215828,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1617214115,
+      "game": "https://www.chess.com/game/live/10952891279"
+    },
+    "record": {
+      "win": 213,
+      "loss": 182,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2482,
+      "date": 1639505260,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2746,
+      "date": 1580843481,
+      "game": "https://www.chess.com/game/live/5149348083"
+    },
+    "record": {
+      "win": 1909,
+      "loss": 1884,
+      "draw": 408
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2360,
+      "date": 1509895372
+    },
+    "lowest": {
+      "rating": 2360,
+      "date": 1509895372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

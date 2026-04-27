@@ -1,0 +1,105 @@
+{
+  "player_id": 75518654,
+  "@id": "https://api.chess.com/pub/player/turbosteen",
+  "url": "https://www.chess.com/member/TurboSteen",
+  "name": "Franck Steenbekkers",
+  "username": "turbosteen",
+  "title": "CM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Boxtel",
+  "last_online": 1692302532,
+  "joined": 1585917889,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2056,
+      "date": 1729326583,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1692078449,
+      "game": "https://www.chess.com/game/daily/527802727"
+    },
+    "record": {
+      "win": 90,
+      "loss": 39,
+      "draw": 11,
+      "time_per_move": 19544,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1921,
+      "date": 1690830035,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1658168464,
+      "game": "https://www.chess.com/game/live/51301786535"
+    },
+    "record": {
+      "win": 31,
+      "loss": 54,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1673,
+      "date": 1638110935,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1812,
+      "date": 1638109567,
+      "game": "https://www.chess.com/game/live/31849262269"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2030,
+      "date": 1691868057,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1646510608,
+      "game": "https://www.chess.com/game/live/39910831579"
+    },
+    "record": {
+      "win": 1542,
+      "loss": 945,
+      "draw": 283
+    }
+  },
+  "fide": 2165,
+  "tactics": {
+    "highest": {
+      "rating": 2165,
+      "date": 1585917889
+    },
+    "lowest": {
+      "rating": 2165,
+      "date": 1585917889
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

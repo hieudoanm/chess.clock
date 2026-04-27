@@ -1,0 +1,102 @@
+{
+  "player_id": 13959636,
+  "@id": "https://api.chess.com/pub/player/ressidentevil",
+  "url": "https://www.chess.com/member/RessidentEvil",
+  "name": "Chess Lopez",
+  "username": "ressidentevil",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776301570,
+  "joined": 1382138522,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2399,
+      "date": 1634386639,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1597061584,
+      "game": "https://www.chess.com/game/daily/100920770"
+    },
+    "record": {
+      "win": 142,
+      "loss": 34,
+      "draw": 12,
+      "time_per_move": 50061,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1362,
+      "date": 1415157952,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1362,
+      "date": 1415157952,
+      "game": "https://www.chess.com/game/live/960530690"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1584049220,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1445637212,
+      "game": "https://www.chess.com/game/live/1324370383"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2493,
+      "date": 1587318447,
+      "rd": 192
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1584048731,
+      "game": "https://www.chess.com/game/live/963300168"
+    },
+    "record": {
+      "win": 65,
+      "loss": 25,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1756910237
+    },
+    "lowest": {
+      "rating": 2536,
+      "date": 1756912624
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

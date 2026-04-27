@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2836833.8c895b8c.200x200o.2af9efe86d08.jpeg",
+  "player_id": 2836833,
+  "@id": "https://api.chess.com/pub/player/barzed",
+  "url": "https://www.chess.com/member/barzed",
+  "name": "Oliver Barbosa",
+  "username": "barzed",
+  "title": "GM",
+  "followers": 657,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776549316,
+  "joined": 1274074762,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1318,
+      "date": 1747617140,
+      "rd": 290
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1274074762,
+      "game": "https://www.chess.com/game/daily/644243841"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 59029,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2324,
+      "date": 1762775201,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2811,
+      "date": 1610157964,
+      "game": "https://www.chess.com/game/live/8774212011"
+    },
+    "record": {
+      "win": 106,
+      "loss": 24,
+      "draw": 40
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2917,
+      "date": 1776307941,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3009,
+      "date": 1303905320,
+      "game": "https://www.chess.com/game/live/101794867395"
+    },
+    "record": {
+      "win": 1253,
+      "loss": 672,
+      "draw": 100
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2790,
+      "date": 1762773092,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2937,
+      "date": 1578721463,
+      "game": "https://www.chess.com/game/live/41265699085"
+    },
+    "record": {
+      "win": 359,
+      "loss": 170,
+      "draw": 85
+    }
+  },
+  "fide": 2575,
+  "tactics": {
+    "highest": {
+      "rating": 2537,
+      "date": 1765856603
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1765856668
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

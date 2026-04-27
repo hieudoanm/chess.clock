@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18304508.90521c81.200x200o.ae75a035db77.jpg",
+  "player_id": 18304508,
+  "@id": "https://api.chess.com/pub/player/chessvegaacademy",
+  "url": "https://www.chess.com/member/ChessVegaAcademy",
+  "name": "Alejandro Gonz\u00e1lez Vega",
+  "username": "chessvegaacademy",
+  "title": "FM",
+  "followers": 263,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago",
+  "last_online": 1776466300,
+  "joined": 1406845310,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 981,
+      "date": 1736545113,
+      "rd": 339
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1406845310,
+      "game": "https://www.chess.com/game/daily/348073831"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5519,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2056,
+      "date": 1736016010,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1736016010,
+      "game": "https://www.chess.com/game/live/129754773069"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2105,
+      "date": 1767389156,
+      "rd": 17
+    },
+    "best": {
+      "rating": 2186,
+      "date": 1719677677,
+      "game": "https://www.chess.com/game/live/113416753067"
+    },
+    "record": {
+      "win": 3531,
+      "loss": 3698,
+      "draw": 240
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2342,
+      "date": 1775425675,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1775425675,
+      "game": "https://www.chess.com/game/live/56842858959"
+    },
+    "record": {
+      "win": 1158,
+      "loss": 1094,
+      "draw": 202
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2464,
+      "date": 1406845310
+    },
+    "lowest": {
+      "rating": 2464,
+      "date": 1406845310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

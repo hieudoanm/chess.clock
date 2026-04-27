@@ -1,0 +1,103 @@
+{
+  "player_id": 46857456,
+  "@id": "https://api.chess.com/pub/player/m1711",
+  "url": "https://www.chess.com/member/M1711",
+  "name": "Mads Vestby-Ellingsen",
+  "username": "m1711",
+  "title": "IM",
+  "followers": 66,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776446980,
+  "joined": 1528289050,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1676,
+      "date": 1704360531,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1562031395,
+      "game": "https://www.chess.com/game/daily/226039499"
+    },
+    "record": {
+      "win": 69,
+      "loss": 36,
+      "draw": 11,
+      "time_per_move": 26752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2617,
+      "date": 1708279877,
+      "rd": 299
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1699300666,
+      "game": "https://www.chess.com/game/live/93039106235"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2766,
+      "date": 1773498947,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2818,
+      "date": 1679185000,
+      "game": "https://www.chess.com/game/live/95278909407"
+    },
+    "record": {
+      "win": 730,
+      "loss": 528,
+      "draw": 86
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2912,
+      "date": 1776446972,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2919,
+      "date": 1776446620,
+      "game": "https://www.chess.com/game/live/3926709944"
+    },
+    "record": {
+      "win": 641,
+      "loss": 455,
+      "draw": 116
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2680,
+      "date": 1528289050
+    },
+    "lowest": {
+      "rating": 2680,
+      "date": 1528289050
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 42738338,
+  "@id": "https://api.chess.com/pub/player/kbt123411",
+  "url": "https://www.chess.com/member/kbt123411",
+  "username": "kbt123411",
+  "title": "WFM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776433525,
+  "joined": 1517060016,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2077,
+      "date": 1774621091,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2077,
+      "date": 1747823448,
+      "game": "https://www.chess.com/game/live/138696126580"
+    },
+    "record": {
+      "win": 75,
+      "loss": 41,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1879,
+      "date": 1740824222,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2033,
+      "date": 1660461382,
+      "game": "https://www.chess.com/game/live/54199766691"
+    },
+    "record": {
+      "win": 113,
+      "loss": 88,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2237,
+      "date": 1774345255,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1769956552,
+      "game": "https://www.chess.com/game/live/25795801317"
+    },
+    "record": {
+      "win": 2566,
+      "loss": 2487,
+      "draw": 274
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2255,
+      "date": 1774952201
+    },
+    "lowest": {
+      "rating": 2191,
+      "date": 1774952719
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

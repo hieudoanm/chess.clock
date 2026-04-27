@@ -1,0 +1,83 @@
+{
+  "player_id": 65837864,
+  "@id": "https://api.chess.com/pub/player/senornadie",
+  "url": "https://www.chess.com/member/SenorNadie",
+  "username": "senornadie",
+  "title": "GM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/XC",
+  "last_online": 1771711714,
+  "joined": 1569250372,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2600,
+      "date": 1692954767,
+      "rd": 202
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1653324724,
+      "game": "https://www.chess.com/game/live/47062902121"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2827,
+      "date": 1762566026,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2846,
+      "date": 1710860010,
+      "game": "https://www.chess.com/game/live/97802370689"
+    },
+    "record": {
+      "win": 104,
+      "loss": 46,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3006,
+      "date": 1771710315,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3088,
+      "date": 1771536861,
+      "game": "https://www.chess.com/game/live/93461348715"
+    },
+    "record": {
+      "win": 1002,
+      "loss": 664,
+      "draw": 167
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2672,
+      "date": 1569250372
+    },
+    "lowest": {
+      "rating": 2672,
+      "date": 1569250372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

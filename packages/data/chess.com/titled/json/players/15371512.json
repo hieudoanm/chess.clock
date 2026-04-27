@@ -1,0 +1,84 @@
+{
+  "player_id": 15371512,
+  "@id": "https://api.chess.com/pub/player/sawyer2908",
+  "url": "https://www.chess.com/member/Sawyer2908",
+  "name": "Lukasz Butkiewicz",
+  "username": "sawyer2908",
+  "title": "IM",
+  "followers": 66,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776447964,
+  "joined": 1388671997,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1934,
+      "date": 1648225113,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1934,
+      "date": 1638096808,
+      "game": "https://www.chess.com/game/live/31829993543"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2317,
+      "date": 1547837958,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1411405727,
+      "game": "https://www.chess.com/game/live/921450889"
+    },
+    "record": {
+      "win": 6,
+      "loss": 15,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2588,
+      "date": 1774987113,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1769544190,
+      "game": "https://www.chess.com/game/live/4743357676"
+    },
+    "record": {
+      "win": 1048,
+      "loss": 729,
+      "draw": 216
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2735,
+      "date": 1773008871
+    },
+    "lowest": {
+      "rating": 2568,
+      "date": 1767692642
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 48
+    }
+  }
+}

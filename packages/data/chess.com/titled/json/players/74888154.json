@@ -1,0 +1,96 @@
+{
+  "player_id": 74888154,
+  "@id": "https://api.chess.com/pub/player/golem2007",
+  "url": "https://www.chess.com/member/golem2007",
+  "username": "golem2007",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1586332014,
+  "joined": 1585445571,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1586443805,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 3255,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2591,
+      "date": 1586286873,
+      "rd": 179
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1585688378,
+      "game": "https://www.chess.com/game/live/4654091632"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2061,
+      "date": 1586164723,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1586053446,
+      "game": "https://www.chess.com/game/live/4685061840"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2375,
+      "date": 1586339016,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1585894771,
+      "game": "https://www.chess.com/game/live/4690983666"
+    },
+    "record": {
+      "win": 16,
+      "loss": 20,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2160,
+      "date": 1585445571
+    },
+    "lowest": {
+      "rating": 2160,
+      "date": 1585445571
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

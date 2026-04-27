@@ -1,0 +1,83 @@
+{
+  "player_id": 57985386,
+  "@id": "https://api.chess.com/pub/player/americanpatzer3",
+  "url": "https://www.chess.com/member/AmericanPatzer3",
+  "username": "americanpatzer3",
+  "title": "IM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776532433,
+  "joined": 1551495531,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1605642177,
+      "rd": 261
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1596639081,
+      "game": "https://www.chess.com/game/live/5721066321"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2472,
+      "date": 1632253747,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1632252640,
+      "game": "https://www.chess.com/game/live/25992597783"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2726,
+      "date": 1776476437,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2932,
+      "date": 1773945866,
+      "game": "https://www.chess.com/game/live/166147678832"
+    },
+    "record": {
+      "win": 10662,
+      "loss": 10391,
+      "draw": 2083
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2746,
+      "date": 1772218468
+    },
+    "lowest": {
+      "rating": 2746,
+      "date": 1772218468
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

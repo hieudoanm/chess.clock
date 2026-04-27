@@ -1,0 +1,123 @@
+{
+  "player_id": 1675518,
+  "@id": "https://api.chess.com/pub/player/matetricks",
+  "url": "https://www.chess.com/member/Matetricks",
+  "name": "Andrew Ng",
+  "username": "matetricks",
+  "title": "NM",
+  "followers": 207,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776463172,
+  "joined": 1230152997,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2342,
+      "date": 1702288664,
+      "rd": 258
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1409199570,
+      "game": "https://www.chess.com/game/daily/63267628"
+    },
+    "record": {
+      "win": 49,
+      "loss": 2,
+      "draw": 4,
+      "time_per_move": 15369,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1863,
+      "date": 1387601473,
+      "rd": 109
+    },
+    "best": {
+      "rating": 1863,
+      "date": 1387601473,
+      "game": "https://www.chess.com/game/daily/81327980"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15369,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2609,
+      "date": 1669353690,
+      "rd": 306
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1608428948,
+      "game": "https://www.chess.com/game/live/440679624"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2661,
+      "date": 1774313642,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1605398778,
+      "game": "https://www.chess.com/game/live/97085992"
+    },
+    "record": {
+      "win": 638,
+      "loss": 453,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1750317398,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1388606450,
+      "game": "https://www.chess.com/game/live/744137960"
+    },
+    "record": {
+      "win": 333,
+      "loss": 117,
+      "draw": 20
+    }
+  },
+  "fide": 2335,
+  "tactics": {
+    "highest": {
+      "rating": 2725,
+      "date": 1776462240
+    },
+    "lowest": {
+      "rating": 2515,
+      "date": 1776462646
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

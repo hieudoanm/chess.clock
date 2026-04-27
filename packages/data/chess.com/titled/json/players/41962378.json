@@ -1,0 +1,103 @@
+{
+  "player_id": 41962378,
+  "@id": "https://api.chess.com/pub/player/wildbizon",
+  "url": "https://www.chess.com/member/WildBizon",
+  "name": "Alexander Gutenev",
+  "username": "wildbizon",
+  "title": "IM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776595476,
+  "joined": 1514998353,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2006,
+      "date": 1775728297,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1749149551,
+      "game": "https://www.chess.com/game/daily/329971022"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32759,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2437,
+      "date": 1755288681,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1611493437,
+      "game": "https://www.chess.com/game/live/38613258427"
+    },
+    "record": {
+      "win": 21,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1755288223,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1642428319,
+      "game": "https://www.chess.com/game/live/36938406327"
+    },
+    "record": {
+      "win": 125,
+      "loss": 61,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2779,
+      "date": 1768775931,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2784,
+      "date": 1566837868,
+      "game": "https://www.chess.com/game/live/4846648295"
+    },
+    "record": {
+      "win": 895,
+      "loss": 718,
+      "draw": 155
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2483,
+      "date": 1769116081
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1768945453
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 70
+    }
+  }
+}

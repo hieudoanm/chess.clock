@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60335128.30238cf1.200x200o.6b8b5840f1de.png",
+  "player_id": 60335128,
+  "@id": "https://api.chess.com/pub/player/alessiasanteramo",
+  "url": "https://www.chess.com/member/AlessiaSanteramo",
+  "name": "Alessia Santeramo",
+  "username": "alessiasanteramo",
+  "title": "WFM",
+  "followers": 4571,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776431041,
+  "joined": 1556454474,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/alessiasanteramo",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/alessiasanteramo"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2014,
+      "date": 1753804492,
+      "rd": 336
+    },
+    "best": {
+      "rating": 2014,
+      "date": 1672515288,
+      "game": "https://www.chess.com/game/daily/432454659"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 119003,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2367,
+      "date": 1774864484,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1706884656,
+      "game": "https://www.chess.com/game/live/166621807902"
+    },
+    "record": {
+      "win": 246,
+      "loss": 181,
+      "draw": 41
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1752660994,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1650993325,
+      "game": "https://www.chess.com/game/live/35491072743"
+    },
+    "record": {
+      "win": 3099,
+      "loss": 3032,
+      "draw": 317
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2436,
+      "date": 1774348016,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1683894570,
+      "game": "https://www.chess.com/game/live/6234233898"
+    },
+    "record": {
+      "win": 5622,
+      "loss": 5738,
+      "draw": 792
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1760965414
+    },
+    "lowest": {
+      "rating": 2374,
+      "date": 1760965256
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

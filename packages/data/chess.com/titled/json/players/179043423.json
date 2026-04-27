@@ -1,0 +1,62 @@
+{
+  "player_id": 179043423,
+  "@id": "https://api.chess.com/pub/player/chrisclaireredfield",
+  "url": "https://www.chess.com/member/chrisclaireredfield",
+  "name": "Nicolas Brunner",
+  "username": "chrisclaireredfield",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776271816,
+  "joined": 1648971046,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2161,
+      "date": 1649710560,
+      "rd": 250
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2587,
+      "date": 1755773809,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2788,
+      "date": 1681831059,
+      "game": "https://www.chess.com/game/live/75569617301"
+    },
+    "record": {
+      "win": 195,
+      "loss": 179,
+      "draw": 66
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2613,
+      "date": 1648971046
+    },
+    "lowest": {
+      "rating": 2613,
+      "date": 1648971046
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

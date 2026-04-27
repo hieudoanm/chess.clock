@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12443860.41b1eaef.200x200o.cb0cfc8a7210.jpeg",
+  "player_id": 12443860,
+  "@id": "https://api.chess.com/pub/player/jjdarek",
+  "url": "https://www.chess.com/member/JJDAREK",
+  "name": "Dariusz Bieli\u0144ski",
+  "username": "jjdarek",
+  "title": "CM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776542645,
+  "joined": 1372004291,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 821,
+      "date": 1750245041,
+      "rd": 348
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1372004291,
+      "game": "https://www.chess.com/game/daily/823746710"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 29100,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2377,
+      "date": 1768741777,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1685718119,
+      "game": "https://www.chess.com/game/live/77724646355"
+    },
+    "record": {
+      "win": 23,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2219,
+      "date": 1773241801,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1773241801,
+      "game": "https://www.chess.com/game/live/94676293193"
+    },
+    "record": {
+      "win": 340,
+      "loss": 221,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2400,
+      "date": 1776336858,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1736185541,
+      "game": "https://www.chess.com/game/live/108229341961"
+    },
+    "record": {
+      "win": 472,
+      "loss": 384,
+      "draw": 77
+    }
+  },
+  "fide": 2153,
+  "tactics": {
+    "highest": {
+      "rating": 2455,
+      "date": 1770303404
+    },
+    "lowest": {
+      "rating": 2099,
+      "date": 1757502587
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

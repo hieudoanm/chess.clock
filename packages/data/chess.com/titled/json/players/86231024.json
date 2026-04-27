@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86231024.75ebdded.200x200o.a21d8a92d4bd.png",
+  "player_id": 86231024,
+  "@id": "https://api.chess.com/pub/player/vulcan_o",
+  "url": "https://www.chess.com/member/Vulcan_o",
+  "name": "Lucy Wanjiru",
+  "username": "vulcan_o",
+  "title": "WCM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/KE",
+  "last_online": 1775046753,
+  "joined": 1594287321,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1234,
+      "date": 1741518200,
+      "rd": 177
+    },
+    "best": {
+      "rating": 1348,
+      "date": 1637397327,
+      "game": "https://www.chess.com/game/daily/365980697"
+    },
+    "record": {
+      "win": 3,
+      "loss": 21,
+      "draw": 0,
+      "time_per_move": 46718,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1790,
+      "date": 1756530807,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1790,
+      "date": 1756530807,
+      "game": "https://www.chess.com/game/live/31509657311"
+    },
+    "record": {
+      "win": 106,
+      "loss": 87,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1010,
+      "date": 1683840256,
+      "rd": 129
+    },
+    "best": {
+      "rating": 1368,
+      "date": 1604421918,
+      "game": "https://www.chess.com/game/live/18387659859"
+    },
+    "record": {
+      "win": 91,
+      "loss": 114,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1424,
+      "date": 1773860978,
+      "rd": 41
+    },
+    "best": {
+      "rating": 1660,
+      "date": 1662302667,
+      "game": "https://www.chess.com/game/live/47130625019"
+    },
+    "record": {
+      "win": 1113,
+      "loss": 1066,
+      "draw": 120
+    }
+  },
+  "fide": 1623,
+  "tactics": {
+    "highest": {
+      "rating": 1858,
+      "date": 1773727219
+    },
+    "lowest": {
+      "rating": 1722,
+      "date": 1773725476
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

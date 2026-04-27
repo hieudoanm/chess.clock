@@ -1,0 +1,79 @@
+{
+  "player_id": 60404510,
+  "@id": "https://api.chess.com/pub/player/zemerovv",
+  "url": "https://www.chess.com/member/Zemerovv",
+  "name": "Vladimir Zemerov",
+  "username": "zemerovv",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1745343001,
+  "joined": 1556621513,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1739539099,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1739538922,
+      "game": "https://www.chess.com/game/live/133277344055"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1531,
+      "date": 1739541000,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1647091464,
+      "game": "https://www.chess.com/game/live/133279739027"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2178,
+      "date": 1745343186,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2433,
+      "date": 1636561824,
+      "game": "https://www.chess.com/game/live/42003589811"
+    },
+    "record": {
+      "win": 4280,
+      "loss": 4007,
+      "draw": 630
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1556621513
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1556621513
+    }
+  },
+  "puzzle_rush": {}
+}

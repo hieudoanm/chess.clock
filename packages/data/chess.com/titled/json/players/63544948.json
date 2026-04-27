@@ -1,0 +1,99 @@
+{
+  "player_id": 63544948,
+  "@id": "https://api.chess.com/pub/player/murphygambit",
+  "url": "https://www.chess.com/member/murphygambit",
+  "name": "Sean J. Murphy",
+  "username": "murphygambit",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1776598617,
+  "joined": 1563810295,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1315,
+      "date": 1770736133,
+      "rd": 239
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 70722,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1705497954,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2353,
+      "date": 1626718901,
+      "game": "https://www.chess.com/game/live/43527681481"
+    },
+    "record": {
+      "win": 28,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2182,
+      "date": 1776513098,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1614187934,
+      "game": "https://www.chess.com/game/live/12397028373"
+    },
+    "record": {
+      "win": 155,
+      "loss": 133,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2426,
+      "date": 1776598603,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1776461356,
+      "game": "https://www.chess.com/game/live/167441678546"
+    },
+    "record": {
+      "win": 1043,
+      "loss": 868,
+      "draw": 89
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1774873325
+    },
+    "lowest": {
+      "rating": 2012,
+      "date": 1774967829
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 33728143,
+  "@id": "https://api.chess.com/pub/player/niteshch",
+  "url": "https://www.chess.com/member/Niteshch",
+  "name": "Nitesh Cherukuri",
+  "username": "niteshch",
+  "title": "CM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776339434,
+  "joined": 1488762500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1290,
+      "date": 1719252347,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1564,
+      "date": 1598892852,
+      "game": "https://www.chess.com/game/daily/271514092"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 96053,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2162,
+      "date": 1719010124,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1718584920,
+      "game": "https://www.chess.com/game/live/112317620171"
+    },
+    "record": {
+      "win": 259,
+      "loss": 214,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2128,
+      "date": 1716552849,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1704,
+      "date": 1714529948,
+      "game": "https://www.chess.com/game/live/108268810013"
+    },
+    "record": {
+      "win": 104,
+      "loss": 120,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2359,
+      "date": 1718993773,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1717536454,
+      "game": "https://www.chess.com/game/live/111274885145"
+    },
+    "record": {
+      "win": 693,
+      "loss": 669,
+      "draw": 44
+    }
+  },
+  "fide": 2128,
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1488762500
+    },
+    "lowest": {
+      "rating": 2517,
+      "date": 1488762500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

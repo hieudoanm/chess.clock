@@ -1,0 +1,103 @@
+{
+  "player_id": 60945156,
+  "@id": "https://api.chess.com/pub/player/zipfelklatscher",
+  "url": "https://www.chess.com/member/Zipfelklatscher",
+  "username": "zipfelklatscher",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776458673,
+  "joined": 1557769426,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2076,
+      "date": 1772118468,
+      "rd": 297
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1633636042,
+      "game": "https://www.chess.com/game/daily/350672631"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9761,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2403,
+      "date": 1776376182,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1760478062,
+      "game": "https://www.chess.com/game/live/144065566866"
+    },
+    "record": {
+      "win": 270,
+      "loss": 193,
+      "draw": 48
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2230,
+      "date": 1702941747,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2283,
+      "date": 1702940420,
+      "game": "https://www.chess.com/game/live/96679704059"
+    },
+    "record": {
+      "win": 42,
+      "loss": 22,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2300,
+      "date": 1776380136,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1687981687,
+      "game": "https://www.chess.com/game/live/110406765195"
+    },
+    "record": {
+      "win": 1742,
+      "loss": 1390,
+      "draw": 182
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2643,
+      "date": 1775990793
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1758842015
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 63
+    }
+  }
+}

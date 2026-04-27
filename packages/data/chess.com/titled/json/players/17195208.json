@@ -1,0 +1,85 @@
+{
+  "player_id": 17195208,
+  "@id": "https://api.chess.com/pub/player/dimitrisl",
+  "url": "https://www.chess.com/member/dimitrisl",
+  "name": "Dimitrios Loutragotis",
+  "username": "dimitrisl",
+  "title": "FM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776594251,
+  "joined": 1399385697,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2329,
+      "date": 1697634243,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1500,
+      "date": 1399488629,
+      "game": "https://www.chess.com/game/live/800368323"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2628,
+      "date": 1775824207,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2756,
+      "date": 1689612580,
+      "game": "https://www.chess.com/game/live/108514269275"
+    },
+    "record": {
+      "win": 130,
+      "loss": 110,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2633,
+      "date": 1776594250,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1775380464,
+      "game": "https://www.chess.com/game/live/147792459834"
+    },
+    "record": {
+      "win": 4264,
+      "loss": 5185,
+      "draw": 1089
+    }
+  },
+  "fide": 2329,
+  "tactics": {
+    "highest": {
+      "rating": 2462,
+      "date": 1399385697
+    },
+    "lowest": {
+      "rating": 2462,
+      "date": 1399385697
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 36
+    }
+  }
+}

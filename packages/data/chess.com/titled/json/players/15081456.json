@@ -1,0 +1,69 @@
+{
+  "player_id": 15081456,
+  "@id": "https://api.chess.com/pub/player/digorgonzola",
+  "url": "https://www.chess.com/member/DiGorgonzola",
+  "name": "Carl Fredrik Ekeberg",
+  "username": "digorgonzola",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776580010,
+  "joined": 1387306013,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2050,
+      "date": 1725458642,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1452617030,
+      "game": "https://www.chess.com/game/daily/87896954"
+    },
+    "record": {
+      "win": 91,
+      "loss": 13,
+      "draw": 14,
+      "time_per_move": 10392,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2282,
+      "date": 1725458643,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2233,
+      "date": 1483281920,
+      "game": "https://www.chess.com/game/live/1673857578"
+    },
+    "record": {
+      "win": 93,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "fide": 2282,
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1755947919
+    },
+    "lowest": {
+      "rating": 2150,
+      "date": 1771093253
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 42
+    }
+  }
+}

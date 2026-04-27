@@ -1,0 +1,67 @@
+{
+  "player_id": 406908803,
+  "@id": "https://api.chess.com/pub/player/paalbatroemel",
+  "url": "https://www.chess.com/member/Paalbatroemel",
+  "username": "paalbatroemel",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/PE",
+  "last_online": 1776593002,
+  "joined": 1733315236,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1765284793,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1735339848,
+      "game": "https://www.chess.com/game/live/139057306744"
+    },
+    "record": {
+      "win": 266,
+      "loss": 179,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2352,
+      "date": 1776592877,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1763121810,
+      "game": "https://www.chess.com/game/live/164809757666"
+    },
+    "record": {
+      "win": 1633,
+      "loss": 1241,
+      "draw": 319
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2620,
+      "date": 1776538586
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1764769600
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

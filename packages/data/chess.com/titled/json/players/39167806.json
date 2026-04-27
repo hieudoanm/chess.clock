@@ -1,0 +1,87 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39167806.485bc651.200x200o.4e099cebdf0e.jpg",
+  "player_id": 39167806,
+  "@id": "https://api.chess.com/pub/player/korbacik",
+  "url": "https://www.chess.com/member/korbacik",
+  "name": "Magdalena Miturova",
+  "username": "korbacik",
+  "title": "WIM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776326985,
+  "joined": 1507121311,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1938,
+      "date": 1763026121,
+      "rd": 210
+    },
+    "best": {
+      "rating": 1938,
+      "date": 1731442320,
+      "game": "https://www.chess.com/game/daily/405634613"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 19655,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2228,
+      "date": 1613749101,
+      "rd": 326
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1613749101,
+      "game": "https://www.chess.com/game/live/7487032703"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2136,
+      "date": 1776238820,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1726300748,
+      "game": "https://www.chess.com/game/live/88542745485"
+    },
+    "record": {
+      "win": 749,
+      "loss": 672,
+      "draw": 100
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2372,
+      "date": 1775641267
+    },
+    "lowest": {
+      "rating": 2257,
+      "date": 1775641475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

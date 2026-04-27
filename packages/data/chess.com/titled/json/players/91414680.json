@@ -1,0 +1,66 @@
+{
+  "player_id": 91414680,
+  "@id": "https://api.chess.com/pub/player/david060104",
+  "url": "https://www.chess.com/member/David060104",
+  "username": "david060104",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1775930461,
+  "joined": 1600355865,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2079,
+      "date": 1721068762,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1604856047,
+      "game": "https://www.chess.com/game/live/5708057905"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2327,
+      "date": 1721720384,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2377,
+      "date": 1701874363,
+      "game": "https://www.chess.com/game/live/95612970087"
+    },
+    "record": {
+      "win": 22,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1956,
+      "date": 1600355865
+    },
+    "lowest": {
+      "rating": 1956,
+      "date": 1600355865
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 31
+    }
+  }
+}

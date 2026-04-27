@@ -1,0 +1,84 @@
+{
+  "player_id": 42103560,
+  "@id": "https://api.chess.com/pub/player/timetopush",
+  "url": "https://www.chess.com/member/timetopush",
+  "name": "Orlando Husbands",
+  "username": "timetopush",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/BB",
+  "last_online": 1776550517,
+  "joined": 1515364048,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2052,
+      "date": 1756397384,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2186,
+      "date": 1596998515,
+      "game": "https://www.chess.com/game/live/5274344796"
+    },
+    "record": {
+      "win": 4,
+      "loss": 18,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2239,
+      "date": 1776476661,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1709322033,
+      "game": "https://www.chess.com/game/live/139867706962"
+    },
+    "record": {
+      "win": 170,
+      "loss": 241,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2474,
+      "date": 1776482216,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1584290555,
+      "game": "https://www.chess.com/game/live/165375177730"
+    },
+    "record": {
+      "win": 1131,
+      "loss": 1067,
+      "draw": 116
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1810,
+      "date": 1757376076
+    },
+    "lowest": {
+      "rating": 1573,
+      "date": 1757377800
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

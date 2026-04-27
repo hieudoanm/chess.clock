@@ -1,0 +1,86 @@
+{
+  "player_id": 70983778,
+  "@id": "https://api.chess.com/pub/player/onedar",
+  "url": "https://www.chess.com/member/onedar",
+  "name": "Dariya Lee",
+  "username": "onedar",
+  "title": "WCM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/KG",
+  "location": "Bishkek",
+  "last_online": 1775061293,
+  "joined": 1579441262,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1761,
+      "date": 1753635291,
+      "rd": 168
+    },
+    "best": {
+      "rating": 1836,
+      "date": 1683409081,
+      "game": "https://www.chess.com/game/live/77147012285"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1904,
+      "date": 1773703394,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1684219059,
+      "game": "https://www.chess.com/game/live/78062588149"
+    },
+    "record": {
+      "win": 117,
+      "loss": 101,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2073,
+      "date": 1774337653,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1752491920,
+      "game": "https://www.chess.com/game/live/77958635663"
+    },
+    "record": {
+      "win": 28,
+      "loss": 27,
+      "draw": 2
+    }
+  },
+  "fide": 1523,
+  "tactics": {
+    "highest": {
+      "rating": 1878,
+      "date": 1579441262
+    },
+    "lowest": {
+      "rating": 1878,
+      "date": 1579441262
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

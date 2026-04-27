@@ -1,0 +1,83 @@
+{
+  "player_id": 23863780,
+  "@id": "https://api.chess.com/pub/player/sharpchess22",
+  "url": "https://www.chess.com/member/Sharpchess22",
+  "name": "Carlos Andres Obreg\u00f3n",
+  "username": "sharpchess22",
+  "title": "GM",
+  "followers": 199,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1625698246,
+  "joined": 1440774260,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2319,
+      "date": 1608404684,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2627,
+      "date": 1606085366,
+      "game": "https://www.chess.com/game/live/6007197658"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2558,
+      "date": 1544065285,
+      "rd": 341
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1544065285,
+      "game": "https://www.chess.com/game/live/3271289289"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2855,
+      "date": 1625598046,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3051,
+      "date": 1566456858,
+      "game": "https://www.chess.com/game/live/3625631636"
+    },
+    "record": {
+      "win": 2627,
+      "loss": 2362,
+      "draw": 433
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2615,
+      "date": 1440774260
+    },
+    "lowest": {
+      "rating": 2615,
+      "date": 1440774260
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 99,
+      "score": 96
+    }
+  }
+}

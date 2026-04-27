@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16500412.82dc3abf.200x200o.9c00e4c5a948.jpeg",
+  "player_id": 16500412,
+  "@id": "https://api.chess.com/pub/player/purton",
+  "url": "https://www.chess.com/member/Purton",
+  "name": "Ben Purton",
+  "username": "purton",
+  "title": "FM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Grantham Sharks",
+  "last_online": 1776594291,
+  "joined": 1395089288,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1749,
+      "date": 1776589643,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1888,
+      "date": 1627838848,
+      "game": "https://www.chess.com/game/daily/341790973"
+    },
+    "record": {
+      "win": 265,
+      "loss": 189,
+      "draw": 47,
+      "time_per_move": 12677,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2307,
+      "date": 1741833617,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1692430679,
+      "game": "https://www.chess.com/game/live/13107737013"
+    },
+    "record": {
+      "win": 184,
+      "loss": 95,
+      "draw": 47
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1614099790,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1614099790,
+      "game": "https://www.chess.com/game/live/6460493362"
+    },
+    "record": {
+      "win": 35,
+      "loss": 13,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2461,
+      "date": 1776594696,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1728132055,
+      "game": "https://www.chess.com/game/live/3167850270"
+    },
+    "record": {
+      "win": 777,
+      "loss": 568,
+      "draw": 156
+    }
+  },
+  "fide": 2163,
+  "tactics": {
+    "highest": {
+      "rating": 2254,
+      "date": 1773675991
+    },
+    "lowest": {
+      "rating": 2070,
+      "date": 1775245634
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

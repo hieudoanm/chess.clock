@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1955004.8e11dd36.200x200o.235f0d6037ad.jpg",
+  "player_id": 1955004,
+  "@id": "https://api.chess.com/pub/player/chesspanda",
+  "url": "https://www.chess.com/member/chesspanda",
+  "name": "Jeff Ashton",
+  "username": "chesspanda",
+  "title": "NM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Houston",
+  "last_online": 1773624703,
+  "joined": 1244126393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 868,
+      "date": 1769218343,
+      "rd": 334
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1244126393,
+      "game": "https://www.chess.com/game/daily/553164675"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 188092,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1627,
+      "date": 1723939138,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2084,
+      "date": 1677371189,
+      "game": "https://www.chess.com/game/live/77757653707"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2179,
+      "date": 1750008447,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1684357523,
+      "game": "https://www.chess.com/game/live/78073326029"
+    },
+    "record": {
+      "win": 45,
+      "loss": 17,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2123,
+      "date": 1773266160,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1701482406,
+      "game": "https://www.chess.com/game/live/93148920205"
+    },
+    "record": {
+      "win": 46,
+      "loss": 30,
+      "draw": 2
+    }
+  },
+  "fide": 2267,
+  "tactics": {
+    "highest": {
+      "rating": 2564,
+      "date": 1769759752
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1772859283
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

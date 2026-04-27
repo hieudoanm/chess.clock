@@ -1,0 +1,85 @@
+{
+  "player_id": 178675649,
+  "@id": "https://api.chess.com/pub/player/champarden",
+  "url": "https://www.chess.com/member/ChampArden",
+  "name": "Alexander Logachiov",
+  "username": "champarden",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775933310,
+  "joined": 1648717586,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2159,
+      "date": 1753447985,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1748673949,
+      "game": "https://www.chess.com/game/live/139052399814"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2603,
+      "date": 1775926324,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1774724295,
+      "game": "https://www.chess.com/game/live/141816652671"
+    },
+    "record": {
+      "win": 649,
+      "loss": 682,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2437,
+      "date": 1773065427,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2464,
+      "date": 1772945184,
+      "game": "https://www.chess.com/game/live/143279414921"
+    },
+    "record": {
+      "win": 99,
+      "loss": 119,
+      "draw": 16
+    }
+  },
+  "fide": 2129,
+  "tactics": {
+    "highest": {
+      "rating": 2318,
+      "date": 1771855253
+    },
+    "lowest": {
+      "rating": 2270,
+      "date": 1768560737
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

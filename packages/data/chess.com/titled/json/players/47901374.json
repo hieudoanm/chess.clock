@@ -1,0 +1,84 @@
+{
+  "player_id": 47901374,
+  "@id": "https://api.chess.com/pub/player/onegust",
+  "url": "https://www.chess.com/member/Onegust",
+  "username": "onegust",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1772830974,
+  "joined": 1531682241,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2076,
+      "date": 1555170193,
+      "rd": 290
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1555170193,
+      "game": "https://www.chess.com/game/live/3614228073"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2660,
+      "date": 1770590932,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1770590932,
+      "game": "https://www.chess.com/game/live/164397608724"
+    },
+    "record": {
+      "win": 184,
+      "loss": 190,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2834,
+      "date": 1772060347,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2935,
+      "date": 1766424983,
+      "game": "https://www.chess.com/game/live/147008167964"
+    },
+    "record": {
+      "win": 3196,
+      "loss": 3686,
+      "draw": 495
+    }
+  },
+  "fide": 2324,
+  "tactics": {
+    "highest": {
+      "rating": 2722,
+      "date": 1757279376
+    },
+    "lowest": {
+      "rating": 2343,
+      "date": 1757282034
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 52
+    }
+  }
+}

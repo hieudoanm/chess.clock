@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30024558.e6d23004.200x200o.06b7b7765b85.jpeg",
+  "player_id": 30024558,
+  "@id": "https://api.chess.com/pub/player/blagorod",
+  "url": "https://www.chess.com/member/Blagorod",
+  "name": "Anatoly Borodavkin",
+  "username": "blagorod",
+  "title": "CM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "odessa",
+  "last_online": 1776509930,
+  "joined": 1474393041,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1714858730,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 58974,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2421,
+      "date": 1776505995,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2492,
+      "date": 1775566692,
+      "game": "https://www.chess.com/game/live/164497578380"
+    },
+    "record": {
+      "win": 1236,
+      "loss": 763,
+      "draw": 312
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1844,
+      "date": 1758877433,
+      "rd": 144
+    },
+    "best": {
+      "rating": 1903,
+      "date": 1758868641,
+      "game": "https://www.chess.com/game/live/2241784553"
+    },
+    "record": {
+      "win": 86,
+      "loss": 46,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2236,
+      "date": 1776108543,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1739052606,
+      "game": "https://www.chess.com/game/live/5546627544"
+    },
+    "record": {
+      "win": 1061,
+      "loss": 773,
+      "draw": 186
+    }
+  },
+  "fide": 2035,
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1772276238
+    },
+    "lowest": {
+      "rating": 2306,
+      "date": 1773488855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

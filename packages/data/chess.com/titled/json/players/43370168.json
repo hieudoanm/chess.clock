@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43370168.416f032e.200x200o.d8b5f5f35a5b.jpeg",
+  "player_id": 43370168,
+  "@id": "https://api.chess.com/pub/player/j-isaac",
+  "url": "https://www.chess.com/member/J-Isaac",
+  "name": "Jonathan Montevilla",
+  "username": "j-isaac",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/BO",
+  "last_online": 1773611887,
+  "joined": 1518710720,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1500,
+      "date": 1732631808,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1642892334,
+      "game": "https://www.chess.com/game/daily/355409747"
+    },
+    "record": {
+      "win": 16,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 35956,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2089,
+      "date": 1755885038,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1755885038,
+      "game": "https://www.chess.com/game/live/47332773579"
+    },
+    "record": {
+      "win": 29,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2489,
+      "date": 1771347354,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1751725957,
+      "game": "https://www.chess.com/game/live/161775425655"
+    },
+    "record": {
+      "win": 728,
+      "loss": 523,
+      "draw": 60
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2509,
+      "date": 1773183331,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1764698523,
+      "game": "https://www.chess.com/game/live/126377338073"
+    },
+    "record": {
+      "win": 233,
+      "loss": 172,
+      "draw": 24
+    }
+  },
+  "fide": 2089,
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1764275137
+    },
+    "lowest": {
+      "rating": 2157,
+      "date": 1764600403
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

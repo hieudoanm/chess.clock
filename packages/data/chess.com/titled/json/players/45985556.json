@@ -1,0 +1,83 @@
+{
+  "player_id": 45985556,
+  "@id": "https://api.chess.com/pub/player/chessmagia",
+  "url": "https://www.chess.com/member/chessmaGIA",
+  "username": "chessmagia",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1748197605,
+  "joined": 1525734699,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1289,
+      "date": 1698596929,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1714,
+      "date": 1637978037,
+      "game": "https://www.chess.com/game/live/31714827823"
+    },
+    "record": {
+      "win": 8,
+      "loss": 19,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1355,
+      "date": 1585507571,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1523,
+      "date": 1581172962,
+      "game": "https://www.chess.com/game/live/4653611635"
+    },
+    "record": {
+      "win": 4,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1908,
+      "date": 1691637669,
+      "rd": 144
+    },
+    "best": {
+      "rating": 1997,
+      "date": 1580514564,
+      "game": "https://www.chess.com/game/live/17515989587"
+    },
+    "record": {
+      "win": 52,
+      "loss": 103,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2295,
+      "date": 1525734699
+    },
+    "lowest": {
+      "rating": 2295,
+      "date": 1525734699
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

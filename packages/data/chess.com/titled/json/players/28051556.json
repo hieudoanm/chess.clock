@@ -1,0 +1,79 @@
+{
+  "player_id": 28051556,
+  "@id": "https://api.chess.com/pub/player/olderson",
+  "url": "https://www.chess.com/member/olderson",
+  "name": "Oleg Bykovskiy",
+  "username": "olderson",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1774201532,
+  "joined": 1462433676,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1586292456,
+      "rd": 269
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1747589885,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1747589885,
+      "game": "https://www.chess.com/game/live/126022185697"
+    },
+    "record": {
+      "win": 90,
+      "loss": 59,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2465,
+      "date": 1763926657,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1604533926,
+      "game": "https://www.chess.com/game/live/130026606949"
+    },
+    "record": {
+      "win": 1125,
+      "loss": 1164,
+      "draw": 247
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2591,
+      "date": 1756040124
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1768437130
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

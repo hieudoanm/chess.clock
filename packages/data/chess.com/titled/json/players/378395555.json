@@ -1,0 +1,67 @@
+{
+  "player_id": 378395555,
+  "@id": "https://api.chess.com/pub/player/chess_pur",
+  "url": "https://www.chess.com/member/Chess_PUR",
+  "username": "chess_pur",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776559589,
+  "joined": 1722443572,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1774472149,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1774472149,
+      "game": "https://www.chess.com/game/live/166425923386"
+    },
+    "record": {
+      "win": 161,
+      "loss": 157,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2607,
+      "date": 1776465527,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1774037393,
+      "game": "https://www.chess.com/game/live/165688470846"
+    },
+    "record": {
+      "win": 2813,
+      "loss": 2896,
+      "draw": 435
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2102,
+      "date": 1776281653
+    },
+    "lowest": {
+      "rating": 1764,
+      "date": 1756232750
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

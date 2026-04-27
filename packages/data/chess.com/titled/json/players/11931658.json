@@ -1,0 +1,103 @@
+{
+  "player_id": 11931658,
+  "@id": "https://api.chess.com/pub/player/j2806",
+  "url": "https://www.chess.com/member/j2806",
+  "name": "Julia Tsukerman",
+  "username": "j2806",
+  "title": "WCM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776298641,
+  "joined": 1368897841,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1513,
+      "date": 1706192125,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1713,
+      "date": 1521664875,
+      "game": "https://www.chess.com/game/daily/188533524"
+    },
+    "record": {
+      "win": 49,
+      "loss": 16,
+      "draw": 2,
+      "time_per_move": 29386,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2017,
+      "date": 1689551621,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1656011655,
+      "game": "https://www.chess.com/game/live/45273038831"
+    },
+    "record": {
+      "win": 298,
+      "loss": 230,
+      "draw": 59
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1948,
+      "date": 1699881235,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1615337573,
+      "game": "https://www.chess.com/game/live/5440518561"
+    },
+    "record": {
+      "win": 65,
+      "loss": 69,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2137,
+      "date": 1767721565,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1650196892,
+      "game": "https://www.chess.com/game/live/81012848317"
+    },
+    "record": {
+      "win": 1525,
+      "loss": 1810,
+      "draw": 302
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2446,
+      "date": 1768692517
+    },
+    "lowest": {
+      "rating": 2355,
+      "date": 1768692624
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

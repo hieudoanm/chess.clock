@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://www.chess.com/game/daily/68599586",
+    "pgn": "[Event \"The Neverending Tournament - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2013.04.18\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"daradara\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/the-neverending-tournament\"]\n[CurrentPosition \"8/qp2kpp1/p1p4p/8/3R1P2/1P3B1P/P5P1/3R2K1 b - - 4 33\"]\n[Timezone \"UTC\"]\n[ECO \"D10\"]\n[ECOUrl \"https://www.chess.com/openings/Slav-Defense-3.Nc3-Nf6\"]\n[UTCDate \"2013.04.18\"]\n[UTCTime \"16:32:12\"]\n[WhiteElo \"1685\"]\n[BlackElo \"1536\"]\n[TimeControl \"1/1209600\"]\n[Termination \"penguingm1 won by resignation\"]\n[StartTime \"16:32:12\"]\n[EndDate \"2013.09.19\"]\n[EndTime \"11:15:25\"]\n[Link \"https://www.chess.com/game/daily/68599586\"]\n\n1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 Bf5 5. e3 e6 6. Be2 Bd6 7. Nh4 Be4 8. Nxe4 Nxe4 9. Nf3 O-O 10. O-O Qc7 11. Qc2 Nd7 12. h3 Rac8 13. b3 Nef6 14. Bb2 h6 15. Rac1 Rfe8 16. Rfd1 a6 17. Bd3 Qb8 18. Nd2 e5 19. dxe5 Bxe5 20. cxd5 Nxd5 21. Bf5 Rcd8 22. Nc4 Bf6 23. e4 Bxb2 24. Qxb2 N5f6 25. Nd6 Re7 26. f4 Nb6 27. Qd4 Nxe4 28. Bxe4 Nc8 29. Nxc8 Rxd4 30. Nxe7+ Kf8 31. Rxd4 Kxe7 32. Bf3 Qa7 33. Rd1 1-0\n",
+    "time_control": "1/1209600",
+    "end_time": 1379589325,
+    "rated": true,
+    "tcn": "lBZJkAYQbs!Tgv6Lmu0Sfm9RvFLCsCTCFv8!eg7Ydk5Zpx46jrCTcj3Vac98fdWOmtY5vlSKBKRKAJTJtL67lAKTuCTjkjJTAR80nDZPjBTCLCP6R67B60!9dB90Cv5Wcd",
+    "uuid": "8582c5a6-a845-11e2-824a-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/qp2kpp1/p1p4p/8/3R1P2/1P3B1P/P5P1/3R2K1 b - - 4 33",
+    "start_time": 1366302732,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1685,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1536,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/daradara",
+      "username": "daradara",
+      "uuid": "10baea62-fef8-11df-803b-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/the-neverending-tournament"
+  }
+]

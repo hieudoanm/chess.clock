@@ -1,0 +1,103 @@
+{
+  "player_id": 62375850,
+  "@id": "https://api.chess.com/pub/player/js20000",
+  "url": "https://www.chess.com/member/js20000",
+  "name": "Jan Subelj",
+  "username": "js20000",
+  "title": "GM",
+  "followers": 389,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776597044,
+  "joined": 1560771851,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1593,
+      "date": 1738747774,
+      "rd": 232
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1619964252,
+      "game": "https://www.chess.com/game/daily/328670034"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 59325,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2481,
+      "date": 1752430974,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1739109218,
+      "game": "https://www.chess.com/game/live/100464229441"
+    },
+    "record": {
+      "win": 52,
+      "loss": 25,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2332,
+      "date": 1768300081,
+      "rd": 181
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1705266547,
+      "game": "https://www.chess.com/game/live/99005219255"
+    },
+    "record": {
+      "win": 38,
+      "loss": 21,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2839,
+      "date": 1773342425,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3000,
+      "date": 1769979130,
+      "game": "https://www.chess.com/game/live/165101971250"
+    },
+    "record": {
+      "win": 4670,
+      "loss": 3846,
+      "draw": 1136
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2608,
+      "date": 1771922165
+    },
+    "lowest": {
+      "rating": 2411,
+      "date": 1762150344
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 65
+    }
+  }
+}

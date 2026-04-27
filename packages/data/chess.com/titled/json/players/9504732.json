@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9504732.735befd4.200x200o.ba8cc22ccd35.png",
+  "player_id": 9504732,
+  "@id": "https://api.chess.com/pub/player/chessdojo",
+  "url": "https://www.chess.com/member/ChessDojo",
+  "name": "Kostya Kavutskiy, Jesse Kraai and David Pruess",
+  "username": "chessdojo",
+  "title": "IM",
+  "followers": 1481,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1771010383,
+  "joined": 1351966062,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessdojo",
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessdojo"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2048,
+      "date": 1732333118,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1596913235,
+      "game": "https://www.chess.com/game/live/126069546071"
+    },
+    "record": {
+      "win": 12,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2550,
+      "date": 1595029982,
+      "rd": 250
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2191,
+      "date": 1730429817,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2643,
+      "date": 1596745187,
+      "game": "https://www.chess.com/game/live/92503343543"
+    },
+    "record": {
+      "win": 45,
+      "loss": 56,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2191,
+      "date": 1351966062
+    },
+    "lowest": {
+      "rating": 2191,
+      "date": 1351966062
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

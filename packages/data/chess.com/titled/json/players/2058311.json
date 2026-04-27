@@ -1,0 +1,88 @@
+{
+  "player_id": 2058311,
+  "@id": "https://api.chess.com/pub/player/zemogibax",
+  "url": "https://www.chess.com/member/zemogibax",
+  "name": "Xabier Gomez Dominguez",
+  "username": "zemogibax",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/XG",
+  "location": "IDK",
+  "last_online": 1776415859,
+  "joined": 1248704038,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1729,
+      "date": 1768575244,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1729,
+      "date": 1763989441,
+      "game": "https://www.chess.com/game/daily/873539833"
+    },
+    "record": {
+      "win": 121,
+      "loss": 23,
+      "draw": 5,
+      "time_per_move": 5139,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1772053793,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1772053793,
+      "game": "https://www.chess.com/game/live/165106491890"
+    },
+    "record": {
+      "win": 1098,
+      "loss": 915,
+      "draw": 124
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1776415765,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1765111166,
+      "game": "https://www.chess.com/game/live/165226191881"
+    },
+    "record": {
+      "win": 232,
+      "loss": 210,
+      "draw": 29
+    }
+  },
+  "fide": 100,
+  "tactics": {
+    "highest": {
+      "rating": 2287,
+      "date": 1768943346
+    },
+    "lowest": {
+      "rating": 2218,
+      "date": 1774380035
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

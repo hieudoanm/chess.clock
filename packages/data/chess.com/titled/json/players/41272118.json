@@ -1,0 +1,94 @@
+{
+  "player_id": 41272118,
+  "@id": "https://api.chess.com/pub/player/terao90",
+  "url": "https://www.chess.com/member/Terao90",
+  "name": "Rodrigo Akira Terao",
+  "username": "terao90",
+  "title": "FM",
+  "followers": 166,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "S\u00e3o Luis",
+  "last_online": 1776547095,
+  "joined": 1513123294,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1714060664,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 4698220,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1941,
+      "date": 1590888371,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1590277893,
+      "game": "https://www.chess.com/game/live/4834702109"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2523,
+      "date": 1723397926,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1617303592,
+      "game": "https://www.chess.com/game/live/11042136471"
+    },
+    "record": {
+      "win": 66,
+      "loss": 50,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2455,
+      "date": 1776545871,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1737947680,
+      "game": "https://www.chess.com/game/live/129588203715"
+    },
+    "record": {
+      "win": 2560,
+      "loss": 2507,
+      "draw": 550
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2322,
+      "date": 1764915003
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1764913544
+    }
+  },
+  "puzzle_rush": {}
+}

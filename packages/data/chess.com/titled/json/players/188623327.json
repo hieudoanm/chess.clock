@@ -1,0 +1,86 @@
+{
+  "player_id": 188623327,
+  "@id": "https://api.chess.com/pub/player/f7m_08",
+  "url": "https://www.chess.com/member/F7m_08",
+  "name": "Famil Kishiev",
+  "username": "f7m_08",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776511250,
+  "joined": 1656675982,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1776417406,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1776417406,
+      "game": "https://www.chess.com/game/live/167353742882"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3006,
+      "date": 1776437833,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3153,
+      "date": 1767535119,
+      "game": "https://www.chess.com/game/live/167428599296"
+    },
+    "record": {
+      "win": 863,
+      "loss": 504,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2915,
+      "date": 1776511239,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3022,
+      "date": 1774979980,
+      "game": "https://www.chess.com/game/live/170062245473"
+    },
+    "record": {
+      "win": 693,
+      "loss": 471,
+      "draw": 121
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2420,
+      "date": 1776421108
+    },
+    "lowest": {
+      "rating": 2312,
+      "date": 1776245996
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

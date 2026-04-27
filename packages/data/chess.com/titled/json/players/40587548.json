@@ -1,0 +1,98 @@
+{
+  "player_id": 40587548,
+  "@id": "https://api.chess.com/pub/player/estupendastico",
+  "url": "https://www.chess.com/member/estupendastico",
+  "name": "Adrian Antonio Garcia Garcia",
+  "username": "estupendastico",
+  "title": "CM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1774273686,
+  "joined": 1511265893,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1099,
+      "date": 1733518799,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1099,
+      "date": 1593777603,
+      "game": "https://www.chess.com/game/daily/263238108"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 40023,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2099,
+      "date": 1762029760,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2591,
+      "date": 1767461697,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1747500772,
+      "game": "https://www.chess.com/game/live/132174681567"
+    },
+    "record": {
+      "win": 711,
+      "loss": 483,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2531,
+      "date": 1771352062,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1607224142,
+      "game": "https://www.chess.com/game/live/127606839139"
+    },
+    "record": {
+      "win": 1360,
+      "loss": 924,
+      "draw": 226
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2383,
+      "date": 1511265893
+    },
+    "lowest": {
+      "rating": 2383,
+      "date": 1511265893
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

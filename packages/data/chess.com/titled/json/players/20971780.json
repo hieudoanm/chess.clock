@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20971780.253caa0a.200x200o.d26046575970.png",
+  "player_id": 20971780,
+  "@id": "https://api.chess.com/pub/player/satscho",
+  "url": "https://www.chess.com/member/Satscho",
+  "username": "satscho",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1773639200,
+  "joined": 1423265028,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1397,
+      "date": 1746026197,
+      "rd": 103
+    },
+    "best": {
+      "rating": 1723,
+      "date": 1426851905,
+      "game": "https://www.chess.com/game/daily/105992588"
+    },
+    "record": {
+      "win": 11,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 38351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2401,
+      "date": 1699728815,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1699728815,
+      "game": "https://www.chess.com/game/live/93374346333"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2341,
+      "date": 1699567590,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1601708906,
+      "game": "https://www.chess.com/game/live/70423939815"
+    },
+    "record": {
+      "win": 336,
+      "loss": 270,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2481,
+      "date": 1699775568,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1699634319,
+      "game": "https://www.chess.com/game/live/4726301064"
+    },
+    "record": {
+      "win": 498,
+      "loss": 428,
+      "draw": 61
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2586,
+      "date": 1423265028
+    },
+    "lowest": {
+      "rating": 2586,
+      "date": 1423265028
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2112350.925463ad.200x200o.02c227d00eec.jpg",
+  "player_id": 2112350,
+  "@id": "https://api.chess.com/pub/player/nicecream18",
+  "url": "https://www.chess.com/member/nicecream18",
+  "name": "Kimberly Liu",
+  "username": "nicecream18",
+  "title": "WFM",
+  "followers": 837,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776086666,
+  "joined": 1250891043,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/kimmyliu18",
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/kimmyliu18"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1711,
+      "date": 1776086653,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2074,
+      "date": 1601325830,
+      "game": "https://www.chess.com/game/daily/271051786"
+    },
+    "record": {
+      "win": 428,
+      "loss": 248,
+      "draw": 27,
+      "time_per_move": 89119,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1237,
+      "date": 1580185202,
+      "rd": 193
+    },
+    "best": {
+      "rating": 1237,
+      "date": 1580185202,
+      "game": "https://www.chess.com/game/daily/248347350"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 89119,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2006,
+      "date": 1768178764,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1612031822,
+      "game": "https://www.chess.com/game/live/5850969149"
+    },
+    "record": {
+      "win": 53,
+      "loss": 32,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2148,
+      "date": 1728870669,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1677431806,
+      "game": "https://www.chess.com/game/live/12106364927"
+    },
+    "record": {
+      "win": 374,
+      "loss": 436,
+      "draw": 55
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2059,
+      "date": 1764385704,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1617424103,
+      "game": "https://www.chess.com/game/live/4688872248"
+    },
+    "record": {
+      "win": 940,
+      "loss": 1091,
+      "draw": 127
+    }
+  },
+  "fide": 2090,
+  "tactics": {
+    "highest": {
+      "rating": 2674,
+      "date": 1762661949
+    },
+    "lowest": {
+      "rating": 2397,
+      "date": 1769970005
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

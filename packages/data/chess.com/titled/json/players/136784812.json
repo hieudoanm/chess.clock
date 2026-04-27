@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/136784812.d9ec8cbf.200x200o.03477796e6a7.jpg",
+  "player_id": 136784812,
+  "@id": "https://api.chess.com/pub/player/acva-alenok",
+  "url": "https://www.chess.com/member/Acva-Alenok",
+  "name": "Denis Kozlov",
+  "username": "acva-alenok",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776353135,
+  "joined": 1619115810,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1768141723,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1768141723,
+      "game": "https://www.chess.com/game/daily/909255197"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30170,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2309,
+      "date": 1774340269,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1773502200,
+      "game": "https://www.chess.com/game/live/146546117138"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2566,
+      "date": 1774724394,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1773398288,
+      "game": "https://www.chess.com/game/live/165834282426"
+    },
+    "record": {
+      "win": 179,
+      "loss": 148,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2611,
+      "date": 1774594280,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1771258287,
+      "game": "https://www.chess.com/game/live/118509573799"
+    },
+    "record": {
+      "win": 343,
+      "loss": 332,
+      "draw": 39
+    }
+  },
+  "fide": 2089,
+  "tactics": {
+    "highest": {
+      "rating": 2438,
+      "date": 1766225164
+    },
+    "lowest": {
+      "rating": 2128,
+      "date": 1766075249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

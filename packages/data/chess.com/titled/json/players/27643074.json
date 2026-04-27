@@ -1,0 +1,118 @@
+{
+  "player_id": 27643074,
+  "@id": "https://api.chess.com/pub/player/schwarzschidl",
+  "url": "https://www.chess.com/member/Schwarzschidl",
+  "name": "Szalay Karoly",
+  "username": "schwarzschidl",
+  "title": "NM",
+  "followers": 69,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Toronto",
+  "last_online": 1775697888,
+  "joined": 1460077355,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2432,
+      "date": 1707125310,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1534440391,
+      "game": "https://www.chess.com/game/daily/192388252"
+    },
+    "record": {
+      "win": 54,
+      "loss": 3,
+      "draw": 6,
+      "time_per_move": 61758,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1390,
+      "date": 1492066611,
+      "rd": 348
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 61758,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2289,
+      "date": 1728327478,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1633357596,
+      "game": "https://www.chess.com/game/live/45263995803"
+    },
+    "record": {
+      "win": 332,
+      "loss": 56,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2761,
+      "date": 1773799779,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1772829551,
+      "game": "https://www.chess.com/game/live/44129199129"
+    },
+    "record": {
+      "win": 5242,
+      "loss": 3826,
+      "draw": 484
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2548,
+      "date": 1775697799,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1659671673,
+      "game": "https://www.chess.com/game/live/96742197431"
+    },
+    "record": {
+      "win": 911,
+      "loss": 668,
+      "draw": 95
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2331,
+      "date": 1757049194
+    },
+    "lowest": {
+      "rating": 2289,
+      "date": 1757049381
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1891325.cea8feb7.200x200o.518e7e2cd446.jpg",
+  "player_id": 1891325,
+  "@id": "https://api.chess.com/pub/player/simplydevina",
+  "url": "https://www.chess.com/member/SimplyDevina",
+  "name": "Devina Devagharan",
+  "username": "simplydevina",
+  "title": "WFM",
+  "followers": 1576,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776576267,
+  "joined": 1240753160,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/simplydevina",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/simplydevina"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1774120769,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1406564704,
+      "game": "https://www.chess.com/game/daily/92842748"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 56639,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2414,
+      "date": 1768704494,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1756776752,
+      "game": "https://www.chess.com/game/live/103485245693"
+    },
+    "record": {
+      "win": 186,
+      "loss": 167,
+      "draw": 55
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2669,
+      "date": 1776574236,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2823,
+      "date": 1772817954,
+      "game": "https://www.chess.com/game/live/165604645152"
+    },
+    "record": {
+      "win": 6663,
+      "loss": 6813,
+      "draw": 1408
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1776543004,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1755481920,
+      "game": "https://www.chess.com/game/live/143881217277"
+    },
+    "record": {
+      "win": 2415,
+      "loss": 2407,
+      "draw": 601
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2502,
+      "date": 1771450730
+    },
+    "lowest": {
+      "rating": 2415,
+      "date": 1764887348
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

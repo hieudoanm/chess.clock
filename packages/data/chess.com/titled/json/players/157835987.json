@@ -1,0 +1,84 @@
+{
+  "player_id": 157835987,
+  "@id": "https://api.chess.com/pub/player/gm5050",
+  "url": "https://www.chess.com/member/GM5050",
+  "username": "gm5050",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776539023,
+  "joined": 1634082830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1992,
+      "date": 1764251070,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1726927981,
+      "game": "https://www.chess.com/game/live/120666652287"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1834,
+      "date": 1735776840,
+      "rd": 40
+    },
+    "best": {
+      "rating": 1983,
+      "date": 1637688686,
+      "game": "https://www.chess.com/game/live/31112948415"
+    },
+    "record": {
+      "win": 202,
+      "loss": 157,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2280,
+      "date": 1776538807,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2398,
+      "date": 1641320419,
+      "game": "https://www.chess.com/game/live/167496553798"
+    },
+    "record": {
+      "win": 1381,
+      "loss": 1293,
+      "draw": 115
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2156,
+      "date": 1775091040
+    },
+    "lowest": {
+      "rating": 2000,
+      "date": 1764110683
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

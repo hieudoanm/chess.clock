@@ -1,0 +1,84 @@
+{
+  "player_id": 23019650,
+  "@id": "https://api.chess.com/pub/player/barmen_ev",
+  "url": "https://www.chess.com/member/Barmen_EV",
+  "name": "Timofey Iljin",
+  "username": "barmen_ev",
+  "title": "IM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1774868022,
+  "joined": 1435526683,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 696,
+      "date": 1711309027,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1590771332,
+      "game": "https://www.chess.com/game/live/4929772445"
+    },
+    "record": {
+      "win": 128,
+      "loss": 41,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2472,
+      "date": 1758490260,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1676353429,
+      "game": "https://www.chess.com/game/live/36919198289"
+    },
+    "record": {
+      "win": 172,
+      "loss": 58,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2643,
+      "date": 1762369179,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2688,
+      "date": 1747756642,
+      "game": "https://www.chess.com/game/live/150535098023"
+    },
+    "record": {
+      "win": 1250,
+      "loss": 708,
+      "draw": 164
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2245,
+      "date": 1774866432
+    },
+    "lowest": {
+      "rating": 2245,
+      "date": 1774866432
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

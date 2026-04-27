@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/14307038.4ba31e0e.200x200o.c2ad035cd3e6.jpeg",
+  "player_id": 14307038,
+  "@id": "https://api.chess.com/pub/player/harrycun",
+  "url": "https://www.chess.com/member/HarryCun",
+  "name": "Harry Cun",
+  "username": "harrycun",
+  "title": "CM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/VN",
+  "location": "Hanoi",
+  "last_online": 1775934470,
+  "joined": 1384164026,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1192,
+      "date": 1625660078,
+      "rd": 224
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1384164026,
+      "game": "https://www.chess.com/game/daily/207090316"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 124752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2172,
+      "date": 1764356641,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1624459915,
+      "game": "https://www.chess.com/game/live/43751655731"
+    },
+    "record": {
+      "win": 116,
+      "loss": 61,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2347,
+      "date": 1773077972,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1768946260,
+      "game": "https://www.chess.com/game/live/4468854358"
+    },
+    "record": {
+      "win": 594,
+      "loss": 628,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2265,
+      "date": 1775933871,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1657040023,
+      "game": "https://www.chess.com/game/live/25982457661"
+    },
+    "record": {
+      "win": 551,
+      "loss": 509,
+      "draw": 90
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2263,
+      "date": 1759073193
+    },
+    "lowest": {
+      "rating": 2050,
+      "date": 1765025219
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

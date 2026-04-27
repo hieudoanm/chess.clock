@@ -1,0 +1,87 @@
+{
+  "player_id": 132460098,
+  "@id": "https://api.chess.com/pub/player/janhelmer03",
+  "url": "https://www.chess.com/member/janhelmer03",
+  "name": "Jan Helmer",
+  "username": "janhelmer03",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776374695,
+  "joined": 1617208515,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1483,
+      "date": 1709317151,
+      "rd": 267
+    },
+    "best": {
+      "rating": 1483,
+      "date": 1709317151,
+      "game": "https://www.chess.com/game/daily/624162033"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 35819,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2618,
+      "date": 1776120693,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1754331466,
+      "game": "https://www.chess.com/game/live/148274466802"
+    },
+    "record": {
+      "win": 450,
+      "loss": 299,
+      "draw": 92
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2592,
+      "date": 1751735413,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2592,
+      "date": 1751395942,
+      "game": "https://www.chess.com/game/live/134240340749"
+    },
+    "record": {
+      "win": 117,
+      "loss": 125,
+      "draw": 19
+    }
+  },
+  "fide": 2212,
+  "tactics": {
+    "highest": {
+      "rating": 2272,
+      "date": 1617208515
+    },
+    "lowest": {
+      "rating": 2272,
+      "date": 1617208515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

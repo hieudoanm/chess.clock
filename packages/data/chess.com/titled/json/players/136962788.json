@@ -1,0 +1,83 @@
+{
+  "player_id": 136962788,
+  "@id": "https://api.chess.com/pub/player/play_late_no_sleep",
+  "url": "https://www.chess.com/member/Play_Late_No_Sleep",
+  "username": "play_late_no_sleep",
+  "title": "FM",
+  "followers": 379,
+  "country": "https://api.chess.com/pub/country/NP",
+  "last_online": 1776337598,
+  "joined": 1619201472,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2543,
+      "date": 1642722970,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2599,
+      "date": 1636832645,
+      "game": "https://www.chess.com/game/live/26061056375"
+    },
+    "record": {
+      "win": 48,
+      "loss": 12,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2577,
+      "date": 1642805460,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2920,
+      "date": 1630347530,
+      "game": "https://www.chess.com/game/live/34118413755"
+    },
+    "record": {
+      "win": 2872,
+      "loss": 2444,
+      "draw": 442
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3000,
+      "date": 1642774026,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3000,
+      "date": 1642259469,
+      "game": "https://www.chess.com/game/live/28664952619"
+    },
+    "record": {
+      "win": 762,
+      "loss": 710,
+      "draw": 230
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2669,
+      "date": 1619201472
+    },
+    "lowest": {
+      "rating": 2669,
+      "date": 1619201472
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

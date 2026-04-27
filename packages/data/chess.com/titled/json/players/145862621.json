@@ -1,0 +1,84 @@
+{
+  "player_id": 145862621,
+  "@id": "https://api.chess.com/pub/player/shiki_chess",
+  "url": "https://www.chess.com/member/Shiki_chess",
+  "username": "shiki_chess",
+  "title": "FM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776529930,
+  "joined": 1624640876,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2309,
+      "date": 1774763881,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1749220925,
+      "game": "https://www.chess.com/game/live/139282805346"
+    },
+    "record": {
+      "win": 54,
+      "loss": 20,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2491,
+      "date": 1775986978,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1762875325,
+      "game": "https://www.chess.com/game/live/145062689082"
+    },
+    "record": {
+      "win": 584,
+      "loss": 426,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2549,
+      "date": 1776445761,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2749,
+      "date": 1767121603,
+      "game": "https://www.chess.com/game/live/145885750328"
+    },
+    "record": {
+      "win": 821,
+      "loss": 673,
+      "draw": 81
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2645,
+      "date": 1767969819
+    },
+    "lowest": {
+      "rating": 2560,
+      "date": 1771414696
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

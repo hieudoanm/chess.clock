@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7848766.0195b1a2.200x200o.385cda48f004.jpeg",
+  "player_id": 7848766,
+  "@id": "https://api.chess.com/pub/player/simonb4a",
+  "url": "https://www.chess.com/member/SimonB4a",
+  "name": "Simon Brown",
+  "username": "simonb4a",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Sevenoaks",
+  "last_online": 1776589872,
+  "joined": 1339333738,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1462647335,
+      "rd": 287
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1357747324,
+      "game": "https://www.chess.com/game/daily/62820320"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3882,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2019,
+      "date": 1591050484,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1591050484,
+      "game": "https://www.chess.com/game/live/4939670080"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2094,
+      "date": 1536364168,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2057,
+      "date": 1522353561,
+      "game": "https://www.chess.com/game/live/1086910003"
+    },
+    "record": {
+      "win": 59,
+      "loss": 33,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2030,
+      "date": 1768950820,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1713049396,
+      "game": "https://www.chess.com/game/live/16652159389"
+    },
+    "record": {
+      "win": 1036,
+      "loss": 550,
+      "draw": 132
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2160,
+      "date": 1339333738
+    },
+    "lowest": {
+      "rating": 2160,
+      "date": 1339333738
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

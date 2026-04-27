@@ -1,0 +1,1142 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/123872420641",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.28\"]\n[Round \"-\"]\n[White \"artooon\"]\n[Black \"rpragchess\"]\n[Result \"1-0\"]\n[CurrentPosition \"1k1rr3/pp3ppp/1bb5/3p4/3NPB2/2P5/PP4PP/R5K1 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"C44\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6\"]\n[UTCDate \"2024.10.28\"]\n[UTCTime \"16:36:13\"]\n[WhiteElo \"3047\"]\n[BlackElo \"2997\"]\n[TimeControl \"10\"]\n[Termination \"artooon won on time\"]\n[StartTime \"16:36:13\"]\n[EndDate \"2024.10.28\"]\n[EndTime \"16:36:44\"]\n[Link \"https://www.chess.com/game/live/123872420641\"]\n\n1. Nf3 {[%clk 0:00:10]} 1... e5 {[%clk 0:00:10]} 2. e4 {[%clk 0:00:09.9]} 2... Nc6 {[%clk 0:00:09.9]} 3. Nxe5 {[%clk 0:00:09.8]} 3... Bc5 {[%clk 0:00:09.8]} 4. Qh5 {[%clk 0:00:09.7]} 4... Qf6 {[%clk 0:00:09.4]} 5. Ng4 {[%clk 0:00:08.8]} 5... Qf4 {[%clk 0:00:08.5]} 6. Qf5 {[%clk 0:00:08.3]} 6... Qxf5 {[%clk 0:00:07.6]} 7. exf5 {[%clk 0:00:08.2]} 7... d6 {[%clk 0:00:07.5]} 8. Ne3 {[%clk 0:00:08.1]} 8... Nge7 {[%clk 0:00:07.4]} 9. c3 {[%clk 0:00:08]} 9... Nxf5 {[%clk 0:00:07.1]} 10. d4 {[%clk 0:00:07.5]} 10... Nxe3 {[%clk 0:00:06.5]} 11. fxe3 {[%clk 0:00:07.4]} 11... Bb6 {[%clk 0:00:06.4]} 12. Bb5 {[%clk 0:00:07.3]} 12... Bd7 {[%clk 0:00:06]} 13. Bxc6 {[%clk 0:00:07.2]} 13... Bxc6 {[%clk 0:00:05.2]} 14. O-O {[%clk 0:00:07.1]} 14... Be4 {[%clk 0:00:05.1]} 15. d5 {[%clk 0:00:07]} 15... Bxd5 {[%clk 0:00:04.3]} 16. Rd1 {[%clk 0:00:06.9]} 16... Be6 {[%clk 0:00:04.2]} 17. Rxd6 {[%clk 0:00:06.5]} 17... cxd6 {[%clk 0:00:03.5]} 18. Nd2 {[%clk 0:00:06.3]} 18... O-O-O {[%clk 0:00:03.4]} 19. Nf3 {[%clk 0:00:06.2]} 19... d5 {[%clk 0:00:03.3]} 20. Nd4 {[%clk 0:00:06.1]} 20... Kb8 {[%clk 0:00:02.7]} 21. Nb5 {[%clk 0:00:06]} 21... Bd7 {[%clk 0:00:01]} 22. Nd4 {[%clk 0:00:05.9]} 22... Bc6 {[%clk 0:00:00.9]} 23. e4 {[%clk 0:00:05.8]} 23... Rhe8 {[%clk 0:00:00.8]} 24. Bf4+ {[%clk 0:00:05.7]} 1-0\n",
+    "time_control": "10",
+    "end_time": 1730133404,
+    "rated": false,
+    "accuracies": {
+      "white": 66.36,
+      "black": 78.45
+    },
+    "tcn": "gv0KmC5QvK9IdN7TKETDNLDLCLZREu!0ks0LlBLunuIPfH6ZHQZQegQCBJCJfdJSdRYRbl86lvRJvB65BHSZHBZQuC?8cD",
+    "uuid": "bf322df4-954a-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1k1rr3/pp3ppp/1bb5/3p4/3NPB2/2P5/PP4PP/R5K1 b - -",
+    "time_class": "bullet",
+    "rules": "chess",
+    "white": {
+      "rating": 3047,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 2997,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123872430965",
+    "pgn": "[Event \"Live Chess - Crazyhouse\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.28\"]\n[Round \"-\"]\n[White \"artooon\"]\n[Black \"rpragchess\"]\n[Result \"1-0\"]\n[Variant \"Crazyhouse\"]\n[SetUp \"1\"]\n[FEN \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR/ w KQkq - 0 1\"]\n[CurrentPosition \"r6k/pp3NpP/4nnP1/3p1rp1/3P4/2NP1P1p/PP2BPpR/R2QK1B1 b Q -\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3-Bf5\"]\n[UTCDate \"2024.10.28\"]\n[UTCTime \"16:36:59\"]\n[WhiteElo \"2859\"]\n[BlackElo \"1994\"]\n[TimeControl \"60\"]\n[Termination \"artooon won by checkmate\"]\n[StartTime \"16:36:59\"]\n[EndDate \"2024.10.28\"]\n[EndTime \"16:39:14\"]\n[Link \"https://www.chess.com/game/live/123872430965\"]\n\n1. Nf3 {[%clk 0:01:00]} 1... Nf6 {[%clk 0:01:00]} 2. d4 {[%clk 0:00:59.9]} 2... d5 {[%clk 0:00:58.8]} 3. Nc3 {[%clk 0:00:59.8]} 3... Bf5 {[%clk 0:00:57.4]} 4. Bf4 {[%clk 0:00:59.1]} 4... e6 {[%clk 0:00:56.6]} 5. e3 {[%clk 0:00:58]} 5... Bd6 {[%clk 0:00:55.8]} 6. Ne5 {[%clk 0:00:56.4]} 6... O-O {[%clk 0:00:54.2]} 7. h4 {[%clk 0:00:54.2]} 7... Nbd7 {[%clk 0:00:53.1]} 8. h5 {[%clk 0:00:53.1]} 8... h6 {[%clk 0:00:52.1]} 9. Bd3 {[%clk 0:00:52.5]} 9... Bxd3 {[%clk 0:00:51.1]} 10. cxd3 {[%clk 0:00:52.4]} 10... c6 {[%clk 0:00:49.1]} 11. Nxf7 {[%clk 0:00:51.2]} 11... Rxf7 {[%clk 0:00:47.2]} 12. Bxd6 {[%clk 0:00:50.7]} 12... B@g4 {[%clk 0:00:42.1]} 13. @f3 {[%clk 0:00:48.1]} 13... Bxh5 {[%clk 0:00:39.7]} 14. B@g3 {[%clk 0:00:47]} 14... @g4 {[%clk 0:00:38.6]} 15. B@e2 {[%clk 0:00:44.9]} 15... gxf3 {[%clk 0:00:36.8]} 16. gxf3 {[%clk 0:00:44.8]} 16... @g2 {[%clk 0:00:36.1]} 17. Rg1 {[%clk 0:00:43.5]} 17... N@f5 {[%clk 0:00:33.3]} 18. @g4 {[%clk 0:00:41.6]} 18... Nxd6 {[%clk 0:00:31.5]} 19. Bxd6 {[%clk 0:00:40.4]} 19... Bg6 {[%clk 0:00:30.9]} 20. N@h4 {[%clk 0:00:39.6]} 20... Bh7 {[%clk 0:00:29.8]} 21. Rxg2 {[%clk 0:00:37.4]} 21... Nb6 {[%clk 0:00:29.7]} 22. Be5 {[%clk 0:00:35.8]} 22... Nfd7 {[%clk 0:00:28.9]} 23. Bg3 {[%clk 0:00:33.4]} 23... c5 {[%clk 0:00:28.1]} 24. @g6 {[%clk 0:00:32.6]} 24... Bxg6 {[%clk 0:00:26.7]} 25. Nxg6 {[%clk 0:00:32.4]} 25... cxd4 {[%clk 0:00:26.6]} 26. exd4 {[%clk 0:00:32.3]} 26... B@h7 {[%clk 0:00:25.1]} 27. B@h5 {[%clk 0:00:30.8]} 27... Nf6 {[%clk 0:00:22.3]} 28. Ne5 {[%clk 0:00:30]} 28... Nxh5 {[%clk 0:00:21.6]} 29. gxh5 {[%clk 0:00:29.2]} 29... Rf5 {[%clk 0:00:20.1]} 30. @g6 {[%clk 0:00:28.6]} 30... @h3 {[%clk 0:00:18.7]} 31. Rh2 {[%clk 0:00:26.8]} 31... @g2 {[%clk 0:00:16.5]} 32. gxh7+ {[%clk 0:00:25.7]} 32... Kh8 {[%clk 0:00:15.2]} 33. B@g1 {[%clk 0:00:25.6]} 33... Qf6 {[%clk 0:00:12.8]} 34. Bh4 {[%clk 0:00:24]} 34... B@g5 {[%clk 0:00:10.4]} 35. Bxg5 {[%clk 0:00:23.4]} 35... hxg5 {[%clk 0:00:10.3]} 36. B@g8 {[%clk 0:00:21.2]} 36... B@e8 {[%clk 0:00:08.3]} 37. N@g6+ {[%clk 0:00:20.2]} 37... Bxg6 {[%clk 0:00:07.1]} 38. Nxg6+ {[%clk 0:00:19.7]} 38... Qxg6 {[%clk 0:00:07]} 39. hxg6 {[%clk 0:00:19.6]} 39... N@f4 {[%clk 0:00:05.8]} 40. Bf7 {[%clk 0:00:18.5]} 40... N@f6 {[%clk 0:00:03.8]} 41. B@e5 {[%clk 0:00:16.8]} 41... Nbd7 {[%clk 0:00:03.2]} 42. Bxf6 {[%clk 0:00:14]} 42... Nxf6 {[%clk 0:00:03.1]} 43. Bxe6 {[%clk 0:00:12.5]} 43... Nxe6 {[%clk 0:00:02.2]} 44. N@f7# {[%clk 0:00:12.3]} 1-0\n",
+    "time_control": "60",
+    "end_time": 1730133554,
+    "rated": false,
+    "tcn": "gv!TlBZJbs6LcD0Smu9RvK8!pF5ZFN3VftLtktYQK191DR+E=vEN+w=E+mEvov=ohg-L=ELRwRNU-FU3goZPRKTZKwQI=U3UFUIBuB+3+NZTUKTNEN1L=U=xop=oU3!?+g7TwF+MFMVM+!+8-U8UKUTUNU-D!1-T+KPZKTZT1SDS-1",
+    "uuid": "da91ee79-954a-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6k/pp3NpP/4nnP1/3p1rp1/3P4/2NP1P1p/PP2BPpR/R2QK1B1 b Q -",
+    "time_class": "bullet",
+    "rules": "crazyhouse",
+    "white": {
+      "rating": 2859,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1994,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3-Bf5"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123874863911",
+    "time_control": "180",
+    "end_time": 1730135969,
+    "rated": true,
+    "tcn": "",
+    "uuid": "c8a8e9f7-9550-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1849,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/strannik2025",
+      "username": "Strannik2025",
+      "uuid": "3b054ff0-6ef1-11eb-a613-9f3c6486d64b"
+    },
+    "black": {
+      "rating": 1832,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123874872723",
+    "time_control": "180",
+    "end_time": 1730136165,
+    "rated": true,
+    "tcn": "mC0SlB5Qbs!TCKTJsJSJgv-C=t+G=lZRtCJC-MCvMvRKBK=CfHCvdv6ZegQBHZ7ZvC86ksZLCFBmgh9I=Q",
+    "uuid": "dfa30642-9550-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2kr3r/ppp2ppp/2P5/b1b1Pq2/7Q/2P5/PP1PnPPP/R1B2R1K b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1832,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2186,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123874909187",
+    "time_control": "180",
+    "end_time": 1730136424,
+    "rated": true,
+    "tcn": "mu0Kbs!TgvKCvKZJlB6S+F90fm5ZKZ7ZsJTJF0Z0cl0Mhg8!kAJPBJSZlsPy&K=DKMysjs+TMDTs=lsa-N-UDM=tda-kedka-V!?=TZydc2V+2?!-L-rirarcj-dmd",
+    "uuid": "421fbb0e-9551-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4rk1/ppp2pBp/5Pnp/3P1NQN/b1P1p3/1n1pP3/1K1P1PPP/3B2R1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2186,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1832,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123875432295",
+    "time_control": "180",
+    "end_time": 1730136619,
+    "rated": true,
+    "tcn": "gv0Sow5QfoZJpx3NegNFvF?FwF7FltSK=EF3bs=pgh6EsJExox3x=oxZmC=xdNxoho=xopQB-F86+EBSEx!TJT2T=392FL2?fg*U-0650U1UgU*9cu-DNVDUVUZ1",
+    "uuid": "dae05874-9551-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1k1r1r1b/ppp2q1P/4npQ1/4pN2/4P3/3PB2B/PPP2P1K/R7 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1832,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2186,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123875475845",
+    "time_control": "180",
+    "end_time": 1730136809,
+    "rated": true,
+    "tcn": "mu0Sbs!Tgv9zpFzslsZRFNSKNV?!V2!2-w6Efm5ZvFEmdm+EnvESFL2wLw70=LSJuCJQ+r+Ihf-p+upfwf86cl65iyIuluZIuIRI=J-Dmn-tktDtemtnmnIA&zTCvC0FowFCzXQX",
+    "uuid": "500ef8e2-9552-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1k1r4/pbp2p1p/8/3PpP2/P1p1q3/1BP3P1/1P3K2/R4N2 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2186,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1832,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123875986263",
+    "time_control": "180",
+    "end_time": 1730137006,
+    "rated": true,
+    "tcn": "lB0Sbs5Qgv9zclzsls!TvKZRKQXQmuTCftCsjs-Fhg7T=wFLdv6Zab8!wE45*r58ELSLrX=CtC8CXYZS=tCEYQ&G+zGielSJQRJvRT",
+    "uuid": "c35e044f-9552-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5rk1/p4ppp/5R2/5p2/1B1P2r1/2PPPb2/q1PK1PPP/1R4R1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1832,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2186,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876029737",
+    "time_control": "180",
+    "end_time": 1730137296,
+    "rated": true,
+    "tcn": "mu!TbsZJgv6Efm0SvKEmdm9RlB5Z+w=zsHTCHRYRKZ7Z=tCwpw46mE1LEm87cl6kmdkjdcjlclZQegQslszsfc+jcsjsac=l=Y76-06Zcd*e-fed=QXQ-5Z05Q0ZQ5ZY-OYPgpdf5ZPOZ5?5wE&hpw-Nwv-m",
+    "uuid": "37dc18d8-9553-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1r6/p5pp/k2pp3/3p1p1n/3P2P1/2bPPK2/P2pnPP1/5r1q w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2170,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1848,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876094387",
+    "time_control": "180",
+    "end_time": 1730137382,
+    "rated": true,
+    "tcn": "mC0Sbs5Q=JSJCJQB=uBL&K=SJSZSsH9RKs-JsrWOHRLR=A&z=Z6Z-T!T",
+    "uuid": "e5231366-9553-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2qk2r/1ppb1ppp/p2npn2/3n4/1qP5/1Q2P3/PPPP1PPP/R1BQKBNR w KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1848,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2170,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876578567",
+    "time_control": "180",
+    "end_time": 1730137535,
+    "rated": true,
+    "tcn": "mu!TbsZRgv6EpxEvdvYQ=L-FvDFofo76lB0SLS6S=LS6cl5OiqRJ=K90KT0TuC8!CK+MKTMD-0!?T2?2LT2TsJQJ0JTS&0",
+    "uuid": "1631f934-9554-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1q2r2/pp2Qp1p/n3k3/3N4/3P1b2/P6P/1PPB1PB1/R3K2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2170,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1848,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876612375",
+    "time_control": "180",
+    "end_time": 1730137718,
+    "rated": true,
+    "tcn": "mC0Sbs5QlB9zBJSJCJQKdB70cuzsjsZRfH6ZHZ0Z=D=IBdKEdmEumuZ0-S1SJS!Tgv86ab=PegRJ&4",
+    "uuid": "712a3e55-9554-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "Q1kr3r/ppp1q1pp/1p2Pn2/2pp4/5P2/2P1QN2/P1P2PPP/1R3RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1848,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2170,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876652799",
+    "time_control": "180",
+    "end_time": 1730137820,
+    "rated": true,
+    "tcn": "mu0Sbs!Tgv5QlB9zclzslsTCsl=EvKQKBK7FdmFnmnCnlz=len-Cnm&nmtYI",
+    "uuid": "de66b869-9554-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1k2r/pp1p1ppp/4p3/2p1P3/1B2n1p1/3KP3/PPPp1qPP/R4B1R w kq c6",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2170,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1848,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123876675411",
+    "time_control": "180",
+    "end_time": 1730137974,
+    "rated": true,
+    "tcn": "bs0SmC5Qgv!TfH9zegZJCJSJfe89=V?!lBzsV2!2*?T!cV*U&878?!9!e8&989!9V292js2?vFU!HQ",
+    "uuid": "1b6a6127-9555-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b3rk/ppp2p1p/2B5/3p4/3P3N/2P5/P1P2PPP/R2Q2K1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1864,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2154,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123877177765",
+    "time_control": "180",
+    "end_time": 1730138172,
+    "rated": true,
+    "tcn": "mu!TbsZJgv5QfH6ZHQZQ=S-RvK1S=1R1K1+N17Nd7Q=1QKdk=OTZOX45KZ5XZKYI+Q87QX=m-Q7Y-OYXOIXPIZPY+7Y6=X6XZIX6&X",
+    "uuid": "799e2236-9555-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2kB1b1r/pQ2pppp/2N1p3/2NpN3/8/2N1P3/PPbPpPPP/R1B1K2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2155,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1863,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123877220719",
+    "time_control": "180",
+    "end_time": 1730138373,
+    "rated": true,
+    "tcn": "gv0Sow5Qfo3NltNFvF?FwF7F=wF3bs=xoQZQcDSKDK*0=D1TsCTK-RYRCR8Z+L3LRL08&1*0L08019KD+L=SLS0S91!0+8Z7dl=ulG=P+Y7Y1D-RGM&lef&o",
+    "uuid": "ed372e56-9555-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1B3/ppk1n1p1/1ppnr3/6Q1/5Q2/3Pp1Pp/PPPqPPqP/R4K1R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1862,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2156,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123877265505",
+    "time_control": "180",
+    "end_time": 1730138567,
+    "rated": true,
+    "tcn": "mu!Tbs0Sgv9zfHzslsTCdm-Ehf5QHtCnfnZJ=VEnmn-Enw+nwnEnV2?!+Fntkt!2F787-N2oNDokedkndenvemvDuDSKDK6EmnQKcM7Z-TZS*0SL0KLKTEKRMDRQEKQPKZPQZKQPDu=IuIPI&z",
+    "uuid": "671489a1-9556-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r7/ppp2p1p/8/2kpN3/1Q6/2PP4/PP3K1P/R7 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2157,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1861,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123877776899",
+    "time_control": "180",
+    "end_time": 1730138765,
+    "rated": true,
+    "tcn": "lB0SmC5Qgv!TcM90MT0TCKT0bsZRfHRKvK8!HQXQ=V2Veg=2KQ78QK6XBJ0Rfe80dE0MEMVMadXJsJSJdJ48=Z8KJKRKksKpghpR*x-E-0R0*L*m",
+    "uuid": "dcd13a2f-9556-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5rk1/p1pPbppp/8/5Rp1/6n1/2P4R/PP2rPP1/4R2K w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1860,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2158,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/123877819973",
+    "time_control": "180",
+    "end_time": 1730139015,
+    "rated": true,
+    "tcn": "mu!Tbs0Sgv9zftzsls=C=KCvKTvohg7TtCZJCo5QuCQKCJ=voxSJcMTO=Z6ZxZKZ-D8!dv98+uZKvN&vgwvhelKAlmAuDtukmlkaMV2UNvhvwvOivDibtzar",
+    "uuid": "52c6ac7d-9557-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3r1k1/ppp2p1p/6pB/3p4/1N3R2/1nP5/1P1K1P1P/1q6 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2143,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/artooon",
+      "username": "artooon",
+      "uuid": "b24ec2c4-1400-11e9-801a-000000000000"
+    },
+    "black": {
+      "rating": 1875,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124047059947",
+    "time_control": "180",
+    "end_time": 1730308435,
+    "rated": true,
+    "tcn": "lB0Sgv5QcD!TblTEDw-unuEudc+U+tQz-qUtmt=EvK+U=nuflfztkt9qjqZR+yYQKQXQyQ6ZQ474-Y80wR07=076Y4&Q+O=XabQcbcZQcQ6ZOXSK=CKBRI?4QYZSXJST0~48IBTMpFExhx",
+    "uuid": "b2d7cdc0-96e1-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "4r3/p1R2ppp/6b1/3B2k1/3BP3/P2P3R/P4PP1/4KN2 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1867,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2009,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124047591001",
+    "time_control": "180",
+    "end_time": 1730308642,
+    "rated": true,
+    "tcn": "bs!TgvZJ+MJBMT0TsH5Q-J+R&C6SvBQBHB-IBS1S+N8ZCvSJ+x=SvJ+Q*190kAQJAJ-MJSISxSMSdyZ6NE+ZESZS1070-H-tmtSryC0CtC-kemkaHRYRirarmd6ZfHZ0",
+    "uuid": "5c475a22-96e2-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6r/pp2k1pp/3p1p2/1B6/4P3/1n6/1P1P1PPP/2BK3R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2017,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1859,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124047635655",
+    "time_control": "180",
+    "end_time": 1730308906,
+    "rated": true,
+    "tcn": "lB0ScD-JDw=D=CDwpwJunu=nen!T=v-EvETCnv+J+r7T-D5QrJSJ+LCMvnQ0=v0LELTL+tLT*K=Sbs9RsJT7KM7M=KSJKRYRhNM7DJXPgx6XxD2U*070J0UN0L&TDNTMLR89*LML=29!2}!?tL=pR1?!1V!9BJp^ng*MdBMNBT98JR",
+    "uuid": "d5b09765-96e2-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3k3/pb1p3p/1p1P1Q1N/5B1r/8/4PPP1/PPP1P1P1/R4BKn b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1868,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2008,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124047694219",
+    "time_control": "180",
+    "end_time": 1730309065,
+    "rated": true,
+    "tcn": "muXPbs6Xgv!VfA0SlB9zclVE-xzsls-C=tCsjs+j+ljadaXvovEThg-Fad?!=V=oV2!2uC5QlM2MxM70vD0qel3VM181DL-vlu=DuD+MDwTNwENTEw=Dwx",
+    "uuid": "752758e4-96e3-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r7/p1pp1k2/1pn1pn1p/5Pb1/2BPPp1n/q1PP1n1K/P1P2PpP/3Q2R1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2000,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1876,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048196669",
+    "time_control": "180",
+    "end_time": 1730309231,
+    "rated": true,
+    "tcn": "jr0Scj5Qmu!Tgx3ViqZJbsWOlB+E=vExox-F=KTZ+w&N-E=ofoFoel=DhgDwpwZKgoKExENxdgxogoSKae=zqz9z=qzsjs6E",
+    "uuid": "d0a59607-96e3-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2qk2r/1pp2pp1/p1n4p/3pp3/3P2b1/PPB1PPP1/2PK1PQ1/4R3 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1868,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2008,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048233549",
+    "time_control": "180",
+    "end_time": 1730309464,
+    "rated": true,
+    "tcn": "muXPbs6Xgv0SlB9zclWOft!TdmzslsTCtCXC-MCUM1U1vK-Vmv5QKQZQvQ=ZQv8!=D1U=t70pFULvwLEnvENwM01BJ=UJSZSoE=ohg-x-010",
+    "uuid": "353af1da-96e4-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4rk1/2p1q1pp/pp2p1pn/6Qb/5PPP/2BPPP1n/PPP3p1/R3K1R1 w Q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2000,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1876,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048284317",
+    "time_control": "180",
+    "end_time": 1730309713,
+    "rated": true,
+    "tcn": "jr0Scj5Qiq!TmuTCgxZJbs7TabCsjs+K=BKR+MTUft-C-G1TtH=Z=OXOHQZQGQCM&781-KTKxMUM7M&TMN=UNm-C=vCnmnKBsB=KBj6ZQGYI+X*HX4HG=XGH+y90yHOHeg?5+aKCjTRpgp0RTK1!vC3VnT!3T2",
+    "uuid": "bf776eea-96e4-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "Br6/pP1b2Qk/3bp1pp/1pppB3/4P3/PP2P3/2PP2PK/BR1Q1R2 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1884,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1992,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048807981",
+    "time_control": "180",
+    "end_time": 1730309920,
+    "rated": true,
+    "tcn": "muXPbs6XlB0Siq!TgvTEft+N-x5Q+F90=MWOxD=UDNUN=x-UxENEtU3UFwEvBJvohg-xgoxMJQXQuCMCsCQCnvCQcDZRDRYR=CQHdB=Tec-momHmdemvBsvEsQ89-Z9!Q474ZP4QPJSJCJQJ",
+    "uuid": "55cadcdd-96e5-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6kr/4bpp1/p2p1pp1/3q4/6b1/P5B1/1PP4P/2K1R3 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1984,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1892,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048852631",
+    "time_control": "180",
+    "end_time": 1730310080,
+    "rated": true,
+    "tcn": "jr0Scj5Qiq!TmuZJgxWObs9R+F-LFT7TsJTj-AjaJYRYda+TlBLBuBQBad8!ft=L=RY5=098=m&Q*w-F-V!?V1?!1V!?-1",
+    "uuid": "cf35a01e-96e5-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rbb1r2k/1p2PNpp/p1qPpb1N/5p2/2Nn3n/PP1B2RN/2P1PPPP/3QK2R b K -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1899,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1977,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124048887501",
+    "time_control": "180",
+    "end_time": 1730310187,
+    "rated": true,
+    "tcn": "muXPbs6XlB0SgvWOiq!Tft+U-K5QtU3UK181vM10-D+8+t=1=K-FKT2TsJSJDJ0RMCRJtAJAdtAJkAJSBJS0JR0StJ",
+    "uuid": "2f6f43c8-96e6-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2qbb1r/1bpp1p2/ppnPkpp1/3Q4/2P1N2n/P3P3/1P3PPP/R1B1K2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1986,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1890,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124049379831",
+    "time_control": "180",
+    "end_time": 1730310362,
+    "rated": true,
+    "tcn": "lB0Sbs5QmC9zCKZRKRzsjsYR=Y7Y-HY7=Y7Zcq=0dE!TE2?!HRZR2!T!qR0R+u-LftLunu!T&?80+70Z-9Z893",
+    "uuid": "6e634ae0-96e6-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bBk2Q/ppP2p1N/2nppn2/8/3P4/2PBP3/P1P3PP/R3K1NR b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1897,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1979,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124049417597",
+    "time_control": "180",
+    "end_time": 1730310507,
+    "rated": true,
+    "tcn": "gv5QbsZRlB3VBJQKmC6E=m-UvKUK-u!Tiy0SyG90JS1SpxEN-DN1+B8!BKRKDt1UclTCsCUCuE=wnwCtkt0F-C=LEV2V&U+2lV&3U232V2",
+    "uuid": "d6c84bce-96e6-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1rk1/ppp3B1/4p3/P3pp2/4N2b/3P2PP/1P2P1P1/R2QKB1R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1988,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1888,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124049448579",
+    "time_control": "180",
+    "end_time": 1730310605,
+    "rated": true,
+    "tcn": "jr0Scj5Qiq!Vmu=CbsZJgx-EfmQK=D-FhgJBsCBtDKtmdm+U+M90M070+MUCM080nvCvovEp&M0Z-IZQ-BQImH",
+    "uuid": "2cbb78cd-96e7-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b4r/ppp2ppp/4p2n/1Qk1P1Q1/3N3n/PP2PP1N/1BPP3n/R3K1R1 b Q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1896,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1980,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124049471679",
+    "time_control": "180",
+    "end_time": 1730310807,
+    "rated": true,
+    "tcn": "muXPbs6Xgv0SiqWOlB!V=NVE+w-L=U3UNU1Uft=1-M+!tLULBJ90JSZSd707=U1U*B=ZBELEvK7MKU?V+tXohg-vedvgcl+0U0M0sCovdc*d",
+    "uuid": "6ce7b221-96e7-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn2k1b1/2ppb1p1/pp2p2r/8/4N1p1/P2BPbB1/1PPB1P1P/R1Kr2n1 w q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1973,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1903,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124049983837",
+    "time_control": "180",
+    "end_time": 1730311060,
+    "rated": true,
+    "tcn": "lB0Sgv5QcM!TMT7T=KT7bs9ziqzsjsZRKR-CRY7YdtCnen+UmC-Enm+O=H-Dml=utuEu+IufhfOHfnUC-RYRIR+uleDoed=mnmHmdm&nmdCv*mnm",
+    "uuid": "df17b7ee-96e7-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1k2r/pp3ppp/2nBp3/8/3P4/P1P1bb2/2P1q1nP/R2K4 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1894,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1982,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050039259",
+    "time_control": "180",
+    "end_time": 1730311216,
+    "rated": true,
+    "tcn": "muXPbs6XlB0Siq!Tgx+N=v-F+m9R-DRDxD5QBJQKdBKvovFvmvNvhg-LJSLBS189-U3UDU91UK1S&1SRKARQ+y=H-zQIgM=LztIQtK",
+    "uuid": "776a5147-96e8-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q3r/pbpp1Qp1/1pk2n2/1p2NpR1/B1Nn4/P1N1Pb2/1PP2P1P/R1B1KB2 b Q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1975,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1901,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050072193",
+    "time_control": "180",
+    "end_time": 1730311408,
+    "rated": true,
+    "tcn": "jr0Scj5Qmu!VgxZJiqWObs=K=MVL+E=UuCJCsC-B-T2TCT7TMT+CltCJ=C=uELunxnSLCJ9VJQ=ldlVlel*DnxBkxDka=Z6ZQZ8Z-IZQ-zQItBKB*JIPjBYIBIPY=P",
+    "uuid": "d3971ebe-96e8-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6r/1pk2p1p/pP3Pp1/2BR1p2/1N3N2/PP6/3K2PP/n4B1R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1908,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 1968,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050587157",
+    "time_control": "180",
+    "end_time": 1730311430,
+    "rated": true,
+    "tcn": "mu",
+    "uuid": "4ee7dfed-96e9-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1968,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/indianlad",
+      "username": "Indianlad",
+      "uuid": "9209f576-330a-11e1-8033-000000000000"
+    },
+    "black": {
+      "rating": 1908,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050610397",
+    "time_control": "180",
+    "end_time": 1730311680,
+    "rated": true,
+    "tcn": "mC!TCKZJKT0TlB9Rgv8!=V98fm-NV2-DcDND+uDoel=D-V!2hgDunu+xgoxo-L6LVL2!dg+x-V",
+    "uuid": "8fa3fcf7-96e9-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1qr1k1/ppp2p1p/3b1p1N/3p1N2/3P4/4PN1b/PPPKB1bP/RN4Q1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2022,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vaathi_coming",
+      "username": "Vaathi_Coming",
+      "uuid": "1727537e-100e-11e9-8032-000000000000"
+    },
+    "black": {
+      "rating": 1904,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050641657",
+    "time_control": "180",
+    "end_time": 1730311844,
+    "rated": true,
+    "tcn": "jr0Scj!Tiq5Qmu9qbqZRqH-Cgx+E=vExvCTCox-F*D-ofoFoefoDuD+ofo-Fog+v+ovodEov-TCTE2vh2?",
+    "uuid": "e861bb8d-96e9-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bqk2Q/ppp2p1p/2nppn2/1N6/5P1n/1P5P/1BPP1P1P/R5Kb b q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1900,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2026,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vaathi_coming",
+      "username": "Vaathi_Coming",
+      "uuid": "1727537e-100e-11e9-8032-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124050676151",
+    "time_control": "180",
+    "end_time": 1730311987,
+    "rated": true,
+    "tcn": "mC5Qgv0Sbs!T+F90lB-UFT0T-NZRBJSJsJQKNT2T=070J0U0vK=2-N?!fH=QHQXQ*9!9N287-X6X&Z",
+    "uuid": "4a3a8f34-96ea-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2k1r2/pbpQnpNp/2pp1p2/4N3/4P3/8/PPP2PPP/R1BQK2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2030,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vaathi_coming",
+      "username": "Vaathi_Coming",
+      "uuid": "1727537e-100e-11e9-8032-000000000000"
+    },
+    "black": {
+      "rating": 1896,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124051179917",
+    "time_control": "180",
+    "end_time": 1730312054,
+    "rated": true,
+    "tcn": "jr+BmuBafA0Scq",
+    "uuid": "9f928d24-96ea-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/2B5/BP2P3/P1PP1PPP/bN1QK1NR b Kkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1892,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2034,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vaathi_coming",
+      "username": "Vaathi_Coming",
+      "uuid": "1727537e-100e-11e9-8032-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  },
+  {
+    "url": "https://www.chess.com/game/live/124051193869",
+    "time_control": "180",
+    "end_time": 1730312231,
+    "rated": true,
+    "tcn": "gvZRlB2UvM3VM181mC18BJ=1fH6Z=SZHS181bsHZ-S76=L+3-767S7187S5Ocu=1S989+B=K-S1SLSZ8-Z",
+    "uuid": "c6e11cee-96ea-11ef-abeb-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3bknr/pppNp2b/n2pP1pp/3Pp3/3BP3/2N1B3/PPP2PPP/R2QK2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2038,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vaathi_coming",
+      "username": "Vaathi_Coming",
+      "uuid": "1727537e-100e-11e9-8032-000000000000"
+    },
+    "black": {
+      "rating": 1888,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/rpragchess",
+      "username": "rpragchess",
+      "uuid": "36ecefaa-35c0-11e6-8024-000000000000"
+    },
+    "eco": "https://www.chess.com/openings/Undefined"
+  }
+]

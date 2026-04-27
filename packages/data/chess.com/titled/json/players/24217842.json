@@ -1,0 +1,85 @@
+{
+  "player_id": 24217842,
+  "@id": "https://api.chess.com/pub/player/dragon2300",
+  "url": "https://www.chess.com/member/dragon2300",
+  "username": "dragon2300",
+  "title": "CM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/CU",
+  "last_online": 1767216304,
+  "joined": 1442850097,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 620,
+      "date": 1756216494,
+      "rd": 269
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1442850097,
+      "game": "https://www.chess.com/game/daily/496425763"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 6816,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1756216494,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1832,
+      "date": 1534667868,
+      "game": "https://www.chess.com/game/live/3016216551"
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2312,
+      "date": 1762007756,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1656771698,
+      "game": "https://www.chess.com/game/live/144025208906"
+    },
+    "record": {
+      "win": 540,
+      "loss": 397,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1956,
+      "date": 1442850097
+    },
+    "lowest": {
+      "rating": 1956,
+      "date": 1442850097
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

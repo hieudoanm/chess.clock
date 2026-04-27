@@ -1,0 +1,103 @@
+{
+  "player_id": 192517887,
+  "@id": "https://api.chess.com/pub/player/derossi2800",
+  "url": "https://www.chess.com/member/DeRossi2800",
+  "username": "derossi2800",
+  "title": "NM",
+  "followers": 76,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776592745,
+  "joined": 1659832131,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1730,
+      "date": 1771416127,
+      "rd": 174
+    },
+    "best": {
+      "rating": 1873,
+      "date": 1729639467,
+      "game": "https://www.chess.com/game/daily/561026791"
+    },
+    "record": {
+      "win": 21,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 6538,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2280,
+      "date": 1774194542,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2284,
+      "date": 1693529205,
+      "game": "https://www.chess.com/game/live/145123971864"
+    },
+    "record": {
+      "win": 11,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1955,
+      "date": 1771167892,
+      "rd": 257
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1771167458,
+      "game": "https://www.chess.com/game/live/164728118360"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2410,
+      "date": 1776518599,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1775842658,
+      "game": "https://www.chess.com/game/live/166743479098"
+    },
+    "record": {
+      "win": 10053,
+      "loss": 9320,
+      "draw": 1813
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2052,
+      "date": 1776197571
+    },
+    "lowest": {
+      "rating": 1833,
+      "date": 1763474746
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

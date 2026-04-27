@@ -1,0 +1,105 @@
+{
+  "player_id": 11735618,
+  "@id": "https://api.chess.com/pub/player/picev",
+  "url": "https://www.chess.com/member/Picev",
+  "name": "Tom Piceu",
+  "username": "picev",
+  "title": "IM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/BE",
+  "location": "Brugge",
+  "last_online": 1776590177,
+  "joined": 1367514801,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1458,
+      "date": 1776583899,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1458,
+      "date": 1776583899,
+      "game": "https://www.chess.com/game/daily/326683006"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 46493,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1773600602,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2174,
+      "date": 1757085957,
+      "game": "https://www.chess.com/game/live/142761743632"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2399,
+      "date": 1776168561,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1765896485,
+      "game": "https://www.chess.com/game/live/146791815638"
+    },
+    "record": {
+      "win": 175,
+      "loss": 122,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2389,
+      "date": 1776170297,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2389,
+      "date": 1776170297,
+      "game": "https://www.chess.com/game/live/167297957940"
+    },
+    "record": {
+      "win": 60,
+      "loss": 39,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2028,
+      "date": 1758955805
+    },
+    "lowest": {
+      "rating": 2028,
+      "date": 1758955805
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

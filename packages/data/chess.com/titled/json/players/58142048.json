@@ -1,0 +1,68 @@
+{
+  "player_id": 58142048,
+  "@id": "https://api.chess.com/pub/player/blunderbussted",
+  "url": "https://www.chess.com/member/Blunderbussted",
+  "name": "Adam Szeberenyi",
+  "username": "blunderbussted",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776271320,
+  "joined": 1551825368,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1748202911,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1748202911,
+      "game": "https://www.chess.com/game/live/138857795042"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2448,
+      "date": 1772319115,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1766009684,
+      "game": "https://www.chess.com/game/live/165306794872"
+    },
+    "record": {
+      "win": 771,
+      "loss": 566,
+      "draw": 132
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2637,
+      "date": 1761159391
+    },
+    "lowest": {
+      "rating": 2622,
+      "date": 1761159254
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

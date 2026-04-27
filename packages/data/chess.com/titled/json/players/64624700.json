@@ -1,0 +1,101 @@
+{
+  "player_id": 64624700,
+  "@id": "https://api.chess.com/pub/player/little_x",
+  "url": "https://www.chess.com/member/little_x",
+  "username": "little_x",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/LV",
+  "last_online": 1774368077,
+  "joined": 1566584103,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1897,
+      "date": 1774352335,
+      "rd": 255
+    },
+    "best": {
+      "rating": 1897,
+      "date": 1617625804,
+      "game": "https://www.chess.com/game/daily/320218412"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 57652,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1767386353
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1614806068,
+      "game": "https://www.chess.com/game/live/6331111080"
+    },
+    "record": {
+      "win": 571,
+      "loss": 561,
+      "draw": 102
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2401,
+      "date": 1734262477,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1734262477,
+      "game": "https://www.chess.com/game/live/128001530227"
+    },
+    "record": {
+      "win": 73,
+      "loss": 27,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2259,
+      "date": 1734262794,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1734037286,
+      "game": "https://www.chess.com/game/live/127825138317"
+    },
+    "record": {
+      "win": 193,
+      "loss": 187,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2318,
+      "date": 1774293543
+    },
+    "lowest": {
+      "rating": 2266,
+      "date": 1774293548
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

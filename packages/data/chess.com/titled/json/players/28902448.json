@@ -1,0 +1,85 @@
+{
+  "player_id": 28902448,
+  "@id": "https://api.chess.com/pub/player/rubhani",
+  "url": "https://www.chess.com/member/rubhani",
+  "name": "Eyal Grinberg",
+  "username": "rubhani",
+  "title": "IM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "nice place",
+  "last_online": 1698766680,
+  "joined": 1467547856,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2368,
+      "date": 1668385253,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1668366245,
+      "game": "https://www.chess.com/game/live/37226400351"
+    },
+    "record": {
+      "win": 21,
+      "loss": 6,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2658,
+      "date": 1665619400,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1642491543,
+      "game": "https://www.chess.com/game/live/36217710151"
+    },
+    "record": {
+      "win": 2603,
+      "loss": 2333,
+      "draw": 268
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1695569322,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2653,
+      "date": 1545590528,
+      "game": "https://www.chess.com/game/live/5010846664"
+    },
+    "record": {
+      "win": 2457,
+      "loss": 2331,
+      "draw": 358
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2342,
+      "date": 1467547856
+    },
+    "lowest": {
+      "rating": 2342,
+      "date": 1467547856
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

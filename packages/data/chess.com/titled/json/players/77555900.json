@@ -1,0 +1,84 @@
+{
+  "player_id": 77555900,
+  "@id": "https://api.chess.com/pub/player/flucie",
+  "url": "https://www.chess.com/member/Flucie",
+  "name": "Lucie Fizerova",
+  "username": "flucie",
+  "title": "WFM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776438222,
+  "joined": 1587633277,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2092,
+      "date": 1776008482,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1776008482,
+      "game": "https://www.chess.com/game/live/4879004820"
+    },
+    "record": {
+      "win": 2,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1735526311,
+      "rd": 231
+    },
+    "best": {
+      "rating": 1383,
+      "date": 1604862545,
+      "game": "https://www.chess.com/game/live/5709021030"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1995,
+      "date": 1763237518,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1738685920,
+      "game": "https://www.chess.com/game/live/143896444774"
+    },
+    "record": {
+      "win": 20,
+      "loss": 36,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2042,
+      "date": 1587633277
+    },
+    "lowest": {
+      "rating": 2042,
+      "date": 1587633277
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

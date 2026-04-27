@@ -1,0 +1,102 @@
+{
+  "player_id": 10274496,
+  "@id": "https://api.chess.com/pub/player/cannolicchi",
+  "url": "https://www.chess.com/member/Cannolicchi",
+  "username": "cannolicchi",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776307235,
+  "joined": 1357181627,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1435,
+      "date": 1702917694,
+      "rd": 271
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1550683804,
+      "game": "https://www.chess.com/game/daily/147122666"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 152109,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1997,
+      "date": 1616217209,
+      "rd": 255
+    },
+    "best": {
+      "rating": 2009,
+      "date": 1443636109,
+      "game": "https://www.chess.com/game/live/1329877329"
+    },
+    "record": {
+      "win": 72,
+      "loss": 38,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1639293102,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1639293102,
+      "game": "https://www.chess.com/game/live/24190103129"
+    },
+    "record": {
+      "win": 1412,
+      "loss": 1486,
+      "draw": 102
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2193,
+      "date": 1744865180,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1550734326,
+      "game": "https://www.chess.com/game/live/3563019404"
+    },
+    "record": {
+      "win": 750,
+      "loss": 721,
+      "draw": 41
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2419,
+      "date": 1357181627
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1357181627
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

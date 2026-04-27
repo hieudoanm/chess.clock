@@ -1,0 +1,105 @@
+{
+  "player_id": 2447877,
+  "@id": "https://api.chess.com/pub/player/yoda2009",
+  "url": "https://www.chess.com/member/yoda2009",
+  "name": "Jimmy Broja",
+  "username": "yoda2009",
+  "title": "NM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1772058194,
+  "joined": 1262970000,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1647,
+      "date": 1702672927,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1647,
+      "date": 1578451802,
+      "game": "https://www.chess.com/game/daily/246644668"
+    },
+    "record": {
+      "win": 18,
+      "loss": 2,
+      "draw": 2,
+      "time_per_move": 1867,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2234,
+      "date": 1680899725,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2234,
+      "date": 1680899725,
+      "game": "https://www.chess.com/game/live/74638480405"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2190,
+      "date": 1770420946,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1763841364,
+      "game": "https://www.chess.com/game/live/53623257543"
+    },
+    "record": {
+      "win": 130,
+      "loss": 76,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1772058131,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1548015140,
+      "game": "https://www.chess.com/game/live/3355920302"
+    },
+    "record": {
+      "win": 1435,
+      "loss": 795,
+      "draw": 129
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2437,
+      "date": 1262970000
+    },
+    "lowest": {
+      "rating": 2437,
+      "date": 1262970000
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

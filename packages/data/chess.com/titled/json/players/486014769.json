@@ -1,0 +1,80 @@
+{
+  "player_id": 486014769,
+  "@id": "https://api.chess.com/pub/player/aaronjzr",
+  "url": "https://www.chess.com/member/AaronJZR",
+  "name": "Aaron Zambrano",
+  "username": "aaronjzr",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/VE",
+  "last_online": 1776525405,
+  "joined": 1758647874,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2418,
+      "date": 1776379609,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1776378325,
+      "game": "https://www.chess.com/game/live/166561516148"
+    },
+    "record": {
+      "win": 46,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2430,
+      "date": 1776525394,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1762366165,
+      "game": "https://www.chess.com/game/live/147686793976"
+    },
+    "record": {
+      "win": 58,
+      "loss": 43,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2569,
+      "date": 1776370492,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2720,
+      "date": 1764089046,
+      "game": "https://www.chess.com/game/live/154523803977"
+    },
+    "record": {
+      "win": 898,
+      "loss": 1012,
+      "draw": 207
+    }
+  },
+  "fide": 2087,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1758647874
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1758647874
+    }
+  },
+  "puzzle_rush": {}
+}

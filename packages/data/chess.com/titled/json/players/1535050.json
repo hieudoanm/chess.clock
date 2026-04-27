@@ -1,0 +1,99 @@
+{
+  "player_id": 1535050,
+  "@id": "https://api.chess.com/pub/player/marcusaurelius424",
+  "url": "https://www.chess.com/member/marcusaurelius424",
+  "name": "Michael Lucas",
+  "username": "marcusaurelius424",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1466278634,
+  "joined": 1223494408,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1719,
+      "date": 1488101296,
+      "rd": 238
+    },
+    "best": {
+      "rating": 1719,
+      "date": 1346782253,
+      "game": "https://www.chess.com/game/daily/57522266"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 105602,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1737,
+      "date": 1452924144,
+      "rd": 115
+    },
+    "best": {
+      "rating": 1958,
+      "date": 1436056987,
+      "game": "https://www.chess.com/game/live/1205565528"
+    },
+    "record": {
+      "win": 12,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1427,
+      "date": 1465554226,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1662,
+      "date": 1337898807,
+      "game": "https://www.chess.com/game/live/136875648"
+    },
+    "record": {
+      "win": 10,
+      "loss": 28,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1589,
+      "date": 1466310276,
+      "rd": 28
+    },
+    "best": {
+      "rating": 1901,
+      "date": 1293950038,
+      "game": "https://www.chess.com/game/live/85024712"
+    },
+    "record": {
+      "win": 6235,
+      "loss": 5979,
+      "draw": 491
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1223494408
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1223494408
+    }
+  },
+  "puzzle_rush": {}
+}

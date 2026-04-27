@@ -1,0 +1,85 @@
+{
+  "player_id": 326419079,
+  "@id": "https://api.chess.com/pub/player/physisian_chess",
+  "url": "https://www.chess.com/member/physisian_chess",
+  "name": "Mohammad Hossein Darvishi",
+  "username": "physisian_chess",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1772738213,
+  "joined": 1700148230,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2153,
+      "date": 1764779514,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2153,
+      "date": 1764779514,
+      "game": "https://www.chess.com/game/live/143242983684"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2861,
+      "date": 1772221343,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2873,
+      "date": 1769884576,
+      "game": "https://www.chess.com/game/live/164797784633"
+    },
+    "record": {
+      "win": 392,
+      "loss": 289,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2803,
+      "date": 1772222368,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2893,
+      "date": 1770658811,
+      "game": "https://www.chess.com/game/live/156604420493"
+    },
+    "record": {
+      "win": 484,
+      "loss": 410,
+      "draw": 68
+    }
+  },
+  "fide": 2143,
+  "tactics": {
+    "highest": {
+      "rating": 2630,
+      "date": 1770711480
+    },
+    "lowest": {
+      "rating": 2402,
+      "date": 1759861299
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

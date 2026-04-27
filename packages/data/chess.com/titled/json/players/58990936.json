@@ -1,0 +1,85 @@
+{
+  "player_id": 58990936,
+  "@id": "https://api.chess.com/pub/player/kopfverletzung",
+  "url": "https://www.chess.com/member/Kopfverletzung",
+  "name": "Paul Hinrichs",
+  "username": "kopfverletzung",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776445289,
+  "joined": 1553545698,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2232,
+      "date": 1734364927,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1734364927,
+      "game": "https://www.chess.com/game/live/71928823961"
+    },
+    "record": {
+      "win": 26,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2404,
+      "date": 1746313302,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2428,
+      "date": 1739462931,
+      "game": "https://www.chess.com/game/live/133201751367"
+    },
+    "record": {
+      "win": 116,
+      "loss": 89,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2533,
+      "date": 1775937127,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1769019078,
+      "game": "https://www.chess.com/game/live/164442547194"
+    },
+    "record": {
+      "win": 1278,
+      "loss": 1009,
+      "draw": 110
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2287,
+      "date": 1762249131
+    },
+    "lowest": {
+      "rating": 2212,
+      "date": 1762249023
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "player_id": 65172264,
+  "@id": "https://api.chess.com/pub/player/matviy2009",
+  "url": "https://www.chess.com/member/Matviy2009",
+  "name": "Matviy Faryma",
+  "username": "matviy2009",
+  "title": "FM",
+  "followers": 454,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1776598157,
+  "joined": 1567768731,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1519,
+      "date": 1776595156,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1679,
+      "date": 1598544629,
+      "game": "https://www.chess.com/game/daily/574354385"
+    },
+    "record": {
+      "win": 984,
+      "loss": 867,
+      "draw": 68,
+      "time_per_move": 19339,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1438,
+      "date": 1775740248,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1487,
+      "date": 1771264454,
+      "game": "https://www.chess.com/game/daily/315824602"
+    },
+    "record": {
+      "win": 671,
+      "loss": 612,
+      "draw": 50,
+      "time_per_move": 19339,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1772911188,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2231,
+      "date": 1755694267,
+      "game": "https://www.chess.com/game/live/81011516357"
+    },
+    "record": {
+      "win": 243,
+      "loss": 118,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3136,
+      "date": 1775517601,
+      "rd": 46
+    },
+    "best": {
+      "rating": 3138,
+      "date": 1774298693,
+      "game": "https://www.chess.com/game/live/166340811880"
+    },
+    "record": {
+      "win": 1609,
+      "loss": 1296,
+      "draw": 200
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2879,
+      "date": 1776597365,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2986,
+      "date": 1764527075,
+      "game": "https://www.chess.com/game/live/146301802165"
+    },
+    "record": {
+      "win": 1205,
+      "loss": 894,
+      "draw": 178
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1773948889
+    },
+    "lowest": {
+      "rating": 2227,
+      "date": 1766426746
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

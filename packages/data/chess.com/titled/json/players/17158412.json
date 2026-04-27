@@ -1,0 +1,123 @@
+{
+  "player_id": 17158412,
+  "@id": "https://api.chess.com/pub/player/mirochka",
+  "url": "https://www.chess.com/member/mirochka",
+  "name": "Myroslava Hrabinska",
+  "username": "mirochka",
+  "title": "WGM",
+  "followers": 118,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Lviv",
+  "last_online": 1776544932,
+  "joined": 1399134571,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1435,
+      "date": 1762766903,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1731158208,
+      "game": "https://www.chess.com/game/daily/659659643"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 127568,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 763,
+      "date": 1736009981,
+      "rd": 294
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1399134571,
+      "game": "https://www.chess.com/game/daily/738235921"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 127568,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1877,
+      "date": 1772648301,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2027,
+      "date": 1590433122,
+      "game": "https://www.chess.com/game/live/165508199796"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2160,
+      "date": 1592936533,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2156,
+      "date": 1592928468,
+      "game": "https://www.chess.com/game/live/5046045630"
+    },
+    "record": {
+      "win": 8,
+      "loss": 11,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1752757330,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1741108068,
+      "game": "https://www.chess.com/game/live/63482810133"
+    },
+    "record": {
+      "win": 131,
+      "loss": 236,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2507,
+      "date": 1774951315
+    },
+    "lowest": {
+      "rating": 2291,
+      "date": 1774956172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

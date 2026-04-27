@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/2577554971",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2018.01.27\"]\n[Round \"-\"]\n[White \"GM_Sanuchess\"]\n[Black \"GHANDEEVAM2003\"]\n[Result \"0-1\"]\n[CurrentPosition \"r5k1/ppp3pp/6r1/5p2/3b1p2/P1NP1q2/1PP2PB1/R4RK1 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"A00\"]\n[ECOUrl \"https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5\"]\n[UTCDate \"2018.01.27\"]\n[UTCTime \"06:08:18\"]\n[WhiteElo \"2565\"]\n[BlackElo \"2576\"]\n[TimeControl \"180\"]\n[Termination \"GHANDEEVAM2003 won by resignation\"]\n[StartTime \"06:08:18\"]\n[EndDate \"2018.01.27\"]\n[EndTime \"06:13:17\"]\n[Link \"https://www.chess.com/game/live/2577554971\"]\n\n1. e3 {[%clk 0:02:58.2]} 1... e5 {[%clk 0:02:56.1]} 2. d3 {[%clk 0:02:56.1]} 2... d5 {[%clk 0:02:53.6]} 3. e4 {[%clk 0:02:50.9]} 3... Nf6 {[%clk 0:02:39.1]} 4. exd5 {[%clk 0:02:48.3]} 4... Nxd5 {[%clk 0:02:39]} 5. Nc3 {[%clk 0:02:46.5]} 5... Nc6 {[%clk 0:02:35.8]} 6. Nf3 {[%clk 0:02:42]} 6... Bc5 {[%clk 0:02:32.6]} 7. Qe2 {[%clk 0:02:33]} 7... O-O {[%clk 0:02:27.9]} 8. Bd2 {[%clk 0:02:25.8]} 8... Nd4 {[%clk 0:02:04.6]} 9. Qd1 {[%clk 0:02:06.6]} 9... Nb4 {[%clk 0:01:45]} 10. Nxd4 {[%clk 0:01:25.5]} 10... Bxd4 {[%clk 0:01:44.9]} 11. a3 {[%clk 0:01:19.7]} 11... Nd5 {[%clk 0:01:40.8]} 12. Be2 {[%clk 0:01:13.7]} 12... Nf4 {[%clk 0:01:36.8]} 13. Bxf4 {[%clk 0:01:05.9]} 13... exf4 {[%clk 0:01:36.7]} 14. h3 {[%clk 0:01:04]} 14... Qh4 {[%clk 0:01:32.5]} 15. O-O {[%clk 0:00:59.4]} 15... Bxh3 {[%clk 0:01:26.1]} 16. gxh3 {[%clk 0:00:56.3]} 16... Qg3+ {[%clk 0:01:25.5]} 17. Kh1 {[%clk 0:00:50]} 17... Qxh3+ {[%clk 0:01:25.4]} 18. Kg1 {[%clk 0:00:49.2]} 18... f5 {[%clk 0:01:07.7]} 19. Bf3 {[%clk 0:00:30.7]} 19... Rf6 {[%clk 0:01:04.1]} 20. Bg2 {[%clk 0:00:19.2]} 20... Rg6 {[%clk 0:01:02.7]} 21. Qf3 {[%clk 0:00:15.3]} 21... Qxf3 {[%clk 0:01:00]} 0-1\n",
+    "time_control": "180",
+    "end_time": 1517033597,
+    "rated": true,
+    "tcn": "mu0KltZJuC!TCJTJbs5Qgv9Idm8!clQBmdJzvBIBiqzJfmJDlDKDpx7Feg6xoxFwghwxhg1Lmv9TvoTUdvxv",
+    "uuid": "b05e06ee-c151-11e2-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r5k1/ppp3pp/6r1/5p2/3b1p2/P1NP1q2/1PP2PB1/R4RK1 w - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 2565,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gm_sanuchess",
+      "username": "GM_Sanuchess",
+      "uuid": "5e8caea0-a7df-11e7-8032-000000000000"
+    },
+    "black": {
+      "rating": 2576,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/ghandeevam2003",
+      "username": "GHANDEEVAM2003",
+      "uuid": "634b94f8-a0dd-11e4-8014-000000000000"
+    }
+  }
+]

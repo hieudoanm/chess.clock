@@ -1,0 +1,85 @@
+{
+  "player_id": 49321422,
+  "@id": "https://api.chess.com/pub/player/kalogridakos",
+  "url": "https://www.chess.com/member/kalogridakos",
+  "name": "Themistoklis Kalogridis",
+  "username": "kalogridakos",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776518619,
+  "joined": 1535786016,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2302,
+      "date": 1661435963,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1431,
+      "date": 1592242147,
+      "game": "https://www.chess.com/game/live/5005996045"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1770058536,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2587,
+      "date": 1755363171,
+      "game": "https://www.chess.com/game/live/149673499131"
+    },
+    "record": {
+      "win": 223,
+      "loss": 179,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2388,
+      "date": 1759854779,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1753687222,
+      "game": "https://www.chess.com/game/live/154162604611"
+    },
+    "record": {
+      "win": 239,
+      "loss": 159,
+      "draw": 26
+    }
+  },
+  "fide": 2302,
+  "tactics": {
+    "highest": {
+      "rating": 2008,
+      "date": 1535786016
+    },
+    "lowest": {
+      "rating": 2008,
+      "date": 1535786016
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 42
+    }
+  }
+}

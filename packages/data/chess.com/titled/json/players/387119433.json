@@ -1,0 +1,83 @@
+{
+  "player_id": 387119433,
+  "@id": "https://api.chess.com/pub/player/the-misterious-player",
+  "url": "https://www.chess.com/member/The-misterious-player",
+  "username": "the-misterious-player",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1762268496,
+  "joined": 1725879681,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2404,
+      "date": 1752537297,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1752536673,
+      "game": "https://www.chess.com/game/live/140703271292"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2877,
+      "date": 1762226203,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2970,
+      "date": 1761784304,
+      "game": "https://www.chess.com/game/live/144894042404"
+    },
+    "record": {
+      "win": 1454,
+      "loss": 836,
+      "draw": 222
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2889,
+      "date": 1762120183,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2930,
+      "date": 1749572130,
+      "game": "https://www.chess.com/game/live/143486548346"
+    },
+    "record": {
+      "win": 1112,
+      "loss": 673,
+      "draw": 231
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1725879681
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1725879681
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

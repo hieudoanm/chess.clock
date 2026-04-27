@@ -1,0 +1,85 @@
+{
+  "player_id": 135660734,
+  "@id": "https://api.chess.com/pub/player/r-172",
+  "url": "https://www.chess.com/member/R-172",
+  "name": "Ralf Hess",
+  "username": "r-172",
+  "title": "IM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776566805,
+  "joined": 1618584033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2436,
+      "date": 1696889401,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1692568487,
+      "game": "https://www.chess.com/game/live/81513215125"
+    },
+    "record": {
+      "win": 25,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1784,
+      "date": 1733609746,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1682887819,
+      "game": "https://www.chess.com/game/live/127330224341"
+    },
+    "record": {
+      "win": 99,
+      "loss": 110,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2247,
+      "date": 1776566351,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1772828397,
+      "game": "https://www.chess.com/game/live/165500579330"
+    },
+    "record": {
+      "win": 8770,
+      "loss": 7353,
+      "draw": 415
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2004,
+      "date": 1758221466
+    },
+    "lowest": {
+      "rating": 2004,
+      "date": 1758221466
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 23,
+      "score": 22
+    }
+  }
+}

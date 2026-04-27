@@ -1,0 +1,85 @@
+{
+  "player_id": 80589400,
+  "@id": "https://api.chess.com/pub/player/protectivecarrot",
+  "url": "https://www.chess.com/member/ProtectiveCarrot",
+  "name": "Julian Victor",
+  "username": "protectivecarrot",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776441344,
+  "joined": 1590519087,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2410,
+      "date": 1775151796,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1775132331,
+      "game": "https://www.chess.com/game/live/166195410418"
+    },
+    "record": {
+      "win": 74,
+      "loss": 58,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2374,
+      "date": 1774384473,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1774384343,
+      "game": "https://www.chess.com/game/live/72641056093"
+    },
+    "record": {
+      "win": 48,
+      "loss": 26,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2364,
+      "date": 1776441336,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1749285594,
+      "game": "https://www.chess.com/game/live/107630082881"
+    },
+    "record": {
+      "win": 684,
+      "loss": 721,
+      "draw": 79
+    }
+  },
+  "fide": 2308,
+  "tactics": {
+    "highest": {
+      "rating": 2646,
+      "date": 1768913264
+    },
+    "lowest": {
+      "rating": 2274,
+      "date": 1768913654
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

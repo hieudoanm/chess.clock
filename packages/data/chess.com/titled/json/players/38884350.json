@@ -1,0 +1,103 @@
+{
+  "player_id": 38884350,
+  "@id": "https://api.chess.com/pub/player/flyd",
+  "url": "https://www.chess.com/member/FLYD",
+  "name": "Lazaro Lorenzo De La Riva",
+  "username": "flyd",
+  "title": "IM",
+  "followers": 221,
+  "country": "https://api.chess.com/pub/country/XC",
+  "last_online": 1776329331,
+  "joined": 1506179562,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1574,
+      "date": 1771320515,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1682,
+      "date": 1729460255,
+      "game": "https://www.chess.com/game/daily/518694481"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 44876,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2121,
+      "date": 1709814597,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1678782480,
+      "game": "https://www.chess.com/game/live/72621355235"
+    },
+    "record": {
+      "win": 86,
+      "loss": 99,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2220,
+      "date": 1718112887,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1708023377,
+      "game": "https://www.chess.com/game/live/102534038693"
+    },
+    "record": {
+      "win": 57,
+      "loss": 43,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2522,
+      "date": 1765485562,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1728927983,
+      "game": "https://www.chess.com/game/live/125166618601"
+    },
+    "record": {
+      "win": 6392,
+      "loss": 5966,
+      "draw": 908
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2716,
+      "date": 1763141945
+    },
+    "lowest": {
+      "rating": 2716,
+      "date": 1763141945
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

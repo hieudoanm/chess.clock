@@ -1,0 +1,104 @@
+{
+  "player_id": 57996842,
+  "@id": "https://api.chess.com/pub/player/buldockin",
+  "url": "https://www.chess.com/member/Buldockin",
+  "name": "Martin Bulo\u010dkin",
+  "username": "buldockin",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1775382424,
+  "joined": 1551527767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1332,
+      "date": 1638523721,
+      "rd": 206
+    },
+    "best": {
+      "rating": 1332,
+      "date": 1606984801,
+      "game": "https://www.chess.com/game/daily/285678302"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 20520,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2253,
+      "date": 1766678547,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1691693245,
+      "game": "https://www.chess.com/game/live/85431185441"
+    },
+    "record": {
+      "win": 30,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2303,
+      "date": 1712141177,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1600529133,
+      "game": "https://www.chess.com/game/live/7387363871"
+    },
+    "record": {
+      "win": 191,
+      "loss": 149,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2231,
+      "date": 1763326300,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1705761729,
+      "game": "https://www.chess.com/game/live/124907952197"
+    },
+    "record": {
+      "win": 198,
+      "loss": 130,
+      "draw": 32
+    }
+  },
+  "fide": 2284,
+  "tactics": {
+    "highest": {
+      "rating": 2381,
+      "date": 1767053858
+    },
+    "lowest": {
+      "rating": 2299,
+      "date": 1763567840
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

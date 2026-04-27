@@ -1,0 +1,67 @@
+{
+  "player_id": 173875933,
+  "@id": "https://api.chess.com/pub/player/joegoldberg13",
+  "url": "https://www.chess.com/member/joegoldberg13",
+  "username": "joegoldberg13",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776439948,
+  "joined": 1645331539,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2499,
+      "date": 1696026798,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1651351255,
+      "game": "https://www.chess.com/game/live/43942492975"
+    },
+    "record": {
+      "win": 1106,
+      "loss": 1068,
+      "draw": 151
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2509,
+      "date": 1776562427,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1702937702,
+      "game": "https://www.chess.com/game/live/92731292051"
+    },
+    "record": {
+      "win": 3533,
+      "loss": 3258,
+      "draw": 700
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2336,
+      "date": 1773033921
+    },
+    "lowest": {
+      "rating": 2124,
+      "date": 1759982515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

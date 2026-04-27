@@ -1,0 +1,66 @@
+{
+  "player_id": 40495424,
+  "@id": "https://api.chess.com/pub/player/aromondo",
+  "url": "https://www.chess.com/member/aromondo",
+  "username": "aromondo",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776584629,
+  "joined": 1511016357,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2119,
+      "date": 1776146097,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1724487288,
+      "game": "https://www.chess.com/game/live/46865997147"
+    },
+    "record": {
+      "win": 308,
+      "loss": 209,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1744807126,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1709407977,
+      "game": "https://www.chess.com/game/live/81876091271"
+    },
+    "record": {
+      "win": 74,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2261,
+      "date": 1776584594
+    },
+    "lowest": {
+      "rating": 2008,
+      "date": 1755602687
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

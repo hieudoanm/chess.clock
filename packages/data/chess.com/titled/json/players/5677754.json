@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5677754.04cba3a4.200x200o.18399a32cfe2.jpeg",
+  "player_id": 5677754,
+  "@id": "https://api.chess.com/pub/player/lcmil",
+  "url": "https://www.chess.com/member/lcmil",
+  "name": "Luke Miller",
+  "username": "lcmil",
+  "title": "NM",
+  "followers": 507,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Des Moines",
+  "last_online": 1776567711,
+  "joined": 1314307535,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1237,
+      "date": 1776567462,
+      "rd": 87
+    },
+    "best": {
+      "rating": 1881,
+      "date": 1609023846,
+      "game": "https://www.chess.com/game/daily/224108218"
+    },
+    "record": {
+      "win": 370,
+      "loss": 143,
+      "draw": 9,
+      "time_per_move": 15419,
+      "timeout_percent": 40
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1562,
+      "date": 1557520805,
+      "rd": 131
+    },
+    "best": {
+      "rating": 1562,
+      "date": 1556548761,
+      "game": "https://www.chess.com/game/daily/224194904"
+    },
+    "record": {
+      "win": 24,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15419,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2328,
+      "date": 1776532904,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2454,
+      "date": 1774628364,
+      "game": "https://www.chess.com/game/live/89314265929"
+    },
+    "record": {
+      "win": 504,
+      "loss": 312,
+      "draw": 47
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2597,
+      "date": 1761342924,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1716659833,
+      "game": "https://www.chess.com/game/live/110392926971"
+    },
+    "record": {
+      "win": 3977,
+      "loss": 2947,
+      "draw": 290
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2315,
+      "date": 1773172216,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2687,
+      "date": 1715722748,
+      "game": "https://www.chess.com/game/live/67882505237"
+    },
+    "record": {
+      "win": 11378,
+      "loss": 9112,
+      "draw": 1063
+    }
+  },
+  "fide": 2240,
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1765471219
+    },
+    "lowest": {
+      "rating": 2239,
+      "date": 1772773181
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 75966274,
+  "@id": "https://api.chess.com/pub/player/scientificmouse",
+  "url": "https://www.chess.com/member/scientificmouse",
+  "username": "scientificmouse",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776513820,
+  "joined": 1586274449,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2408,
+      "date": 1741539051,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1736711330,
+      "game": "https://www.chess.com/game/live/113569246903"
+    },
+    "record": {
+      "win": 338,
+      "loss": 295,
+      "draw": 51
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2561,
+      "date": 1768682119,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2789,
+      "date": 1729187366,
+      "game": "https://www.chess.com/game/live/122924739153"
+    },
+    "record": {
+      "win": 1680,
+      "loss": 1860,
+      "draw": 231
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2607,
+      "date": 1776492134,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2876,
+      "date": 1769021906,
+      "game": "https://www.chess.com/game/live/165718759056"
+    },
+    "record": {
+      "win": 2929,
+      "loss": 3093,
+      "draw": 519
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2410,
+      "date": 1762537801
+    },
+    "lowest": {
+      "rating": 2310,
+      "date": 1767883808
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 83,
+      "score": 80
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 78988988,
+  "@id": "https://api.chess.com/pub/player/tygra8",
+  "url": "https://www.chess.com/member/Tygra8",
+  "name": "Tygran Dzhuguryan",
+  "username": "tygra8",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1767651338,
+  "joined": 1589009307,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2371,
+      "date": 1702222435,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1654577352,
+      "game": "https://www.chess.com/game/live/51338962829"
+    },
+    "record": {
+      "win": 344,
+      "loss": 232,
+      "draw": 86
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1465,
+      "date": 1614444707,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1557,
+      "date": 1589016922,
+      "game": "https://www.chess.com/game/live/4831449776"
+    },
+    "record": {
+      "win": 10,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1767493532,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1758124005,
+      "game": "https://www.chess.com/game/live/29141963995"
+    },
+    "record": {
+      "win": 10528,
+      "loss": 8889,
+      "draw": 1404
+    }
+  },
+  "fide": 2105,
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1767528306
+    },
+    "lowest": {
+      "rating": 2228,
+      "date": 1767554859
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 20,
+      "score": 18
+    }
+  }
+}

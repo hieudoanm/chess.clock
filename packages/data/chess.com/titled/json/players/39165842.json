@@ -1,0 +1,84 @@
+{
+  "player_id": 39165842,
+  "@id": "https://api.chess.com/pub/player/ericovski",
+  "url": "https://www.chess.com/member/ericovski",
+  "name": "Eric Sos Andreu",
+  "username": "ericovski",
+  "title": "IM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776031856,
+  "joined": 1507115852,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2350,
+      "date": 1671045350,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1666895228,
+      "game": "https://www.chess.com/game/live/2390510463"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1671046792,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1671046671,
+      "game": "https://www.chess.com/game/live/4518803791"
+    },
+    "record": {
+      "win": 22,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2655,
+      "date": 1752592029,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1566995778,
+      "game": "https://www.chess.com/game/live/111273683559"
+    },
+    "record": {
+      "win": 379,
+      "loss": 257,
+      "draw": 53
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1507115852
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1507115852
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

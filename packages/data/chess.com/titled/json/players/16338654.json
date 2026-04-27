@@ -1,0 +1,85 @@
+{
+  "player_id": 16338654,
+  "@id": "https://api.chess.com/pub/player/peteseeger",
+  "url": "https://www.chess.com/member/peteseeger",
+  "name": "giulio lagumina",
+  "username": "peteseeger",
+  "title": "FM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "palermo",
+  "last_online": 1776177771,
+  "joined": 1394110328,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1838,
+      "date": 1676307497,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1960,
+      "date": 1676304890,
+      "game": "https://www.chess.com/game/live/4906423804"
+    },
+    "record": {
+      "win": 1,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1462,
+      "date": 1576751333,
+      "rd": 244
+    },
+    "best": {
+      "rating": 1312,
+      "date": 1576751333,
+      "game": "https://www.chess.com/game/live/4314535673"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2333,
+      "date": 1726172106,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1582899350,
+      "game": "https://www.chess.com/game/live/3262345450"
+    },
+    "record": {
+      "win": 2844,
+      "loss": 3202,
+      "draw": 736
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2437,
+      "date": 1394110328
+    },
+    "lowest": {
+      "rating": 2437,
+      "date": 1394110328
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

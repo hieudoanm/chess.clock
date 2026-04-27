@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19076514.3be6d6a7.200x200o.acacb9441df0.jpeg",
+  "player_id": 19076514,
+  "@id": "https://api.chess.com/pub/player/lmcshane",
+  "url": "https://www.chess.com/member/LMcShane",
+  "name": "Luke McShane",
+  "username": "lmcshane",
+  "title": "GM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776596793,
+  "joined": 1411858530,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1302,
+      "date": 1776328100,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1411858530,
+      "game": "https://www.chess.com/game/daily/746016191"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 73818,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2575,
+      "date": 1631302921,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2736,
+      "date": 1597423086,
+      "game": "https://www.chess.com/game/live/5297366120"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2278,
+      "date": 1622908638,
+      "rd": 210
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2819,
+      "date": 1734906580,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2819,
+      "date": 1734183974,
+      "game": "https://www.chess.com/game/live/28989622259"
+    },
+    "record": {
+      "win": 42,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "fide": 2677,
+  "tactics": {
+    "highest": {
+      "rating": 2812,
+      "date": 1763971884
+    },
+    "lowest": {
+      "rating": 2689,
+      "date": 1763971937
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

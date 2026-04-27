@@ -1,0 +1,102 @@
+{
+  "player_id": 14404256,
+  "@id": "https://api.chess.com/pub/player/samssky",
+  "url": "https://www.chess.com/member/samssky",
+  "username": "samssky",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775807802,
+  "joined": 1384541245,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1719,
+      "date": 1706804407,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1446076657,
+      "game": "https://www.chess.com/game/daily/124685062"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 4,
+      "time_per_move": 12365,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2458,
+      "date": 1720901002,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1704628667,
+      "game": "https://www.chess.com/game/live/64515115749"
+    },
+    "record": {
+      "win": 58,
+      "loss": 23,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2610,
+      "date": 1451458868,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1405866397,
+      "game": "https://www.chess.com/game/live/803836088"
+    },
+    "record": {
+      "win": 132,
+      "loss": 59,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2647,
+      "date": 1756673380,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2737,
+      "date": 1582540893,
+      "game": "https://www.chess.com/game/live/6012388549"
+    },
+    "record": {
+      "win": 758,
+      "loss": 450,
+      "draw": 131
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2626,
+      "date": 1384541245
+    },
+    "lowest": {
+      "rating": 2626,
+      "date": 1384541245
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "player_id": 83516772,
+  "@id": "https://api.chess.com/pub/player/lionking2009",
+  "url": "https://www.chess.com/member/Lionking2009",
+  "username": "lionking2009",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776560526,
+  "joined": 1592641917,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2381,
+      "date": 1774962729,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2801,
+      "date": 1770565724,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1770565724,
+      "game": "https://www.chess.com/game/live/164409587178"
+    },
+    "record": {
+      "win": 232,
+      "loss": 215,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2840,
+      "date": 1776365752,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2873,
+      "date": 1772215599,
+      "game": "https://www.chess.com/game/live/141373673330"
+    },
+    "record": {
+      "win": 426,
+      "loss": 481,
+      "draw": 133
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1693,
+      "date": 1759944319
+    },
+    "lowest": {
+      "rating": 1462,
+      "date": 1775367892
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

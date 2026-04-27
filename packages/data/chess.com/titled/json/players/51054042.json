@@ -1,0 +1,82 @@
+{
+  "player_id": 51054042,
+  "@id": "https://api.chess.com/pub/player/peshkanavalnogo12",
+  "url": "https://www.chess.com/member/PeshkaNavalnogo12",
+  "username": "peshkanavalnogo12",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776337768,
+  "joined": 1540299526,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 960,
+      "date": 1557319412,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2248,
+      "date": 1550685847,
+      "game": "https://www.chess.com/game/live/3475467414"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2659,
+      "date": 1548547695,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1541100694,
+      "game": "https://www.chess.com/game/live/3197033147"
+    },
+    "record": {
+      "win": 48,
+      "loss": 38,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2496,
+      "date": 1575459423,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2613,
+      "date": 1548531224,
+      "game": "https://www.chess.com/game/live/3407359286"
+    },
+    "record": {
+      "win": 232,
+      "loss": 236,
+      "draw": 26
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1540299526
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1540299526
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

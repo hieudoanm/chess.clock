@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5230219.8a5989a3.200x200o.08b0dedf7987.png",
+  "player_id": 5230219,
+  "@id": "https://api.chess.com/pub/player/jwillz14",
+  "url": "https://www.chess.com/member/jwillz14",
+  "name": "Justus Williams",
+  "username": "jwillz14",
+  "title": "IM",
+  "followers": 159,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776060452,
+  "joined": 1307287132,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 826,
+      "date": 1776487098,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1307287132,
+      "game": "https://www.chess.com/game/daily/434925375"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 93329,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2389,
+      "date": 1739729044,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1587001470,
+      "game": "https://www.chess.com/game/live/85170686407"
+    },
+    "record": {
+      "win": 27,
+      "loss": 9,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2656,
+      "date": 1751512321,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1751168727,
+      "game": "https://www.chess.com/game/live/5814295566"
+    },
+    "record": {
+      "win": 576,
+      "loss": 580,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2750,
+      "date": 1775007429,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2792,
+      "date": 1751418131,
+      "game": "https://www.chess.com/game/live/145720766335"
+    },
+    "record": {
+      "win": 2478,
+      "loss": 2521,
+      "draw": 299
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2447,
+      "date": 1307287132
+    },
+    "lowest": {
+      "rating": 2447,
+      "date": 1307287132
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

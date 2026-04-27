@@ -1,0 +1,66 @@
+{
+  "player_id": 19327646,
+  "@id": "https://api.chess.com/pub/player/lukashandler",
+  "url": "https://www.chess.com/member/LukasHandler",
+  "name": "Lukas Handler",
+  "username": "lukashandler",
+  "title": "IM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1726995663,
+  "joined": 1413481602,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2395,
+      "date": 1597581772,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1597405220,
+      "game": "https://www.chess.com/game/live/5296042867"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2282,
+      "date": 1584289433,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1551827657,
+      "game": "https://www.chess.com/game/live/3511050205"
+    },
+    "record": {
+      "win": 162,
+      "loss": 85,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2014,
+      "date": 1413481602
+    },
+    "lowest": {
+      "rating": 2014,
+      "date": 1413481602
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

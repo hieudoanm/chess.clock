@@ -1,0 +1,103 @@
+{
+  "player_id": 1907187,
+  "@id": "https://api.chess.com/pub/player/chess4life23",
+  "url": "https://www.chess.com/member/chess4life23",
+  "name": "Ben Bailey",
+  "username": "chess4life23",
+  "title": "NM",
+  "followers": 104,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776459977,
+  "joined": 1241644326,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1824,
+      "date": 1701972194,
+      "rd": 226
+    },
+    "best": {
+      "rating": 1970,
+      "date": 1458573745,
+      "game": "https://www.chess.com/game/daily/130846910"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 65838,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1592178271,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1592177321,
+      "game": "https://www.chess.com/game/live/4852750995"
+    },
+    "record": {
+      "win": 17,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2362,
+      "date": 1595101610,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1472520411,
+      "game": "https://www.chess.com/game/live/3195202956"
+    },
+    "record": {
+      "win": 1814,
+      "loss": 1501,
+      "draw": 147
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2358,
+      "date": 1776459956,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1539743172,
+      "game": "https://www.chess.com/game/live/3164935157"
+    },
+    "record": {
+      "win": 8404,
+      "loss": 8213,
+      "draw": 926
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2528,
+      "date": 1241644326
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1241644326
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 38
+    }
+  }
+}

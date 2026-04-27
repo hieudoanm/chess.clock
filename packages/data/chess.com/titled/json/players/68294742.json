@@ -1,0 +1,86 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/68294742.8135a46d.200x200o.5d33c46de7ff.jpg",
+    "player_id": 68294742,
+    "@id": "https://api.chess.com/pub/player/vladimirkramnik",
+    "url": "https://www.chess.com/member/VladimirKramnik",
+    "name": "Vladimir Kramnik",
+    "username": "vladimirkramnik",
+    "title": "GM",
+    "followers": 3186,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741699383,
+    "joined": 1574366455,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2666,
+            "date": 1739808741,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2960,
+            "date": 1656783782,
+            "game": "https://www.chess.com/game/live/69613406237"
+        },
+        "record": {
+            "win": 60,
+            "loss": 40,
+            "draw": 44
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2529,
+            "date": 1738965537,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2530,
+            "date": 1738965152,
+            "game": "https://www.chess.com/game/live/132703224793"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3040,
+            "date": 1741040813,
+            "rd": 28
+        },
+        "best": {
+            "rating": 3143,
+            "date": 1737683800,
+            "game": "https://www.chess.com/game/live/127590076151"
+        },
+        "record": {
+            "win": 1207,
+            "loss": 816,
+            "draw": 415
+        }
+    },
+    "fide": 2753,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1574366455
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1574366455
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 48
+        }
+    }
+}

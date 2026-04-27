@@ -1,0 +1,100 @@
+{
+    "player_id": 202394491,
+    "@id": "https://api.chess.com/pub/player/lukaradovic0803",
+    "url": "https://www.chess.com/member/LukaRadovic0803",
+    "name": "Luka Radovic",
+    "username": "lukaradovic0803",
+    "title": "FM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/RS",
+    "location": "Kragujevac",
+    "last_online": 1729346419,
+    "joined": 1666199607,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1690271056,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 35031,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2224,
+            "date": 1713705668,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2224,
+            "date": 1713705668,
+            "game": "https://www.chess.com/game/live/107368406283"
+        },
+        "record": {
+            "win": 8,
+            "loss": 1,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2568,
+            "date": 1677813229,
+            "rd": 64
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1666719284,
+            "game": "https://www.chess.com/game/live/60457894771"
+        },
+        "record": {
+            "win": 13,
+            "loss": 14,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2480,
+            "date": 1738239935,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2664,
+            "date": 1706840874,
+            "game": "https://www.chess.com/game/live/61768920677"
+        },
+        "record": {
+            "win": 1064,
+            "loss": 964,
+            "draw": 175
+        }
+    },
+    "fide": 2346,
+    "tactics": {
+        "highest": {
+            "rating": 3269,
+            "date": 1715664809
+        },
+        "lowest": {
+            "rating": 2355,
+            "date": 1666817014
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 59
+        }
+    }
+}

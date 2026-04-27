@@ -1,0 +1,103 @@
+{
+  "player_id": 30580404,
+  "@id": "https://api.chess.com/pub/player/dhammiko",
+  "url": "https://www.chess.com/member/dhammiko",
+  "name": "Dhatuyo Budiarto",
+  "username": "dhammiko",
+  "title": "CM",
+  "followers": 117,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776589439,
+  "joined": 1477405346,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1354,
+      "date": 1776517788,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1354,
+      "date": 1763231868,
+      "game": "https://www.chess.com/game/daily/885064679"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 44198,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2147,
+      "date": 1776050456,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1752421978,
+      "game": "https://www.chess.com/game/live/140468686258"
+    },
+    "record": {
+      "win": 153,
+      "loss": 171,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2376,
+      "date": 1776579743,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1752837273,
+      "game": "https://www.chess.com/game/live/129366817393"
+    },
+    "record": {
+      "win": 1722,
+      "loss": 1369,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2309,
+      "date": 1776556153,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1765267681,
+      "game": "https://www.chess.com/game/live/146182440520"
+    },
+    "record": {
+      "win": 143,
+      "loss": 109,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2215,
+      "date": 1769435360
+    },
+    "lowest": {
+      "rating": 2092,
+      "date": 1776520385
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 76412402,
+  "@id": "https://api.chess.com/pub/player/kvissv",
+  "url": "https://www.chess.com/member/kvissv",
+  "username": "kvissv",
+  "title": "WFM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776474659,
+  "joined": 1586640776,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1883,
+      "date": 1630780737,
+      "rd": 50
+    },
+    "best": {
+      "rating": 1932,
+      "date": 1630526333,
+      "game": "https://www.chess.com/game/live/11832877001"
+    },
+    "record": {
+      "win": 144,
+      "loss": 107,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2377,
+      "date": 1671918478,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1671918040,
+      "game": "https://www.chess.com/game/live/55989834915"
+    },
+    "record": {
+      "win": 34,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2105,
+      "date": 1737504956,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1673809159,
+      "game": "https://www.chess.com/game/live/67546879375"
+    },
+    "record": {
+      "win": 83,
+      "loss": 60,
+      "draw": 7
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1762747975
+    },
+    "lowest": {
+      "rating": 1759,
+      "date": 1776179230
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

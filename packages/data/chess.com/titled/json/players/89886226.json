@@ -1,0 +1,64 @@
+{
+  "player_id": 89886226,
+  "@id": "https://api.chess.com/pub/player/wwrightchess",
+  "url": "https://www.chess.com/member/wwrightchess",
+  "name": "William Wright",
+  "username": "wwrightchess",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Ohio",
+  "last_online": 1776569965,
+  "joined": 1598452840,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1852,
+      "date": 1599423336,
+      "rd": 180
+    },
+    "best": {
+      "rating": 1953,
+      "date": 1599337581,
+      "game": "https://www.chess.com/game/live/5402920042"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2091,
+      "date": 1651788653,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1651786281,
+      "game": "https://www.chess.com/game/live/45264571351"
+    },
+    "record": {
+      "win": 22,
+      "loss": 14,
+      "draw": 9
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2444,
+      "date": 1774667553
+    },
+    "lowest": {
+      "rating": 2181,
+      "date": 1755556618
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 323202493,
+  "@id": "https://api.chess.com/pub/player/rizabregu",
+  "url": "https://www.chess.com/member/RizaBregu",
+  "name": "Riza Bregu",
+  "username": "rizabregu",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/AL",
+  "last_online": 1776508098,
+  "joined": 1698852393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2133,
+      "date": 1762803105,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2133,
+      "date": 1762679533,
+      "game": "https://www.chess.com/game/live/145354711984"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2202,
+      "date": 1744749778,
+      "rd": 100
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1741730755,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1709050010,
+      "game": "https://www.chess.com/game/live/98555099671"
+    },
+    "record": {
+      "win": 49,
+      "loss": 96,
+      "draw": 5
+    }
+  },
+  "fide": 2133,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1698852393
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1698852393
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

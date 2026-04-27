@@ -1,0 +1,63 @@
+{
+  "player_id": 35698852,
+  "@id": "https://api.chess.com/pub/player/aradej",
+  "url": "https://www.chess.com/member/Aradej",
+  "name": "Dejan Pikula",
+  "username": "aradej",
+  "title": "GM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1775112632,
+  "joined": 1495371383,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2220,
+      "date": 1638651045,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1607877974,
+      "game": "https://www.chess.com/game/live/5957334744"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2689,
+      "date": 1732444899,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1730361638,
+      "game": "https://www.chess.com/game/live/18657580751"
+    },
+    "record": {
+      "win": 561,
+      "loss": 223,
+      "draw": 84
+    }
+  },
+  "fide": 2435,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1495371383
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1495371383
+    }
+  },
+  "puzzle_rush": {}
+}

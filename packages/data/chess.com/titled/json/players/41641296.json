@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41641296.612c1043.200x200o.3d1dd029c3ba.jpeg",
+  "player_id": 41641296,
+  "@id": "https://api.chess.com/pub/player/slmctk",
+  "url": "https://www.chess.com/member/Slmctk",
+  "name": "Selim Citak",
+  "username": "slmctk",
+  "title": "IM",
+  "followers": 1404,
+  "country": "https://api.chess.com/pub/country/TR",
+  "location": "\u0130stanbul",
+  "last_online": 1776583137,
+  "joined": 1514142178,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/slmctk",
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/slmctk"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1670,
+      "date": 1776251449,
+      "rd": 171
+    },
+    "best": {
+      "rating": 1670,
+      "date": 1518248802,
+      "game": "https://www.chess.com/game/daily/185706310"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24691,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2380,
+      "date": 1699692127,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1699688899,
+      "game": "https://www.chess.com/game/live/93427101735"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2458,
+      "date": 1628507683,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1603883608,
+      "game": "https://www.chess.com/game/live/2718024667"
+    },
+    "record": {
+      "win": 252,
+      "loss": 145,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2303,
+      "date": 1757584814,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1570045239,
+      "game": "https://www.chess.com/game/live/3804643373"
+    },
+    "record": {
+      "win": 336,
+      "loss": 105,
+      "draw": 34
+    }
+  },
+  "fide": 2165,
+  "tactics": {
+    "highest": {
+      "rating": 2557,
+      "date": 1757681438
+    },
+    "lowest": {
+      "rating": 2557,
+      "date": 1757681438
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 42
+    }
+  }
+}

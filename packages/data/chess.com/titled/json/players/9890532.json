@@ -1,0 +1,81 @@
+{
+  "player_id": 9890532,
+  "@id": "https://api.chess.com/pub/player/letans",
+  "url": "https://www.chess.com/member/letans",
+  "name": "Darko Parezanin",
+  "username": "letans",
+  "title": "FM",
+  "followers": 95,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Novi Sad",
+  "last_online": 1776553854,
+  "joined": 1354636348,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2272,
+      "date": 1672880793,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1667522383,
+      "game": "https://www.chess.com/game/live/61159741795"
+    },
+    "record": {
+      "win": 118,
+      "loss": 100,
+      "draw": 31
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2045,
+      "date": 1759114011,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1758598002,
+      "game": "https://www.chess.com/game/live/143448011686"
+    },
+    "record": {
+      "win": 52,
+      "loss": 38,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2319,
+      "date": 1776553767,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1765241335,
+      "game": "https://www.chess.com/game/live/119975438417"
+    },
+    "record": {
+      "win": 32375,
+      "loss": 35321,
+      "draw": 4676
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1354636348
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1354636348
+    }
+  },
+  "puzzle_rush": {}
+}

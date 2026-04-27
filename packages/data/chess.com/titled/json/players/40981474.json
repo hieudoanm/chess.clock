@@ -1,0 +1,83 @@
+{
+  "player_id": 40981474,
+  "@id": "https://api.chess.com/pub/player/blindmancrying",
+  "url": "https://www.chess.com/member/Blindmancrying",
+  "username": "blindmancrying",
+  "title": "CM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1774865488,
+  "joined": 1512345187,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1733,
+      "date": 1627974889,
+      "rd": 199
+    },
+    "best": {
+      "rating": 1846,
+      "date": 1515749384,
+      "game": "https://www.chess.com/game/live/2546690364"
+    },
+    "record": {
+      "win": 11,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2279,
+      "date": 1746989861,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1642055248,
+      "game": "https://www.chess.com/game/live/125746096379"
+    },
+    "record": {
+      "win": 1438,
+      "loss": 1157,
+      "draw": 97
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2264,
+      "date": 1746909687,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1601523406,
+      "game": "https://www.chess.com/game/live/33897592755"
+    },
+    "record": {
+      "win": 1983,
+      "loss": 1600,
+      "draw": 257
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2656,
+      "date": 1766308305
+    },
+    "lowest": {
+      "rating": 2566,
+      "date": 1766299905
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 8963150,
+  "@id": "https://api.chess.com/pub/player/parimarjan",
+  "url": "https://www.chess.com/member/Parimarjan",
+  "username": "parimarjan",
+  "title": "GM",
+  "followers": 108,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1774474449,
+  "joined": 1348071374,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1656,
+      "date": 1763080565,
+      "rd": 342
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1424390521,
+      "game": "https://www.chess.com/game/daily/103358066"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 49164,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2253,
+      "date": 1763087415,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1549508902,
+      "game": "https://www.chess.com/game/live/145485424680"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2753,
+      "date": 1621490871,
+      "rd": 312
+    },
+    "best": {
+      "rating": 2753,
+      "date": 1621490727,
+      "game": "https://www.chess.com/game/live/433648579"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2532,
+      "date": 1721474647,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1585389541,
+      "game": "https://www.chess.com/game/live/4647438924"
+    },
+    "record": {
+      "win": 35,
+      "loss": 23,
+      "draw": 9
+    }
+  },
+  "fide": 2671,
+  "tactics": {
+    "highest": {
+      "rating": 1707,
+      "date": 1348071374
+    },
+    "lowest": {
+      "rating": 1707,
+      "date": 1348071374
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

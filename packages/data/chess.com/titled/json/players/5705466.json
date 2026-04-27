@@ -1,0 +1,105 @@
+{
+  "player_id": 5705466,
+  "@id": "https://api.chess.com/pub/player/fish_club",
+  "url": "https://www.chess.com/member/fish_club",
+  "name": "Viesturs Kap\u010de",
+  "username": "fish_club",
+  "title": "CM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/LV",
+  "location": "Riga",
+  "last_online": 1776584656,
+  "joined": 1314726302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1744,
+      "date": 1776554089,
+      "rd": 55
+    },
+    "best": {
+      "rating": 1946,
+      "date": 1515159611,
+      "game": "https://www.chess.com/game/daily/859044230"
+    },
+    "record": {
+      "win": 1597,
+      "loss": 1055,
+      "draw": 82,
+      "time_per_move": 109693,
+      "timeout_percent": 13
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2180,
+      "date": 1769702100,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1661973331,
+      "game": "https://www.chess.com/game/live/31701016049"
+    },
+    "record": {
+      "win": 48,
+      "loss": 17,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2258,
+      "date": 1771841066,
+      "rd": 193
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1602834246,
+      "game": "https://www.chess.com/game/live/5531767358"
+    },
+    "record": {
+      "win": 6925,
+      "loss": 5423,
+      "draw": 397
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2253,
+      "date": 1776341927,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2284,
+      "date": 1754146261,
+      "game": "https://www.chess.com/game/live/53272761401"
+    },
+    "record": {
+      "win": 4896,
+      "loss": 3896,
+      "draw": 734
+    }
+  },
+  "fide": 2071,
+  "tactics": {
+    "highest": {
+      "rating": 2135,
+      "date": 1314726302
+    },
+    "lowest": {
+      "rating": 2135,
+      "date": 1314726302
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

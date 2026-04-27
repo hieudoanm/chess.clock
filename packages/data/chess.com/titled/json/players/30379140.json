@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30379140.7be217a2.200x200o.8374e6f40246.jpg",
+  "player_id": 30379140,
+  "@id": "https://api.chess.com/pub/player/claudiuprunescu",
+  "url": "https://www.chess.com/member/claudiuprunescu",
+  "name": "Claudiu Prunescu",
+  "username": "claudiuprunescu",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1775425848,
+  "joined": 1476388655,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1700990018,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 52332,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2234,
+      "date": 1713304520,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1698866597,
+      "game": "https://www.chess.com/game/live/78163501531"
+    },
+    "record": {
+      "win": 17,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1968,
+      "date": 1701850668,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2170,
+      "date": 1700061624,
+      "game": "https://www.chess.com/game/live/93800423049"
+    },
+    "record": {
+      "win": 9,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2332,
+      "date": 1770639200,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1770639200,
+      "game": "https://www.chess.com/game/live/160216045925"
+    },
+    "record": {
+      "win": 222,
+      "loss": 188,
+      "draw": 34
+    }
+  },
+  "fide": 2217,
+  "tactics": {
+    "highest": {
+      "rating": 1581,
+      "date": 1476388655
+    },
+    "lowest": {
+      "rating": 1581,
+      "date": 1476388655
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

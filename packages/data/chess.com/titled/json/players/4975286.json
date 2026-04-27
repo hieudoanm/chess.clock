@@ -1,0 +1,87 @@
+{
+  "player_id": 4975286,
+  "@id": "https://api.chess.com/pub/player/akdog3",
+  "url": "https://www.chess.com/member/akdog3",
+  "name": "Bill McGeary",
+  "username": "akdog3",
+  "title": "NM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Whidbey Island",
+  "last_online": 1776545492,
+  "joined": 1302571077,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2224,
+      "date": 1776528424,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1624501094,
+      "game": "https://www.chess.com/game/daily/281225928"
+    },
+    "record": {
+      "win": 653,
+      "loss": 219,
+      "draw": 74,
+      "time_per_move": 25736,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2321,
+      "date": 1623346689,
+      "rd": 246
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1623346689,
+      "game": "https://www.chess.com/game/live/17085730701"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2256,
+      "date": 1776545477,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1658272489,
+      "game": "https://www.chess.com/game/live/57716964117"
+    },
+    "record": {
+      "win": 8659,
+      "loss": 7580,
+      "draw": 660
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2028,
+      "date": 1768317830
+    },
+    "lowest": {
+      "rating": 1818,
+      "date": 1770305372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

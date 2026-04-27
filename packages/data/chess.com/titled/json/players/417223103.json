@@ -1,0 +1,79 @@
+{
+    "player_id": 417223103,
+    "@id": "https://api.chess.com/pub/player/chessmaster2011_1",
+    "url": "https://www.chess.com/member/ChessMaster2011_1",
+    "name": "Jake Shanty",
+    "username": "chessmaster2011_1",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741684827,
+    "joined": 1736700255,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2446,
+            "date": 1741340651,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2371,
+            "date": 1738675178,
+            "game": "https://www.chess.com/game/live/132250826501"
+        },
+        "record": {
+            "win": 27,
+            "loss": 14,
+            "draw": 7
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2307,
+            "date": 1737549330
+        },
+        "best": {
+            "rating": 1956,
+            "date": 1737549330,
+            "game": "https://www.chess.com/game/live/131288357355"
+        },
+        "record": {
+            "win": 4,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2642,
+            "date": 1741370414,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2642,
+            "date": 1741111730,
+            "game": "https://www.chess.com/game/live/134843955713"
+        },
+        "record": {
+            "win": 24,
+            "loss": 11,
+            "draw": 3
+        }
+    },
+    "fide": 2307,
+    "tactics": {
+        "highest": {
+            "rating": 3638,
+            "date": 1740976690
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1736700255
+        }
+    },
+    "puzzle_rush": {}
+}

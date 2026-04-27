@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44583146.4ebd84b6.200x200o.2755021b8ae5.jpg",
+  "player_id": 44583146,
+  "@id": "https://api.chess.com/pub/player/ac_20",
+  "url": "https://www.chess.com/member/AC_20",
+  "name": "Anand Chandra",
+  "username": "ac_20",
+  "title": "NM",
+  "followers": 157,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Calgary",
+  "last_online": 1773094079,
+  "joined": 1521843193,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1801,
+      "date": 1773231854,
+      "rd": 89
+    },
+    "best": {
+      "rating": 1801,
+      "date": 1675011403,
+      "game": "https://www.chess.com/game/daily/199572904"
+    },
+    "record": {
+      "win": 58,
+      "loss": 50,
+      "draw": 2,
+      "time_per_move": 51514,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2153,
+      "date": 1762750423,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1701630466,
+      "game": "https://www.chess.com/game/live/65939520505"
+    },
+    "record": {
+      "win": 64,
+      "loss": 74,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2520,
+      "date": 1772734922,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2726,
+      "date": 1767486086,
+      "game": "https://www.chess.com/game/live/120610825143"
+    },
+    "record": {
+      "win": 1735,
+      "loss": 1283,
+      "draw": 143
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2346,
+      "date": 1753216735,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1700613197,
+      "game": "https://www.chess.com/game/live/94322547673"
+    },
+    "record": {
+      "win": 1223,
+      "loss": 775,
+      "draw": 99
+    }
+  },
+  "fide": 3000,
+  "tactics": {
+    "highest": {
+      "rating": 2290,
+      "date": 1761786386
+    },
+    "lowest": {
+      "rating": 1860,
+      "date": 1762750213
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

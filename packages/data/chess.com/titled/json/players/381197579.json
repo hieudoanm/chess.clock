@@ -1,0 +1,82 @@
+{
+  "player_id": 381197579,
+  "@id": "https://api.chess.com/pub/player/gmzinnai",
+  "url": "https://www.chess.com/member/GMZinnai",
+  "name": "Graziano Matteo Zinnai",
+  "username": "gmzinnai",
+  "title": "NM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1771697461,
+  "joined": 1723737726,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1604,
+      "date": 1767639580,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1604,
+      "date": 1767639579,
+      "game": "https://www.chess.com/game/daily/909392241"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 654,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1749306018,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2088,
+      "date": 1740228073,
+      "game": "https://www.chess.com/game/live/133966748907"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2308,
+      "date": 1763613784,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1763613784,
+      "game": "https://www.chess.com/game/live/117909645281"
+    },
+    "record": {
+      "win": 47,
+      "loss": 41,
+      "draw": 6
+    }
+  },
+  "fide": 2088,
+  "tactics": {
+    "highest": {
+      "rating": 2304,
+      "date": 1723737726
+    },
+    "lowest": {
+      "rating": 2304,
+      "date": 1723737726
+    }
+  },
+  "puzzle_rush": {}
+}

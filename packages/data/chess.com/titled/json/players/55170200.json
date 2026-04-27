@@ -1,0 +1,105 @@
+{
+  "player_id": 55170200,
+  "@id": "https://api.chess.com/pub/player/vulcanochess",
+  "url": "https://www.chess.com/member/Vulcanochess",
+  "name": "Jesus Galvan",
+  "username": "vulcanochess",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776269044,
+  "joined": 1545904644,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1796,
+      "date": 1718353768,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1560336073,
+      "game": "https://www.chess.com/game/daily/244922762"
+    },
+    "record": {
+      "win": 143,
+      "loss": 58,
+      "draw": 14,
+      "time_per_move": 87897,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1859,
+      "date": 1556740869,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1859,
+      "date": 1556740869,
+      "game": "https://www.chess.com/game/daily/225506964"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 87897,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2409,
+      "date": 1696180400,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1660644552,
+      "game": "https://www.chess.com/game/live/54383393163"
+    },
+    "record": {
+      "win": 530,
+      "loss": 428,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2185,
+      "date": 1762874078,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1643753266,
+      "game": "https://www.chess.com/game/live/37491691639"
+    },
+    "record": {
+      "win": 212,
+      "loss": 233,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2203,
+      "date": 1545904644
+    },
+    "lowest": {
+      "rating": 2203,
+      "date": 1545904644
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

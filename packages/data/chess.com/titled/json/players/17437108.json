@@ -1,0 +1,74 @@
+{
+  "player_id": 17437108,
+  "@id": "https://api.chess.com/pub/player/tomsk1",
+  "url": "https://www.chess.com/member/Tomsk1",
+  "name": "Victor Adler",
+  "username": "tomsk1",
+  "title": "IM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1497213862,
+  "joined": 1401042302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2479,
+      "date": 1404964315,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1402465629,
+      "game": "https://www.chess.com/game/live/856412165"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1396,
+      "date": 1441161892,
+      "rd": 182
+    },
+    "record": {
+      "win": 1,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1984,
+      "date": 1497240269,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1473635949,
+      "game": "https://www.chess.com/game/live/856329105"
+    },
+    "record": {
+      "win": 4297,
+      "loss": 3258,
+      "draw": 259
+    }
+  },
+  "fide": 2377,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1401042302
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1401042302
+    }
+  },
+  "puzzle_rush": {}
+}

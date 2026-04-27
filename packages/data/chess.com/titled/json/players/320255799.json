@@ -1,0 +1,83 @@
+{
+  "player_id": 320255799,
+  "@id": "https://api.chess.com/pub/player/spicyprime",
+  "url": "https://www.chess.com/member/spicyprime",
+  "username": "spicyprime",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776459907,
+  "joined": 1697601073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1728302475,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1858,
+      "date": 1697602800,
+      "game": "https://www.chess.com/game/live/91340974337"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2584,
+      "date": 1754895599,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1754832217,
+      "game": "https://www.chess.com/game/live/141713461636"
+    },
+    "record": {
+      "win": 70,
+      "loss": 32,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2690,
+      "date": 1776459830,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2754,
+      "date": 1775934534,
+      "game": "https://www.chess.com/game/live/166923056976"
+    },
+    "record": {
+      "win": 921,
+      "loss": 618,
+      "draw": 136
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2275,
+      "date": 1760570085
+    },
+    "lowest": {
+      "rating": 2168,
+      "date": 1760570253
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

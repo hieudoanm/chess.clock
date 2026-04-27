@@ -1,0 +1,104 @@
+{
+  "player_id": 6136652,
+  "@id": "https://api.chess.com/pub/player/peteryehmd",
+  "url": "https://www.chess.com/member/PeterYehMD",
+  "name": "Peter Yeh",
+  "username": "peteryehmd",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Houston",
+  "last_online": 1776517499,
+  "joined": 1321499373,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1848,
+      "date": 1776517489,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1612658063,
+      "game": "https://www.chess.com/game/daily/305326834"
+    },
+    "record": {
+      "win": 109,
+      "loss": 58,
+      "draw": 28,
+      "time_per_move": 63237,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2089,
+      "date": 1619833016,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1619831114,
+      "game": "https://www.chess.com/game/live/8375111471"
+    },
+    "record": {
+      "win": 18,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2144,
+      "date": 1655997386,
+      "rd": 136
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1377568964,
+      "game": "https://www.chess.com/game/live/567339855"
+    },
+    "record": {
+      "win": 393,
+      "loss": 233,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2133,
+      "date": 1696979044,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1616298820,
+      "game": "https://www.chess.com/game/live/6200244705"
+    },
+    "record": {
+      "win": 418,
+      "loss": 308,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1771797535
+    },
+    "lowest": {
+      "rating": 2137,
+      "date": 1757275405
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 40
+    }
+  }
+}

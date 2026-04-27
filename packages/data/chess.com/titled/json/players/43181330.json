@@ -1,0 +1,84 @@
+{
+  "player_id": 43181330,
+  "@id": "https://api.chess.com/pub/player/natrost2000",
+  "url": "https://www.chess.com/member/natrost2000",
+  "username": "natrost2000",
+  "title": "WFM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1769790630,
+  "joined": 1518216262,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2277,
+      "date": 1744221539,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1652241273,
+      "game": "https://www.chess.com/game/live/133393739653"
+    },
+    "record": {
+      "win": 1644,
+      "loss": 1584,
+      "draw": 257
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1832,
+      "date": 1665544657,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1912,
+      "date": 1658304561,
+      "game": "https://www.chess.com/game/live/52043374175"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1737239994,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1665543994,
+      "game": "https://www.chess.com/game/live/89260822821"
+    },
+    "record": {
+      "win": 2977,
+      "loss": 2708,
+      "draw": 428
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2195,
+      "date": 1518216262
+    },
+    "lowest": {
+      "rating": 2195,
+      "date": 1518216262
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    }
+  }
+}

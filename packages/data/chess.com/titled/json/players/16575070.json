@@ -1,0 +1,85 @@
+{
+  "player_id": 16575070,
+  "@id": "https://api.chess.com/pub/player/gmatingo",
+  "url": "https://www.chess.com/member/gmatingo",
+  "name": "Martin Diaz Vasquez",
+  "username": "gmatingo",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776555273,
+  "joined": 1395529853,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2436,
+      "date": 1775179326,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1717899159,
+      "game": "https://www.chess.com/game/live/110041324651"
+    },
+    "record": {
+      "win": 88,
+      "loss": 44,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2352,
+      "date": 1748298813,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1715222064,
+      "game": "https://www.chess.com/game/live/25571374293"
+    },
+    "record": {
+      "win": 270,
+      "loss": 249,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1750304845,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1691896117,
+      "game": "https://www.chess.com/game/live/85458141421"
+    },
+    "record": {
+      "win": 1684,
+      "loss": 1712,
+      "draw": 267
+    }
+  },
+  "fide": 2260,
+  "tactics": {
+    "highest": {
+      "rating": 2699,
+      "date": 1757982223
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1767495054
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 32192028,
+  "@id": "https://api.chess.com/pub/player/magnifico08",
+  "url": "https://www.chess.com/member/magnifico08",
+  "username": "magnifico08",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776589219,
+  "joined": 1483734170,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1419,
+      "date": 1742218032,
+      "rd": 335
+    },
+    "best": {
+      "rating": 1419,
+      "date": 1695204910,
+      "game": "https://www.chess.com/game/daily/550879259"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 38623,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1770046139
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1764343194,
+      "game": "https://www.chess.com/game/live/39015052871"
+    },
+    "record": {
+      "win": 591,
+      "loss": 366,
+      "draw": 66
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2911,
+      "date": 1774901694,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2921,
+      "date": 1766925153,
+      "game": "https://www.chess.com/game/live/148445517690"
+    },
+    "record": {
+      "win": 5171,
+      "loss": 3996,
+      "draw": 603
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2809,
+      "date": 1776597082,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1775944705,
+      "game": "https://www.chess.com/game/live/165888493328"
+    },
+    "record": {
+      "win": 1548,
+      "loss": 1307,
+      "draw": 205
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2589,
+      "date": 1772099787
+    },
+    "lowest": {
+      "rating": 2431,
+      "date": 1771842881
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    },
+    "daily": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

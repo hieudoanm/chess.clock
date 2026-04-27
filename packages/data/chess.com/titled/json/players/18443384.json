@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18443384.ce7bec11.200x200o.8b5ed775bd7b.jpeg",
+  "player_id": 18443384,
+  "@id": "https://api.chess.com/pub/player/tmtw",
+  "url": "https://www.chess.com/member/TMTW",
+  "name": "Theo Wolchock",
+  "username": "tmtw",
+  "title": "NM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776530386,
+  "joined": 1407730789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1824,
+      "date": 1732354105,
+      "rd": 118
+    },
+    "best": {
+      "rating": 1824,
+      "date": 1700773489,
+      "game": "https://www.chess.com/game/daily/190342994"
+    },
+    "record": {
+      "win": 67,
+      "loss": 32,
+      "draw": 3,
+      "time_per_move": 17763,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2096,
+      "date": 1732258353,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1726251666,
+      "game": "https://www.chess.com/game/live/119989878647"
+    },
+    "record": {
+      "win": 21,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2246,
+      "date": 1776464597,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1730481137,
+      "game": "https://www.chess.com/game/live/127972177185"
+    },
+    "record": {
+      "win": 1774,
+      "loss": 1436,
+      "draw": 249
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2315,
+      "date": 1772580173,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1771973466,
+      "game": "https://www.chess.com/game/live/86315380103"
+    },
+    "record": {
+      "win": 519,
+      "loss": 395,
+      "draw": 59
+    }
+  },
+  "fide": 2254,
+  "tactics": {
+    "highest": {
+      "rating": 2622,
+      "date": 1407730789
+    },
+    "lowest": {
+      "rating": 2622,
+      "date": 1407730789
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

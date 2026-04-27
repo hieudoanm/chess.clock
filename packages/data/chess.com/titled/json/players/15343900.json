@@ -1,0 +1,122 @@
+{
+  "player_id": 15343900,
+  "@id": "https://api.chess.com/pub/player/sina101",
+  "url": "https://www.chess.com/member/sina101",
+  "name": "Sina Mohammadi",
+  "username": "sina101",
+  "title": "NM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775879760,
+  "joined": 1388522359,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1877,
+      "date": 1721230151,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1877,
+      "date": 1534262408,
+      "game": "https://www.chess.com/game/daily/131044218"
+    },
+    "record": {
+      "win": 85,
+      "loss": 26,
+      "draw": 9,
+      "time_per_move": 27317,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1402,
+      "date": 1403024485,
+      "rd": 285
+    },
+    "best": {
+      "rating": 1402,
+      "date": 1403024485,
+      "game": "https://www.chess.com/game/daily/91412766"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 27317,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1713938453,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1699855008,
+      "game": "https://www.chess.com/game/live/18934541709"
+    },
+    "record": {
+      "win": 18,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1775861462,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1749738307,
+      "game": "https://www.chess.com/game/live/53236197809"
+    },
+    "record": {
+      "win": 1859,
+      "loss": 1976,
+      "draw": 216
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2534,
+      "date": 1769210003,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1719718924,
+      "game": "https://www.chess.com/game/live/131214047033"
+    },
+    "record": {
+      "win": 3318,
+      "loss": 3548,
+      "draw": 509
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2628,
+      "date": 1767588298
+    },
+    "lowest": {
+      "rating": 2253,
+      "date": 1775825180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 64
+    }
+  }
+}

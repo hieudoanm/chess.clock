@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12163804.4b0c0f8e.200x200o.9c57a46b95fd.jpeg",
+  "player_id": 12163804,
+  "@id": "https://api.chess.com/pub/player/lrestevez",
+  "url": "https://www.chess.com/member/lrestevez",
+  "name": "Leonardo Estevez",
+  "username": "lrestevez",
+  "title": "FM",
+  "followers": 300,
+  "country": "https://api.chess.com/pub/country/DO",
+  "location": "Santiago de los Caballeros.",
+  "last_online": 1776482611,
+  "joined": 1370363476,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1750,
+      "date": 1751719096,
+      "rd": 107
+    },
+    "best": {
+      "rating": 1795,
+      "date": 1657121807,
+      "game": "https://www.chess.com/game/daily/230726202"
+    },
+    "record": {
+      "win": 31,
+      "loss": 25,
+      "draw": 4,
+      "time_per_move": 41191,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1530,
+      "date": 1745783197,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1600380506,
+      "game": "https://www.chess.com/game/live/6378614236"
+    },
+    "record": {
+      "win": 95,
+      "loss": 19,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1989,
+      "date": 1775696741,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2141,
+      "date": 1611188345,
+      "game": "https://www.chess.com/game/live/3359778243"
+    },
+    "record": {
+      "win": 730,
+      "loss": 482,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2187,
+      "date": 1776397278,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1766722596,
+      "game": "https://www.chess.com/game/live/88879374463"
+    },
+    "record": {
+      "win": 5689,
+      "loss": 5022,
+      "draw": 707
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2280,
+      "date": 1774556359
+    },
+    "lowest": {
+      "rating": 2122,
+      "date": 1776197624
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

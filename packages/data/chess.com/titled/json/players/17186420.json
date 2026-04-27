@@ -1,0 +1,68 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17186420.0c44dc75.200x200o.64a7df1594bc.jpeg",
+  "player_id": 17186420,
+  "@id": "https://api.chess.com/pub/player/feryultra",
+  "url": "https://www.chess.com/member/Feryultra",
+  "username": "feryultra",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1759309199,
+  "joined": 1399320431,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2137,
+      "date": 1704739759,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1421873535,
+      "game": "https://www.chess.com/game/daily/117062886"
+    },
+    "record": {
+      "win": 25,
+      "loss": 15,
+      "draw": 10,
+      "time_per_move": 30003,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2315,
+      "date": 1520715919,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1520715919,
+      "game": "https://www.chess.com/game/live/2668950110"
+    },
+    "record": {
+      "win": 132,
+      "loss": 107,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2573,
+      "date": 1399320431
+    },
+    "lowest": {
+      "rating": 2573,
+      "date": 1399320431
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 31
+    }
+  }
+}

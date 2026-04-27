@@ -1,0 +1,85 @@
+{
+  "player_id": 73973708,
+  "@id": "https://api.chess.com/pub/player/sgchess01",
+  "url": "https://www.chess.com/member/SGchess01",
+  "name": "Szymon Gumularz",
+  "username": "sgchess01",
+  "title": "GM",
+  "followers": 344,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776298247,
+  "joined": 1584729681,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2435,
+      "date": 1744565075,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1598553759,
+      "game": "https://www.chess.com/game/live/5359067108"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2984,
+      "date": 1769027439,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2989,
+      "date": 1769027347,
+      "game": "https://www.chess.com/game/live/148312127488"
+    },
+    "record": {
+      "win": 1157,
+      "loss": 734,
+      "draw": 173
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3044,
+      "date": 1775080536,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3160,
+      "date": 1770289166,
+      "game": "https://www.chess.com/game/live/131653183067"
+    },
+    "record": {
+      "win": 7701,
+      "loss": 5264,
+      "draw": 2014
+    }
+  },
+  "fide": 2562,
+  "tactics": {
+    "highest": {
+      "rating": 2764,
+      "date": 1584729681
+    },
+    "lowest": {
+      "rating": 2764,
+      "date": 1584729681
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

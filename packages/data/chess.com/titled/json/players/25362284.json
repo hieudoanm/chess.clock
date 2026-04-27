@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25362284.b8e80a1f.200x200o.8a5638417896.jpeg",
+  "player_id": 25362284,
+  "@id": "https://api.chess.com/pub/player/ekurtz",
+  "url": "https://www.chess.com/member/ekurtz",
+  "name": "Eric Kurtz",
+  "username": "ekurtz",
+  "title": "NM",
+  "followers": 215,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775584389,
+  "joined": 1449018241,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1737,
+      "date": 1761035308,
+      "rd": 234
+    },
+    "best": {
+      "rating": 1737,
+      "date": 1729453822,
+      "game": "https://www.chess.com/game/daily/672084303"
+    },
+    "record": {
+      "win": 20,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 9708,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2413,
+      "date": 1771566025,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1760140119,
+      "game": "https://www.chess.com/game/live/144285280636"
+    },
+    "record": {
+      "win": 1407,
+      "loss": 1194,
+      "draw": 210
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2548,
+      "date": 1763613649,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1763613649,
+      "game": "https://www.chess.com/game/live/1587185060"
+    },
+    "record": {
+      "win": 959,
+      "loss": 899,
+      "draw": 71
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2903,
+      "date": 1761983822,
+      "rd": 14
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1751045117,
+      "game": "https://www.chess.com/game/live/132953415805"
+    },
+    "record": {
+      "win": 21127,
+      "loss": 21905,
+      "draw": 2688
+    }
+  },
+  "fide": 1958,
+  "tactics": {
+    "highest": {
+      "rating": 2349,
+      "date": 1771468138
+    },
+    "lowest": {
+      "rating": 2070,
+      "date": 1774113818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

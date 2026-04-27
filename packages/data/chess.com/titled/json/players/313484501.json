@@ -1,0 +1,83 @@
+{
+    "player_id": 313484501,
+    "@id": "https://api.chess.com/pub/player/perplexingperfection",
+    "url": "https://www.chess.com/member/PerplexingPerfection",
+    "username": "perplexingperfection",
+    "title": "FM",
+    "followers": 53,
+    "country": "https://api.chess.com/pub/country/CN",
+    "last_online": 1741646193,
+    "joined": 1694959382,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2794,
+            "date": 1696908161,
+            "rd": 346
+        },
+        "best": {
+            "rating": 2794,
+            "date": 1696908161,
+            "game": "https://www.chess.com/game/live/90646762035"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2984,
+            "date": 1741631578,
+            "rd": 26
+        },
+        "best": {
+            "rating": 3194,
+            "date": 1735836673,
+            "game": "https://www.chess.com/game/live/103244552127"
+        },
+        "record": {
+            "win": 5918,
+            "loss": 3597,
+            "draw": 791
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3015,
+            "date": 1741567298,
+            "rd": 32
+        },
+        "best": {
+            "rating": 3071,
+            "date": 1735515446,
+            "game": "https://www.chess.com/game/live/129509588073"
+        },
+        "record": {
+            "win": 1101,
+            "loss": 702,
+            "draw": 258
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3560,
+            "date": 1726330655
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1694959382
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 62,
+            "score": 59
+        }
+    }
+}

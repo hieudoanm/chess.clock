@@ -1,0 +1,98 @@
+{
+  "player_id": 59347692,
+  "@id": "https://api.chess.com/pub/player/mimihh",
+  "url": "https://www.chess.com/member/Mimihh",
+  "username": "mimihh",
+  "title": "FM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/DZ",
+  "last_online": 1776537313,
+  "joined": 1554292203,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1669,
+      "date": 1766868417,
+      "rd": 249
+    },
+    "record": {
+      "win": 1,
+      "loss": 22,
+      "draw": 0,
+      "time_per_move": 349180,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2114,
+      "date": 1769417761,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1678352146,
+      "game": "https://www.chess.com/game/live/48355741145"
+    },
+    "record": {
+      "win": 21,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2041,
+      "date": 1770739780,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1639667789,
+      "game": "https://www.chess.com/game/live/32711364767"
+    },
+    "record": {
+      "win": 499,
+      "loss": 593,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2376,
+      "date": 1776532223,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2424,
+      "date": 1766781515,
+      "game": "https://www.chess.com/game/live/10069330863"
+    },
+    "record": {
+      "win": 8994,
+      "loss": 10193,
+      "draw": 1105
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2220,
+      "date": 1757878549
+    },
+    "lowest": {
+      "rating": 2076,
+      "date": 1758383674
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

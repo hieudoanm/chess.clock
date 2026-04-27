@@ -1,0 +1,85 @@
+{
+  "player_id": 78030094,
+  "@id": "https://api.chess.com/pub/player/roshka_yevgeniy",
+  "url": "https://www.chess.com/member/Roshka_Yevgeniy",
+  "name": "Yevgeniy Roshka",
+  "username": "roshka_yevgeniy",
+  "title": "IM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kyiv",
+  "last_online": 1641322950,
+  "joined": 1588073127,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2266,
+      "date": 1631119059,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1593277453,
+      "game": "https://www.chess.com/game/live/5891431966"
+    },
+    "record": {
+      "win": 9,
+      "loss": 16,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1614,
+      "date": 1590955965,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1464,
+      "date": 1590955965,
+      "game": "https://www.chess.com/game/live/4934724627"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2827,
+      "date": 1641323160,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1641322446,
+      "game": "https://www.chess.com/game/live/35059948981"
+    },
+    "record": {
+      "win": 174,
+      "loss": 113,
+      "draw": 38
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1588073127
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1588073127
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 53
+    }
+  }
+}

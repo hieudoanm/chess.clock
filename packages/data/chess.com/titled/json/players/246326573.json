@@ -1,0 +1,83 @@
+{
+  "player_id": 246326573,
+  "@id": "https://api.chess.com/pub/player/king2121212",
+  "url": "https://www.chess.com/member/king2121212",
+  "username": "king2121212",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1689797953,
+  "joined": 1676446949,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2487,
+      "date": 1697205437,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1677259228,
+      "game": "https://www.chess.com/game/live/83070276781"
+    },
+    "record": {
+      "win": 84,
+      "loss": 39,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2203,
+      "date": 1687867433,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1676898629,
+      "game": "https://www.chess.com/game/live/71773445651"
+    },
+    "record": {
+      "win": 51,
+      "loss": 37,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2351,
+      "date": 1688747854,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1676825153,
+      "game": "https://www.chess.com/game/live/70459980633"
+    },
+    "record": {
+      "win": 90,
+      "loss": 35,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2544,
+      "date": 1676446949
+    },
+    "lowest": {
+      "rating": 2544,
+      "date": 1676446949
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

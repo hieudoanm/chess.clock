@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/573771.b1488267.200x200o.c3da92830c79.jpeg",
+  "player_id": 573771,
+  "@id": "https://api.chess.com/pub/player/brianwall",
+  "url": "https://www.chess.com/member/BrianWall",
+  "name": "Brian Wall",
+  "username": "brianwall",
+  "title": "NM",
+  "followers": 544,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Thornton, CO",
+  "last_online": 1776592826,
+  "joined": 1196611219,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1776587536,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1408202196,
+      "game": "https://www.chess.com/game/daily/128351790"
+    },
+    "record": {
+      "win": 137,
+      "loss": 29,
+      "draw": 9,
+      "time_per_move": 19075,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2105,
+      "date": 1762390686,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1605500100,
+      "game": "https://www.chess.com/game/live/41391014475"
+    },
+    "record": {
+      "win": 479,
+      "loss": 86,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1844,
+      "date": 1696979874,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1569131989,
+      "game": "https://www.chess.com/game/live/4054132570"
+    },
+    "record": {
+      "win": 59,
+      "loss": 30,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2363,
+      "date": 1776592575,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1760862443,
+      "game": "https://www.chess.com/game/live/148017005870"
+    },
+    "record": {
+      "win": 10116,
+      "loss": 8045,
+      "draw": 1805
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2841,
+      "date": 1196611219
+    },
+    "lowest": {
+      "rating": 2841,
+      "date": 1196611219
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

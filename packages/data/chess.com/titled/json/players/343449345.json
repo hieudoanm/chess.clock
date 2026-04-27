@@ -1,0 +1,99 @@
+{
+  "player_id": 343449345,
+  "@id": "https://api.chess.com/pub/player/canidatemaster",
+  "url": "https://www.chess.com/member/CanidateMaster",
+  "name": "Quang Huy Bui",
+  "username": "canidatemaster",
+  "title": "NM",
+  "followers": 183,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776249886,
+  "joined": 1707144550,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1495,
+      "date": 1776148248,
+      "rd": 90
+    },
+    "best": {
+      "rating": 1668,
+      "date": 1765438292,
+      "game": "https://www.chess.com/game/daily/877281591"
+    },
+    "record": {
+      "win": 11,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 45178,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2553,
+      "date": 1776188420,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1775726017,
+      "game": "https://www.chess.com/game/live/164542527862"
+    },
+    "record": {
+      "win": 570,
+      "loss": 425,
+      "draw": 114
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2158,
+      "date": 1750086027,
+      "rd": 249
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2730,
+      "date": 1776186756,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1776186756,
+      "game": "https://www.chess.com/game/live/165657615381"
+    },
+    "record": {
+      "win": 886,
+      "loss": 792,
+      "draw": 114
+    }
+  },
+  "fide": 1951,
+  "tactics": {
+    "highest": {
+      "rating": 2658,
+      "date": 1775550443
+    },
+    "lowest": {
+      "rating": 2334,
+      "date": 1776005493
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 16112192,
+  "@id": "https://api.chess.com/pub/player/dragzor",
+  "url": "https://www.chess.com/member/dragzor",
+  "name": "Dusko Zmijanac",
+  "username": "dragzor",
+  "title": "FM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Zemun",
+  "last_online": 1776582323,
+  "joined": 1392743861,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1176,
+      "date": 1654264362,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1315,
+      "date": 1624481385,
+      "game": "https://www.chess.com/game/live/18220274635"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1821,
+      "date": 1759599599,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1738429322,
+      "game": "https://www.chess.com/game/live/143025622065"
+    },
+    "record": {
+      "win": 1801,
+      "loss": 2038,
+      "draw": 107
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2127,
+      "date": 1776582001,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2489,
+      "date": 1754931400,
+      "game": "https://www.chess.com/game/live/31353039643"
+    },
+    "record": {
+      "win": 50989,
+      "loss": 45901,
+      "draw": 6185
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2212,
+      "date": 1392743861
+    },
+    "lowest": {
+      "rating": 2212,
+      "date": 1392743861
+    }
+  },
+  "puzzle_rush": {}
+}

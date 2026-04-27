@@ -1,0 +1,66 @@
+{
+  "player_id": 55384030,
+  "@id": "https://api.chess.com/pub/player/gundcito",
+  "url": "https://www.chess.com/member/gundcito",
+  "username": "gundcito",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/PM",
+  "last_online": 1776599893,
+  "joined": 1546347182,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2343,
+      "date": 1724412847,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1724412847,
+      "game": "https://www.chess.com/game/live/4897391891"
+    },
+    "record": {
+      "win": 30,
+      "loss": 22,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1776589542,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1776589542,
+      "game": "https://www.chess.com/game/live/5616252845"
+    },
+    "record": {
+      "win": 3273,
+      "loss": 2243,
+      "draw": 464
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2785,
+      "date": 1775422589
+    },
+    "lowest": {
+      "rating": 2688,
+      "date": 1773009323
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

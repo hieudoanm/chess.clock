@@ -1,0 +1,84 @@
+{
+  "player_id": 79972822,
+  "@id": "https://api.chess.com/pub/player/alexsuv",
+  "url": "https://www.chess.com/member/AlexSuv",
+  "name": "Alexander Suvorov",
+  "username": "alexsuv",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1766827432,
+  "joined": 1589913354,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2351,
+      "date": 1611776731,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1611776731,
+      "game": "https://www.chess.com/game/live/6366329802"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2472,
+      "date": 1594226875,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1591376892,
+      "game": "https://www.chess.com/game/live/4957314292"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2589,
+      "date": 1764090038,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2849,
+      "date": 1591124279,
+      "game": "https://www.chess.com/game/live/4943531627"
+    },
+    "record": {
+      "win": 781,
+      "loss": 597,
+      "draw": 178
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1589913354
+    },
+    "lowest": {
+      "rating": 2453,
+      "date": 1589913354
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

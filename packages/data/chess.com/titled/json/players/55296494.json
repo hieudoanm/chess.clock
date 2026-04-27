@@ -1,0 +1,85 @@
+{
+  "player_id": 55296494,
+  "@id": "https://api.chess.com/pub/player/battever",
+  "url": "https://www.chess.com/member/Battever",
+  "name": "Marcos Camacho Collados",
+  "username": "battever",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1706734576,
+  "joined": 1546154093,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1614030936,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1610486992,
+      "game": "https://www.chess.com/game/live/6275711663"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2590,
+      "date": 1592606353,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1592606353,
+      "game": "https://www.chess.com/game/live/5027795938"
+    },
+    "record": {
+      "win": 33,
+      "loss": 17,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1696978864,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1565344621,
+      "game": "https://www.chess.com/game/live/82243331333"
+    },
+    "record": {
+      "win": 422,
+      "loss": 313,
+      "draw": 36
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1546154093
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1546154093
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/152991204.cbf7655d.200x200o.47cc21f526d1.png",
+  "player_id": 152991204,
+  "@id": "https://api.chess.com/pub/player/mijuliensong",
+  "url": "https://www.chess.com/member/MIJulienSong",
+  "name": "Julien Song",
+  "username": "mijuliensong",
+  "title": "IM",
+  "followers": 10678,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Paris",
+  "last_online": 1776553554,
+  "joined": 1630407743,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 628,
+      "date": 1696152587,
+      "rd": 281
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 270240,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1499,
+      "date": 1748362164,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1561,
+      "date": 1718048737,
+      "game": "https://www.chess.com/game/live/33314661009"
+    },
+    "record": {
+      "win": 67,
+      "loss": 21,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1508,
+      "date": 1764598053,
+      "rd": 92
+    },
+    "best": {
+      "rating": 1697,
+      "date": 1695069014,
+      "game": "https://www.chess.com/game/live/146182294658"
+    },
+    "record": {
+      "win": 45,
+      "loss": 29,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1776534330,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1754604726,
+      "game": "https://www.chess.com/game/live/57425188091"
+    },
+    "record": {
+      "win": 691,
+      "loss": 398,
+      "draw": 102
+    }
+  },
+  "fide": 2388,
+  "tactics": {
+    "highest": {
+      "rating": 2762,
+      "date": 1771449700
+    },
+    "lowest": {
+      "rating": 2762,
+      "date": 1771449700
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/352890995.ec707c71.200x200o.db2c244a3c3d.jpg",
+  "player_id": 352890995,
+  "@id": "https://api.chess.com/pub/player/waggx",
+  "url": "https://www.chess.com/member/waggx",
+  "username": "waggx",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776592223,
+  "joined": 1711304065,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1746,
+      "date": 1761413665,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1746,
+      "date": 1729328543,
+      "game": "https://www.chess.com/game/daily/701965843"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 41123,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2404,
+      "date": 1776434408,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1771363998,
+      "game": "https://www.chess.com/game/live/144361982914"
+    },
+    "record": {
+      "win": 76,
+      "loss": 14,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2153,
+      "date": 1756204884,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1734275399,
+      "game": "https://www.chess.com/game/live/128014203993"
+    },
+    "record": {
+      "win": 42,
+      "loss": 41,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2410,
+      "date": 1776438072,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2478,
+      "date": 1720003277,
+      "game": "https://www.chess.com/game/live/114261600221"
+    },
+    "record": {
+      "win": 627,
+      "loss": 431,
+      "draw": 73
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2745,
+      "date": 1760961843
+    },
+    "lowest": {
+      "rating": 2589,
+      "date": 1755599380
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 31
+    }
+  }
+}

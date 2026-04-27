@@ -1,0 +1,99 @@
+{
+  "player_id": 37408950,
+  "@id": "https://api.chess.com/pub/player/ghostofgreenval",
+  "url": "https://www.chess.com/member/GhostOfGreenval",
+  "name": "Anand Nadar",
+  "username": "ghostofgreenval",
+  "title": "IM",
+  "followers": 167,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1771566831,
+  "joined": 1501360760,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1584469579,
+      "rd": 350
+    },
+    "record": {
+      "win": 6,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 75156,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1984,
+      "date": 1751800984,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1727614314,
+      "game": "https://www.chess.com/game/live/123760854701"
+    },
+    "record": {
+      "win": 16,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2790,
+      "date": 1543770578,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1543770260,
+      "game": "https://www.chess.com/game/live/3262147198"
+    },
+    "record": {
+      "win": 670,
+      "loss": 679,
+      "draw": 98
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2570,
+      "date": 1771566821,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2857,
+      "date": 1543527101,
+      "game": "https://www.chess.com/game/live/3253686811"
+    },
+    "record": {
+      "win": 1774,
+      "loss": 1841,
+      "draw": 402
+    }
+  },
+  "fide": 2373,
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1501360760
+    },
+    "lowest": {
+      "rating": 2461,
+      "date": 1501360760
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

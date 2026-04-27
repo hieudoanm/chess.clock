@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/373242241.657b1e6a.200x200o.bc280a64141a.jpg",
+  "player_id": 373242241,
+  "@id": "https://api.chess.com/pub/player/atomicaxis",
+  "url": "https://www.chess.com/member/AtomicAxis",
+  "username": "atomicaxis",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775724356,
+  "joined": 1720014455,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2441,
+      "date": 1775679893,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1769178191,
+      "game": "https://www.chess.com/game/live/147671204322"
+    },
+    "record": {
+      "win": 129,
+      "loss": 91,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1896,
+      "date": 1720028365,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1961,
+      "date": 1720028229,
+      "game": "https://www.chess.com/game/live/113767184071"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2150,
+      "date": 1746543021,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1734717152,
+      "game": "https://www.chess.com/game/live/128455999619"
+    },
+    "record": {
+      "win": 35,
+      "loss": 26,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2641,
+      "date": 1760026196
+    },
+    "lowest": {
+      "rating": 2565,
+      "date": 1756021241
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

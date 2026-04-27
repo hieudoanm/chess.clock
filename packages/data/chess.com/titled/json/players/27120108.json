@@ -1,0 +1,85 @@
+{
+  "player_id": 27120108,
+  "@id": "https://api.chess.com/pub/player/sofirop",
+  "url": "https://www.chess.com/member/sofirop",
+  "name": "Sofia Rodriguez",
+  "username": "sofirop",
+  "title": "WCM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/CO",
+  "location": "Cali",
+  "last_online": 1773537592,
+  "joined": 1457383481,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1922,
+      "date": 1730071728,
+      "rd": 349
+    },
+    "best": {
+      "rating": 1922,
+      "date": 1730071728,
+      "game": "https://www.chess.com/game/live/123810577917"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1406,
+      "date": 1727635840,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1437,
+      "date": 1502820644,
+      "game": "https://www.chess.com/game/live/2259489394"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1763,
+      "date": 1773537584,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1729078716,
+      "game": "https://www.chess.com/game/live/4204623251"
+    },
+    "record": {
+      "win": 237,
+      "loss": 247,
+      "draw": 13
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1652,
+      "date": 1457383481
+    },
+    "lowest": {
+      "rating": 1652,
+      "date": 1457383481
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

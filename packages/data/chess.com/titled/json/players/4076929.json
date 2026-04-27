@@ -1,0 +1,70 @@
+{
+  "player_id": 4076929,
+  "@id": "https://api.chess.com/pub/player/outblitzed",
+  "url": "https://www.chess.com/member/outblitzed",
+  "name": "Emiko Nakagawa",
+  "username": "outblitzed",
+  "title": "WCM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1696307303,
+  "joined": 1286259801,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1703638110,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2087,
+      "date": 1427100352,
+      "game": "https://www.chess.com/game/daily/106902530"
+    },
+    "record": {
+      "win": 54,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 17500,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2210,
+      "date": 1577064619,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1577063744,
+      "game": "https://www.chess.com/game/live/4325860010"
+    },
+    "record": {
+      "win": 49,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1286259801
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1286259801
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

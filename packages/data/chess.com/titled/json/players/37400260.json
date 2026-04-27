@@ -1,0 +1,67 @@
+{
+  "player_id": 37400260,
+  "@id": "https://api.chess.com/pub/player/randomo",
+  "url": "https://www.chess.com/member/randomo",
+  "name": "David Gertler",
+  "username": "randomo",
+  "title": "FM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776106623,
+  "joined": 1501337946,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2332,
+      "date": 1766257235,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1730640906,
+      "game": "https://www.chess.com/game/live/124244928499"
+    },
+    "record": {
+      "win": 309,
+      "loss": 159,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2419,
+      "date": 1771353845,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1766197874,
+      "game": "https://www.chess.com/game/live/76800172835"
+    },
+    "record": {
+      "win": 16068,
+      "loss": 13124,
+      "draw": 3053
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2359,
+      "date": 1766282048
+    },
+    "lowest": {
+      "rating": 2141,
+      "date": 1766368798
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29577020.294cc47e.200x200o.8dd953bb57c7.jpeg",
+  "player_id": 29577020,
+  "@id": "https://api.chess.com/pub/player/giraffe_chess",
+  "url": "https://www.chess.com/member/Giraffe_Chess",
+  "name": "Dave Mohan",
+  "username": "giraffe_chess",
+  "title": "NM",
+  "followers": 147,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776598625,
+  "joined": 1471799870,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1321,
+      "date": 1705576238,
+      "rd": 219
+    },
+    "best": {
+      "rating": 1848,
+      "date": 1589346603,
+      "game": "https://www.chess.com/game/daily/171860486"
+    },
+    "record": {
+      "win": 33,
+      "loss": 17,
+      "draw": 8,
+      "time_per_move": 13610,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2507,
+      "date": 1776538359,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1737941883,
+      "game": "https://www.chess.com/game/live/120276030227"
+    },
+    "record": {
+      "win": 564,
+      "loss": 258,
+      "draw": 71
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2690,
+      "date": 1776569138,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2763,
+      "date": 1770077721,
+      "game": "https://www.chess.com/game/live/166782311380"
+    },
+    "record": {
+      "win": 2101,
+      "loss": 1481,
+      "draw": 259
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1776539368,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1751384431,
+      "game": "https://www.chess.com/game/live/145111768483"
+    },
+    "record": {
+      "win": 2876,
+      "loss": 2122,
+      "draw": 427
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2475,
+      "date": 1771023233
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1774647098
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

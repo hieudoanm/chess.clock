@@ -1,0 +1,102 @@
+{
+  "player_id": 49995356,
+  "@id": "https://api.chess.com/pub/player/europe03",
+  "url": "https://www.chess.com/member/Europe03",
+  "username": "europe03",
+  "title": "WGM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1776545681,
+  "joined": 1537607913,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1751,
+      "date": 1664999256,
+      "rd": 150
+    },
+    "best": {
+      "rating": 1924,
+      "date": 1559392805,
+      "game": "https://www.chess.com/game/daily/227637130"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 24680,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2279,
+      "date": 1659120462,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1659120428,
+      "game": "https://www.chess.com/game/live/51913748909"
+    },
+    "record": {
+      "win": 15,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2421,
+      "date": 1599558737,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1599558449,
+      "game": "https://www.chess.com/game/live/5168406771"
+    },
+    "record": {
+      "win": 101,
+      "loss": 81,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1755297049,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1668246137,
+      "game": "https://www.chess.com/game/live/97950134249"
+    },
+    "record": {
+      "win": 295,
+      "loss": 265,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2660,
+      "date": 1758881428
+    },
+    "lowest": {
+      "rating": 2615,
+      "date": 1758895912
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

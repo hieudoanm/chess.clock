@@ -1,0 +1,85 @@
+{
+  "player_id": 75609598,
+  "@id": "https://api.chess.com/pub/player/aisha_zakirova",
+  "url": "https://www.chess.com/member/aisha_zakirova",
+  "name": "Aisha Zakirova",
+  "username": "aisha_zakirova",
+  "title": "WCM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "Almaty",
+  "last_online": 1653455053,
+  "joined": 1585988965,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1934,
+      "date": 1635694292,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1600432170,
+      "game": "https://www.chess.com/game/live/5781920864"
+    },
+    "record": {
+      "win": 90,
+      "loss": 45,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2217,
+      "date": 1623006659,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2222,
+      "date": 1623005990,
+      "game": "https://www.chess.com/game/live/16744518061"
+    },
+    "record": {
+      "win": 38,
+      "loss": 51,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2239,
+      "date": 1623021354,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2284,
+      "date": 1622833756,
+      "game": "https://www.chess.com/game/live/4911090923"
+    },
+    "record": {
+      "win": 97,
+      "loss": 133,
+      "draw": 15
+    }
+  },
+  "fide": 1585,
+  "tactics": {
+    "highest": {
+      "rating": 2169,
+      "date": 1585988965
+    },
+    "lowest": {
+      "rating": 2169,
+      "date": 1585988965
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

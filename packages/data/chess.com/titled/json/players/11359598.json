@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11359598.128cf362.200x200o.7f613262c8db.jpeg",
+  "player_id": 11359598,
+  "@id": "https://api.chess.com/pub/player/suneebaker",
+  "url": "https://www.chess.com/member/suneebaker",
+  "name": "Chris Baker",
+  "username": "suneebaker",
+  "title": "IM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Crawley",
+  "last_online": 1776599370,
+  "joined": 1364823227,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2033,
+      "date": 1719131302,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1614936643,
+      "game": "https://www.chess.com/game/daily/297572096"
+    },
+    "record": {
+      "win": 20,
+      "loss": 4,
+      "draw": 4,
+      "time_per_move": 34321,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1736974086,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1589997651,
+      "game": "https://www.chess.com/game/live/7762378575"
+    },
+    "record": {
+      "win": 58,
+      "loss": 19,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1857,
+      "date": 1678746326,
+      "rd": 136
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1615222136,
+      "game": "https://www.chess.com/game/live/12915357067"
+    },
+    "record": {
+      "win": 118,
+      "loss": 113,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2236,
+      "date": 1773758879,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1577101458,
+      "game": "https://www.chess.com/game/live/10495561343"
+    },
+    "record": {
+      "win": 3004,
+      "loss": 2174,
+      "draw": 521
+    }
+  },
+  "fide": 2186,
+  "tactics": {
+    "highest": {
+      "rating": 2492,
+      "date": 1766188935
+    },
+    "lowest": {
+      "rating": 2294,
+      "date": 1766261802
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "player_id": 436881075,
+  "@id": "https://api.chess.com/pub/player/titanium_15",
+  "url": "https://www.chess.com/member/Titanium_15",
+  "username": "titanium_15",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776575016,
+  "joined": 1741974462,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2142,
+      "date": 1742046677,
+      "rd": 210
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2185,
+      "date": 1776433758,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2185,
+      "date": 1764882673,
+      "game": "https://www.chess.com/game/live/146318847600"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2096,
+      "date": 1766812105
+    },
+    "lowest": {
+      "rating": 1932,
+      "date": 1766812245
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

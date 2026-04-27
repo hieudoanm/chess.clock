@@ -1,0 +1,83 @@
+{
+  "player_id": 46076050,
+  "@id": "https://api.chess.com/pub/player/marsik123456789",
+  "url": "https://www.chess.com/member/Marsik123456789",
+  "username": "marsik123456789",
+  "title": "WFM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/PY",
+  "last_online": 1776497355,
+  "joined": 1526002773,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2260,
+      "date": 1758946891,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1735554318,
+      "game": "https://www.chess.com/game/live/121840155603"
+    },
+    "record": {
+      "win": 246,
+      "loss": 148,
+      "draw": 48
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2095,
+      "date": 1746719780,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1984,
+      "date": 1719020902,
+      "game": "https://www.chess.com/game/live/112759771091"
+    },
+    "record": {
+      "win": 192,
+      "loss": 160,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2590,
+      "date": 1776493331,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1773581916,
+      "game": "https://www.chess.com/game/live/165976274392"
+    },
+    "record": {
+      "win": 1193,
+      "loss": 986,
+      "draw": 248
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1526002773
+    },
+    "lowest": {
+      "rating": 2471,
+      "date": 1526002773
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

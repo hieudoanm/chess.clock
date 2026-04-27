@@ -1,0 +1,104 @@
+{
+  "player_id": 4632991,
+  "@id": "https://api.chess.com/pub/player/kyiv-1",
+  "url": "https://www.chess.com/member/Kyiv-1",
+  "name": "Ivan Martynenko",
+  "username": "kyiv-1",
+  "title": "NM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776573587,
+  "joined": 1296359096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1896,
+      "date": 1776566770,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1972,
+      "date": 1748136739,
+      "game": "https://www.chess.com/game/daily/728644341"
+    },
+    "record": {
+      "win": 121,
+      "loss": 36,
+      "draw": 14,
+      "time_per_move": 16106,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2232,
+      "date": 1747278514,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1602529781,
+      "game": "https://www.chess.com/game/live/45601800577"
+    },
+    "record": {
+      "win": 123,
+      "loss": 110,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2288,
+      "date": 1775855858,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1602018428,
+      "game": "https://www.chess.com/game/live/95113186611"
+    },
+    "record": {
+      "win": 4133,
+      "loss": 4160,
+      "draw": 505
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2457,
+      "date": 1776568794,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1775087001,
+      "game": "https://www.chess.com/game/live/110043143957"
+    },
+    "record": {
+      "win": 7796,
+      "loss": 7896,
+      "draw": 1131
+    }
+  },
+  "fide": 2248,
+  "tactics": {
+    "highest": {
+      "rating": 2479,
+      "date": 1764115173
+    },
+    "lowest": {
+      "rating": 2255,
+      "date": 1755566748
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

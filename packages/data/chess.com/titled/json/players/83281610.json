@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/83281610.736c4875.200x200o.dc96fc15765f.jpg",
+  "player_id": 83281610,
+  "@id": "https://api.chess.com/pub/player/kommfrankfurtjunge",
+  "url": "https://www.chess.com/member/kommfrankfurtjunge",
+  "name": "Christoph Peil",
+  "username": "kommfrankfurtjunge",
+  "title": "FM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776548779,
+  "joined": 1592510509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1570,
+      "date": 1753284501,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1592510509,
+      "game": "https://www.chess.com/game/daily/587092317"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 16457,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2370,
+      "date": 1775330682,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1635608244,
+      "game": "https://www.chess.com/game/live/99443590655"
+    },
+    "record": {
+      "win": 195,
+      "loss": 103,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2342,
+      "date": 1771099577,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1757273968,
+      "game": "https://www.chess.com/game/live/129589392677"
+    },
+    "record": {
+      "win": 103,
+      "loss": 66,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2391,
+      "date": 1776337018,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1769772666,
+      "game": "https://www.chess.com/game/live/139749186982"
+    },
+    "record": {
+      "win": 2048,
+      "loss": 1550,
+      "draw": 267
+    }
+  },
+  "fide": 2295,
+  "tactics": {
+    "highest": {
+      "rating": 2526,
+      "date": 1768219650
+    },
+    "lowest": {
+      "rating": 2340,
+      "date": 1768220067
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

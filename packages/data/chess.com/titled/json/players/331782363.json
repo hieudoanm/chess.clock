@@ -1,0 +1,83 @@
+{
+  "player_id": 331782363,
+  "@id": "https://api.chess.com/pub/player/chessdestroyer102",
+  "url": "https://www.chess.com/member/ChessDestroyer102",
+  "username": "chessdestroyer102",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/OM",
+  "last_online": 1776590273,
+  "joined": 1702323794,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2262,
+      "date": 1716982722,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2263,
+      "date": 1716039971,
+      "game": "https://www.chess.com/game/live/109076385623"
+    },
+    "record": {
+      "win": 27,
+      "loss": 10,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2564,
+      "date": 1776590267,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1772140978,
+      "game": "https://www.chess.com/game/live/166619929010"
+    },
+    "record": {
+      "win": 278,
+      "loss": 255,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2682,
+      "date": 1776587949,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1775174506,
+      "game": "https://www.chess.com/game/live/164465218816"
+    },
+    "record": {
+      "win": 1283,
+      "loss": 1215,
+      "draw": 248
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2224,
+      "date": 1774904324
+    },
+    "lowest": {
+      "rating": 1973,
+      "date": 1766791260
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

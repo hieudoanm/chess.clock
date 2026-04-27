@@ -1,0 +1,103 @@
+{
+  "player_id": 22841190,
+  "@id": "https://api.chess.com/pub/player/prxcess_brownie",
+  "url": "https://www.chess.com/member/prxcess_brownie",
+  "name": "Raehanna Brown",
+  "username": "prxcess_brownie",
+  "title": "WFM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/LU",
+  "last_online": 1775623750,
+  "joined": 1434419130,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1519,
+      "date": 1744964455,
+      "rd": 68
+    },
+    "best": {
+      "rating": 1541,
+      "date": 1522275010,
+      "game": "https://www.chess.com/game/daily/187511700"
+    },
+    "record": {
+      "win": 50,
+      "loss": 19,
+      "draw": 1,
+      "time_per_move": 8401,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1743,
+      "date": 1682346707,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1820,
+      "date": 1625426124,
+      "game": "https://www.chess.com/game/live/19162040009"
+    },
+    "record": {
+      "win": 50,
+      "loss": 32,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1885,
+      "date": 1682117485,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1907,
+      "date": 1682114309,
+      "game": "https://www.chess.com/game/live/75853261789"
+    },
+    "record": {
+      "win": 1040,
+      "loss": 985,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2403,
+      "date": 1769894325,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1769894325,
+      "game": "https://www.chess.com/game/live/77989439549"
+    },
+    "record": {
+      "win": 996,
+      "loss": 905,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2621,
+      "date": 1763405228
+    },
+    "lowest": {
+      "rating": 2312,
+      "date": 1769645936
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

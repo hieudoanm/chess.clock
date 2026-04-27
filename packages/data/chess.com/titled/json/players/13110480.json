@@ -1,0 +1,103 @@
+{
+  "player_id": 13110480,
+  "@id": "https://api.chess.com/pub/player/novakdjokovic142",
+  "url": "https://www.chess.com/member/novakdjokovic142",
+  "username": "novakdjokovic142",
+  "title": "IM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776166456,
+  "joined": 1376276485,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1045,
+      "date": 1711644382,
+      "rd": 239
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1376276485,
+      "game": "https://www.chess.com/game/daily/269655542"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3002,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1711644340,
+      "rd": 289
+    },
+    "best": {
+      "rating": 1589,
+      "date": 1594339516,
+      "game": "https://www.chess.com/game/live/657265875"
+    },
+    "record": {
+      "win": 15,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1711644340,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2142,
+      "date": 1572578225,
+      "game": "https://www.chess.com/game/live/4153373150"
+    },
+    "record": {
+      "win": 48,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2763,
+      "date": 1776047572,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2874,
+      "date": 1752551989,
+      "game": "https://www.chess.com/game/live/127939208253"
+    },
+    "record": {
+      "win": 2807,
+      "loss": 2346,
+      "draw": 545
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2297,
+      "date": 1376276485
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1376276485
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

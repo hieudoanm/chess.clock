@@ -1,0 +1,85 @@
+{
+  "player_id": 67805540,
+  "@id": "https://api.chess.com/pub/player/vyacheslav_n",
+  "url": "https://www.chess.com/member/Vyacheslav_N",
+  "name": "Viacheslav I. Neklyudov",
+  "username": "vyacheslav_n",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776372691,
+  "joined": 1573404278,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2009,
+      "date": 1725936241,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2009,
+      "date": 1725936241,
+      "game": "https://www.chess.com/game/live/119674787113"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2210,
+      "date": 1743499191,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2438,
+      "date": 1682419087,
+      "game": "https://www.chess.com/game/live/83185051907"
+    },
+    "record": {
+      "win": 297,
+      "loss": 364,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2474,
+      "date": 1771599827,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1583258749,
+      "game": "https://www.chess.com/game/live/6090772221"
+    },
+    "record": {
+      "win": 126,
+      "loss": 150,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2288,
+      "date": 1757319962
+    },
+    "lowest": {
+      "rating": 2018,
+      "date": 1769965729
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

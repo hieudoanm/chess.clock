@@ -1,0 +1,103 @@
+{
+  "player_id": 19088228,
+  "@id": "https://api.chess.com/pub/player/norwaytoadog",
+  "url": "https://www.chess.com/member/norwaytoadog",
+  "name": "Christopher Chabris",
+  "username": "norwaytoadog",
+  "title": "CM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1772941658,
+  "joined": 1411935341,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2134,
+      "date": 1706026067,
+      "rd": 253
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1591066779,
+      "game": "https://www.chess.com/game/daily/264592022"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11837,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2112,
+      "date": 1720897225,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1611196727,
+      "game": "https://www.chess.com/game/live/17337195081"
+    },
+    "record": {
+      "win": 73,
+      "loss": 78,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2204,
+      "date": 1699466021,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2263,
+      "date": 1678567420,
+      "game": "https://www.chess.com/game/live/72306222303"
+    },
+    "record": {
+      "win": 41,
+      "loss": 38,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2331,
+      "date": 1742335396,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1686091335,
+      "game": "https://www.chess.com/game/live/78709324811"
+    },
+    "record": {
+      "win": 1098,
+      "loss": 1310,
+      "draw": 164
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2563,
+      "date": 1411935341
+    },
+    "lowest": {
+      "rating": 2563,
+      "date": 1411935341
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

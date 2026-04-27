@@ -1,0 +1,84 @@
+{
+  "player_id": 80520856,
+  "@id": "https://api.chess.com/pub/player/joyli1234",
+  "url": "https://www.chess.com/member/JoyLi1234",
+  "name": "Joy Ching Li",
+  "username": "joyli1234",
+  "title": "WCM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1771667373,
+  "joined": 1590456012,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1727,
+      "date": 1629630582,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1731,
+      "date": 1629542489,
+      "game": "https://www.chess.com/game/live/5663515502"
+    },
+    "record": {
+      "win": 20,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 982,
+      "date": 1602393288,
+      "rd": 247
+    },
+    "best": {
+      "rating": 982,
+      "date": 1602393288,
+      "game": "https://www.chess.com/game/live/5567103970"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1596,
+      "date": 1745871616,
+      "rd": 62
+    },
+    "best": {
+      "rating": 1578,
+      "date": 1600522802,
+      "game": "https://www.chess.com/game/live/5467745785"
+    },
+    "record": {
+      "win": 50,
+      "loss": 24,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2712,
+      "date": 1762636124
+    },
+    "lowest": {
+      "rating": 2382,
+      "date": 1763937080
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

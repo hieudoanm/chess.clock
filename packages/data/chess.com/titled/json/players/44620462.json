@@ -1,0 +1,84 @@
+{
+  "player_id": 44620462,
+  "@id": "https://api.chess.com/pub/player/obito24",
+  "url": "https://www.chess.com/member/Obito24",
+  "name": "Jorge Zamorano",
+  "username": "obito24",
+  "title": "FM",
+  "followers": 109,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776583501,
+  "joined": 1521941380,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2428,
+      "date": 1730770150,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1671583165,
+      "game": "https://www.chess.com/game/live/64857134383"
+    },
+    "record": {
+      "win": 45,
+      "loss": 8,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2664,
+      "date": 1770424001,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2793,
+      "date": 1668391736,
+      "game": "https://www.chess.com/game/live/118255693925"
+    },
+    "record": {
+      "win": 145,
+      "loss": 81,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2933,
+      "date": 1776525457,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2960,
+      "date": 1768315193,
+      "game": "https://www.chess.com/game/live/147389512008"
+    },
+    "record": {
+      "win": 11610,
+      "loss": 8097,
+      "draw": 2818
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2707,
+      "date": 1758715820
+    },
+    "lowest": {
+      "rating": 2583,
+      "date": 1758717240
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

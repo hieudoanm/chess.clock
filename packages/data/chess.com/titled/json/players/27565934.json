@@ -1,0 +1,86 @@
+{
+  "player_id": 27565934,
+  "@id": "https://api.chess.com/pub/player/vladimirsmirnov",
+  "url": "https://www.chess.com/member/VladimirSmirnov",
+  "name": "Vladimir Smirnov",
+  "username": "vladimirsmirnov",
+  "title": "IM",
+  "followers": 217,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Sydney",
+  "last_online": 1775630911,
+  "joined": 1459643609,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1396,
+      "date": 1550219203,
+      "rd": 210
+    },
+    "best": {
+      "rating": 1396,
+      "date": 1550219203,
+      "game": "https://www.chess.com/game/live/3460742087"
+    },
+    "record": {
+      "win": 5,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1667475996,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2687,
+      "date": 1667475719,
+      "game": "https://www.chess.com/game/live/6146536596"
+    },
+    "record": {
+      "win": 5491,
+      "loss": 3339,
+      "draw": 668
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2761,
+      "date": 1775474695,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2773,
+      "date": 1692407106,
+      "game": "https://www.chess.com/game/live/66871248321"
+    },
+    "record": {
+      "win": 3849,
+      "loss": 2342,
+      "draw": 817
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2050,
+      "date": 1459643609
+    },
+    "lowest": {
+      "rating": 2050,
+      "date": 1459643609
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 77193080,
+  "@id": "https://api.chess.com/pub/player/alex_krayz",
+  "url": "https://www.chess.com/member/Alex_Krayz",
+  "name": "Alexander Krayz",
+  "username": "alex_krayz",
+  "title": "IM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776549027,
+  "joined": 1587303298,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2059,
+      "date": 1776013940,
+      "rd": 310
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1776013936,
+      "game": "https://www.chess.com/game/daily/947342241"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 33592,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2350,
+      "date": 1653747301,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1653747301,
+      "game": "https://www.chess.com/game/live/4929772439"
+    },
+    "record": {
+      "win": 16,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2325,
+      "date": 1776549009,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1753818404,
+      "game": "https://www.chess.com/game/live/147675885108"
+    },
+    "record": {
+      "win": 13144,
+      "loss": 13867,
+      "draw": 1642
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1587303298
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1587303298
+    }
+  },
+  "puzzle_rush": {}
+}

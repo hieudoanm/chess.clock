@@ -1,0 +1,104 @@
+{
+  "player_id": 786091,
+  "@id": "https://api.chess.com/pub/player/nmpdk",
+  "url": "https://www.chess.com/member/nmpdk",
+  "name": "Petros Karagianis",
+  "username": "nmpdk",
+  "title": "NM",
+  "followers": 88,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774806073,
+  "joined": 1198817209,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1954,
+      "date": 1740131688,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1468620891,
+      "game": "https://www.chess.com/game/daily/121445624"
+    },
+    "record": {
+      "win": 27,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 43384,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2275,
+      "date": 1639857519,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1586025120,
+      "game": "https://www.chess.com/game/live/5841790792"
+    },
+    "record": {
+      "win": 21,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2519,
+      "date": 1607735744,
+      "rd": 301
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1607735744,
+      "game": "https://www.chess.com/game/live/495816466"
+    },
+    "record": {
+      "win": 90,
+      "loss": 39,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2345,
+      "date": 1752707006,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1664422334,
+      "game": "https://www.chess.com/game/live/88846248041"
+    },
+    "record": {
+      "win": 1553,
+      "loss": 1387,
+      "draw": 161
+    }
+  },
+  "fide": 2316,
+  "tactics": {
+    "highest": {
+      "rating": 1787,
+      "date": 1198817209
+    },
+    "lowest": {
+      "rating": 1787,
+      "date": 1198817209
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 453456668,
+  "@id": "https://api.chess.com/pub/player/titus_b",
+  "url": "https://www.chess.com/member/titus_b",
+  "name": "Titus Bittner",
+  "username": "titus_b",
+  "title": "NM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1776121679,
+  "joined": 1747857223,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2206,
+      "date": 1772640560
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1763647236,
+      "game": "https://www.chess.com/game/live/165503486196"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2206,
+      "date": 1763198240
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1763198017,
+      "game": "https://www.chess.com/game/live/145534860274"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2322,
+      "date": 1775391454,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1775162410,
+      "game": "https://www.chess.com/game/live/167663411317"
+    },
+    "record": {
+      "win": 109,
+      "loss": 33,
+      "draw": 17
+    }
+  },
+  "fide": 2206,
+  "tactics": {
+    "highest": {
+      "rating": 497,
+      "date": 1770979721
+    },
+    "lowest": {
+      "rating": 497,
+      "date": 1770979721
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

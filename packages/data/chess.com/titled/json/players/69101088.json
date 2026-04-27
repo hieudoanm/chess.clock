@@ -1,0 +1,66 @@
+{
+  "player_id": 69101088,
+  "@id": "https://api.chess.com/pub/player/knd2020",
+  "url": "https://www.chess.com/member/KND2020",
+  "username": "knd2020",
+  "title": "WGM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1774469960,
+  "joined": 1575917039,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2769,
+      "date": 1740789654,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2753,
+      "date": 1650574279,
+      "game": "https://www.chess.com/game/live/44313067615"
+    },
+    "record": {
+      "win": 558,
+      "loss": 437,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2681,
+      "date": 1677691444,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1677691444,
+      "game": "https://www.chess.com/game/live/71430342543"
+    },
+    "record": {
+      "win": 123,
+      "loss": 64,
+      "draw": 13
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2681,
+      "date": 1575917039
+    },
+    "lowest": {
+      "rating": 2681,
+      "date": 1575917039
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 21333286,
+  "@id": "https://api.chess.com/pub/player/dantesa",
+  "url": "https://www.chess.com/member/Dantesa",
+  "name": "Dante Eaton",
+  "username": "dantesa",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776339449,
+  "joined": 1425279914,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1143,
+      "date": 1590508454,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1425279914,
+      "game": "https://www.chess.com/game/daily/160025318"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 34320,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1707,
+      "date": 1626621353,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1739,
+      "date": 1469645119,
+      "game": "https://www.chess.com/game/live/19050965523"
+    },
+    "record": {
+      "win": 17,
+      "loss": 15,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2071,
+      "date": 1731151473,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2137,
+      "date": 1717323893,
+      "game": "https://www.chess.com/game/live/15624201853"
+    },
+    "record": {
+      "win": 155,
+      "loss": 122,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1666,
+      "date": 1714510295,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1784,
+      "date": 1626889543,
+      "game": "https://www.chess.com/game/live/20628074889"
+    },
+    "record": {
+      "win": 558,
+      "loss": 493,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1425279914
+    },
+    "lowest": {
+      "rating": 2461,
+      "date": 1425279914
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

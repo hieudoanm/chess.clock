@@ -1,0 +1,68 @@
+{
+  "player_id": 42451174,
+  "@id": "https://api.chess.com/pub/player/dumbo32",
+  "url": "https://www.chess.com/member/Dumbo32",
+  "name": "J\u00f3n L. \u00c1rnason",
+  "username": "dumbo32",
+  "title": "GM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Reykjavik",
+  "last_online": 1772008537,
+  "joined": 1516305416,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1549,
+      "date": 1586691862,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1586604780,
+      "game": "https://www.chess.com/game/live/4707050684"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2528,
+      "date": 1771961410,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2561,
+      "date": 1645038016,
+      "game": "https://www.chess.com/game/live/36190753809"
+    },
+    "record": {
+      "win": 1034,
+      "loss": 646,
+      "draw": 196
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2628,
+      "date": 1516305416
+    },
+    "lowest": {
+      "rating": 2628,
+      "date": 1516305416
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

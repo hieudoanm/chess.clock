@@ -1,0 +1,84 @@
+{
+  "player_id": 63192588,
+  "@id": "https://api.chess.com/pub/player/almo64",
+  "url": "https://www.chess.com/member/almo64",
+  "name": "Alexander Motylev",
+  "username": "almo64",
+  "title": "GM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1774561976,
+  "joined": 1562870370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2418,
+      "date": 1735155895,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2768,
+      "date": 1595094763,
+      "game": "https://www.chess.com/game/live/76695598869"
+    },
+    "record": {
+      "win": 9,
+      "loss": 10,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1698780510,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1643275814,
+      "game": "https://www.chess.com/game/live/37014647479"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2692,
+      "date": 1772234353,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2878,
+      "date": 1586971676,
+      "game": "https://www.chess.com/game/live/6429733753"
+    },
+    "record": {
+      "win": 96,
+      "loss": 47,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2759,
+      "date": 1562870370
+    },
+    "lowest": {
+      "rating": 2759,
+      "date": 1562870370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 56
+    }
+  }
+}

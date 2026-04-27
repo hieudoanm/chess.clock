@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/180160159.0fbbd31b.200x200o.f6fbe3fba58b.jpg",
+  "player_id": 180160159,
+  "@id": "https://api.chess.com/pub/player/jannurchess",
+  "url": "https://www.chess.com/member/jannurchess",
+  "name": "Kupjasar Jannur",
+  "username": "jannurchess",
+  "title": "WCM",
+  "followers": 364,
+  "country": "https://api.chess.com/pub/country/MN",
+  "last_online": 1776540322,
+  "joined": 1649778004,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jannurchess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jannurchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1139,
+      "date": 1776037113,
+      "rd": 286
+    },
+    "record": {
+      "win": 6,
+      "loss": 17,
+      "draw": 0,
+      "time_per_move": 456246,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2035,
+      "date": 1766256038,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2110,
+      "date": 1748802813,
+      "game": "https://www.chess.com/game/live/139551198308"
+    },
+    "record": {
+      "win": 255,
+      "loss": 211,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1776537994,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1762967624,
+      "game": "https://www.chess.com/game/live/170847629991"
+    },
+    "record": {
+      "win": 6494,
+      "loss": 6668,
+      "draw": 692
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2084,
+      "date": 1775939674,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1674967874,
+      "game": "https://www.chess.com/game/live/98578463721"
+    },
+    "record": {
+      "win": 2918,
+      "loss": 2738,
+      "draw": 286
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2307,
+      "date": 1758567559
+    },
+    "lowest": {
+      "rating": 1999,
+      "date": 1767752522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

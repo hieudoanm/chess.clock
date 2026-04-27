@@ -1,0 +1,102 @@
+{
+  "player_id": 162889765,
+  "@id": "https://api.chess.com/pub/player/ablunderman",
+  "url": "https://www.chess.com/member/Ablunderman",
+  "username": "ablunderman",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776593589,
+  "joined": 1638133626,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1428,
+      "date": 1770975059,
+      "rd": 109
+    },
+    "best": {
+      "rating": 1428,
+      "date": 1739388736,
+      "game": "https://www.chess.com/game/daily/759967057"
+    },
+    "record": {
+      "win": 32,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 12707,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1753451964,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2063,
+      "date": 1715876369,
+      "game": "https://www.chess.com/game/live/109614734661"
+    },
+    "record": {
+      "win": 32,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1753451964,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2151,
+      "date": 1667686157,
+      "game": "https://www.chess.com/game/live/64586636583"
+    },
+    "record": {
+      "win": 51,
+      "loss": 31,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1776593577,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2684,
+      "date": 1759574795,
+      "game": "https://www.chess.com/game/live/145636655620"
+    },
+    "record": {
+      "win": 2368,
+      "loss": 2090,
+      "draw": 368
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2164,
+      "date": 1638133626
+    },
+    "lowest": {
+      "rating": 2164,
+      "date": 1638133626
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

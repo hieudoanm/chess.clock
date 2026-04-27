@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39445518.62d153be.200x200o.419910c087d7.jpg",
+  "player_id": 39445518,
+  "@id": "https://api.chess.com/pub/player/white-fff",
+  "url": "https://www.chess.com/member/white-fff",
+  "name": "Yuki Misawa",
+  "username": "white-fff",
+  "title": "WCM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1773150345,
+  "joined": 1507996862,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1492,
+      "date": 1772787513,
+      "rd": 106
+    },
+    "best": {
+      "rating": 1522,
+      "date": 1527190693,
+      "game": "https://www.chess.com/game/daily/188606518"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 35983,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1665,
+      "date": 1537601847
+    },
+    "best": {
+      "rating": 1537,
+      "date": 1537601847,
+      "game": "https://www.chess.com/game/live/2713014158"
+    },
+    "record": {
+      "win": 45,
+      "loss": 40,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1665,
+      "date": 1648367445
+    },
+    "best": {
+      "rating": 1830,
+      "date": 1510673942,
+      "game": "https://www.chess.com/game/live/2429088372"
+    },
+    "record": {
+      "win": 70,
+      "loss": 77,
+      "draw": 7
+    }
+  },
+  "fide": 1665,
+  "tactics": {
+    "highest": {
+      "rating": 2124,
+      "date": 1507996862
+    },
+    "lowest": {
+      "rating": 2124,
+      "date": 1507996862
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

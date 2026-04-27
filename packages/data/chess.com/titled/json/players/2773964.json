@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2773964.5f8a60bd.200x200o.4f34857a6ae7.jpeg",
+  "player_id": 2773964,
+  "@id": "https://api.chess.com/pub/player/williamschill",
+  "url": "https://www.chess.com/member/WilliamSchill",
+  "name": "William Schill",
+  "username": "williamschill",
+  "title": "FM",
+  "followers": 311,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Seattle",
+  "last_online": 1776580370,
+  "joined": 1272428861,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1861,
+      "date": 1776537382,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1460740574,
+      "game": "https://www.chess.com/game/daily/209823030"
+    },
+    "record": {
+      "win": 1210,
+      "loss": 256,
+      "draw": 343,
+      "time_per_move": 14017,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1741,
+      "date": 1503129640,
+      "rd": 131
+    },
+    "best": {
+      "rating": 1793,
+      "date": 1474772647,
+      "game": "https://www.chess.com/game/daily/169015356"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 14017,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2385,
+      "date": 1775075207,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1696901119,
+      "game": "https://www.chess.com/game/live/10526173317"
+    },
+    "record": {
+      "win": 234,
+      "loss": 29,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1542,
+      "date": 1776405424,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1617112201,
+      "game": "https://www.chess.com/game/live/10848398307"
+    },
+    "record": {
+      "win": 2690,
+      "loss": 2069,
+      "draw": 163
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1860,
+      "date": 1776576418,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1649857436,
+      "game": "https://www.chess.com/game/live/9054999963"
+    },
+    "record": {
+      "win": 9729,
+      "loss": 4594,
+      "draw": 1016
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2080,
+      "date": 1776384999
+    },
+    "lowest": {
+      "rating": 1761,
+      "date": 1775690654
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1715324.840b7522.200x200o.b79dde86ff74.jpg",
+    "player_id": 1715324,
+    "@id": "https://api.chess.com/pub/player/danielnaroditsky",
+    "url": "https://www.chess.com/member/DanielNaroditsky",
+    "name": "Daniel Naroditsky",
+    "username": "danielnaroditsky",
+    "title": "GM",
+    "followers": 34278,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "Charlotte",
+    "last_online": 1734144041,
+    "joined": 1232155799,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/gmnaroditsky",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/gmnaroditsky"
+        }
+    ],
+    "chess_daily": {
+        "last": {
+            "rating": 1732,
+            "date": 1733563691,
+            "rd": 159
+        },
+        "best": {
+            "rating": 1893,
+            "date": 1398009740,
+            "game": "https://www.chess.com/game/daily/87954242"
+        },
+        "record": {
+            "win": 8,
+            "loss": 9,
+            "draw": 1,
+            "time_per_move": 41779,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2544,
+            "date": 1727292819,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2919,
+            "date": 1567202899,
+            "game": "https://www.chess.com/game/live/3958783484"
+        },
+        "record": {
+            "win": 26,
+            "loss": 16,
+            "draw": 16
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3173,
+            "date": 1733882987,
+            "rd": 27
+        },
+        "best": {
+            "rating": 3553,
+            "date": 1606796081,
+            "game": "https://www.chess.com/game/live/5774587691"
+        },
+        "record": {
+            "win": 40596,
+            "loss": 17303,
+            "draw": 4429
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3108,
+            "date": 1734084216,
+            "rd": 18
+        },
+        "best": {
+            "rating": 3278,
+            "date": 1731803629,
+            "game": "https://www.chess.com/game/live/101151296989"
+        },
+        "record": {
+            "win": 31465,
+            "loss": 15400,
+            "draw": 6304
+        }
+    },
+    "fide": 2600,
+    "tactics": {
+        "highest": {
+            "rating": 3062,
+            "date": 1694660369
+        },
+        "lowest": {
+            "rating": 1356,
+            "date": 1468623211
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 85,
+            "score": 82
+        }
+    }
+}

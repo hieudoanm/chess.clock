@@ -1,0 +1,104 @@
+{
+  "player_id": 26315250,
+  "@id": "https://api.chess.com/pub/player/annazero",
+  "url": "https://www.chess.com/member/annazero",
+  "name": "Anna Afonasieva",
+  "username": "annazero",
+  "title": "WIM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+  "last_online": 1776592719,
+  "joined": 1453649739,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 883,
+      "date": 1728284790,
+      "rd": 172
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1453649739,
+      "game": "https://www.chess.com/game/daily/177924668"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 16990,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2437,
+      "date": 1738084229,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2429,
+      "date": 1737724512,
+      "game": "https://www.chess.com/game/live/85912742787"
+    },
+    "record": {
+      "win": 33,
+      "loss": 23,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2703,
+      "date": 1776522538,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1776016279,
+      "game": "https://www.chess.com/game/live/144144126854"
+    },
+    "record": {
+      "win": 2402,
+      "loss": 2590,
+      "draw": 342
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2608,
+      "date": 1776526807,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1776525920,
+      "game": "https://www.chess.com/game/live/5149629808"
+    },
+    "record": {
+      "win": 1193,
+      "loss": 1233,
+      "draw": 158
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2544,
+      "date": 1767683089
+    },
+    "lowest": {
+      "rating": 2113,
+      "date": 1775039613
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

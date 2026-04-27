@@ -1,0 +1,123 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19342038.5606ca33.200x200o.b683cce39302.jpeg",
+  "player_id": 19342038,
+  "@id": "https://api.chess.com/pub/player/fravatel",
+  "url": "https://www.chess.com/member/Fravatel",
+  "name": "Frank van Tellingen",
+  "username": "fravatel",
+  "title": "FM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776592046,
+  "joined": 1413571264,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1768,
+      "date": 1776426244,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1802,
+      "date": 1703765386,
+      "game": "https://www.chess.com/game/daily/449210917"
+    },
+    "record": {
+      "win": 45,
+      "loss": 4,
+      "draw": 8,
+      "time_per_move": 23147,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 604,
+      "date": 1750861857,
+      "rd": 259
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1413571264,
+      "game": "https://www.chess.com/game/daily/765425915"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 23147,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2098,
+      "date": 1745747513,
+      "rd": 47
+    },
+    "best": {
+      "rating": 1978,
+      "date": 1417896195,
+      "game": "https://www.chess.com/game/live/972213115"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2543,
+      "date": 1776592040,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2710,
+      "date": 1771579468,
+      "game": "https://www.chess.com/game/live/131555430489"
+    },
+    "record": {
+      "win": 21716,
+      "loss": 18483,
+      "draw": 1904
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2399,
+      "date": 1771612560,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1712611610,
+      "game": "https://www.chess.com/game/live/131840433159"
+    },
+    "record": {
+      "win": 1119,
+      "loss": 894,
+      "draw": 112
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2346,
+      "date": 1761405275
+    },
+    "lowest": {
+      "rating": 2037,
+      "date": 1772878537
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

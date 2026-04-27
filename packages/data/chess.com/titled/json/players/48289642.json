@@ -1,0 +1,67 @@
+{
+  "player_id": 48289642,
+  "@id": "https://api.chess.com/pub/player/denis_palkovich",
+  "url": "https://www.chess.com/member/Denis_Palkovich",
+  "name": "Denis Palkovich",
+  "username": "denis_palkovich",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1768660434,
+  "joined": 1532877511,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2064,
+      "date": 1642528576,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2233,
+      "date": 1609263577,
+      "game": "https://www.chess.com/game/live/3545769708"
+    },
+    "record": {
+      "win": 147,
+      "loss": 83,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2125,
+      "date": 1693769819,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2338,
+      "date": 1552687259,
+      "game": "https://www.chess.com/game/live/4487796520"
+    },
+    "record": {
+      "win": 736,
+      "loss": 644,
+      "draw": 103
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2351,
+      "date": 1532877511
+    },
+    "lowest": {
+      "rating": 2351,
+      "date": 1532877511
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

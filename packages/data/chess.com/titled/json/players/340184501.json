@@ -1,0 +1,62 @@
+{
+  "player_id": 340184501,
+  "@id": "https://api.chess.com/pub/player/sabrina_ballerina",
+  "url": "https://www.chess.com/member/Sabrina_Ballerina",
+  "username": "sabrina_ballerina",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1771100215,
+  "joined": 1705786124,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2197,
+      "date": 1771103698,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1769314228,
+      "game": "https://www.chess.com/game/live/148452382154"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1972,
+      "date": 1746394579,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2125,
+      "date": 1734900265,
+      "game": "https://www.chess.com/game/live/128638949457"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1705786124
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1705786124
+    }
+  },
+  "puzzle_rush": {}
+}

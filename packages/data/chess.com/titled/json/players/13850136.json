@@ -1,0 +1,123 @@
+{
+  "player_id": 13850136,
+  "@id": "https://api.chess.com/pub/player/richard_zweifel",
+  "url": "https://www.chess.com/member/Richard_Zweifel",
+  "name": "Richard Zweifel",
+  "username": "richard_zweifel",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776463721,
+  "joined": 1381437688,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2011,
+      "date": 1708958181,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1436167934,
+      "game": "https://www.chess.com/game/daily/109436072"
+    },
+    "record": {
+      "win": 227,
+      "loss": 59,
+      "draw": 24,
+      "time_per_move": 13366,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1457,
+      "date": 1431625372,
+      "rd": 238
+    },
+    "best": {
+      "rating": 1457,
+      "date": 1431625372,
+      "game": "https://www.chess.com/game/daily/111005040"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 13366,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2215,
+      "date": 1708958182,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1708469532,
+      "game": "https://www.chess.com/game/live/102207824653"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2263,
+      "date": 1695235020,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1523640392,
+      "game": "https://www.chess.com/game/live/2742879377"
+    },
+    "record": {
+      "win": 2433,
+      "loss": 1637,
+      "draw": 183
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2238,
+      "date": 1773579226,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1600632475,
+      "game": "https://www.chess.com/game/live/1590294782"
+    },
+    "record": {
+      "win": 1904,
+      "loss": 1362,
+      "draw": 173
+    }
+  },
+  "fide": 2215,
+  "tactics": {
+    "highest": {
+      "rating": 2513,
+      "date": 1381437688
+    },
+    "lowest": {
+      "rating": 2513,
+      "date": 1381437688
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

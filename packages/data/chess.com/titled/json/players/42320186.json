@@ -1,0 +1,84 @@
+{
+    "player_id": 42320186,
+    "@id": "https://api.chess.com/pub/player/lemon365",
+    "url": "https://www.chess.com/member/Lemon365",
+    "name": "James Y Oh",
+    "username": "lemon365",
+    "title": "NM",
+    "followers": 16,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1696616301,
+    "joined": 1515949507,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2054,
+            "date": 1615811531,
+            "rd": 248
+        },
+        "best": {
+            "rating": 2054,
+            "date": 1615811531,
+            "game": "https://www.chess.com/game/live/6460643591"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2021,
+            "date": 1615811347,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2021,
+            "date": 1615811347,
+            "game": "https://www.chess.com/game/live/9043015987"
+        },
+        "record": {
+            "win": 131,
+            "loss": 47,
+            "draw": 11
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2000,
+            "date": 1685019034,
+            "rd": 90
+        },
+        "best": {
+            "rating": 1999,
+            "date": 1559073821,
+            "game": "https://www.chess.com/game/live/5184530902"
+        },
+        "record": {
+            "win": 268,
+            "loss": 149,
+            "draw": 12
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1929,
+            "date": 1672838515
+        },
+        "lowest": {
+            "rating": 793,
+            "date": 1516474865
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 41,
+            "score": 38
+        }
+    }
+}

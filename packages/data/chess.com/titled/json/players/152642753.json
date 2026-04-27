@@ -1,0 +1,85 @@
+{
+  "player_id": 152642753,
+  "@id": "https://api.chess.com/pub/player/nylvor",
+  "url": "https://www.chess.com/member/nylvor",
+  "name": "Aziz Degenbaev",
+  "username": "nylvor",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/KG",
+  "last_online": 1776565600,
+  "joined": 1630129875,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2320,
+      "date": 1774812950,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1679325890,
+      "game": "https://www.chess.com/game/live/73073279921"
+    },
+    "record": {
+      "win": 17,
+      "loss": 11,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2630,
+      "date": 1749359598,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1696096726,
+      "game": "https://www.chess.com/game/live/89834935721"
+    },
+    "record": {
+      "win": 32,
+      "loss": 35,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2715,
+      "date": 1774801006,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1763017657,
+      "game": "https://www.chess.com/game/live/93112361801"
+    },
+    "record": {
+      "win": 337,
+      "loss": 317,
+      "draw": 62
+    }
+  },
+  "fide": 2224,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1630129875
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1630129875
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 46
+    }
+  }
+}

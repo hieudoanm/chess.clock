@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57549096.b48504be.200x200o.4f2d0efb44bb.jpg",
+  "player_id": 57549096,
+  "@id": "https://api.chess.com/pub/player/seanwinshand",
+  "url": "https://www.chess.com/member/SeanWinshand",
+  "name": "Sean Winshand",
+  "username": "seanwinshand",
+  "title": "GM",
+  "followers": 4006,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776593428,
+  "joined": 1550585475,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1796,
+      "date": 1774855877,
+      "rd": 347
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1550585475,
+      "game": "https://www.chess.com/game/daily/924486531"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 157894,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2884,
+      "date": 1775990412,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2908,
+      "date": 1599805536,
+      "game": "https://www.chess.com/game/live/111648769353"
+    },
+    "record": {
+      "win": 109,
+      "loss": 6,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3100,
+      "date": 1775297503,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3113,
+      "date": 1757325196,
+      "game": "https://www.chess.com/game/live/164036018272"
+    },
+    "record": {
+      "win": 2451,
+      "loss": 1484,
+      "draw": 221
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3026,
+      "date": 1776596358,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3067,
+      "date": 1768044948,
+      "game": "https://www.chess.com/game/live/167148095032"
+    },
+    "record": {
+      "win": 2464,
+      "loss": 1453,
+      "draw": 382
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2381,
+      "date": 1771497184
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1755599689
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

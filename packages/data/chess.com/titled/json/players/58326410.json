@@ -1,0 +1,66 @@
+{
+  "player_id": 58326410,
+  "@id": "https://api.chess.com/pub/player/annonymous123",
+  "url": "https://www.chess.com/member/annonymous123",
+  "username": "annonymous123",
+  "title": "IM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1771664021,
+  "joined": 1552195669,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1595838661,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1552578096,
+      "game": "https://www.chess.com/game/live/3925150571"
+    },
+    "record": {
+      "win": 301,
+      "loss": 238,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2820,
+      "date": 1770622932,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2939,
+      "date": 1567495583,
+      "game": "https://www.chess.com/game/live/147528560478"
+    },
+    "record": {
+      "win": 974,
+      "loss": 996,
+      "draw": 201
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2333,
+      "date": 1552195669
+    },
+    "lowest": {
+      "rating": 2333,
+      "date": 1552195669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

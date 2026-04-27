@@ -1,0 +1,67 @@
+{
+  "player_id": 521052581,
+  "@id": "https://api.chess.com/pub/player/aysultanbekov",
+  "url": "https://www.chess.com/member/AysultanBekov",
+  "username": "aysultanbekov",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776115588,
+  "joined": 1768850899,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2410,
+      "date": 1773692618,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1773692209,
+      "game": "https://www.chess.com/game/live/166037229480"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2487,
+      "date": 1775216054,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1771111069,
+      "game": "https://www.chess.com/game/live/164682985424"
+    },
+    "record": {
+      "win": 108,
+      "loss": 77,
+      "draw": 11
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2200,
+      "date": 1768850899
+    },
+    "lowest": {
+      "rating": 2200,
+      "date": 1768850899
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

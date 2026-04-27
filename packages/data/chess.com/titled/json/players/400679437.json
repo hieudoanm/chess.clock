@@ -1,0 +1,86 @@
+{
+  "player_id": 400679437,
+  "@id": "https://api.chess.com/pub/player/intoxicatedolphin",
+  "url": "https://www.chess.com/member/intoxicatedolphin",
+  "username": "intoxicatedolphin",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776566188,
+  "joined": 1730848789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1791,
+      "date": 1764840956,
+      "rd": 208
+    },
+    "best": {
+      "rating": 1791,
+      "date": 1733285328,
+      "game": "https://www.chess.com/game/daily/726519279"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32926,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2397,
+      "date": 1746508888,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1731062490,
+      "game": "https://www.chess.com/game/live/126418732157"
+    },
+    "record": {
+      "win": 89,
+      "loss": 90,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2691,
+      "date": 1776531601,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1776437674,
+      "game": "https://www.chess.com/game/live/167441186022"
+    },
+    "record": {
+      "win": 539,
+      "loss": 594,
+      "draw": 84
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2522,
+      "date": 1730848789
+    },
+    "lowest": {
+      "rating": 2522,
+      "date": 1730848789
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

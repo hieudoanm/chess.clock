@@ -1,0 +1,83 @@
+{
+  "player_id": 11536398,
+  "@id": "https://api.chess.com/pub/player/enzovsky",
+  "url": "https://www.chess.com/member/enzovsky",
+  "username": "enzovsky",
+  "title": "NM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1595186635,
+  "joined": 1366073261,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1995,
+      "date": 1595211314,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1572101289,
+      "game": "https://www.chess.com/game/live/4934914398"
+    },
+    "record": {
+      "win": 37,
+      "loss": 27,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2271,
+      "date": 1595202640,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1497228093,
+      "game": "https://www.chess.com/game/live/3886297286"
+    },
+    "record": {
+      "win": 1563,
+      "loss": 1702,
+      "draw": 183
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2522,
+      "date": 1595104441,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1594751738,
+      "game": "https://www.chess.com/game/live/5080601742"
+    },
+    "record": {
+      "win": 615,
+      "loss": 593,
+      "draw": 88
+    }
+  },
+  "fide": 2118,
+  "tactics": {
+    "highest": {
+      "rating": 2383,
+      "date": 1366073261
+    },
+    "lowest": {
+      "rating": 2383,
+      "date": 1366073261
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

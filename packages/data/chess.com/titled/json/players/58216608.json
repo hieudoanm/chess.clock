@@ -1,0 +1,103 @@
+{
+  "player_id": 58216608,
+  "@id": "https://api.chess.com/pub/player/theheartofchess42",
+  "url": "https://www.chess.com/member/TheHeartofChess42",
+  "name": "Emil Stefanov",
+  "username": "theheartofchess42",
+  "title": "IM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1776561731,
+  "joined": 1551981730,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1485,
+      "date": 1769363252,
+      "rd": 326
+    },
+    "best": {
+      "rating": 2022,
+      "date": 1683748484,
+      "game": "https://www.chess.com/game/daily/440918295"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 80675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2255,
+      "date": 1762569781,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2449,
+      "date": 1609794011,
+      "game": "https://www.chess.com/game/live/6154272398"
+    },
+    "record": {
+      "win": 22,
+      "loss": 3,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2485,
+      "date": 1775773199,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1595032496,
+      "game": "https://www.chess.com/game/live/5165776729"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1770884032,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1770882355,
+      "game": "https://www.chess.com/game/live/4743833632"
+    },
+    "record": {
+      "win": 510,
+      "loss": 428,
+      "draw": 96
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2672,
+      "date": 1551981730
+    },
+    "lowest": {
+      "rating": 2672,
+      "date": 1551981730
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

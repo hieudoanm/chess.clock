@@ -1,0 +1,67 @@
+{
+  "player_id": 85653486,
+  "@id": "https://api.chess.com/pub/player/velimirovich",
+  "url": "https://www.chess.com/member/Velimirovich",
+  "username": "velimirovich",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1775681863,
+  "joined": 1593863953,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2915,
+      "date": 1774890425,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1771759267,
+      "game": "https://www.chess.com/game/live/164111896790"
+    },
+    "record": {
+      "win": 271,
+      "loss": 179,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2900,
+      "date": 1775681797,
+      "rd": 27
+    },
+    "best": {
+      "rating": 3029,
+      "date": 1773930268,
+      "game": "https://www.chess.com/game/live/165119058238"
+    },
+    "record": {
+      "win": 408,
+      "loss": 297,
+      "draw": 73
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1593863953
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1593863953
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 15490298,
+  "@id": "https://api.chess.com/pub/player/granddesign",
+  "url": "https://www.chess.com/member/Granddesign",
+  "name": "BITAN BANERJEE",
+  "username": "granddesign",
+  "title": "IM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "India",
+  "last_online": 1630907530,
+  "joined": 1389281172,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2118,
+      "date": 1662712104,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2196,
+      "date": 1630940096,
+      "game": "https://www.chess.com/game/daily/334909585"
+    },
+    "record": {
+      "win": 61,
+      "loss": 11,
+      "draw": 4,
+      "time_per_move": 16768,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2265,
+      "date": 1622425225,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1609708155,
+      "game": "https://www.chess.com/game/live/6134765055"
+    },
+    "record": {
+      "win": 47,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2514,
+      "date": 1617210522,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1604555849,
+      "game": "https://www.chess.com/game/live/10564559207"
+    },
+    "record": {
+      "win": 67,
+      "loss": 49,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2408,
+      "date": 1630934225,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1618748283,
+      "game": "https://www.chess.com/game/live/6062406174"
+    },
+    "record": {
+      "win": 598,
+      "loss": 472,
+      "draw": 104
+    }
+  },
+  "fide": 2404,
+  "tactics": {
+    "highest": {
+      "rating": 2492,
+      "date": 1389281172
+    },
+    "lowest": {
+      "rating": 2492,
+      "date": 1389281172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

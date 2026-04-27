@@ -1,0 +1,98 @@
+{
+  "player_id": 90558556,
+  "@id": "https://api.chess.com/pub/player/mr_gustavo",
+  "url": "https://www.chess.com/member/mr_gustavo",
+  "name": "Jakub Seemann",
+  "username": "mr_gustavo",
+  "title": "GM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1775155983,
+  "joined": 1599243190,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1767960526,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 335274,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2369,
+      "date": 1774464656,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1774463475,
+      "game": "https://www.chess.com/game/live/168600270041"
+    },
+    "record": {
+      "win": 17,
+      "loss": 16,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2825,
+      "date": 1773001267,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2827,
+      "date": 1772054848,
+      "game": "https://www.chess.com/game/live/110307071459"
+    },
+    "record": {
+      "win": 155,
+      "loss": 175,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2907,
+      "date": 1774114853,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2972,
+      "date": 1769625044,
+      "game": "https://www.chess.com/game/live/160214853615"
+    },
+    "record": {
+      "win": 1421,
+      "loss": 1558,
+      "draw": 299
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2743,
+      "date": 1599243190
+    },
+    "lowest": {
+      "rating": 2743,
+      "date": 1599243190
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

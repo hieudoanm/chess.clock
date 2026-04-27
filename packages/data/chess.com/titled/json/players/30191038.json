@@ -1,0 +1,124 @@
+{
+  "player_id": 30191038,
+  "@id": "https://api.chess.com/pub/player/gvala",
+  "url": "https://www.chess.com/member/Gvala",
+  "name": "Runar Sigurpalsson",
+  "username": "gvala",
+  "title": "FM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Iceland",
+  "last_online": 1776598548,
+  "joined": 1475354314,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1910,
+      "date": 1773870362,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1650612838,
+      "game": "https://www.chess.com/game/daily/343679179"
+    },
+    "record": {
+      "win": 144,
+      "loss": 49,
+      "draw": 64,
+      "time_per_move": 8851,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1702,
+      "date": 1604787733,
+      "rd": 291
+    },
+    "best": {
+      "rating": 1702,
+      "date": 1604787733,
+      "game": "https://www.chess.com/game/daily/285194738"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8851,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1809,
+      "date": 1628274733,
+      "rd": 163
+    },
+    "best": {
+      "rating": 1809,
+      "date": 1628274733,
+      "game": "https://www.chess.com/game/live/22013351483"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2273,
+      "date": 1766784633,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1753197472,
+      "game": "https://www.chess.com/game/live/140501118968"
+    },
+    "record": {
+      "win": 139,
+      "loss": 30,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1776350580,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2615,
+      "date": 1774348423,
+      "game": "https://www.chess.com/game/live/144351409266"
+    },
+    "record": {
+      "win": 4252,
+      "loss": 3025,
+      "draw": 803
+    }
+  },
+  "fide": 2280,
+  "tactics": {
+    "highest": {
+      "rating": 2518,
+      "date": 1761723529
+    },
+    "lowest": {
+      "rating": 2473,
+      "date": 1761723401
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

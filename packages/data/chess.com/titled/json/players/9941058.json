@@ -1,0 +1,121 @@
+{
+  "player_id": 9941058,
+  "@id": "https://api.chess.com/pub/player/little-gnome",
+  "url": "https://www.chess.com/member/little-gnome",
+  "name": "Daniel Abbas",
+  "username": "little-gnome",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1723273131,
+  "joined": 1354988297,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1833,
+      "date": 1723564788,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1462637006,
+      "game": "https://www.chess.com/game/daily/122445964"
+    },
+    "record": {
+      "win": 101,
+      "loss": 66,
+      "draw": 20,
+      "time_per_move": 30566,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1267,
+      "date": 1446649335,
+      "rd": 227
+    },
+    "best": {
+      "rating": 1267,
+      "date": 1446649335,
+      "game": "https://www.chess.com/game/daily/119272218"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 30566,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1665,
+      "date": 1624372700,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1665,
+      "date": 1624372700,
+      "game": "https://www.chess.com/game/live/18106315925"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2382,
+      "date": 1594881302,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1593152206,
+      "game": "https://www.chess.com/game/live/5015093803"
+    },
+    "record": {
+      "win": 324,
+      "loss": 268,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1598366029,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1597302601,
+      "game": "https://www.chess.com/game/live/5309609579"
+    },
+    "record": {
+      "win": 79,
+      "loss": 57,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2157,
+      "date": 1354988297
+    },
+    "lowest": {
+      "rating": 2157,
+      "date": 1354988297
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

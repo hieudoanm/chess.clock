@@ -1,0 +1,68 @@
+{
+  "player_id": 482431731,
+  "@id": "https://api.chess.com/pub/player/apbt-13",
+  "url": "https://www.chess.com/member/APBT-13",
+  "username": "apbt-13",
+  "title": "WCM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Vancouver",
+  "last_online": 1774394044,
+  "joined": 1757559017,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2539,
+      "date": 1771622939,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1771621747,
+      "game": "https://www.chess.com/game/live/164887136580"
+    },
+    "record": {
+      "win": 43,
+      "loss": 27,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2440,
+      "date": 1771636679,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2489,
+      "date": 1760483584,
+      "game": "https://www.chess.com/game/live/144298685488"
+    },
+    "record": {
+      "win": 33,
+      "loss": 27,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1533,
+      "date": 1770240766
+    },
+    "lowest": {
+      "rating": 788,
+      "date": 1758047764
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

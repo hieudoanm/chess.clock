@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1647368.ae58bde0.200x200o.2ec2f48d150e.png",
+  "player_id": 1647368,
+  "@id": "https://api.chess.com/pub/player/hansen",
+  "url": "https://www.chess.com/member/hansen",
+  "name": "Eric Hansen",
+  "username": "hansen",
+  "title": "GM",
+  "followers": 16684,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Toronto",
+  "last_online": 1776551484,
+  "joined": 1228971104,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2533,
+      "date": 1713961080,
+      "rd": 258
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1486444525,
+      "game": "https://www.chess.com/game/daily/25752129"
+    },
+    "record": {
+      "win": 36,
+      "loss": 1,
+      "draw": 3,
+      "time_per_move": 33932,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2538,
+      "date": 1767154152,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1567193949,
+      "game": "https://www.chess.com/game/live/42658178203"
+    },
+    "record": {
+      "win": 74,
+      "loss": 43,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3041,
+      "date": 1776121775,
+      "rd": 27
+    },
+    "best": {
+      "rating": 3265,
+      "date": 1609458348,
+      "game": "https://www.chess.com/game/live/5681789857"
+    },
+    "record": {
+      "win": 15195,
+      "loss": 7513,
+      "draw": 940
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3117,
+      "date": 1776090267,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3122,
+      "date": 1776089714,
+      "game": "https://www.chess.com/game/live/161600822307"
+    },
+    "record": {
+      "win": 9237,
+      "loss": 4332,
+      "draw": 1048
+    }
+  },
+  "fide": 2609,
+  "tactics": {
+    "highest": {
+      "rating": 2306,
+      "date": 1228971104
+    },
+    "lowest": {
+      "rating": 2306,
+      "date": 1228971104
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

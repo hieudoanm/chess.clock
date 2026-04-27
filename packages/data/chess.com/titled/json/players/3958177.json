@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3958177.42a547c6.200x200o.e3c1cfaaf4aa.jpeg",
+  "player_id": 3958177,
+  "@id": "https://api.chess.com/pub/player/keranke",
+  "url": "https://www.chess.com/member/Keranke",
+  "name": "Vladimir Seliverstov",
+  "username": "keranke",
+  "title": "IM",
+  "followers": 2873,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776558674,
+  "joined": 1284134580,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1050,
+      "date": 1579108605,
+      "rd": 272
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1284134580,
+      "game": "https://www.chess.com/game/daily/201536340"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 6192,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2774,
+      "date": 1567193800,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1567185834,
+      "game": "https://www.chess.com/game/live/3991748199"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3000,
+      "date": 1776552493,
+      "rd": 35
+    },
+    "best": {
+      "rating": 3080,
+      "date": 1774871201,
+      "game": "https://www.chess.com/game/live/145600471542"
+    },
+    "record": {
+      "win": 9384,
+      "loss": 8044,
+      "draw": 998
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2991,
+      "date": 1776558668,
+      "rd": 31
+    },
+    "best": {
+      "rating": 3089,
+      "date": 1772776748,
+      "game": "https://www.chess.com/game/live/144294574557"
+    },
+    "record": {
+      "win": 8396,
+      "loss": 7575,
+      "draw": 1442
+    }
+  },
+  "fide": 2455,
+  "tactics": {
+    "highest": {
+      "rating": 2331,
+      "date": 1765067101
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1765067101
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

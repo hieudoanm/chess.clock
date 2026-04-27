@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20881430.ead710fd.200x200o.cf43c8d92048.jpg",
+  "player_id": 20881430,
+  "@id": "https://api.chess.com/pub/player/piongu",
+  "url": "https://www.chess.com/member/piongu",
+  "name": "Piotr Nguyen",
+  "username": "piongu",
+  "title": "IM",
+  "followers": 398,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Warsaw, Poland",
+  "last_online": 1776546487,
+  "joined": 1422736766,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessaround",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessaround"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1617391152,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2151,
+      "date": 1617391152,
+      "game": "https://www.chess.com/game/live/7577624523"
+    },
+    "record": {
+      "win": 14,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1745543540,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1617319676,
+      "game": "https://www.chess.com/game/live/16492030869"
+    },
+    "record": {
+      "win": 330,
+      "loss": 178,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1745279266,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1655586797,
+      "game": "https://www.chess.com/game/live/5052620749"
+    },
+    "record": {
+      "win": 973,
+      "loss": 627,
+      "draw": 93
+    }
+  },
+  "fide": 2422,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1422736766
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1422736766
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

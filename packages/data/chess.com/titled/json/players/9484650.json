@@ -1,0 +1,102 @@
+{
+  "player_id": 9484650,
+  "@id": "https://api.chess.com/pub/player/aklanarcher",
+  "url": "https://www.chess.com/member/aklanarcher",
+  "username": "aklanarcher",
+  "title": "NM",
+  "followers": 69,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776596276,
+  "joined": 1351821392,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1514,
+      "date": 1776596237,
+      "rd": 71
+    },
+    "best": {
+      "rating": 1599,
+      "date": 1763815338,
+      "game": "https://www.chess.com/game/daily/775188565"
+    },
+    "record": {
+      "win": 108,
+      "loss": 76,
+      "draw": 37,
+      "time_per_move": 3567,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2098,
+      "date": 1775107977,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1723776040,
+      "game": "https://www.chess.com/game/live/125327350969"
+    },
+    "record": {
+      "win": 244,
+      "loss": 240,
+      "draw": 54
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1776399475,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1753257375,
+      "game": "https://www.chess.com/game/live/166233896790"
+    },
+    "record": {
+      "win": 5601,
+      "loss": 6346,
+      "draw": 757
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1776570120,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1775876308,
+      "game": "https://www.chess.com/game/live/68626471471"
+    },
+    "record": {
+      "win": 670,
+      "loss": 391,
+      "draw": 70
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2149,
+      "date": 1776058418
+    },
+    "lowest": {
+      "rating": 1987,
+      "date": 1776059514
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

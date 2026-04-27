@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12463138.aede4d12.200x200o.6beb8c4b4e16.jpeg",
+  "player_id": 12463138,
+  "@id": "https://api.chess.com/pub/player/tufferguy",
+  "url": "https://www.chess.com/member/tufferguy",
+  "name": "Tuffer Guy",
+  "username": "tufferguy",
+  "title": "NM",
+  "followers": 139,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Dream City",
+  "last_online": 1687972764,
+  "joined": 1372117214,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1386,
+      "date": 1688153643,
+      "rd": 104
+    },
+    "best": {
+      "rating": 1547,
+      "date": 1537992312,
+      "game": "https://www.chess.com/game/daily/162736694"
+    },
+    "record": {
+      "win": 37,
+      "loss": 53,
+      "draw": 4,
+      "time_per_move": 30028,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1984,
+      "date": 1642888432,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1586909168,
+      "game": "https://www.chess.com/game/live/4961175461"
+    },
+    "record": {
+      "win": 247,
+      "loss": 142,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2198,
+      "date": 1681854130,
+      "rd": 175
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1659155977,
+      "game": "https://www.chess.com/game/live/4067850754"
+    },
+    "record": {
+      "win": 939,
+      "loss": 709,
+      "draw": 82
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1687622165,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1670346360,
+      "game": "https://www.chess.com/game/live/64084998165"
+    },
+    "record": {
+      "win": 1322,
+      "loss": 946,
+      "draw": 154
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2586,
+      "date": 1372117214
+    },
+    "lowest": {
+      "rating": 2586,
+      "date": 1372117214
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

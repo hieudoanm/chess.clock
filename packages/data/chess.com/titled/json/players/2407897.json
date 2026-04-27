@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2407897.2217914e.200x200o.30cc29b14ccf.jpeg",
+  "player_id": 2407897,
+  "@id": "https://api.chess.com/pub/player/grandglacier",
+  "url": "https://www.chess.com/member/GrandGlacier",
+  "name": "Roman Sapozhnikov",
+  "username": "grandglacier",
+  "title": "FM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Toronto",
+  "last_online": 1587902922,
+  "joined": 1261693844,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1432,
+      "date": 1702672308,
+      "rd": 177
+    },
+    "best": {
+      "rating": 1516,
+      "date": 1561237798,
+      "game": "https://www.chess.com/game/daily/41605009"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 32087,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2195,
+      "date": 1567227212,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1457894571,
+      "game": "https://www.chess.com/game/live/1497804384"
+    },
+    "record": {
+      "win": 17,
+      "loss": 1,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2208,
+      "date": 1462145682,
+      "rd": 210
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1284855342,
+      "game": "https://www.chess.com/game/live/155452995"
+    },
+    "record": {
+      "win": 55,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2465,
+      "date": 1588800002,
+      "rd": 14
+    },
+    "best": {
+      "rating": 2639,
+      "date": 1584114602,
+      "game": "https://www.chess.com/game/live/4596066849"
+    },
+    "record": {
+      "win": 3378,
+      "loss": 2838,
+      "draw": 607
+    }
+  },
+  "fide": 2377,
+  "tactics": {
+    "highest": {
+      "rating": 2158,
+      "date": 1261693844
+    },
+    "lowest": {
+      "rating": 2158,
+      "date": 1261693844
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

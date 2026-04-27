@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10480478.307b38fd.200x200o.39a67ef4f065.jpeg",
+  "player_id": 10480478,
+  "@id": "https://api.chess.com/pub/player/fmdaveledger",
+  "url": "https://www.chess.com/member/FMDaveLedger",
+  "name": "Dave Ledger",
+  "username": "fmdaveledger",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/EU",
+  "location": "London",
+  "last_online": 1776261942,
+  "joined": 1358553785,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 971,
+      "date": 1747661391,
+      "rd": 308
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1358553785,
+      "game": "https://www.chess.com/game/daily/458890999"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 32452,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1601,
+      "date": 1703347303,
+      "rd": 299
+    },
+    "best": {
+      "rating": 1601,
+      "date": 1358555457,
+      "game": "https://www.chess.com/game/live/437370602"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2235,
+      "date": 1756574707,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1756574707,
+      "game": "https://www.chess.com/game/live/150887893929"
+    },
+    "record": {
+      "win": 48,
+      "loss": 23,
+      "draw": 2
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1771701119
+    },
+    "lowest": {
+      "rating": 2308,
+      "date": 1771700687
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

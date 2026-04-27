@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31996402.aa7f3bbb.200x200o.e9fd80c80e68.jpeg",
+  "player_id": 31996402,
+  "@id": "https://api.chess.com/pub/player/dr_alpha",
+  "url": "https://www.chess.com/member/Dr_Alpha",
+  "username": "dr_alpha",
+  "title": "GM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776593966,
+  "joined": 1483087141,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1628,
+      "date": 1752279750,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1628,
+      "date": 1486740869,
+      "game": "https://www.chess.com/game/daily/154376894"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 62049,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1752279650,
+      "rd": 291
+    },
+    "best": {
+      "rating": 1594,
+      "date": 1487432431,
+      "game": "https://www.chess.com/game/live/1957617003"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1733372258,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1733372258,
+      "game": "https://www.chess.com/game/live/3446076619"
+    },
+    "record": {
+      "win": 102,
+      "loss": 90,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2874,
+      "date": 1770484675,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2897,
+      "date": 1751994806,
+      "game": "https://www.chess.com/game/live/140362792392"
+    },
+    "record": {
+      "win": 562,
+      "loss": 476,
+      "draw": 127
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1483087141
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1483087141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

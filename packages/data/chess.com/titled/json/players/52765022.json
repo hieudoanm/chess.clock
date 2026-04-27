@@ -1,0 +1,87 @@
+{
+  "player_id": 52765022,
+  "@id": "https://api.chess.com/pub/player/hoffentlichreichts",
+  "url": "https://www.chess.com/member/hoffentlichreichts",
+  "name": "Luis Engel",
+  "username": "hoffentlichreichts",
+  "title": "GM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775397113,
+  "joined": 1543929788,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 836,
+      "date": 1654719530,
+      "rd": 305
+    },
+    "best": {
+      "rating": 836,
+      "date": 1654719530,
+      "game": "https://www.chess.com/game/daily/387889993"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 382586,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1753,
+      "date": 1630089883,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1597394705,
+      "game": "https://www.chess.com/game/live/5304779038"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2766,
+      "date": 1746458218,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1722276971,
+      "game": "https://www.chess.com/game/live/25814430433"
+    },
+    "record": {
+      "win": 435,
+      "loss": 181,
+      "draw": 72
+    }
+  },
+  "fide": 2512,
+  "tactics": {
+    "highest": {
+      "rating": 2630,
+      "date": 1761674285
+    },
+    "lowest": {
+      "rating": 2515,
+      "date": 1772125230
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

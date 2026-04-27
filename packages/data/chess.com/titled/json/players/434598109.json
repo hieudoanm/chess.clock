@@ -1,0 +1,68 @@
+{
+  "player_id": 434598109,
+  "@id": "https://api.chess.com/pub/player/iron_punch",
+  "url": "https://www.chess.com/member/Iron_Punch",
+  "name": "Raphael Felix",
+  "username": "iron_punch",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776339361,
+  "joined": 1741204521,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2324,
+      "date": 1768840294,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1764506475,
+      "game": "https://www.chess.com/game/live/146140918866"
+    },
+    "record": {
+      "win": 8,
+      "loss": 17,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2516,
+      "date": 1776339354,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1776338697,
+      "game": "https://www.chess.com/game/live/152954196409"
+    },
+    "record": {
+      "win": 49,
+      "loss": 58,
+      "draw": 10
+    }
+  },
+  "fide": 2038,
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1768735386
+    },
+    "lowest": {
+      "rating": 2209,
+      "date": 1759591934
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

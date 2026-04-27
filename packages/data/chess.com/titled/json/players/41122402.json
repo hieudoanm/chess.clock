@@ -1,0 +1,85 @@
+{
+  "player_id": 41122402,
+  "@id": "https://api.chess.com/pub/player/varron07",
+  "url": "https://www.chess.com/member/varron07",
+  "name": "Varun V",
+  "username": "varron07",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776155947,
+  "joined": 1512722735,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2244,
+      "date": 1765288722,
+      "rd": 201
+    },
+    "best": {
+      "rating": 1821,
+      "date": 1660931820,
+      "game": "https://www.chess.com/game/live/54670596383"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2244,
+      "date": 1765288722,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2149,
+      "date": 1683116194,
+      "game": "https://www.chess.com/game/live/76854831391"
+    },
+    "record": {
+      "win": 11,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1774269971,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2614,
+      "date": 1772619346,
+      "game": "https://www.chess.com/game/live/4541881138"
+    },
+    "record": {
+      "win": 1289,
+      "loss": 1429,
+      "draw": 229
+    }
+  },
+  "fide": 2244,
+  "tactics": {
+    "highest": {
+      "rating": 2244,
+      "date": 1512722735
+    },
+    "lowest": {
+      "rating": 2244,
+      "date": 1512722735
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

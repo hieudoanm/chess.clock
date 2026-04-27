@@ -1,0 +1,122 @@
+{
+  "player_id": 6698031,
+  "@id": "https://api.chess.com/pub/player/coalescenet",
+  "url": "https://www.chess.com/member/coalescenet",
+  "name": "Michael Lei Wang",
+  "username": "coalescenet",
+  "title": "NM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776579514,
+  "joined": 1329628001,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 951,
+      "date": 1695245349,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1953,
+      "date": 1461391509,
+      "game": "https://www.chess.com/game/daily/130790768"
+    },
+    "record": {
+      "win": 782,
+      "loss": 571,
+      "draw": 139,
+      "time_per_move": 22782,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1450,
+      "date": 1470347552,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1675,
+      "date": 1424737567,
+      "game": "https://www.chess.com/game/daily/50637225"
+    },
+    "record": {
+      "win": 119,
+      "loss": 107,
+      "draw": 20,
+      "time_per_move": 22782,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2118,
+      "date": 1755929292,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1606611008,
+      "game": "https://www.chess.com/game/live/60205902027"
+    },
+    "record": {
+      "win": 149,
+      "loss": 100,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2342,
+      "date": 1744025531,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1575948717,
+      "game": "https://www.chess.com/game/live/10948010145"
+    },
+    "record": {
+      "win": 2917,
+      "loss": 2026,
+      "draw": 255
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1763442925,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1763154942,
+      "game": "https://www.chess.com/game/live/157363653181"
+    },
+    "record": {
+      "win": 4159,
+      "loss": 3568,
+      "draw": 587
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2392,
+      "date": 1763627632
+    },
+    "lowest": {
+      "rating": 2032,
+      "date": 1763627846
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

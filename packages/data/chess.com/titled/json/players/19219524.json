@@ -1,0 +1,85 @@
+{
+  "player_id": 19219524,
+  "@id": "https://api.chess.com/pub/player/misha_chessone",
+  "url": "https://www.chess.com/member/misha_chessone",
+  "name": "Mihailo Vasiliev",
+  "username": "misha_chessone",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kherson",
+  "last_online": 1616651088,
+  "joined": 1412778866,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1616684789,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1616683797,
+      "game": "https://www.chess.com/game/live/10418244789"
+    },
+    "record": {
+      "win": 22,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2499,
+      "date": 1607936473,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1607936473,
+      "game": "https://www.chess.com/game/live/3154897198"
+    },
+    "record": {
+      "win": 311,
+      "loss": 235,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2307,
+      "date": 1614348345,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1572988167,
+      "game": "https://www.chess.com/game/live/2529737058"
+    },
+    "record": {
+      "win": 160,
+      "loss": 75,
+      "draw": 7
+    }
+  },
+  "fide": 2330,
+  "tactics": {
+    "highest": {
+      "rating": 2391,
+      "date": 1412778866
+    },
+    "lowest": {
+      "rating": 2391,
+      "date": 1412778866
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

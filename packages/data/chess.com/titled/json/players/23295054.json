@@ -1,0 +1,118 @@
+{
+  "player_id": 23295054,
+  "@id": "https://api.chess.com/pub/player/liss_ca",
+  "url": "https://www.chess.com/member/Liss_CA",
+  "name": "Lisseth Acevedo",
+  "username": "liss_ca",
+  "title": "WIM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Reykjav\u00edk",
+  "last_online": 1776444421,
+  "joined": 1437250269,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1389,
+      "date": 1762180095,
+      "rd": 138
+    },
+    "best": {
+      "rating": 1389,
+      "date": 1723102262,
+      "game": "https://www.chess.com/game/daily/683667371"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 5675,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1107,
+      "date": 1438223534,
+      "rd": 264
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 5675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1850,
+      "date": 1764066856,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1850,
+      "date": 1661537166,
+      "game": "https://www.chess.com/game/live/5301651912"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1597753409,
+      "rd": 279
+    },
+    "best": {
+      "rating": 1547,
+      "date": 1463097805,
+      "game": "https://www.chess.com/game/live/1575878760"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2023,
+      "date": 1775736558,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1761581020,
+      "game": "https://www.chess.com/game/live/167069692494"
+    },
+    "record": {
+      "win": 145,
+      "loss": 127,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2258,
+      "date": 1756986551
+    },
+    "lowest": {
+      "rating": 1938,
+      "date": 1774534496
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 18
+    }
+  }
+}

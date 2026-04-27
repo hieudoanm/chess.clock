@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12763296.62b1fbf9.200x200o.42238bed423f.jpg",
+  "player_id": 12763296,
+  "@id": "https://api.chess.com/pub/player/budda",
+  "url": "https://www.chess.com/member/budda",
+  "name": "John Williams",
+  "username": "budda",
+  "title": "NM",
+  "followers": 381,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Arizona",
+  "last_online": 1774789302,
+  "joined": 1374181815,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nm_budda",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nm_budda"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1193,
+      "date": 1746905895,
+      "rd": 232
+    },
+    "best": {
+      "rating": 1944,
+      "date": 1399524397,
+      "game": "https://www.chess.com/game/daily/224373292"
+    },
+    "record": {
+      "win": 13,
+      "loss": 13,
+      "draw": 2,
+      "time_per_move": 114500,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2316,
+      "date": 1710401012,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1710401012,
+      "game": "https://www.chess.com/game/live/68716346771"
+    },
+    "record": {
+      "win": 127,
+      "loss": 36,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2451,
+      "date": 1717233194,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1627810992,
+      "game": "https://www.chess.com/game/live/39776405715"
+    },
+    "record": {
+      "win": 3237,
+      "loss": 2286,
+      "draw": 281
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2482,
+      "date": 1743545112,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1701584226,
+      "game": "https://www.chess.com/game/live/5046134873"
+    },
+    "record": {
+      "win": 1298,
+      "loss": 798,
+      "draw": 128
+    }
+  },
+  "fide": 2048,
+  "tactics": {
+    "highest": {
+      "rating": 2634,
+      "date": 1374181815
+    },
+    "lowest": {
+      "rating": 2634,
+      "date": 1374181815
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

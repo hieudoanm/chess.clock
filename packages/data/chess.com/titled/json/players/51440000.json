@@ -1,0 +1,103 @@
+{
+  "player_id": 51440000,
+  "@id": "https://api.chess.com/pub/player/baby_legs",
+  "url": "https://www.chess.com/member/Baby_Legs",
+  "name": "Arik Braun",
+  "username": "baby_legs",
+  "title": "GM",
+  "followers": 131,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775769611,
+  "joined": 1541266745,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1755,
+      "date": 1761380936,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1755,
+      "date": 1729807849,
+      "game": "https://www.chess.com/game/daily/638673033"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 147514,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2518,
+      "date": 1677874644,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2643,
+      "date": 1586460716,
+      "game": "https://www.chess.com/game/live/71610804847"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2780,
+      "date": 1773686000,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2880,
+      "date": 1760935513,
+      "game": "https://www.chess.com/game/live/146673868018"
+    },
+    "record": {
+      "win": 1132,
+      "loss": 924,
+      "draw": 134
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2826,
+      "date": 1773686320,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2955,
+      "date": 1766693013,
+      "game": "https://www.chess.com/game/live/146678671306"
+    },
+    "record": {
+      "win": 1401,
+      "loss": 695,
+      "draw": 180
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2299,
+      "date": 1761637458
+    },
+    "lowest": {
+      "rating": 1975,
+      "date": 1760077182
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

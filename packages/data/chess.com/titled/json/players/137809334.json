@@ -1,0 +1,105 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/137809334.ed50faeb.200x200o.f8f0f4c3424d.jpeg",
+    "player_id": 137809334,
+    "@id": "https://api.chess.com/pub/player/sirgerhard",
+    "url": "https://www.chess.com/member/SirGerhard",
+    "name": "Daniel Gormally",
+    "username": "sirgerhard",
+    "title": "GM",
+    "followers": 416,
+    "country": "https://api.chess.com/pub/country/GB",
+    "location": "Alnwick",
+    "last_online": 1732615653,
+    "joined": 1619637246,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess960_daily": {
+        "last": {
+            "rating": 677,
+            "date": 1637739257,
+            "rd": 311
+        },
+        "best": {
+            "rating": 677,
+            "date": 1637739257,
+            "game": "https://www.chess.com/game/daily/367882293"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 11664,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2330,
+            "date": 1716647240,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2382,
+            "date": 1643634463,
+            "game": "https://www.chess.com/game/live/101213594123"
+        },
+        "record": {
+            "win": 9,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2744,
+            "date": 1726482338,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2844,
+            "date": 1623610910,
+            "game": "https://www.chess.com/game/live/103744159361"
+        },
+        "record": {
+            "win": 1343,
+            "loss": 761,
+            "draw": 208
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2780,
+            "date": 1732622136,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2873,
+            "date": 1713886906,
+            "game": "https://www.chess.com/game/live/107533324955"
+        },
+        "record": {
+            "win": 2411,
+            "loss": 1361,
+            "draw": 543
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3703,
+            "date": 1716228155
+        },
+        "lowest": {
+            "rating": 2500,
+            "date": 1623090170
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 69,
+            "score": 66
+        }
+    }
+}

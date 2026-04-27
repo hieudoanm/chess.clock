@@ -1,0 +1,102 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6147304.5208abcc.200x200o.0e1b51cb0cce.jpeg",
+  "player_id": 6147304,
+  "@id": "https://api.chess.com/pub/player/andryusha",
+  "url": "https://www.chess.com/member/andryusha",
+  "name": "Andrey Krasnov",
+  "username": "andryusha",
+  "title": "FM",
+  "followers": 145,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1535991869,
+  "joined": 1321655405,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2355,
+      "date": 1587499766,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1513211309,
+      "game": "https://www.chess.com/game/daily/85295190"
+    },
+    "record": {
+      "win": 464,
+      "loss": 51,
+      "draw": 126,
+      "time_per_move": 11345,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2135,
+      "date": 1536351036,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1532537744,
+      "game": "https://www.chess.com/game/daily/95679742"
+    },
+    "record": {
+      "win": 159,
+      "loss": 30,
+      "draw": 31,
+      "time_per_move": 11345,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2418,
+      "date": 1536013959,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1464838146,
+      "game": "https://www.chess.com/game/live/1092090617"
+    },
+    "record": {
+      "win": 7936,
+      "loss": 8713,
+      "draw": 394
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2169,
+      "date": 1535340275,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1521239140,
+      "game": "https://www.chess.com/game/live/462148860"
+    },
+    "record": {
+      "win": 1238,
+      "loss": 1081,
+      "draw": 75
+    }
+  },
+  "fide": 2290,
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1321655405
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1321655405
+    }
+  },
+  "puzzle_rush": {}
+}

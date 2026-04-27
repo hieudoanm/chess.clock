@@ -1,0 +1,84 @@
+{
+  "player_id": 24319138,
+  "@id": "https://api.chess.com/pub/player/dirk_da_player",
+  "url": "https://www.chess.com/member/dirk_da_player",
+  "name": "Dirk Troltenier",
+  "username": "dirk_da_player",
+  "title": "FM",
+  "followers": 89,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776536936,
+  "joined": 1443404747,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2479,
+      "date": 1774658099,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1774645865,
+      "game": "https://www.chess.com/game/live/166518346178"
+    },
+    "record": {
+      "win": 162,
+      "loss": 80,
+      "draw": 40
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2148,
+      "date": 1729000712,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1729000712,
+      "game": "https://www.chess.com/game/live/121393188507"
+    },
+    "record": {
+      "win": 67,
+      "loss": 26,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2502,
+      "date": 1776535935,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1772421013,
+      "game": "https://www.chess.com/game/live/151743484693"
+    },
+    "record": {
+      "win": 24265,
+      "loss": 21657,
+      "draw": 3632
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2376,
+      "date": 1756729609
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1758199925
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 46555176,
+  "@id": "https://api.chess.com/pub/player/davidminsim",
+  "url": "https://www.chess.com/member/DavidMinSim",
+  "name": "David Mindestrommen Simonsen",
+  "username": "davidminsim",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776430431,
+  "joined": 1527409295,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 527,
+      "date": 1775859788,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1000,
+      "date": 1527409295,
+      "game": "https://www.chess.com/game/daily/400956303"
+    },
+    "record": {
+      "win": 9,
+      "loss": 16,
+      "draw": 1,
+      "time_per_move": 128230,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2219,
+      "date": 1738684514
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1738684342,
+      "game": "https://www.chess.com/game/live/132422986069"
+    },
+    "record": {
+      "win": 151,
+      "loss": 79,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2219,
+      "date": 1772209035
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1772209035,
+      "game": "https://www.chess.com/game/live/50790555571"
+    },
+    "record": {
+      "win": 492,
+      "loss": 316,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2429,
+      "date": 1776186821,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2438,
+      "date": 1776185737,
+      "game": "https://www.chess.com/game/live/170494249419"
+    },
+    "record": {
+      "win": 1020,
+      "loss": 843,
+      "draw": 98
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2608,
+      "date": 1527409295
+    },
+    "lowest": {
+      "rating": 2608,
+      "date": 1527409295
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

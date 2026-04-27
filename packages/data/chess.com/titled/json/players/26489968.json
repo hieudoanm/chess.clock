@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26489968.f7912339.200x200o.d99e4779dc92.jpeg",
+  "player_id": 26489968,
+  "@id": "https://api.chess.com/pub/player/morshynska",
+  "url": "https://www.chess.com/member/Morshynska",
+  "name": "Maryana Huda",
+  "username": "morshynska",
+  "title": "WGM",
+  "followers": 1763,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Morshyn",
+  "last_online": 1776583478,
+  "joined": 1454490070,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/maryanahuda",
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/maryanahuda"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2410,
+      "date": 1688554603,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1626098060,
+      "game": "https://www.chess.com/game/daily/324704974"
+    },
+    "record": {
+      "win": 129,
+      "loss": 7,
+      "draw": 47,
+      "time_per_move": 63915,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2221,
+      "date": 1619383212,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1616877604,
+      "game": "https://www.chess.com/game/live/10609025343"
+    },
+    "record": {
+      "win": 14,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2156,
+      "date": 1596028547,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2193,
+      "date": 1473686433,
+      "game": "https://www.chess.com/game/live/3097809969"
+    },
+    "record": {
+      "win": 327,
+      "loss": 254,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2139,
+      "date": 1739045674,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1739044031,
+      "game": "https://www.chess.com/game/live/4943531826"
+    },
+    "record": {
+      "win": 280,
+      "loss": 391,
+      "draw": 67
+    }
+  },
+  "fide": 2179,
+  "tactics": {
+    "highest": {
+      "rating": 2080,
+      "date": 1454490070
+    },
+    "lowest": {
+      "rating": 2080,
+      "date": 1454490070
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

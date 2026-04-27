@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2624129.c9b5bffd.200x200o.35f78c5fe7af.gif",
+  "player_id": 2624129,
+  "@id": "https://api.chess.com/pub/player/wlrs",
+  "url": "https://www.chess.com/member/wlrs",
+  "name": "Osmo Kauppila",
+  "username": "wlrs",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/FI",
+  "location": "Oulu",
+  "last_online": 1775570896,
+  "joined": 1268225659,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2397,
+      "date": 1702676444,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1323571603,
+      "game": "https://www.chess.com/game/daily/40520739"
+    },
+    "record": {
+      "win": 287,
+      "loss": 69,
+      "draw": 85,
+      "time_per_move": 60138,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1975,
+      "date": 1444656628,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2154,
+      "date": 1400874973,
+      "game": "https://www.chess.com/game/daily/55523672"
+    },
+    "record": {
+      "win": 44,
+      "loss": 7,
+      "draw": 9,
+      "time_per_move": 60138,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2772,
+      "date": 1296587613,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2622,
+      "date": 1296587613,
+      "game": "https://www.chess.com/game/live/89214060"
+    },
+    "record": {
+      "win": 168,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2324,
+      "date": 1724409639,
+      "rd": 230
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1325689403,
+      "game": "https://www.chess.com/game/live/230166156"
+    },
+    "record": {
+      "win": 77,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2786,
+      "date": 1764106330
+    },
+    "lowest": {
+      "rating": 2462,
+      "date": 1760553370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/4390548035",
+    "time_control": "180",
+    "end_time": 1578808468,
+    "rated": true,
+    "tcn": "gv!TmuZRjr-E+g5QltEKcjKvov0KpxRJiq-FhpKCtCJCd7Q7+mCv-Hvmfm7S=LFL+ETExELR=LRHmHYQHmSIbl6LEL-tmt-mem=vmv",
+    "uuid": "4e61f9e2-34ff-11ea-bf1e-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3kb1r/pp3ppp/2p5/2n2P2/8/PP1BPK2/1BPN1P1R/R5B1 b kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1891,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/dobiedoo",
+      "username": "DobieDoo",
+      "uuid": "56359d68-dd02-11e7-802a-000000000000"
+    },
+    "black": {
+      "rating": 1707,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/gukeshdommaraju",
+      "username": "GukeshDommaraju",
+      "uuid": "e471a0a4-d8fc-11e7-8016-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4390556363",
+    "time_control": "180",
+    "end_time": 1578808659,
+    "rated": true,
+    "tcn": "gvZRlB!TvMTE+w-VmC+z=szGfmET+r=S-N-ZrSZPS1V1M181-M18=18ZBJYQMS=xS7xoNT2Thg&hmE",
+    "uuid": "033c5910-3500-11ea-bf1e-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbN1b1r/pp1kpP1p/1npp1p2/b2P4/4P1B1/2P3B1/PPP2PpP/RNBQK1Rq b Q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1880,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/dobiedoo",
+      "username": "DobieDoo",
+      "uuid": "56359d68-dd02-11e7-802a-000000000000"
+    },
+    "black": {
+      "rating": 1752,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gukeshdommaraju",
+      "username": "GukeshDommaraju",
+      "uuid": "e471a0a4-d8fc-11e7-8016-000000000000"
+    }
+  }
+]

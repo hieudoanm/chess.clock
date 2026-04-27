@@ -1,0 +1,103 @@
+{
+  "player_id": 3946748,
+  "@id": "https://api.chess.com/pub/player/marreuh",
+  "url": "https://www.chess.com/member/Marreuh",
+  "name": "Martijn Maddens",
+  "username": "marreuh",
+  "title": "CM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/SZ",
+  "last_online": 1775656416,
+  "joined": 1283950969,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1121,
+      "date": 1703541683,
+      "rd": 277
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1283950969,
+      "game": "https://www.chess.com/game/daily/183864962"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15002,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1270,
+      "date": 1573678833,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1396,
+      "date": 1283952072,
+      "game": "https://www.chess.com/game/live/1733251130"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2121,
+      "date": 1665179501,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2172,
+      "date": 1589823825,
+      "game": "https://www.chess.com/game/live/28219781461"
+    },
+    "record": {
+      "win": 17,
+      "loss": 20,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2235,
+      "date": 1736348169,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1660423216,
+      "game": "https://www.chess.com/game/live/4370491405"
+    },
+    "record": {
+      "win": 304,
+      "loss": 263,
+      "draw": 37
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2547,
+      "date": 1758637241
+    },
+    "lowest": {
+      "rating": 2483,
+      "date": 1758636952
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

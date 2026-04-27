@@ -1,0 +1,84 @@
+{
+  "player_id": 12792720,
+  "@id": "https://api.chess.com/pub/player/antham",
+  "url": "https://www.chess.com/member/Antham",
+  "name": "Ruben Pereira",
+  "username": "antham",
+  "title": "IM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1761672316,
+  "joined": 1374355525,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2264,
+      "date": 1657060023,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1597495664,
+      "game": "https://www.chess.com/game/live/5305953429"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1674061439,
+      "rd": 266
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1674061439,
+      "game": "https://www.chess.com/game/live/1581699393"
+    },
+    "record": {
+      "win": 2353,
+      "loss": 1535,
+      "draw": 176
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2667,
+      "date": 1729025985,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1729025985,
+      "game": "https://www.chess.com/game/live/4279691004"
+    },
+    "record": {
+      "win": 3763,
+      "loss": 2517,
+      "draw": 442
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2561,
+      "date": 1374355525
+    },
+    "lowest": {
+      "rating": 2561,
+      "date": 1374355525
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

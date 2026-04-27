@@ -1,0 +1,83 @@
+{
+  "player_id": 42051434,
+  "@id": "https://api.chess.com/pub/player/schattman",
+  "url": "https://www.chess.com/member/Schattman",
+  "name": "Florian Gatterer",
+  "username": "schattman",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Innsbruck",
+  "last_online": 1776282136,
+  "joined": 1515233656,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1732019869,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2328,
+      "date": 1741294468,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1737228179,
+      "game": "https://www.chess.com/game/live/82496409095"
+    },
+    "record": {
+      "win": 42,
+      "loss": 36,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2528,
+      "date": 1771617633,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1716326140,
+      "game": "https://www.chess.com/game/live/73776774541"
+    },
+    "record": {
+      "win": 2243,
+      "loss": 2914,
+      "draw": 1490
+    }
+  },
+  "fide": 2211,
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1515233656
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1515233656
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

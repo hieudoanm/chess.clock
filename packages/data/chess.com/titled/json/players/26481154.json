@@ -1,0 +1,80 @@
+{
+  "player_id": 26481154,
+  "@id": "https://api.chess.com/pub/player/onyshchuk_v",
+  "url": "https://www.chess.com/member/onyshchuk_v",
+  "name": "Volodymyr Onyshchuk",
+  "username": "onyshchuk_v",
+  "title": "GM",
+  "followers": 102,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776341517,
+  "joined": 1454443083,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2519,
+      "date": 1739816718,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1598016272,
+      "game": "https://www.chess.com/game/live/133553940057"
+    },
+    "record": {
+      "win": 15,
+      "loss": 13,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2649,
+      "date": 1598991986,
+      "rd": 249
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2964,
+      "date": 1760291984,
+      "rd": 41
+    },
+    "best": {
+      "rating": 3011,
+      "date": 1760198211,
+      "game": "https://www.chess.com/game/live/127587078087"
+    },
+    "record": {
+      "win": 696,
+      "loss": 272,
+      "draw": 118
+    }
+  },
+  "fide": 2633,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1454443083
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1454443083
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 55042358,
+  "@id": "https://api.chess.com/pub/player/olga_ustinova",
+  "url": "https://www.chess.com/member/Olga_Ustinova",
+  "name": "Olga Ustinova",
+  "username": "olga_ustinova",
+  "title": "WFM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Mosow",
+  "last_online": 1776526592,
+  "joined": 1545660783,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2043,
+      "date": 1767604618,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1878,
+      "date": 1776155563,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1633518379,
+      "game": "https://www.chess.com/game/live/32443753981"
+    },
+    "record": {
+      "win": 1156,
+      "loss": 945,
+      "draw": 113
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1958,
+      "date": 1776526397,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1557760802,
+      "game": "https://www.chess.com/game/live/4081919631"
+    },
+    "record": {
+      "win": 722,
+      "loss": 737,
+      "draw": 150
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2181,
+      "date": 1768233241
+    },
+    "lowest": {
+      "rating": 1934,
+      "date": 1757765180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

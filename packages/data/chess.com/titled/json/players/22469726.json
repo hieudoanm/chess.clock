@@ -1,0 +1,99 @@
+{
+  "player_id": 22469726,
+  "@id": "https://api.chess.com/pub/player/danfii",
+  "url": "https://www.chess.com/member/Danfii",
+  "name": "Daniel Fischer",
+  "username": "danfii",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1775723450,
+  "joined": 1432132119,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1695391513,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 513,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2490,
+      "date": 1678715742,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1619894956,
+      "game": "https://www.chess.com/game/live/13629171955"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2303,
+      "date": 1678715891,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1608406323,
+      "game": "https://www.chess.com/game/live/6008354652"
+    },
+    "record": {
+      "win": 18,
+      "loss": 17,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2546,
+      "date": 1773956875,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1644948201,
+      "game": "https://www.chess.com/game/live/31433441489"
+    },
+    "record": {
+      "win": 3270,
+      "loss": 2644,
+      "draw": 443
+    }
+  },
+  "fide": 2331,
+  "tactics": {
+    "highest": {
+      "rating": 2439,
+      "date": 1432132119
+    },
+    "lowest": {
+      "rating": 2439,
+      "date": 1432132119
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

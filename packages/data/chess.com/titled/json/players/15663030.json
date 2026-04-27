@@ -1,0 +1,105 @@
+{
+  "player_id": 15663030,
+  "@id": "https://api.chess.com/pub/player/elbertzeng",
+  "url": "https://www.chess.com/member/elbertzeng",
+  "name": "Elbert Zeng",
+  "username": "elbertzeng",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Valencia",
+  "last_online": 1776580354,
+  "joined": 1390199646,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 609,
+      "date": 1686890718,
+      "rd": 266
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1390199646,
+      "game": "https://www.chess.com/game/daily/528943215"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 6168,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1689133403,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1647229843,
+      "game": "https://www.chess.com/game/live/40967944159"
+    },
+    "record": {
+      "win": 591,
+      "loss": 488,
+      "draw": 67
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2253,
+      "date": 1689137543,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1689137543,
+      "game": "https://www.chess.com/game/live/55294810277"
+    },
+    "record": {
+      "win": 143,
+      "loss": 136,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2242,
+      "date": 1776570144,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1659152258,
+      "game": "https://www.chess.com/game/live/49160411827"
+    },
+    "record": {
+      "win": 658,
+      "loss": 638,
+      "draw": 101
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2520,
+      "date": 1776572117
+    },
+    "lowest": {
+      "rating": 2398,
+      "date": 1756871221
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

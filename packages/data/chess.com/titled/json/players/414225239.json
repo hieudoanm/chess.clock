@@ -1,0 +1,83 @@
+{
+  "player_id": 414225239,
+  "@id": "https://api.chess.com/pub/player/daitaar",
+  "url": "https://www.chess.com/member/Daitaar",
+  "username": "daitaar",
+  "title": "IM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1775617897,
+  "joined": 1735719848,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1769952574,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1760023149,
+      "game": "https://www.chess.com/game/live/164093870398"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2462,
+      "date": 1773051192,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2473,
+      "date": 1772619291,
+      "game": "https://www.chess.com/game/live/144411844100"
+    },
+    "record": {
+      "win": 20,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2729,
+      "date": 1775322170,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1760728077,
+      "game": "https://www.chess.com/game/live/144252264994"
+    },
+    "record": {
+      "win": 75,
+      "loss": 59,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1443,
+      "date": 1761417968
+    },
+    "lowest": {
+      "rating": 794,
+      "date": 1761417749
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

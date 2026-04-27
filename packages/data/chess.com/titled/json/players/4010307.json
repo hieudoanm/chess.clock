@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4010307.3c2f0da7.200x200o.3b1fd600d8ff.jpg",
+  "player_id": 4010307,
+  "@id": "https://api.chess.com/pub/player/username983527891",
+  "url": "https://www.chess.com/member/username983527891",
+  "name": "Nathaniel Graham",
+  "username": "username983527891",
+  "title": "FM",
+  "followers": 253,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Onamia",
+  "last_online": 1776339350,
+  "joined": 1285121865,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1488,
+      "date": 1729758492,
+      "rd": 229
+    },
+    "best": {
+      "rating": 1488,
+      "date": 1698155559,
+      "game": "https://www.chess.com/game/daily/570394327"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8315,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2174,
+      "date": 1685386744,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1685383195,
+      "game": "https://www.chess.com/game/live/79114470585"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1524,
+      "date": 1697137924,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1301426343,
+      "game": "https://www.chess.com/game/live/123233828"
+    },
+    "record": {
+      "win": 2547,
+      "loss": 2124,
+      "draw": 115
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2018,
+      "date": 1719460313,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1348098803,
+      "game": "https://www.chess.com/game/live/66522782723"
+    },
+    "record": {
+      "win": 50680,
+      "loss": 49702,
+      "draw": 5191
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2575,
+      "date": 1285121865
+    },
+    "lowest": {
+      "rating": 2575,
+      "date": 1285121865
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

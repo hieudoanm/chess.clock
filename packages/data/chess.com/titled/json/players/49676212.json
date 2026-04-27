@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49676212.fd43a425.200x200o.b9e4083e235a.jpeg",
+  "player_id": 49676212,
+  "@id": "https://api.chess.com/pub/player/ogpin",
+  "url": "https://www.chess.com/member/ogpin",
+  "name": "Kenneth Hobson",
+  "username": "ogpin",
+  "title": "FM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776597563,
+  "joined": 1536765210,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1327,
+      "date": 1767879979,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1567,
+      "date": 1630741802,
+      "game": "https://www.chess.com/game/daily/310849656"
+    },
+    "record": {
+      "win": 37,
+      "loss": 11,
+      "draw": 1,
+      "time_per_move": 211665,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2045,
+      "date": 1764254441,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2045,
+      "date": 1764254441,
+      "game": "https://www.chess.com/game/live/6078678790"
+    },
+    "record": {
+      "win": 60,
+      "loss": 16,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2470,
+      "date": 1775827135,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2596,
+      "date": 1765043379,
+      "game": "https://www.chess.com/game/live/110316734341"
+    },
+    "record": {
+      "win": 662,
+      "loss": 545,
+      "draw": 81
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2499,
+      "date": 1776548167,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2521,
+      "date": 1769357635,
+      "game": "https://www.chess.com/game/live/105204723969"
+    },
+    "record": {
+      "win": 237,
+      "loss": 176,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2485,
+      "date": 1756292715
+    },
+    "lowest": {
+      "rating": 2467,
+      "date": 1756292669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

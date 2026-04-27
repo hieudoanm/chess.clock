@@ -1,0 +1,84 @@
+{
+  "player_id": 59112644,
+  "@id": "https://api.chess.com/pub/player/alina_gumerovna",
+  "url": "https://www.chess.com/member/Alina_Gumerovna",
+  "name": "Alina Semenova",
+  "username": "alina_gumerovna",
+  "title": "WFM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1766579711,
+  "joined": 1553792929,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1541,
+      "date": 1764872558,
+      "rd": 134
+    },
+    "best": {
+      "rating": 1541,
+      "date": 1764872558,
+      "game": "https://www.chess.com/game/live/116275818023"
+    },
+    "record": {
+      "win": 17,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2372,
+      "date": 1765187047,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1760075355,
+      "game": "https://www.chess.com/game/live/112817980721"
+    },
+    "record": {
+      "win": 315,
+      "loss": 548,
+      "draw": 39
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1766558839,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1764940171,
+      "game": "https://www.chess.com/game/live/143238163818"
+    },
+    "record": {
+      "win": 1352,
+      "loss": 1495,
+      "draw": 193
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2224,
+      "date": 1553792929
+    },
+    "lowest": {
+      "rating": 2224,
+      "date": 1553792929
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

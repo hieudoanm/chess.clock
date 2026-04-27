@@ -1,0 +1,103 @@
+{
+  "player_id": 71920128,
+  "@id": "https://api.chess.com/pub/player/tsyhanchuk_stanislav",
+  "url": "https://www.chess.com/member/Tsyhanchuk_Stanislav",
+  "name": "Stanislav Tsyhanchuk",
+  "username": "tsyhanchuk_stanislav",
+  "title": "IM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1769522319,
+  "joined": 1581195045,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1882,
+      "date": 1757412533,
+      "rd": 300
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1668344239,
+      "game": "https://www.chess.com/game/daily/501216657"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 2271,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1411,
+      "date": 1757948834,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1584891202,
+      "game": "https://www.chess.com/game/live/4623649475"
+    },
+    "record": {
+      "win": 4,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2447,
+      "date": 1750522311,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1728671524,
+      "game": "https://www.chess.com/game/live/121889379801"
+    },
+    "record": {
+      "win": 243,
+      "loss": 269,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2701,
+      "date": 1769522942,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1769522942,
+      "game": "https://www.chess.com/game/live/34453278777"
+    },
+    "record": {
+      "win": 1446,
+      "loss": 1642,
+      "draw": 271
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2403,
+      "date": 1764865365
+    },
+    "lowest": {
+      "rating": 2015,
+      "date": 1756223220
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

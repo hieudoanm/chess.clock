@@ -1,0 +1,104 @@
+{
+  "player_id": 25391536,
+  "@id": "https://api.chess.com/pub/player/fmlzikon",
+  "url": "https://www.chess.com/member/FMLzikon",
+  "name": "Roar Elseth",
+  "username": "fmlzikon",
+  "title": "FM",
+  "followers": 151,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776552174,
+  "joined": 1449173955,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1940,
+      "date": 1768229207,
+      "rd": 179
+    },
+    "best": {
+      "rating": 2179,
+      "date": 1572206585,
+      "game": "https://www.chess.com/game/daily/230536794"
+    },
+    "record": {
+      "win": 90,
+      "loss": 30,
+      "draw": 14,
+      "time_per_move": 21404,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2278,
+      "date": 1776547439,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1757497105,
+      "game": "https://www.chess.com/game/live/164101955110"
+    },
+    "record": {
+      "win": 537,
+      "loss": 430,
+      "draw": 118
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1490,
+      "date": 1771177544,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2196,
+      "date": 1490386687,
+      "game": "https://www.chess.com/game/live/1770929019"
+    },
+    "record": {
+      "win": 781,
+      "loss": 755,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2242,
+      "date": 1775600447,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1748459625,
+      "game": "https://www.chess.com/game/live/2229467447"
+    },
+    "record": {
+      "win": 10453,
+      "loss": 9762,
+      "draw": 1879
+    }
+  },
+  "fide": 2331,
+  "tactics": {
+    "highest": {
+      "rating": 2431,
+      "date": 1760172030
+    },
+    "lowest": {
+      "rating": 1977,
+      "date": 1762682837
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

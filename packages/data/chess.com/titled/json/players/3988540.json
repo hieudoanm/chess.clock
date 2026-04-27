@@ -1,0 +1,99 @@
+{
+  "player_id": 3988540,
+  "@id": "https://api.chess.com/pub/player/antoniocalvo",
+  "url": "https://www.chess.com/member/AntonioCalvo",
+  "name": "Antonio Calvo",
+  "username": "antoniocalvo",
+  "title": "NM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/PH",
+  "location": "Philippines",
+  "last_online": 1761876151,
+  "joined": 1284694606,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1228,
+      "date": 1492311001,
+      "rd": 242
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 9442,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2102,
+      "date": 1757827881,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1673598728,
+      "game": "https://www.chess.com/game/live/75379902883"
+    },
+    "record": {
+      "win": 65,
+      "loss": 82,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1226,
+      "date": 1660363666,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1804,
+      "date": 1476337634,
+      "game": "https://www.chess.com/game/live/2402740914"
+    },
+    "record": {
+      "win": 47,
+      "loss": 74,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1948,
+      "date": 1681980139,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1503927392,
+      "game": "https://www.chess.com/game/live/757615831"
+    },
+    "record": {
+      "win": 1280,
+      "loss": 1049,
+      "draw": 113
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2240,
+      "date": 1757832367
+    },
+    "lowest": {
+      "rating": 1440,
+      "date": 1757836045
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 2,
+      "score": 2
+    }
+  }
+}

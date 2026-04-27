@@ -1,0 +1,97 @@
+{
+  "player_id": 211504543,
+  "@id": "https://api.chess.com/pub/player/chesspaider",
+  "url": "https://www.chess.com/member/chesspaider",
+  "username": "chesspaider",
+  "title": "WFM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776472382,
+  "joined": 1670547808,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 587,
+      "date": 1772752405,
+      "rd": 217
+    },
+    "record": {
+      "win": 16,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 25468,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2099,
+      "date": 1775254437,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2142,
+      "date": 1760053081,
+      "game": "https://www.chess.com/game/live/143640115776"
+    },
+    "record": {
+      "win": 36,
+      "loss": 45,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1972,
+      "date": 1719081786,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1972,
+      "date": 1719081786,
+      "game": "https://www.chess.com/game/live/112820449073"
+    },
+    "record": {
+      "win": 67,
+      "loss": 57,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1664,
+      "date": 1776471326,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1985,
+      "date": 1729548286,
+      "game": "https://www.chess.com/game/live/123286788441"
+    },
+    "record": {
+      "win": 473,
+      "loss": 509,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2179,
+      "date": 1670547808
+    },
+    "lowest": {
+      "rating": 2179,
+      "date": 1670547808
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

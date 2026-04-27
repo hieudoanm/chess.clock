@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/386632185.70427ca5.200x200o.d5b3e52d39fe.png",
+    "player_id": 386632185,
+    "@id": "https://api.chess.com/pub/player/rubix-time",
+    "url": "https://www.chess.com/member/rubix-time",
+    "name": "Virgile Breuil",
+    "username": "rubix-time",
+    "title": "FM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741595111,
+    "joined": 1725705336,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1585,
+            "date": 1737940095,
+            "rd": 192
+        },
+        "best": {
+            "rating": 1585,
+            "date": 1733857196,
+            "game": "https://www.chess.com/game/daily/700385727"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 39937,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2100,
+            "date": 1725799029
+        },
+        "best": {
+            "rating": 2004,
+            "date": 1725799029,
+            "game": "https://www.chess.com/game/live/119537468993"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2523,
+            "date": 1741536956,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2460,
+            "date": 1738436180,
+            "game": "https://www.chess.com/game/live/132169282677"
+        },
+        "record": {
+            "win": 160,
+            "loss": 111,
+            "draw": 16
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2566,
+            "date": 1741131878,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1736964282,
+            "game": "https://www.chess.com/game/live/134865538555"
+        },
+        "record": {
+            "win": 64,
+            "loss": 50,
+            "draw": 13
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3310,
+            "date": 1740386034
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1725705336
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 54,
+            "score": 51
+        }
+    }
+}

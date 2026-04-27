@@ -1,0 +1,85 @@
+{
+  "player_id": 416537023,
+  "@id": "https://api.chess.com/pub/player/little_skib",
+  "url": "https://www.chess.com/member/Little_Skib",
+  "name": "Ethan Sheehan",
+  "username": "little_skib",
+  "title": "NM",
+  "followers": 828,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776569121,
+  "joined": 1736484179,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2478,
+      "date": 1774748785,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2478,
+      "date": 1774748785,
+      "game": "https://www.chess.com/game/live/166568271772"
+    },
+    "record": {
+      "win": 43,
+      "loss": 13,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2882,
+      "date": 1774575685,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1766253957,
+      "game": "https://www.chess.com/game/live/160567028617"
+    },
+    "record": {
+      "win": 518,
+      "loss": 389,
+      "draw": 68
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2969,
+      "date": 1776556273,
+      "rd": 22
+    },
+    "best": {
+      "rating": 3096,
+      "date": 1775060151,
+      "game": "https://www.chess.com/game/live/169474243057"
+    },
+    "record": {
+      "win": 3673,
+      "loss": 2853,
+      "draw": 973
+    }
+  },
+  "fide": 2380,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1736484179
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1736484179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

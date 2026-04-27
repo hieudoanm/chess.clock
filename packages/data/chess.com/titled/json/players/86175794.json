@@ -1,0 +1,84 @@
+{
+  "player_id": 86175794,
+  "@id": "https://api.chess.com/pub/player/rinesasaraci",
+  "url": "https://www.chess.com/member/RinesaSaraci",
+  "name": "Rinesa Saraci",
+  "username": "rinesasaraci",
+  "title": "WCM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/XK",
+  "last_online": 1775583722,
+  "joined": 1594237542,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1688,
+      "date": 1631020170,
+      "rd": 54
+    },
+    "best": {
+      "rating": 1749,
+      "date": 1626437797,
+      "game": "https://www.chess.com/game/live/6227922523"
+    },
+    "record": {
+      "win": 56,
+      "loss": 37,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1508,
+      "date": 1660742295,
+      "rd": 47
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1660736544,
+      "game": "https://www.chess.com/game/live/54481206327"
+    },
+    "record": {
+      "win": 33,
+      "loss": 20,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1512,
+      "date": 1656422735,
+      "rd": 86
+    },
+    "best": {
+      "rating": 1569,
+      "date": 1631880931,
+      "game": "https://www.chess.com/game/live/31050565555"
+    },
+    "record": {
+      "win": 101,
+      "loss": 93,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2169,
+      "date": 1594237542
+    },
+    "lowest": {
+      "rating": 2169,
+      "date": 1594237542
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

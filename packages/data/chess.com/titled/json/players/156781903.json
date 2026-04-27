@@ -1,0 +1,81 @@
+{
+  "player_id": 156781903,
+  "@id": "https://api.chess.com/pub/player/mbluvshtein",
+  "url": "https://www.chess.com/member/mbluvshtein",
+  "name": "Mark Bluvshtein",
+  "username": "mbluvshtein",
+  "title": "GM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Toronto",
+  "last_online": 1775735061,
+  "joined": 1633279623,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2003,
+      "date": 1682109925,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1634731223,
+      "game": "https://www.chess.com/game/daily/360200847"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11822,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2580,
+      "date": 1737257411
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1737256391,
+      "game": "https://www.chess.com/game/live/130956073925"
+    },
+    "record": {
+      "win": 22,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2859,
+      "date": 1775690950,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2933,
+      "date": 1766605815,
+      "game": "https://www.chess.com/game/live/145046532804"
+    },
+    "record": {
+      "win": 1384,
+      "loss": 979,
+      "draw": 301
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1851,
+      "date": 1633279623
+    },
+    "lowest": {
+      "rating": 1851,
+      "date": 1633279623
+    }
+  },
+  "puzzle_rush": {}
+}

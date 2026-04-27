@@ -1,0 +1,84 @@
+{
+  "player_id": 163934333,
+  "@id": "https://api.chess.com/pub/player/mrbetazero",
+  "url": "https://www.chess.com/member/MrBetaZero",
+  "name": "Simen Olafsson",
+  "username": "mrbetazero",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776581533,
+  "joined": 1638901313,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2217,
+      "date": 1709727037,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1679998161,
+      "game": "https://www.chess.com/game/live/103463477565"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2515,
+      "date": 1742843665,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1660761543,
+      "game": "https://www.chess.com/game/live/54519030189"
+    },
+    "record": {
+      "win": 83,
+      "loss": 84,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2488,
+      "date": 1776581525,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1748371967,
+      "game": "https://www.chess.com/game/live/138852650430"
+    },
+    "record": {
+      "win": 1901,
+      "loss": 1964,
+      "draw": 258
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2445,
+      "date": 1638901313
+    },
+    "lowest": {
+      "rating": 2445,
+      "date": 1638901313
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

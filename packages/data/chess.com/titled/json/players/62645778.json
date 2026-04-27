@@ -1,0 +1,83 @@
+{
+  "player_id": 62645778,
+  "@id": "https://api.chess.com/pub/player/supercaballo20",
+  "url": "https://www.chess.com/member/supercaballo20",
+  "username": "supercaballo20",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1774415043,
+  "joined": 1561405139,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1848,
+      "date": 1745583330,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1925,
+      "date": 1618012110,
+      "game": "https://www.chess.com/game/live/11750028163"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2757,
+      "date": 1767376741,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1766203882,
+      "game": "https://www.chess.com/game/live/146974512210"
+    },
+    "record": {
+      "win": 2441,
+      "loss": 2292,
+      "draw": 317
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2869,
+      "date": 1771385470,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2883,
+      "date": 1754329799,
+      "game": "https://www.chess.com/game/live/140013062476"
+    },
+    "record": {
+      "win": 1573,
+      "loss": 1335,
+      "draw": 318
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1830,
+      "date": 1561405139
+    },
+    "lowest": {
+      "rating": 1830,
+      "date": 1561405139
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 39
+    }
+  }
+}

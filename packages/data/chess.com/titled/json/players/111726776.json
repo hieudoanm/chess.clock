@@ -1,0 +1,61 @@
+{
+  "player_id": 111726776,
+  "@id": "https://api.chess.com/pub/player/tokyovice",
+  "url": "https://www.chess.com/member/TokyoVice",
+  "username": "tokyovice",
+  "title": "GM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776337698,
+  "joined": 1610414053,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2704,
+      "date": 1611431560,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2718,
+      "date": 1611431443,
+      "game": "https://www.chess.com/game/live/6324989915"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2571,
+      "date": 1725980834,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1611443829,
+      "game": "https://www.chess.com/game/live/119121070325"
+    },
+    "record": {
+      "win": 149,
+      "loss": 94,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2828,
+      "date": 1610414053
+    },
+    "lowest": {
+      "rating": 2828,
+      "date": 1610414053
+    }
+  },
+  "puzzle_rush": {}
+}

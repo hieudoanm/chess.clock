@@ -1,0 +1,86 @@
+{
+  "player_id": 63552172,
+  "@id": "https://api.chess.com/pub/player/ss003",
+  "url": "https://www.chess.com/member/SS003",
+  "name": "Stanislav Savchenko",
+  "username": "ss003",
+  "title": "GM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Dallas, TX",
+  "last_online": 1776496206,
+  "joined": 1563825236,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1571786656,
+      "rd": 180
+    },
+    "best": {
+      "rating": 1571,
+      "date": 1564934663,
+      "game": "https://www.chess.com/game/live/3921245982"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2390,
+      "date": 1681172615,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1681169466,
+      "game": "https://www.chess.com/game/live/74908288797"
+    },
+    "record": {
+      "win": 5,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2475,
+      "date": 1724779441,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1637195056,
+      "game": "https://www.chess.com/game/live/5441751347"
+    },
+    "record": {
+      "win": 526,
+      "loss": 339,
+      "draw": 97
+    }
+  },
+  "fide": 2473,
+  "tactics": {
+    "highest": {
+      "rating": 2666,
+      "date": 1776488018
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1767325522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

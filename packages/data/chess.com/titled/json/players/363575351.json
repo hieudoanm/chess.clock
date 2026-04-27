@@ -1,0 +1,66 @@
+{
+  "player_id": 363575351,
+  "@id": "https://api.chess.com/pub/player/kelocky",
+  "url": "https://www.chess.com/member/Kelocky",
+  "username": "kelocky",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776457110,
+  "joined": 1715876921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1983,
+      "date": 1774276773,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1715972914,
+      "game": "https://www.chess.com/game/live/109713692795"
+    },
+    "record": {
+      "win": 2849,
+      "loss": 2646,
+      "draw": 171
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2285,
+      "date": 1776457086,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1769522696,
+      "game": "https://www.chess.com/game/live/148555609734"
+    },
+    "record": {
+      "win": 1323,
+      "loss": 1165,
+      "draw": 150
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2064,
+      "date": 1756008856
+    },
+    "lowest": {
+      "rating": 1952,
+      "date": 1773164201
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

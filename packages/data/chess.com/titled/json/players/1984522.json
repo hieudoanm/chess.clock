@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1984522.c5e9aa58.200x200o.9f2da001c07c.jpeg",
+  "player_id": 1984522,
+  "@id": "https://api.chess.com/pub/player/zkid",
+  "url": "https://www.chess.com/member/Zkid",
+  "name": "Steven Zierk",
+  "username": "zkid",
+  "title": "GM",
+  "followers": 892,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1776370082,
+  "joined": 1245482689,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1985,
+      "date": 1713961810,
+      "rd": 228
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1431530827,
+      "game": "https://www.chess.com/game/daily/212778056"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 134435,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2722,
+      "date": 1759635545,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1606691115,
+      "game": "https://www.chess.com/game/live/5850177922"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2901,
+      "date": 1594536486,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1551300113,
+      "game": "https://www.chess.com/game/live/4776946824"
+    },
+    "record": {
+      "win": 264,
+      "loss": 115,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3027,
+      "date": 1775409520,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3058,
+      "date": 1769280419,
+      "game": "https://www.chess.com/game/live/148437617104"
+    },
+    "record": {
+      "win": 1373,
+      "loss": 665,
+      "draw": 217
+    }
+  },
+  "fide": 2512,
+  "tactics": {
+    "highest": {
+      "rating": 2828,
+      "date": 1245482689
+    },
+    "lowest": {
+      "rating": 2828,
+      "date": 1245482689
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 82,
+      "score": 79
+    }
+  }
+}

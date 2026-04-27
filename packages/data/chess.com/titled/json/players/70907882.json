@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70907882.f4770191.200x200o.e8a317215331.jpeg",
+  "player_id": 70907882,
+  "@id": "https://api.chess.com/pub/player/selectbench",
+  "url": "https://www.chess.com/member/SelectBench",
+  "username": "selectbench",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776341097,
+  "joined": 1579290321,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2408,
+      "date": 1612032090,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1607278092,
+      "game": "https://www.chess.com/game/live/6188860053"
+    },
+    "record": {
+      "win": 14,
+      "loss": 3,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1906,
+      "date": 1609886922,
+      "rd": 201
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2289,
+      "date": 1612386157,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1612062426,
+      "game": "https://www.chess.com/game/live/6006973751"
+    },
+    "record": {
+      "win": 230,
+      "loss": 165,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1579290321
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1579290321
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 63377296,
+  "@id": "https://api.chess.com/pub/player/kyky1232",
+  "url": "https://www.chess.com/member/kyky1232",
+  "username": "kyky1232",
+  "title": "FM",
+  "followers": 66,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776338363,
+  "joined": 1563369591,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1202,
+      "date": 1767518941,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1411,
+      "date": 1695355576,
+      "game": "https://www.chess.com/game/daily/559705277"
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 42562,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2226,
+      "date": 1735897398,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1728486491,
+      "game": "https://www.chess.com/game/live/122224206537"
+    },
+    "record": {
+      "win": 517,
+      "loss": 322,
+      "draw": 70
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2266,
+      "date": 1735893978,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2266,
+      "date": 1735893978,
+      "game": "https://www.chess.com/game/live/129632917649"
+    },
+    "record": {
+      "win": 64,
+      "loss": 62,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2319,
+      "date": 1734796062,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1732963165,
+      "game": "https://www.chess.com/game/live/126683353155"
+    },
+    "record": {
+      "win": 430,
+      "loss": 346,
+      "draw": 32
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2369,
+      "date": 1563369591
+    },
+    "lowest": {
+      "rating": 2369,
+      "date": 1563369591
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

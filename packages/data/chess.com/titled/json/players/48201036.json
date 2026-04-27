@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48201036.7aaa96a0.200x200o.bb374bacafd9.jpg",
+  "player_id": 48201036,
+  "@id": "https://api.chess.com/pub/player/g4c6",
+  "url": "https://www.chess.com/member/G4c6",
+  "name": "Edson Henrique Lima",
+  "username": "g4c6",
+  "title": "NM",
+  "followers": 81,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1775364210,
+  "joined": 1532626891,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1846,
+      "date": 1775384048,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1864,
+      "date": 1770356359,
+      "game": "https://www.chess.com/game/daily/855306904"
+    },
+    "record": {
+      "win": 241,
+      "loss": 68,
+      "draw": 6,
+      "time_per_move": 22740,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2498,
+      "date": 1775323384,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1771903052,
+      "game": "https://www.chess.com/game/live/163970681030"
+    },
+    "record": {
+      "win": 444,
+      "loss": 306,
+      "draw": 38
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2532,
+      "date": 1775360729,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1765723348,
+      "game": "https://www.chess.com/game/live/164782200032"
+    },
+    "record": {
+      "win": 2578,
+      "loss": 2181,
+      "draw": 207
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1771478946,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2739,
+      "date": 1767532795,
+      "game": "https://www.chess.com/game/live/144700975602"
+    },
+    "record": {
+      "win": 13498,
+      "loss": 12509,
+      "draw": 1454
+    }
+  },
+  "fide": 2022,
+  "tactics": {
+    "highest": {
+      "rating": 2314,
+      "date": 1767470359
+    },
+    "lowest": {
+      "rating": 2059,
+      "date": 1774813724
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 25
+    }
+  }
+}

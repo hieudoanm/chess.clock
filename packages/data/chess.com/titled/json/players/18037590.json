@@ -1,0 +1,85 @@
+{
+  "player_id": 18037590,
+  "@id": "https://api.chess.com/pub/player/zelenkacourt",
+  "url": "https://www.chess.com/member/Zelenkacourt",
+  "name": "David W Griego",
+  "username": "zelenkacourt",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1600591675,
+  "joined": 1405138066,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1708443539,
+      "rd": 350
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1405138066,
+      "game": "https://www.chess.com/game/daily/93197246"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 115747,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2272,
+      "date": 1475630328,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1413163426,
+      "game": "https://www.chess.com/game/live/939589162"
+    },
+    "record": {
+      "win": 130,
+      "loss": 73,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2111,
+      "date": 1536636672,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1413608171,
+      "game": "https://www.chess.com/game/live/932308183"
+    },
+    "record": {
+      "win": 122,
+      "loss": 44,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2632,
+      "date": 1405138066
+    },
+    "lowest": {
+      "rating": 2632,
+      "date": 1405138066
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 35810740,
+  "@id": "https://api.chess.com/pub/player/lifeissofun",
+  "url": "https://www.chess.com/member/lifeissofun",
+  "username": "lifeissofun",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/WS",
+  "last_online": 1776589599,
+  "joined": 1495736560,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1675,
+      "date": 1773418958,
+      "rd": 148
+    },
+    "best": {
+      "rating": 1675,
+      "date": 1630143447,
+      "game": "https://www.chess.com/game/daily/246664928"
+    },
+    "record": {
+      "win": 22,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 77569,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2184,
+      "date": 1775908888,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1620450639,
+      "game": "https://www.chess.com/game/live/14136086449"
+    },
+    "record": {
+      "win": 41,
+      "loss": 33,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2427,
+      "date": 1776589475,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1776162338,
+      "game": "https://www.chess.com/game/live/4783844085"
+    },
+    "record": {
+      "win": 903,
+      "loss": 880,
+      "draw": 108
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1761577739
+    },
+    "lowest": {
+      "rating": 2167,
+      "date": 1769106042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

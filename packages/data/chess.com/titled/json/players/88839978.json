@@ -1,0 +1,84 @@
+{
+  "player_id": 88839978,
+  "@id": "https://api.chess.com/pub/player/pusteblumme",
+  "url": "https://www.chess.com/member/pusteblumme",
+  "username": "pusteblumme",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776595271,
+  "joined": 1597161363,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2213,
+      "date": 1768848889,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1768848889,
+      "game": "https://www.chess.com/game/live/107643255841"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2103,
+      "date": 1775816975,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2198,
+      "date": 1748531324,
+      "game": "https://www.chess.com/game/live/106390651517"
+    },
+    "record": {
+      "win": 1656,
+      "loss": 1485,
+      "draw": 149
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2045,
+      "date": 1776594116,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2193,
+      "date": 1773387924,
+      "game": "https://www.chess.com/game/live/148083454384"
+    },
+    "record": {
+      "win": 818,
+      "loss": 725,
+      "draw": 83
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2269,
+      "date": 1597161363
+    },
+    "lowest": {
+      "rating": 2269,
+      "date": 1597161363
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

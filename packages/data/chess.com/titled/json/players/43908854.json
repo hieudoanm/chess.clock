@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43908854.aecac2f0.200x200o.286beda809bd.png",
+  "player_id": 43908854,
+  "@id": "https://api.chess.com/pub/player/northpigeon",
+  "url": "https://www.chess.com/member/NorthPigeon",
+  "username": "northpigeon",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/MZ",
+  "location": "Maputu",
+  "last_online": 1564315640,
+  "joined": 1520102967,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1970,
+      "date": 1564065628,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1979,
+      "date": 1564062633,
+      "game": "https://www.chess.com/game/live/3890073936"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2074,
+      "date": 1564182310,
+      "rd": 86
+    },
+    "best": {
+      "rating": 1928,
+      "date": 1559565587,
+      "game": "https://www.chess.com/game/live/3041011871"
+    },
+    "record": {
+      "win": 40,
+      "loss": 18,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1564148703,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2344,
+      "date": 1526162332,
+      "game": "https://www.chess.com/game/live/3836739197"
+    },
+    "record": {
+      "win": 329,
+      "loss": 269,
+      "draw": 43
+    }
+  },
+  "fide": 2310,
+  "tactics": {
+    "highest": {
+      "rating": 2364,
+      "date": 1520102967
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1520102967
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 34
+    }
+  }
+}

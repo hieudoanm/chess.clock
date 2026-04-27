@@ -1,0 +1,104 @@
+{
+  "player_id": 35871002,
+  "@id": "https://api.chess.com/pub/player/2007checkmate",
+  "url": "https://www.chess.com/member/2007checkmate",
+  "name": "Vyom Vidyarthi",
+  "username": "2007checkmate",
+  "title": "IM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775790125,
+  "joined": 1495942370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1758640258,
+      "rd": 280
+    },
+    "best": {
+      "rating": 1505,
+      "date": 1543621725,
+      "game": "https://www.chess.com/game/daily/210728712"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 14786,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2774,
+      "date": 1601765501,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1600910831,
+      "game": "https://www.chess.com/game/live/5436281509"
+    },
+    "record": {
+      "win": 108,
+      "loss": 43,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2665,
+      "date": 1600891442,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2665,
+      "date": 1600477192,
+      "game": "https://www.chess.com/game/live/5437707750"
+    },
+    "record": {
+      "win": 897,
+      "loss": 512,
+      "draw": 73
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2891,
+      "date": 1775787631,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2891,
+      "date": 1775787631,
+      "game": "https://www.chess.com/game/live/166471814483"
+    },
+    "record": {
+      "win": 1902,
+      "loss": 1202,
+      "draw": 307
+    }
+  },
+  "fide": 2247,
+  "tactics": {
+    "highest": {
+      "rating": 2211,
+      "date": 1495942370
+    },
+    "lowest": {
+      "rating": 2211,
+      "date": 1495942370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 20040020,
+  "@id": "https://api.chess.com/pub/player/czarniecka_a",
+  "url": "https://www.chess.com/member/czarniecka_a",
+  "name": "Aleksandra Czarniecka",
+  "username": "czarniecka_a",
+  "title": "NM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Bogatynia",
+  "last_online": 1774346049,
+  "joined": 1417785324,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1806,
+      "date": 1758959239,
+      "rd": 185
+    },
+    "best": {
+      "rating": 1806,
+      "date": 1437811331,
+      "game": "https://www.chess.com/game/daily/103316736"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 68762,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1767122905,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1767122905,
+      "game": "https://www.chess.com/game/live/5947236644"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1718210987
+    },
+    "best": {
+      "rating": 1754,
+      "date": 1678955785,
+      "game": "https://www.chess.com/game/live/63645527975"
+    },
+    "record": {
+      "win": 28,
+      "loss": 23,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2167,
+      "date": 1758699832,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1738009032,
+      "game": "https://www.chess.com/game/live/41972338137"
+    },
+    "record": {
+      "win": 462,
+      "loss": 362,
+      "draw": 78
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2363,
+      "date": 1417785324
+    },
+    "lowest": {
+      "rating": 2363,
+      "date": 1417785324
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

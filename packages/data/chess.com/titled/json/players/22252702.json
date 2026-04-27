@@ -1,0 +1,85 @@
+{
+  "player_id": 22252702,
+  "@id": "https://api.chess.com/pub/player/fishface2",
+  "url": "https://www.chess.com/member/fishface2",
+  "name": "Kenneth Thomas",
+  "username": "fishface2",
+  "title": "NM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Melrose",
+  "last_online": 1776589218,
+  "joined": 1430775356,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2003,
+      "date": 1757470536,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2217,
+      "date": 1586935303,
+      "game": "https://www.chess.com/game/live/144522563137"
+    },
+    "record": {
+      "win": 9,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1929,
+      "date": 1626945697,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2058,
+      "date": 1503335346,
+      "game": "https://www.chess.com/game/live/2269876656"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1985,
+      "date": 1744063927,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1637461204,
+      "game": "https://www.chess.com/game/live/34317552733"
+    },
+    "record": {
+      "win": 2827,
+      "loss": 2479,
+      "draw": 362
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2522,
+      "date": 1760918655
+    },
+    "lowest": {
+      "rating": 2292,
+      "date": 1760405294
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

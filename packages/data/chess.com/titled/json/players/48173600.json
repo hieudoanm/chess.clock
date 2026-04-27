@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48173600.165f4405.200x200o.a7c2ffd936ce.jpg",
+  "player_id": 48173600,
+  "@id": "https://api.chess.com/pub/player/cm_rui",
+  "url": "https://www.chess.com/member/CM_rui",
+  "name": "David Zhurbinsky",
+  "username": "cm_rui",
+  "title": "CM",
+  "followers": 565,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776565096,
+  "joined": 1532543983,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1858,
+      "date": 1715243354,
+      "rd": 173
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1570479744,
+      "game": "https://www.chess.com/game/daily/239783338"
+    },
+    "record": {
+      "win": 59,
+      "loss": 30,
+      "draw": 5,
+      "time_per_move": 21878,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2298,
+      "date": 1752806735,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1698611136,
+      "game": "https://www.chess.com/game/live/92348561663"
+    },
+    "record": {
+      "win": 154,
+      "loss": 61,
+      "draw": 40
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2805,
+      "date": 1770244728,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2862,
+      "date": 1770071282,
+      "game": "https://www.chess.com/game/live/144078607517"
+    },
+    "record": {
+      "win": 5235,
+      "loss": 5333,
+      "draw": 633
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2734,
+      "date": 1776549172,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1752460455,
+      "game": "https://www.chess.com/game/live/37163474733"
+    },
+    "record": {
+      "win": 2911,
+      "loss": 2671,
+      "draw": 413
+    }
+  },
+  "fide": 1801,
+  "tactics": {
+    "highest": {
+      "rating": 2677,
+      "date": 1769547586
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1766081674
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 95,
+      "score": 92
+    }
+  }
+}

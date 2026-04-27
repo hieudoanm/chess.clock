@@ -1,0 +1,66 @@
+{
+  "player_id": 2425154,
+  "@id": "https://api.chess.com/pub/player/marranos",
+  "url": "https://www.chess.com/member/Marranos",
+  "name": "mauricio uribe",
+  "username": "marranos",
+  "title": "IM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1595723269,
+  "joined": 1262230546,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2542,
+      "date": 1595749703,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1553792266,
+      "game": "https://www.chess.com/game/live/3570570825"
+    },
+    "record": {
+      "win": 4811,
+      "loss": 3942,
+      "draw": 294
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2811,
+      "date": 1595476370,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2830,
+      "date": 1594610218,
+      "game": "https://www.chess.com/game/live/4917761422"
+    },
+    "record": {
+      "win": 408,
+      "loss": 331,
+      "draw": 58
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2327,
+      "date": 1262230546
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1262230546
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 19
+    }
+  }
+}

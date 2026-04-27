@@ -1,0 +1,104 @@
+{
+  "player_id": 16309826,
+  "@id": "https://api.chess.com/pub/player/mnuwan",
+  "url": "https://www.chess.com/member/mnuwan",
+  "name": "Missaka Warusawitharana",
+  "username": "mnuwan",
+  "title": "NM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776596542,
+  "joined": 1393931073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1644,
+      "date": 1714650204,
+      "rd": 86
+    },
+    "best": {
+      "rating": 1705,
+      "date": 1515549055,
+      "game": "https://www.chess.com/game/daily/183298620"
+    },
+    "record": {
+      "win": 25,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 19468,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2271,
+      "date": 1721492875,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1617675722,
+      "game": "https://www.chess.com/game/live/115230590677"
+    },
+    "record": {
+      "win": 55,
+      "loss": 36,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2149,
+      "date": 1776596451,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1752947165,
+      "game": "https://www.chess.com/game/live/166178455820"
+    },
+    "record": {
+      "win": 2485,
+      "loss": 1892,
+      "draw": 243
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2361,
+      "date": 1774959499,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1729884227,
+      "game": "https://www.chess.com/game/live/121832955419"
+    },
+    "record": {
+      "win": 11015,
+      "loss": 8472,
+      "draw": 2111
+    }
+  },
+  "fide": 2225,
+  "tactics": {
+    "highest": {
+      "rating": 2440,
+      "date": 1758577179
+    },
+    "lowest": {
+      "rating": 2269,
+      "date": 1764252686
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

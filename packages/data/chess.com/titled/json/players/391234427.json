@@ -1,0 +1,68 @@
+{
+  "player_id": 391234427,
+  "@id": "https://api.chess.com/pub/player/easy-draw",
+  "url": "https://www.chess.com/member/Easy-draw",
+  "username": "easy-draw",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New-York",
+  "last_online": 1766338019,
+  "joined": 1727270458,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2385,
+      "date": 1754041668,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1754041668,
+      "game": "https://www.chess.com/game/live/121160998155"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2395,
+      "date": 1766315185,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1766315185,
+      "game": "https://www.chess.com/game/live/146988297606"
+    },
+    "record": {
+      "win": 36,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "fide": 100,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1727270458
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1727270458
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

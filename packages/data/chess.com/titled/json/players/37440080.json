@@ -1,0 +1,102 @@
+{
+  "player_id": 37440080,
+  "@id": "https://api.chess.com/pub/player/meridaandres",
+  "url": "https://www.chess.com/member/meridaandres",
+  "username": "meridaandres",
+  "title": "FM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/VE",
+  "last_online": 1776598469,
+  "joined": 1501469726,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1835,
+      "date": 1775582670,
+      "rd": 316
+    },
+    "best": {
+      "rating": 1835,
+      "date": 1775582669,
+      "game": "https://www.chess.com/game/daily/942339229"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 32473,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2108,
+      "date": 1727658270,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2181,
+      "date": 1582079830,
+      "game": "https://www.chess.com/game/live/4613424683"
+    },
+    "record": {
+      "win": 9,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1572836842,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1894,
+      "date": 1510371923,
+      "game": "https://www.chess.com/game/live/2423185963"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2536,
+      "date": 1760707423,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1760707112,
+      "game": "https://www.chess.com/game/live/17272926641"
+    },
+    "record": {
+      "win": 322,
+      "loss": 263,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2896,
+      "date": 1776340135
+    },
+    "lowest": {
+      "rating": 2448,
+      "date": 1756429534
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

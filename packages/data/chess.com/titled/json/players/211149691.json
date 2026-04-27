@@ -1,0 +1,84 @@
+{
+  "player_id": 211149691,
+  "@id": "https://api.chess.com/pub/player/root_21",
+  "url": "https://www.chess.com/member/Root_21",
+  "name": "Rohit S",
+  "username": "root_21",
+  "title": "FM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776482642,
+  "joined": 1670434662,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2394,
+      "date": 1774804991,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1698987543,
+      "game": "https://www.chess.com/game/live/92725299633"
+    },
+    "record": {
+      "win": 12,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2558,
+      "date": 1775502190,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1671630892,
+      "game": "https://www.chess.com/game/live/165028776624"
+    },
+    "record": {
+      "win": 334,
+      "loss": 351,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2663,
+      "date": 1776157024,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1761310326,
+      "game": "https://www.chess.com/game/live/154169197037"
+    },
+    "record": {
+      "win": 1666,
+      "loss": 1704,
+      "draw": 294
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1761283899
+    },
+    "lowest": {
+      "rating": 2421,
+      "date": 1761283760
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 72213042,
+  "@id": "https://api.chess.com/pub/player/darktemplarchess",
+  "url": "https://www.chess.com/member/darktemplarchess",
+  "username": "darktemplarchess",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/SG",
+  "last_online": 1773028125,
+  "joined": 1581751290,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2451,
+      "date": 1771639178,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1664047584,
+      "game": "https://www.chess.com/game/live/57785457177"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2519,
+      "date": 1665703611,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2527,
+      "date": 1641305083,
+      "game": "https://www.chess.com/game/live/34940387919"
+    },
+    "record": {
+      "win": 156,
+      "loss": 87,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1679772193,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1637502883,
+      "game": "https://www.chess.com/game/live/31155059229"
+    },
+    "record": {
+      "win": 82,
+      "loss": 28,
+      "draw": 12
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2176,
+      "date": 1581751290
+    },
+    "lowest": {
+      "rating": 2176,
+      "date": 1581751290
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

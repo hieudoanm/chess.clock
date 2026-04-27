@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22871074.0e53699c.200x200o.7b7a219982fb.jpeg",
+  "player_id": 22871074,
+  "@id": "https://api.chess.com/pub/player/mortngabriel",
+  "url": "https://www.chess.com/member/mortngabriel",
+  "name": "Martin Horak",
+  "username": "mortngabriel",
+  "title": "FM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776366834,
+  "joined": 1434616136,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1919,
+      "date": 1763412312,
+      "rd": 289
+    },
+    "best": {
+      "rating": 1995,
+      "date": 1547207413,
+      "game": "https://www.chess.com/game/daily/214139914"
+    },
+    "record": {
+      "win": 42,
+      "loss": 18,
+      "draw": 1,
+      "time_per_move": 25127,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1775300452,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1775299827,
+      "game": "https://www.chess.com/game/live/2109170935"
+    },
+    "record": {
+      "win": 12,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2627,
+      "date": 1773078244,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2627,
+      "date": 1773078244,
+      "game": "https://www.chess.com/game/live/144029827712"
+    },
+    "record": {
+      "win": 1786,
+      "loss": 1873,
+      "draw": 168
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2644,
+      "date": 1775589181,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1734452918,
+      "game": "https://www.chess.com/game/live/128190643279"
+    },
+    "record": {
+      "win": 11085,
+      "loss": 11252,
+      "draw": 1471
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2611,
+      "date": 1773227163
+    },
+    "lowest": {
+      "rating": 2611,
+      "date": 1773227163
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33945736.eb0c3771.200x200o.cf06060d2143.png",
+  "player_id": 33945736,
+  "@id": "https://api.chess.com/pub/player/gothamchess",
+  "url": "https://www.chess.com/member/GothamChess",
+  "name": "Levy Rozman",
+  "username": "gothamchess",
+  "title": "IM",
+  "followers": 164832,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "New York City",
+  "last_online": 1776516003,
+  "joined": 1489454915,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gothamchess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gothamchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1498,
+      "date": 1769769526,
+      "rd": 325
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1512968014,
+      "game": "https://www.chess.com/game/daily/176171512"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 98612,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2453,
+      "date": 1775682826,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1599767699,
+      "game": "https://www.chess.com/game/live/105646734171"
+    },
+    "record": {
+      "win": 95,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3042,
+      "date": 1776216303,
+      "rd": 27
+    },
+    "best": {
+      "rating": 3086,
+      "date": 1775166060,
+      "game": "https://www.chess.com/game/live/147806764548"
+    },
+    "record": {
+      "win": 6627,
+      "loss": 4177,
+      "draw": 644
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2919,
+      "date": 1775772858,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1773352764,
+      "game": "https://www.chess.com/game/live/167663411201"
+    },
+    "record": {
+      "win": 9991,
+      "loss": 5958,
+      "draw": 1159
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2821,
+      "date": 1768865591
+    },
+    "lowest": {
+      "rating": 2748,
+      "date": 1768865428
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

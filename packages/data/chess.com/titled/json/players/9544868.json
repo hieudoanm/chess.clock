@@ -1,0 +1,130 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9544868.2786ff40.200x200o.6112e19cdc20.jpeg",
+  "player_id": 9544868,
+  "@id": "https://api.chess.com/pub/player/quintilianor",
+  "url": "https://www.chess.com/member/QuintilianoR",
+  "name": "Renato Quintiliano",
+  "username": "quintilianor",
+  "title": "GM",
+  "followers": 2909,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Osasco, Sao Paulo",
+  "last_online": 1776519928,
+  "joined": 1352242677,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/quintilianor",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/quintilianor"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2108,
+      "date": 1686580934,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1624801024,
+      "game": "https://www.chess.com/game/daily/310152834"
+    },
+    "record": {
+      "win": 133,
+      "loss": 8,
+      "draw": 9,
+      "time_per_move": 26368,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 913,
+      "date": 1621859883,
+      "rd": 338
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1352242677,
+      "game": "https://www.chess.com/game/daily/333676457"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 26368,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2656,
+      "date": 1775840095,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1775840095,
+      "game": "https://www.chess.com/game/live/165849082730"
+    },
+    "record": {
+      "win": 102,
+      "loss": 56,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2627,
+      "date": 1751164085,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2739,
+      "date": 1599876360,
+      "game": "https://www.chess.com/game/live/11039048753"
+    },
+    "record": {
+      "win": 241,
+      "loss": 177,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2839,
+      "date": 1774986915,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2888,
+      "date": 1765207431,
+      "game": "https://www.chess.com/game/live/6388668609"
+    },
+    "record": {
+      "win": 3815,
+      "loss": 2970,
+      "draw": 773
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2762,
+      "date": 1352242677
+    },
+    "lowest": {
+      "rating": 2762,
+      "date": 1352242677
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23833186.bdd822fb.200x200o.14845f951008.jpeg",
+  "player_id": 23833186,
+  "@id": "https://api.chess.com/pub/player/vanyakuba",
+  "url": "https://www.chess.com/member/vanyakuba",
+  "name": "Ivan Kubatko",
+  "username": "vanyakuba",
+  "title": "FM",
+  "followers": 136,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776330283,
+  "joined": 1440589620,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1684,
+      "date": 1774719777,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1806,
+      "date": 1762709797,
+      "game": "https://www.chess.com/game/daily/789247741"
+    },
+    "record": {
+      "win": 46,
+      "loss": 3,
+      "draw": 10,
+      "time_per_move": 71523,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1756406220,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1640688952,
+      "game": "https://www.chess.com/game/live/39962948509"
+    },
+    "record": {
+      "win": 270,
+      "loss": 16,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2580,
+      "date": 1745162008,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1599920859,
+      "game": "https://www.chess.com/game/live/34859390479"
+    },
+    "record": {
+      "win": 3397,
+      "loss": 1845,
+      "draw": 401
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2548,
+      "date": 1774052652,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1772672667,
+      "game": "https://www.chess.com/game/live/75144251881"
+    },
+    "record": {
+      "win": 2370,
+      "loss": 1840,
+      "draw": 468
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2556,
+      "date": 1440589620
+    },
+    "lowest": {
+      "rating": 2556,
+      "date": 1440589620
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

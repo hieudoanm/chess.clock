@@ -1,0 +1,123 @@
+{
+  "player_id": 41078100,
+  "@id": "https://api.chess.com/pub/player/estudiando_ajedrez",
+  "url": "https://www.chess.com/member/Estudiando_Ajedrez",
+  "name": "Sebastian Fell",
+  "username": "estudiando_ajedrez",
+  "title": "FM",
+  "followers": 657,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1772046479,
+  "joined": 1512600145,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2487,
+      "date": 1692692931,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1615484510,
+      "game": "https://www.chess.com/game/daily/229087470"
+    },
+    "record": {
+      "win": 62,
+      "loss": 5,
+      "draw": 31,
+      "time_per_move": 143626,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2244,
+      "date": 1593271633,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2244,
+      "date": 1593271633,
+      "game": "https://www.chess.com/game/daily/255143336"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 143626,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2095,
+      "date": 1623791678,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1584302251,
+      "game": "https://www.chess.com/game/live/4646289506"
+    },
+    "record": {
+      "win": 13,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2261,
+      "date": 1607999361,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2270,
+      "date": 1607998637,
+      "game": "https://www.chess.com/game/live/5969090179"
+    },
+    "record": {
+      "win": 62,
+      "loss": 22,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2313,
+      "date": 1620524797,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1620524797,
+      "game": "https://www.chess.com/game/live/4598292766"
+    },
+    "record": {
+      "win": 197,
+      "loss": 40,
+      "draw": 8
+    }
+  },
+  "fide": 2334,
+  "tactics": {
+    "highest": {
+      "rating": 2525,
+      "date": 1512600145
+    },
+    "lowest": {
+      "rating": 2525,
+      "date": 1512600145
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

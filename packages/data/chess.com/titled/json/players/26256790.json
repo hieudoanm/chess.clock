@@ -1,0 +1,85 @@
+{
+  "player_id": 26256790,
+  "@id": "https://api.chess.com/pub/player/kopylov_alex",
+  "url": "https://www.chess.com/member/Kopylov_Alex",
+  "name": "Alexander Kopylov",
+  "username": "kopylov_alex",
+  "title": "IM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Tyumen",
+  "last_online": 1776594308,
+  "joined": 1453391401,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2410,
+      "date": 1767301247,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1767301247,
+      "game": "https://www.chess.com/game/live/144725869308"
+    },
+    "record": {
+      "win": 58,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3001,
+      "date": 1760267341,
+      "rd": 18
+    },
+    "best": {
+      "rating": 3001,
+      "date": 1760267341,
+      "game": "https://www.chess.com/game/live/139909681578"
+    },
+    "record": {
+      "win": 7345,
+      "loss": 3936,
+      "draw": 835
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3001,
+      "date": 1751913083,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3001,
+      "date": 1751913083,
+      "game": "https://www.chess.com/game/live/61663925559"
+    },
+    "record": {
+      "win": 6767,
+      "loss": 4103,
+      "draw": 1130
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2692,
+      "date": 1453391401
+    },
+    "lowest": {
+      "rating": 2692,
+      "date": 1453391401
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

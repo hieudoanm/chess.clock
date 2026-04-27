@@ -1,0 +1,121 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8954274.6c7b5204.200x200o.af4d6f80e834.jpg",
+  "player_id": 8954274,
+  "@id": "https://api.chess.com/pub/player/eldivis",
+  "url": "https://www.chess.com/member/ElDivis",
+  "name": "David Martinez",
+  "username": "eldivis",
+  "title": "IM",
+  "followers": 2509,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Madrid",
+  "last_online": 1776588790,
+  "joined": 1348002067,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/el_divis",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/el_divis"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@divistv"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1715,
+      "date": 1776546681,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1784,
+      "date": 1764692139,
+      "game": "https://www.chess.com/game/daily/729497001"
+    },
+    "record": {
+      "win": 90,
+      "loss": 24,
+      "draw": 13,
+      "time_per_move": 29861,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 57,
+      "withdraw": 3,
+      "count": 1,
+      "highest_finish": 10
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2012,
+      "date": 1763046818,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1681745907,
+      "game": "https://www.chess.com/game/live/145466510464"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2595,
+      "date": 1775173462,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1710180893,
+      "game": "https://www.chess.com/game/live/111852764637"
+    },
+    "record": {
+      "win": 1086,
+      "loss": 1075,
+      "draw": 169
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2641,
+      "date": 1776593808,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1776293098,
+      "game": "https://www.chess.com/game/live/114880781451"
+    },
+    "record": {
+      "win": 926,
+      "loss": 795,
+      "draw": 167
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2420,
+      "date": 1756439458
+    },
+    "lowest": {
+      "rating": 2217,
+      "date": 1770722515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

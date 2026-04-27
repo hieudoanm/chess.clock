@@ -1,0 +1,103 @@
+{
+  "player_id": 32402854,
+  "@id": "https://api.chess.com/pub/player/josjimal",
+  "url": "https://www.chess.com/member/Josjimal",
+  "name": "Joseph Jimenez",
+  "username": "josjimal",
+  "title": "CM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776429858,
+  "joined": 1484455608,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1418,
+      "date": 1750977529,
+      "rd": 202
+    },
+    "best": {
+      "rating": 1491,
+      "date": 1728090292,
+      "game": "https://www.chess.com/game/daily/724044085"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 120944,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2419,
+      "date": 1774922264,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1774920605,
+      "game": "https://www.chess.com/game/live/163987539376"
+    },
+    "record": {
+      "win": 109,
+      "loss": 35,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2609,
+      "date": 1776429841,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1764725464,
+      "game": "https://www.chess.com/game/live/131674184837"
+    },
+    "record": {
+      "win": 5201,
+      "loss": 4248,
+      "draw": 438
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2506,
+      "date": 1774357194,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1764609166,
+      "game": "https://www.chess.com/game/live/166366191492"
+    },
+    "record": {
+      "win": 238,
+      "loss": 160,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2620,
+      "date": 1771513203
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1771514634
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

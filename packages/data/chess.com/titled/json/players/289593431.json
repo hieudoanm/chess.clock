@@ -1,0 +1,83 @@
+{
+  "player_id": 289593431,
+  "@id": "https://api.chess.com/pub/player/bleuestbeau",
+  "url": "https://www.chess.com/member/bleuestbeau",
+  "username": "bleuestbeau",
+  "title": "WCM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776045775,
+  "joined": 1685371787,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1654,
+      "date": 1775393782,
+      "rd": 48
+    },
+    "best": {
+      "rating": 1663,
+      "date": 1775143283,
+      "game": "https://www.chess.com/game/live/165941615766"
+    },
+    "record": {
+      "win": 63,
+      "loss": 40,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1479,
+      "date": 1772453526,
+      "rd": 147
+    },
+    "best": {
+      "rating": 1854,
+      "date": 1733993563,
+      "game": "https://www.chess.com/game/live/127732228899"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1494,
+      "date": 1773652473,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1629,
+      "date": 1739706746,
+      "game": "https://www.chess.com/game/live/127494568911"
+    },
+    "record": {
+      "win": 14,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2044,
+      "date": 1758455576
+    },
+    "lowest": {
+      "rating": 1921,
+      "date": 1769408185
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "player_id": 2877044,
+  "@id": "https://api.chess.com/pub/player/allderdice",
+  "url": "https://www.chess.com/member/allderdice",
+  "username": "allderdice",
+  "title": "NM",
+  "followers": 98,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Pittsburgh",
+  "last_online": 1776546932,
+  "joined": 1275353954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2076,
+      "date": 1654356667,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1654356667,
+      "game": "https://www.chess.com/game/live/48094824257"
+    },
+    "record": {
+      "win": 43,
+      "loss": 24,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1925,
+      "date": 1729217690,
+      "rd": 70
+    },
+    "best": {
+      "rating": 1925,
+      "date": 1729217690,
+      "game": "https://www.chess.com/game/live/122497466183"
+    },
+    "record": {
+      "win": 805,
+      "loss": 626,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2134,
+      "date": 1724616990,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1724616990,
+      "game": "https://www.chess.com/game/live/17893239615"
+    },
+    "record": {
+      "win": 1358,
+      "loss": 1209,
+      "draw": 121
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2446,
+      "date": 1275353954
+    },
+    "lowest": {
+      "rating": 2446,
+      "date": 1275353954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    },
+    "daily": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

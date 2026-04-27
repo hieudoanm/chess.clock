@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31555150.4960e7fa.200x200o.4c7aa6c25e57.jpeg",
+  "player_id": 31555150,
+  "@id": "https://api.chess.com/pub/player/iecs12",
+  "url": "https://www.chess.com/member/IECS12",
+  "name": "Ian Eiffel Castillo",
+  "username": "iecs12",
+  "title": "CM",
+  "followers": 215,
+  "country": "https://api.chess.com/pub/country/NI",
+  "last_online": 1776341476,
+  "joined": 1481493116,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1963,
+      "date": 1745862536,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1965,
+      "date": 1674564629,
+      "game": "https://www.chess.com/game/daily/403129001"
+    },
+    "record": {
+      "win": 554,
+      "loss": 267,
+      "draw": 24,
+      "time_per_move": 46386,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2320,
+      "date": 1767935419,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1666114206,
+      "game": "https://www.chess.com/game/live/132861035345"
+    },
+    "record": {
+      "win": 80,
+      "loss": 32,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2506,
+      "date": 1767928900,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1767928900,
+      "game": "https://www.chess.com/game/live/147772583814"
+    },
+    "record": {
+      "win": 1049,
+      "loss": 948,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2425,
+      "date": 1769743425,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2513,
+      "date": 1768946094,
+      "game": "https://www.chess.com/game/live/132519000875"
+    },
+    "record": {
+      "win": 3035,
+      "loss": 2239,
+      "draw": 261
+    }
+  },
+  "fide": 2095,
+  "tactics": {
+    "highest": {
+      "rating": 2525,
+      "date": 1481493116
+    },
+    "lowest": {
+      "rating": 2525,
+      "date": 1481493116
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

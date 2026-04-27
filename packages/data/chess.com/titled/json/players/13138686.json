@@ -1,0 +1,69 @@
+{
+  "player_id": 13138686,
+  "@id": "https://api.chess.com/pub/player/rautz",
+  "url": "https://www.chess.com/member/Rautz",
+  "name": "Cristian Raut",
+  "username": "rautz",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Bucharest",
+  "last_online": 1774971950,
+  "joined": 1376470103,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1438637615,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1377203908,
+      "game": "https://www.chess.com/game/live/584523333"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1938,
+      "date": 1657662644,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1425422755,
+      "game": "https://www.chess.com/game/live/1077590194"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 2309,
+  "tactics": {
+    "highest": {
+      "rating": 2650,
+      "date": 1376470103
+    },
+    "lowest": {
+      "rating": 2650,
+      "date": 1376470103
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

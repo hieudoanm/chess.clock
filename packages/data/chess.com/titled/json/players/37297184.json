@@ -1,0 +1,83 @@
+{
+  "player_id": 37297184,
+  "@id": "https://api.chess.com/pub/player/joaco21",
+  "url": "https://www.chess.com/member/joaco21",
+  "username": "joaco21",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776043633,
+  "joined": 1500991296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1563,
+      "date": 1737133852,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1756,
+      "date": 1645670062,
+      "game": "https://www.chess.com/game/live/39407979427"
+    },
+    "record": {
+      "win": 15,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1559,
+      "date": 1767673332,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1559,
+      "date": 1697497246,
+      "game": "https://www.chess.com/game/live/91235979809"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1485,
+      "date": 1767673662,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1618,
+      "date": 1562014798,
+      "game": "https://www.chess.com/game/live/4722772358"
+    },
+    "record": {
+      "win": 90,
+      "loss": 85,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2130,
+      "date": 1500991296
+    },
+    "lowest": {
+      "rating": 2130,
+      "date": 1500991296
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 96763822,
+  "@id": "https://api.chess.com/pub/player/hypothalamus009",
+  "url": "https://www.chess.com/member/Hypothalamus009",
+  "username": "hypothalamus009",
+  "title": "WCM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776583474,
+  "joined": 1605351510,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1044,
+      "date": 1776582861,
+      "rd": 118
+    },
+    "best": {
+      "rating": 1102,
+      "date": 1774463058,
+      "game": "https://www.chess.com/game/daily/897333919"
+    },
+    "record": {
+      "win": 30,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 34738,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2096,
+      "date": 1764868823,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1692303835,
+      "game": "https://www.chess.com/game/live/86039512847"
+    },
+    "record": {
+      "win": 163,
+      "loss": 55,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1899,
+      "date": 1776583464,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1737557747,
+      "game": "https://www.chess.com/game/live/131296743445"
+    },
+    "record": {
+      "win": 528,
+      "loss": 419,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1901,
+      "date": 1774048155,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2054,
+      "date": 1747760722,
+      "game": "https://www.chess.com/game/live/132072660111"
+    },
+    "record": {
+      "win": 306,
+      "loss": 210,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2629,
+      "date": 1766845213
+    },
+    "lowest": {
+      "rating": 2417,
+      "date": 1760649141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

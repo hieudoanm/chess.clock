@@ -1,0 +1,84 @@
+{
+  "player_id": 135297354,
+  "@id": "https://api.chess.com/pub/player/abinesh12345",
+  "url": "https://www.chess.com/member/Abinesh12345",
+  "username": "abinesh12345",
+  "title": "CM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776599658,
+  "joined": 1618423393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1125,
+      "date": 1776055936,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1210,
+      "date": 1767271582,
+      "game": "https://www.chess.com/game/live/161584024937"
+    },
+    "record": {
+      "win": 45,
+      "loss": 39,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1219,
+      "date": 1776597366,
+      "rd": 29
+    },
+    "best": {
+      "rating": 1460,
+      "date": 1747479838,
+      "game": "https://www.chess.com/game/live/13780316679"
+    },
+    "record": {
+      "win": 2441,
+      "loss": 2415,
+      "draw": 83
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1426,
+      "date": 1775999903,
+      "rd": 33
+    },
+    "best": {
+      "rating": 1512,
+      "date": 1774765326,
+      "game": "https://www.chess.com/game/live/148028345438"
+    },
+    "record": {
+      "win": 909,
+      "loss": 849,
+      "draw": 55
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1879,
+      "date": 1776406962
+    },
+    "lowest": {
+      "rating": 1814,
+      "date": 1759126014
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

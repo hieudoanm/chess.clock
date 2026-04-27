@@ -1,0 +1,104 @@
+{
+  "player_id": 11694220,
+  "@id": "https://api.chess.com/pub/player/terios",
+  "url": "https://www.chess.com/member/Terios",
+  "name": "Marco Antonio Cabrera Chaves",
+  "username": "terios",
+  "title": "NM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CR",
+  "location": "Escaz&uacute;",
+  "last_online": 1768706385,
+  "joined": 1367205660,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1860,
+      "date": 1590481709,
+      "rd": 209
+    },
+    "best": {
+      "rating": 1860,
+      "date": 1558918804,
+      "game": "https://www.chess.com/game/daily/113996246"
+    },
+    "record": {
+      "win": 23,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 2365,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1881,
+      "date": 1761164600,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1599951238,
+      "game": "https://www.chess.com/game/live/5474252025"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1866,
+      "date": 1711253833,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1566594579,
+      "game": "https://www.chess.com/game/live/881423942"
+    },
+    "record": {
+      "win": 160,
+      "loss": 156,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1769,
+      "date": 1727827330,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1683989772,
+      "game": "https://www.chess.com/game/live/3198100249"
+    },
+    "record": {
+      "win": 96,
+      "loss": 72,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2145,
+      "date": 1762980168
+    },
+    "lowest": {
+      "rating": 2036,
+      "date": 1762980606
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

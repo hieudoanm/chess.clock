@@ -1,0 +1,86 @@
+{
+  "player_id": 2952452,
+  "@id": "https://api.chess.com/pub/player/martinbaekgaard",
+  "url": "https://www.chess.com/member/MartinBaekgaard",
+  "name": "Martin B\u00e6kgaard",
+  "username": "martinbaekgaard",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1693301501,
+  "joined": 1211783274,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1914,
+      "date": 1479381731,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1248356709,
+      "game": "https://www.chess.com/game/daily/36490111"
+    },
+    "record": {
+      "win": 35,
+      "loss": 5,
+      "draw": 3,
+      "time_per_move": 17633,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2097,
+      "date": 1666784639,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1459343700,
+      "game": "https://www.chess.com/game/live/1520965624"
+    },
+    "record": {
+      "win": 13401,
+      "loss": 11132,
+      "draw": 933
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2363,
+      "date": 1668890615,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1610923332,
+      "game": "https://www.chess.com/game/live/6301221635"
+    },
+    "record": {
+      "win": 4381,
+      "loss": 3661,
+      "draw": 569
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2362,
+      "date": 1211783274
+    },
+    "lowest": {
+      "rating": 2362,
+      "date": 1211783274
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

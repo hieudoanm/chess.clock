@@ -1,0 +1,85 @@
+{
+  "player_id": 63869454,
+  "@id": "https://api.chess.com/pub/player/rrmaster",
+  "url": "https://www.chess.com/member/RRMaster",
+  "name": "Rodrigo Martins Dos Santos Ribeiro",
+  "username": "rrmaster",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1776517334,
+  "joined": 1564675844,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2144,
+      "date": 1760116150,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1922,
+      "date": 1671380194,
+      "game": "https://www.chess.com/game/live/65118077445"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2173,
+      "date": 1775416776,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2477,
+      "date": 1759784503,
+      "game": "https://www.chess.com/game/live/143984283892"
+    },
+    "record": {
+      "win": 2152,
+      "loss": 1868,
+      "draw": 124
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2381,
+      "date": 1769697574,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2521,
+      "date": 1760199406,
+      "game": "https://www.chess.com/game/live/154509404549"
+    },
+    "record": {
+      "win": 192,
+      "loss": 234,
+      "draw": 37
+    }
+  },
+  "fide": 2144,
+  "tactics": {
+    "highest": {
+      "rating": 2510,
+      "date": 1764111224
+    },
+    "lowest": {
+      "rating": 2202,
+      "date": 1763424007
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7807254.bccae72a.200x200o.daebd1dfc274.png",
+  "player_id": 7807254,
+  "@id": "https://api.chess.com/pub/player/viktorhnielsen",
+  "url": "https://www.chess.com/member/ViktorHNielsen",
+  "name": "Viktor Nielsen",
+  "username": "viktorhnielsen",
+  "title": "IM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/DK",
+  "location": "K\u00f8benhavn",
+  "last_online": 1776544681,
+  "joined": 1338986884,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2235,
+      "date": 1773753518,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1560338133,
+      "game": "https://www.chess.com/game/daily/249001106"
+    },
+    "record": {
+      "win": 92,
+      "loss": 12,
+      "draw": 10,
+      "time_per_move": 23171,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2030,
+      "date": 1694652473,
+      "rd": 171
+    },
+    "best": {
+      "rating": 2130,
+      "date": 1608312727,
+      "game": "https://www.chess.com/game/live/5998810815"
+    },
+    "record": {
+      "win": 24,
+      "loss": 17,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2551,
+      "date": 1743882845,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1685736435,
+      "game": "https://www.chess.com/game/live/79474994247"
+    },
+    "record": {
+      "win": 736,
+      "loss": 465,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2479,
+      "date": 1752321779,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1663799118,
+      "game": "https://www.chess.com/game/live/97973533143"
+    },
+    "record": {
+      "win": 1065,
+      "loss": 614,
+      "draw": 113
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2683,
+      "date": 1338986884
+    },
+    "lowest": {
+      "rating": 2683,
+      "date": 1338986884
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

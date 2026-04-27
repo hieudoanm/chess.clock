@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/92840536.2d2bfa23.200x200o.73fb55e321f2.jpg",
+  "player_id": 92840536,
+  "@id": "https://api.chess.com/pub/player/amin_molaei",
+  "url": "https://www.chess.com/member/amin_molaei",
+  "name": "Mohammadamin Molaei",
+  "username": "amin_molaei",
+  "title": "IM",
+  "followers": 270,
+  "country": "https://api.chess.com/pub/country/IR",
+  "location": "Mazandaran",
+  "last_online": 1776541404,
+  "joined": 1602337530,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2455,
+      "date": 1776337636,
+      "rd": 300
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1737297508,
+      "game": "https://www.chess.com/game/daily/725913087"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 56806,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2612,
+      "date": 1776078156,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2643,
+      "date": 1770722682,
+      "game": "https://www.chess.com/game/live/147510537752"
+    },
+    "record": {
+      "win": 91,
+      "loss": 26,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2672,
+      "date": 1767655159,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2741,
+      "date": 1758707854,
+      "game": "https://www.chess.com/game/live/132190208763"
+    },
+    "record": {
+      "win": 87,
+      "loss": 115,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2851,
+      "date": 1776435666,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1776435666,
+      "game": "https://www.chess.com/game/live/132454804719"
+    },
+    "record": {
+      "win": 550,
+      "loss": 633,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2831,
+      "date": 1767880658
+    },
+    "lowest": {
+      "rating": 2712,
+      "date": 1756417191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 328587961,
+  "@id": "https://api.chess.com/pub/player/black-shadow",
+  "url": "https://www.chess.com/member/Black-Shadow",
+  "username": "black-shadow",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/MC",
+  "last_online": 1776590454,
+  "joined": 1700995176,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2208,
+      "date": 1770809364,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1770802268,
+      "game": "https://www.chess.com/game/live/147084031236"
+    },
+    "record": {
+      "win": 20,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2599,
+      "date": 1776590411,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1766001583,
+      "game": "https://www.chess.com/game/live/164489835198"
+    },
+    "record": {
+      "win": 570,
+      "loss": 454,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2710,
+      "date": 1776509779,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2773,
+      "date": 1771021824,
+      "game": "https://www.chess.com/game/live/143147262724"
+    },
+    "record": {
+      "win": 1551,
+      "loss": 1583,
+      "draw": 188
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2305,
+      "date": 1768843499
+    },
+    "lowest": {
+      "rating": 2180,
+      "date": 1763870601
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

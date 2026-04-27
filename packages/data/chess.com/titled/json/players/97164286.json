@@ -1,0 +1,83 @@
+{
+  "player_id": 97164286,
+  "@id": "https://api.chess.com/pub/player/kaponerde",
+  "url": "https://www.chess.com/member/kaponerde",
+  "username": "kaponerde",
+  "title": "WCM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1756393741,
+  "joined": 1605521711,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2202,
+      "date": 1674563081,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1625340962,
+      "game": "https://www.chess.com/game/live/19079124795"
+    },
+    "record": {
+      "win": 23,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2314,
+      "date": 1747919312,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1747919312,
+      "game": "https://www.chess.com/game/live/6131130149"
+    },
+    "record": {
+      "win": 125,
+      "loss": 131,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2368,
+      "date": 1751989008,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1748382750,
+      "game": "https://www.chess.com/game/live/10261922753"
+    },
+    "record": {
+      "win": 132,
+      "loss": 167,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2327,
+      "date": 1605521711
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1605521711
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

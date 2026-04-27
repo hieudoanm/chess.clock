@@ -1,0 +1,103 @@
+{
+  "player_id": 281702919,
+  "@id": "https://api.chess.com/pub/player/blackwhite017",
+  "url": "https://www.chess.com/member/Blackwhite017",
+  "name": "Lianet Diaz Garcia",
+  "username": "blackwhite017",
+  "title": "WFM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/CU",
+  "last_online": 1776448924,
+  "joined": 1683076412,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 562,
+      "date": 1769009067,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1704493967,
+      "game": "https://www.chess.com/game/daily/603540897"
+    },
+    "record": {
+      "win": 14,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 12788,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2307,
+      "date": 1768525529,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2381,
+      "date": 1698583345,
+      "game": "https://www.chess.com/game/live/145949399446"
+    },
+    "record": {
+      "win": 43,
+      "loss": 52,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2005,
+      "date": 1774384620,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1774383725,
+      "game": "https://www.chess.com/game/live/125577507719"
+    },
+    "record": {
+      "win": 154,
+      "loss": 135,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2037,
+      "date": 1776422810,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1764176269,
+      "game": "https://www.chess.com/game/live/80407363543"
+    },
+    "record": {
+      "win": 601,
+      "loss": 925,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2719,
+      "date": 1763808940
+    },
+    "lowest": {
+      "rating": 2585,
+      "date": 1759174152
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

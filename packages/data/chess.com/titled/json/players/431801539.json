@@ -1,0 +1,84 @@
+{
+  "player_id": 431801539,
+  "@id": "https://api.chess.com/pub/player/pantda",
+  "url": "https://www.chess.com/member/pantda",
+  "username": "pantda",
+  "title": "WFM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776498138,
+  "joined": 1740339472,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1754985160,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1754982733,
+      "game": "https://www.chess.com/game/live/141749804124"
+    },
+    "record": {
+      "win": 20,
+      "loss": 11,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2148,
+      "date": 1776354089,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1776353668,
+      "game": "https://www.chess.com/game/live/147803561600"
+    },
+    "record": {
+      "win": 20,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2301,
+      "date": 1776421433,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1775068523,
+      "game": "https://www.chess.com/game/live/166073212324"
+    },
+    "record": {
+      "win": 228,
+      "loss": 200,
+      "draw": 41
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2240,
+      "date": 1740339472
+    },
+    "lowest": {
+      "rating": 2240,
+      "date": 1740339472
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

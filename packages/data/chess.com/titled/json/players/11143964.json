@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11143964.45abde72.200x200o.a60eeab49eb3.jpg",
+  "player_id": 11143964,
+  "@id": "https://api.chess.com/pub/player/chessmause",
+  "url": "https://www.chess.com/member/chessmause",
+  "name": "Martin Alvarez Navarro",
+  "username": "chessmause",
+  "title": "CM",
+  "followers": 101,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "queretaro",
+  "last_online": 1776308611,
+  "joined": 1363287624,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1069,
+      "date": 1731521976,
+      "rd": 214
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1363287624,
+      "game": "https://www.chess.com/game/daily/465814395"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 10529,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1952,
+      "date": 1776177906,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1649813021,
+      "game": "https://www.chess.com/game/live/37741278905"
+    },
+    "record": {
+      "win": 28,
+      "loss": 12,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1776178038,
+      "rd": 181
+    },
+    "best": {
+      "rating": 2136,
+      "date": 1651290196,
+      "game": "https://www.chess.com/game/live/45028789499"
+    },
+    "record": {
+      "win": 29,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2425,
+      "date": 1773156303,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1773156303,
+      "game": "https://www.chess.com/game/live/79204335899"
+    },
+    "record": {
+      "win": 856,
+      "loss": 449,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2544,
+      "date": 1769889071
+    },
+    "lowest": {
+      "rating": 2348,
+      "date": 1774619566
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

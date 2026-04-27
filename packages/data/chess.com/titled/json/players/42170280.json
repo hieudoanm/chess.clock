@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42170280.217e1aa7.200x200o.61feab2f7446.png",
+  "player_id": 42170280,
+  "@id": "https://api.chess.com/pub/player/texie1",
+  "url": "https://www.chess.com/member/texie1",
+  "name": "Tianming Xie",
+  "username": "texie1",
+  "title": "NM",
+  "followers": 81,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776466591,
+  "joined": 1515549715,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1605,
+      "date": 1754984378,
+      "rd": 169
+    },
+    "best": {
+      "rating": 1953,
+      "date": 1593001202,
+      "game": "https://www.chess.com/game/daily/262895776"
+    },
+    "record": {
+      "win": 140,
+      "loss": 21,
+      "draw": 5,
+      "time_per_move": 16574,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2298,
+      "date": 1760332839,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1610319854,
+      "game": "https://www.chess.com/game/live/97941753513"
+    },
+    "record": {
+      "win": 177,
+      "loss": 104,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2472,
+      "date": 1774120885,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1614203755,
+      "game": "https://www.chess.com/game/live/10616171577"
+    },
+    "record": {
+      "win": 2223,
+      "loss": 1581,
+      "draw": 221
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2586,
+      "date": 1776013393,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1772093124,
+      "game": "https://www.chess.com/game/live/164694291174"
+    },
+    "record": {
+      "win": 4202,
+      "loss": 2874,
+      "draw": 434
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2342,
+      "date": 1765511830
+    },
+    "lowest": {
+      "rating": 2067,
+      "date": 1759893733
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

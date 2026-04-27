@@ -1,0 +1,102 @@
+{
+  "player_id": 143439909,
+  "@id": "https://api.chess.com/pub/player/wonderful_switzerland",
+  "url": "https://www.chess.com/member/Wonderful_Switzerland",
+  "username": "wonderful_switzerland",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776543121,
+  "joined": 1622971255,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1874,
+      "date": 1742261866,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1667630522,
+      "game": "https://www.chess.com/game/daily/553094953"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 10731,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2418,
+      "date": 1765314772,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1765311792,
+      "game": "https://www.chess.com/game/live/93037292129"
+    },
+    "record": {
+      "win": 424,
+      "loss": 334,
+      "draw": 110
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2489,
+      "date": 1765564306,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1732467876,
+      "game": "https://www.chess.com/game/live/126205828231"
+    },
+    "record": {
+      "win": 633,
+      "loss": 455,
+      "draw": 68
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2709,
+      "date": 1775844327,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2817,
+      "date": 1769552133,
+      "game": "https://www.chess.com/game/live/165062365992"
+    },
+    "record": {
+      "win": 6447,
+      "loss": 5500,
+      "draw": 1083
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2383,
+      "date": 1622971255
+    },
+    "lowest": {
+      "rating": 2383,
+      "date": 1622971255
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

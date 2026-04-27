@@ -1,0 +1,102 @@
+{
+  "player_id": 307192419,
+  "@id": "https://api.chess.com/pub/player/pavan_putra_maruthi",
+  "url": "https://www.chess.com/member/Pavan_Putra_Maruthi",
+  "username": "pavan_putra_maruthi",
+  "title": "FM",
+  "followers": 313,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776574709,
+  "joined": 1692568303,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1730,
+      "date": 1773385581,
+      "rd": 270
+    },
+    "best": {
+      "rating": 1730,
+      "date": 1773385580,
+      "game": "https://www.chess.com/game/daily/939148693"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24937,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2382,
+      "date": 1747955425,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1703963767,
+      "game": "https://www.chess.com/game/live/97701150897"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2292,
+      "date": 1772468405,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1772466663,
+      "game": "https://www.chess.com/game/live/165415425176"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2818,
+      "date": 1776536888,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2931,
+      "date": 1752510061,
+      "game": "https://www.chess.com/game/live/131080755473"
+    },
+    "record": {
+      "win": 3083,
+      "loss": 2874,
+      "draw": 660
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2558,
+      "date": 1757170840
+    },
+    "lowest": {
+      "rating": 2430,
+      "date": 1757073553
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

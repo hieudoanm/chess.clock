@@ -1,0 +1,83 @@
+{
+  "player_id": 94198264,
+  "@id": "https://api.chess.com/pub/player/lemmingsplayer",
+  "url": "https://www.chess.com/member/Lemmingsplayer",
+  "username": "lemmingsplayer",
+  "title": "CM",
+  "followers": 70,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "last_online": 1775835343,
+  "joined": 1603882164,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1732207290,
+      "rd": 247
+    },
+    "best": {
+      "rating": 966,
+      "date": 1629160267,
+      "game": "https://www.chess.com/game/live/22899034579"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2710,
+      "date": 1764275350,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2813,
+      "date": 1761047870,
+      "game": "https://www.chess.com/game/live/144676969538"
+    },
+    "record": {
+      "win": 4892,
+      "loss": 5364,
+      "draw": 684
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2807,
+      "date": 1769209037,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1763750940,
+      "game": "https://www.chess.com/game/live/147796988750"
+    },
+    "record": {
+      "win": 3042,
+      "loss": 2962,
+      "draw": 601
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2498,
+      "date": 1761551319
+    },
+    "lowest": {
+      "rating": 2370,
+      "date": 1761553773
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

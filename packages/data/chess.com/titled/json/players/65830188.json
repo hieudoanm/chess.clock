@@ -1,0 +1,67 @@
+{
+    "player_id": 65830188,
+    "@id": "https://api.chess.com/pub/player/akhayan",
+    "url": "https://www.chess.com/member/Akhayan",
+    "name": "Ruben Akhayan",
+    "username": "akhayan",
+    "title": "FM",
+    "followers": 59,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1741607567,
+    "joined": 1569235504,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1717,
+            "date": 1675022513,
+            "rd": 195
+        },
+        "best": {
+            "rating": 2406,
+            "date": 1590425413,
+            "game": "https://www.chess.com/game/live/4906144301"
+        },
+        "record": {
+            "win": 2,
+            "loss": 5,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2353,
+            "date": 1741607869,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2506,
+            "date": 1718006102,
+            "game": "https://www.chess.com/game/live/131841032361"
+        },
+        "record": {
+            "win": 2175,
+            "loss": 2119,
+            "draw": 509
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1569235504
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1569235504
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 34
+        }
+    }
+}

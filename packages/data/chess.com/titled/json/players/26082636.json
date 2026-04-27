@@ -1,0 +1,85 @@
+{
+  "player_id": 26082636,
+  "@id": "https://api.chess.com/pub/player/marsmol",
+  "url": "https://www.chess.com/member/marsmol",
+  "name": "Marcin Smolka",
+  "username": "marsmol",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776507352,
+  "joined": 1452546243,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1362,
+      "date": 1775814893,
+      "rd": 172
+    },
+    "best": {
+      "rating": 1490,
+      "date": 1774548591,
+      "game": "https://www.chess.com/game/live/166468295710"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2356,
+      "date": 1776524560,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1725826734,
+      "game": "https://www.chess.com/game/live/120085249359"
+    },
+    "record": {
+      "win": 1780,
+      "loss": 1511,
+      "draw": 179
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2572,
+      "date": 1760267147,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1703003987,
+      "game": "https://www.chess.com/game/live/96740509813"
+    },
+    "record": {
+      "win": 353,
+      "loss": 273,
+      "draw": 47
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2589,
+      "date": 1763234449
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1763234868
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

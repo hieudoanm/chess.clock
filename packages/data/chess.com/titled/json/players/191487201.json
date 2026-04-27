@@ -1,0 +1,84 @@
+{
+  "player_id": 191487201,
+  "@id": "https://api.chess.com/pub/player/lumechess07",
+  "url": "https://www.chess.com/member/lumechess07",
+  "username": "lumechess07",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1734016308,
+  "joined": 1659033453,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1082,
+      "date": 1707643757,
+      "rd": 284
+    },
+    "best": {
+      "rating": 1082,
+      "date": 1707643757,
+      "game": "https://www.chess.com/game/live/101382070543"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2224,
+      "date": 1661980125,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1659432130,
+      "game": "https://www.chess.com/game/live/53123350585"
+    },
+    "record": {
+      "win": 223,
+      "loss": 79,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2150,
+      "date": 1660578693,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1659813998,
+      "game": "https://www.chess.com/game/live/53428229149"
+    },
+    "record": {
+      "win": 167,
+      "loss": 32,
+      "draw": 12
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2286,
+      "date": 1659033453
+    },
+    "lowest": {
+      "rating": 2286,
+      "date": 1659033453
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

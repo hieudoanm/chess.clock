@@ -1,0 +1,131 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75303186.92847494.200x200o.6e9163c62bf3.jpeg",
+  "player_id": 75303186,
+  "@id": "https://api.chess.com/pub/player/skybloues",
+  "url": "https://www.chess.com/member/Skybloues",
+  "name": "Thomas Morais",
+  "username": "skybloues",
+  "title": "FM",
+  "followers": 1293,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Paris",
+  "last_online": 1776597667,
+  "joined": 1585749784,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/skybloues",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/skybloues"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1819,
+      "date": 1764883025,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1954,
+      "date": 1586508619,
+      "game": "https://www.chess.com/game/daily/395004305"
+    },
+    "record": {
+      "win": 313,
+      "loss": 98,
+      "draw": 26,
+      "time_per_move": 76867,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1622,
+      "date": 1750333104,
+      "rd": 173
+    },
+    "best": {
+      "rating": 2081,
+      "date": 1644051081,
+      "game": "https://www.chess.com/game/daily/380776685"
+    },
+    "record": {
+      "win": 6,
+      "loss": 13,
+      "draw": 3,
+      "time_per_move": 76867,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2336,
+      "date": 1773788503,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1771001539,
+      "game": "https://www.chess.com/game/live/166084077300"
+    },
+    "record": {
+      "win": 206,
+      "loss": 79,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2707,
+      "date": 1776426895,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2854,
+      "date": 1776255305,
+      "game": "https://www.chess.com/game/live/167342622702"
+    },
+    "record": {
+      "win": 3693,
+      "loss": 3320,
+      "draw": 603
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2646,
+      "date": 1776545496,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2784,
+      "date": 1754091499,
+      "game": "https://www.chess.com/game/live/141414915646"
+    },
+    "record": {
+      "win": 2828,
+      "loss": 2331,
+      "draw": 555
+    }
+  },
+  "fide": 2278,
+  "tactics": {
+    "highest": {
+      "rating": 2421,
+      "date": 1755862451
+    },
+    "lowest": {
+      "rating": 2351,
+      "date": 1764329033
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2963763.bf2dd3af.200x200o.be36f98fad8e.jpg",
+  "player_id": 2963763,
+  "@id": "https://api.chess.com/pub/player/natesolon",
+  "url": "https://www.chess.com/member/NateSolon",
+  "name": "Nate Solon",
+  "username": "natesolon",
+  "title": "FM",
+  "followers": 293,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Omaha",
+  "last_online": 1776293383,
+  "joined": 1211781833,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2173,
+      "date": 1776267527,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1643212410,
+      "game": "https://www.chess.com/game/daily/357204091"
+    },
+    "record": {
+      "win": 83,
+      "loss": 11,
+      "draw": 9,
+      "time_per_move": 17620,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2323,
+      "date": 1717083107,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1668563019,
+      "game": "https://www.chess.com/game/live/61093181213"
+    },
+    "record": {
+      "win": 89,
+      "loss": 20,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1722132436,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1722131461,
+      "game": "https://www.chess.com/game/live/55457489493"
+    },
+    "record": {
+      "win": 1001,
+      "loss": 687,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2707,
+      "date": 1774559512,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1759311679,
+      "game": "https://www.chess.com/game/live/70151655449"
+    },
+    "record": {
+      "win": 2754,
+      "loss": 1864,
+      "draw": 277
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2324,
+      "date": 1768877187
+    },
+    "lowest": {
+      "rating": 2065,
+      "date": 1768877231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 51
+    }
+  }
+}

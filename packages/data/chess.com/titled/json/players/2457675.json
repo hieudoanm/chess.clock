@@ -1,0 +1,84 @@
+{
+  "player_id": 2457675,
+  "@id": "https://api.chess.com/pub/player/abrab_64",
+  "url": "https://www.chess.com/member/Abrab_64",
+  "username": "abrab_64",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/HR",
+  "location": "Zagreb",
+  "last_online": 1776541968,
+  "joined": 1263285129,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2089,
+      "date": 1727444400,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1727444400,
+      "game": "https://www.chess.com/game/live/100509797297"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1727534190,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1704806392,
+      "game": "https://www.chess.com/game/live/121273199513"
+    },
+    "record": {
+      "win": 27,
+      "loss": 25,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1739,
+      "date": 1730197608,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2185,
+      "date": 1716974168,
+      "game": "https://www.chess.com/game/live/109061441329"
+    },
+    "record": {
+      "win": 297,
+      "loss": 199,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2204,
+      "date": 1767013285
+    },
+    "lowest": {
+      "rating": 2061,
+      "date": 1775046969
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 73479888,
+  "@id": "https://api.chess.com/pub/player/a3aki",
+  "url": "https://www.chess.com/member/a3aki",
+  "name": "Adrian Kondakov",
+  "username": "a3aki",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1715361864,
+  "joined": 1584145162,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2018,
+      "date": 1661142564,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2074,
+      "date": 1621185901,
+      "game": "https://www.chess.com/game/live/4754454850"
+    },
+    "record": {
+      "win": 24,
+      "loss": 24,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2140,
+      "date": 1711244906,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1671312102,
+      "game": "https://www.chess.com/game/live/63132700601"
+    },
+    "record": {
+      "win": 46,
+      "loss": 34,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1671875321,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1584320118,
+      "game": "https://www.chess.com/game/live/5283816837"
+    },
+    "record": {
+      "win": 89,
+      "loss": 94,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2617,
+      "date": 1584145162
+    },
+    "lowest": {
+      "rating": 2617,
+      "date": 1584145162
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

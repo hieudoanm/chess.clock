@@ -1,0 +1,108 @@
+{
+  "player_id": 58889506,
+  "@id": "https://api.chess.com/pub/player/adekb2005",
+  "url": "https://www.chess.com/member/AdekB2005",
+  "name": "Adrian Budzisz",
+  "username": "adekb2005",
+  "title": "CM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776593207,
+  "joined": 1553341598,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1624,
+      "date": 1745937460,
+      "rd": 165
+    },
+    "best": {
+      "rating": 1727,
+      "date": 1558637724,
+      "game": "https://www.chess.com/game/daily/226631616"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 10752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1749548690,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1599975510,
+      "game": "https://www.chess.com/game/live/38250798341"
+    },
+    "record": {
+      "win": 12,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2674,
+      "date": 1776582002,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2756,
+      "date": 1776242453,
+      "game": "https://www.chess.com/game/live/167423681176"
+    },
+    "record": {
+      "win": 2093,
+      "loss": 2140,
+      "draw": 252
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2649,
+      "date": 1775901398,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1771319637,
+      "game": "https://www.chess.com/game/live/164808710586"
+    },
+    "record": {
+      "win": 2022,
+      "loss": 1888,
+      "draw": 275
+    }
+  },
+  "fide": 2075,
+  "tactics": {
+    "highest": {
+      "rating": 2363,
+      "date": 1766439193
+    },
+    "lowest": {
+      "rating": 2167,
+      "date": 1765235997
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    },
+    "daily": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

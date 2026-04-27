@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23879414.86119a71.200x200o.f0aefd0cdba5.jpeg",
+  "player_id": 23879414,
+  "@id": "https://api.chess.com/pub/player/gmalmeida",
+  "url": "https://www.chess.com/member/GMALMEIDA",
+  "name": "Omar Almeida Quintana",
+  "username": "gmalmeida",
+  "title": "GM",
+  "followers": 125,
+  "country": "https://api.chess.com/pub/country/CU",
+  "location": "La Habana",
+  "last_online": 1775928995,
+  "joined": 1440866512,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 825,
+      "date": 1776015435,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1440866512,
+      "game": "https://www.chess.com/game/daily/727732597"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 151230,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2660,
+      "date": 1771285295,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1642888836,
+      "game": "https://www.chess.com/game/live/36625771891"
+    },
+    "record": {
+      "win": 26,
+      "loss": 5,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2596,
+      "date": 1774293975,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1768933371,
+      "game": "https://www.chess.com/game/live/164681182210"
+    },
+    "record": {
+      "win": 43,
+      "loss": 28,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2657,
+      "date": 1678835024,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2865,
+      "date": 1564069135,
+      "game": "https://www.chess.com/game/live/3898935323"
+    },
+    "record": {
+      "win": 563,
+      "loss": 336,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2240,
+      "date": 1440866512
+    },
+    "lowest": {
+      "rating": 2240,
+      "date": 1440866512
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

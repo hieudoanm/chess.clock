@@ -1,0 +1,85 @@
+{
+  "player_id": 41191436,
+  "@id": "https://api.chess.com/pub/player/iljajoke",
+  "url": "https://www.chess.com/member/IljaJoke",
+  "name": "Ilja Sirosh",
+  "username": "iljajoke",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/EE",
+  "last_online": 1761287735,
+  "joined": 1512904497,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2225,
+      "date": 1630758788,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1590425343,
+      "game": "https://www.chess.com/game/live/5301206213"
+    },
+    "record": {
+      "win": 17,
+      "loss": 15,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2466,
+      "date": 1650400891,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1615312541,
+      "game": "https://www.chess.com/game/live/9051445283"
+    },
+    "record": {
+      "win": 28,
+      "loss": 19,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2584,
+      "date": 1661271884,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1650405255,
+      "game": "https://www.chess.com/game/live/12072231705"
+    },
+    "record": {
+      "win": 951,
+      "loss": 857,
+      "draw": 208
+    }
+  },
+  "fide": 2405,
+  "tactics": {
+    "highest": {
+      "rating": 1605,
+      "date": 1512904497
+    },
+    "lowest": {
+      "rating": 1605,
+      "date": 1512904497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

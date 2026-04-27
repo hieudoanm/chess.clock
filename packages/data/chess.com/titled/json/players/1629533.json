@@ -1,0 +1,99 @@
+{
+  "player_id": 1629533,
+  "@id": "https://api.chess.com/pub/player/mackus",
+  "url": "https://www.chess.com/member/Mackus",
+  "name": "Mark Bohannon",
+  "username": "mackus",
+  "title": "NM",
+  "followers": 1339,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Grandview, MO",
+  "last_online": 1641359550,
+  "joined": 1228175835,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2465,
+      "date": 1688149384,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1275277208,
+      "game": "https://www.chess.com/game/daily/30450853"
+    },
+    "record": {
+      "win": 472,
+      "loss": 50,
+      "draw": 44,
+      "time_per_move": 11616,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2075,
+      "date": 1638584093,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1619743537,
+      "game": "https://www.chess.com/game/live/13407679449"
+    },
+    "record": {
+      "win": 48,
+      "loss": 10,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1805,
+      "date": 1641391645,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2015,
+      "date": 1605825888,
+      "game": "https://www.chess.com/game/live/100237615"
+    },
+    "record": {
+      "win": 18869,
+      "loss": 15568,
+      "draw": 880
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2026,
+      "date": 1640555197,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1545013218,
+      "game": "https://www.chess.com/game/live/3840115897"
+    },
+    "record": {
+      "win": 14537,
+      "loss": 11176,
+      "draw": 913
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2129,
+      "date": 1228175835
+    },
+    "lowest": {
+      "rating": 2129,
+      "date": 1228175835
+    }
+  },
+  "puzzle_rush": {}
+}

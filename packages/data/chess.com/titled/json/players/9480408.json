@@ -1,0 +1,69 @@
+{
+  "player_id": 9480408,
+  "@id": "https://api.chess.com/pub/player/aljchess",
+  "url": "https://www.chess.com/member/aljchess",
+  "name": "Armando Lopez",
+  "username": "aljchess",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/CU",
+  "location": "boyaca",
+  "last_online": 1776338938,
+  "joined": 1351795022,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2189,
+      "date": 1667237118,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1667236373,
+      "game": "https://www.chess.com/game/live/2445025689"
+    },
+    "record": {
+      "win": 827,
+      "loss": 539,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2418,
+      "date": 1666546103,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2489,
+      "date": 1586741717,
+      "game": "https://www.chess.com/game/live/999509984"
+    },
+    "record": {
+      "win": 10140,
+      "loss": 8441,
+      "draw": 1315
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1351795022
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1351795022
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

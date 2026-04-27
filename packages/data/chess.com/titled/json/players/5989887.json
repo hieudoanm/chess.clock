@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5989887.faed1754.200x200o.288071f97639.jpeg",
+  "player_id": 5989887,
+  "@id": "https://api.chess.com/pub/player/wundersweiner",
+  "url": "https://www.chess.com/member/wundersweiner",
+  "username": "wundersweiner",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776437152,
+  "joined": 1319206112,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1355,
+      "date": 1745849492,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1652,
+      "date": 1405471093,
+      "game": "https://www.chess.com/game/daily/92374972"
+    },
+    "record": {
+      "win": 16,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 20573,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2328,
+      "date": 1696722995,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2368,
+      "date": 1685726256,
+      "game": "https://www.chess.com/game/live/74967675797"
+    },
+    "record": {
+      "win": 63,
+      "loss": 52,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2519,
+      "date": 1758470924,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1705686292,
+      "game": "https://www.chess.com/game/live/99424862735"
+    },
+    "record": {
+      "win": 208,
+      "loss": 140,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2476,
+      "date": 1776437140,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1696545886,
+      "game": "https://www.chess.com/game/live/71184478859"
+    },
+    "record": {
+      "win": 1098,
+      "loss": 1009,
+      "draw": 187
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1363,
+      "date": 1773517555
+    },
+    "lowest": {
+      "rating": 1102,
+      "date": 1773517507
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "player_id": 41508770,
+  "@id": "https://api.chess.com/pub/player/bocharovd",
+  "url": "https://www.chess.com/member/BocharovD",
+  "name": "Dmitriy Bocharov",
+  "username": "bocharovd",
+  "title": "GM",
+  "followers": 377,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Russia",
+  "last_online": 1775228996,
+  "joined": 1513778930,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2323,
+      "date": 1706731279,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1607520841,
+      "game": "https://www.chess.com/game/live/100455805741"
+    },
+    "record": {
+      "win": 7,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2542,
+      "date": 1672903375,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1532840566,
+      "game": "https://www.chess.com/game/live/3647754201"
+    },
+    "record": {
+      "win": 72,
+      "loss": 55,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2853,
+      "date": 1773839495,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2919,
+      "date": 1588868605,
+      "game": "https://www.chess.com/game/live/100376111193"
+    },
+    "record": {
+      "win": 2497,
+      "loss": 1739,
+      "draw": 387
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2417,
+      "date": 1513778930
+    },
+    "lowest": {
+      "rating": 2417,
+      "date": 1513778930
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

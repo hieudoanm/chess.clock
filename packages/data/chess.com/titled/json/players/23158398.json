@@ -1,0 +1,97 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23158398.b7013253.200x200o.6f7c775b6240.jpg",
+  "player_id": 23158398,
+  "@id": "https://api.chess.com/pub/player/chesscoachandras",
+  "url": "https://www.chess.com/member/ChesscoachAndras",
+  "name": "Andras Toth",
+  "username": "chesscoachandras",
+  "title": "IM",
+  "followers": 3894,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Australia",
+  "last_online": 1776590359,
+  "joined": 1436416221,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chesscoachandras",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chesscoachandras"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@chesscoachandras353"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2600,
+      "date": 1739787337,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1735132873,
+      "game": "https://www.chess.com/game/live/109911042043"
+    },
+    "record": {
+      "win": 1557,
+      "loss": 965,
+      "draw": 245
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2754,
+      "date": 1772859227,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2863,
+      "date": 1772516361,
+      "game": "https://www.chess.com/game/live/139975185546"
+    },
+    "record": {
+      "win": 6146,
+      "loss": 6755,
+      "draw": 429
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2918,
+      "date": 1773047713,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2918,
+      "date": 1773047713,
+      "game": "https://www.chess.com/game/live/143572208140"
+    },
+    "record": {
+      "win": 6656,
+      "loss": 6664,
+      "draw": 847
+    }
+  },
+  "fide": 2377,
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1756604049
+    },
+    "lowest": {
+      "rating": 2284,
+      "date": 1756603467
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

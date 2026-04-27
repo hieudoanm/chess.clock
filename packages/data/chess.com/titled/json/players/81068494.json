@@ -1,0 +1,82 @@
+{
+  "player_id": 81068494,
+  "@id": "https://api.chess.com/pub/player/sting2010",
+  "url": "https://www.chess.com/member/Sting2010",
+  "name": "Levi Malinowsky",
+  "username": "sting2010",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775639170,
+  "joined": 1590944916,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1761076085,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 420903,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2256,
+      "date": 1724057775,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1724057775,
+      "game": "https://www.chess.com/game/live/117796741153"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2203,
+      "date": 1707923328,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1707923328,
+      "game": "https://www.chess.com/game/live/101662265031"
+    },
+    "record": {
+      "win": 40,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "fide": 2332,
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1590944916
+    },
+    "lowest": {
+      "rating": 2588,
+      "date": 1590944916
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 57868610,
+  "@id": "https://api.chess.com/pub/player/alisuma",
+  "url": "https://www.chess.com/member/alisuma",
+  "name": "Ali Suleymanov",
+  "username": "alisuma",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "location": "Baku, Azerbaijan",
+  "last_online": 1776412096,
+  "joined": 1551261672,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1875,
+      "date": 1776411939,
+      "rd": 213
+    },
+    "best": {
+      "rating": 1954,
+      "date": 1602146454,
+      "game": "https://www.chess.com/game/live/5554056029"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2358,
+      "date": 1774271855,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1758321360,
+      "game": "https://www.chess.com/game/live/143113637960"
+    },
+    "record": {
+      "win": 1392,
+      "loss": 1522,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2477,
+      "date": 1774865006,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1760179804,
+      "game": "https://www.chess.com/game/live/144289304936"
+    },
+    "record": {
+      "win": 1098,
+      "loss": 1036,
+      "draw": 170
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2511,
+      "date": 1757399725
+    },
+    "lowest": {
+      "rating": 2256,
+      "date": 1759643800
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

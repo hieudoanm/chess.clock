@@ -1,0 +1,63 @@
+{
+  "player_id": 5104710,
+  "@id": "https://api.chess.com/pub/player/istanbul1",
+  "url": "https://www.chess.com/member/Istanbul1",
+  "name": "Joost Berkvens",
+  "username": "istanbul1",
+  "title": "IM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "z",
+  "last_online": 1776338745,
+  "joined": 1305060675,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2289,
+      "date": 1700985135,
+      "rd": 235
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1424695951,
+      "game": "https://www.chess.com/game/live/1056654246"
+    },
+    "record": {
+      "win": 760,
+      "loss": 480,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2685,
+      "date": 1704614224,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2785,
+      "date": 1702197520,
+      "game": "https://www.chess.com/game/live/95897607045"
+    },
+    "record": {
+      "win": 3144,
+      "loss": 2137,
+      "draw": 219
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1305060675
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1305060675
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17814726.1caadb90.200x200o.bf47147b5972.png",
+  "player_id": 17814726,
+  "@id": "https://api.chess.com/pub/player/kettichess",
+  "url": "https://www.chess.com/member/Kettichess",
+  "name": "Katerine Areshchenko",
+  "username": "kettichess",
+  "title": "WGM",
+  "followers": 78,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Lviv",
+  "last_online": 1770382476,
+  "joined": 1403632215,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1642654451,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1386310,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2047,
+      "date": 1488735594,
+      "rd": 321
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1488732935,
+      "game": "https://www.chess.com/game/live/1982244638"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1731,
+      "date": 1506853397,
+      "rd": 283
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1435949025,
+      "game": "https://www.chess.com/game/live/2344200244"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "fide": 2231,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1403632215
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1403632215
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

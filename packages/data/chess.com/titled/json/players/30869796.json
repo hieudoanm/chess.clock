@@ -1,0 +1,79 @@
+{
+  "player_id": 30869796,
+  "@id": "https://api.chess.com/pub/player/artichaud",
+  "url": "https://www.chess.com/member/artichaud",
+  "username": "artichaud",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1771260783,
+  "joined": 1478948406,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2206,
+      "date": 1717419659,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2336,
+      "date": 1633437876,
+      "game": "https://www.chess.com/game/live/5891909365"
+    },
+    "record": {
+      "win": 54,
+      "loss": 31,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1972,
+      "date": 1744024821,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2087,
+      "date": 1539365298,
+      "game": "https://www.chess.com/game/live/3138182022"
+    },
+    "record": {
+      "win": 21,
+      "loss": 15,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2230,
+      "date": 1750419229,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1547996118,
+      "game": "https://www.chess.com/game/live/2382655511"
+    },
+    "record": {
+      "win": 7441,
+      "loss": 6725,
+      "draw": 798
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1478948406
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1478948406
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12013198.863e1adc.200x200o.c5bbcd2ac249.gif",
+  "player_id": 12013198,
+  "@id": "https://api.chess.com/pub/player/chessnsk",
+  "url": "https://www.chess.com/member/chessnsk",
+  "username": "chessnsk",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Novosibirsk",
+  "last_online": 1776056788,
+  "joined": 1369452146,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2124,
+      "date": 1747568355,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1547001570,
+      "game": "https://www.chess.com/game/live/138589495716"
+    },
+    "record": {
+      "win": 74,
+      "loss": 24,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2535,
+      "date": 1776056778,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1761548272,
+      "game": "https://www.chess.com/game/live/39193839893"
+    },
+    "record": {
+      "win": 293,
+      "loss": 231,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2546,
+      "date": 1637550439,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1637550071,
+      "game": "https://www.chess.com/game/live/30188948405"
+    },
+    "record": {
+      "win": 127,
+      "loss": 61,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2513,
+      "date": 1369452146
+    },
+    "lowest": {
+      "rating": 2513,
+      "date": 1369452146
+    }
+  },
+  "puzzle_rush": {}
+}

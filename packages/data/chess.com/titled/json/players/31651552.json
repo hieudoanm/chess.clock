@@ -1,0 +1,67 @@
+{
+  "player_id": 31651552,
+  "@id": "https://api.chess.com/pub/player/kamblefy",
+  "url": "https://www.chess.com/member/kamblefy",
+  "name": "Vikramaditya Kulkarni",
+  "username": "kamblefy",
+  "title": "IM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1774841273,
+  "joined": 1481861800,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2057,
+      "date": 1734161208,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1484153275,
+      "game": "https://www.chess.com/game/live/127650599885"
+    },
+    "record": {
+      "win": 8,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1681674001,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1669138107,
+      "game": "https://www.chess.com/game/live/63477001751"
+    },
+    "record": {
+      "win": 1015,
+      "loss": 663,
+      "draw": 110
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2029,
+      "date": 1481861800
+    },
+    "lowest": {
+      "rating": 2029,
+      "date": 1481861800
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

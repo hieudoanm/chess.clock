@@ -1,0 +1,103 @@
+{
+  "player_id": 36488084,
+  "@id": "https://api.chess.com/pub/player/harkerchess",
+  "url": "https://www.chess.com/member/harkerchess",
+  "name": "Omya Vidyarthi",
+  "username": "harkerchess",
+  "title": "WIM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776341518,
+  "joined": 1498091482,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1471,
+      "date": 1720542802,
+      "rd": 224
+    },
+    "best": {
+      "rating": 1471,
+      "date": 1590346803,
+      "game": "https://www.chess.com/game/daily/264534250"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 18110,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2056,
+      "date": 1717359131,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2070,
+      "date": 1717347491,
+      "game": "https://www.chess.com/game/live/111010312809"
+    },
+    "record": {
+      "win": 85,
+      "loss": 48,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1907,
+      "date": 1698870801,
+      "rd": 52
+    },
+    "best": {
+      "rating": 1907,
+      "date": 1698870588,
+      "game": "https://www.chess.com/game/live/5046073868"
+    },
+    "record": {
+      "win": 536,
+      "loss": 313,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1755547742,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1755546971,
+      "game": "https://www.chess.com/game/live/149853496519"
+    },
+    "record": {
+      "win": 1130,
+      "loss": 902,
+      "draw": 138
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1498091482
+    },
+    "lowest": {
+      "rating": 2588,
+      "date": 1498091482
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

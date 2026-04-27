@@ -1,0 +1,87 @@
+{
+  "player_id": 492781159,
+  "@id": "https://api.chess.com/pub/player/f1_and_chess",
+  "url": "https://www.chess.com/member/F1_and_Chess",
+  "name": "David Kaufman",
+  "username": "f1_and_chess",
+  "title": "IM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1763385910,
+  "joined": 1760641638,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 546,
+      "date": 1763370023,
+      "rd": 249
+    },
+    "best": {
+      "rating": 546,
+      "date": 1763370023,
+      "game": "https://www.chess.com/game/daily/888889671"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3157,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2563,
+      "date": 1763372926,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1763372820,
+      "game": "https://www.chess.com/game/live/145610905132"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3184,
+      "date": 1763390011,
+      "rd": 22
+    },
+    "best": {
+      "rating": 3196,
+      "date": 1763388964,
+      "game": "https://www.chess.com/game/live/145592975716"
+    },
+    "record": {
+      "win": 221,
+      "loss": 150,
+      "draw": 54
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 616,
+      "date": 1762981447
+    },
+    "lowest": {
+      "rating": 569,
+      "date": 1762981436
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

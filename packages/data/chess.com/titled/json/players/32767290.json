@@ -1,0 +1,104 @@
+{
+  "player_id": 32767290,
+  "@id": "https://api.chess.com/pub/player/rtutic",
+  "url": "https://www.chess.com/member/rtutic",
+  "name": "resad tutic",
+  "username": "rtutic",
+  "title": "FM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/BA",
+  "last_online": 1776578749,
+  "joined": 1485707207,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1830,
+      "date": 1622881703,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1948,
+      "date": 1590090345,
+      "game": "https://www.chess.com/game/daily/263941210"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 16351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2189,
+      "date": 1673292379,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1673217492,
+      "game": "https://www.chess.com/game/live/66949825959"
+    },
+    "record": {
+      "win": 32,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2120,
+      "date": 1691695288,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1684095774,
+      "game": "https://www.chess.com/game/live/67642465451"
+    },
+    "record": {
+      "win": 1453,
+      "loss": 1275,
+      "draw": 175
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2321,
+      "date": 1776534472,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1769959217,
+      "game": "https://www.chess.com/game/live/5573560110"
+    },
+    "record": {
+      "win": 3296,
+      "loss": 2737,
+      "draw": 584
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2482,
+      "date": 1758656262
+    },
+    "lowest": {
+      "rating": 2112,
+      "date": 1771180047
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

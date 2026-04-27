@@ -1,0 +1,83 @@
+{
+  "player_id": 356892227,
+  "@id": "https://api.chess.com/pub/player/yevhen_taranenko",
+  "url": "https://www.chess.com/member/Yevhen_Taranenko",
+  "name": "Evgueniy Taranenko",
+  "username": "yevhen_taranenko",
+  "title": "NM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776544088,
+  "joined": 1713009809,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2177,
+      "date": 1750534046,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2193,
+      "date": 1725565347,
+      "game": "https://www.chess.com/game/live/119303373079"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2531,
+      "date": 1776382978,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1773971746,
+      "game": "https://www.chess.com/game/live/146444298816"
+    },
+    "record": {
+      "win": 572,
+      "loss": 640,
+      "draw": 148
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2463,
+      "date": 1775259850,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1736986685,
+      "game": "https://www.chess.com/game/live/146300600981"
+    },
+    "record": {
+      "win": 620,
+      "loss": 726,
+      "draw": 193
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1397,
+      "date": 1765132477
+    },
+    "lowest": {
+      "rating": 1258,
+      "date": 1775153839
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

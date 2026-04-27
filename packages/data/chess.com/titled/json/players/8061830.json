@@ -1,0 +1,86 @@
+{
+  "player_id": 8061830,
+  "@id": "https://api.chess.com/pub/player/awesomestudents",
+  "url": "https://www.chess.com/member/Awesomestudents",
+  "name": "Farai Mandizha",
+  "username": "awesomestudents",
+  "title": "IM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1776536366,
+  "joined": 1341150455,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2375,
+      "date": 1753976256,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1738878112,
+      "game": "https://www.chess.com/game/live/132603063195"
+    },
+    "record": {
+      "win": 85,
+      "loss": 43,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2451,
+      "date": 1700700067,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1691461165,
+      "game": "https://www.chess.com/game/live/2202444825"
+    },
+    "record": {
+      "win": 5606,
+      "loss": 6404,
+      "draw": 438
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2623,
+      "date": 1775920328,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1567717837,
+      "game": "https://www.chess.com/game/live/3532990545"
+    },
+    "record": {
+      "win": 865,
+      "loss": 800,
+      "draw": 111
+    }
+  },
+  "fide": 2375,
+  "tactics": {
+    "highest": {
+      "rating": 2564,
+      "date": 1341150455
+    },
+    "lowest": {
+      "rating": 2564,
+      "date": 1341150455
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 35
+    }
+  }
+}

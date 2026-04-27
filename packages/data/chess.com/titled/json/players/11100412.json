@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11100412.b718a72a.200x200o.5dff4e0f1bdc.jpeg",
+  "player_id": 11100412,
+  "@id": "https://api.chess.com/pub/player/storchnoi",
+  "url": "https://www.chess.com/member/Storchnoi",
+  "name": "Larry Storch",
+  "username": "storchnoi",
+  "title": "NM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Central Florida",
+  "last_online": 1776340604,
+  "joined": 1362946504,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1990,
+      "date": 1737032156,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1608822002,
+      "game": "https://www.chess.com/game/daily/186099964"
+    },
+    "record": {
+      "win": 67,
+      "loss": 41,
+      "draw": 5,
+      "time_per_move": 36780,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1856,
+      "date": 1609344955,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1589657469,
+      "game": "https://www.chess.com/game/live/4802545291"
+    },
+    "record": {
+      "win": 63,
+      "loss": 32,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1775,
+      "date": 1609020773,
+      "rd": 45
+    },
+    "best": {
+      "rating": 1786,
+      "date": 1609020434,
+      "game": "https://www.chess.com/game/live/5949468010"
+    },
+    "record": {
+      "win": 128,
+      "loss": 106,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2002,
+      "date": 1609786624,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1590846605,
+      "game": "https://www.chess.com/game/live/4879594797"
+    },
+    "record": {
+      "win": 3744,
+      "loss": 3509,
+      "draw": 487
+    }
+  },
+  "fide": 2207,
+  "tactics": {
+    "highest": {
+      "rating": 2156,
+      "date": 1362946504
+    },
+    "lowest": {
+      "rating": 2156,
+      "date": 1362946504
+    }
+  },
+  "puzzle_rush": {}
+}

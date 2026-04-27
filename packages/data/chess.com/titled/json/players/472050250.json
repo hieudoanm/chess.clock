@@ -1,0 +1,72 @@
+{
+  "player_id": 472050250,
+  "@id": "https://api.chess.com/pub/player/siddhant",
+  "url": "https://www.chess.com/member/Siddhant",
+  "name": "Gawai Siddhant",
+  "username": "siddhant",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776596006,
+  "joined": 1754398184,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2724,
+      "date": 1776595995,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1756473396,
+      "game": "https://www.chess.com/game/live/142476767048"
+    },
+    "record": {
+      "win": 52,
+      "loss": 43,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2789,
+      "date": 1774008581,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2802,
+      "date": 1773913162,
+      "game": "https://www.chess.com/game/live/166142603874"
+    },
+    "record": {
+      "win": 43,
+      "loss": 16,
+      "draw": 2
+    }
+  },
+  "fide": 2281,
+  "tactics": {
+    "highest": {
+      "rating": 1355,
+      "date": 1769570709
+    },
+    "lowest": {
+      "rating": 820,
+      "date": 1769538079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

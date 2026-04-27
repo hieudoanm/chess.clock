@@ -1,0 +1,103 @@
+{
+  "player_id": 17105470,
+  "@id": "https://api.chess.com/pub/player/faraone99",
+  "url": "https://www.chess.com/member/faraone99",
+  "name": "Davide Podetti",
+  "username": "faraone99",
+  "title": "FM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776187184,
+  "joined": 1398795515,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 954,
+      "date": 1766471932,
+      "rd": 209
+    },
+    "best": {
+      "rating": 1414,
+      "date": 1539805211,
+      "game": "https://www.chess.com/game/daily/206655790"
+    },
+    "record": {
+      "win": 3,
+      "loss": 11,
+      "draw": 0,
+      "time_per_move": 174831,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2059,
+      "date": 1773154205,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1590769482,
+      "game": "https://www.chess.com/game/live/4911485131"
+    },
+    "record": {
+      "win": 35,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2577,
+      "date": 1776187178,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1771955412,
+      "game": "https://www.chess.com/game/live/107197886673"
+    },
+    "record": {
+      "win": 2715,
+      "loss": 1967,
+      "draw": 241
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1775648128,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1697556534,
+      "game": "https://www.chess.com/game/live/101578975729"
+    },
+    "record": {
+      "win": 506,
+      "loss": 376,
+      "draw": 82
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2426,
+      "date": 1398795515
+    },
+    "lowest": {
+      "rating": 2426,
+      "date": 1398795515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

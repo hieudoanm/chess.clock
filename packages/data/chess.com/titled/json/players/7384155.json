@@ -1,0 +1,104 @@
+{
+  "player_id": 7384155,
+  "@id": "https://api.chess.com/pub/player/viktors2003",
+  "url": "https://www.chess.com/member/ViktorS2003",
+  "name": "Viktor Stoyanov",
+  "username": "viktors2003",
+  "title": "FM",
+  "followers": 155,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776554907,
+  "joined": 1335208361,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1478,
+      "date": 1706091961,
+      "rd": 130
+    },
+    "best": {
+      "rating": 1529,
+      "date": 1464802680,
+      "game": "https://www.chess.com/game/daily/130743060"
+    },
+    "record": {
+      "win": 11,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 27786,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1748104502,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1648999795,
+      "game": "https://www.chess.com/game/live/70575977447"
+    },
+    "record": {
+      "win": 186,
+      "loss": 144,
+      "draw": 29
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2615,
+      "date": 1752888130,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1751674670,
+      "game": "https://www.chess.com/game/live/140769089880"
+    },
+    "record": {
+      "win": 952,
+      "loss": 801,
+      "draw": 101
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2718,
+      "date": 1776554876,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2790,
+      "date": 1773491619,
+      "game": "https://www.chess.com/game/live/56248436387"
+    },
+    "record": {
+      "win": 7042,
+      "loss": 6468,
+      "draw": 1410
+    }
+  },
+  "fide": 2273,
+  "tactics": {
+    "highest": {
+      "rating": 2885,
+      "date": 1760866475
+    },
+    "lowest": {
+      "rating": 2719,
+      "date": 1760866489
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

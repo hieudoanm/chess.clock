@@ -1,0 +1,83 @@
+{
+  "player_id": 11310982,
+  "@id": "https://api.chess.com/pub/player/patliy",
+  "url": "https://www.chess.com/member/Patliy",
+  "name": "Patrick Li Ying",
+  "username": "patliy",
+  "title": "CM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/MU",
+  "location": "Mauritius",
+  "last_online": 1776260454,
+  "joined": 1364494775,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 854,
+      "date": 1759848556,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1364494775,
+      "game": "https://www.chess.com/game/daily/565324019"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9186,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2409,
+      "date": 1776007020,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1776007020,
+      "game": "https://www.chess.com/game/live/147328435812"
+    },
+    "record": {
+      "win": 749,
+      "loss": 750,
+      "draw": 210
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1774633790,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1774633790,
+      "game": "https://www.chess.com/game/live/3804344070"
+    },
+    "record": {
+      "win": 4581,
+      "loss": 4767,
+      "draw": 943
+    }
+  },
+  "fide": 2036,
+  "tactics": {
+    "highest": {
+      "rating": 1799,
+      "date": 1774166989
+    },
+    "lowest": {
+      "rating": 1076,
+      "date": 1766776992
+    }
+  },
+  "puzzle_rush": {}
+}

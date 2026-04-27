@@ -1,0 +1,66 @@
+{
+  "player_id": 143599903,
+  "@id": "https://api.chess.com/pub/player/yodalearn",
+  "url": "https://www.chess.com/member/YodaLearn",
+  "username": "yodalearn",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1770102103,
+  "joined": 1623074936,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1536,
+      "date": 1623255910,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1748,
+      "date": 1623080275,
+      "game": "https://www.chess.com/game/live/16818998279"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2467,
+      "date": 1737622645,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1661984918,
+      "game": "https://www.chess.com/game/live/43122578217"
+    },
+    "record": {
+      "win": 25,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2532,
+      "date": 1623074936
+    },
+    "lowest": {
+      "rating": 2532,
+      "date": 1623074936
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

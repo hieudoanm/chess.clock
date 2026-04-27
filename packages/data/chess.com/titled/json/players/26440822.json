@@ -1,0 +1,103 @@
+{
+  "player_id": 26440822,
+  "@id": "https://api.chess.com/pub/player/patrisiii123",
+  "url": "https://www.chess.com/member/patrisiii123",
+  "name": "Patrick Gelbenegger",
+  "username": "patrisiii123",
+  "title": "CM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776536212,
+  "joined": 1454249048,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1654,
+      "date": 1705581724,
+      "rd": 118
+    },
+    "best": {
+      "rating": 1654,
+      "date": 1516950327,
+      "game": "https://www.chess.com/game/daily/180819782"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 9421,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1915,
+      "date": 1774552094,
+      "rd": 286
+    },
+    "best": {
+      "rating": 1917,
+      "date": 1492368522,
+      "game": "https://www.chess.com/game/live/2053155722"
+    },
+    "record": {
+      "win": 11,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2187,
+      "date": 1771179776,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1629672881,
+      "game": "https://www.chess.com/game/live/22428079413"
+    },
+    "record": {
+      "win": 1673,
+      "loss": 1583,
+      "draw": 184
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2421,
+      "date": 1773302556,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2498,
+      "date": 1569964297,
+      "game": "https://www.chess.com/game/live/4003223241"
+    },
+    "record": {
+      "win": 459,
+      "loss": 373,
+      "draw": 68
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2422,
+      "date": 1776089848
+    },
+    "lowest": {
+      "rating": 2204,
+      "date": 1776090130
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

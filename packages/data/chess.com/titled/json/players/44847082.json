@@ -1,0 +1,85 @@
+{
+  "player_id": 44847082,
+  "@id": "https://api.chess.com/pub/player/zeberro",
+  "url": "https://www.chess.com/member/Zeberro",
+  "name": "Tomasz Zebracki",
+  "username": "zeberro",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776268713,
+  "joined": 1522530542,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2240,
+      "date": 1756153883,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1617364919,
+      "game": "https://www.chess.com/game/live/59649603583"
+    },
+    "record": {
+      "win": 39,
+      "loss": 23,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2337,
+      "date": 1756491881,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1622717629,
+      "game": "https://www.chess.com/game/live/16019651867"
+    },
+    "record": {
+      "win": 846,
+      "loss": 771,
+      "draw": 143
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2225,
+      "date": 1756927252,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1622052604,
+      "game": "https://www.chess.com/game/live/16302281955"
+    },
+    "record": {
+      "win": 2072,
+      "loss": 1819,
+      "draw": 308
+    }
+  },
+  "fide": 2230,
+  "tactics": {
+    "highest": {
+      "rating": 2770,
+      "date": 1775316471
+    },
+    "lowest": {
+      "rating": 2547,
+      "date": 1760027558
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

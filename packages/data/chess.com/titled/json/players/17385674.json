@@ -1,0 +1,105 @@
+{
+  "player_id": 17385674,
+  "@id": "https://api.chess.com/pub/player/coffeelover1",
+  "url": "https://www.chess.com/member/coffeelover1",
+  "name": "Manuel Weeks",
+  "username": "coffeelover1",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "London",
+  "last_online": 1776539133,
+  "joined": 1400687218,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1489,
+      "date": 1745310500,
+      "rd": 184
+    },
+    "best": {
+      "rating": 1540,
+      "date": 1693597845,
+      "game": "https://www.chess.com/game/daily/552504115"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 3,
+      "time_per_move": 56140,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2127,
+      "date": 1749065789,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2127,
+      "date": 1749065789,
+      "game": "https://www.chess.com/game/live/139218120408"
+    },
+    "record": {
+      "win": 41,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1813,
+      "date": 1757335913,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2068,
+      "date": 1755875302,
+      "game": "https://www.chess.com/game/live/83951941817"
+    },
+    "record": {
+      "win": 70,
+      "loss": 80,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2061,
+      "date": 1776539125,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1751618545,
+      "game": "https://www.chess.com/game/live/116346060317"
+    },
+    "record": {
+      "win": 11326,
+      "loss": 9900,
+      "draw": 1103
+    }
+  },
+  "fide": 2120,
+  "tactics": {
+    "highest": {
+      "rating": 2366,
+      "date": 1400687218
+    },
+    "lowest": {
+      "rating": 2366,
+      "date": 1400687218
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

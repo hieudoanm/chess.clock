@@ -1,0 +1,61 @@
+{
+  "player_id": 351819425,
+  "@id": "https://api.chess.com/pub/player/wittyali",
+  "url": "https://www.chess.com/member/WittyAli",
+  "username": "wittyali",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/PS",
+  "last_online": 1775607454,
+  "joined": 1710854288,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1938,
+      "date": 1735345846,
+      "rd": 251
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1398,
+      "date": 1772822872,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1726482219,
+      "game": "https://www.chess.com/game/live/104605172053"
+    },
+    "record": {
+      "win": 284,
+      "loss": 341,
+      "draw": 24
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1685,
+      "date": 1710854288
+    },
+    "lowest": {
+      "rating": 1685,
+      "date": 1710854288
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 63
+    }
+  }
+}

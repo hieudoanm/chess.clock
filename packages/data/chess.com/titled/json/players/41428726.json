@@ -1,0 +1,103 @@
+{
+  "player_id": 41428726,
+  "@id": "https://api.chess.com/pub/player/darhild",
+  "url": "https://www.chess.com/member/Darhild",
+  "name": "Pavlo Kruglyakov",
+  "username": "darhild",
+  "title": "NM",
+  "followers": 106,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776591506,
+  "joined": 1513547156,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1941,
+      "date": 1651393713,
+      "rd": 190
+    },
+    "best": {
+      "rating": 1941,
+      "date": 1619852242,
+      "game": "https://www.chess.com/game/daily/290149292"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18642,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2434,
+      "date": 1720041873,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1607169711,
+      "game": "https://www.chess.com/game/live/5891950869"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2909,
+      "date": 1772730335,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1772635307,
+      "game": "https://www.chess.com/game/live/165398324140"
+    },
+    "record": {
+      "win": 1009,
+      "loss": 916,
+      "draw": 177
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2901,
+      "date": 1765757632,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1765757632,
+      "game": "https://www.chess.com/game/live/145102911138"
+    },
+    "record": {
+      "win": 1723,
+      "loss": 1668,
+      "draw": 485
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2635,
+      "date": 1762664873
+    },
+    "lowest": {
+      "rating": 2363,
+      "date": 1762667968
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 54937680,
+  "@id": "https://api.chess.com/pub/player/lifeek",
+  "url": "https://www.chess.com/member/Lifeek",
+  "name": "Dmitry Zharov",
+  "username": "lifeek",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1661262620,
+  "joined": 1545594083,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2246,
+      "date": 1578768833,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1546946010,
+      "game": "https://www.chess.com/game/live/3357944691"
+    },
+    "record": {
+      "win": 121,
+      "loss": 91,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2268,
+      "date": 1586076915,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1579985033,
+      "game": "https://www.chess.com/game/live/4376893765"
+    },
+    "record": {
+      "win": 68,
+      "loss": 36,
+      "draw": 7
+    }
+  },
+  "fide": 2328,
+  "tactics": {
+    "highest": {
+      "rating": 2574,
+      "date": 1545594083
+    },
+    "lowest": {
+      "rating": 2574,
+      "date": 1545594083
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

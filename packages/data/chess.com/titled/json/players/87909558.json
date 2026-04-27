@@ -1,0 +1,79 @@
+{
+  "player_id": 87909558,
+  "@id": "https://api.chess.com/pub/player/godspeed",
+  "url": "https://www.chess.com/member/GodSpeed",
+  "username": "godspeed",
+  "title": "GM",
+  "followers": 352,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776532635,
+  "joined": 1596114818,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1736,
+      "date": 1614693099,
+      "rd": 222
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3003,
+      "date": 1716396278,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3003,
+      "date": 1716396278,
+      "game": "https://www.chess.com/game/live/110132421761"
+    },
+    "record": {
+      "win": 1271,
+      "loss": 1037,
+      "draw": 172
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2981,
+      "date": 1732955908,
+      "rd": 27
+    },
+    "best": {
+      "rating": 3076,
+      "date": 1729694178,
+      "game": "https://www.chess.com/game/live/124005598317"
+    },
+    "record": {
+      "win": 323,
+      "loss": 262,
+      "draw": 86
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1596114818
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1596114818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

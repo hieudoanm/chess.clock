@@ -1,0 +1,80 @@
+{
+  "player_id": 75682880,
+  "@id": "https://api.chess.com/pub/player/jchernandez84",
+  "url": "https://www.chess.com/member/JCHernandez84",
+  "name": "Juan Carlos Hernandez",
+  "username": "jchernandez84",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/HN",
+  "last_online": 1776470209,
+  "joined": 1586035096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1842,
+      "date": 1776308373,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1906,
+      "date": 1630261273,
+      "game": "https://www.chess.com/game/live/23999235981"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1699,
+      "date": 1775759385,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1780,
+      "date": 1750110566,
+      "game": "https://www.chess.com/game/live/139642046764"
+    },
+    "record": {
+      "win": 46,
+      "loss": 49,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1918,
+      "date": 1750008008,
+      "rd": 185
+    },
+    "best": {
+      "rating": 1918,
+      "date": 1750008008,
+      "game": "https://www.chess.com/game/live/139626886798"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1776307369
+    },
+    "lowest": {
+      "rating": 2143,
+      "date": 1775756784
+    }
+  },
+  "puzzle_rush": {}
+}

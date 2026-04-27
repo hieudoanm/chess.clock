@@ -1,0 +1,81 @@
+{
+  "player_id": 60901314,
+  "@id": "https://api.chess.com/pub/player/publicaccountcze",
+  "url": "https://www.chess.com/member/publicaccountcze",
+  "name": "Tomas Kraus",
+  "username": "publicaccountcze",
+  "title": "GM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "L\u00e1zn\u011b B\u011blohrad",
+  "last_online": 1774296064,
+  "joined": 1557669038,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1675470294,
+      "rd": 231
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2174,
+      "date": 1714709297,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1609672093,
+      "game": "https://www.chess.com/game/live/36357137037"
+    },
+    "record": {
+      "win": 89,
+      "loss": 75,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2216,
+      "date": 1749589962,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2561,
+      "date": 1600271767,
+      "game": "https://www.chess.com/game/live/31435196391"
+    },
+    "record": {
+      "win": 948,
+      "loss": 860,
+      "draw": 125
+    }
+  },
+  "fide": 2479,
+  "tactics": {
+    "highest": {
+      "rating": 2965,
+      "date": 1557669038
+    },
+    "lowest": {
+      "rating": 2965,
+      "date": 1557669038
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

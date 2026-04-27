@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8801026.d1763675.200x200o.7cd864ed76fd.jpeg",
+  "player_id": 8801026,
+  "@id": "https://api.chess.com/pub/player/pbatch",
+  "url": "https://www.chess.com/member/Pbatch",
+  "name": "Peter Batchelor",
+  "username": "pbatch",
+  "title": "FM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776520793,
+  "joined": 1346867157,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1893,
+      "date": 1516119884,
+      "rd": 86
+    },
+    "best": {
+      "rating": 1973,
+      "date": 1404127197,
+      "game": "https://www.chess.com/game/daily/90683222"
+    },
+    "record": {
+      "win": 94,
+      "loss": 48,
+      "draw": 14,
+      "time_per_move": 17033,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2279,
+      "date": 1645921368,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1487182335,
+      "game": "https://www.chess.com/game/live/6333388536"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1642611884,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1642611772,
+      "game": "https://www.chess.com/game/live/6263419648"
+    },
+    "record": {
+      "win": 2134,
+      "loss": 1086,
+      "draw": 191
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2462,
+      "date": 1653602617,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1638491788,
+      "game": "https://www.chess.com/game/live/32057997765"
+    },
+    "record": {
+      "win": 1305,
+      "loss": 764,
+      "draw": 199
+    }
+  },
+  "fide": 2312,
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1759350910
+    },
+    "lowest": {
+      "rating": 2406,
+      "date": 1759350817
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 52
+    }
+  }
+}

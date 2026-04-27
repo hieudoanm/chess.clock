@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25329822.501df5da.200x200o.527d07f176ee.jpeg",
+  "player_id": 25329822,
+  "@id": "https://api.chess.com/pub/player/marclonoff",
+  "url": "https://www.chess.com/member/MarcLonoff",
+  "name": "Marc Lonoff",
+  "username": "marclonoff",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "San Francisco",
+  "last_online": 1776478530,
+  "joined": 1448847107,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 767,
+      "date": 1769097736,
+      "rd": 266
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1448847107,
+      "game": "https://www.chess.com/game/daily/899572727"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 16952,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2227,
+      "date": 1729140618,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1624600459,
+      "game": "https://www.chess.com/game/live/18239492951"
+    },
+    "record": {
+      "win": 93,
+      "loss": 40,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2090,
+      "date": 1683258660,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2189,
+      "date": 1623258047,
+      "game": "https://www.chess.com/game/live/16996978935"
+    },
+    "record": {
+      "win": 152,
+      "loss": 112,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2092,
+      "date": 1776403280,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2336,
+      "date": 1538366111,
+      "game": "https://www.chess.com/game/live/48979239951"
+    },
+    "record": {
+      "win": 6631,
+      "loss": 5008,
+      "draw": 1180
+    }
+  },
+  "fide": 2150,
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1765429875
+    },
+    "lowest": {
+      "rating": 2274,
+      "date": 1756263365
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

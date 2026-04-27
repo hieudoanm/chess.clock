@@ -1,0 +1,103 @@
+{
+  "player_id": 57263226,
+  "@id": "https://api.chess.com/pub/player/jamiecole",
+  "url": "https://www.chess.com/member/JamieCole",
+  "name": "Jamie-Nicole Beukes",
+  "username": "jamiecole",
+  "title": "WCM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/NA",
+  "last_online": 1771938935,
+  "joined": 1549974247,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1204,
+      "date": 1744992046,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1204,
+      "date": 1744992046,
+      "game": "https://www.chess.com/game/daily/803045812"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 23,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1396,
+      "date": 1744992823,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1577,
+      "date": 1714320120,
+      "game": "https://www.chess.com/game/live/108056528769"
+    },
+    "record": {
+      "win": 58,
+      "loss": 50,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1230,
+      "date": 1735851473,
+      "rd": 170
+    },
+    "best": {
+      "rating": 1423,
+      "date": 1718861777,
+      "game": "https://www.chess.com/game/live/112600794975"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1080,
+      "date": 1741989307,
+      "rd": 126
+    },
+    "best": {
+      "rating": 1294,
+      "date": 1550159722,
+      "game": "https://www.chess.com/game/live/5009284869"
+    },
+    "record": {
+      "win": 74,
+      "loss": 74,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1917,
+      "date": 1766208660
+    },
+    "lowest": {
+      "rating": 1777,
+      "date": 1771530750
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

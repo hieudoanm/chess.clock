@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56328194.112b28ce.200x200o.67580a0758f6.jpeg",
+  "player_id": 56328194,
+  "@id": "https://api.chess.com/pub/player/gm_orange",
+  "url": "https://www.chess.com/member/GM_Orange",
+  "username": "gm_orange",
+  "title": "FM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/IM",
+  "last_online": 1774973736,
+  "joined": 1548082366,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2142,
+      "date": 1771330550,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1700678059,
+      "game": "https://www.chess.com/game/live/94416123953"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1769954705,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1711703673,
+      "game": "https://www.chess.com/game/live/104329813489"
+    },
+    "record": {
+      "win": 900,
+      "loss": 618,
+      "draw": 118
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2452,
+      "date": 1769954459,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2649,
+      "date": 1711138738,
+      "game": "https://www.chess.com/game/live/105634772903"
+    },
+    "record": {
+      "win": 2509,
+      "loss": 2062,
+      "draw": 364
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2487,
+      "date": 1548082366
+    },
+    "lowest": {
+      "rating": 2487,
+      "date": 1548082366
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

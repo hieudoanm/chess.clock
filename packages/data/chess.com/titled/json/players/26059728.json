@@ -1,0 +1,67 @@
+{
+  "player_id": 26059728,
+  "@id": "https://api.chess.com/pub/player/yamp2016",
+  "url": "https://www.chess.com/member/Yamp2016",
+  "name": "Jordi Cuadras Avellana",
+  "username": "yamp2016",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/XC",
+  "last_online": 1776542138,
+  "joined": 1452445382,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1753275444,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1739140430,
+      "game": "https://www.chess.com/game/live/132878421915"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2307,
+      "date": 1767453954,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1723586492,
+      "game": "https://www.chess.com/game/live/152348284651"
+    },
+    "record": {
+      "win": 2590,
+      "loss": 1752,
+      "draw": 446
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2729,
+      "date": 1755543711
+    },
+    "lowest": {
+      "rating": 2129,
+      "date": 1763752994
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 17
+    }
+  }
+}

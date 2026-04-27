@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13172764.c61f6351.200x200o.59293146425b.jpeg",
+  "player_id": 13172764,
+  "@id": "https://api.chess.com/pub/player/coremind",
+  "url": "https://www.chess.com/member/Coremind",
+  "name": "Corey Russell",
+  "username": "coremind",
+  "title": "FM",
+  "followers": 235,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Medford",
+  "last_online": 1776367577,
+  "joined": 1376703852,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1565,
+      "date": 1713601703,
+      "rd": 274
+    },
+    "best": {
+      "rating": 1565,
+      "date": 1682019514,
+      "game": "https://www.chess.com/game/daily/257902512"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 76715,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2374,
+      "date": 1776537832,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1760769531,
+      "game": "https://www.chess.com/game/live/144382923332"
+    },
+    "record": {
+      "win": 2880,
+      "loss": 1513,
+      "draw": 571
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2154,
+      "date": 1763775923,
+      "rd": 230
+    },
+    "best": {
+      "rating": 2263,
+      "date": 1594148957,
+      "game": "https://www.chess.com/game/live/5267256733"
+    },
+    "record": {
+      "win": 563,
+      "loss": 205,
+      "draw": 44
+    }
+  },
+  "fide": 2236,
+  "tactics": {
+    "highest": {
+      "rating": 2115,
+      "date": 1376703852
+    },
+    "lowest": {
+      "rating": 2115,
+      "date": 1376703852
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

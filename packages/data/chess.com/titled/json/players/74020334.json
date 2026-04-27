@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74020334.ba83a86f.200x200o.3ba541bdfddd.jpeg",
+  "player_id": 74020334,
+  "@id": "https://api.chess.com/pub/player/petrsoucek",
+  "url": "https://www.chess.com/member/PetrSoucek",
+  "name": "Petr Sou\u010dek",
+  "username": "petrsoucek",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Praha",
+  "last_online": 1720553739,
+  "joined": 1584776755,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1418,
+      "date": 1745030924,
+      "rd": 181
+    },
+    "best": {
+      "rating": 1418,
+      "date": 1688678481,
+      "game": "https://www.chess.com/game/daily/531573029"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28812,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1719390948,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2163,
+      "date": 1640884680,
+      "game": "https://www.chess.com/game/live/34528157243"
+    },
+    "record": {
+      "win": 137,
+      "loss": 38,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2258,
+      "date": 1720309285,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1687383565,
+      "game": "https://www.chess.com/game/live/51796804083"
+    },
+    "record": {
+      "win": 687,
+      "loss": 493,
+      "draw": 65
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2168,
+      "date": 1686739781,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1664206955,
+      "game": "https://www.chess.com/game/live/44119487753"
+    },
+    "record": {
+      "win": 535,
+      "loss": 282,
+      "draw": 65
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1584776755
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1584776755
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 48980720,
+  "@id": "https://api.chess.com/pub/player/stanyga",
+  "url": "https://www.chess.com/member/stanyga",
+  "name": "Stany Ga",
+  "username": "stanyga",
+  "title": "GM",
+  "followers": 237,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776497345,
+  "joined": 1534868967,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2365,
+      "date": 1651233348,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1587834623,
+      "game": "https://www.chess.com/game/live/5078339940"
+    },
+    "record": {
+      "win": 25,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2120,
+      "date": 1746419889,
+      "rd": 205
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1598010924,
+      "game": "https://www.chess.com/game/live/9089832897"
+    },
+    "record": {
+      "win": 293,
+      "loss": 196,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2789,
+      "date": 1749101717,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1747998205,
+      "game": "https://www.chess.com/game/live/134843353671"
+    },
+    "record": {
+      "win": 510,
+      "loss": 344,
+      "draw": 105
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2563,
+      "date": 1773675550
+    },
+    "lowest": {
+      "rating": 2303,
+      "date": 1765811289
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 28464262,
+  "@id": "https://api.chess.com/pub/player/lavr92",
+  "url": "https://www.chess.com/member/lavr92",
+  "name": "Dmitry Lavrik",
+  "username": "lavr92",
+  "title": "IM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776353393,
+  "joined": 1464885326,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1063,
+      "date": 1591322402,
+      "rd": 332
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 33220,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2807,
+      "date": 1617296300,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1617296155,
+      "game": "https://www.chess.com/game/live/11032418909"
+    },
+    "record": {
+      "win": 144,
+      "loss": 129,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2671,
+      "date": 1734938647,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1624382194,
+      "game": "https://www.chess.com/game/live/64251136139"
+    },
+    "record": {
+      "win": 4992,
+      "loss": 4124,
+      "draw": 734
+    }
+  },
+  "fide": 2425,
+  "tactics": {
+    "highest": {
+      "rating": 2697,
+      "date": 1464885326
+    },
+    "lowest": {
+      "rating": 2697,
+      "date": 1464885326
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 53
+    }
+  }
+}

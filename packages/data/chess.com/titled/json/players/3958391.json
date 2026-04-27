@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3958391.1ca1273c.200x200o.b3509401e9cf.jpeg",
+  "player_id": 3958391,
+  "@id": "https://api.chess.com/pub/player/gmbenjaminbok",
+  "url": "https://www.chess.com/member/GMBenjaminBok",
+  "name": "Benjamin Bok",
+  "username": "gmbenjaminbok",
+  "title": "GM",
+  "followers": 23415,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776550375,
+  "joined": 1284134842,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@gmbenjaminbok"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2632,
+      "date": 1774285303,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1597498756,
+      "game": "https://www.chess.com/game/live/51121263197"
+    },
+    "record": {
+      "win": 489,
+      "loss": 122,
+      "draw": 149
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2917,
+      "date": 1769377814,
+      "rd": 50
+    },
+    "best": {
+      "rating": 3060,
+      "date": 1678036144,
+      "game": "https://www.chess.com/game/live/144058207121"
+    },
+    "record": {
+      "win": 964,
+      "loss": 691,
+      "draw": 91
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3158,
+      "date": 1776374454,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3200,
+      "date": 1773367958,
+      "game": "https://www.chess.com/game/live/150538095703"
+    },
+    "record": {
+      "win": 7222,
+      "loss": 2496,
+      "draw": 1558
+    }
+  },
+  "fide": 2645,
+  "tactics": {
+    "highest": {
+      "rating": 2963,
+      "date": 1772992557
+    },
+    "lowest": {
+      "rating": 2772,
+      "date": 1772991191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 250,
+      "score": 247
+    }
+  }
+}

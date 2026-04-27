@@ -1,0 +1,67 @@
+{
+  "player_id": 36400974,
+  "@id": "https://api.chess.com/pub/player/tortolla",
+  "url": "https://www.chess.com/member/Tortolla",
+  "username": "tortolla",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776440744,
+  "joined": 1497790980,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2101,
+      "date": 1730465149,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1730465149,
+      "game": "https://www.chess.com/game/live/124203536839"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2361,
+      "date": 1776434307,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1776179749,
+      "game": "https://www.chess.com/game/live/34450155477"
+    },
+    "record": {
+      "win": 1761,
+      "loss": 1338,
+      "draw": 315
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2498,
+      "date": 1767285062
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1774724374
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 1955143,
+  "@id": "https://api.chess.com/pub/player/squiresque",
+  "url": "https://www.chess.com/member/squiresque",
+  "name": "Neal Goldberg",
+  "username": "squiresque",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Virginia",
+  "last_online": 1776191407,
+  "joined": 1244132112,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1876,
+      "date": 1701978815,
+      "rd": 243
+    },
+    "best": {
+      "rating": 1876,
+      "date": 1244690784,
+      "game": "https://www.chess.com/game/daily/21495367"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 964,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1363,
+      "date": 1509398303,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1363,
+      "date": 1509398303,
+      "game": "https://www.chess.com/game/live/2400195736"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1183,
+      "date": 1509443805,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1281078000,
+      "game": "https://www.chess.com/game/live/2401077020"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2192,
+      "date": 1244132112
+    },
+    "lowest": {
+      "rating": 2192,
+      "date": 1244132112
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 129204686,
+  "@id": "https://api.chess.com/pub/player/someone41210",
+  "url": "https://www.chess.com/member/Someone41210",
+  "username": "someone41210",
+  "title": "CM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776542538,
+  "joined": 1616167744,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 923,
+      "date": 1771432899,
+      "rd": 311
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 33818,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2255,
+      "date": 1776540635,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1760729108,
+      "game": "https://www.chess.com/game/live/144646695358"
+    },
+    "record": {
+      "win": 407,
+      "loss": 270,
+      "draw": 64
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2044,
+      "date": 1754051910,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2044,
+      "date": 1754051777,
+      "game": "https://www.chess.com/game/live/121807202927"
+    },
+    "record": {
+      "win": 42,
+      "loss": 16,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1950,
+      "date": 1771343517,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2225,
+      "date": 1739036843,
+      "game": "https://www.chess.com/game/live/132079188209"
+    },
+    "record": {
+      "win": 308,
+      "loss": 235,
+      "draw": 45
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2292,
+      "date": 1769357072
+    },
+    "lowest": {
+      "rating": 2007,
+      "date": 1760554181
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

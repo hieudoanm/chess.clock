@@ -1,0 +1,99 @@
+{
+  "player_id": 212173873,
+  "@id": "https://api.chess.com/pub/player/torosyan_chess",
+  "url": "https://www.chess.com/member/Torosyan_chess",
+  "name": "Volodya Torosyan",
+  "username": "torosyan_chess",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1776449831,
+  "joined": 1670780862,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1715095960,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2262,
+      "date": 1773597605,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1773595278,
+      "game": "https://www.chess.com/game/live/167906415895"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2718,
+      "date": 1775226971,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2837,
+      "date": 1758390601,
+      "game": "https://www.chess.com/game/live/152700402361"
+    },
+    "record": {
+      "win": 1357,
+      "loss": 614,
+      "draw": 113
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2817,
+      "date": 1776436456,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2925,
+      "date": 1764450740,
+      "game": "https://www.chess.com/game/live/147236155322"
+    },
+    "record": {
+      "win": 1047,
+      "loss": 721,
+      "draw": 125
+    }
+  },
+  "fide": 2174,
+  "tactics": {
+    "highest": {
+      "rating": 2157,
+      "date": 1757793069
+    },
+    "lowest": {
+      "rating": 2094,
+      "date": 1757793310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

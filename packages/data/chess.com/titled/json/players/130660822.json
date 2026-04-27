@@ -1,0 +1,98 @@
+{
+  "player_id": 130660822,
+  "@id": "https://api.chess.com/pub/player/martinhollan",
+  "url": "https://www.chess.com/member/MartinHollan",
+  "name": "Martin Hollan",
+  "username": "martinhollan",
+  "title": "FM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776587464,
+  "joined": 1616596332,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2064,
+      "date": 1754511302,
+      "rd": 311
+    },
+    "best": {
+      "rating": 2064,
+      "date": 1754511302,
+      "game": "https://www.chess.com/game/daily/765577943"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 136205,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2307,
+      "date": 1694864783,
+      "rd": 345
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1644425977,
+      "game": "https://www.chess.com/game/live/35140721121"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2761,
+      "date": 1697373536,
+      "rd": 294
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1697373536,
+      "game": "https://www.chess.com/game/live/91112391459"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2754,
+      "date": 1776535444,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2862,
+      "date": 1774299505,
+      "game": "https://www.chess.com/game/live/148039669774"
+    },
+    "record": {
+      "win": 1709,
+      "loss": 1787,
+      "draw": 747
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1652,
+      "date": 1616596332
+    },
+    "lowest": {
+      "rating": 1652,
+      "date": 1616596332
+    }
+  },
+  "puzzle_rush": {}
+}

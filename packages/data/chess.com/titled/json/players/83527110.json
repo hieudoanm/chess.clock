@@ -1,0 +1,83 @@
+{
+  "player_id": 83527110,
+  "@id": "https://api.chess.com/pub/player/bigababy12",
+  "url": "https://www.chess.com/member/bigababy12",
+  "username": "bigababy12",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776338069,
+  "joined": 1592650178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1752282740,
+      "rd": 347
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1636625802,
+      "game": "https://www.chess.com/game/live/30364727633"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2589,
+      "date": 1747723846,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1747723846,
+      "game": "https://www.chess.com/game/live/5510966917"
+    },
+    "record": {
+      "win": 413,
+      "loss": 341,
+      "draw": 51
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1747123166,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1595863335,
+      "game": "https://www.chess.com/game/live/6130049098"
+    },
+    "record": {
+      "win": 117,
+      "loss": 109,
+      "draw": 20
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2426,
+      "date": 1592650178
+    },
+    "lowest": {
+      "rating": 2426,
+      "date": 1592650178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

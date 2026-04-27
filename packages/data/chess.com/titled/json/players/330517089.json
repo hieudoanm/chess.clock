@@ -1,0 +1,68 @@
+{
+  "player_id": 330517089,
+  "@id": "https://api.chess.com/pub/player/jonaszbaum",
+  "url": "https://www.chess.com/member/JonaszBaum",
+  "name": "Jonasz Baum",
+  "username": "jonaszbaum",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1774976149,
+  "joined": 1701785395,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2708,
+      "date": 1710872064,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2821,
+      "date": 1704667951,
+      "game": "https://www.chess.com/game/live/98910329057"
+    },
+    "record": {
+      "win": 319,
+      "loss": 249,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2792,
+      "date": 1713434192,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2796,
+      "date": 1702730550,
+      "game": "https://www.chess.com/game/live/102190492643"
+    },
+    "record": {
+      "win": 73,
+      "loss": 48,
+      "draw": 12
+    }
+  },
+  "fide": 2421,
+  "tactics": {
+    "highest": {
+      "rating": 2765,
+      "date": 1701785395
+    },
+    "lowest": {
+      "rating": 2765,
+      "date": 1701785395
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 61
+    }
+  }
+}

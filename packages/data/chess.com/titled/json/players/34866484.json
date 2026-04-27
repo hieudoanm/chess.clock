@@ -1,0 +1,99 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34866484.dc3393e2.200x200o.018646fdb74e.jpeg",
+  "player_id": 34866484,
+  "@id": "https://api.chess.com/pub/player/troisi",
+  "url": "https://www.chess.com/member/troisi",
+  "name": "Carlo Stromboli",
+  "username": "troisi",
+  "title": "FM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776294367,
+  "joined": 1492505962,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1534,
+      "date": 1747392763,
+      "rd": 283
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 18928,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1320,
+      "date": 1713371442,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1912,
+      "date": 1705141733,
+      "game": "https://www.chess.com/game/live/4929262876"
+    },
+    "record": {
+      "win": 29,
+      "loss": 14,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2279,
+      "date": 1763715878,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1654532924,
+      "game": "https://www.chess.com/game/live/48196856909"
+    },
+    "record": {
+      "win": 332,
+      "loss": 271,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2201,
+      "date": 1710770408,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1585257357,
+      "game": "https://www.chess.com/game/live/4783887976"
+    },
+    "record": {
+      "win": 28,
+      "loss": 22,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2197,
+      "date": 1492505962
+    },
+    "lowest": {
+      "rating": 2197,
+      "date": 1492505962
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

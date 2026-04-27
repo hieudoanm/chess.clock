@@ -1,0 +1,102 @@
+{
+  "player_id": 28913872,
+  "@id": "https://api.chess.com/pub/player/daniilshnurov",
+  "url": "https://www.chess.com/member/DaniilShnurov",
+  "name": "Daniil Shnurov",
+  "username": "daniilshnurov",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/EE",
+  "last_online": 1776595763,
+  "joined": 1467609068,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1672,
+      "date": 1737993402,
+      "rd": 131
+    },
+    "best": {
+      "rating": 1729,
+      "date": 1572893947,
+      "game": "https://www.chess.com/game/daily/236057174"
+    },
+    "record": {
+      "win": 48,
+      "loss": 52,
+      "draw": 8,
+      "time_per_move": 11387,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2207,
+      "date": 1768643949
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1768641601,
+      "game": "https://www.chess.com/game/live/3293364043"
+    },
+    "record": {
+      "win": 11,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2207,
+      "date": 1720540156
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1720539843,
+      "game": "https://www.chess.com/game/live/114278434837"
+    },
+    "record": {
+      "win": 964,
+      "loss": 558,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2225,
+      "date": 1746205353,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1706020267,
+      "game": "https://www.chess.com/game/live/102720077041"
+    },
+    "record": {
+      "win": 764,
+      "loss": 521,
+      "draw": 73
+    }
+  },
+  "fide": 2207,
+  "tactics": {
+    "highest": {
+      "rating": 2587,
+      "date": 1761668285
+    },
+    "lowest": {
+      "rating": 2283,
+      "date": 1774560151
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

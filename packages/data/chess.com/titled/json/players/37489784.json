@@ -1,0 +1,106 @@
+{
+  "player_id": 37489784,
+  "@id": "https://api.chess.com/pub/player/youngtal123",
+  "url": "https://www.chess.com/member/youngtal123",
+  "username": "youngtal123",
+  "title": "FM",
+  "followers": 145,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776586508,
+  "joined": 1501646251,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1451,
+      "date": 1730901261,
+      "rd": 122
+    },
+    "best": {
+      "rating": 1792,
+      "date": 1603982034,
+      "game": "https://www.chess.com/game/daily/261768094"
+    },
+    "record": {
+      "win": 12,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 63757,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2350,
+      "date": 1731507994,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1731068703,
+      "game": "https://www.chess.com/game/live/13710075751"
+    },
+    "record": {
+      "win": 13,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2731,
+      "date": 1752321741,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1752321741,
+      "game": "https://www.chess.com/game/live/124309179811"
+    },
+    "record": {
+      "win": 694,
+      "loss": 506,
+      "draw": 90
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2806,
+      "date": 1776356279,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1776356019,
+      "game": "https://www.chess.com/game/live/142942224836"
+    },
+    "record": {
+      "win": 906,
+      "loss": 648,
+      "draw": 136
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1760715322
+    },
+    "lowest": {
+      "rating": 2078,
+      "date": 1758096591
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    },
+    "daily": {
+      "total_attempts": 21,
+      "score": 18
+    }
+  }
+}

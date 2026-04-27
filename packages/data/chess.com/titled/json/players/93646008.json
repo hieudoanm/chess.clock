@@ -1,0 +1,67 @@
+{
+  "player_id": 93646008,
+  "@id": "https://api.chess.com/pub/player/descartest",
+  "url": "https://www.chess.com/member/descartest",
+  "username": "descartest",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776125513,
+  "joined": 1603361795,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1984,
+      "date": 1674802434,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1638460812,
+      "game": "https://www.chess.com/game/live/32199027601"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1992,
+      "date": 1765111841,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1619475146,
+      "game": "https://www.chess.com/game/live/68055846631"
+    },
+    "record": {
+      "win": 1046,
+      "loss": 861,
+      "draw": 112
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2228,
+      "date": 1603361795
+    },
+    "lowest": {
+      "rating": 2228,
+      "date": 1603361795
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 39002206,
+  "@id": "https://api.chess.com/pub/player/greatplay2",
+  "url": "https://www.chess.com/member/greatplay2",
+  "name": "Timour Koliada",
+  "username": "greatplay2",
+  "title": "FM",
+  "followers": 89,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776560961,
+  "joined": 1506563064,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1772669121,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1772669121,
+      "game": "https://www.chess.com/game/live/165520782788"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1690,
+      "date": 1643073444,
+      "rd": 261
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2630,
+      "date": 1776560889,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2716,
+      "date": 1773168743,
+      "game": "https://www.chess.com/game/live/164705168222"
+    },
+    "record": {
+      "win": 16032,
+      "loss": 19201,
+      "draw": 2160
+    }
+  },
+  "fide": 2340,
+  "tactics": {
+    "highest": {
+      "rating": 2359,
+      "date": 1506563064
+    },
+    "lowest": {
+      "rating": 2359,
+      "date": 1506563064
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 3,
+      "score": 3
+    }
+  }
+}

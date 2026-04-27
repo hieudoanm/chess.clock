@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1781570.2569b29f.200x200o.aae1981c3ab1.webp",
+  "player_id": 1781570,
+  "@id": "https://api.chess.com/pub/player/x-wing",
+  "url": "https://www.chess.com/member/X-wing",
+  "name": "Chess Tutor",
+  "username": "x-wing",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Sydney",
+  "last_online": 1776572039,
+  "joined": 1235280444,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2341,
+      "date": 1730385810,
+      "rd": 220
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1410588121,
+      "game": "https://www.chess.com/game/daily/90897700"
+    },
+    "record": {
+      "win": 18,
+      "loss": 11,
+      "draw": 3,
+      "time_per_move": 90219,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2413,
+      "date": 1775615025,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1775523791,
+      "game": "https://www.chess.com/game/live/164000388276"
+    },
+    "record": {
+      "win": 143,
+      "loss": 157,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2300,
+      "date": 1730305604,
+      "rd": 39
+    },
+    "best": {
+      "rating": 1927,
+      "date": 1555069495,
+      "game": "https://www.chess.com/game/live/3611078522"
+    },
+    "record": {
+      "win": 195,
+      "loss": 237,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1767069316
+    },
+    "lowest": {
+      "rating": 1981,
+      "date": 1760846771
+    }
+  },
+  "puzzle_rush": {}
+}

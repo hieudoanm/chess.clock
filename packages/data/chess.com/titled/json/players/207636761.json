@@ -1,0 +1,84 @@
+{
+  "player_id": 207636761,
+  "@id": "https://api.chess.com/pub/player/soul_mortall",
+  "url": "https://www.chess.com/member/soul_mortall",
+  "name": "Hasan Atis",
+  "username": "soul_mortall",
+  "title": "CM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1775163771,
+  "joined": 1668973728,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1769340596,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1767727615,
+      "game": "https://www.chess.com/game/live/147674544066"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2631,
+      "date": 1769781268,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1753546623,
+      "game": "https://www.chess.com/game/live/147859998629"
+    },
+    "record": {
+      "win": 348,
+      "loss": 332,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1769691659,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1753218195,
+      "game": "https://www.chess.com/game/live/147528200583"
+    },
+    "record": {
+      "win": 342,
+      "loss": 319,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2575,
+      "date": 1766152966
+    },
+    "lowest": {
+      "rating": 2544,
+      "date": 1766152974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 385043985,
+  "@id": "https://api.chess.com/pub/player/winmeifucan2",
+  "url": "https://www.chess.com/member/winmeifucan2",
+  "name": "Andrew Ivanov",
+  "username": "winmeifucan2",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775274601,
+  "joined": 1725384379,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2373,
+      "date": 1758350111
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1758350111,
+      "game": "https://www.chess.com/game/live/143336361238"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2773,
+      "date": 1772694437,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1770465988,
+      "game": "https://www.chess.com/game/live/164359653618"
+    },
+    "record": {
+      "win": 225,
+      "loss": 133,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2850,
+      "date": 1773801967,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2850,
+      "date": 1773801967,
+      "game": "https://www.chess.com/game/live/166008605464"
+    },
+    "record": {
+      "win": 197,
+      "loss": 78,
+      "draw": 47
+    }
+  },
+  "fide": 2373,
+  "tactics": {
+    "highest": {
+      "rating": 2373,
+      "date": 1725384379
+    },
+    "lowest": {
+      "rating": 2373,
+      "date": 1725384379
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

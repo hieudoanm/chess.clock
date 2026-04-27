@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/292599717.1c9eaadd.200x200o.6def2d8a5d7a.webp",
+  "player_id": 292599717,
+  "@id": "https://api.chess.com/pub/player/endgame_learning",
+  "url": "https://www.chess.com/member/endgame_learning",
+  "username": "endgame_learning",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776586864,
+  "joined": 1686426592,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2322,
+      "date": 1753721386,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2338,
+      "date": 1753711592,
+      "game": "https://www.chess.com/game/live/141127593176"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2633,
+      "date": 1775620727,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1765952282,
+      "game": "https://www.chess.com/game/live/145496830150"
+    },
+    "record": {
+      "win": 202,
+      "loss": 208,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2770,
+      "date": 1776586399,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1776443138,
+      "game": "https://www.chess.com/game/live/146416942220"
+    },
+    "record": {
+      "win": 922,
+      "loss": 884,
+      "draw": 203
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2776,
+      "date": 1762600548
+    },
+    "lowest": {
+      "rating": 2702,
+      "date": 1762601690
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 27541100,
+  "@id": "https://api.chess.com/pub/player/sunofadawn",
+  "url": "https://www.chess.com/member/sunofadawn",
+  "name": "Garry nevil",
+  "username": "sunofadawn",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1681384871,
+  "joined": 1459518386,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2483,
+      "date": 1681070630,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1652983608,
+      "game": "https://www.chess.com/game/live/47380264877"
+    },
+    "record": {
+      "win": 542,
+      "loss": 546,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2474,
+      "date": 1679164505,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1668006698,
+      "game": "https://www.chess.com/game/live/4290735795"
+    },
+    "record": {
+      "win": 2275,
+      "loss": 2453,
+      "draw": 381
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2629,
+      "date": 1459518386
+    },
+    "lowest": {
+      "rating": 2629,
+      "date": 1459518386
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

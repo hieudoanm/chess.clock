@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69478062.660fe824.200x200o.23fb19409dd5.jpg",
+  "player_id": 69478062,
+  "@id": "https://api.chess.com/pub/player/virtualcoach",
+  "url": "https://www.chess.com/member/VirtualCoach",
+  "name": "Marco Lantini",
+  "username": "virtualcoach",
+  "title": "NM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776553597,
+  "joined": 1576604442,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2144,
+      "date": 1772816443,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2156,
+      "date": 1718010184,
+      "game": "https://www.chess.com/game/live/132316254041"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2456,
+      "date": 1757780612,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1753187838,
+      "game": "https://www.chess.com/game/live/144997764405"
+    },
+    "record": {
+      "win": 328,
+      "loss": 263,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2395,
+      "date": 1776083497,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1749471473,
+      "game": "https://www.chess.com/game/live/116790621055"
+    },
+    "record": {
+      "win": 1774,
+      "loss": 1666,
+      "draw": 283
+    }
+  },
+  "fide": 1980,
+  "tactics": {
+    "highest": {
+      "rating": 2321,
+      "date": 1761137634
+    },
+    "lowest": {
+      "rating": 2295,
+      "date": 1761858505
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

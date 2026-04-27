@@ -1,0 +1,81 @@
+{
+  "player_id": 2537940,
+  "@id": "https://api.chess.com/pub/player/journal",
+  "url": "https://www.chess.com/member/journal",
+  "username": "journal",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/SI",
+  "location": "Ljubljana",
+  "last_online": 1754484772,
+  "joined": 1265750137,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1405,
+      "date": 1746025150,
+      "rd": 254
+    },
+    "best": {
+      "rating": 1405,
+      "date": 1292358972,
+      "game": "https://www.chess.com/game/daily/42556878"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 38,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2486,
+      "date": 1553965920,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1481290713,
+      "game": "https://www.chess.com/game/live/3576269548"
+    },
+    "record": {
+      "win": 719,
+      "loss": 803,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2369,
+      "date": 1722453877,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1677966807,
+      "game": "https://www.chess.com/game/live/2338668414"
+    },
+    "record": {
+      "win": 88,
+      "loss": 69,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1265750137
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1265750137
+    }
+  },
+  "puzzle_rush": {}
+}

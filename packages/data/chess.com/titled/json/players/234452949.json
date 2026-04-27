@@ -1,0 +1,109 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/234452949.bcd558e1.200x200o.34217860b7ec.jpg",
+  "player_id": 234452949,
+  "@id": "https://api.chess.com/pub/player/chessbook314",
+  "url": "https://www.chess.com/member/Chessbook314",
+  "username": "chessbook314",
+  "title": "NM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/BW",
+  "last_online": 1776577500,
+  "joined": 1674935566,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1596,
+      "date": 1776577449,
+      "rd": 110
+    },
+    "best": {
+      "rating": 1750,
+      "date": 1718895224,
+      "game": "https://www.chess.com/game/daily/790002555"
+    },
+    "record": {
+      "win": 74,
+      "loss": 17,
+      "draw": 3,
+      "time_per_move": 34223,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 64
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2503,
+      "date": 1775535683,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1768761614,
+      "game": "https://www.chess.com/game/live/148025882378"
+    },
+    "record": {
+      "win": 184,
+      "loss": 78,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2599,
+      "date": 1776565651,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2799,
+      "date": 1767430439,
+      "game": "https://www.chess.com/game/live/148021263388"
+    },
+    "record": {
+      "win": 2724,
+      "loss": 2062,
+      "draw": 411
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2575,
+      "date": 1775961729,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1758001385,
+      "game": "https://www.chess.com/game/live/166464027450"
+    },
+    "record": {
+      "win": 501,
+      "loss": 324,
+      "draw": 70
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1175,
+      "date": 1773518196
+    },
+    "lowest": {
+      "rating": 1086,
+      "date": 1773036540
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 42
+    }
+  }
+}

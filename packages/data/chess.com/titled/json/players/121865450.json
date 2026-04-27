@@ -1,0 +1,85 @@
+{
+  "player_id": 121865450,
+  "@id": "https://api.chess.com/pub/player/bescmelasti",
+  "url": "https://www.chess.com/member/bescmelasti",
+  "name": "Marius Fromm",
+  "username": "bescmelasti",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776018280,
+  "joined": 1613575616,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1773602104,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2081,
+      "date": 1773602104,
+      "game": "https://www.chess.com/game/live/167910615655"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2641,
+      "date": 1737132869,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2986,
+      "date": 1671878315,
+      "game": "https://www.chess.com/game/live/81336135887"
+    },
+    "record": {
+      "win": 26,
+      "loss": 29,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2701,
+      "date": 1774369740,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2808,
+      "date": 1726249919,
+      "game": "https://www.chess.com/game/live/119992869967"
+    },
+    "record": {
+      "win": 572,
+      "loss": 509,
+      "draw": 116
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2796,
+      "date": 1757082998
+    },
+    "lowest": {
+      "rating": 2700,
+      "date": 1757084323
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

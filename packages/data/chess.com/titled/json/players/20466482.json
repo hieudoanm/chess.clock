@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20466482.7fedf1ca.200x200o.8df22bd43b7f.jpeg",
+  "player_id": 20466482,
+  "@id": "https://api.chess.com/pub/player/darsen_sanzhaev",
+  "url": "https://www.chess.com/member/darsen_sanzhaev",
+  "name": "Darsen Sanzhaev",
+  "username": "darsen_sanzhaev",
+  "title": "IM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow, Russia",
+  "last_online": 1775759707,
+  "joined": 1420309046,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 838,
+      "date": 1737924215,
+      "rd": 305
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1420309046,
+      "game": "https://www.chess.com/game/daily/523433445"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 326790,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1745,
+      "date": 1747587730,
+      "rd": 197
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1425369600,
+      "game": "https://www.chess.com/game/live/138600201394"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2745,
+      "date": 1773772581,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1609075242,
+      "game": "https://www.chess.com/game/live/4211307609"
+    },
+    "record": {
+      "win": 266,
+      "loss": 214,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2505,
+      "date": 1654895075,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1562100785,
+      "game": "https://www.chess.com/game/live/4711443846"
+    },
+    "record": {
+      "win": 257,
+      "loss": 221,
+      "draw": 34
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2886,
+      "date": 1772817764
+    },
+    "lowest": {
+      "rating": 2652,
+      "date": 1760161396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 28748816,
+  "@id": "https://api.chess.com/pub/player/passacaglia23",
+  "url": "https://www.chess.com/member/Passacaglia23",
+  "name": "Ryan Swerdlin",
+  "username": "passacaglia23",
+  "title": "NM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Colorado",
+  "last_online": 1761047253,
+  "joined": 1466634350,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1905,
+      "date": 1585124903,
+      "rd": 168
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1488902007,
+      "game": "https://www.chess.com/game/daily/149795847"
+    },
+    "record": {
+      "win": 22,
+      "loss": 2,
+      "draw": 2,
+      "time_per_move": 46761,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2214,
+      "date": 1587852713,
+      "rd": 183
+    },
+    "best": {
+      "rating": 2220,
+      "date": 1587847181,
+      "game": "https://www.chess.com/game/live/4771072770"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2569,
+      "date": 1592882524,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1584309067,
+      "game": "https://www.chess.com/game/live/2973839809"
+    },
+    "record": {
+      "win": 1778,
+      "loss": 1503,
+      "draw": 150
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2459,
+      "date": 1599039112,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1592881558,
+      "game": "https://www.chess.com/game/live/5376576150"
+    },
+    "record": {
+      "win": 1405,
+      "loss": 1214,
+      "draw": 134
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2455,
+      "date": 1466634350
+    },
+    "lowest": {
+      "rating": 2455,
+      "date": 1466634350
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

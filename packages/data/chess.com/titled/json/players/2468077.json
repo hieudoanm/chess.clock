@@ -1,0 +1,130 @@
+{
+  "player_id": 2468077,
+  "@id": "https://api.chess.com/pub/player/infiniteadaption",
+  "url": "https://www.chess.com/member/InfiniteAdaption",
+  "name": "William Aramil",
+  "username": "infiniteadaption",
+  "title": "NM",
+  "followers": 101,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "The Midwest",
+  "last_online": 1775140744,
+  "joined": 1263643682,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/dynamicchessinc",
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/dynamicchessinc"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2215,
+      "date": 1688137700,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1504410505,
+      "game": "https://www.chess.com/game/daily/112835022"
+    },
+    "record": {
+      "win": 58,
+      "loss": 12,
+      "draw": 4,
+      "time_per_move": 68870,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1259,
+      "date": 1593969125,
+      "rd": 286
+    },
+    "best": {
+      "rating": 1259,
+      "date": 1593969125,
+      "game": "https://www.chess.com/game/daily/217066448"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 68870,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2070,
+      "date": 1756076829,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1590871173,
+      "game": "https://www.chess.com/game/live/5066479066"
+    },
+    "record": {
+      "win": 40,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2410,
+      "date": 1622256985,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1530109828,
+      "game": "https://www.chess.com/game/live/2904344278"
+    },
+    "record": {
+      "win": 226,
+      "loss": 130,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2411,
+      "date": 1592776709,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1584322955,
+      "game": "https://www.chess.com/game/live/4726300828"
+    },
+    "record": {
+      "win": 374,
+      "loss": 213,
+      "draw": 32
+    }
+  },
+  "fide": 2301,
+  "tactics": {
+    "highest": {
+      "rating": 2737,
+      "date": 1263643682
+    },
+    "lowest": {
+      "rating": 2737,
+      "date": 1263643682
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

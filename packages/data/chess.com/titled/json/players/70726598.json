@@ -1,0 +1,86 @@
+{
+  "player_id": 70726598,
+  "@id": "https://api.chess.com/pub/player/exploring_chess",
+  "url": "https://www.chess.com/member/Exploring_Chess",
+  "name": "Christian Braun",
+  "username": "exploring_chess",
+  "title": "IM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Aachen",
+  "last_online": 1776544017,
+  "joined": 1578960374,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2498,
+      "date": 1757948373,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1622287536,
+      "game": "https://www.chess.com/game/live/16025077757"
+    },
+    "record": {
+      "win": 18,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2359,
+      "date": 1773155491,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1714293246,
+      "game": "https://www.chess.com/game/live/165517930890"
+    },
+    "record": {
+      "win": 38,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2656,
+      "date": 1776544017,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2796,
+      "date": 1767830974,
+      "game": "https://www.chess.com/game/live/122768045277"
+    },
+    "record": {
+      "win": 284,
+      "loss": 261,
+      "draw": 56
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1578960374
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1578960374
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

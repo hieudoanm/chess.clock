@@ -1,0 +1,64 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5225842.47533841.200x200o.eb9ac18ab92b.png",
+  "player_id": 5225842,
+  "@id": "https://api.chess.com/pub/player/alephzero",
+  "url": "https://www.chess.com/member/alephzero",
+  "username": "alephzero",
+  "title": "FM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Warsaw",
+  "last_online": 1527169048,
+  "joined": 1307210621,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2174,
+      "date": 1596912107,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2614,
+      "date": 1477303258,
+      "game": "https://www.chess.com/game/daily/72045689"
+    },
+    "record": {
+      "win": 461,
+      "loss": 65,
+      "draw": 73,
+      "time_per_move": 69224,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2153,
+      "date": 1492620352,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1397505114,
+      "game": "https://www.chess.com/game/live/717667345"
+    },
+    "record": {
+      "win": 42,
+      "loss": 26,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2397,
+      "date": 1307210621
+    },
+    "lowest": {
+      "rating": 2397,
+      "date": 1307210621
+    }
+  },
+  "puzzle_rush": {}
+}

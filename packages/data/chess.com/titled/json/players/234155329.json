@@ -1,0 +1,86 @@
+{
+  "player_id": 234155329,
+  "@id": "https://api.chess.com/pub/player/dawnofepiphany",
+  "url": "https://www.chess.com/member/DawnofEpiphany",
+  "name": "Igor Bjelobrk",
+  "username": "dawnofepiphany",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/MK",
+  "last_online": 1776597597,
+  "joined": 1674904418,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2165,
+      "date": 1776597506,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1776470100,
+      "game": "https://www.chess.com/game/daily/871419797"
+    },
+    "record": {
+      "win": 247,
+      "loss": 5,
+      "draw": 3,
+      "time_per_move": 34846,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2615,
+      "date": 1730360049,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2615,
+      "date": 1717646413,
+      "game": "https://www.chess.com/game/live/111375631805"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1775646517,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1728788337,
+      "game": "https://www.chess.com/game/live/140826415494"
+    },
+    "record": {
+      "win": 2570,
+      "loss": 1923,
+      "draw": 532
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2570,
+      "date": 1674904418
+    },
+    "lowest": {
+      "rating": 2570,
+      "date": 1674904418
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

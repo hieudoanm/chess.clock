@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41600116.2121e172.200x200o.43a95f266506.jpg",
+  "player_id": 41600116,
+  "@id": "https://api.chess.com/pub/player/giorgi-sibashvili",
+  "url": "https://www.chess.com/member/Giorgi-Sibashvili",
+  "name": "Giorgi Sibashvili",
+  "username": "giorgi-sibashvili",
+  "title": "IM",
+  "followers": 575,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1776582974,
+  "joined": 1514030702,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@modernchessacademy"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2449,
+      "date": 1769672361,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2449,
+      "date": 1735913072,
+      "game": "https://www.chess.com/game/live/129649730701"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2762,
+      "date": 1770057410,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2793,
+      "date": 1738175538,
+      "game": "https://www.chess.com/game/live/12602239741"
+    },
+    "record": {
+      "win": 193,
+      "loss": 127,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2864,
+      "date": 1776020893,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2936,
+      "date": 1769669905,
+      "game": "https://www.chess.com/game/live/164168297650"
+    },
+    "record": {
+      "win": 919,
+      "loss": 744,
+      "draw": 167
+    }
+  },
+  "fide": 2405,
+  "tactics": {
+    "highest": {
+      "rating": 2869,
+      "date": 1769410853
+    },
+    "lowest": {
+      "rating": 2664,
+      "date": 1757353168
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

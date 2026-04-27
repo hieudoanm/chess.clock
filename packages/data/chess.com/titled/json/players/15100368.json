@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15100368.3ba0a8e2.200x200o.527c17af81e3.webp",
+  "player_id": 15100368,
+  "@id": "https://api.chess.com/pub/player/alex-11211",
+  "url": "https://www.chess.com/member/Alex-11211",
+  "name": "Alexander Krastev",
+  "username": "alex-11211",
+  "title": "IM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776590211,
+  "joined": 1387396438,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 946,
+      "date": 1722588635,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1387396438,
+      "game": "https://www.chess.com/game/daily/206667156"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 31,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1550,
+      "date": 1771264219,
+      "rd": 192
+    },
+    "best": {
+      "rating": 1757,
+      "date": 1389193003,
+      "game": "https://www.chess.com/game/live/1247309995"
+    },
+    "record": {
+      "win": 20,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3053,
+      "date": 1771521903,
+      "rd": 18
+    },
+    "best": {
+      "rating": 3003,
+      "date": 1771263742,
+      "game": "https://www.chess.com/game/live/164764422858"
+    },
+    "record": {
+      "win": 408,
+      "loss": 214,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2903,
+      "date": 1776590132,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2977,
+      "date": 1772112392,
+      "game": "https://www.chess.com/game/live/166595701088"
+    },
+    "record": {
+      "win": 2498,
+      "loss": 1835,
+      "draw": 261
+    }
+  },
+  "fide": 2450,
+  "tactics": {
+    "highest": {
+      "rating": 2879,
+      "date": 1773668822
+    },
+    "lowest": {
+      "rating": 2693,
+      "date": 1757140470
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 8804368,
+  "@id": "https://api.chess.com/pub/player/ellicott2012",
+  "url": "https://www.chess.com/member/ellicott2012",
+  "name": "Tegshsuren Enkhbat",
+  "username": "ellicott2012",
+  "title": "IM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Ellicott City",
+  "last_online": 1776594093,
+  "joined": 1346890532,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1001,
+      "date": 1774961033,
+      "rd": 224
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1346890532,
+      "game": "https://www.chess.com/game/daily/530776457"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10462,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2259,
+      "date": 1672361751
+    },
+    "best": {
+      "rating": 1966,
+      "date": 1618622177,
+      "game": "https://www.chess.com/game/live/9937354057"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2259,
+      "date": 1600985261
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1347260400,
+      "game": "https://www.chess.com/game/live/5493054273"
+    },
+    "record": {
+      "win": 23,
+      "loss": 22,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2259,
+      "date": 1687380228
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1502766157,
+      "game": "https://www.chess.com/game/live/2258386348"
+    },
+    "record": {
+      "win": 204,
+      "loss": 115,
+      "draw": 24
+    }
+  },
+  "fide": 2259,
+  "tactics": {
+    "highest": {
+      "rating": 2757,
+      "date": 1764654669
+    },
+    "lowest": {
+      "rating": 2578,
+      "date": 1774607704
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

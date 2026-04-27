@@ -1,0 +1,97 @@
+{
+  "player_id": 77331324,
+  "@id": "https://api.chess.com/pub/player/pantata007",
+  "url": "https://www.chess.com/member/Pantata007",
+  "username": "pantata007",
+  "title": "CM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776517442,
+  "joined": 1587417896,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1616323246,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2287,
+      "date": 1771421545,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1651772667,
+      "game": "https://www.chess.com/game/live/9627917167"
+    },
+    "record": {
+      "win": 430,
+      "loss": 44,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2192,
+      "date": 1776392820,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1762816344,
+      "game": "https://www.chess.com/game/live/104613693037"
+    },
+    "record": {
+      "win": 7438,
+      "loss": 5027,
+      "draw": 720
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1762906001,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1762899075,
+      "game": "https://www.chess.com/game/live/26932900681"
+    },
+    "record": {
+      "win": 3247,
+      "loss": 3672,
+      "draw": 586
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1774144164
+    },
+    "lowest": {
+      "rating": 2326,
+      "date": 1769076316
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

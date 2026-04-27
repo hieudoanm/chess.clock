@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42281346.b8a3471e.200x200o.8c75588281ca.jpg",
+  "player_id": 42281346,
+  "@id": "https://api.chess.com/pub/player/komogro",
+  "url": "https://www.chess.com/member/komogro",
+  "name": "Antonin Ferey",
+  "username": "komogro",
+  "title": "CM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776591331,
+  "joined": 1515848370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2345,
+      "date": 1774959582,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1739722706,
+      "game": "https://www.chess.com/game/live/133460373021"
+    },
+    "record": {
+      "win": 16,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2386,
+      "date": 1706191498,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1689442158,
+      "game": "https://www.chess.com/game/live/83180883215"
+    },
+    "record": {
+      "win": 7,
+      "loss": 13,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2527,
+      "date": 1776523673,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1775404274,
+      "game": "https://www.chess.com/game/live/108228101415"
+    },
+    "record": {
+      "win": 1099,
+      "loss": 1125,
+      "draw": 176
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2370,
+      "date": 1515848370
+    },
+    "lowest": {
+      "rating": 2370,
+      "date": 1515848370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

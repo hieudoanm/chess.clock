@@ -1,0 +1,103 @@
+{
+    "player_id": 73255742,
+    "@id": "https://api.chess.com/pub/player/angel_hranitel_37",
+    "url": "https://www.chess.com/member/Angel_Hranitel_37",
+    "name": "Robert Safin",
+    "username": "angel_hranitel_37",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1741673645,
+    "joined": 1583761011,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2043,
+            "date": 1713466052,
+            "rd": 229
+        },
+        "best": {
+            "rating": 2148,
+            "date": 1595854831,
+            "game": "https://www.chess.com/game/daily/268157086"
+        },
+        "record": {
+            "win": 2,
+            "loss": 1,
+            "draw": 1,
+            "time_per_move": 37727,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2153,
+            "date": 1732101955,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2349,
+            "date": 1588168448,
+            "game": "https://www.chess.com/game/live/5791307885"
+        },
+        "record": {
+            "win": 19,
+            "loss": 8,
+            "draw": 3
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2556,
+            "date": 1710322894,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2598,
+            "date": 1641291830,
+            "game": "https://www.chess.com/game/live/34177761103"
+        },
+        "record": {
+            "win": 339,
+            "loss": 277,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2592,
+            "date": 1737531015,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2708,
+            "date": 1658101481,
+            "game": "https://www.chess.com/game/live/5918290886"
+        },
+        "record": {
+            "win": 1115,
+            "loss": 1050,
+            "draw": 188
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3252,
+            "date": 1651906714
+        },
+        "lowest": {
+            "rating": 2293,
+            "date": 1584680052
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

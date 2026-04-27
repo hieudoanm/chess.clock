@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/278113827.ec8a7645.200x200o.07d8f0570eae.jpg",
+  "player_id": 278113827,
+  "@id": "https://api.chess.com/pub/player/gpt5-1",
+  "url": "https://www.chess.com/member/GPT5-1",
+  "username": "gpt5-1",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/XC",
+  "last_online": 1776583620,
+  "joined": 1682176813,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1767182067,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7740,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2308,
+      "date": 1773269045,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1773269045,
+      "game": "https://www.chess.com/game/live/165824431634"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2002,
+      "date": 1768311718,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1767531242,
+      "game": "https://www.chess.com/game/live/147612223704"
+    },
+    "record": {
+      "win": 4,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2289,
+      "date": 1776500467,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2554,
+      "date": 1767635510,
+      "game": "https://www.chess.com/game/live/147652305390"
+    },
+    "record": {
+      "win": 5712,
+      "loss": 6752,
+      "draw": 1146
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1682176813
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1682176813
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 32758502,
+  "@id": "https://api.chess.com/pub/player/artemiki",
+  "url": "https://www.chess.com/member/Artemiki",
+  "name": "Artem Lebedev",
+  "username": "artemiki",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/BM",
+  "last_online": 1776554417,
+  "joined": 1485676967,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1913,
+      "date": 1774368376,
+      "rd": 214
+    },
+    "best": {
+      "rating": 1913,
+      "date": 1716975607,
+      "game": "https://www.chess.com/game/daily/605304461"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 175166,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2038,
+      "date": 1699634145,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1659180521,
+      "game": "https://www.chess.com/game/live/5471756068"
+    },
+    "record": {
+      "win": 466,
+      "loss": 294,
+      "draw": 60
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2699,
+      "date": 1776368097,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2699,
+      "date": 1776368097,
+      "game": "https://www.chess.com/game/live/95283067743"
+    },
+    "record": {
+      "win": 1939,
+      "loss": 1996,
+      "draw": 168
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2789,
+      "date": 1776553637,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1754407837,
+      "game": "https://www.chess.com/game/live/151141090603"
+    },
+    "record": {
+      "win": 1723,
+      "loss": 1561,
+      "draw": 309
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2597,
+      "date": 1485676967
+    },
+    "lowest": {
+      "rating": 2597,
+      "date": 1485676967
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "player_id": 20245234,
+  "@id": "https://api.chess.com/pub/player/guytaf",
+  "url": "https://www.chess.com/member/GuyTaf",
+  "name": "Taffin Khan",
+  "username": "guytaf",
+  "title": "CM",
+  "followers": 130,
+  "country": "https://api.chess.com/pub/country/ZW",
+  "last_online": 1776478365,
+  "joined": 1419032187,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1680,
+      "date": 1774202705,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1962,
+      "date": 1558651081,
+      "game": "https://www.chess.com/game/daily/213505576"
+    },
+    "record": {
+      "win": 828,
+      "loss": 617,
+      "draw": 66,
+      "time_per_move": 12478,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 59,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1025,
+      "date": 1419955329,
+      "rd": 252
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 12478,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 59,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2338,
+      "date": 1763237924,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1763235901,
+      "game": "https://www.chess.com/game/live/144940446484"
+    },
+    "record": {
+      "win": 78,
+      "loss": 34,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2222,
+      "date": 1758303219,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2290,
+      "date": 1754412215,
+      "game": "https://www.chess.com/game/live/50772047443"
+    },
+    "record": {
+      "win": 56,
+      "loss": 89,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1763000338
+    },
+    "lowest": {
+      "rating": 2079,
+      "date": 1760819622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

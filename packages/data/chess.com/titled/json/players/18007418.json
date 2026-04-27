@@ -1,0 +1,129 @@
+{
+  "player_id": 18007418,
+  "@id": "https://api.chess.com/pub/player/gudrae",
+  "url": "https://www.chess.com/member/gudrae",
+  "username": "gudrae",
+  "title": "CM",
+  "followers": 125,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776571171,
+  "joined": 1404933081,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1674,
+      "date": 1776540495,
+      "rd": 62
+    },
+    "best": {
+      "rating": 1823,
+      "date": 1729990764,
+      "game": "https://www.chess.com/game/daily/397471917"
+    },
+    "record": {
+      "win": 948,
+      "loss": 325,
+      "draw": 31,
+      "time_per_move": 70855,
+      "timeout_percent": 20
+    },
+    "tournament": {
+      "points": 51,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 3
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1069,
+      "date": 1428910323,
+      "rd": 263
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 70855,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 51,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 3
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2501,
+      "date": 1776565209,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1776219439,
+      "game": "https://www.chess.com/game/live/148320806148"
+    },
+    "record": {
+      "win": 2300,
+      "loss": 1993,
+      "draw": 278
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1772700177,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1737407842,
+      "game": "https://www.chess.com/game/live/133229942045"
+    },
+    "record": {
+      "win": 5594,
+      "loss": 4722,
+      "draw": 507
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2248,
+      "date": 1752552288,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1717429794,
+      "game": "https://www.chess.com/game/live/106796444103"
+    },
+    "record": {
+      "win": 5686,
+      "loss": 5002,
+      "draw": 633
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2732,
+      "date": 1776536883
+    },
+    "lowest": {
+      "rating": 2580,
+      "date": 1760758045
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

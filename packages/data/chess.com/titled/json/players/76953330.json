@@ -1,0 +1,85 @@
+{
+  "player_id": 76953330,
+  "@id": "https://api.chess.com/pub/player/promising_talent",
+  "url": "https://www.chess.com/member/promising_talent",
+  "name": "Devdutt Binu",
+  "username": "promising_talent",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1743266383,
+  "joined": 1587101598,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2191,
+      "date": 1726854201,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2220,
+      "date": 1726845479,
+      "game": "https://www.chess.com/game/live/120590430315"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2328,
+      "date": 1743271186,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1724522309,
+      "game": "https://www.chess.com/game/live/121884612137"
+    },
+    "record": {
+      "win": 372,
+      "loss": 687,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2275,
+      "date": 1742572377,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1726587598,
+      "game": "https://www.chess.com/game/live/120324666165"
+    },
+    "record": {
+      "win": 63,
+      "loss": 62,
+      "draw": 5
+    }
+  },
+  "fide": 2274,
+  "tactics": {
+    "highest": {
+      "rating": 2548,
+      "date": 1587101598
+    },
+    "lowest": {
+      "rating": 2548,
+      "date": 1587101598
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

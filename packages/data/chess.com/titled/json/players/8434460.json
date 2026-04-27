@@ -1,0 +1,66 @@
+{
+  "player_id": 8434460,
+  "@id": "https://api.chess.com/pub/player/bubacik",
+  "url": "https://www.chess.com/member/bubacik",
+  "name": "Christopher Repka",
+  "username": "bubacik",
+  "title": "GM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1776337460,
+  "joined": 1344106603,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2864,
+      "date": 1595360239,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2861,
+      "date": 1568812232,
+      "game": "https://www.chess.com/game/live/4038917849"
+    },
+    "record": {
+      "win": 4178,
+      "loss": 4237,
+      "draw": 526
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2854,
+      "date": 1596608037,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2910,
+      "date": 1577091549,
+      "game": "https://www.chess.com/game/live/4003198853"
+    },
+    "record": {
+      "win": 3123,
+      "loss": 2938,
+      "draw": 653
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2713,
+      "date": 1344106603
+    },
+    "lowest": {
+      "rating": 2713,
+      "date": 1344106603
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 48
+    }
+  }
+}

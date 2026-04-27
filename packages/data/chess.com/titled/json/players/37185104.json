@@ -1,0 +1,84 @@
+{
+  "player_id": 37185104,
+  "@id": "https://api.chess.com/pub/player/el-reptiliano",
+  "url": "https://www.chess.com/member/el-reptiliano",
+  "name": "Sebastian Donoso Diaz",
+  "username": "el-reptiliano",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1642880815,
+  "joined": 1500598851,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2226,
+      "date": 1639274334,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1596810589,
+      "game": "https://www.chess.com/game/live/5306429098"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2447,
+      "date": 1597002041,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1592496360,
+      "game": "https://www.chess.com/game/live/5020993713"
+    },
+    "record": {
+      "win": 187,
+      "loss": 146,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2202,
+      "date": 1624144645,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2397,
+      "date": 1576795438,
+      "game": "https://www.chess.com/game/live/4376700034"
+    },
+    "record": {
+      "win": 823,
+      "loss": 605,
+      "draw": 94
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1922,
+      "date": 1500598851
+    },
+    "lowest": {
+      "rating": 1922,
+      "date": 1500598851
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 46
+    }
+  }
+}

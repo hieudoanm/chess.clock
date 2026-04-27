@@ -1,0 +1,122 @@
+{
+  "player_id": 474081,
+  "@id": "https://api.chess.com/pub/player/kxt100",
+  "url": "https://www.chess.com/member/kxt100",
+  "name": "Kushan Tyagi",
+  "username": "kxt100",
+  "title": "NM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776187049,
+  "joined": 1195528300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2060,
+      "date": 1744273690,
+      "rd": 170
+    },
+    "best": {
+      "rating": 2060,
+      "date": 1699638338,
+      "game": "https://www.chess.com/game/daily/29703597"
+    },
+    "record": {
+      "win": 709,
+      "loss": 397,
+      "draw": 107,
+      "time_per_move": 37620,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1494,
+      "date": 1310749686,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1249073279,
+      "game": "https://www.chess.com/game/daily/29864615"
+    },
+    "record": {
+      "win": 141,
+      "loss": 50,
+      "draw": 10,
+      "time_per_move": 37620,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2399,
+      "date": 1776186001,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1733603324,
+      "game": "https://www.chess.com/game/live/92864542175"
+    },
+    "record": {
+      "win": 103,
+      "loss": 15,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2172,
+      "date": 1645150322,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1640473039,
+      "game": "https://www.chess.com/game/live/35583979745"
+    },
+    "record": {
+      "win": 52,
+      "loss": 55,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2278,
+      "date": 1767411107,
+      "rd": 175
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1678231417,
+      "game": "https://www.chess.com/game/live/67132332837"
+    },
+    "record": {
+      "win": 1727,
+      "loss": 1188,
+      "draw": 251
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2251,
+      "date": 1195528300
+    },
+    "lowest": {
+      "rating": 2251,
+      "date": 1195528300
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

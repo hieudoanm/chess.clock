@@ -1,0 +1,84 @@
+{
+  "player_id": 462331302,
+  "@id": "https://api.chess.com/pub/player/dojochessmasters",
+  "url": "https://www.chess.com/member/DOJOCHESSMASTERS",
+  "username": "dojochessmasters",
+  "title": "NM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1775432793,
+  "joined": 1750881120,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1998,
+      "date": 1764336611,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1764334897,
+      "game": "https://www.chess.com/game/live/146061780238"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2038,
+      "date": 1762230899,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1760814843,
+      "game": "https://www.chess.com/game/live/155127998863"
+    },
+    "record": {
+      "win": 123,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2274,
+      "date": 1767967459,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1764331510,
+      "game": "https://www.chess.com/game/live/149418504331"
+    },
+    "record": {
+      "win": 142,
+      "loss": 57,
+      "draw": 10
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1764619851
+    },
+    "lowest": {
+      "rating": 2096,
+      "date": 1760557001
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

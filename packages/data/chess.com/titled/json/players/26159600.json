@@ -1,0 +1,99 @@
+{
+  "player_id": 26159600,
+  "@id": "https://api.chess.com/pub/player/rookoco",
+  "url": "https://www.chess.com/member/rookoco",
+  "name": "Gil Popilski",
+  "username": "rookoco",
+  "title": "GM",
+  "followers": 159,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Austin, TX",
+  "last_online": 1775674954,
+  "joined": 1452912153,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1559,
+      "date": 1696372511,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1452912153,
+      "game": "https://www.chess.com/game/daily/432714043"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7804,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2476,
+      "date": 1693522906,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1657385560,
+      "game": "https://www.chess.com/game/live/51124156137"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2697,
+      "date": 1697743819,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2834,
+      "date": 1599878872,
+      "game": "https://www.chess.com/game/live/5433158694"
+    },
+    "record": {
+      "win": 27,
+      "loss": 30,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2654,
+      "date": 1775674879,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2809,
+      "date": 1693808492,
+      "game": "https://www.chess.com/game/live/3679639419"
+    },
+    "record": {
+      "win": 8820,
+      "loss": 8209,
+      "draw": 1497
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2387,
+      "date": 1452912153
+    },
+    "lowest": {
+      "rating": 2387,
+      "date": 1452912153
+    }
+  },
+  "puzzle_rush": {}
+}

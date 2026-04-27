@@ -1,0 +1,124 @@
+{
+  "player_id": 12411268,
+  "@id": "https://api.chess.com/pub/player/ksenia_legenko",
+  "url": "https://www.chess.com/member/Ksenia_Legenko",
+  "name": "Ksenia Legenko",
+  "username": "ksenia_legenko",
+  "title": "WFM",
+  "followers": 140,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Kamchatka",
+  "last_online": 1773119030,
+  "joined": 1371798209,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1785,
+      "date": 1723129355,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1945,
+      "date": 1391659701,
+      "game": "https://www.chess.com/game/daily/78771852"
+    },
+    "record": {
+      "win": 94,
+      "loss": 73,
+      "draw": 6,
+      "time_per_move": 19144,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1422,
+      "date": 1388664134,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1422,
+      "date": 1388664134,
+      "game": "https://www.chess.com/game/daily/80914418"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19144,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1912,
+      "date": 1493115600,
+      "rd": 295
+    },
+    "best": {
+      "rating": 1912,
+      "date": 1493115600,
+      "game": "https://www.chess.com/game/live/2067862354"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2152,
+      "date": 1649248282,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1614060011,
+      "game": "https://www.chess.com/game/live/7798891085"
+    },
+    "record": {
+      "win": 106,
+      "loss": 49,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2282,
+      "date": 1773118895,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1773118895,
+      "game": "https://www.chess.com/game/live/46963173623"
+    },
+    "record": {
+      "win": 1651,
+      "loss": 1415,
+      "draw": 186
+    }
+  },
+  "fide": 2172,
+  "tactics": {
+    "highest": {
+      "rating": 2335,
+      "date": 1761005540
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1761005571
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

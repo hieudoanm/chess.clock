@@ -1,0 +1,88 @@
+{
+  "player_id": 42081220,
+  "@id": "https://api.chess.com/pub/player/im_arthurdw08",
+  "url": "https://www.chess.com/member/IM_ArthurDW08",
+  "name": "Arthur De Winter",
+  "username": "im_arthurdw08",
+  "title": "IM",
+  "followers": 298,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776595428,
+  "joined": 1515310706,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2378,
+      "date": 1775044340,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1696327540,
+      "game": "https://www.chess.com/game/live/51288051091"
+    },
+    "record": {
+      "win": 90,
+      "loss": 35,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2857,
+      "date": 1739639635,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2934,
+      "date": 1693070972,
+      "game": "https://www.chess.com/game/live/91044588273"
+    },
+    "record": {
+      "win": 2765,
+      "loss": 1792,
+      "draw": 211
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2829,
+      "date": 1775393173,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2911,
+      "date": 1738081077,
+      "game": "https://www.chess.com/game/live/97951339741"
+    },
+    "record": {
+      "win": 4468,
+      "loss": 3094,
+      "draw": 449
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2648,
+      "date": 1774362661
+    },
+    "lowest": {
+      "rating": 2312,
+      "date": 1775987921
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    },
+    "daily": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

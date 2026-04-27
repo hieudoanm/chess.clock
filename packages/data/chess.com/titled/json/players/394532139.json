@@ -1,0 +1,68 @@
+{
+    "player_id": 394532139,
+    "@id": "https://api.chess.com/pub/player/peterjjackson",
+    "url": "https://www.chess.com/member/PeterJJackson",
+    "name": "Peter Jackson",
+    "username": "peterjjackson",
+    "title": "NM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741652969,
+    "joined": 1728412030,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2156,
+            "date": 1737482866,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2178,
+            "date": 1736371542,
+            "game": "https://www.chess.com/game/live/125859511545"
+        },
+        "record": {
+            "win": 33,
+            "loss": 15,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2219,
+            "date": 1741634309,
+            "rd": 39
+        },
+        "best": {
+            "rating": 2280,
+            "date": 1738538137,
+            "game": "https://www.chess.com/game/live/129399802835"
+        },
+        "record": {
+            "win": 134,
+            "loss": 132,
+            "draw": 26
+        }
+    },
+    "fide": 2039,
+    "tactics": {
+        "highest": {
+            "rating": 3205,
+            "date": 1741288121
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1728412030
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

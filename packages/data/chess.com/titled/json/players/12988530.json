@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12988530.aac92c42.200x200o.8183d2926ccb.jpeg",
+  "player_id": 12988530,
+  "@id": "https://api.chess.com/pub/player/mindcoach",
+  "url": "https://www.chess.com/member/MindCoach",
+  "username": "mindcoach",
+  "title": "GM",
+  "followers": 88,
+  "country": "https://api.chess.com/pub/country/MY",
+  "last_online": 1775824119,
+  "joined": 1375455852,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1773753083,
+      "rd": 227
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1375455852,
+      "game": "https://www.chess.com/game/daily/115227652"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 37406,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1738134739,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1437468622,
+      "game": "https://www.chess.com/game/live/1160205069"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1668777914,
+      "rd": 174
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1613930802,
+      "game": "https://www.chess.com/game/live/1814749113"
+    },
+    "record": {
+      "win": 124,
+      "loss": 64,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2750,
+      "date": 1707656723,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2778,
+      "date": 1561394187,
+      "game": "https://www.chess.com/game/live/3809793057"
+    },
+    "record": {
+      "win": 560,
+      "loss": 374,
+      "draw": 90
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2512,
+      "date": 1766467401
+    },
+    "lowest": {
+      "rating": 2286,
+      "date": 1766358697
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "player_id": 23580936,
+  "@id": "https://api.chess.com/pub/player/amardeepb",
+  "url": "https://www.chess.com/member/AmardeepB",
+  "name": "Amardeep Bartakke",
+  "username": "amardeepb",
+  "title": "CM",
+  "followers": 203,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "India",
+  "last_online": 1776538637,
+  "joined": 1439030290,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1770098500,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 254443,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2281,
+      "date": 1776499404,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2281,
+      "date": 1774593227,
+      "game": "https://www.chess.com/game/live/146258605947"
+    },
+    "record": {
+      "win": 125,
+      "loss": 46,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2088,
+      "date": 1775461965,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1771439891,
+      "game": "https://www.chess.com/game/live/164134435772"
+    },
+    "record": {
+      "win": 398,
+      "loss": 316,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1776356070,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2442,
+      "date": 1768929739,
+      "game": "https://www.chess.com/game/live/162638823755"
+    },
+    "record": {
+      "win": 490,
+      "loss": 332,
+      "draw": 41
+    }
+  },
+  "fide": 1965,
+  "tactics": {
+    "highest": {
+      "rating": 2556,
+      "date": 1772200386
+    },
+    "lowest": {
+      "rating": 2444,
+      "date": 1770385277
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

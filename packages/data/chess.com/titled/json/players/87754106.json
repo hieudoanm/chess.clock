@@ -1,0 +1,79 @@
+{
+  "player_id": 87754106,
+  "@id": "https://api.chess.com/pub/player/chessniper2000",
+  "url": "https://www.chess.com/member/ChesSniper2000",
+  "username": "chessniper2000",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775249577,
+  "joined": 1595933340,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1999,
+      "date": 1763316138,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2506,
+      "date": 1605841203,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1605840125,
+      "game": "https://www.chess.com/game/live/5780830008"
+    },
+    "record": {
+      "win": 34,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2607,
+      "date": 1766524602,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1766524602,
+      "game": "https://www.chess.com/game/live/147092355144"
+    },
+    "record": {
+      "win": 135,
+      "loss": 129,
+      "draw": 26
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2547,
+      "date": 1763175093
+    },
+    "lowest": {
+      "rating": 2380,
+      "date": 1763175310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "player_id": 71960530,
+  "@id": "https://api.chess.com/pub/player/desconocido04",
+  "url": "https://www.chess.com/member/Desconocido04",
+  "username": "desconocido04",
+  "title": "GM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1761399905,
+  "joined": 1581273958,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2248,
+      "date": 1597516846,
+      "rd": 179
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1597422982,
+      "game": "https://www.chess.com/game/live/5293175497"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1597413922,
+      "rd": 262
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2623,
+      "date": 1761399725,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1761399725,
+      "game": "https://www.chess.com/game/live/144716089938"
+    },
+    "record": {
+      "win": 56,
+      "loss": 34,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1581273958
+    },
+    "lowest": {
+      "rating": 2484,
+      "date": 1581273958
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

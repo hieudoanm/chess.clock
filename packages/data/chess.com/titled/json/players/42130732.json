@@ -1,0 +1,85 @@
+{
+  "player_id": 42130732,
+  "@id": "https://api.chess.com/pub/player/yeritsyan_aram",
+  "url": "https://www.chess.com/member/Yeritsyan_Aram",
+  "name": "Aram Yeritsyan",
+  "username": "yeritsyan_aram",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776291192,
+  "joined": 1515442294,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1319,
+      "date": 1743589868,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1614356519,
+      "game": "https://www.chess.com/game/live/60631800577"
+    },
+    "record": {
+      "win": 107,
+      "loss": 108,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2555,
+      "date": 1763633378,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1753982969,
+      "game": "https://www.chess.com/game/live/128717631877"
+    },
+    "record": {
+      "win": 129,
+      "loss": 94,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1763848074,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1763845876,
+      "game": "https://www.chess.com/game/live/3501717992"
+    },
+    "record": {
+      "win": 433,
+      "loss": 410,
+      "draw": 70
+    }
+  },
+  "fide": 2299,
+  "tactics": {
+    "highest": {
+      "rating": 2250,
+      "date": 1515442294
+    },
+    "lowest": {
+      "rating": 2250,
+      "date": 1515442294
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

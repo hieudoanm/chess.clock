@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30638264.6787a549.200x200o.3a22ed45692b.jpeg",
+  "player_id": 30638264,
+  "@id": "https://api.chess.com/pub/player/chessflav",
+  "url": "https://www.chess.com/member/chessflav",
+  "name": "Flavio Perez",
+  "username": "chessflav",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776539490,
+  "joined": 1477690784,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1558,
+      "date": 1477771336,
+      "rd": 259
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 126,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2191,
+      "date": 1775930396,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1700317670,
+      "game": "https://www.chess.com/game/live/94056690677"
+    },
+    "record": {
+      "win": 124,
+      "loss": 116,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1706054501,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1619548057,
+      "game": "https://www.chess.com/game/live/15096571595"
+    },
+    "record": {
+      "win": 90,
+      "loss": 96,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2074,
+      "date": 1477690784
+    },
+    "lowest": {
+      "rating": 2074,
+      "date": 1477690784
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 32
+    }
+  }
+}

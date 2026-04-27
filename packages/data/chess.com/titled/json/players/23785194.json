@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23785194.5cdaf6cc.200x200o.7c81a498d08a.jpg",
+  "player_id": 23785194,
+  "@id": "https://api.chess.com/pub/player/pomeziachess",
+  "url": "https://www.chess.com/member/Pomeziachess",
+  "name": "Paolo Aiello",
+  "username": "pomeziachess",
+  "title": "CM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Pomezia",
+  "last_online": 1776577027,
+  "joined": 1440292583,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1875,
+      "date": 1703843322,
+      "rd": 110
+    },
+    "best": {
+      "rating": 1875,
+      "date": 1591287648,
+      "game": "https://www.chess.com/game/daily/259267242"
+    },
+    "record": {
+      "win": 11,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 5409,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2044,
+      "date": 1734509043,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2220,
+      "date": 1681746514,
+      "game": "https://www.chess.com/game/live/35575604605"
+    },
+    "record": {
+      "win": 122,
+      "loss": 105,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1645,
+      "date": 1754250138,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1668843345,
+      "game": "https://www.chess.com/game/live/79878732977"
+    },
+    "record": {
+      "win": 480,
+      "loss": 461,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2062,
+      "date": 1776577020,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1667375733,
+      "game": "https://www.chess.com/game/live/37730364645"
+    },
+    "record": {
+      "win": 4535,
+      "loss": 4291,
+      "draw": 446
+    }
+  },
+  "fide": 1900,
+  "tactics": {
+    "highest": {
+      "rating": 2159,
+      "date": 1765870433
+    },
+    "lowest": {
+      "rating": 1959,
+      "date": 1771937053
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

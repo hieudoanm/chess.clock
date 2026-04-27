@@ -1,0 +1,100 @@
+{
+  "player_id": 14170432,
+  "@id": "https://api.chess.com/pub/player/ortznoi57",
+  "url": "https://www.chess.com/member/ortznoi57",
+  "name": "Eduardo Ortiz",
+  "username": "ortznoi57",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Santa Maria, California",
+  "last_online": 1776571433,
+  "joined": 1383449862,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1664881687,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 495970,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2062,
+      "date": 1771821019,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2070,
+      "date": 1771820330,
+      "game": "https://www.chess.com/game/live/165079972162"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1644,
+      "date": 1677212943,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1384325262,
+      "game": "https://www.chess.com/game/live/1570989746"
+    },
+    "record": {
+      "win": 312,
+      "loss": 342,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2424,
+      "date": 1776570672,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1770924251,
+      "game": "https://www.chess.com/game/live/78249291949"
+    },
+    "record": {
+      "win": 57755,
+      "loss": 63673,
+      "draw": 3397
+    }
+  },
+  "fide": 2272,
+  "tactics": {
+    "highest": {
+      "rating": 2309,
+      "date": 1775858373
+    },
+    "lowest": {
+      "rating": 2042,
+      "date": 1773337866
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 15,
+      "score": 12
+    }
+  }
+}

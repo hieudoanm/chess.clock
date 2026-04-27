@@ -1,0 +1,99 @@
+{
+  "player_id": 486199325,
+  "@id": "https://api.chess.com/pub/player/nuathena",
+  "url": "https://www.chess.com/member/NuAthena",
+  "name": "Jagreet Misra",
+  "username": "nuathena",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776410291,
+  "joined": 1758711535,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1771177121,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 283642,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2244,
+      "date": 1762448422,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2244,
+      "date": 1762445310,
+      "game": "https://www.chess.com/game/live/156758024923"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2218,
+      "date": 1775766056,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1759239480,
+      "game": "https://www.chess.com/game/live/145216822992"
+    },
+    "record": {
+      "win": 64,
+      "loss": 32,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2477,
+      "date": 1776362012,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1768644633,
+      "game": "https://www.chess.com/game/live/160819028473"
+    },
+    "record": {
+      "win": 147,
+      "loss": 137,
+      "draw": 19
+    }
+  },
+  "fide": 2243,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1758711535
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1758711535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

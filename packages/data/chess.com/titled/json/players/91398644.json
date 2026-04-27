@@ -1,0 +1,98 @@
+{
+  "player_id": 91398644,
+  "@id": "https://api.chess.com/pub/player/aash20",
+  "url": "https://www.chess.com/member/Aash20",
+  "name": "Balaji Guttula",
+  "username": "aash20",
+  "title": "FM",
+  "followers": 70,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776597782,
+  "joined": 1600338231,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1730907502,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 647927,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 830,
+      "date": 1766921032,
+      "rd": 99
+    },
+    "best": {
+      "rating": 1540,
+      "date": 1660967896,
+      "game": "https://www.chess.com/game/live/48341336117"
+    },
+    "record": {
+      "win": 21,
+      "loss": 34,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2746,
+      "date": 1773597247,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2746,
+      "date": 1773597247,
+      "game": "https://www.chess.com/game/live/165987425548"
+    },
+    "record": {
+      "win": 527,
+      "loss": 467,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2718,
+      "date": 1773780478,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2726,
+      "date": 1773698201,
+      "game": "https://www.chess.com/game/live/165986987528"
+    },
+    "record": {
+      "win": 315,
+      "loss": 205,
+      "draw": 40
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2247,
+      "date": 1600338231
+    },
+    "lowest": {
+      "rating": 2247,
+      "date": 1600338231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

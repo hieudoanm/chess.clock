@@ -1,0 +1,85 @@
+{
+  "player_id": 25655740,
+  "@id": "https://api.chess.com/pub/player/johnmez",
+  "url": "https://www.chess.com/member/johnmez",
+  "name": "John Merriman",
+  "username": "johnmez",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "london",
+  "last_online": 1772873537,
+  "joined": 1450547538,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2341,
+      "date": 1745760950,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1674335097,
+      "game": "https://www.chess.com/game/live/62105330383"
+    },
+    "record": {
+      "win": 149,
+      "loss": 86,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1499,
+      "date": 1609616446,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1609614752,
+      "game": "https://www.chess.com/game/live/6125085476"
+    },
+    "record": {
+      "win": 6,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2407,
+      "date": 1767115763,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1753196803,
+      "game": "https://www.chess.com/game/live/148133000023"
+    },
+    "record": {
+      "win": 1815,
+      "loss": 1705,
+      "draw": 206
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2388,
+      "date": 1450547538
+    },
+    "lowest": {
+      "rating": 2388,
+      "date": 1450547538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

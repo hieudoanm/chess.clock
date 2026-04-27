@@ -1,0 +1,103 @@
+{
+  "player_id": 2054929,
+  "@id": "https://api.chess.com/pub/player/mcorallo",
+  "url": "https://www.chess.com/member/mcorallo",
+  "name": "Michael Corallo",
+  "username": "mcorallo",
+  "title": "NM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1754597978,
+  "joined": 1248558749,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1702055799,
+      "rd": 262
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1390292480,
+      "game": "https://www.chess.com/game/daily/83213516"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5661,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2277,
+      "date": 1660185304,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1660185304,
+      "game": "https://www.chess.com/game/live/53923181695"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2159,
+      "date": 1660186175,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2159,
+      "date": 1641012575,
+      "game": "https://www.chess.com/game/live/34751405399"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1721795925,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1610484110,
+      "game": "https://www.chess.com/game/live/40518597187"
+    },
+    "record": {
+      "win": 356,
+      "loss": 299,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2612,
+      "date": 1248558749
+    },
+    "lowest": {
+      "rating": 2612,
+      "date": 1248558749
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    }
+  }
+}

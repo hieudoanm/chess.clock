@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32292254.581b9e53.200x200o.63c6e7245230.jpeg",
+  "player_id": 32292254,
+  "@id": "https://api.chess.com/pub/player/1995tiger",
+  "url": "https://www.chess.com/member/1995Tiger",
+  "name": "Tilsia Varela",
+  "username": "1995tiger",
+  "title": "WIM",
+  "followers": 2255,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "M\u00e1laga",
+  "last_online": 1769207967,
+  "joined": 1484077870,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/maracuchachess",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/maracuchachess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 794,
+      "date": 1711199144,
+      "rd": 342
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 803776,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2022,
+      "date": 1728480205,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1596900296,
+      "game": "https://www.chess.com/game/live/6247388266"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2638,
+      "date": 1723046183,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1723046183,
+      "game": "https://www.chess.com/game/live/116784660519"
+    },
+    "record": {
+      "win": 196,
+      "loss": 107,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1728483069,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2513,
+      "date": 1728483069,
+      "game": "https://www.chess.com/game/live/4183493446"
+    },
+    "record": {
+      "win": 644,
+      "loss": 531,
+      "draw": 100
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2164,
+      "date": 1757412132
+    },
+    "lowest": {
+      "rating": 2033,
+      "date": 1756149792
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

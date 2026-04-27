@@ -1,0 +1,93 @@
+{
+  "player_id": 408338611,
+  "@id": "https://api.chess.com/pub/player/scylla_138",
+  "url": "https://www.chess.com/member/Scylla_138",
+  "name": "Mario Hofstadler",
+  "username": "scylla_138",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776546485,
+  "joined": 1733861286,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1723,
+      "date": 1776546474,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1744,
+      "date": 1768420788,
+      "game": "https://www.chess.com/game/daily/956931217"
+    },
+    "record": {
+      "win": 27,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 19506,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1757675499,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1752337588,
+      "game": "https://www.chess.com/game/live/146651004025"
+    },
+    "record": {
+      "win": 19,
+      "loss": 29,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2392,
+      "date": 1774096857,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1768644953,
+      "game": "https://www.chess.com/game/live/155985398587"
+    },
+    "record": {
+      "win": 277,
+      "loss": 261,
+      "draw": 53
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2519,
+      "date": 1762614417
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1756630172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

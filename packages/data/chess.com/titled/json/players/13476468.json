@@ -1,0 +1,99 @@
+{
+  "player_id": 13476468,
+  "@id": "https://api.chess.com/pub/player/lewiseisen",
+  "url": "https://www.chess.com/member/lewiseisen",
+  "name": "Lewis Eisen",
+  "username": "lewiseisen",
+  "title": "NM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York, New York",
+  "last_online": 1776562918,
+  "joined": 1378830575,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1219,
+      "date": 1736155703,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1219,
+      "date": 1704557867,
+      "game": "https://www.chess.com/game/daily/466282123"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11401,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1730,
+      "date": 1663426371,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1427094000,
+      "game": "https://www.chess.com/game/live/6417874261"
+    },
+    "record": {
+      "win": 3,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1450016270,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1776562910,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1772376896,
+      "game": "https://www.chess.com/game/live/73265732247"
+    },
+    "record": {
+      "win": 33983,
+      "loss": 27764,
+      "draw": 5655
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1378830575
+    },
+    "lowest": {
+      "rating": 2457,
+      "date": 1378830575
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

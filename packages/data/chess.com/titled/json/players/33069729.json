@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33069729.7a7127a8.200x200o.a1e82005fde5.jpeg",
+  "player_id": 33069729,
+  "@id": "https://api.chess.com/pub/player/alexey_ustinov",
+  "url": "https://www.chess.com/member/Alexey_Ustinov",
+  "name": "Alexey Ustinov",
+  "username": "alexey_ustinov",
+  "title": "FM",
+  "followers": 107,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+  "last_online": 1776522573,
+  "joined": 1486682038,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1322,
+      "date": 1717680872,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1322,
+      "date": 1603915774,
+      "game": "https://www.chess.com/game/daily/282623596"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19917,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2060,
+      "date": 1775851031,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1617959719,
+      "game": "https://www.chess.com/game/live/167134034484"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2734,
+      "date": 1776522409,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2738,
+      "date": 1776521982,
+      "game": "https://www.chess.com/game/live/166976194806"
+    },
+    "record": {
+      "win": 3322,
+      "loss": 1376,
+      "draw": 337
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2714,
+      "date": 1770150932,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2714,
+      "date": 1770150932,
+      "game": "https://www.chess.com/game/live/3498605343"
+    },
+    "record": {
+      "win": 563,
+      "loss": 263,
+      "draw": 101
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2634,
+      "date": 1776006758
+    },
+    "lowest": {
+      "rating": 2293,
+      "date": 1767958736
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

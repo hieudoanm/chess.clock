@@ -1,0 +1,90 @@
+{
+  "player_id": 35703784,
+  "@id": "https://api.chess.com/pub/player/eugenefurman",
+  "url": "https://www.chess.com/member/EugeneFurman",
+  "name": "Eugene Furman",
+  "username": "eugenefurman",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "State College",
+  "last_online": 1776561118,
+  "joined": 1495386271,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1990,
+      "date": 1774206737,
+      "rd": 47
+    },
+    "best": {
+      "rating": 1998,
+      "date": 1773591496,
+      "game": "https://www.chess.com/game/live/168512669677"
+    },
+    "record": {
+      "win": 3,
+      "loss": 11,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1923,
+      "date": 1776462667,
+      "rd": 41
+    },
+    "best": {
+      "rating": 1964,
+      "date": 1771695655,
+      "game": "https://www.chess.com/game/live/166009210371"
+    },
+    "record": {
+      "win": 98,
+      "loss": 403,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2181,
+      "date": 1776456584,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1775179561,
+      "game": "https://www.chess.com/game/live/167682012723"
+    },
+    "record": {
+      "win": 308,
+      "loss": 560,
+      "draw": 50
+    }
+  },
+  "fide": 2083,
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1771910652
+    },
+    "lowest": {
+      "rating": 2066,
+      "date": 1767637336
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    },
+    "daily": {
+      "total_attempts": 37,
+      "score": 36
+    }
+  }
+}

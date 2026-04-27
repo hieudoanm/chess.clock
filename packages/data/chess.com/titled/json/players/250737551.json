@@ -1,0 +1,104 @@
+{
+  "player_id": 250737551,
+  "@id": "https://api.chess.com/pub/player/ajedrezcongarzon",
+  "url": "https://www.chess.com/member/AJEDREZCONGARZON",
+  "name": "Andres Santiago Garzon Camelo",
+  "username": "ajedrezcongarzon",
+  "title": "FM",
+  "followers": 705,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776546326,
+  "joined": 1677059850,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 924,
+      "date": 1773354353,
+      "rd": 225
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1677059850,
+      "game": "https://www.chess.com/game/daily/695494275"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 17144,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2504,
+      "date": 1692229646,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1692229646,
+      "game": "https://www.chess.com/game/live/85967423639"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3009,
+      "date": 1774723736,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3075,
+      "date": 1774719442,
+      "game": "https://www.chess.com/game/live/166381417086"
+    },
+    "record": {
+      "win": 1032,
+      "loss": 1132,
+      "draw": 108
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2994,
+      "date": 1776545594,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3030,
+      "date": 1776281115,
+      "game": "https://www.chess.com/game/live/167271472330"
+    },
+    "record": {
+      "win": 3588,
+      "loss": 3301,
+      "draw": 482
+    }
+  },
+  "fide": 2270,
+  "tactics": {
+    "highest": {
+      "rating": 2265,
+      "date": 1758217977
+    },
+    "lowest": {
+      "rating": 2158,
+      "date": 1758217952
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

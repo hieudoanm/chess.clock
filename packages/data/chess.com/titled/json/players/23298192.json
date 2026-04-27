@@ -1,0 +1,86 @@
+{
+  "player_id": 23298192,
+  "@id": "https://api.chess.com/pub/player/ryan2chess",
+  "url": "https://www.chess.com/member/ryan2chess",
+  "name": "Ryan Xu",
+  "username": "ryan2chess",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Philadelphia",
+  "last_online": 1765893978,
+  "joined": 1437270040,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2373,
+      "date": 1699656889,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1638948222,
+      "game": "https://www.chess.com/game/live/12942828679"
+    },
+    "record": {
+      "win": 33,
+      "loss": 3,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2405,
+      "date": 1638949005,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1616394569,
+      "game": "https://www.chess.com/game/live/8661348899"
+    },
+    "record": {
+      "win": 126,
+      "loss": 51,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2426,
+      "date": 1698963888,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1616700180,
+      "game": "https://www.chess.com/game/live/9153407131"
+    },
+    "record": {
+      "win": 123,
+      "loss": 74,
+      "draw": 16
+    }
+  },
+  "fide": 2232,
+  "tactics": {
+    "highest": {
+      "rating": 2546,
+      "date": 1437270040
+    },
+    "lowest": {
+      "rating": 2546,
+      "date": 1437270040
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

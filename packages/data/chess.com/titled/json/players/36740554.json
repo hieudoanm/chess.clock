@@ -1,0 +1,102 @@
+{
+  "player_id": 36740554,
+  "@id": "https://api.chess.com/pub/player/nzt72",
+  "url": "https://www.chess.com/member/NZT72",
+  "username": "nzt72",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776525905,
+  "joined": 1499002221,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2155,
+      "date": 1746027022,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1605374613,
+      "game": "https://www.chess.com/game/daily/279024190"
+    },
+    "record": {
+      "win": 81,
+      "loss": 8,
+      "draw": 3,
+      "time_per_move": 8158,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2456,
+      "date": 1776198875,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1773510661,
+      "game": "https://www.chess.com/game/live/35138905161"
+    },
+    "record": {
+      "win": 51,
+      "loss": 11,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2830,
+      "date": 1645811598,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2830,
+      "date": 1645811598,
+      "game": "https://www.chess.com/game/live/39550266249"
+    },
+    "record": {
+      "win": 1291,
+      "loss": 901,
+      "draw": 158
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2674,
+      "date": 1671559553,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2686,
+      "date": 1671558327,
+      "game": "https://www.chess.com/game/live/34587604103"
+    },
+    "record": {
+      "win": 1002,
+      "loss": 853,
+      "draw": 305
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2637,
+      "date": 1772041361
+    },
+    "lowest": {
+      "rating": 2310,
+      "date": 1775986056
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 56
+    }
+  }
+}

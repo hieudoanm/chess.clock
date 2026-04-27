@@ -1,0 +1,67 @@
+{
+  "player_id": 491244495,
+  "@id": "https://api.chess.com/pub/player/chessbananas4",
+  "url": "https://www.chess.com/member/chessbananas4",
+  "username": "chessbananas4",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776579135,
+  "joined": 1760179175,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2636,
+      "date": 1776543751,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1776543632,
+      "game": "https://www.chess.com/game/live/167499438904"
+    },
+    "record": {
+      "win": 197,
+      "loss": 205,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2505,
+      "date": 1776276154,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2678,
+      "date": 1766328893,
+      "game": "https://www.chess.com/game/live/147417820262"
+    },
+    "record": {
+      "win": 419,
+      "loss": 424,
+      "draw": 66
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2316,
+      "date": 1766517213
+    },
+    "lowest": {
+      "rating": 799,
+      "date": 1760188545
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

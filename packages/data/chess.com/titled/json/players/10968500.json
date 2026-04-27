@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10968500.f31e4e06.200x200o.2418d3cb8a26.jpeg",
+  "player_id": 10968500,
+  "@id": "https://api.chess.com/pub/player/a-fier",
+  "url": "https://www.chess.com/member/A-Fier",
+  "name": "Alex Fier",
+  "username": "a-fier",
+  "title": "GM",
+  "followers": 1846,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776274447,
+  "joined": 1361966117,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1663,
+      "date": 1598018146,
+      "rd": 257
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1361966117,
+      "game": "https://www.chess.com/game/daily/155345998"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 163366,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2467,
+      "date": 1773770119,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1601160873,
+      "game": "https://www.chess.com/game/live/72475993589"
+    },
+    "record": {
+      "win": 91,
+      "loss": 73,
+      "draw": 45
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2703,
+      "date": 1770339999,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2839,
+      "date": 1601494453,
+      "game": "https://www.chess.com/game/live/5483029469"
+    },
+    "record": {
+      "win": 226,
+      "loss": 169,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2952,
+      "date": 1774712982,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2978,
+      "date": 1771790558,
+      "game": "https://www.chess.com/game/live/165007200792"
+    },
+    "record": {
+      "win": 2361,
+      "loss": 1629,
+      "draw": 501
+    }
+  },
+  "fide": 2600,
+  "tactics": {
+    "highest": {
+      "rating": 2663,
+      "date": 1774694771
+    },
+    "lowest": {
+      "rating": 2515,
+      "date": 1759336401
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

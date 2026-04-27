@@ -1,0 +1,103 @@
+{
+  "player_id": 43850370,
+  "@id": "https://api.chess.com/pub/player/nihalswarna",
+  "url": "https://www.chess.com/member/NihalSwarna",
+  "name": "Swarna Nihal",
+  "username": "nihalswarna",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775036718,
+  "joined": 1519958296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1426,
+      "date": 1770471979,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1665,
+      "date": 1621911661,
+      "game": "https://www.chess.com/game/daily/917877797"
+    },
+    "record": {
+      "win": 25,
+      "loss": 18,
+      "draw": 0,
+      "time_per_move": 23131,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2366,
+      "date": 1755599500,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2159,
+      "date": 1689739271,
+      "game": "https://www.chess.com/game/live/40973310707"
+    },
+    "record": {
+      "win": 535,
+      "loss": 391,
+      "draw": 61
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1775035214,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1747461247,
+      "game": "https://www.chess.com/game/live/138550172936"
+    },
+    "record": {
+      "win": 918,
+      "loss": 730,
+      "draw": 68
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2539,
+      "date": 1773953174,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1771044493,
+      "game": "https://www.chess.com/game/live/150534497483"
+    },
+    "record": {
+      "win": 1366,
+      "loss": 820,
+      "draw": 187
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1767339716
+    },
+    "lowest": {
+      "rating": 2244,
+      "date": 1756520817
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

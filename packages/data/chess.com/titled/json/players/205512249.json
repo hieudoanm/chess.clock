@@ -1,0 +1,87 @@
+{
+  "player_id": 205512249,
+  "@id": "https://api.chess.com/pub/player/britttas",
+  "url": "https://www.chess.com/member/britttas",
+  "username": "britttas",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776533059,
+  "joined": 1668007166,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1707927216,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1707927216,
+      "game": "https://www.chess.com/game/live/73067903379"
+    },
+    "record": {
+      "win": 12,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1965,
+      "date": 1679605179,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1679600619,
+      "game": "https://www.chess.com/game/live/73337161477"
+    },
+    "record": {
+      "win": 50,
+      "loss": 37,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1776531985,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1775929491,
+      "game": "https://www.chess.com/game/live/121166987653"
+    },
+    "record": {
+      "win": 2221,
+      "loss": 1677,
+      "draw": 410
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2830,
+      "date": 1776258704
+    },
+    "lowest": {
+      "rating": 2594,
+      "date": 1761735919
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    },
+    "daily": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

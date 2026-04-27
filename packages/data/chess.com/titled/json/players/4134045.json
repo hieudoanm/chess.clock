@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4134045.95dee643.200x200o.5a33f3b6f3e3.jpg",
+  "player_id": 4134045,
+  "@id": "https://api.chess.com/pub/player/el-ajedrecista",
+  "url": "https://www.chess.com/member/El-Ajedrecista",
+  "name": "Mike Fellman",
+  "username": "el-ajedrecista",
+  "title": "FM",
+  "followers": 142,
+  "country": "https://api.chess.com/pub/country/HR",
+  "location": "El Mundo",
+  "last_online": 1776585676,
+  "joined": 1287383673,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1698,
+      "date": 1727109522,
+      "rd": 181
+    },
+    "best": {
+      "rating": 1698,
+      "date": 1620434403,
+      "game": "https://www.chess.com/game/daily/320265558"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 94721,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2083,
+      "date": 1770235522,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2097,
+      "date": 1658537021,
+      "game": "https://www.chess.com/game/live/52275042769"
+    },
+    "record": {
+      "win": 67,
+      "loss": 29,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1957,
+      "date": 1674779505,
+      "rd": 74
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1674777893,
+      "game": "https://www.chess.com/game/live/68516527859"
+    },
+    "record": {
+      "win": 35,
+      "loss": 13,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1902,
+      "date": 1776585619,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2239,
+      "date": 1759524330,
+      "game": "https://www.chess.com/game/live/144782054246"
+    },
+    "record": {
+      "win": 7171,
+      "loss": 6315,
+      "draw": 701
+    }
+  },
+  "fide": 2201,
+  "tactics": {
+    "highest": {
+      "rating": 2312,
+      "date": 1764886361
+    },
+    "lowest": {
+      "rating": 2266,
+      "date": 1759523688
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 17,
+      "score": 16
+    }
+  }
+}

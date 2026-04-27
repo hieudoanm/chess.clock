@@ -1,0 +1,85 @@
+{
+  "player_id": 22669866,
+  "@id": "https://api.chess.com/pub/player/aicrossover",
+  "url": "https://www.chess.com/member/AiCrossover",
+  "username": "aicrossover",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Boston",
+  "last_online": 1776560832,
+  "joined": 1433362001,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2164,
+      "date": 1716658222,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2174,
+      "date": 1637106938,
+      "game": "https://www.chess.com/game/live/30844772089"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2368,
+      "date": 1732222462,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1716563497,
+      "game": "https://www.chess.com/game/live/1695261567"
+    },
+    "record": {
+      "win": 386,
+      "loss": 407,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2429,
+      "date": 1776560823,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1750368498,
+      "game": "https://www.chess.com/game/live/106797069029"
+    },
+    "record": {
+      "win": 6078,
+      "loss": 5635,
+      "draw": 899
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2185,
+      "date": 1756948625
+    },
+    "lowest": {
+      "rating": 1902,
+      "date": 1758674909
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

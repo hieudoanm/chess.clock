@@ -1,0 +1,73 @@
+{
+  "player_id": 35657294,
+  "@id": "https://api.chess.com/pub/player/mihsakk",
+  "url": "https://www.chess.com/member/Mihsakk",
+  "username": "mihsakk",
+  "title": "FM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776425589,
+  "joined": 1495220622,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1776425573,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2110,
+      "date": 1675871428,
+      "game": "https://www.chess.com/game/live/167432505226"
+    },
+    "record": {
+      "win": 306,
+      "loss": 40,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1807,
+      "date": 1730027677,
+      "rd": 252
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2138,
+      "date": 1775841210,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1697800063,
+      "game": "https://www.chess.com/game/live/91300284973"
+    },
+    "record": {
+      "win": 3400,
+      "loss": 3134,
+      "draw": 446
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1943,
+      "date": 1776414754
+    },
+    "lowest": {
+      "rating": 1741,
+      "date": 1769683817
+    }
+  },
+  "puzzle_rush": {}
+}

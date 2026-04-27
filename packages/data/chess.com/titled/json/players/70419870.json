@@ -1,0 +1,104 @@
+{
+  "player_id": 70419870,
+  "@id": "https://api.chess.com/pub/player/bossche-cm",
+  "url": "https://www.chess.com/member/Bossche-CM",
+  "name": "Thomas Mollema",
+  "username": "bossche-cm",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776167970,
+  "joined": 1578391622,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1761057868,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1759067968,
+      "game": "https://www.chess.com/game/daily/875326059"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11731,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2443,
+      "date": 1705923742,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1679662169,
+      "game": "https://www.chess.com/game/live/99661875455"
+    },
+    "record": {
+      "win": 34,
+      "loss": 13,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1773169248,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1737973591,
+      "game": "https://www.chess.com/game/live/128088562125"
+    },
+    "record": {
+      "win": 657,
+      "loss": 384,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2605,
+      "date": 1775485100,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1661013714,
+      "game": "https://www.chess.com/game/live/141700126640"
+    },
+    "record": {
+      "win": 1632,
+      "loss": 1179,
+      "draw": 283
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2540,
+      "date": 1776107768
+    },
+    "lowest": {
+      "rating": 2370,
+      "date": 1768140032
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": 451847994,
+  "@id": "https://api.chess.com/pub/player/chesshorizon28",
+  "url": "https://www.chess.com/member/Chesshorizon28",
+  "username": "chesshorizon28",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776563721,
+  "joined": 1747251943,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2191,
+      "date": 1769458409,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2493,
+      "date": 1774321506,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1769444797,
+      "game": "https://www.chess.com/game/live/148518194592"
+    },
+    "record": {
+      "win": 136,
+      "loss": 77,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2684,
+      "date": 1775960674,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1769991327,
+      "game": "https://www.chess.com/game/live/147679707426"
+    },
+    "record": {
+      "win": 216,
+      "loss": 122,
+      "draw": 22
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2443,
+      "date": 1767805226
+    },
+    "lowest": {
+      "rating": 2316,
+      "date": 1774816600
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

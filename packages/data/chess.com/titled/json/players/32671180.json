@@ -1,0 +1,85 @@
+{
+    "player_id": 32671180,
+    "@id": "https://api.chess.com/pub/player/icychess54",
+    "url": "https://www.chess.com/member/icychess54",
+    "name": "Thomas Diem",
+    "username": "icychess54",
+    "title": "NM",
+    "followers": 81,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1763780800,
+    "joined": 1485383166,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1884,
+            "date": 1650698875,
+            "rd": 187
+        },
+        "best": {
+            "rating": 2041,
+            "date": 1570326108,
+            "game": "https://www.chess.com/game/live/3022986621"
+        },
+        "record": {
+            "win": 8,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2123,
+            "date": 1756341244,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1647383033,
+            "game": "https://www.chess.com/game/live/2621785228"
+        },
+        "record": {
+            "win": 1533,
+            "loss": 1321,
+            "draw": 137
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2432,
+            "date": 1763782518,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2560,
+            "date": 1760236113,
+            "game": "https://www.chess.com/game/live/145203309574"
+        },
+        "record": {
+            "win": 11249,
+            "loss": 9600,
+            "draw": 1225
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2644,
+            "date": 1757188727
+        },
+        "lowest": {
+            "rating": 2161,
+            "date": 1760219457
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

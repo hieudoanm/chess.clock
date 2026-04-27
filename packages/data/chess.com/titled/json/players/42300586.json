@@ -1,0 +1,67 @@
+{
+  "player_id": 42300586,
+  "@id": "https://api.chess.com/pub/player/ibrayevnb",
+  "url": "https://www.chess.com/member/Ibrayevnb",
+  "name": "Nurlan Ibrayev",
+  "username": "ibrayevnb",
+  "title": "GM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1660859397,
+  "joined": 1515891122,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2451,
+      "date": 1615651546,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1600009587,
+      "game": "https://www.chess.com/game/live/5564503831"
+    },
+    "record": {
+      "win": 12,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2565,
+      "date": 1634670233,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2662,
+      "date": 1592248958,
+      "game": "https://www.chess.com/game/live/5015737232"
+    },
+    "record": {
+      "win": 2024,
+      "loss": 1203,
+      "draw": 290
+    }
+  },
+  "fide": 2395,
+  "tactics": {
+    "highest": {
+      "rating": 2330,
+      "date": 1515891122
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1515891122
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 38
+    }
+  }
+}

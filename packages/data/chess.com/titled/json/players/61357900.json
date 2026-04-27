@@ -1,0 +1,99 @@
+{
+  "player_id": 61357900,
+  "@id": "https://api.chess.com/pub/player/expii",
+  "url": "https://www.chess.com/member/expii",
+  "name": "Alex Wang",
+  "username": "expii",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1773251296,
+  "joined": 1558665899,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1602,
+      "date": 1721237046,
+      "rd": 347
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1712362520,
+      "game": "https://www.chess.com/game/daily/642000579"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 14162,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1353,
+      "date": 1761838059,
+      "rd": 275
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1731,
+      "date": 1755016190,
+      "rd": 187
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1728416061,
+      "game": "https://www.chess.com/game/live/122155124997"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2110,
+      "date": 1765466427,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1680041093,
+      "game": "https://www.chess.com/game/live/73175694843"
+    },
+    "record": {
+      "win": 138,
+      "loss": 307,
+      "draw": 47
+    }
+  },
+  "fide": 1815,
+  "tactics": {
+    "highest": {
+      "rating": 2265,
+      "date": 1558665899
+    },
+    "lowest": {
+      "rating": 2265,
+      "date": 1558665899
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

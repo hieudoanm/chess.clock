@@ -1,0 +1,85 @@
+{
+  "player_id": 464362422,
+  "@id": "https://api.chess.com/pub/player/fedor_antipovspb",
+  "url": "https://www.chess.com/member/Fedor_AntipovSPB",
+  "name": "Fedor Antipov",
+  "username": "fedor_antipovspb",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776342774,
+  "joined": 1751622500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2147,
+      "date": 1773599540,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1773594848,
+      "game": "https://www.chess.com/game/live/167906415937"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2859,
+      "date": 1775147087,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2910,
+      "date": 1773341716,
+      "game": "https://www.chess.com/game/live/165823793096"
+    },
+    "record": {
+      "win": 366,
+      "loss": 161,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2791,
+      "date": 1775769654,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2795,
+      "date": 1775767279,
+      "game": "https://www.chess.com/game/live/170080251573"
+    },
+    "record": {
+      "win": 150,
+      "loss": 54,
+      "draw": 15
+    }
+  },
+  "fide": 2152,
+  "tactics": {
+    "highest": {
+      "rating": 2295,
+      "date": 1772701785
+    },
+    "lowest": {
+      "rating": 2127,
+      "date": 1758539238
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 68
+    }
+  }
+}

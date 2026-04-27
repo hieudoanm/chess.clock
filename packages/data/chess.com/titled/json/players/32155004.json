@@ -1,0 +1,93 @@
+{
+  "player_id": 32155004,
+  "@id": "https://api.chess.com/pub/player/brajicmiloje",
+  "url": "https://www.chess.com/member/BrajicMiloje",
+  "name": "Miloje Brajic",
+  "username": "brajicmiloje",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776592724,
+  "joined": 1483619845,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1743355956,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 65195,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2105,
+      "date": 1773345646,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1772020745,
+      "game": "https://www.chess.com/game/live/165185436888"
+    },
+    "record": {
+      "win": 32,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1954,
+      "date": 1743439191,
+      "rd": 248
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2100,
+      "date": 1742894142,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1997,
+      "date": 1644580184,
+      "game": "https://www.chess.com/game/live/36632999709"
+    },
+    "record": {
+      "win": 31,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2170,
+      "date": 1773645750
+    },
+    "lowest": {
+      "rating": 1854,
+      "date": 1761398248
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

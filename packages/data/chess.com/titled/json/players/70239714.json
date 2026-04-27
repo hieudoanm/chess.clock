@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70239714.3a327ae7.200x200o.38e2b83bd6b7.jpg",
+  "player_id": 70239714,
+  "@id": "https://api.chess.com/pub/player/szefru",
+  "url": "https://www.chess.com/member/szefru",
+  "name": "Fruzsina Szente-Varga",
+  "username": "szefru",
+  "title": "WFM",
+  "followers": 19130,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776599094,
+  "joined": 1578050171,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/szefru",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/szefru"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1760,
+      "date": 1776327703,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1820,
+      "date": 1728851128,
+      "game": "https://www.chess.com/game/daily/672894345"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 139899,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2343,
+      "date": 1766396903,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1760056673,
+      "game": "https://www.chess.com/game/live/144107615616"
+    },
+    "record": {
+      "win": 971,
+      "loss": 253,
+      "draw": 66
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2258,
+      "date": 1744489854,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1635369729,
+      "game": "https://www.chess.com/game/live/10759688617"
+    },
+    "record": {
+      "win": 641,
+      "loss": 423,
+      "draw": 60
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1773764540,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1741106310,
+      "game": "https://www.chess.com/game/live/16311401455"
+    },
+    "record": {
+      "win": 1654,
+      "loss": 1482,
+      "draw": 191
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2707,
+      "date": 1578050171
+    },
+    "lowest": {
+      "rating": 2707,
+      "date": 1578050171
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

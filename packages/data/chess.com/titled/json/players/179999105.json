@@ -1,0 +1,68 @@
+{
+  "player_id": 179999105,
+  "@id": "https://api.chess.com/pub/player/sunrises006",
+  "url": "https://www.chess.com/member/Sunrises006",
+  "username": "sunrises006",
+  "title": "WCM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776572174,
+  "joined": 1649659449,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1657318474,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 51,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1314,
+      "date": 1672325156,
+      "rd": 127
+    },
+    "best": {
+      "rating": 1500,
+      "date": 1652943599,
+      "game": "https://www.chess.com/game/live/66063774191"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2162,
+      "date": 1772019854
+    },
+    "lowest": {
+      "rating": 2072,
+      "date": 1772019779
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    },
+    "daily": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

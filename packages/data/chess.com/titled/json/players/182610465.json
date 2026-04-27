@@ -1,0 +1,83 @@
+{
+  "player_id": 182610465,
+  "@id": "https://api.chess.com/pub/player/rhinobritos",
+  "url": "https://www.chess.com/member/rhinobritos",
+  "username": "rhinobritos",
+  "title": "GM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/AS",
+  "last_online": 1775490077,
+  "joined": 1651671461,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2443,
+      "date": 1724122934,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1655282710,
+      "game": "https://www.chess.com/game/live/49019321675"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3210,
+      "date": 1769357105,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3210,
+      "date": 1763173314,
+      "game": "https://www.chess.com/game/live/63736222149"
+    },
+    "record": {
+      "win": 245,
+      "loss": 83,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3028,
+      "date": 1775489991,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3086,
+      "date": 1682868579,
+      "game": "https://www.chess.com/game/live/65764889203"
+    },
+    "record": {
+      "win": 602,
+      "loss": 304,
+      "draw": 102
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1651671461
+    },
+    "lowest": {
+      "rating": 2590,
+      "date": 1651671461
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 25
+    }
+  }
+}

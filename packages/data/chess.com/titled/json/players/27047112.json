@@ -1,0 +1,86 @@
+{
+  "player_id": 27047112,
+  "@id": "https://api.chess.com/pub/player/spotbet",
+  "url": "https://www.chess.com/member/spotbet",
+  "name": "Vilmos Balint",
+  "username": "spotbet",
+  "title": "FM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1776592266,
+  "joined": 1457019338,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2049,
+      "date": 1728605023,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1657543739,
+      "game": "https://www.chess.com/game/live/51282553965"
+    },
+    "record": {
+      "win": 9,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1776489820,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1683700964,
+      "game": "https://www.chess.com/game/live/101907288017"
+    },
+    "record": {
+      "win": 673,
+      "loss": 567,
+      "draw": 57
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1776528296,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1773310234,
+      "game": "https://www.chess.com/game/live/166401804128"
+    },
+    "record": {
+      "win": 12304,
+      "loss": 11899,
+      "draw": 1470
+    }
+  },
+  "fide": 2296,
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1768561869
+    },
+    "lowest": {
+      "rating": 2135,
+      "date": 1768565140
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

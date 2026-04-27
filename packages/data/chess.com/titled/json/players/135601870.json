@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/135601870.e5a7c704.200x200o.18a3b24a972c.jpeg",
+  "player_id": 135601870,
+  "@id": "https://api.chess.com/pub/player/tobias_koelle",
+  "url": "https://www.chess.com/member/Tobias_Koelle",
+  "name": "Tobias K\u00f6lle",
+  "username": "tobias_koelle",
+  "title": "IM",
+  "followers": 328,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776595432,
+  "joined": 1618560550,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1752,
+      "date": 1734773468,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1684862945,
+      "game": "https://www.chess.com/game/daily/516912041"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 3,
+      "time_per_move": 5520,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2443,
+      "date": 1761419052,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1659361601,
+      "game": "https://www.chess.com/game/live/144727135850"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3214,
+      "date": 1776021089,
+      "rd": 31
+    },
+    "best": {
+      "rating": 3214,
+      "date": 1776020615,
+      "game": "https://www.chess.com/game/live/106513591659"
+    },
+    "record": {
+      "win": 5089,
+      "loss": 2644,
+      "draw": 543
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3201,
+      "date": 1776008539,
+      "rd": 19
+    },
+    "best": {
+      "rating": 3201,
+      "date": 1776008539,
+      "game": "https://www.chess.com/game/live/98746640929"
+    },
+    "record": {
+      "win": 1574,
+      "loss": 1427,
+      "draw": 402
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2532,
+      "date": 1618560550
+    },
+    "lowest": {
+      "rating": 2532,
+      "date": 1618560550
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

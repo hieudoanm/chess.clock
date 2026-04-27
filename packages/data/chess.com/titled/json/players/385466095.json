@@ -1,0 +1,83 @@
+{
+  "player_id": 385466095,
+  "@id": "https://api.chess.com/pub/player/gazasoul",
+  "url": "https://www.chess.com/member/GazaSoul",
+  "username": "gazasoul",
+  "title": "WFM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1775850380,
+  "joined": 1725533900,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2216,
+      "date": 1766822979,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1766822979,
+      "game": "https://www.chess.com/game/live/142986507464"
+    },
+    "record": {
+      "win": 39,
+      "loss": 18,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1767527381,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1737289130,
+      "game": "https://www.chess.com/game/live/142980013833"
+    },
+    "record": {
+      "win": 29,
+      "loss": 34,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2446,
+      "date": 1767549245,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1760965663,
+      "game": "https://www.chess.com/game/live/143692206712"
+    },
+    "record": {
+      "win": 171,
+      "loss": 153,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2175,
+      "date": 1757504897
+    },
+    "lowest": {
+      "rating": 2107,
+      "date": 1773758313
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

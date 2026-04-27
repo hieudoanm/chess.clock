@@ -1,0 +1,102 @@
+{
+  "player_id": 167336919,
+  "@id": "https://api.chess.com/pub/player/pitopitocuatro",
+  "url": "https://www.chess.com/member/PitoPitoCuatro",
+  "username": "pitopitocuatro",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/IS",
+  "last_online": 1776586523,
+  "joined": 1641166172,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1993,
+      "date": 1775377880,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1743835256,
+      "game": "https://www.chess.com/game/daily/792634761"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 2994,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2109,
+      "date": 1717493631,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1717493631,
+      "game": "https://www.chess.com/game/live/111232231403"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2425,
+      "date": 1775935164,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1770930302,
+      "game": "https://www.chess.com/game/live/117530971107"
+    },
+    "record": {
+      "win": 175,
+      "loss": 121,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2409,
+      "date": 1776586506,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1770123415,
+      "game": "https://www.chess.com/game/live/115576078227"
+    },
+    "record": {
+      "win": 1596,
+      "loss": 1247,
+      "draw": 254
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2487,
+      "date": 1767779029
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1766488377
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/103859460.c09b5a40.200x200o.a0cbe8e00fa7.jpeg",
+  "player_id": 103859460,
+  "@id": "https://api.chess.com/pub/player/laura_smith",
+  "url": "https://www.chess.com/member/Laura_Smith",
+  "name": "Laura Smith",
+  "username": "laura_smith",
+  "title": "WFM",
+  "followers": 257,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Brooklyn, NY",
+  "last_online": 1775846522,
+  "joined": 1607806145,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 857,
+      "date": 1773171530,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2018,
+      "date": 1636662740,
+      "game": "https://www.chess.com/game/daily/420128119"
+    },
+    "record": {
+      "win": 9,
+      "loss": 12,
+      "draw": 0,
+      "time_per_move": 175853,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1910,
+      "date": 1753623088,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1636483608,
+      "game": "https://www.chess.com/game/live/91505948181"
+    },
+    "record": {
+      "win": 15,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1937,
+      "date": 1650504807,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2248,
+      "date": 1619237191,
+      "game": "https://www.chess.com/game/live/12977053901"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2068,
+      "date": 1752933429,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2070,
+      "date": 1730168270,
+      "game": "https://www.chess.com/game/live/33586209969"
+    },
+    "record": {
+      "win": 68,
+      "loss": 48,
+      "draw": 5
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2219,
+      "date": 1607806145
+    },
+    "lowest": {
+      "rating": 2219,
+      "date": 1607806145
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

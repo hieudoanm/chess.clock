@@ -1,0 +1,88 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1744729.20c27d7c.200x200o.7c38609c820c.png",
+  "player_id": 1744729,
+  "@id": "https://api.chess.com/pub/player/dschwarz",
+  "url": "https://www.chess.com/member/DSchwarz",
+  "name": "Daniel Schwarz",
+  "username": "dschwarz",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Sacramento, CA",
+  "last_online": 1721788788,
+  "joined": 1233612052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2327,
+      "date": 1701956745,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1450812790,
+      "game": "https://www.chess.com/game/daily/112082944"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 57054,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1963,
+      "date": 1485066066,
+      "rd": 310
+    },
+    "best": {
+      "rating": 1963,
+      "date": 1485066066,
+      "game": "https://www.chess.com/game/live/1913490477"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2572,
+      "date": 1721789663,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1721789234,
+      "game": "https://www.chess.com/game/live/14870793711"
+    },
+    "record": {
+      "win": 181,
+      "loss": 80,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1233612052
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1233612052
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

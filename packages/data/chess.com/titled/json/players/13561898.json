@@ -1,0 +1,100 @@
+{
+  "player_id": 13561898,
+  "@id": "https://api.chess.com/pub/player/nicolai1950",
+  "url": "https://www.chess.com/member/nicolai1950",
+  "name": "Nicolai Ianocichin",
+  "username": "nicolai1950",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/MD",
+  "location": "CHISINEU",
+  "last_online": 1776179352,
+  "joined": 1379432498,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1728853041,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 156054,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1367,
+      "date": 1658081379,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1367,
+      "date": 1658081379,
+      "game": "https://www.chess.com/game/live/29017882919"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1663447602,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1663447602,
+      "game": "https://www.chess.com/game/live/57183478227"
+    },
+    "record": {
+      "win": 119,
+      "loss": 47,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2663,
+      "date": 1744606679,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1737482506,
+      "game": "https://www.chess.com/game/live/123975048719"
+    },
+    "record": {
+      "win": 704,
+      "loss": 608,
+      "draw": 85
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2445,
+      "date": 1774751763
+    },
+    "lowest": {
+      "rating": 2283,
+      "date": 1755957214
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

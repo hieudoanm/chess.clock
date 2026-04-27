@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/58960276.1a10be19.200x200o.785e288ffbaa.jpeg",
+  "player_id": 58960276,
+  "@id": "https://api.chess.com/pub/player/petrkostenko",
+  "url": "https://www.chess.com/member/petrkostenko",
+  "name": "Petr Kostenko",
+  "username": "petrkostenko",
+  "title": "GM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1732097226,
+  "joined": 1553487847,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2213,
+      "date": 1605873601,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1591262955,
+      "game": "https://www.chess.com/game/live/5782464907"
+    },
+    "record": {
+      "win": 37,
+      "loss": 12,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2390,
+      "date": 1588006852,
+      "rd": 248
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2533,
+      "date": 1732102605,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1732098143,
+      "game": "https://www.chess.com/game/live/4865157918"
+    },
+    "record": {
+      "win": 132,
+      "loss": 90,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2377,
+      "date": 1553487847
+    },
+    "lowest": {
+      "rating": 2377,
+      "date": 1553487847
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

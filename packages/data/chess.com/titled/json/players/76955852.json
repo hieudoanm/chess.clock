@@ -1,0 +1,123 @@
+{
+  "player_id": 76955852,
+  "@id": "https://api.chess.com/pub/player/bashirovkemal",
+  "url": "https://www.chess.com/member/BashirovKemal",
+  "name": "Kemal Bashirov",
+  "username": "bashirovkemal",
+  "title": "FM",
+  "followers": 113,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776503965,
+  "joined": 1587104339,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1742,
+      "date": 1696510208,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1951,
+      "date": 1588606093,
+      "game": "https://www.chess.com/game/daily/336151307"
+    },
+    "record": {
+      "win": 11,
+      "loss": 9,
+      "draw": 2,
+      "time_per_move": 16791,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1714,
+      "date": 1606589655,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1591635884,
+      "game": "https://www.chess.com/game/daily/267607392"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 16791,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2528,
+      "date": 1728463916,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1696244632,
+      "game": "https://www.chess.com/game/live/89982631881"
+    },
+    "record": {
+      "win": 172,
+      "loss": 155,
+      "draw": 56
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2610,
+      "date": 1760904389,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2613,
+      "date": 1760903780,
+      "game": "https://www.chess.com/game/live/109622422117"
+    },
+    "record": {
+      "win": 245,
+      "loss": 267,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2654,
+      "date": 1776503903,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1711382285,
+      "game": "https://www.chess.com/game/live/128802171669"
+    },
+    "record": {
+      "win": 1440,
+      "loss": 1380,
+      "draw": 291
+    }
+  },
+  "fide": 2284,
+  "tactics": {
+    "highest": {
+      "rating": 2826,
+      "date": 1774095953
+    },
+    "lowest": {
+      "rating": 2700,
+      "date": 1773995468
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

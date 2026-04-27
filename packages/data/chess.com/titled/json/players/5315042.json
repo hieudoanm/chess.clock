@@ -1,0 +1,103 @@
+{
+  "player_id": 5315042,
+  "@id": "https://api.chess.com/pub/player/vegan4animals",
+  "url": "https://www.chess.com/member/vegan4animals",
+  "username": "vegan4animals",
+  "title": "NM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Brampton, Ontario",
+  "last_online": 1776533821,
+  "joined": 1308686756,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1768,
+      "date": 1746025517,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1923,
+      "date": 1381050898,
+      "game": "https://www.chess.com/game/daily/89330210"
+    },
+    "record": {
+      "win": 250,
+      "loss": 52,
+      "draw": 20,
+      "time_per_move": 26094,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1776471687,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1700182875,
+      "game": "https://www.chess.com/game/live/66609044601"
+    },
+    "record": {
+      "win": 51,
+      "loss": 35,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2408,
+      "date": 1775268278,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1714600824,
+      "game": "https://www.chess.com/game/live/142338076908"
+    },
+    "record": {
+      "win": 2104,
+      "loss": 2344,
+      "draw": 355
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1776533810,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1775550883,
+      "game": "https://www.chess.com/game/live/75245514585"
+    },
+    "record": {
+      "win": 25840,
+      "loss": 28665,
+      "draw": 5150
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2219,
+      "date": 1760549763
+    },
+    "lowest": {
+      "rating": 2048,
+      "date": 1755974610
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

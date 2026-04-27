@@ -1,0 +1,103 @@
+{
+  "player_id": 59287592,
+  "@id": "https://api.chess.com/pub/player/davor_rogic",
+  "url": "https://www.chess.com/member/Davor_Rogic",
+  "name": "Davor Rogic",
+  "username": "davor_rogic",
+  "title": "GM",
+  "followers": 147,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776548115,
+  "joined": 1554157564,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2011,
+      "date": 1699608400,
+      "rd": 338
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1674538254,
+      "game": "https://www.chess.com/game/daily/466050125"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7794,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1478,
+      "date": 1770911532,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1615827222,
+      "game": "https://www.chess.com/game/live/141540498334"
+    },
+    "record": {
+      "win": 14,
+      "loss": 4,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2086,
+      "date": 1730199658,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1707890069,
+      "game": "https://www.chess.com/game/live/6542310416"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2333,
+      "date": 1775664148,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1662237218,
+      "game": "https://www.chess.com/game/live/3981289822"
+    },
+    "record": {
+      "win": 115,
+      "loss": 80,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2540,
+      "date": 1757566938
+    },
+    "lowest": {
+      "rating": 2220,
+      "date": 1768774592
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

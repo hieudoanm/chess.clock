@@ -1,0 +1,67 @@
+{
+  "player_id": 78528106,
+  "@id": "https://api.chess.com/pub/player/scriabin",
+  "url": "https://www.chess.com/member/scriabin",
+  "username": "scriabin",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776569242,
+  "joined": 1588553858,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1989,
+      "date": 1776569228,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1668607648,
+      "game": "https://www.chess.com/game/live/62346576907"
+    },
+    "record": {
+      "win": 810,
+      "loss": 586,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2192,
+      "date": 1772036277,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1589166589,
+      "game": "https://www.chess.com/game/live/123477581371"
+    },
+    "record": {
+      "win": 1337,
+      "loss": 1020,
+      "draw": 395
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2419,
+      "date": 1588553858
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1588553858
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

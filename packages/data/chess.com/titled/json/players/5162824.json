@@ -1,0 +1,83 @@
+{
+  "player_id": 5162824,
+  "@id": "https://api.chess.com/pub/player/mrmatt2011",
+  "url": "https://www.chess.com/member/mrmatt2011",
+  "name": "Matt Mahowald",
+  "username": "mrmatt2011",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Port Angeles, WA",
+  "last_online": 1776593540,
+  "joined": 1306116878,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2042,
+      "date": 1754863138,
+      "rd": 277
+    },
+    "best": {
+      "rating": 2042,
+      "date": 1754863138,
+      "game": "https://www.chess.com/game/daily/72564718"
+    },
+    "record": {
+      "win": 21,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4345,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1613775585,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1613775585,
+      "game": "https://www.chess.com/game/live/7513910339"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1937,
+      "date": 1699133534,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1699132023,
+      "game": "https://www.chess.com/game/live/3015507511"
+    },
+    "record": {
+      "win": 45,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "fide": 2171,
+  "tactics": {
+    "highest": {
+      "rating": 2686,
+      "date": 1770484901
+    },
+    "lowest": {
+      "rating": 2140,
+      "date": 1755616086
+    }
+  },
+  "puzzle_rush": {}
+}

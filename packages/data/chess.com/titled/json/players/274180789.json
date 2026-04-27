@@ -1,0 +1,84 @@
+{
+  "player_id": 274180789,
+  "@id": "https://api.chess.com/pub/player/mihajlovskij",
+  "url": "https://www.chess.com/member/Mihajlovskij",
+  "name": "Sergei Mihajlovskij",
+  "username": "mihajlovskij",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776002544,
+  "joined": 1681311078,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2102,
+      "date": 1747645046,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1747645046,
+      "game": "https://www.chess.com/game/live/138620846292"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2495,
+      "date": 1771699113,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2684,
+      "date": 1734033814,
+      "game": "https://www.chess.com/game/live/122492073013"
+    },
+    "record": {
+      "win": 505,
+      "loss": 571,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2572,
+      "date": 1776002516,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1770537961,
+      "game": "https://www.chess.com/game/live/129490478869"
+    },
+    "record": {
+      "win": 929,
+      "loss": 1067,
+      "draw": 157
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2486,
+      "date": 1767732997
+    },
+    "lowest": {
+      "rating": 2225,
+      "date": 1769714187
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

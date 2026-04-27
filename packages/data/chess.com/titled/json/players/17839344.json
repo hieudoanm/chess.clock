@@ -1,0 +1,72 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17839344.36a71d36.200x200o.04f6df7fdd56.jpg",
+  "player_id": 17839344,
+  "@id": "https://api.chess.com/pub/player/prochn",
+  "url": "https://www.chess.com/member/prochn",
+  "name": "Robert Krzesaj",
+  "username": "prochn",
+  "title": "FM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Shanghai",
+  "last_online": 1776554074,
+  "joined": 1403801669,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2351,
+      "date": 1707848626,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1523188576,
+      "game": "https://www.chess.com/game/daily/106516042"
+    },
+    "record": {
+      "win": 83,
+      "loss": 13,
+      "draw": 39,
+      "time_per_move": 64068,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2551,
+      "date": 1750781898,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1750173588,
+      "game": "https://www.chess.com/game/live/144485974909"
+    },
+    "record": {
+      "win": 240,
+      "loss": 171,
+      "draw": 35
+    }
+  },
+  "fide": 2391,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1403801669
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1403801669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "player_id": 2871713,
+  "@id": "https://api.chess.com/pub/player/onelastbreath",
+  "url": "https://www.chess.com/member/OneLastBreath",
+  "name": "Jonathan Rosenthal",
+  "username": "onelastbreath",
+  "title": "FM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/CH",
+  "location": "Zurich",
+  "last_online": 1775851424,
+  "joined": 1275170472,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2095,
+      "date": 1702940267,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2095,
+      "date": 1315053694,
+      "game": "https://www.chess.com/game/daily/44629949"
+    },
+    "record": {
+      "win": 27,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32043,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1808,
+      "date": 1319328847,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1808,
+      "date": 1319328846,
+      "game": "https://www.chess.com/game/daily/47032778"
+    },
+    "record": {
+      "win": 16,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32043,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2365,
+      "date": 1666211812,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1611798830,
+      "game": "https://www.chess.com/game/live/6369283092"
+    },
+    "record": {
+      "win": 37,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2406,
+      "date": 1611803542,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1611800316,
+      "game": "https://www.chess.com/game/live/146725097"
+    },
+    "record": {
+      "win": 483,
+      "loss": 312,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2366,
+      "date": 1736886054,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1700593399,
+      "game": "https://www.chess.com/game/live/130623110733"
+    },
+    "record": {
+      "win": 850,
+      "loss": 612,
+      "draw": 87
+    }
+  },
+  "fide": 2335,
+  "tactics": {
+    "highest": {
+      "rating": 2537,
+      "date": 1275170472
+    },
+    "lowest": {
+      "rating": 2537,
+      "date": 1275170472
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

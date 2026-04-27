@@ -1,0 +1,84 @@
+{
+  "player_id": 23552448,
+  "@id": "https://api.chess.com/pub/player/morralover",
+  "url": "https://www.chess.com/member/morralover",
+  "username": "morralover",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Vienna",
+  "last_online": 1776589505,
+  "joined": 1438844240,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1735560639,
+      "rd": 308
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1735560563,
+      "game": "https://www.chess.com/game/live/54565112395"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2294,
+      "date": 1752322337,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2429,
+      "date": 1711840536,
+      "game": "https://www.chess.com/game/live/133130929853"
+    },
+    "record": {
+      "win": 336,
+      "loss": 265,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2469,
+      "date": 1751822746,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1661891599,
+      "game": "https://www.chess.com/game/live/131319582943"
+    },
+    "record": {
+      "win": 783,
+      "loss": 629,
+      "draw": 124
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2194,
+      "date": 1438844240
+    },
+    "lowest": {
+      "rating": 2194,
+      "date": 1438844240
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

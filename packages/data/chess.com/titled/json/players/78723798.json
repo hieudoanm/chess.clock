@@ -1,0 +1,82 @@
+{
+  "player_id": 78723798,
+  "@id": "https://api.chess.com/pub/player/1nf3_fan",
+  "url": "https://www.chess.com/member/1Nf3_fan",
+  "name": "\u0141ukasz Bardeli",
+  "username": "1nf3_fan",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Gniezno",
+  "last_online": 1776511810,
+  "joined": 1588757280,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2080,
+      "date": 1775730428,
+      "rd": 224
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1684421118,
+      "game": "https://www.chess.com/game/daily/426328313"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 102140,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2066,
+      "date": 1688331298,
+      "rd": 259
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2225,
+      "date": 1776511247,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1627147423,
+      "game": "https://www.chess.com/game/live/166071767164"
+    },
+    "record": {
+      "win": 1406,
+      "loss": 1002,
+      "draw": 186
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2301,
+      "date": 1757336492
+    },
+    "lowest": {
+      "rating": 1982,
+      "date": 1768247064
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

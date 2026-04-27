@@ -1,0 +1,82 @@
+{
+  "player_id": 74729542,
+  "@id": "https://api.chess.com/pub/player/rodgaard1",
+  "url": "https://www.chess.com/member/Rodgaard1",
+  "name": "John R\u00f8dgaard",
+  "username": "rodgaard1",
+  "title": "IM",
+  "followers": 97,
+  "country": "https://api.chess.com/pub/country/DK",
+  "location": "Esbjerg",
+  "last_online": 1701894557,
+  "joined": 1585338791,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1680,
+      "date": 1663256409,
+      "rd": 295
+    },
+    "best": {
+      "rating": 1680,
+      "date": 1663256409,
+      "game": "https://www.chess.com/game/daily/425735383"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 173805,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2605,
+      "date": 1699743208,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2614,
+      "date": 1699738901,
+      "game": "https://www.chess.com/game/live/59610074455"
+    },
+    "record": {
+      "win": 2166,
+      "loss": 638,
+      "draw": 429
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2459,
+      "date": 1701896671,
+      "rd": 17
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1694256042,
+      "game": "https://www.chess.com/game/live/77200948921"
+    },
+    "record": {
+      "win": 2695,
+      "loss": 1572,
+      "draw": 680
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1585338791
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1585338791
+    }
+  },
+  "puzzle_rush": {}
+}

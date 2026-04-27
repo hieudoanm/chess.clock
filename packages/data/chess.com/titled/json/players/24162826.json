@@ -1,0 +1,86 @@
+{
+  "player_id": 24162826,
+  "@id": "https://api.chess.com/pub/player/vrml20",
+  "url": "https://www.chess.com/member/VRML20",
+  "name": "Asuka Nakamura",
+  "username": "vrml20",
+  "title": "NM",
+  "followers": 174,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York, NY",
+  "last_online": 1776544971,
+  "joined": 1442540302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2129,
+      "date": 1776388863,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1776386670,
+      "game": "https://www.chess.com/game/live/167415479812"
+    },
+    "record": {
+      "win": 15,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2725,
+      "date": 1776395585,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2852,
+      "date": 1762648253,
+      "game": "https://www.chess.com/game/live/81291813231"
+    },
+    "record": {
+      "win": 6380,
+      "loss": 5555,
+      "draw": 1232
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2690,
+      "date": 1776544920,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1750989349,
+      "game": "https://www.chess.com/game/live/87436915495"
+    },
+    "record": {
+      "win": 2488,
+      "loss": 2715,
+      "draw": 949
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1442540302
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1442540302
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

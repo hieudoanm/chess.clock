@@ -1,0 +1,67 @@
+{
+    "player_id": 448295740,
+    "@id": "https://api.chess.com/pub/player/ixcii",
+    "url": "https://www.chess.com/member/ixcii",
+    "username": "ixcii",
+    "title": "FM",
+    "followers": 18,
+    "country": "https://api.chess.com/pub/country/PH",
+    "last_online": 1763746624,
+    "joined": 1745939204,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 3002,
+            "date": 1763730721,
+            "rd": 35
+        },
+        "best": {
+            "rating": 3125,
+            "date": 1761241133,
+            "game": "https://www.chess.com/game/live/143645821422"
+        },
+        "record": {
+            "win": 843,
+            "loss": 820,
+            "draw": 61
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2916,
+            "date": 1763725073,
+            "rd": 21
+        },
+        "best": {
+            "rating": 3062,
+            "date": 1759300459,
+            "game": "https://www.chess.com/game/live/143352620286"
+        },
+        "record": {
+            "win": 1134,
+            "loss": 1279,
+            "draw": 179
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 2531,
+            "date": 1759246713
+        },
+        "lowest": {
+            "rating": 2423,
+            "date": 1760723647
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

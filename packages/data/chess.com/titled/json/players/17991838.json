@@ -1,0 +1,65 @@
+{
+  "player_id": 17991838,
+  "@id": "https://api.chess.com/pub/player/coachneil",
+  "url": "https://www.chess.com/member/coachneil",
+  "name": "neil salmon",
+  "username": "coachneil",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "tacoma",
+  "last_online": 1543754619,
+  "joined": 1404828762,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1591,
+      "date": 1708275665,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1591,
+      "date": 1413253927,
+      "game": "https://www.chess.com/game/daily/95522230"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 54917,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1825,
+      "date": 1431881257,
+      "rd": 60
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1431651834,
+      "game": "https://www.chess.com/game/live/1151906070"
+    },
+    "record": {
+      "win": 26,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1404828762
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1404828762
+    }
+  },
+  "puzzle_rush": {}
+}

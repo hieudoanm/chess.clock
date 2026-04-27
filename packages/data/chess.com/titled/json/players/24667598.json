@@ -1,0 +1,121 @@
+{
+  "player_id": 24667598,
+  "@id": "https://api.chess.com/pub/player/passy234",
+  "url": "https://www.chess.com/member/passy234",
+  "name": "Pascal Neukirchner",
+  "username": "passy234",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1619494864,
+  "joined": 1445352892,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2378,
+      "date": 1729585717,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1610032116,
+      "game": "https://www.chess.com/game/daily/288607184"
+    },
+    "record": {
+      "win": 3462,
+      "loss": 2777,
+      "draw": 1571,
+      "time_per_move": 10450,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1781,
+      "date": 1491835328,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1930,
+      "date": 1490713430,
+      "game": "https://www.chess.com/game/daily/161145472"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 10450,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2145,
+      "date": 1505343826,
+      "rd": 230
+    },
+    "best": {
+      "rating": 2145,
+      "date": 1505343826,
+      "game": "https://www.chess.com/game/live/2311997250"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2402,
+      "date": 1606319271,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1606319271,
+      "game": "https://www.chess.com/game/live/2628829004"
+    },
+    "record": {
+      "win": 336,
+      "loss": 296,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1618831220,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1618831220,
+      "game": "https://www.chess.com/game/live/3515467495"
+    },
+    "record": {
+      "win": 1630,
+      "loss": 1368,
+      "draw": 227
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2519,
+      "date": 1445352892
+    },
+    "lowest": {
+      "rating": 2519,
+      "date": 1445352892
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

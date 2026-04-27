@@ -1,0 +1,85 @@
+{
+  "player_id": 16610034,
+  "@id": "https://api.chess.com/pub/player/alex1531",
+  "url": "https://www.chess.com/member/alex1531",
+  "name": "Alexandru Calin",
+  "username": "alex1531",
+  "title": "FM",
+  "followers": 78,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776596480,
+  "joined": 1395755655,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2162,
+      "date": 1771601561,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1588085276,
+      "game": "https://www.chess.com/game/live/98909190981"
+    },
+    "record": {
+      "win": 58,
+      "loss": 9,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2583,
+      "date": 1742134181,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2621,
+      "date": 1709129087,
+      "game": "https://www.chess.com/game/live/88857139085"
+    },
+    "record": {
+      "win": 548,
+      "loss": 384,
+      "draw": 82
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1751659145,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1614715152,
+      "game": "https://www.chess.com/game/live/131818854349"
+    },
+    "record": {
+      "win": 426,
+      "loss": 365,
+      "draw": 74
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2451,
+      "date": 1395755655
+    },
+    "lowest": {
+      "rating": 2451,
+      "date": 1395755655
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

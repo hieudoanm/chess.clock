@@ -1,0 +1,122 @@
+{
+  "player_id": 61448772,
+  "@id": "https://api.chess.com/pub/player/practical-play",
+  "url": "https://www.chess.com/member/Practical-Play",
+  "name": "Stephen Willy",
+  "username": "practical-play",
+  "title": "CM",
+  "followers": 285,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1713286140,
+  "joined": 1558843460,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1603,
+      "date": 1774449505,
+      "rd": 40
+    },
+    "best": {
+      "rating": 1849,
+      "date": 1691720538,
+      "game": "https://www.chess.com/game/daily/358987363"
+    },
+    "record": {
+      "win": 1083,
+      "loss": 965,
+      "draw": 38,
+      "time_per_move": 78551,
+      "timeout_percent": 100
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1527,
+      "date": 1743076475,
+      "rd": 48
+    },
+    "best": {
+      "rating": 1658,
+      "date": 1569043909,
+      "game": "https://www.chess.com/game/daily/237155052"
+    },
+    "record": {
+      "win": 97,
+      "loss": 81,
+      "draw": 6,
+      "time_per_move": 78551,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2485,
+      "date": 1712882041,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1708379476,
+      "game": "https://www.chess.com/game/live/57562020915"
+    },
+    "record": {
+      "win": 1653,
+      "loss": 1163,
+      "draw": 222
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1042,
+      "date": 1713869118,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2881,
+      "date": 1712037656,
+      "game": "https://www.chess.com/game/live/105775836633"
+    },
+    "record": {
+      "win": 3593,
+      "loss": 3578,
+      "draw": 252
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2557,
+      "date": 1713868821,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1712878009,
+      "game": "https://www.chess.com/game/live/81107528547"
+    },
+    "record": {
+      "win": 5968,
+      "loss": 4119,
+      "draw": 438
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2878,
+      "date": 1558843460
+    },
+    "lowest": {
+      "rating": 2878,
+      "date": 1558843460
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

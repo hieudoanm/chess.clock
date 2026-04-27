@@ -1,0 +1,97 @@
+{
+  "player_id": 66470910,
+  "@id": "https://api.chess.com/pub/player/champion0403",
+  "url": "https://www.chess.com/member/champion0403",
+  "username": "champion0403",
+  "title": "WFM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1775995683,
+  "joined": 1570633943,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1759235763,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1760,
+      "date": 1680672521,
+      "rd": 132
+    },
+    "best": {
+      "rating": 1760,
+      "date": 1680670628,
+      "game": "https://www.chess.com/game/live/5869660841"
+    },
+    "record": {
+      "win": 340,
+      "loss": 266,
+      "draw": 45
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2293,
+      "date": 1774621648,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2310,
+      "date": 1774621482,
+      "game": "https://www.chess.com/game/live/166503124148"
+    },
+    "record": {
+      "win": 71,
+      "loss": 30,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2564,
+      "date": 1764264284,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2587,
+      "date": 1759251822,
+      "game": "https://www.chess.com/game/live/153564997993"
+    },
+    "record": {
+      "win": 202,
+      "loss": 155,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2083,
+      "date": 1764406384
+    },
+    "lowest": {
+      "rating": 1948,
+      "date": 1759501219
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

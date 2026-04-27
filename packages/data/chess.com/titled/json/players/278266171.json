@@ -1,0 +1,104 @@
+{
+  "player_id": 278266171,
+  "@id": "https://api.chess.com/pub/player/laplatinum",
+  "url": "https://www.chess.com/member/LAPLATINUM",
+  "name": "Rafael",
+  "username": "laplatinum",
+  "title": "FM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776338319,
+  "joined": 1682213179,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1059,
+      "date": 1720687019,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1631,
+      "date": 1687850235,
+      "game": "https://www.chess.com/game/daily/533973301"
+    },
+    "record": {
+      "win": 2,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 4201,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2076,
+      "date": 1687853326,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1682978385,
+      "game": "https://www.chess.com/game/live/77170284921"
+    },
+    "record": {
+      "win": 32,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2245,
+      "date": 1687909830,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1684031664,
+      "game": "https://www.chess.com/game/live/77770364913"
+    },
+    "record": {
+      "win": 41,
+      "loss": 25,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2908,
+      "date": 1687941443,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2945,
+      "date": 1687889903,
+      "game": "https://www.chess.com/game/live/81628584875"
+    },
+    "record": {
+      "win": 210,
+      "loss": 125,
+      "draw": 38
+    }
+  },
+  "fide": 2336,
+  "tactics": {
+    "highest": {
+      "rating": 2431,
+      "date": 1682213179
+    },
+    "lowest": {
+      "rating": 2431,
+      "date": 1682213179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 86,
+      "score": 83
+    }
+  }
+}

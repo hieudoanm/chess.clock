@@ -1,0 +1,104 @@
+{
+  "player_id": 40634630,
+  "@id": "https://api.chess.com/pub/player/hikeman2017",
+  "url": "https://www.chess.com/member/hikeman2017",
+  "name": "Heiko Zschiedrich",
+  "username": "hikeman2017",
+  "title": "CM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1775822085,
+  "joined": 1511381607,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1300,
+      "date": 1733145485,
+      "rd": 286
+    },
+    "best": {
+      "rating": 1400,
+      "date": 1511381607,
+      "game": "https://www.chess.com/game/daily/340031649"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 18902,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2368,
+      "date": 1697753658,
+      "rd": 270
+    },
+    "best": {
+      "rating": 2368,
+      "date": 1697753658,
+      "game": "https://www.chess.com/game/live/91491548043"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1441,
+      "date": 1546011611,
+      "rd": 237
+    },
+    "best": {
+      "rating": 1327,
+      "date": 1535023511,
+      "game": "https://www.chess.com/game/live/3025389255"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2312,
+      "date": 1773960042,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1655811887,
+      "game": "https://www.chess.com/game/live/17761303143"
+    },
+    "record": {
+      "win": 12763,
+      "loss": 11617,
+      "draw": 1357
+    }
+  },
+  "fide": 2106,
+  "tactics": {
+    "highest": {
+      "rating": 2330,
+      "date": 1511381607
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1511381607
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

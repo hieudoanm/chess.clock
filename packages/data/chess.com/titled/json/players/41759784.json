@@ -1,0 +1,104 @@
+{
+  "player_id": 41759784,
+  "@id": "https://api.chess.com/pub/player/krebs57",
+  "url": "https://www.chess.com/member/krebs57",
+  "name": "Martin Rak",
+  "username": "krebs57",
+  "title": "CM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1776518455,
+  "joined": 1514458555,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1264,
+      "date": 1775815907,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1298,
+      "date": 1671191323,
+      "game": "https://www.chess.com/game/daily/934478255"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 62241,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2174,
+      "date": 1776435399,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1769897114,
+      "game": "https://www.chess.com/game/live/132339705095"
+    },
+    "record": {
+      "win": 495,
+      "loss": 334,
+      "draw": 31
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2260,
+      "date": 1776518455,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1768252592,
+      "game": "https://www.chess.com/game/live/147969544824"
+    },
+    "record": {
+      "win": 1422,
+      "loss": 1169,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2121,
+      "date": 1776507318,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1775990740,
+      "game": "https://www.chess.com/game/live/166408919220"
+    },
+    "record": {
+      "win": 509,
+      "loss": 388,
+      "draw": 40
+    }
+  },
+  "fide": 2101,
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1759176171
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1770538394
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

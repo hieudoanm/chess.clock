@@ -1,0 +1,99 @@
+{
+  "player_id": 201072547,
+  "@id": "https://api.chess.com/pub/player/tomoe_nage",
+  "url": "https://www.chess.com/member/Tomoe_nage",
+  "name": "Nicholas Bruha",
+  "username": "tomoe_nage",
+  "title": "NM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776566047,
+  "joined": 1665410957,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1776359638,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 959794,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2714,
+      "date": 1763345915,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1693251541,
+      "game": "https://www.chess.com/game/live/86989889529"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2211,
+      "date": 1775665192,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1737129121,
+      "game": "https://www.chess.com/game/live/143561771850"
+    },
+    "record": {
+      "win": 63,
+      "loss": 62,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2554,
+      "date": 1776555936,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1774466642,
+      "game": "https://www.chess.com/game/live/144070805502"
+    },
+    "record": {
+      "win": 2972,
+      "loss": 3182,
+      "draw": 421
+    }
+  },
+  "fide": 1942,
+  "tactics": {
+    "highest": {
+      "rating": 2305,
+      "date": 1769832115
+    },
+    "lowest": {
+      "rating": 2201,
+      "date": 1772512221
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

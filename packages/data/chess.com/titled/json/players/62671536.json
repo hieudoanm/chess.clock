@@ -1,0 +1,68 @@
+{
+  "player_id": 62671536,
+  "@id": "https://api.chess.com/pub/player/jacques_gyllenhaal",
+  "url": "https://www.chess.com/member/jacques_gyllenhaal",
+  "name": "Jacques Netzer",
+  "username": "jacques_gyllenhaal",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1743408865,
+  "joined": 1561473717,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2066,
+      "date": 1676980017,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1577400718,
+      "game": "https://www.chess.com/game/live/4340295943"
+    },
+    "record": {
+      "win": 78,
+      "loss": 88,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2196,
+      "date": 1700605222,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1625960187,
+      "game": "https://www.chess.com/game/live/20000363735"
+    },
+    "record": {
+      "win": 3956,
+      "loss": 3613,
+      "draw": 466
+    }
+  },
+  "fide": 2261,
+  "tactics": {
+    "highest": {
+      "rating": 2308,
+      "date": 1561473717
+    },
+    "lowest": {
+      "rating": 2308,
+      "date": 1561473717
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

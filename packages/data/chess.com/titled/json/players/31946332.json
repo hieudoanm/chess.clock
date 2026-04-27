@@ -1,0 +1,85 @@
+{
+  "player_id": 31946332,
+  "@id": "https://api.chess.com/pub/player/hellborgfm",
+  "url": "https://www.chess.com/member/HellborgFM",
+  "name": "Teodor Moreau",
+  "username": "hellborgfm",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776194104,
+  "joined": 1482927948,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2480,
+      "date": 1662128471,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1662128471,
+      "game": "https://www.chess.com/game/live/54936975089"
+    },
+    "record": {
+      "win": 84,
+      "loss": 75,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2663,
+      "date": 1730670642,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1730660881,
+      "game": "https://www.chess.com/game/live/124406369995"
+    },
+    "record": {
+      "win": 282,
+      "loss": 271,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1727642955,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2608,
+      "date": 1709828111,
+      "game": "https://www.chess.com/game/live/4484294152"
+    },
+    "record": {
+      "win": 2449,
+      "loss": 2557,
+      "draw": 243
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2502,
+      "date": 1763740037
+    },
+    "lowest": {
+      "rating": 2305,
+      "date": 1763741870
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 24
+    }
+  }
+}

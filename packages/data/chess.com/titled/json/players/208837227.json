@@ -1,0 +1,84 @@
+{
+  "player_id": 208837227,
+  "@id": "https://api.chess.com/pub/player/hsh1987",
+  "url": "https://www.chess.com/member/HSH1987",
+  "name": "Henry Soto Hernandez",
+  "username": "hsh1987",
+  "title": "IM",
+  "followers": 594,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776562846,
+  "joined": 1669517978,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2302,
+      "date": 1700511693,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2760,
+      "date": 1694178109,
+      "game": "https://www.chess.com/game/live/88009213989"
+    },
+    "record": {
+      "win": 42,
+      "loss": 7,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2857,
+      "date": 1773274545,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2857,
+      "date": 1773274545,
+      "game": "https://www.chess.com/game/live/116784596573"
+    },
+    "record": {
+      "win": 1290,
+      "loss": 1150,
+      "draw": 219
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2807,
+      "date": 1776562676,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2943,
+      "date": 1769263776,
+      "game": "https://www.chess.com/game/live/82300891701"
+    },
+    "record": {
+      "win": 4443,
+      "loss": 3672,
+      "draw": 1098
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1760664154
+    },
+    "lowest": {
+      "rating": 2341,
+      "date": 1774920160
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

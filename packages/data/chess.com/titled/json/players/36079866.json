@@ -1,0 +1,67 @@
+{
+  "player_id": 36079866,
+  "@id": "https://api.chess.com/pub/player/alexey_potapov",
+  "url": "https://www.chess.com/member/Alexey_Potapov",
+  "name": "Alexey Potapov",
+  "username": "alexey_potapov",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1551787698,
+  "joined": 1496675436,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2461,
+      "date": 1539355481,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1497267106,
+      "game": "https://www.chess.com/game/live/2146558101"
+    },
+    "record": {
+      "win": 18,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2739,
+      "date": 1551825219,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2752,
+      "date": 1551824750,
+      "game": "https://www.chess.com/game/live/3510888488"
+    },
+    "record": {
+      "win": 76,
+      "loss": 32,
+      "draw": 10
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1496675436
+    },
+    "lowest": {
+      "rating": 2471,
+      "date": 1496675436
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 42
+    }
+  }
+}

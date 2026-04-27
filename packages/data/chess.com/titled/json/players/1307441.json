@@ -1,0 +1,104 @@
+{
+  "player_id": 1307441,
+  "@id": "https://api.chess.com/pub/player/mthaler",
+  "url": "https://www.chess.com/member/mthaler",
+  "name": "Michael Thaler",
+  "username": "mthaler",
+  "title": "NM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776272467,
+  "joined": 1204131741,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2184,
+      "date": 1733923637,
+      "rd": 323
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1231353366,
+      "game": "https://www.chess.com/game/daily/12571790"
+    },
+    "record": {
+      "win": 72,
+      "loss": 13,
+      "draw": 13,
+      "time_per_move": 35625,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2121,
+      "date": 1733659131,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1733655468,
+      "game": "https://www.chess.com/game/live/127342837001"
+    },
+    "record": {
+      "win": 34,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2183,
+      "date": 1734457915,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2273,
+      "date": 1707481489,
+      "game": "https://www.chess.com/game/live/101992556019"
+    },
+    "record": {
+      "win": 53,
+      "loss": 27,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2332,
+      "date": 1733875540,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1733874968,
+      "game": "https://www.chess.com/game/live/127613412265"
+    },
+    "record": {
+      "win": 39,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "fide": 2326,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1204131741
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1204131741
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

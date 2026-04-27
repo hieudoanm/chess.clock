@@ -1,0 +1,103 @@
+{
+  "player_id": 43744778,
+  "@id": "https://api.chess.com/pub/player/g_halldorsson",
+  "url": "https://www.chess.com/member/G_Halldorsson",
+  "name": "Gu\u00f0mundur Halld\u00f3rsson",
+  "username": "g_halldorsson",
+  "title": "CM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/IS",
+  "last_online": 1776172281,
+  "joined": 1519685654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1933,
+      "date": 1764368606,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1933,
+      "date": 1586113365,
+      "game": "https://www.chess.com/game/daily/257098774"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13237,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2317,
+      "date": 1686318215,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1655388329,
+      "game": "https://www.chess.com/game/live/48442248749"
+    },
+    "record": {
+      "win": 1114,
+      "loss": 987,
+      "draw": 210
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2092,
+      "date": 1764368606,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2190,
+      "date": 1713048183,
+      "game": "https://www.chess.com/game/live/49735213253"
+    },
+    "record": {
+      "win": 571,
+      "loss": 480,
+      "draw": 64
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2399,
+      "date": 1766765781,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2454,
+      "date": 1655241002,
+      "game": "https://www.chess.com/game/live/145920479014"
+    },
+    "record": {
+      "win": 10716,
+      "loss": 10078,
+      "draw": 1247
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2211,
+      "date": 1764877999
+    },
+    "lowest": {
+      "rating": 2061,
+      "date": 1769469621
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

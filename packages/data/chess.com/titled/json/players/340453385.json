@@ -1,0 +1,83 @@
+{
+  "player_id": 340453385,
+  "@id": "https://api.chess.com/pub/player/blackgreatking",
+  "url": "https://www.chess.com/member/blackgreatking",
+  "username": "blackgreatking",
+  "title": "CM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776596273,
+  "joined": 1705906257,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2188,
+      "date": 1776162134,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2226,
+      "date": 1752138789,
+      "game": "https://www.chess.com/game/live/139982319908"
+    },
+    "record": {
+      "win": 563,
+      "loss": 425,
+      "draw": 59
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1848,
+      "date": 1776592364,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2058,
+      "date": 1748676910,
+      "game": "https://www.chess.com/game/live/167461424058"
+    },
+    "record": {
+      "win": 10,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1926,
+      "date": 1776592565,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2091,
+      "date": 1747996160,
+      "game": "https://www.chess.com/game/live/140451683480"
+    },
+    "record": {
+      "win": 363,
+      "loss": 291,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1957,
+      "date": 1774422891
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1774420407
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

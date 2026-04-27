@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32521424.940a4dfb.200x200o.76e464f28666.jpeg",
+  "player_id": 32521424,
+  "@id": "https://api.chess.com/pub/player/amurath",
+  "url": "https://www.chess.com/member/Amurath",
+  "name": "Thomas Wessendorf",
+  "username": "amurath",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Essen",
+  "last_online": 1776558037,
+  "joined": 1484860982,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1474,
+      "date": 1667292698,
+      "rd": 299
+    },
+    "best": {
+      "rating": 1474,
+      "date": 1549231537,
+      "game": "https://www.chess.com/game/daily/214795648"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 16921,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2297,
+      "date": 1756498992,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2298,
+      "date": 1736548965,
+      "game": "https://www.chess.com/game/live/122397861957"
+    },
+    "record": {
+      "win": 33,
+      "loss": 13,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1963,
+      "date": 1756840012,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1641057678,
+      "game": "https://www.chess.com/game/live/34796453401"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2242,
+      "date": 1772918759,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1703796974,
+      "game": "https://www.chess.com/game/live/61055934375"
+    },
+    "record": {
+      "win": 591,
+      "loss": 481,
+      "draw": 66
+    }
+  },
+  "fide": 2263,
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1760904834
+    },
+    "lowest": {
+      "rating": 2111,
+      "date": 1771521414
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "player_id": 13666636,
+  "@id": "https://api.chess.com/pub/player/fda-2010",
+  "url": "https://www.chess.com/member/FDA-2010",
+  "name": "Jeff Kelleher",
+  "username": "fda-2010",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Cleveland, OH",
+  "last_online": 1776512416,
+  "joined": 1380158830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1472,
+      "date": 1729903202,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1380158830,
+      "game": "https://www.chess.com/game/daily/160413438"
+    },
+    "record": {
+      "win": 16,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 12628,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1554343782,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1416622699,
+      "game": "https://www.chess.com/game/live/945132914"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1811,
+      "date": 1775926213,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1587340003,
+      "game": "https://www.chess.com/game/live/4727076099"
+    },
+    "record": {
+      "win": 1550,
+      "loss": 1154,
+      "draw": 276
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2561,
+      "date": 1776385188
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1755647580
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 40
+    }
+  }
+}

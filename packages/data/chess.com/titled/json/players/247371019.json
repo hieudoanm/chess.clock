@@ -1,0 +1,67 @@
+{
+    "player_id": 247371019,
+    "@id": "https://api.chess.com/pub/player/beststelker",
+    "url": "https://www.chess.com/member/BestStelker",
+    "name": "Filip Haring",
+    "username": "beststelker",
+    "title": "IM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/SK",
+    "last_online": 1741634615,
+    "joined": 1676574135,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2857,
+            "date": 1738945267,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2857,
+            "date": 1738945267,
+            "game": "https://www.chess.com/game/live/96201895887"
+        },
+        "record": {
+            "win": 1065,
+            "loss": 597,
+            "draw": 114
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2765,
+            "date": 1738930245,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2853,
+            "date": 1679216598,
+            "game": "https://www.chess.com/game/live/96142458349"
+        },
+        "record": {
+            "win": 353,
+            "loss": 229,
+            "draw": 65
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3827,
+            "date": 1738939327
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1676574135
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 78,
+            "score": 75
+        }
+    }
+}

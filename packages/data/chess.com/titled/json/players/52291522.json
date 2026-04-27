@@ -1,0 +1,103 @@
+{
+  "player_id": 52291522,
+  "@id": "https://api.chess.com/pub/player/mackster23",
+  "url": "https://www.chess.com/member/Mackster23",
+  "name": "Eelke De Boer",
+  "username": "mackster23",
+  "title": "IM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776239956,
+  "joined": 1543087907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1728572969,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1709664878,
+      "game": "https://www.chess.com/game/daily/625541943"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 14972,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2435,
+      "date": 1692566087,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2524,
+      "date": 1675889098,
+      "game": "https://www.chess.com/game/live/80509828193"
+    },
+    "record": {
+      "win": 12,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2820,
+      "date": 1748552139,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2870,
+      "date": 1714650009,
+      "game": "https://www.chess.com/game/live/123093034031"
+    },
+    "record": {
+      "win": 3454,
+      "loss": 3375,
+      "draw": 540
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2709,
+      "date": 1776239841,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2860,
+      "date": 1720216574,
+      "game": "https://www.chess.com/game/live/129400419989"
+    },
+    "record": {
+      "win": 3582,
+      "loss": 3470,
+      "draw": 622
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2507,
+      "date": 1543087907
+    },
+    "lowest": {
+      "rating": 2507,
+      "date": 1543087907
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

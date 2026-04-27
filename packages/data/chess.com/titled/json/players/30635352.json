@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30635352.7b3b6651.200x200o.096c4fca9d82.png",
+  "player_id": 30635352,
+  "@id": "https://api.chess.com/pub/player/safar_from_afar",
+  "url": "https://www.chess.com/member/Safar_From_Afar",
+  "name": "Alan-Safar Ramoutar",
+  "username": "safar_from_afar",
+  "title": "IM",
+  "followers": 191,
+  "country": "https://api.chess.com/pub/country/TT",
+  "last_online": 1776575677,
+  "joined": 1477679586,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@thecaribbeanchessmaster"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2022,
+      "date": 1678696101,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1616790060,
+      "game": "https://www.chess.com/game/daily/193043808"
+    },
+    "record": {
+      "win": 11,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 84696,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2433,
+      "date": 1776427624,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1776361250,
+      "game": "https://www.chess.com/game/live/166165678320"
+    },
+    "record": {
+      "win": 72,
+      "loss": 31,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2144,
+      "date": 1753201696,
+      "rd": 192
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1523838806,
+      "game": "https://www.chess.com/game/live/4797976714"
+    },
+    "record": {
+      "win": 323,
+      "loss": 358,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2559,
+      "date": 1775940354,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1775929125,
+      "game": "https://www.chess.com/game/live/163240623113"
+    },
+    "record": {
+      "win": 1314,
+      "loss": 1372,
+      "draw": 256
+    }
+  },
+  "fide": 2332,
+  "tactics": {
+    "highest": {
+      "rating": 2520,
+      "date": 1768855432
+    },
+    "lowest": {
+      "rating": 2129,
+      "date": 1773664911
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

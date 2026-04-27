@@ -1,0 +1,99 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71488600.2b0d53c1.200x200o.ecb24d0cde11.jpeg",
+  "player_id": 71488600,
+  "@id": "https://api.chess.com/pub/player/dortmundcity",
+  "url": "https://www.chess.com/member/DortmundCity",
+  "name": "Dmitry Bagrationi",
+  "username": "dortmundcity",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775049515,
+  "joined": 1580398067,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1688087056,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 13,
+      "draw": 0,
+      "time_per_move": 76,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2264,
+      "date": 1667911624,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1661173369,
+      "game": "https://www.chess.com/game/live/54911239351"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2745,
+      "date": 1591820924,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1591820030,
+      "game": "https://www.chess.com/game/live/4982265270"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2514,
+      "date": 1757970018,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1637170504,
+      "game": "https://www.chess.com/game/live/5010846665"
+    },
+    "record": {
+      "win": 245,
+      "loss": 221,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2486,
+      "date": 1775049144
+    },
+    "lowest": {
+      "rating": 2177,
+      "date": 1775049256
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

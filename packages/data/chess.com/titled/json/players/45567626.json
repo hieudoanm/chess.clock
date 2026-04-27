@@ -1,0 +1,83 @@
+{
+  "player_id": 45567626,
+  "@id": "https://api.chess.com/pub/player/fidichess",
+  "url": "https://www.chess.com/member/fidichess",
+  "username": "fidichess",
+  "title": "WCM",
+  "followers": 121,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776552132,
+  "joined": 1524499849,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2046,
+      "date": 1771617864,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1640821888,
+      "game": "https://www.chess.com/game/live/18688182425"
+    },
+    "record": {
+      "win": 316,
+      "loss": 310,
+      "draw": 55
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2256,
+      "date": 1776551382,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1659128103,
+      "game": "https://www.chess.com/game/live/39639609935"
+    },
+    "record": {
+      "win": 8271,
+      "loss": 8124,
+      "draw": 1359
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2137,
+      "date": 1771269522,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2137,
+      "date": 1737921942,
+      "game": "https://www.chess.com/game/live/104798989911"
+    },
+    "record": {
+      "win": 292,
+      "loss": 226,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2322,
+      "date": 1766973956
+    },
+    "lowest": {
+      "rating": 2194,
+      "date": 1774897210
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

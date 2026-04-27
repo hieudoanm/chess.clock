@@ -1,0 +1,84 @@
+{
+  "player_id": 128131738,
+  "@id": "https://api.chess.com/pub/player/skyethestar",
+  "url": "https://www.chess.com/member/skyethestar",
+  "name": "Skye Attieh",
+  "username": "skyethestar",
+  "title": "WCM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/LB",
+  "last_online": 1776377080,
+  "joined": 1615762479,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1294,
+      "date": 1617017218,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1332,
+      "date": 1615974928,
+      "game": "https://www.chess.com/game/live/10432773857"
+    },
+    "record": {
+      "win": 13,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1853,
+      "date": 1738700283,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1865,
+      "date": 1734274468,
+      "game": "https://www.chess.com/game/live/131183960999"
+    },
+    "record": {
+      "win": 46,
+      "loss": 31,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2026,
+      "date": 1776377060,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2116,
+      "date": 1775421418,
+      "game": "https://www.chess.com/game/live/129399802895"
+    },
+    "record": {
+      "win": 64,
+      "loss": 138,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1862,
+      "date": 1615762479
+    },
+    "lowest": {
+      "rating": 1862,
+      "date": 1615762479
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

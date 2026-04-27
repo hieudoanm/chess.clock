@@ -1,0 +1,83 @@
+{
+  "player_id": 397847765,
+  "@id": "https://api.chess.com/pub/player/just-na",
+  "url": "https://www.chess.com/member/Just-na",
+  "username": "just-na",
+  "title": "WFM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776598417,
+  "joined": 1729711557,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2431,
+      "date": 1773780301,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1773311333,
+      "game": "https://www.chess.com/game/live/165803398812"
+    },
+    "record": {
+      "win": 73,
+      "loss": 31,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2571,
+      "date": 1776088665,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1774645011,
+      "game": "https://www.chess.com/game/live/166629311448"
+    },
+    "record": {
+      "win": 163,
+      "loss": 192,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2557,
+      "date": 1776429783,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2724,
+      "date": 1773154574,
+      "game": "https://www.chess.com/game/live/148568566806"
+    },
+    "record": {
+      "win": 434,
+      "loss": 462,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1756851373
+    },
+    "lowest": {
+      "rating": 2362,
+      "date": 1776061141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

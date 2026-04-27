@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30681716.f3a69962.200x200o.f5e9d5bbff9b.png",
+  "player_id": 30681716,
+  "@id": "https://api.chess.com/pub/player/sensei555",
+  "url": "https://www.chess.com/member/sensei555",
+  "username": "sensei555",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1588752260,
+  "joined": 1477935456,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2149,
+      "date": 1545846946,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2149,
+      "date": 1538951772,
+      "game": "https://www.chess.com/game/live/3124497512"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2271,
+      "date": 1588776909,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1531981346,
+      "game": "https://www.chess.com/game/live/2890656387"
+    },
+    "record": {
+      "win": 713,
+      "loss": 716,
+      "draw": 64
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2317,
+      "date": 1588683432,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1588587233,
+      "game": "https://www.chess.com/game/live/2890681046"
+    },
+    "record": {
+      "win": 386,
+      "loss": 320,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2366,
+      "date": 1477935456
+    },
+    "lowest": {
+      "rating": 2366,
+      "date": 1477935456
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

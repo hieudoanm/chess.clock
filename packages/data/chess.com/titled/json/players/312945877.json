@@ -1,0 +1,97 @@
+{
+  "player_id": 312945877,
+  "@id": "https://api.chess.com/pub/player/fm_vs_noob2008",
+  "url": "https://www.chess.com/member/FM_vs_noob2008",
+  "username": "fm_vs_noob2008",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776366291,
+  "joined": 1694774895,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1762553138,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 58550,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2493,
+      "date": 1774543221,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1765742287,
+      "game": "https://www.chess.com/game/live/146358512694"
+    },
+    "record": {
+      "win": 355,
+      "loss": 284,
+      "draw": 56
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2350,
+      "date": 1774720997,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1763325307,
+      "game": "https://www.chess.com/game/live/145596101384"
+    },
+    "record": {
+      "win": 72,
+      "loss": 59,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1776210531,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1774997450,
+      "game": "https://www.chess.com/game/live/166737929364"
+    },
+    "record": {
+      "win": 1232,
+      "loss": 1092,
+      "draw": 167
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2332,
+      "date": 1763471577
+    },
+    "lowest": {
+      "rating": 2281,
+      "date": 1763471809
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

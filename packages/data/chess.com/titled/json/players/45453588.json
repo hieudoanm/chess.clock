@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45453588.fb16a294.200x200o.f88e746ba77a.jpeg",
+  "player_id": 45453588,
+  "@id": "https://api.chess.com/pub/player/nikitashandrygin",
+  "url": "https://www.chess.com/member/NikitaShandrygin",
+  "name": "Nikita Shandrygin",
+  "username": "nikitashandrygin",
+  "title": "FM",
+  "followers": 985,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776597686,
+  "joined": 1524161163,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1617,
+      "date": 1711298107,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2963,
+      "date": 1775159977,
+      "rd": 31
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1772623375,
+      "game": "https://www.chess.com/game/live/166779156224"
+    },
+    "record": {
+      "win": 379,
+      "loss": 344,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2837,
+      "date": 1776598039,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2960,
+      "date": 1757801259,
+      "game": "https://www.chess.com/game/live/166435811431"
+    },
+    "record": {
+      "win": 5518,
+      "loss": 5695,
+      "draw": 1063
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2474,
+      "date": 1524161163
+    },
+    "lowest": {
+      "rating": 2474,
+      "date": 1524161163
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

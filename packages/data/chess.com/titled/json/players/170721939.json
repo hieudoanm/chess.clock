@@ -1,0 +1,97 @@
+{
+  "player_id": 170721939,
+  "@id": "https://api.chess.com/pub/player/littlepawnfriends",
+  "url": "https://www.chess.com/member/LittlePawnFriends",
+  "username": "littlepawnfriends",
+  "title": "WFM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/XS",
+  "last_online": 1776557445,
+  "joined": 1643384575,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 985,
+      "date": 1753264743,
+      "rd": 254
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 2371,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1728390092,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2054,
+      "date": 1728389418,
+      "game": "https://www.chess.com/game/live/122126350921"
+    },
+    "record": {
+      "win": 17,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2704,
+      "date": 1772727772,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2844,
+      "date": 1750189862,
+      "game": "https://www.chess.com/game/live/143679529668"
+    },
+    "record": {
+      "win": 392,
+      "loss": 243,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2575,
+      "date": 1776462244,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1776290917,
+      "game": "https://www.chess.com/game/live/125613579791"
+    },
+    "record": {
+      "win": 696,
+      "loss": 511,
+      "draw": 71
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1643384575
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1643384575
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

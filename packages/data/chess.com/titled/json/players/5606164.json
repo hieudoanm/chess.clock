@@ -1,0 +1,94 @@
+{
+  "player_id": 5606164,
+  "@id": "https://api.chess.com/pub/player/pawnexpert",
+  "url": "https://www.chess.com/member/pawnexpert",
+  "name": "abissesi",
+  "username": "pawnexpert",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "los angeles",
+  "last_online": 1345440270,
+  "joined": 1313206140,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1246,
+      "date": 1347478324,
+      "rd": 55
+    },
+    "best": {
+      "rating": 1552,
+      "date": 1345473749,
+      "game": "https://www.chess.com/game/daily/56802554"
+    },
+    "record": {
+      "win": 34,
+      "loss": 111,
+      "draw": 0,
+      "time_per_move": 21526,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1635,
+      "date": 1322890218,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1635,
+      "date": 1313494738,
+      "game": "https://www.chess.com/game/live/213056171"
+    },
+    "record": {
+      "win": 7,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1278,
+      "date": 1322538879,
+      "rd": 309
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1044,
+      "date": 1322916823,
+      "rd": 108
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1313391600,
+      "game": "https://www.chess.com/game/live/214209713"
+    },
+    "record": {
+      "win": 5,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "fide": 2466,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1313206140
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1313206140
+    }
+  },
+  "puzzle_rush": {}
+}

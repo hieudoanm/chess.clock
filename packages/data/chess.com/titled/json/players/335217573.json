@@ -1,0 +1,104 @@
+{
+  "player_id": 335217573,
+  "@id": "https://api.chess.com/pub/player/nekotyanof01",
+  "url": "https://www.chess.com/member/nekotyanof01",
+  "name": "Batyrkhan Muratov",
+  "username": "nekotyanof01",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776585912,
+  "joined": 1703769587,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1626,
+      "date": 1763189593,
+      "rd": 323
+    },
+    "best": {
+      "rating": 1626,
+      "date": 1736163158,
+      "game": "https://www.chess.com/game/daily/743661807"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13292,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2314,
+      "date": 1763915930,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1762539073,
+      "game": "https://www.chess.com/game/live/145235489952"
+    },
+    "record": {
+      "win": 28,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1768761116,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1768398872,
+      "game": "https://www.chess.com/game/live/147828116664"
+    },
+    "record": {
+      "win": 135,
+      "loss": 123,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1774619048,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1767443971,
+      "game": "https://www.chess.com/game/live/147777214452"
+    },
+    "record": {
+      "win": 393,
+      "loss": 288,
+      "draw": 31
+    }
+  },
+  "fide": 2337,
+  "tactics": {
+    "highest": {
+      "rating": 2379,
+      "date": 1771579149
+    },
+    "lowest": {
+      "rating": 676,
+      "date": 1755535680
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

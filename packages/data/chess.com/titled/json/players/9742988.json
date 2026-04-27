@@ -1,0 +1,85 @@
+{
+  "player_id": 9742988,
+  "@id": "https://api.chess.com/pub/player/fredymatsuura",
+  "url": "https://www.chess.com/member/FredyMatsuura",
+  "name": "Frederico Matsuura",
+  "username": "fredymatsuura",
+  "title": "FM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Curitiba/Pr",
+  "last_online": 1776543158,
+  "joined": 1353633350,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2528,
+      "date": 1776547325,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2565,
+      "date": 1768433105,
+      "game": "https://www.chess.com/game/live/147882026256"
+    },
+    "record": {
+      "win": 204,
+      "loss": 169,
+      "draw": 69
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2145,
+      "date": 1776544027,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1769454666,
+      "game": "https://www.chess.com/game/live/49669134891"
+    },
+    "record": {
+      "win": 9610,
+      "loss": 9279,
+      "draw": 409
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1776527067,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1604884463,
+      "game": "https://www.chess.com/game/live/5610940619"
+    },
+    "record": {
+      "win": 9948,
+      "loss": 8214,
+      "draw": 1185
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2463,
+      "date": 1774998494
+    },
+    "lowest": {
+      "rating": 2162,
+      "date": 1769188441
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

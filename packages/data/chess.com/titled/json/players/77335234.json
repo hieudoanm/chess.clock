@@ -1,0 +1,84 @@
+{
+  "player_id": 77335234,
+  "@id": "https://api.chess.com/pub/player/athanasiuslefebvre",
+  "url": "https://www.chess.com/member/AthanasiusLefebvre",
+  "name": "Joao Otavio Benevides Demasi",
+  "username": "athanasiuslefebvre",
+  "title": "NM",
+  "followers": 109,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776561697,
+  "joined": 1587421410,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2033,
+      "date": 1745527125,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1605986767,
+      "game": "https://www.chess.com/game/live/5792229354"
+    },
+    "record": {
+      "win": 119,
+      "loss": 139,
+      "draw": 29
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1802,
+      "date": 1746487258,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2042,
+      "date": 1605980521,
+      "game": "https://www.chess.com/game/live/82803681299"
+    },
+    "record": {
+      "win": 12014,
+      "loss": 14085,
+      "draw": 553
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2059,
+      "date": 1754784343,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1723855053,
+      "game": "https://www.chess.com/game/live/73754638159"
+    },
+    "record": {
+      "win": 2697,
+      "loss": 3281,
+      "draw": 373
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1936,
+      "date": 1757706676
+    },
+    "lowest": {
+      "rating": 976,
+      "date": 1776532459
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

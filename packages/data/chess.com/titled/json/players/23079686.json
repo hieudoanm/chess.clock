@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23079686.f76b8765.200x200o.cdfde672b3bf.jpeg",
+  "player_id": 23079686,
+  "@id": "https://api.chess.com/pub/player/chessbeans",
+  "url": "https://www.chess.com/member/ChessBeans",
+  "name": "Sean Hawkins",
+  "username": "chessbeans",
+  "title": "CM",
+  "followers": 98,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Melbourne",
+  "last_online": 1776596321,
+  "joined": 1435922963,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1426,
+      "date": 1776596230,
+      "rd": 195
+    },
+    "best": {
+      "rating": 1556,
+      "date": 1674944489,
+      "game": "https://www.chess.com/game/daily/198723308"
+    },
+    "record": {
+      "win": 42,
+      "loss": 13,
+      "draw": 5,
+      "time_per_move": 44620,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1060,
+      "date": 1510174452,
+      "rd": 230
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1435922963,
+      "game": "https://www.chess.com/game/daily/172282918"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 44620,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2360,
+      "date": 1775713210,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1770788997,
+      "game": "https://www.chess.com/game/live/164478525788"
+    },
+    "record": {
+      "win": 526,
+      "loss": 283,
+      "draw": 69
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2230,
+      "date": 1776513826,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2265,
+      "date": 1776156921,
+      "game": "https://www.chess.com/game/live/167290284212"
+    },
+    "record": {
+      "win": 859,
+      "loss": 566,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2231,
+      "date": 1775804704,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1760750670,
+      "game": "https://www.chess.com/game/live/145691288738"
+    },
+    "record": {
+      "win": 782,
+      "loss": 568,
+      "draw": 74
+    }
+  },
+  "fide": 2001,
+  "tactics": {
+    "highest": {
+      "rating": 2535,
+      "date": 1759719199
+    },
+    "lowest": {
+      "rating": 2226,
+      "date": 1770724429
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 28459496,
+  "@id": "https://api.chess.com/pub/player/supernotar",
+  "url": "https://www.chess.com/member/Supernotar",
+  "name": "Maly Alexey",
+  "username": "supernotar",
+  "title": "IM",
+  "followers": 91,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kiev",
+  "last_online": 1641873090,
+  "joined": 1464858475,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1577949602,
+      "rd": 350
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2505,
+      "date": 1639862648,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2817,
+      "date": 1606587766,
+      "game": "https://www.chess.com/game/live/5850684637"
+    },
+    "record": {
+      "win": 88,
+      "loss": 26,
+      "draw": 86
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2431,
+      "date": 1641906018,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2770,
+      "date": 1603614149,
+      "game": "https://www.chess.com/game/live/24845470949"
+    },
+    "record": {
+      "win": 3272,
+      "loss": 2022,
+      "draw": 455
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2769,
+      "date": 1641903572,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1637480043,
+      "game": "https://www.chess.com/game/live/4558360235"
+    },
+    "record": {
+      "win": 2894,
+      "loss": 2466,
+      "draw": 1329
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2294,
+      "date": 1464858475
+    },
+    "lowest": {
+      "rating": 2294,
+      "date": 1464858475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

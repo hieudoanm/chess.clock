@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/70349336.09d03b0c.200x200o.a5160d80bcc3.jpg",
+  "player_id": 70349336,
+  "@id": "https://api.chess.com/pub/player/annacramling",
+  "url": "https://www.chess.com/member/annacramling",
+  "name": "Anna Cramling",
+  "username": "annacramling",
+  "title": "WFM",
+  "followers": 32118,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Sweden",
+  "last_online": 1776466952,
+  "joined": 1578249646,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/annacramling",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/annacramling"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2278,
+      "date": 1761759484,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1759771677,
+      "game": "https://www.chess.com/game/live/86657901201"
+    },
+    "record": {
+      "win": 116,
+      "loss": 105,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1774031280,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2344,
+      "date": 1771700070,
+      "game": "https://www.chess.com/game/live/34273225061"
+    },
+    "record": {
+      "win": 2677,
+      "loss": 2636,
+      "draw": 261
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2351,
+      "date": 1776187439,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1749301852,
+      "game": "https://www.chess.com/game/live/67279405275"
+    },
+    "record": {
+      "win": 5146,
+      "loss": 5591,
+      "draw": 680
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1757973184
+    },
+    "lowest": {
+      "rating": 2244,
+      "date": 1776381554
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

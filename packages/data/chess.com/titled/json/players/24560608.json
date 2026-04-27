@@ -1,0 +1,62 @@
+{
+  "player_id": 24560608,
+  "@id": "https://api.chess.com/pub/player/michiel245",
+  "url": "https://www.chess.com/member/michiel245",
+  "name": "Michiel Abeln",
+  "username": "michiel245",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1775586791,
+  "joined": 1444759154,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1547373804,
+      "rd": 348
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2304,
+      "date": 1661017722,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1661017722,
+      "game": "https://www.chess.com/game/live/54756360873"
+    },
+    "record": {
+      "win": 224,
+      "loss": 125,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2668,
+      "date": 1444759154
+    },
+    "lowest": {
+      "rating": 2668,
+      "date": 1444759154
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

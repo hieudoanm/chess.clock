@@ -1,0 +1,143 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77363682.de354d46.200x200o.74e48fa803d2.jpg",
+  "player_id": 77363682,
+  "@id": "https://api.chess.com/pub/player/extremelearner",
+  "url": "https://www.chess.com/member/ExtremeLearner",
+  "name": "Tahsin Tajwar Zia",
+  "username": "extremelearner",
+  "title": "FM",
+  "followers": 1092,
+  "country": "https://api.chess.com/pub/country/BD",
+  "location": "Dhaka",
+  "last_online": 1776584786,
+  "joined": 1587457760,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/extremelearner",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/extremelearner"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1367,
+      "date": 1776575864,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1590728401,
+      "game": "https://www.chess.com/game/daily/265949012"
+    },
+    "record": {
+      "win": 146,
+      "loss": 129,
+      "draw": 7,
+      "time_per_move": 62903,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 7
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1855,
+      "date": 1620300895,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1857,
+      "date": 1619193408,
+      "game": "https://www.chess.com/game/daily/269590944"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 4,
+      "time_per_move": 62903,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 7
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2248,
+      "date": 1768413911,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1599821868,
+      "game": "https://www.chess.com/game/live/13277546403"
+    },
+    "record": {
+      "win": 90,
+      "loss": 82,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2655,
+      "date": 1774372036,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1772910119,
+      "game": "https://www.chess.com/game/live/167217011505"
+    },
+    "record": {
+      "win": 4051,
+      "loss": 3710,
+      "draw": 441
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2711,
+      "date": 1774373334,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1773589555,
+      "game": "https://www.chess.com/game/live/128795610581"
+    },
+    "record": {
+      "win": 3508,
+      "loss": 3503,
+      "draw": 579
+    }
+  },
+  "fide": 2352,
+  "tactics": {
+    "highest": {
+      "rating": 2592,
+      "date": 1761827248
+    },
+    "lowest": {
+      "rating": 2415,
+      "date": 1776494407
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

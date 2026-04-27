@@ -1,0 +1,105 @@
+{
+  "player_id": 17508140,
+  "@id": "https://api.chess.com/pub/player/othergabe",
+  "url": "https://www.chess.com/member/OtherGabe",
+  "name": "Gabriel Sam",
+  "username": "othergabe",
+  "title": "NM",
+  "followers": 127,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Los Angeles",
+  "last_online": 1776583139,
+  "joined": 1401516581,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2071,
+      "date": 1715070514,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1579823914,
+      "game": "https://www.chess.com/game/daily/137205322"
+    },
+    "record": {
+      "win": 97,
+      "loss": 24,
+      "draw": 3,
+      "time_per_move": 14005,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2547,
+      "date": 1769749678,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1764627901,
+      "game": "https://www.chess.com/game/live/145172298684"
+    },
+    "record": {
+      "win": 54,
+      "loss": 18,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2817,
+      "date": 1773487020,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1772529625,
+      "game": "https://www.chess.com/game/live/145455650334"
+    },
+    "record": {
+      "win": 4639,
+      "loss": 2649,
+      "draw": 540
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2722,
+      "date": 1776581523,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2812,
+      "date": 1763249957,
+      "game": "https://www.chess.com/game/live/145547410562"
+    },
+    "record": {
+      "win": 1505,
+      "loss": 883,
+      "draw": 229
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2727,
+      "date": 1773372869
+    },
+    "lowest": {
+      "rating": 2418,
+      "date": 1756383963
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "player_id": 41959300,
+  "@id": "https://api.chess.com/pub/player/bob_2004",
+  "url": "https://www.chess.com/member/Bob_2004",
+  "name": "Vadim Bobkov",
+  "username": "bob_2004",
+  "title": "FM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776585050,
+  "joined": 1514992153,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2330,
+      "date": 1726859222,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1726857808,
+      "game": "https://www.chess.com/game/live/120592189253"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2721,
+      "date": 1770640864,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1675803334,
+      "game": "https://www.chess.com/game/live/112208479241"
+    },
+    "record": {
+      "win": 204,
+      "loss": 171,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2900,
+      "date": 1762650355,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1762650355,
+      "game": "https://www.chess.com/game/live/117927620163"
+    },
+    "record": {
+      "win": 2080,
+      "loss": 1752,
+      "draw": 326
+    }
+  },
+  "fide": 2233,
+  "tactics": {
+    "highest": {
+      "rating": 2636,
+      "date": 1756058018
+    },
+    "lowest": {
+      "rating": 2565,
+      "date": 1759849748
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 52
+    },
+    "daily": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

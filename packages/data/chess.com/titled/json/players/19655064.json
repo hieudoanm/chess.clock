@@ -1,0 +1,105 @@
+{
+  "player_id": 19655064,
+  "@id": "https://api.chess.com/pub/player/queenant89",
+  "url": "https://www.chess.com/member/queenant89",
+  "name": "Sarah Anton",
+  "username": "queenant89",
+  "title": "WCM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Clemant Ferand",
+  "last_online": 1772289531,
+  "joined": 1415604792,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1266,
+      "date": 1764581300,
+      "rd": 150
+    },
+    "best": {
+      "rating": 1857,
+      "date": 1550463253,
+      "game": "https://www.chess.com/game/daily/115220370"
+    },
+    "record": {
+      "win": 300,
+      "loss": 278,
+      "draw": 2,
+      "time_per_move": 67195,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1286,
+      "date": 1556307007,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1484,
+      "date": 1438561648,
+      "game": "https://www.chess.com/game/daily/122400382"
+    },
+    "record": {
+      "win": 12,
+      "loss": 13,
+      "draw": 0,
+      "time_per_move": 67195,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1492,
+      "date": 1462437018,
+      "rd": 37
+    },
+    "best": {
+      "rating": 1684,
+      "date": 1418523160,
+      "game": "https://www.chess.com/game/live/1527238413"
+    },
+    "record": {
+      "win": 120,
+      "loss": 125,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1307,
+      "date": 1547557316,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1607,
+      "date": 1428666331,
+      "game": "https://www.chess.com/game/live/1104663923"
+    },
+    "record": {
+      "win": 648,
+      "loss": 594,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1744,
+      "date": 1415604792
+    },
+    "lowest": {
+      "rating": 1744,
+      "date": 1415604792
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

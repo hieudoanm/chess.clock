@@ -1,0 +1,85 @@
+{
+  "player_id": 79593080,
+  "@id": "https://api.chess.com/pub/player/imka63",
+  "url": "https://www.chess.com/member/imka63",
+  "name": "Korneevets Alexander",
+  "username": "imka63",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1776340135,
+  "joined": 1589565627,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1593008687,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1590433101,
+      "game": "https://www.chess.com/game/live/4906560138"
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1593008687,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1709,
+      "date": 1589961025,
+      "game": "https://www.chess.com/game/live/4881368289"
+    },
+    "record": {
+      "win": 17,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1670005739,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1670004967,
+      "game": "https://www.chess.com/game/live/5178884039"
+    },
+    "record": {
+      "win": 34,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "fide": 2267,
+  "tactics": {
+    "highest": {
+      "rating": 2459,
+      "date": 1589565627
+    },
+    "lowest": {
+      "rating": 2459,
+      "date": 1589565627
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

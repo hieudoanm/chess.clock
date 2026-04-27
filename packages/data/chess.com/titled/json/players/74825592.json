@@ -1,0 +1,103 @@
+{
+  "player_id": 74825592,
+  "@id": "https://api.chess.com/pub/player/zezacarias",
+  "url": "https://www.chess.com/member/ZeZacarias",
+  "name": "Afonso Rodrigues",
+  "username": "zezacarias",
+  "title": "NM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1776596572,
+  "joined": 1585411650,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2211,
+      "date": 1710491391,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1678880197,
+      "game": "https://www.chess.com/game/daily/486490179"
+    },
+    "record": {
+      "win": 15,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 3953,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2164,
+      "date": 1769278489,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2353,
+      "date": 1589570340,
+      "game": "https://www.chess.com/game/live/72471204133"
+    },
+    "record": {
+      "win": 22,
+      "loss": 19,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2003,
+      "date": 1768077699,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1677913921,
+      "game": "https://www.chess.com/game/live/71652714957"
+    },
+    "record": {
+      "win": 383,
+      "loss": 406,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1776596557,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1709759534,
+      "game": "https://www.chess.com/game/live/104499655225"
+    },
+    "record": {
+      "win": 1417,
+      "loss": 1436,
+      "draw": 156
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2183,
+      "date": 1762776144
+    },
+    "lowest": {
+      "rating": 2056,
+      "date": 1762857357
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

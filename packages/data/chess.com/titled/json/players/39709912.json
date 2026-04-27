@@ -1,0 +1,81 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39709912.a172b67f.200x200o.a5bddc5ce6d5.jpeg",
+  "player_id": 39709912,
+  "@id": "https://api.chess.com/pub/player/jonathanhilton",
+  "url": "https://www.chess.com/member/jonathanhilton",
+  "name": "Jonathan Hilton",
+  "username": "jonathanhilton",
+  "title": "NM",
+  "followers": 127,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1763146834,
+  "joined": 1508798948,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1621,
+      "date": 1685237458,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2126,
+      "date": 1649735631,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1624478937,
+      "game": "https://www.chess.com/game/live/18217397917"
+    },
+    "record": {
+      "win": 48,
+      "loss": 45,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2084,
+      "date": 1680141696,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1576618624,
+      "game": "https://www.chess.com/game/live/13313505525"
+    },
+    "record": {
+      "win": 296,
+      "loss": 225,
+      "draw": 56
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2307,
+      "date": 1508798948
+    },
+    "lowest": {
+      "rating": 2307,
+      "date": 1508798948
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

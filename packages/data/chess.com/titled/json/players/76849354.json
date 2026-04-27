@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76849354.94793c35.200x200o.adb294b2c35e.jpg",
+  "player_id": 76849354,
+  "@id": "https://api.chess.com/pub/player/justinjosh",
+  "url": "https://www.chess.com/member/JustinJosh",
+  "username": "justinjosh",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776447164,
+  "joined": 1587015113,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1775759080,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1765965217,
+      "game": "https://www.chess.com/game/live/146823524060"
+    },
+    "record": {
+      "win": 16,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2620,
+      "date": 1776257399,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2669,
+      "date": 1755288147,
+      "game": "https://www.chess.com/game/live/166246592820"
+    },
+    "record": {
+      "win": 216,
+      "loss": 183,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2685,
+      "date": 1776447138,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2831,
+      "date": 1764606319,
+      "game": "https://www.chess.com/game/live/146394802615"
+    },
+    "record": {
+      "win": 3131,
+      "loss": 3612,
+      "draw": 641
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2928,
+      "date": 1767885566
+    },
+    "lowest": {
+      "rating": 2511,
+      "date": 1756548772
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "player_id": 50702734,
+  "@id": "https://api.chess.com/pub/player/dynamikus",
+  "url": "https://www.chess.com/member/Dynamikus",
+  "name": "Sebastian Bogner",
+  "username": "dynamikus",
+  "title": "GM",
+  "followers": 180,
+  "country": "https://api.chess.com/pub/country/CH",
+  "location": "Zurich",
+  "last_online": 1776445300,
+  "joined": 1539421122,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmdynamikus",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmdynamikus"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2377,
+      "date": 1758047358,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1609012463,
+      "game": "https://www.chess.com/game/live/24405710399"
+    },
+    "record": {
+      "win": 135,
+      "loss": 36,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2765,
+      "date": 1766161025,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1760379171,
+      "game": "https://www.chess.com/game/live/101130747987"
+    },
+    "record": {
+      "win": 115,
+      "loss": 73,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2754,
+      "date": 1764167419,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2882,
+      "date": 1635503230,
+      "game": "https://www.chess.com/game/live/105284982265"
+    },
+    "record": {
+      "win": 959,
+      "loss": 693,
+      "draw": 206
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2834,
+      "date": 1772814081
+    },
+    "lowest": {
+      "rating": 2614,
+      "date": 1776095710
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

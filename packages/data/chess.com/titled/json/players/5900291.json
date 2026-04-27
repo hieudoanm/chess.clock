@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5900291.12eedc49.200x200o.8a1d1f87c4fb.jpg",
+  "player_id": 5900291,
+  "@id": "https://api.chess.com/pub/player/blitzstream",
+  "url": "https://www.chess.com/member/Blitzstream",
+  "name": "Kevin Bordi",
+  "username": "blitzstream",
+  "title": "NM",
+  "followers": 33958,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Cannes",
+  "last_online": 1776528298,
+  "joined": 1317757941,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/blitzstream",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/blitzstream"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1735853465,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 8,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2642,
+      "date": 1772489502,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1559754339,
+      "game": "https://www.chess.com/game/live/3405434736"
+    },
+    "record": {
+      "win": 127,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1745606570,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2996,
+      "date": 1696959636,
+      "game": "https://www.chess.com/game/live/94677629407"
+    },
+    "record": {
+      "win": 4188,
+      "loss": 3409,
+      "draw": 522
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2896,
+      "date": 1775211332,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3038,
+      "date": 1770841358,
+      "game": "https://www.chess.com/game/live/17606438585"
+    },
+    "record": {
+      "win": 22179,
+      "loss": 20036,
+      "draw": 4970
+    }
+  },
+  "fide": 2288,
+  "tactics": {
+    "highest": {
+      "rating": 2533,
+      "date": 1317757941
+    },
+    "lowest": {
+      "rating": 2533,
+      "date": 1317757941
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

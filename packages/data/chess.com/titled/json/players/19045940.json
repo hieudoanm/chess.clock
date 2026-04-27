@@ -1,0 +1,105 @@
+{
+  "player_id": 19045940,
+  "@id": "https://api.chess.com/pub/player/time2pretend",
+  "url": "https://www.chess.com/member/Time2Pretend",
+  "name": "Etienne Goudriaan",
+  "username": "time2pretend",
+  "title": "IM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Utrecht",
+  "last_online": 1776444552,
+  "joined": 1411662330,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1965,
+      "date": 1736276606,
+      "rd": 147
+    },
+    "best": {
+      "rating": 1965,
+      "date": 1573147337,
+      "game": "https://www.chess.com/game/daily/206830112"
+    },
+    "record": {
+      "win": 18,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 50760,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2384,
+      "date": 1750790199,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1632515871,
+      "game": "https://www.chess.com/game/live/139879154098"
+    },
+    "record": {
+      "win": 25,
+      "loss": 8,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2422,
+      "date": 1642278450,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2605,
+      "date": 1617652906,
+      "game": "https://www.chess.com/game/live/36013183519"
+    },
+    "record": {
+      "win": 71,
+      "loss": 37,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2665,
+      "date": 1765827116,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2789,
+      "date": 1735808842,
+      "game": "https://www.chess.com/game/live/73755233431"
+    },
+    "record": {
+      "win": 3334,
+      "loss": 2576,
+      "draw": 684
+    }
+  },
+  "fide": 2363,
+  "tactics": {
+    "highest": {
+      "rating": 2404,
+      "date": 1411662330
+    },
+    "lowest": {
+      "rating": 2404,
+      "date": 1411662330
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

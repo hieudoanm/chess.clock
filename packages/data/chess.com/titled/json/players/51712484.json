@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51712484.34a6d3bd.200x200o.dea015f462a2.jpg",
+  "player_id": 51712484,
+  "@id": "https://api.chess.com/pub/player/chernobay_artem",
+  "url": "https://www.chess.com/member/Chernobay_Artem",
+  "name": "Artem Chernobay",
+  "username": "chernobay_artem",
+  "title": "GM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776595563,
+  "joined": 1541920092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1879,
+      "date": 1762088005,
+      "rd": 322
+    },
+    "best": {
+      "rating": 1903,
+      "date": 1542646615,
+      "game": "https://www.chess.com/game/daily/209630650"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 14587,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1648310794,
+      "rd": 194
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1585387897,
+      "game": "https://www.chess.com/game/live/3835461228"
+    },
+    "record": {
+      "win": 11,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2473,
+      "date": 1615222515,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1600625058,
+      "game": "https://www.chess.com/game/live/4681560958"
+    },
+    "record": {
+      "win": 21,
+      "loss": 32,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2669,
+      "date": 1748382791,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1592633876,
+      "game": "https://www.chess.com/game/live/142693210063"
+    },
+    "record": {
+      "win": 999,
+      "loss": 865,
+      "draw": 112
+    }
+  },
+  "fide": 2454,
+  "tactics": {
+    "highest": {
+      "rating": 2962,
+      "date": 1761081630
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1772658782
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

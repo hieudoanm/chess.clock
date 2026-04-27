@@ -1,0 +1,104 @@
+{
+  "player_id": 4814731,
+  "@id": "https://api.chess.com/pub/player/gm_andrei_murariu",
+  "url": "https://www.chess.com/member/GM_Andrei_Murariu",
+  "name": "Andrei Murariu",
+  "username": "gm_andrei_murariu",
+  "title": "GM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Bucuresti",
+  "last_online": 1775650971,
+  "joined": 1299422971,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1393,
+      "date": 1704640832,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1393,
+      "date": 1339619149,
+      "game": "https://www.chess.com/game/daily/53684174"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 60878,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1849,
+      "date": 1773778083,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1970,
+      "date": 1547200574,
+      "game": "https://www.chess.com/game/live/166079888044"
+    },
+    "record": {
+      "win": 93,
+      "loss": 39,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1674,
+      "date": 1738409651,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1342879810,
+      "game": "https://www.chess.com/game/live/307095044"
+    },
+    "record": {
+      "win": 140,
+      "loss": 23,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2418,
+      "date": 1772568409,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1772568409,
+      "game": "https://www.chess.com/game/live/94507334137"
+    },
+    "record": {
+      "win": 660,
+      "loss": 199,
+      "draw": 55
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1299422971
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1299422971
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

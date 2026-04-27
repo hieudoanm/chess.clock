@@ -1,0 +1,97 @@
+{
+  "player_id": 19341880,
+  "@id": "https://api.chess.com/pub/player/frenchandslav",
+  "url": "https://www.chess.com/member/FrenchandSlav",
+  "username": "frenchandslav",
+  "title": "FM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776516757,
+  "joined": 1413570437,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1621,
+      "date": 1755246507,
+      "rd": 310
+    },
+    "best": {
+      "rating": 1621,
+      "date": 1723691062,
+      "game": "https://www.chess.com/game/daily/127628414"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 5668,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1968,
+      "date": 1653852499,
+      "rd": 316
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2503,
+      "date": 1776053438,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1751395204,
+      "game": "https://www.chess.com/game/live/120302422439"
+    },
+    "record": {
+      "win": 2503,
+      "loss": 2164,
+      "draw": 217
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2636,
+      "date": 1776503458,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2779,
+      "date": 1726714464,
+      "game": "https://www.chess.com/game/live/121834154641"
+    },
+    "record": {
+      "win": 9700,
+      "loss": 7819,
+      "draw": 1668
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1775310601
+    },
+    "lowest": {
+      "rating": 2192,
+      "date": 1775130954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

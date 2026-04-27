@@ -1,0 +1,66 @@
+{
+  "player_id": 160197431,
+  "@id": "https://api.chess.com/pub/player/dobby_the_elf",
+  "url": "https://www.chess.com/member/dobby_the_elf",
+  "name": "Dobby",
+  "username": "dobby_the_elf",
+  "title": "WFM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1769610532,
+  "joined": 1635977402,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1721999381
+    },
+    "best": {
+      "rating": 2020,
+      "date": 1719753781,
+      "game": "https://www.chess.com/game/live/107876492795"
+    },
+    "record": {
+      "win": 54,
+      "loss": 34,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2140,
+      "date": 1769530550,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1670761551,
+      "game": "https://www.chess.com/game/live/65215793861"
+    },
+    "record": {
+      "win": 434,
+      "loss": 543,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2189,
+      "date": 1635977402
+    },
+    "lowest": {
+      "rating": 2189,
+      "date": 1635977402
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

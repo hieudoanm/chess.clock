@@ -1,0 +1,103 @@
+{
+  "player_id": 55453522,
+  "@id": "https://api.chess.com/pub/player/thabarwa",
+  "url": "https://www.chess.com/member/ThaBarWa",
+  "name": "Bastien Dubessay",
+  "username": "thabarwa",
+  "title": "FM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/MM",
+  "last_online": 1776277442,
+  "joined": 1546482777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1778,
+      "date": 1745967885,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1794,
+      "date": 1701493292,
+      "game": "https://www.chess.com/game/daily/569362231"
+    },
+    "record": {
+      "win": 11,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 31414,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2533,
+      "date": 1770336067,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1729200268,
+      "game": "https://www.chess.com/game/live/88866137853"
+    },
+    "record": {
+      "win": 132,
+      "loss": 40,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2548,
+      "date": 1773053136,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1738804609,
+      "game": "https://www.chess.com/game/live/122760914907"
+    },
+    "record": {
+      "win": 2836,
+      "loss": 2158,
+      "draw": 414
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1773791345,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1773791345,
+      "game": "https://www.chess.com/game/live/166087327962"
+    },
+    "record": {
+      "win": 1392,
+      "loss": 1043,
+      "draw": 209
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2491,
+      "date": 1546482777
+    },
+    "lowest": {
+      "rating": 2491,
+      "date": 1546482777
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

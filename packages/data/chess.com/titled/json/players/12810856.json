@@ -1,0 +1,102 @@
+{
+  "player_id": 12810856,
+  "@id": "https://api.chess.com/pub/player/zane33",
+  "url": "https://www.chess.com/member/zane33",
+  "username": "zane33",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776032132,
+  "joined": 1374454729,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1410,
+      "date": 1706207760,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1374454729,
+      "game": "https://www.chess.com/game/daily/168154988"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10822,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2154,
+      "date": 1675198665,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1608503898,
+      "game": "https://www.chess.com/game/live/6016775090"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1877,
+      "date": 1651727784,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1446697018,
+      "game": "https://www.chess.com/game/live/1489436352"
+    },
+    "record": {
+      "win": 143,
+      "loss": 116,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1890,
+      "date": 1743744438,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2121,
+      "date": 1653896476,
+      "game": "https://www.chess.com/game/live/58657275715"
+    },
+    "record": {
+      "win": 4481,
+      "loss": 3943,
+      "draw": 403
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1374454729
+    },
+    "lowest": {
+      "rating": 2353,
+      "date": 1374454729
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

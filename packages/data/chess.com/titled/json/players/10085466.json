@@ -1,0 +1,85 @@
+{
+  "player_id": 10085466,
+  "@id": "https://api.chess.com/pub/player/bootstar",
+  "url": "https://www.chess.com/member/bootstar",
+  "name": "Greg B",
+  "username": "bootstar",
+  "title": "NM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "NYC",
+  "last_online": 1636689968,
+  "joined": 1355967654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2403,
+      "date": 1636483325,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1633291010,
+      "game": "https://www.chess.com/game/live/27029410293"
+    },
+    "record": {
+      "win": 33,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2697,
+      "date": 1636677881,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2760,
+      "date": 1635810690,
+      "game": "https://www.chess.com/game/live/29559562209"
+    },
+    "record": {
+      "win": 4844,
+      "loss": 3244,
+      "draw": 701
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2597,
+      "date": 1636681959,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1606790429,
+      "game": "https://www.chess.com/game/live/3510817046"
+    },
+    "record": {
+      "win": 2280,
+      "loss": 1592,
+      "draw": 357
+    }
+  },
+  "fide": 2450,
+  "tactics": {
+    "highest": {
+      "rating": 2335,
+      "date": 1355967654
+    },
+    "lowest": {
+      "rating": 2335,
+      "date": 1355967654
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

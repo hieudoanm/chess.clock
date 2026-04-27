@@ -1,0 +1,77 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6497090.69c78485.200x200o.669eef9494a7.jpg",
+  "player_id": 6497090,
+  "@id": "https://api.chess.com/pub/player/schackspelaren",
+  "url": "https://www.chess.com/member/schackspelaren",
+  "name": "Ari Ziegler",
+  "username": "schackspelaren",
+  "title": "IM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Goteborg",
+  "last_online": 1775903975,
+  "joined": 1326568473,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2001,
+      "date": 1732736243,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2252,
+      "date": 1729669816,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1726176139,
+      "game": "https://www.chess.com/game/live/118582160863"
+    },
+    "record": {
+      "win": 467,
+      "loss": 284,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2435,
+      "date": 1775903892,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2477,
+      "date": 1766919930,
+      "game": "https://www.chess.com/game/live/108832902869"
+    },
+    "record": {
+      "win": 1219,
+      "loss": 921,
+      "draw": 320
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2364,
+      "date": 1761771647
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1761771647
+    }
+  },
+  "puzzle_rush": {}
+}

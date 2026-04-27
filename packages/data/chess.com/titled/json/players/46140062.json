@@ -1,0 +1,122 @@
+{
+  "player_id": 46140062,
+  "@id": "https://api.chess.com/pub/player/artemdyachuk",
+  "url": "https://www.chess.com/member/ArtemDyachuk",
+  "name": "Artem Dyachuk",
+  "username": "artemdyachuk",
+  "title": "FM",
+  "followers": 330,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1775693782,
+  "joined": 1526198461,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1684957654,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1373,
+      "date": 1546893140,
+      "game": "https://www.chess.com/game/daily/215530004"
+    },
+    "record": {
+      "win": 18,
+      "loss": 205,
+      "draw": 2,
+      "time_per_move": 97305,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 812,
+      "date": 1562700004,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1066,
+      "date": 1549298083,
+      "game": "https://www.chess.com/game/daily/216981333"
+    },
+    "record": {
+      "win": 4,
+      "loss": 21,
+      "draw": 1,
+      "time_per_move": 97305,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1690909178,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1587,
+      "date": 1586599703,
+      "game": "https://www.chess.com/game/live/4892280630"
+    },
+    "record": {
+      "win": 17,
+      "loss": 10,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2681,
+      "date": 1766416467,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1699123918,
+      "game": "https://www.chess.com/game/live/92861522355"
+    },
+    "record": {
+      "win": 648,
+      "loss": 625,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2834,
+      "date": 1775161607,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3140,
+      "date": 1764109964,
+      "game": "https://www.chess.com/game/live/146002958816"
+    },
+    "record": {
+      "win": 3907,
+      "loss": 3725,
+      "draw": 454
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2559,
+      "date": 1526198461
+    },
+    "lowest": {
+      "rating": 2559,
+      "date": 1526198461
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

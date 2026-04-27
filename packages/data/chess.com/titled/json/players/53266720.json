@@ -1,0 +1,80 @@
+{
+  "player_id": 53266720,
+  "@id": "https://api.chess.com/pub/player/francesbj",
+  "url": "https://www.chess.com/member/francesbj",
+  "name": "Alice Chovanec",
+  "username": "francesbj",
+  "title": "WCM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776100151,
+  "joined": 1544845863,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1854,
+      "date": 1679349689,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1785,
+      "date": 1658088767,
+      "game": "https://www.chess.com/game/live/29634642435"
+    },
+    "record": {
+      "win": 53,
+      "loss": 29,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1856,
+      "date": 1765502107,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1856,
+      "date": 1765502107,
+      "game": "https://www.chess.com/game/live/146607657938"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1832,
+      "date": 1742937464,
+      "rd": 275
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 1854,
+  "tactics": {
+    "highest": {
+      "rating": 2085,
+      "date": 1544845863
+    },
+    "lowest": {
+      "rating": 2085,
+      "date": 1544845863
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 34
+    }
+  }
+}

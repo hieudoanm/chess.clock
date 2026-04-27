@@ -1,0 +1,85 @@
+{
+  "player_id": 312970609,
+  "@id": "https://api.chess.com/pub/player/alexandrehouhou",
+  "url": "https://www.chess.com/member/AlexandreHouhou",
+  "name": "Alexandre Houhou",
+  "username": "alexandrehouhou",
+  "title": "CM",
+  "followers": 52,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776548582,
+  "joined": 1694781873,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2382,
+      "date": 1774720906,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1763220369,
+      "game": "https://www.chess.com/game/live/145538777434"
+    },
+    "record": {
+      "win": 118,
+      "loss": 59,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2366,
+      "date": 1776029427,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2565,
+      "date": 1762859028,
+      "game": "https://www.chess.com/game/live/145377956750"
+    },
+    "record": {
+      "win": 1013,
+      "loss": 874,
+      "draw": 93
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2483,
+      "date": 1776371320,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1773697624,
+      "game": "https://www.chess.com/game/live/105830470913"
+    },
+    "record": {
+      "win": 543,
+      "loss": 458,
+      "draw": 53
+    }
+  },
+  "fide": 2138,
+  "tactics": {
+    "highest": {
+      "rating": 2328,
+      "date": 1694781873
+    },
+    "lowest": {
+      "rating": 2328,
+      "date": 1694781873
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

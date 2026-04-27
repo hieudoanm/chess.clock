@@ -1,0 +1,67 @@
+{
+  "player_id": 503012279,
+  "@id": "https://api.chess.com/pub/player/whiteshark01",
+  "url": "https://www.chess.com/member/whiteshark01",
+  "username": "whiteshark01",
+  "title": "GM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1776560634,
+  "joined": 1763737829,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3253,
+      "date": 1776560616,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3306,
+      "date": 1773353508,
+      "game": "https://www.chess.com/game/live/165722429386"
+    },
+    "record": {
+      "win": 2279,
+      "loss": 691,
+      "draw": 192
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3254,
+      "date": 1776521934,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3254,
+      "date": 1776521934,
+      "game": "https://www.chess.com/game/live/167384416448"
+    },
+    "record": {
+      "win": 409,
+      "loss": 118,
+      "draw": 71
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2659,
+      "date": 1769126320
+    },
+    "lowest": {
+      "rating": 2252,
+      "date": 1769126384
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 9057510,
+  "@id": "https://api.chess.com/pub/player/parmigiano",
+  "url": "https://www.chess.com/member/parmigiano",
+  "name": "Sheila Barth Stanford",
+  "username": "parmigiano",
+  "title": "WIM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776356705,
+  "joined": 1348758879,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2085,
+      "date": 1762853291,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1501551201,
+      "game": "https://www.chess.com/game/daily/156782294"
+    },
+    "record": {
+      "win": 137,
+      "loss": 23,
+      "draw": 6,
+      "time_per_move": 59510,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1998,
+      "date": 1682952567,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2236,
+      "date": 1597332751,
+      "game": "https://www.chess.com/game/live/5306422561"
+    },
+    "record": {
+      "win": 3,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2153,
+      "date": 1725548784,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2153,
+      "date": 1682951363,
+      "game": "https://www.chess.com/game/live/4878020084"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2178,
+      "date": 1719916165,
+      "rd": 246
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1597306848,
+      "game": "https://www.chess.com/game/live/2428694570"
+    },
+    "record": {
+      "win": 46,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1348758879
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1348758879
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

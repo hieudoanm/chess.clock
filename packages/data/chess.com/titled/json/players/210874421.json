@@ -1,0 +1,102 @@
+{
+  "player_id": 210874421,
+  "@id": "https://api.chess.com/pub/player/albtb",
+  "url": "https://www.chess.com/member/AlbTB",
+  "username": "albtb",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776001226,
+  "joined": 1670339654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1746,
+      "date": 1702625939,
+      "rd": 260
+    },
+    "best": {
+      "rating": 1746,
+      "date": 1702625939,
+      "game": "https://www.chess.com/game/daily/573314293"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 91666,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2127,
+      "date": 1766349712,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1671730049,
+      "game": "https://www.chess.com/game/live/65468510049"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2511,
+      "date": 1752259921,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1699315904,
+      "game": "https://www.chess.com/game/live/75421889983"
+    },
+    "record": {
+      "win": 398,
+      "loss": 398,
+      "draw": 81
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2376,
+      "date": 1776001216,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1752256972,
+      "game": "https://www.chess.com/game/live/67126940601"
+    },
+    "record": {
+      "win": 149,
+      "loss": 131,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1775425842
+    },
+    "lowest": {
+      "rating": 2119,
+      "date": 1775425535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

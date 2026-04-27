@@ -1,0 +1,81 @@
+{
+  "player_id": 77151614,
+  "@id": "https://api.chess.com/pub/player/oibaf1975",
+  "url": "https://www.chess.com/member/Oibaf1975",
+  "name": "Fabio Mensing",
+  "username": "oibaf1975",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CW",
+  "last_online": 1684885516,
+  "joined": 1587260789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1331,
+      "date": 1676254247,
+      "rd": 275
+    },
+    "best": {
+      "rating": 1331,
+      "date": 1676254247,
+      "game": "https://www.chess.com/game/daily/471023289"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 55549,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1533,
+      "date": 1629659665,
+      "rd": 137
+    },
+    "best": {
+      "rating": 1548,
+      "date": 1587315937,
+      "game": "https://www.chess.com/game/live/4743659300"
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1733,
+      "date": 1682045053,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1788,
+      "date": 1605832976,
+      "game": "https://www.chess.com/game/live/4785557058"
+    },
+    "record": {
+      "win": 23,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1587260789
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1587260789
+    }
+  },
+  "puzzle_rush": {}
+}

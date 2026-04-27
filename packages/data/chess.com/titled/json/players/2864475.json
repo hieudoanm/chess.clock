@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2864475.4a694c14.200x200o.61956bbb5a64.jpeg",
+  "player_id": 2864475,
+  "@id": "https://api.chess.com/pub/player/pjotrr",
+  "url": "https://www.chess.com/member/pjotrr",
+  "name": "Peter Laveryd",
+  "username": "pjotrr",
+  "title": "FM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Norrk&ouml;ping",
+  "last_online": 1751428433,
+  "joined": 1274938873,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1590272404,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 87633,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2044,
+      "date": 1727984860,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1611228648,
+      "game": "https://www.chess.com/game/live/17421788605"
+    },
+    "record": {
+      "win": 1597,
+      "loss": 1179,
+      "draw": 99
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1736786559,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1580328571,
+      "game": "https://www.chess.com/game/live/3791129951"
+    },
+    "record": {
+      "win": 4294,
+      "loss": 3304,
+      "draw": 499
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2629,
+      "date": 1274938873
+    },
+    "lowest": {
+      "rating": 2629,
+      "date": 1274938873
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 46
+    }
+  }
+}

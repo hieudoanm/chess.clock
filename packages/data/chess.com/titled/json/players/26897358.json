@@ -1,0 +1,87 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26897358.10f64fa8.200x200o.634d3db4ddc2.jpeg",
+  "player_id": 26897358,
+  "@id": "https://api.chess.com/pub/player/grischuk",
+  "url": "https://www.chess.com/member/Grischuk",
+  "name": "Alexander Grischuk",
+  "username": "grischuk",
+  "title": "GM",
+  "followers": 7621,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776186854,
+  "joined": 1456282378,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2683,
+      "date": 1773861397,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2837,
+      "date": 1598021179,
+      "game": "https://www.chess.com/game/live/42654054403"
+    },
+    "record": {
+      "win": 146,
+      "loss": 97,
+      "draw": 168
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3096,
+      "date": 1722276446,
+      "rd": 47
+    },
+    "best": {
+      "rating": 3310,
+      "date": 1601841696,
+      "game": "https://www.chess.com/game/live/11040209569"
+    },
+    "record": {
+      "win": 731,
+      "loss": 494,
+      "draw": 232
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3188,
+      "date": 1776186760,
+      "rd": 47
+    },
+    "best": {
+      "rating": 3225,
+      "date": 1765908099,
+      "game": "https://www.chess.com/game/live/163433822841"
+    },
+    "record": {
+      "win": 1756,
+      "loss": 772,
+      "draw": 656
+    }
+  },
+  "fide": 2780,
+  "tactics": {
+    "highest": {
+      "rating": 1976,
+      "date": 1456282378
+    },
+    "lowest": {
+      "rating": 1976,
+      "date": 1456282378
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

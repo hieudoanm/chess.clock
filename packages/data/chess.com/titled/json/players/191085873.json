@@ -1,0 +1,80 @@
+{
+  "player_id": 191085873,
+  "@id": "https://api.chess.com/pub/player/mozzy1995",
+  "url": "https://www.chess.com/member/MOZZY1995",
+  "name": "Deshawn Kelley",
+  "username": "mozzy1995",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774948162,
+  "joined": 1658709253,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2245,
+      "date": 1758150523,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1757414441,
+      "game": "https://www.chess.com/game/live/142582213594"
+    },
+    "record": {
+      "win": 42,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2369,
+      "date": 1767737194,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1758072995,
+      "game": "https://www.chess.com/game/live/143227028170"
+    },
+    "record": {
+      "win": 1119,
+      "loss": 1029,
+      "draw": 111
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2478,
+      "date": 1774848163,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1774562346,
+      "game": "https://www.chess.com/game/live/166440476350"
+    },
+    "record": {
+      "win": 741,
+      "loss": 653,
+      "draw": 92
+    }
+  },
+  "fide": 2030,
+  "tactics": {
+    "highest": {
+      "rating": 1931,
+      "date": 1658709253
+    },
+    "lowest": {
+      "rating": 1931,
+      "date": 1658709253
+    }
+  },
+  "puzzle_rush": {}
+}

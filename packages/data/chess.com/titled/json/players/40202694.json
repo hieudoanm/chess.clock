@@ -1,0 +1,67 @@
+{
+  "player_id": 40202694,
+  "@id": "https://api.chess.com/pub/player/krakozia",
+  "url": "https://www.chess.com/member/Krakozia",
+  "name": "Denis Khismatullin",
+  "username": "krakozia",
+  "title": "GM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1712043404,
+  "joined": 1510240884,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2865,
+      "date": 1688747524,
+      "rd": 50
+    },
+    "best": {
+      "rating": 3026,
+      "date": 1608400938,
+      "game": "https://www.chess.com/game/live/82485165813"
+    },
+    "record": {
+      "win": 291,
+      "loss": 130,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2940,
+      "date": 1711962126,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3056,
+      "date": 1695745191,
+      "game": "https://www.chess.com/game/live/93741589011"
+    },
+    "record": {
+      "win": 365,
+      "loss": 231,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2288,
+      "date": 1510240884
+    },
+    "lowest": {
+      "rating": 2288,
+      "date": 1510240884
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

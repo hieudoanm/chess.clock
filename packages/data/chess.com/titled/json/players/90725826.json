@@ -1,0 +1,68 @@
+{
+  "player_id": 90725826,
+  "@id": "https://api.chess.com/pub/player/hananmo",
+  "url": "https://www.chess.com/member/Hananmo",
+  "name": "Hanan Mordechai",
+  "username": "hananmo",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776340634,
+  "joined": 1599471320,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2522,
+      "date": 1749313978,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2542,
+      "date": 1749312473,
+      "game": "https://www.chess.com/game/live/143626209075"
+    },
+    "record": {
+      "win": 19,
+      "loss": 19,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2552,
+      "date": 1750777714,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1682101801,
+      "game": "https://www.chess.com/game/live/128795000809"
+    },
+    "record": {
+      "win": 343,
+      "loss": 300,
+      "draw": 58
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2611,
+      "date": 1599471320
+    },
+    "lowest": {
+      "rating": 2611,
+      "date": 1599471320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

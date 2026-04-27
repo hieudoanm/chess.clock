@@ -1,0 +1,99 @@
+{
+  "player_id": 37698422,
+  "@id": "https://api.chess.com/pub/player/denguvi",
+  "url": "https://www.chess.com/member/denguvi",
+  "name": "Don Falkone",
+  "username": "denguvi",
+  "title": "WCM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "\u0413",
+  "last_online": 1773764448,
+  "joined": 1502338191,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1011,
+      "date": 1527764706,
+      "rd": 249
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 225697,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1893,
+      "date": 1747137530,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1605707297,
+      "game": "https://www.chess.com/game/live/10585707125"
+    },
+    "record": {
+      "win": 665,
+      "loss": 651,
+      "draw": 113
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1350,
+      "date": 1747469357,
+      "rd": 129
+    },
+    "best": {
+      "rating": 1359,
+      "date": 1674199078,
+      "game": "https://www.chess.com/game/live/67939350653"
+    },
+    "record": {
+      "win": 31,
+      "loss": 22,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1605,
+      "date": 1752732735,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1933,
+      "date": 1595602134,
+      "game": "https://www.chess.com/game/live/4338945819"
+    },
+    "record": {
+      "win": 1867,
+      "loss": 1692,
+      "draw": 158
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2356,
+      "date": 1502338191
+    },
+    "lowest": {
+      "rating": 2356,
+      "date": 1502338191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

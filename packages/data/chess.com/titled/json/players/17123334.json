@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17123334.6c6fa923.200x200o.c744c8640149.jpeg",
+  "player_id": 17123334,
+  "@id": "https://api.chess.com/pub/player/gmcanty",
+  "url": "https://www.chess.com/member/GMCanty",
+  "name": "James Canty",
+  "username": "gmcanty",
+  "title": "FM",
+  "followers": 16277,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "VIBIN WITH SOME OTHER JEDI",
+  "last_online": 1776097067,
+  "joined": 1398908408,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmcanty",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmcanty"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1916,
+      "date": 1772996101,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1614794962,
+      "game": "https://www.chess.com/game/daily/220882728"
+    },
+    "record": {
+      "win": 442,
+      "loss": 58,
+      "draw": 11,
+      "time_per_move": 30242,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2457,
+      "date": 1744934646,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1603594236,
+      "game": "https://www.chess.com/game/live/5631562338"
+    },
+    "record": {
+      "win": 98,
+      "loss": 19,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2736,
+      "date": 1770341879,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2774,
+      "date": 1661316723,
+      "game": "https://www.chess.com/game/live/85212645787"
+    },
+    "record": {
+      "win": 10847,
+      "loss": 5163,
+      "draw": 628
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2636,
+      "date": 1768165353,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1663909890,
+      "game": "https://www.chess.com/game/live/53978978043"
+    },
+    "record": {
+      "win": 6359,
+      "loss": 2789,
+      "draw": 563
+    }
+  },
+  "fide": 2317,
+  "tactics": {
+    "highest": {
+      "rating": 2450,
+      "date": 1756258413
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1761961649
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

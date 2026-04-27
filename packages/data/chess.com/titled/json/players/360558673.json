@@ -1,0 +1,83 @@
+{
+  "player_id": 360558673,
+  "@id": "https://api.chess.com/pub/player/0blivi0usspy",
+  "url": "https://www.chess.com/member/0blivi0usspy",
+  "username": "0blivi0usspy",
+  "title": "GM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/GI",
+  "last_online": 1776433007,
+  "joined": 1714573164,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2563,
+      "date": 1757880285,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1757880285,
+      "game": "https://www.chess.com/game/live/130970435861"
+    },
+    "record": {
+      "win": 18,
+      "loss": 5,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2900,
+      "date": 1773398435,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1773398435,
+      "game": "https://www.chess.com/game/live/165884344062"
+    },
+    "record": {
+      "win": 101,
+      "loss": 43,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2956,
+      "date": 1776292231,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3026,
+      "date": 1753902381,
+      "game": "https://www.chess.com/game/live/141324200166"
+    },
+    "record": {
+      "win": 1711,
+      "loss": 1397,
+      "draw": 480
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2774,
+      "date": 1776168901
+    },
+    "lowest": {
+      "rating": 2598,
+      "date": 1756711718
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

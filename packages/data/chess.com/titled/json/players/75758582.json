@@ -1,0 +1,73 @@
+{
+  "player_id": 75758582,
+  "@id": "https://api.chess.com/pub/player/kretov_evgenij",
+  "url": "https://www.chess.com/member/Kretov_Evgenij",
+  "name": "Evgenij Kretov",
+  "username": "kretov_evgenij",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776596299,
+  "joined": 1586100954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2508,
+      "date": 1642937812,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1612105217,
+      "game": "https://www.chess.com/game/live/7498391435"
+    },
+    "record": {
+      "win": 18,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2757,
+      "date": 1776596268,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1768717705,
+      "game": "https://www.chess.com/game/live/142322536656"
+    },
+    "record": {
+      "win": 912,
+      "loss": 815,
+      "draw": 215
+    }
+  },
+  "fide": 2441,
+  "tactics": {
+    "highest": {
+      "rating": 2648,
+      "date": 1770703014
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1768454468
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    },
+    "daily": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

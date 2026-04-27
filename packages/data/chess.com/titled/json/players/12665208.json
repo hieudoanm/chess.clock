@@ -1,0 +1,105 @@
+{
+  "player_id": 12665208,
+  "@id": "https://api.chess.com/pub/player/vojtastr",
+  "url": "https://www.chess.com/member/Vojtastr",
+  "name": "Vojtech Straka",
+  "username": "vojtastr",
+  "title": "IM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1776586874,
+  "joined": 1373491727,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 975,
+      "date": 1755262727,
+      "rd": 270
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1373491727,
+      "game": "https://www.chess.com/game/daily/427057115"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1554,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2352,
+      "date": 1768063720,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1763241360,
+      "game": "https://www.chess.com/game/live/34192225057"
+    },
+    "record": {
+      "win": 43,
+      "loss": 21,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2563,
+      "date": 1740761331,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1643306617,
+      "game": "https://www.chess.com/game/live/37045344073"
+    },
+    "record": {
+      "win": 80,
+      "loss": 29,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2707,
+      "date": 1776586859,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2807,
+      "date": 1773817003,
+      "game": "https://www.chess.com/game/live/142851937382"
+    },
+    "record": {
+      "win": 1480,
+      "loss": 1023,
+      "draw": 264
+    }
+  },
+  "fide": 2337,
+  "tactics": {
+    "highest": {
+      "rating": 2675,
+      "date": 1768945005
+    },
+    "lowest": {
+      "rating": 2511,
+      "date": 1774910326
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

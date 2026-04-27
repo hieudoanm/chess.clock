@@ -1,0 +1,85 @@
+{
+  "player_id": 76114296,
+  "@id": "https://api.chess.com/pub/player/delhigm",
+  "url": "https://www.chess.com/member/DelhiGM",
+  "name": "Sriram Jha",
+  "username": "delhigm",
+  "title": "GM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "NEW DELHI",
+  "last_online": 1775890135,
+  "joined": 1586398684,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1988,
+      "date": 1722603142,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2464,
+      "date": 1613749149,
+      "game": "https://www.chess.com/game/live/7582982187"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2491,
+      "date": 1771140551,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1768638366,
+      "game": "https://www.chess.com/game/live/147998082592"
+    },
+    "record": {
+      "win": 1517,
+      "loss": 1232,
+      "draw": 115
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1769848915,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2824,
+      "date": 1720883981,
+      "game": "https://www.chess.com/game/live/112547992177"
+    },
+    "record": {
+      "win": 2480,
+      "loss": 2156,
+      "draw": 383
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2535,
+      "date": 1761577304
+    },
+    "lowest": {
+      "rating": 2473,
+      "date": 1759754694
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

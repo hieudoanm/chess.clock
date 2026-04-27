@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17007080.c7bb06dc.200x200o.995f01f1be95.jpeg",
+  "player_id": 17007080,
+  "@id": "https://api.chess.com/pub/player/backtothebeginning",
+  "url": "https://www.chess.com/member/Backtothebeginning",
+  "name": "Inguh Kim",
+  "username": "backtothebeginning",
+  "title": "CM",
+  "followers": 294,
+  "country": "https://api.chess.com/pub/country/KR",
+  "location": "Seoul",
+  "last_online": 1776568704,
+  "joined": 1398152484,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1866,
+      "date": 1746088101,
+      "rd": 18
+    },
+    "best": {
+      "rating": 1943,
+      "date": 1686406785,
+      "game": "https://www.chess.com/game/daily/426527381"
+    },
+    "record": {
+      "win": 511,
+      "loss": 267,
+      "draw": 151,
+      "time_per_move": 7960,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2203,
+      "date": 1756211185,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1596617733,
+      "game": "https://www.chess.com/game/live/51724825767"
+    },
+    "record": {
+      "win": 540,
+      "loss": 315,
+      "draw": 149
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2129,
+      "date": 1776347779,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1772965491,
+      "game": "https://www.chess.com/game/live/165677548002"
+    },
+    "record": {
+      "win": 7303,
+      "loss": 7022,
+      "draw": 945
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2149,
+      "date": 1772945627,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1757261677,
+      "game": "https://www.chess.com/game/live/29208611701"
+    },
+    "record": {
+      "win": 3062,
+      "loss": 2217,
+      "draw": 457
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2338,
+      "date": 1758278014
+    },
+    "lowest": {
+      "rating": 2321,
+      "date": 1758278096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

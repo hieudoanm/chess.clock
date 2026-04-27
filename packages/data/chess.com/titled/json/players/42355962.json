@@ -1,0 +1,123 @@
+{
+  "player_id": 42355962,
+  "@id": "https://api.chess.com/pub/player/denksportacademie",
+  "url": "https://www.chess.com/member/DenksportAcademie",
+  "name": "Peter Ypma",
+  "username": "denksportacademie",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1733070300,
+  "joined": 1516046912,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1816,
+      "date": 1773131319,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2064,
+      "date": 1529350583,
+      "game": "https://www.chess.com/game/daily/198647356"
+    },
+    "record": {
+      "win": 104,
+      "loss": 76,
+      "draw": 7,
+      "time_per_move": 14096,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2040,
+      "date": 1696890527,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1686226535,
+      "game": "https://www.chess.com/game/daily/527113161"
+    },
+    "record": {
+      "win": 16,
+      "loss": 6,
+      "draw": 10,
+      "time_per_move": 14096,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1692987949,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1647878777,
+      "game": "https://www.chess.com/game/live/41613636457"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1804,
+      "date": 1671362359,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1944,
+      "date": 1527249436,
+      "game": "https://www.chess.com/game/live/45834652317"
+    },
+    "record": {
+      "win": 13,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2112,
+      "date": 1687271224,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1593028866,
+      "game": "https://www.chess.com/game/live/4359777885"
+    },
+    "record": {
+      "win": 315,
+      "loss": 205,
+      "draw": 56
+    }
+  },
+  "fide": 2358,
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1516046912
+    },
+    "lowest": {
+      "rating": 2501,
+      "date": 1516046912
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

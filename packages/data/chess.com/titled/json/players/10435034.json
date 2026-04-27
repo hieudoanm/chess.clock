@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10435034.2a7af3bc.200x200o.d7e845af93ca.jpg",
+  "player_id": 10435034,
+  "@id": "https://api.chess.com/pub/player/lawrencetrent",
+  "url": "https://www.chess.com/member/LawrenceTrent",
+  "name": "Lawrence Trent",
+  "username": "lawrencetrent",
+  "title": "IM",
+  "followers": 715,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1776596982,
+  "joined": 1358260635,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/trentosk",
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/trentosk"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 861,
+      "date": 1756316321,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1358260635,
+      "game": "https://www.chess.com/game/daily/806057746"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 17922,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2126,
+      "date": 1767803258,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1649069220,
+      "game": "https://www.chess.com/game/live/52249294879"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2578,
+      "date": 1746570771,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2720,
+      "date": 1697232313,
+      "game": "https://www.chess.com/game/live/2988784942"
+    },
+    "record": {
+      "win": 474,
+      "loss": 378,
+      "draw": 53
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2710,
+      "date": 1722557629,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2763,
+      "date": 1560947299,
+      "game": "https://www.chess.com/game/live/70050848923"
+    },
+    "record": {
+      "win": 2481,
+      "loss": 1543,
+      "draw": 290
+    }
+  },
+  "fide": 2429,
+  "tactics": {
+    "highest": {
+      "rating": 2293,
+      "date": 1769432343
+    },
+    "lowest": {
+      "rating": 2015,
+      "date": 1769432405
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

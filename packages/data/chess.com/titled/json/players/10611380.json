@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10611380.8a36d9b4.200x200o.6d8fea949492.jpeg",
+  "player_id": 10611380,
+  "@id": "https://api.chess.com/pub/player/vrolijk",
+  "url": "https://www.chess.com/member/Vrolijk",
+  "name": "Liam Vrolijk",
+  "username": "vrolijk",
+  "title": "GM",
+  "followers": 171,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Rotterdam",
+  "last_online": 1776337660,
+  "joined": 1359393813,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2122,
+      "date": 1671048796,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1544560220,
+      "game": "https://www.chess.com/game/daily/149438332"
+    },
+    "record": {
+      "win": 19,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 11115,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2467,
+      "date": 1579751996,
+      "rd": 266
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1547145605,
+      "game": "https://www.chess.com/game/live/587150469"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2768,
+      "date": 1555531310,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2677,
+      "date": 1545405426,
+      "game": "https://www.chess.com/game/live/3287519001"
+    },
+    "record": {
+      "win": 254,
+      "loss": 167,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2867,
+      "date": 1556389095,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2867,
+      "date": 1556389095,
+      "game": "https://www.chess.com/game/live/3588513260"
+    },
+    "record": {
+      "win": 1045,
+      "loss": 645,
+      "draw": 190
+    }
+  },
+  "fide": 2465,
+  "tactics": {
+    "highest": {
+      "rating": 2549,
+      "date": 1359393813
+    },
+    "lowest": {
+      "rating": 2549,
+      "date": 1359393813
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 49
+    }
+  }
+}

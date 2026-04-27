@@ -1,0 +1,87 @@
+{
+  "player_id": 22143600,
+  "@id": "https://api.chess.com/pub/player/bitiam",
+  "url": "https://www.chess.com/member/BitiaM",
+  "name": "Bitia Cruz",
+  "username": "bitiam",
+  "title": "WCM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/HN",
+  "last_online": 1776572802,
+  "joined": 1430107682,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1031,
+      "date": 1596186184,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1430107682,
+      "game": "https://www.chess.com/game/daily/165043682"
+    },
+    "record": {
+      "win": 11,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 16218,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1085,
+      "date": 1706744096,
+      "rd": 145
+    },
+    "best": {
+      "rating": 1789,
+      "date": 1596303405,
+      "game": "https://www.chess.com/game/live/5236566533"
+    },
+    "record": {
+      "win": 5,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1540,
+      "date": 1776572007,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1741,
+      "date": 1596254789,
+      "game": "https://www.chess.com/game/live/47322663141"
+    },
+    "record": {
+      "win": 1071,
+      "loss": 1057,
+      "draw": 73
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1382,
+      "date": 1430107682
+    },
+    "lowest": {
+      "rating": 1382,
+      "date": 1430107682
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 27
+    }
+  }
+}

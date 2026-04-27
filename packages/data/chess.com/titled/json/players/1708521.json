@@ -1,0 +1,104 @@
+{
+  "player_id": 1708521,
+  "@id": "https://api.chess.com/pub/player/hoshiboshi",
+  "url": "https://www.chess.com/member/hoshiboshi",
+  "name": "Matthew Wofford",
+  "username": "hoshiboshi",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776447202,
+  "joined": 1231792845,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 832,
+      "date": 1701435756,
+      "rd": 347
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1231792845,
+      "game": "https://www.chess.com/game/daily/377088863"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 64569,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1993,
+      "date": 1701435756,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1875,
+      "date": 1589761845,
+      "game": "https://www.chess.com/game/live/4871056961"
+    },
+    "record": {
+      "win": 13,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1993,
+      "date": 1701435756,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1600313682,
+      "game": "https://www.chess.com/game/live/5456699885"
+    },
+    "record": {
+      "win": 29,
+      "loss": 27,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2381,
+      "date": 1744130796,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1724771887,
+      "game": "https://www.chess.com/game/live/118510179221"
+    },
+    "record": {
+      "win": 822,
+      "loss": 706,
+      "draw": 41
+    }
+  },
+  "fide": 2115,
+  "tactics": {
+    "highest": {
+      "rating": 2714,
+      "date": 1765821734
+    },
+    "lowest": {
+      "rating": 2459,
+      "date": 1765822595
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

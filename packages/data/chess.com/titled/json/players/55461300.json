@@ -1,0 +1,66 @@
+{
+  "player_id": 55461300,
+  "@id": "https://api.chess.com/pub/player/rs-9",
+  "url": "https://www.chess.com/member/RS-9",
+  "username": "rs-9",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1770798928,
+  "joined": 1546505870,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2653,
+      "date": 1770722222,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1617834064,
+      "game": "https://www.chess.com/game/live/11514841673"
+    },
+    "record": {
+      "win": 277,
+      "loss": 214,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2725,
+      "date": 1770272956,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1769048389,
+      "game": "https://www.chess.com/game/live/148020741854"
+    },
+    "record": {
+      "win": 345,
+      "loss": 270,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2419,
+      "date": 1768050141
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1768050141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

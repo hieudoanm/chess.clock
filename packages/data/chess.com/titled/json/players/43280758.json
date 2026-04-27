@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43280758.689c47c0.200x200o.fe0ae072ad1b.jpeg",
+  "player_id": 43280758,
+  "@id": "https://api.chess.com/pub/player/piriflillo",
+  "url": "https://www.chess.com/member/Piriflillo",
+  "name": "Juan Alberto Gomez Aguirre",
+  "username": "piriflillo",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776595891,
+  "joined": 1518468893,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2017,
+      "date": 1776595344,
+      "rd": 288
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1770205486,
+      "game": "https://www.chess.com/game/daily/663386213"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 53097,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2228,
+      "date": 1748033569,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1730060712,
+      "game": "https://www.chess.com/game/live/99005817657"
+    },
+    "record": {
+      "win": 118,
+      "loss": 46,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2822,
+      "date": 1776520374,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2844,
+      "date": 1771776172,
+      "game": "https://www.chess.com/game/live/147195064280"
+    },
+    "record": {
+      "win": 765,
+      "loss": 676,
+      "draw": 96
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2773,
+      "date": 1776534175,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2778,
+      "date": 1772034297,
+      "game": "https://www.chess.com/game/live/117999035307"
+    },
+    "record": {
+      "win": 2581,
+      "loss": 2690,
+      "draw": 473
+    }
+  },
+  "fide": 2340,
+  "tactics": {
+    "highest": {
+      "rating": 2505,
+      "date": 1766748519
+    },
+    "lowest": {
+      "rating": 2469,
+      "date": 1766748574
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

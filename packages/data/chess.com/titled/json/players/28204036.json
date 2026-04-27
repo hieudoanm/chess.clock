@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28204036.67fb2a8b.200x200o.29f11452fb7a.jpeg",
+  "player_id": 28204036,
+  "@id": "https://api.chess.com/pub/player/samehsadek",
+  "url": "https://www.chess.com/member/samehsadek",
+  "name": "Sameh Sadek",
+  "username": "samehsadek",
+  "title": "FM",
+  "followers": 85,
+  "country": "https://api.chess.com/pub/country/EG",
+  "location": "Cairo",
+  "last_online": 1776484753,
+  "joined": 1463339180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 967,
+      "date": 1749877342,
+      "rd": 218
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1463339180,
+      "game": "https://www.chess.com/game/daily/544178607"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 16849,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2432,
+      "date": 1770118999,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1709219528,
+      "game": "https://www.chess.com/game/live/141093513060"
+    },
+    "record": {
+      "win": 22,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2332,
+      "date": 1776483015,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1775485148,
+      "game": "https://www.chess.com/game/live/166844568110"
+    },
+    "record": {
+      "win": 1433,
+      "loss": 1634,
+      "draw": 134
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1776400490,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1775104372,
+      "game": "https://www.chess.com/game/live/118073408439"
+    },
+    "record": {
+      "win": 267,
+      "loss": 259,
+      "draw": 70
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2463,
+      "date": 1775800503
+    },
+    "lowest": {
+      "rating": 2086,
+      "date": 1757156790
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 36
+    }
+  }
+}

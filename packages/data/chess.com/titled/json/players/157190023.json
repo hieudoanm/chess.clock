@@ -1,0 +1,84 @@
+{
+  "player_id": 157190023,
+  "@id": "https://api.chess.com/pub/player/chess_maylovsky",
+  "url": "https://www.chess.com/member/Chess_maylovsky",
+  "username": "chess_maylovsky",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776521674,
+  "joined": 1633571453,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1605,
+      "date": 1771439900,
+      "rd": 165
+    },
+    "best": {
+      "rating": 1878,
+      "date": 1685911292,
+      "game": "https://www.chess.com/game/live/79647091047"
+    },
+    "record": {
+      "win": 8,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1825,
+      "date": 1776521658,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1703429450,
+      "game": "https://www.chess.com/game/live/97168279111"
+    },
+    "record": {
+      "win": 25,
+      "loss": 26,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2022,
+      "date": 1776357412,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2183,
+      "date": 1773355335,
+      "game": "https://www.chess.com/game/live/165520361544"
+    },
+    "record": {
+      "win": 1155,
+      "loss": 1097,
+      "draw": 102
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2103,
+      "date": 1772199740
+    },
+    "lowest": {
+      "rating": 1931,
+      "date": 1758698259
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

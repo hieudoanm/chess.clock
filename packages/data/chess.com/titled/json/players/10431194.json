@@ -1,0 +1,84 @@
+{
+  "player_id": 10431194,
+  "@id": "https://api.chess.com/pub/player/im_anupdeshmukh",
+  "url": "https://www.chess.com/member/IM_anupdeshmukh",
+  "name": "Anup Deshmukh",
+  "username": "im_anupdeshmukh",
+  "title": "IM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776338011,
+  "joined": 1358226585,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2112,
+      "date": 1768491819,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1594963838,
+      "game": "https://www.chess.com/game/live/5981108731"
+    },
+    "record": {
+      "win": 23,
+      "loss": 29,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2008,
+      "date": 1729955770,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1593568553,
+      "game": "https://www.chess.com/game/live/5082607608"
+    },
+    "record": {
+      "win": 84,
+      "loss": 70,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2491,
+      "date": 1756056370,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2524,
+      "date": 1755956966,
+      "game": "https://www.chess.com/game/live/115532305171"
+    },
+    "record": {
+      "win": 773,
+      "loss": 556,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1817,
+      "date": 1762190367
+    },
+    "lowest": {
+      "rating": 1349,
+      "date": 1755768151
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

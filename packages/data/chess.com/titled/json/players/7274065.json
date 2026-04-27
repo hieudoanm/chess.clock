@@ -1,0 +1,81 @@
+{
+  "player_id": 7274065,
+  "@id": "https://api.chess.com/pub/player/dominov",
+  "url": "https://www.chess.com/member/Dominov",
+  "name": "Alberto Jorge",
+  "username": "dominov",
+  "title": "CM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/DO",
+  "location": "Santiago",
+  "last_online": 1776568435,
+  "joined": 1334282054,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2040,
+      "date": 1693187738,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1678188987,
+      "game": "https://www.chess.com/game/live/71927675563"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1638,
+      "date": 1776568416,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1627222029,
+      "game": "https://www.chess.com/game/live/20984423135"
+    },
+    "record": {
+      "win": 19133,
+      "loss": 18432,
+      "draw": 1584
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1868,
+      "date": 1765797814,
+      "rd": 163
+    },
+    "best": {
+      "rating": 2179,
+      "date": 1524833458,
+      "game": "https://www.chess.com/game/live/12966247531"
+    },
+    "record": {
+      "win": 780,
+      "loss": 718,
+      "draw": 110
+    }
+  },
+  "fide": 2065,
+  "tactics": {
+    "highest": {
+      "rating": 2279,
+      "date": 1334282054
+    },
+    "lowest": {
+      "rating": 2279,
+      "date": 1334282054
+    }
+  },
+  "puzzle_rush": {}
+}

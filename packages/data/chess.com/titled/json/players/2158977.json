@@ -1,0 +1,69 @@
+{
+  "player_id": 2158977,
+  "@id": "https://api.chess.com/pub/player/cottage_cheese",
+  "url": "https://www.chess.com/member/cottage_cheese",
+  "name": "edmund player",
+  "username": "cottage_cheese",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Bury St Edmunds",
+  "last_online": 1697554737,
+  "joined": 1252782504,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2220,
+      "date": 1605816740,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1605740326,
+      "game": "https://www.chess.com/game/live/5773063393"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2297,
+      "date": 1696973242,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1663088189,
+      "game": "https://www.chess.com/game/live/56826637363"
+    },
+    "record": {
+      "win": 92,
+      "loss": 172,
+      "draw": 23
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1252782504
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1252782504
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

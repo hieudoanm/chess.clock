@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18510608.fb6114e6.200x200o.2b15e609efeb.jpg",
+  "player_id": 18510608,
+  "@id": "https://api.chess.com/pub/player/oskariot",
+  "url": "https://www.chess.com/member/oskariot",
+  "name": "Oskar Wieczorek",
+  "username": "oskariot",
+  "title": "GM",
+  "followers": 1657,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776559052,
+  "joined": 1408136764,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2278,
+      "date": 1768519775,
+      "rd": 244
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1453392132,
+      "game": "https://www.chess.com/game/daily/117770170"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 4,
+      "time_per_move": 55464,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2370,
+      "date": 1713464087,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1713464087,
+      "game": "https://www.chess.com/game/live/79980789763"
+    },
+    "record": {
+      "win": 12,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2903,
+      "date": 1759190275,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1725500220,
+      "game": "https://www.chess.com/game/live/84656532665"
+    },
+    "record": {
+      "win": 4050,
+      "loss": 4067,
+      "draw": 477
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2911,
+      "date": 1750582383,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2872,
+      "date": 1731676342,
+      "game": "https://www.chess.com/game/live/23564504057"
+    },
+    "record": {
+      "win": 6110,
+      "loss": 6294,
+      "draw": 1136
+    }
+  },
+  "fide": 2500,
+  "tactics": {
+    "highest": {
+      "rating": 2681,
+      "date": 1759425482
+    },
+    "lowest": {
+      "rating": 2649,
+      "date": 1759929561
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

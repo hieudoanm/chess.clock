@@ -1,0 +1,81 @@
+{
+  "player_id": 24761666,
+  "@id": "https://api.chess.com/pub/player/chessfreak35",
+  "url": "https://www.chess.com/member/chessfreak35",
+  "name": "Andreas Heimann",
+  "username": "chessfreak35",
+  "title": "GM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1771775296,
+  "joined": 1445871741,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1771789119,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 72,
+      "timeout_percent": 50
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2506,
+      "date": 1763829458,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1590852302,
+      "game": "https://www.chess.com/game/live/4929772386"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2632,
+      "date": 1742490381,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2756,
+      "date": 1646302729,
+      "game": "https://www.chess.com/game/live/40043442037"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1445871741
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1445871741
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

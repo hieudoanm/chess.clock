@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/88250502.6d05e2b2.200x200o.57e82fe0f8fd.jpeg",
+  "player_id": 88250502,
+  "@id": "https://api.chess.com/pub/player/chess50years",
+  "url": "https://www.chess.com/member/chess50years",
+  "name": "Jim Blackwood",
+  "username": "chess50years",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1735758449,
+  "joined": 1596499040,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1988,
+      "date": 1672440683,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1667518067,
+      "game": "https://www.chess.com/game/live/65820130095"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1779,
+      "date": 1667790240,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1903,
+      "date": 1666999629,
+      "game": "https://www.chess.com/game/live/60915009099"
+    },
+    "record": {
+      "win": 27,
+      "loss": 28,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2072,
+      "date": 1734655694,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1669766335,
+      "game": "https://www.chess.com/game/live/63497981669"
+    },
+    "record": {
+      "win": 707,
+      "loss": 743,
+      "draw": 192
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2285,
+      "date": 1596499040
+    },
+    "lowest": {
+      "rating": 2285,
+      "date": 1596499040
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 19
+    }
+  }
+}

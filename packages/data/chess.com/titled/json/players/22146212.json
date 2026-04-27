@@ -1,0 +1,81 @@
+{
+  "player_id": 22146212,
+  "@id": "https://api.chess.com/pub/player/harald_schmidt",
+  "url": "https://www.chess.com/member/Harald_Schmidt",
+  "name": "Harald Schmidt",
+  "username": "harald_schmidt",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Mollhagen",
+  "last_online": 1776403525,
+  "joined": 1430132022,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2282,
+      "date": 1572465659,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1266,
+      "date": 1572465659,
+      "game": "https://www.chess.com/game/live/4165352641"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2145,
+      "date": 1704923063,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1704917316,
+      "game": "https://www.chess.com/game/live/98660668293"
+    },
+    "record": {
+      "win": 53,
+      "loss": 28,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2350,
+      "date": 1776368591,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1731173184,
+      "game": "https://www.chess.com/game/live/125187592127"
+    },
+    "record": {
+      "win": 11477,
+      "loss": 9045,
+      "draw": 1132
+    }
+  },
+  "fide": 2354,
+  "tactics": {
+    "highest": {
+      "rating": 2232,
+      "date": 1430132022
+    },
+    "lowest": {
+      "rating": 2232,
+      "date": 1430132022
+    }
+  },
+  "puzzle_rush": {}
+}

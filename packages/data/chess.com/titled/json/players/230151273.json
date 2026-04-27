@@ -1,0 +1,84 @@
+{
+  "player_id": 230151273,
+  "@id": "https://api.chess.com/pub/player/jonasgallasch",
+  "url": "https://www.chess.com/member/JonasGallasch",
+  "name": "Jonas Gallasch",
+  "username": "jonasgallasch",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775580633,
+  "joined": 1674405080,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2379,
+      "date": 1683747558,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1677514389,
+      "game": "https://www.chess.com/game/live/76539618283"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2607,
+      "date": 1774536646,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1774536646,
+      "game": "https://www.chess.com/game/live/114021062057"
+    },
+    "record": {
+      "win": 111,
+      "loss": 99,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2606,
+      "date": 1774546940,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1774305509,
+      "game": "https://www.chess.com/game/live/154767403739"
+    },
+    "record": {
+      "win": 254,
+      "loss": 219,
+      "draw": 58
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2610,
+      "date": 1674405080
+    },
+    "lowest": {
+      "rating": 2610,
+      "date": 1674405080
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

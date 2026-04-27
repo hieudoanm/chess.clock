@@ -1,0 +1,100 @@
+{
+  "player_id": 6678352,
+  "@id": "https://api.chess.com/pub/player/toshali",
+  "url": "https://www.chess.com/member/toshali",
+  "name": "V Toshali",
+  "username": "toshali",
+  "title": "WFM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "St.Louis",
+  "last_online": 1776030194,
+  "joined": 1329383320,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 398,
+      "date": 1751189914,
+      "rd": 348
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 182574,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2012,
+      "date": 1776028314,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1652230928,
+      "game": "https://www.chess.com/game/live/54868583727"
+    },
+    "record": {
+      "win": 26,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1886,
+      "date": 1746498710,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1950,
+      "date": 1639736632,
+      "game": "https://www.chess.com/game/live/3607661919"
+    },
+    "record": {
+      "win": 13,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2222,
+      "date": 1776027111,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1665500721,
+      "game": "https://www.chess.com/game/live/59239275651"
+    },
+    "record": {
+      "win": 259,
+      "loss": 260,
+      "draw": 37
+    }
+  },
+  "fide": 2073,
+  "tactics": {
+    "highest": {
+      "rating": 2136,
+      "date": 1766261222
+    },
+    "lowest": {
+      "rating": 2136,
+      "date": 1766261222
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

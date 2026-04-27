@@ -1,0 +1,81 @@
+{
+  "player_id": 6578333,
+  "@id": "https://api.chess.com/pub/player/zdavid12",
+  "url": "https://www.chess.com/member/zdavid12",
+  "name": "David Zakarias",
+  "username": "zdavid12",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1726757353,
+  "joined": 1327854389,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1183,
+      "date": 1714811295,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1327854389,
+      "game": "https://www.chess.com/game/daily/506149595"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15858,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2328,
+      "date": 1434453585,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1415396594,
+      "game": "https://www.chess.com/game/live/952653517"
+    },
+    "record": {
+      "win": 312,
+      "loss": 225,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1714837456,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1714837456,
+      "game": "https://www.chess.com/game/live/25128654061"
+    },
+    "record": {
+      "win": 969,
+      "loss": 722,
+      "draw": 85
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1327854389
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1327854389
+    }
+  },
+  "puzzle_rush": {}
+}

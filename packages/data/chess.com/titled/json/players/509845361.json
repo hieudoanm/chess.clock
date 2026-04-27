@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/509845361.5c1a35b6.200x200o.6797a4ebcdd5.jpg",
+  "player_id": 509845361,
+  "@id": "https://api.chess.com/pub/player/milana-alex",
+  "url": "https://www.chess.com/member/Milana-Alex",
+  "name": "Milana Sokolova",
+  "username": "milana-alex",
+  "title": "WFM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776578356,
+  "joined": 1765694492,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1627,
+      "date": 1770968292,
+      "rd": 326
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1770968291,
+      "game": "https://www.chess.com/game/daily/919305799"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 44358,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2012,
+      "date": 1770545700,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1766651573,
+      "game": "https://www.chess.com/game/live/147488986130"
+    },
+    "record": {
+      "win": 13,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1899,
+      "date": 1775926329,
+      "rd": 63
+    },
+    "best": {
+      "rating": 1991,
+      "date": 1767886098,
+      "game": "https://www.chess.com/game/live/167172085936"
+    },
+    "record": {
+      "win": 18,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2345,
+      "date": 1772457490,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1766511028,
+      "game": "https://www.chess.com/game/live/163412230001"
+    },
+    "record": {
+      "win": 155,
+      "loss": 169,
+      "draw": 34
+    }
+  },
+  "fide": 1914,
+  "tactics": {
+    "highest": {
+      "rating": 2149,
+      "date": 1775926887
+    },
+    "lowest": {
+      "rating": 473,
+      "date": 1765913844
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

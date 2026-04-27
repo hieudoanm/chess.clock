@@ -1,0 +1,84 @@
+{
+  "player_id": 40032318,
+  "@id": "https://api.chess.com/pub/player/josmito10",
+  "url": "https://www.chess.com/member/josmito10",
+  "name": "Miran Oganian",
+  "username": "josmito10",
+  "title": "IM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776539309,
+  "joined": 1509741027,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2119,
+      "date": 1766470085,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2222,
+      "date": 1588986872,
+      "game": "https://www.chess.com/game/live/147064053526"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2807,
+      "date": 1771871764,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1644090485,
+      "game": "https://www.chess.com/game/live/39206455493"
+    },
+    "record": {
+      "win": 2406,
+      "loss": 1759,
+      "draw": 378
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2861,
+      "date": 1771872176,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2920,
+      "date": 1644497486,
+      "game": "https://www.chess.com/game/live/100377085989"
+    },
+    "record": {
+      "win": 2273,
+      "loss": 1811,
+      "draw": 495
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2712,
+      "date": 1509741027
+    },
+    "lowest": {
+      "rating": 2712,
+      "date": 1509741027
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

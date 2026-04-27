@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26836056.bbe9ee9d.200x200o.f6c40021fe97.png",
+  "player_id": 26836056,
+  "@id": "https://api.chess.com/pub/player/mateusz_bronowicki",
+  "url": "https://www.chess.com/member/Mateusz_Bronowicki",
+  "name": "Mateusz Bronowicki",
+  "username": "mateusz_bronowicki",
+  "title": "FM",
+  "followers": 266,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Warszawa",
+  "last_online": 1776443710,
+  "joined": 1456003434,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2023,
+      "date": 1706347710,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2023,
+      "date": 1674758900,
+      "game": "https://www.chess.com/game/daily/190669360"
+    },
+    "record": {
+      "win": 59,
+      "loss": 9,
+      "draw": 5,
+      "time_per_move": 14077,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1438,
+      "date": 1749566247,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1601038084,
+      "game": "https://www.chess.com/game/live/11744570903"
+    },
+    "record": {
+      "win": 31,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2362,
+      "date": 1775655244,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1729885318,
+      "game": "https://www.chess.com/game/live/6030687976"
+    },
+    "record": {
+      "win": 5111,
+      "loss": 4850,
+      "draw": 437
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2580,
+      "date": 1776442979,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2605,
+      "date": 1766938238,
+      "game": "https://www.chess.com/game/live/3798249967"
+    },
+    "record": {
+      "win": 3584,
+      "loss": 3137,
+      "draw": 426
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2474,
+      "date": 1763458245
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1771609214
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

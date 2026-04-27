@@ -1,0 +1,84 @@
+{
+  "player_id": 78403564,
+  "@id": "https://api.chess.com/pub/player/a-s-00",
+  "url": "https://www.chess.com/member/A-S-00",
+  "name": "Assel Serikbay",
+  "username": "a-s-00",
+  "title": "WIM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1645523638,
+  "joined": 1588434840,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2148,
+      "date": 1636562729,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1600593534,
+      "game": "https://www.chess.com/game/live/29088009669"
+    },
+    "record": {
+      "win": 89,
+      "loss": 33,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2192,
+      "date": 1628607534,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2323,
+      "date": 1597852329,
+      "game": "https://www.chess.com/game/live/7924416833"
+    },
+    "record": {
+      "win": 36,
+      "loss": 36,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2269,
+      "date": 1645553043,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1628622384,
+      "game": "https://www.chess.com/game/live/5720570203"
+    },
+    "record": {
+      "win": 265,
+      "loss": 324,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2292,
+      "date": 1588434840
+    },
+    "lowest": {
+      "rating": 2292,
+      "date": 1588434840
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

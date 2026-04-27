@@ -1,0 +1,93 @@
+{
+  "player_id": 58462560,
+  "@id": "https://api.chess.com/pub/player/ashtrainer",
+  "url": "https://www.chess.com/member/AshTrainer",
+  "username": "ashtrainer",
+  "title": "FM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/MV",
+  "last_online": 1776599905,
+  "joined": 1552483993,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1768559919,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 55963,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2253,
+      "date": 1772625870,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1761233971,
+      "game": "https://www.chess.com/game/live/144443328532"
+    },
+    "record": {
+      "win": 188,
+      "loss": 118,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1667,
+      "date": 1715427404,
+      "rd": 251
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1874,
+      "date": 1773233210,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1552661762,
+      "game": "https://www.chess.com/game/live/4416472266"
+    },
+    "record": {
+      "win": 695,
+      "loss": 585,
+      "draw": 47
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2272,
+      "date": 1552483993
+    },
+    "lowest": {
+      "rating": 2272,
+      "date": 1552483993
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

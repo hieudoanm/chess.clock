@@ -1,0 +1,85 @@
+{
+  "player_id": 33687007,
+  "@id": "https://api.chess.com/pub/player/benecyrill",
+  "url": "https://www.chess.com/member/BeneCyrill",
+  "name": "Anselm Wagner",
+  "username": "benecyrill",
+  "title": "FM",
+  "followers": 120,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776594808,
+  "joined": 1488640133,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2947,
+      "date": 1775227277,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2947,
+      "date": 1683905543,
+      "game": "https://www.chess.com/game/live/77643693769"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1776594796,
+      "rd": 14
+    },
+    "best": {
+      "rating": 2790,
+      "date": 1729196517,
+      "game": "https://www.chess.com/game/live/162382625693"
+    },
+    "record": {
+      "win": 81970,
+      "loss": 69148,
+      "draw": 8872
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2761,
+      "date": 1770568278,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2881,
+      "date": 1590953897,
+      "game": "https://www.chess.com/game/live/4916140024"
+    },
+    "record": {
+      "win": 254,
+      "loss": 171,
+      "draw": 27
+    }
+  },
+  "fide": 2421,
+  "tactics": {
+    "highest": {
+      "rating": 2314,
+      "date": 1488640133
+    },
+    "lowest": {
+      "rating": 2314,
+      "date": 1488640133
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 49516152,
+  "@id": "https://api.chess.com/pub/player/protectiago",
+  "url": "https://www.chess.com/member/protectiago",
+  "name": "Tiago Batista Oliveira",
+  "username": "protectiago",
+  "title": "NM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1775830453,
+  "joined": 1536330258,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1603,
+      "date": 1767518924,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1603,
+      "date": 1690300646,
+      "game": "https://www.chess.com/game/daily/539961841"
+    },
+    "record": {
+      "win": 11,
+      "loss": 12,
+      "draw": 0,
+      "time_per_move": 40081,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1790,
+      "date": 1728421112,
+      "rd": 110
+    },
+    "best": {
+      "rating": 1860,
+      "date": 1700603322,
+      "game": "https://www.chess.com/game/live/104630389459"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2059,
+      "date": 1745083796,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1720211674,
+      "game": "https://www.chess.com/game/live/117325831233"
+    },
+    "record": {
+      "win": 3049,
+      "loss": 3179,
+      "draw": 329
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2121,
+      "date": 1536330258
+    },
+    "lowest": {
+      "rating": 2121,
+      "date": 1536330258
+    }
+  },
+  "puzzle_rush": {}
+}

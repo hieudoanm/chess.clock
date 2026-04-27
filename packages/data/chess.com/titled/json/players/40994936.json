@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40994936.2479369b.200x200o.2d6eb68d7077.jpeg",
+  "player_id": 40994936,
+  "@id": "https://api.chess.com/pub/player/chessfatbear",
+  "url": "https://www.chess.com/member/chessfatbear",
+  "name": "Jun Zhao",
+  "username": "chessfatbear",
+  "title": "GM",
+  "followers": 137,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1775643624,
+  "joined": 1512393333,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2486,
+      "date": 1656665490,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1652544897,
+      "game": "https://www.chess.com/game/live/46285732577"
+    },
+    "record": {
+      "win": 6,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1746498324,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2841,
+      "date": 1603188464,
+      "game": "https://www.chess.com/game/live/3418553053"
+    },
+    "record": {
+      "win": 177,
+      "loss": 169,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2864,
+      "date": 1774543877,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1764184677,
+      "game": "https://www.chess.com/game/live/73760433485"
+    },
+    "record": {
+      "win": 1134,
+      "loss": 970,
+      "draw": 316
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2902,
+      "date": 1775318323
+    },
+    "lowest": {
+      "rating": 2561,
+      "date": 1765004415
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

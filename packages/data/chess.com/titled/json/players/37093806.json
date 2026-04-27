@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37093806.d4cfe70b.200x200o.579a86366369.jpg",
+  "player_id": 37093806,
+  "@id": "https://api.chess.com/pub/player/aleksey_sorokin",
+  "url": "https://www.chess.com/member/Aleksey_Sorokin",
+  "name": "Aleksey Sorokin",
+  "username": "aleksey_sorokin",
+  "title": "GM",
+  "followers": 313,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Lubbock",
+  "last_online": 1776576390,
+  "joined": 1500279399,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1572,
+      "date": 1747124922,
+      "rd": 262
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1500279399,
+      "game": "https://www.chess.com/game/daily/641662037"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 6957,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2553,
+      "date": 1764163745,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1668381953,
+      "game": "https://www.chess.com/game/live/62115656965"
+    },
+    "record": {
+      "win": 60,
+      "loss": 13,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2842,
+      "date": 1728860549,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2849,
+      "date": 1613104139,
+      "game": "https://www.chess.com/game/live/6508998024"
+    },
+    "record": {
+      "win": 443,
+      "loss": 313,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2959,
+      "date": 1774655802,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3065,
+      "date": 1773329827,
+      "game": "https://www.chess.com/game/live/166137426580"
+    },
+    "record": {
+      "win": 4315,
+      "loss": 2794,
+      "draw": 1093
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2703,
+      "date": 1757840817
+    },
+    "lowest": {
+      "rating": 2438,
+      "date": 1757841023
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

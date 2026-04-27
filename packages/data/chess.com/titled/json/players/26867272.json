@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26867272.0496c4fd.200x200o.89ccc5145ecc.jpg",
+  "player_id": 26867272,
+  "@id": "https://api.chess.com/pub/player/jospem",
+  "url": "https://www.chess.com/member/Jospem",
+  "name": "Jose Martinez",
+  "username": "jospem",
+  "title": "GM",
+  "followers": 33709,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "Puebla",
+  "last_online": 1776590735,
+  "joined": 1456152005,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 827,
+      "date": 1727779106,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1456152005,
+      "game": "https://www.chess.com/game/daily/168679492"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 126,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2616,
+      "date": 1774463041,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2752,
+      "date": 1715365255,
+      "game": "https://www.chess.com/game/live/109099316843"
+    },
+    "record": {
+      "win": 400,
+      "loss": 151,
+      "draw": 185
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3248,
+      "date": 1776533738,
+      "rd": 30
+    },
+    "best": {
+      "rating": 3276,
+      "date": 1775930310,
+      "game": "https://www.chess.com/game/live/162984427875"
+    },
+    "record": {
+      "win": 12991,
+      "loss": 6083,
+      "draw": 1336
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3213,
+      "date": 1776450507,
+      "rd": 30
+    },
+    "best": {
+      "rating": 3282,
+      "date": 1771363068,
+      "game": "https://www.chess.com/game/live/161616427459"
+    },
+    "record": {
+      "win": 18751,
+      "loss": 7914,
+      "draw": 3514
+    }
+  },
+  "fide": 2620,
+  "tactics": {
+    "highest": {
+      "rating": 2690,
+      "date": 1456152005
+    },
+    "lowest": {
+      "rating": 2690,
+      "date": 1456152005
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 96,
+      "score": 93
+    },
+    "daily": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

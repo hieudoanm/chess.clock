@@ -1,0 +1,69 @@
+{
+  "player_id": 181519893,
+  "@id": "https://api.chess.com/pub/player/abdulst",
+  "url": "https://www.chess.com/member/abdulst",
+  "name": "Abdul Shtanchaev",
+  "username": "abdulst",
+  "title": "IM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Ekaterenburg",
+  "last_online": 1776587472,
+  "joined": 1650809789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2190,
+      "date": 1774713665,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1720511570,
+      "game": "https://www.chess.com/game/live/113335152971"
+    },
+    "record": {
+      "win": 63,
+      "loss": 9,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1776310078,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1752682300,
+      "game": "https://www.chess.com/game/live/140755273742"
+    },
+    "record": {
+      "win": 5323,
+      "loss": 4312,
+      "draw": 686
+    }
+  },
+  "fide": 2500,
+  "tactics": {
+    "highest": {
+      "rating": 2315,
+      "date": 1755750530
+    },
+    "lowest": {
+      "rating": 1990,
+      "date": 1755705136
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 3,
+      "score": 3
+    }
+  }
+}

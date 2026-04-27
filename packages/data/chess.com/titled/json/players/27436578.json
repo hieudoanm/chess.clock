@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27436578.1ea94c39.200x200o.8580919311d2.jpeg",
+  "player_id": 27436578,
+  "@id": "https://api.chess.com/pub/player/filipklim",
+  "url": "https://www.chess.com/member/FilipKlim",
+  "name": "Filip Klim",
+  "username": "filipklim",
+  "title": "CM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Warszawa",
+  "last_online": 1776596705,
+  "joined": 1458978442,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1329,
+      "date": 1757679635,
+      "rd": 188
+    },
+    "best": {
+      "rating": 1443,
+      "date": 1466360519,
+      "game": "https://www.chess.com/game/daily/132259896"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 59514,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2213,
+      "date": 1762961699,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1762961072,
+      "game": "https://www.chess.com/game/live/145426811950"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2158,
+      "date": 1764458177,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1758917318,
+      "game": "https://www.chess.com/game/live/35833218963"
+    },
+    "record": {
+      "win": 33,
+      "loss": 22,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2508,
+      "date": 1776456845,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2649,
+      "date": 1761342350,
+      "game": "https://www.chess.com/game/live/159005252459"
+    },
+    "record": {
+      "win": 552,
+      "loss": 491,
+      "draw": 105
+    }
+  },
+  "fide": 2212,
+  "tactics": {
+    "highest": {
+      "rating": 2715,
+      "date": 1760127753
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1771529396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 48
+    }
+  }
+}

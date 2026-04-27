@@ -1,0 +1,67 @@
+{
+  "player_id": 196852097,
+  "@id": "https://api.chess.com/pub/player/chess_boricua",
+  "url": "https://www.chess.com/member/chess_boricua",
+  "name": "Jean P. Lugo Roldan",
+  "username": "chess_boricua",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776575735,
+  "joined": 1662937117,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2520,
+      "date": 1729465485,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2554,
+      "date": 1726173341,
+      "game": "https://www.chess.com/game/live/119910076189"
+    },
+    "record": {
+      "win": 156,
+      "loss": 153,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2696,
+      "date": 1771901221,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1738026201,
+      "game": "https://www.chess.com/game/live/131597415573"
+    },
+    "record": {
+      "win": 1824,
+      "loss": 2042,
+      "draw": 296
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2325,
+      "date": 1761157459
+    },
+    "lowest": {
+      "rating": 2063,
+      "date": 1776574989
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

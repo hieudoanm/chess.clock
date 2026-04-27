@@ -1,0 +1,78 @@
+{
+  "player_id": 73939686,
+  "@id": "https://api.chess.com/pub/player/generation_xl",
+  "url": "https://www.chess.com/member/Generation_XL",
+  "username": "generation_xl",
+  "title": "IM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/MQ",
+  "last_online": 1776108471,
+  "joined": 1584703697,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2416,
+      "date": 1743607401,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2966,
+      "date": 1773931822,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2966,
+      "date": 1773931822,
+      "game": "https://www.chess.com/game/live/126912566513"
+    },
+    "record": {
+      "win": 212,
+      "loss": 86,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2889,
+      "date": 1775939806,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3010,
+      "date": 1766593751,
+      "game": "https://www.chess.com/game/live/165560829356"
+    },
+    "record": {
+      "win": 599,
+      "loss": 396,
+      "draw": 120
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1584703697
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1584703697
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 48
+    }
+  }
+}

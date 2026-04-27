@@ -1,0 +1,102 @@
+{
+  "player_id": 76784030,
+  "@id": "https://api.chess.com/pub/player/zaviob",
+  "url": "https://www.chess.com/member/zaviob",
+  "name": "Bogdan-Gabriel Vioreanu",
+  "username": "zaviob",
+  "title": "IM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1772165591,
+  "joined": 1586962665,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1937,
+      "date": 1773736162,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1660637191,
+      "game": "https://www.chess.com/game/daily/387989921"
+    },
+    "record": {
+      "win": 35,
+      "loss": 15,
+      "draw": 1,
+      "time_per_move": 78924,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1659966790,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1659966789,
+      "game": "https://www.chess.com/game/daily/418322183"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 78924,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2360,
+      "date": 1715222473,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1613877695,
+      "game": "https://www.chess.com/game/live/6540376172"
+    },
+    "record": {
+      "win": 24,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2519,
+      "date": 1733590875,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1733590875,
+      "game": "https://www.chess.com/game/live/6568758472"
+    },
+    "record": {
+      "win": 27,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2797,
+      "date": 1772165459
+    },
+    "lowest": {
+      "rating": 2685,
+      "date": 1772165498
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 72830774,
+  "@id": "https://api.chess.com/pub/player/blitzmaster1995",
+  "url": "https://www.chess.com/member/blitzmaster1995",
+  "name": "Zoltan Becskei",
+  "username": "blitzmaster1995",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776515122,
+  "joined": 1582927490,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2032,
+      "date": 1745396961,
+      "rd": 326
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1713805342,
+      "game": "https://www.chess.com/game/daily/643937377"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 29777,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1739041625,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2152,
+      "date": 1709911743,
+      "game": "https://www.chess.com/game/live/103564265629"
+    },
+    "record": {
+      "win": 54,
+      "loss": 42,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2568,
+      "date": 1776200409,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2599,
+      "date": 1776197684,
+      "game": "https://www.chess.com/game/live/42041979691"
+    },
+    "record": {
+      "win": 2966,
+      "loss": 2656,
+      "draw": 379
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2324,
+      "date": 1582927490
+    },
+    "lowest": {
+      "rating": 2324,
+      "date": 1582927490
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 1377051,
+  "@id": "https://api.chess.com/pub/player/davigator",
+  "url": "https://www.chess.com/member/davigator",
+  "name": "David Okike",
+  "username": "davigator",
+  "title": "CM",
+  "followers": 235,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1776596848,
+  "joined": 1210197034,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1771937471,
+      "rd": 331
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1766588544,
+      "game": "https://www.chess.com/game/daily/189340850"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 55263,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2014,
+      "date": 1741091459,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2022,
+      "date": 1609689535,
+      "game": "https://www.chess.com/game/live/2327598120"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1572566100,
+      "rd": 315
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2258,
+      "date": 1776587655,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1622572143,
+      "game": "https://www.chess.com/game/live/5644274196"
+    },
+    "record": {
+      "win": 42095,
+      "loss": 33908,
+      "draw": 4675
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1760798106
+    },
+    "lowest": {
+      "rating": 2115,
+      "date": 1772123089
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 52
+    }
+  }
+}

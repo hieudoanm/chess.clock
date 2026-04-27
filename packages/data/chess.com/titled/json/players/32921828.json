@@ -1,0 +1,102 @@
+{
+  "player_id": 32921828,
+  "@id": "https://api.chess.com/pub/player/the_knyght",
+  "url": "https://www.chess.com/member/The_Knyght",
+  "username": "the_knyght",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776337628,
+  "joined": 1486220328,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2062,
+      "date": 1711626323,
+      "rd": 261
+    },
+    "best": {
+      "rating": 2062,
+      "date": 1614761592,
+      "game": "https://www.chess.com/game/daily/228371890"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4051,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2027,
+      "date": 1733161346,
+      "rd": 249
+    },
+    "best": {
+      "rating": 2027,
+      "date": 1608198390,
+      "game": "https://www.chess.com/game/live/5987561993"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2270,
+      "date": 1625821188,
+      "rd": 175
+    },
+    "best": {
+      "rating": 2367,
+      "date": 1493044280,
+      "game": "https://www.chess.com/game/live/2066403596"
+    },
+    "record": {
+      "win": 50,
+      "loss": 29,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2245,
+      "date": 1764529676,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1637136527,
+      "game": "https://www.chess.com/game/live/30875320103"
+    },
+    "record": {
+      "win": 371,
+      "loss": 237,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2351,
+      "date": 1765008783
+    },
+    "lowest": {
+      "rating": 2275,
+      "date": 1770873497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

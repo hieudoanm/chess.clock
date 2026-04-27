@@ -1,0 +1,83 @@
+{
+  "player_id": 74063222,
+  "@id": "https://api.chess.com/pub/player/thornbird2020",
+  "url": "https://www.chess.com/member/thornbird2020",
+  "name": "Rianne Ke",
+  "username": "thornbird2020",
+  "title": "WCM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1600091697,
+  "joined": 1584811424,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1945,
+      "date": 1600206690,
+      "rd": 130
+    },
+    "best": {
+      "rating": 1959,
+      "date": 1595792085,
+      "game": "https://www.chess.com/game/live/5208351306"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1902,
+      "date": 1585437999,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1752,
+      "date": 1585437999,
+      "game": "https://www.chess.com/game/live/4650291101"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1879,
+      "date": 1595782387,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1893,
+      "date": 1587240963,
+      "game": "https://www.chess.com/game/live/4708969510"
+    },
+    "record": {
+      "win": 34,
+      "loss": 25,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2128,
+      "date": 1584811424
+    },
+    "lowest": {
+      "rating": 2128,
+      "date": 1584811424
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

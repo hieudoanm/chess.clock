@@ -1,0 +1,62 @@
+{
+  "player_id": 92823628,
+  "@id": "https://api.chess.com/pub/player/tiger-85",
+  "url": "https://www.chess.com/member/TIGER-85",
+  "username": "tiger-85",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New york",
+  "last_online": 1776569702,
+  "joined": 1602313089,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2157,
+      "date": 1678121296,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1602740709,
+      "game": "https://www.chess.com/game/live/5718451547"
+    },
+    "record": {
+      "win": 119,
+      "loss": 125,
+      "draw": 39
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2299,
+      "date": 1673885139,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1673240979,
+      "game": "https://www.chess.com/game/live/65984661815"
+    },
+    "record": {
+      "win": 107,
+      "loss": 103,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1602313089
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1602313089
+    }
+  },
+  "puzzle_rush": {}
+}

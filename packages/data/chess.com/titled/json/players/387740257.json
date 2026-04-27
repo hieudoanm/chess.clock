@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/387740257.99ee3022.200x200o.6c771c498059.png",
+  "player_id": 387740257,
+  "@id": "https://api.chess.com/pub/player/medzhyk",
+  "url": "https://www.chess.com/member/Medzhyk",
+  "username": "medzhyk",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776551876,
+  "joined": 1726076741,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2467,
+      "date": 1774017322,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1773576324,
+      "game": "https://www.chess.com/game/live/165953322064"
+    },
+    "record": {
+      "win": 26,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2828,
+      "date": 1770889378,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2944,
+      "date": 1750273754,
+      "game": "https://www.chess.com/game/live/139732305454"
+    },
+    "record": {
+      "win": 365,
+      "loss": 342,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3015,
+      "date": 1774813703,
+      "rd": 34
+    },
+    "best": {
+      "rating": 3061,
+      "date": 1774638465,
+      "game": "https://www.chess.com/game/live/166249111830"
+    },
+    "record": {
+      "win": 799,
+      "loss": 865,
+      "draw": 196
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2714,
+      "date": 1770311869
+    },
+    "lowest": {
+      "rating": 2392,
+      "date": 1760481413
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

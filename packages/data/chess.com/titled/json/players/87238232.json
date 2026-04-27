@@ -1,0 +1,81 @@
+{
+  "player_id": 87238232,
+  "@id": "https://api.chess.com/pub/player/dynamischestrategie",
+  "url": "https://www.chess.com/member/DynamischeStrategie",
+  "name": "Vlastimil Jansa",
+  "username": "dynamischestrategie",
+  "title": "GM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Praha",
+  "last_online": 1776435629,
+  "joined": 1595342274,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2407,
+      "date": 1769626796,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2464,
+      "date": 1681662540,
+      "game": "https://www.chess.com/game/live/109134662681"
+    },
+    "record": {
+      "win": 2075,
+      "loss": 1543,
+      "draw": 326
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1759,
+      "date": 1728005289,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2088,
+      "date": 1726106344,
+      "game": "https://www.chess.com/game/live/119845789317"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2183,
+      "date": 1769368575,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1614125646,
+      "game": "https://www.chess.com/game/live/6358489775"
+    },
+    "record": {
+      "win": 209,
+      "loss": 155,
+      "draw": 8
+    }
+  },
+  "fide": 2330,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1595342274
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1595342274
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 364272973,
+  "@id": "https://api.chess.com/pub/player/tenchess28",
+  "url": "https://www.chess.com/member/TENCHESS28",
+  "username": "tenchess28",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1719235209,
+  "joined": 1716170071,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2086,
+      "date": 1719177223,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1717608160,
+      "game": "https://www.chess.com/game/live/111346310373"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2119,
+      "date": 1718582522,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1716245534,
+      "game": "https://www.chess.com/game/live/111163281087"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1719178358,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2615,
+      "date": 1717703854,
+      "game": "https://www.chess.com/game/live/112818665341"
+    },
+    "record": {
+      "win": 125,
+      "loss": 39,
+      "draw": 9
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1716170071
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1716170071
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

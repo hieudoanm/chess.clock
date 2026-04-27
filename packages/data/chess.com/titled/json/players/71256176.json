@@ -1,0 +1,104 @@
+{
+  "player_id": 71256176,
+  "@id": "https://api.chess.com/pub/player/adic2020",
+  "url": "https://www.chess.com/member/adic2020",
+  "name": "Andres Ingunza Curro",
+  "username": "adic2020",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776337236,
+  "joined": 1579949715,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 826,
+      "date": 1755190324,
+      "rd": 194
+    },
+    "best": {
+      "rating": 933,
+      "date": 1751409513,
+      "game": "https://www.chess.com/game/daily/819349660"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 86156,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2284,
+      "date": 1737970180,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1675078376,
+      "game": "https://www.chess.com/game/live/78810030397"
+    },
+    "record": {
+      "win": 13,
+      "loss": 11,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2632,
+      "date": 1775993024,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1759958830,
+      "game": "https://www.chess.com/game/live/144059229262"
+    },
+    "record": {
+      "win": 460,
+      "loss": 359,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2653,
+      "date": 1772811659,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1770289968,
+      "game": "https://www.chess.com/game/live/164132155200"
+    },
+    "record": {
+      "win": 327,
+      "loss": 263,
+      "draw": 48
+    }
+  },
+  "fide": 2367,
+  "tactics": {
+    "highest": {
+      "rating": 2372,
+      "date": 1760710322
+    },
+    "lowest": {
+      "rating": 1290,
+      "date": 1766179976
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

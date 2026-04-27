@@ -1,0 +1,67 @@
+{
+  "player_id": 282555345,
+  "@id": "https://api.chess.com/pub/player/profesore123",
+  "url": "https://www.chess.com/member/Profesore123",
+  "username": "profesore123",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1769714504,
+  "joined": 1683287418,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2109,
+      "date": 1734261612,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1734180482,
+      "game": "https://www.chess.com/game/live/128000361691"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2528,
+      "date": 1764970671,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1764969357,
+      "game": "https://www.chess.com/game/live/146357540266"
+    },
+    "record": {
+      "win": 13,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1683287418
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1683287418
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

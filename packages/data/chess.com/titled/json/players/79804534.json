@@ -1,0 +1,67 @@
+{
+  "player_id": 79804534,
+  "@id": "https://api.chess.com/pub/player/machidon",
+  "url": "https://www.chess.com/member/Machidon",
+  "name": "Cristi Machidon",
+  "username": "machidon",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/MD",
+  "last_online": 1753547400,
+  "joined": 1589756411,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2373,
+      "date": 1740325884,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1618948776,
+      "game": "https://www.chess.com/game/live/76621239865"
+    },
+    "record": {
+      "win": 27,
+      "loss": 5,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1744754527,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1665507007,
+      "game": "https://www.chess.com/game/live/60471098857"
+    },
+    "record": {
+      "win": 381,
+      "loss": 301,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1589756411
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1589756411
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

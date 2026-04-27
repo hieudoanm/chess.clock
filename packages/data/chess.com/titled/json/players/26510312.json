@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26510312.17f71d53.200x200o.1636019c6724.jpeg",
+  "player_id": 26510312,
+  "@id": "https://api.chess.com/pub/player/fodorpoti",
+  "url": "https://www.chess.com/member/fodorpoti",
+  "name": "Tamas Fodor",
+  "username": "fodorpoti",
+  "title": "GM",
+  "followers": 117,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1776583687,
+  "joined": 1454589387,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1679,
+      "date": 1632829070,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1464057497,
+      "game": "https://www.chess.com/game/daily/131097842"
+    },
+    "record": {
+      "win": 15,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 53068,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2272,
+      "date": 1673614755,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1591460931,
+      "game": "https://www.chess.com/game/live/4961647416"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2739,
+      "date": 1715597486,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2769,
+      "date": 1695849921,
+      "game": "https://www.chess.com/game/live/107088086717"
+    },
+    "record": {
+      "win": 50,
+      "loss": 24,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2786,
+      "date": 1758720644,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2893,
+      "date": 1706533734,
+      "game": "https://www.chess.com/game/live/4943370527"
+    },
+    "record": {
+      "win": 524,
+      "loss": 344,
+      "draw": 78
+    }
+  },
+  "fide": 2494,
+  "tactics": {
+    "highest": {
+      "rating": 2647,
+      "date": 1758629277
+    },
+    "lowest": {
+      "rating": 2549,
+      "date": 1758629387
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2354084.319f29a2.200x200o.edca04ca301a.jpeg",
+  "player_id": 2354084,
+  "@id": "https://api.chess.com/pub/player/jagllan",
+  "url": "https://www.chess.com/member/jagllan",
+  "name": "Jason Garcia",
+  "username": "jagllan",
+  "title": "FM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/XW",
+  "location": "Wales",
+  "last_online": 1776595761,
+  "joined": 1260052351,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1465,
+      "date": 1733398793,
+      "rd": 226
+    },
+    "best": {
+      "rating": 1465,
+      "date": 1570272578,
+      "game": "https://www.chess.com/game/daily/238034462"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1551,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1993,
+      "date": 1733398793,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1596890429,
+      "game": "https://www.chess.com/game/live/26417794"
+    },
+    "record": {
+      "win": 83,
+      "loss": 114,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1644,
+      "date": 1776449525,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1739622310,
+      "game": "https://www.chess.com/game/live/138984503708"
+    },
+    "record": {
+      "win": 182,
+      "loss": 248,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2140,
+      "date": 1776595544,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1756373266,
+      "game": "https://www.chess.com/game/live/100029835337"
+    },
+    "record": {
+      "win": 28073,
+      "loss": 24881,
+      "draw": 3957
+    }
+  },
+  "fide": 1993,
+  "tactics": {
+    "highest": {
+      "rating": 2123,
+      "date": 1763197023
+    },
+    "lowest": {
+      "rating": 1988,
+      "date": 1760183182
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

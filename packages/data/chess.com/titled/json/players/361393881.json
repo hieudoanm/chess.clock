@@ -1,0 +1,83 @@
+{
+  "player_id": 361393881,
+  "@id": "https://api.chess.com/pub/player/flapjackpalmdale",
+  "url": "https://www.chess.com/member/FlapjackPalmdale",
+  "username": "flapjackpalmdale",
+  "title": "NM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/CW",
+  "last_online": 1776575595,
+  "joined": 1714936543,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2174,
+      "date": 1774569722,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2181,
+      "date": 1774504321,
+      "game": "https://www.chess.com/game/live/166442109580"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2674,
+      "date": 1776560580,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2716,
+      "date": 1774024919,
+      "game": "https://www.chess.com/game/live/130097982377"
+    },
+    "record": {
+      "win": 263,
+      "loss": 314,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2715,
+      "date": 1776533106,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2732,
+      "date": 1775714992,
+      "game": "https://www.chess.com/game/live/121402800829"
+    },
+    "record": {
+      "win": 424,
+      "loss": 465,
+      "draw": 74
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 907,
+      "date": 1770481731
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1758672144
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

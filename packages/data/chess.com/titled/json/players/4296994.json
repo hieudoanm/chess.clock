@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4296994.4ea636ab.200x200o.22007fcf1a65.png",
+  "player_id": 4296994,
+  "@id": "https://api.chess.com/pub/player/gmsolver",
+  "url": "https://www.chess.com/member/gmsolver",
+  "name": "Kacper Piorun",
+  "username": "gmsolver",
+  "title": "GM",
+  "followers": 409,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "\u0141owicz",
+  "last_online": 1776461008,
+  "joined": 1290592089,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmsolver",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmsolver"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2354,
+      "date": 1742306011,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1586614297,
+      "game": "https://www.chess.com/game/daily/198329342"
+    },
+    "record": {
+      "win": 214,
+      "loss": 39,
+      "draw": 24,
+      "time_per_move": 21492,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2429,
+      "date": 1734697757,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1590773074,
+      "game": "https://www.chess.com/game/live/4929262790"
+    },
+    "record": {
+      "win": 21,
+      "loss": 37,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2871,
+      "date": 1770377836,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2994,
+      "date": 1641550921,
+      "game": "https://www.chess.com/game/live/82398807677"
+    },
+    "record": {
+      "win": 1407,
+      "loss": 457,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2889,
+      "date": 1770378206,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2994,
+      "date": 1642094287,
+      "game": "https://www.chess.com/game/live/150020893687"
+    },
+    "record": {
+      "win": 1862,
+      "loss": 926,
+      "draw": 380
+    }
+  },
+  "fide": 2577,
+  "tactics": {
+    "highest": {
+      "rating": 2927,
+      "date": 1771411802
+    },
+    "lowest": {
+      "rating": 2672,
+      "date": 1760096150
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

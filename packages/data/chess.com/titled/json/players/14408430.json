@@ -1,0 +1,85 @@
+{
+  "player_id": 14408430,
+  "@id": "https://api.chess.com/pub/player/zapateado",
+  "url": "https://www.chess.com/member/Zapateado",
+  "name": "David Bernat",
+  "username": "zapateado",
+  "title": "NM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776593768,
+  "joined": 1384554089,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2324,
+      "date": 1773685908,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1606699693,
+      "game": "https://www.chess.com/game/live/5850593604"
+    },
+    "record": {
+      "win": 148,
+      "loss": 100,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2575,
+      "date": 1776395370,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2662,
+      "date": 1767652947,
+      "game": "https://www.chess.com/game/live/147605020740"
+    },
+    "record": {
+      "win": 1310,
+      "loss": 1227,
+      "draw": 164
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1776522130,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1775011894,
+      "game": "https://www.chess.com/game/live/170683844221"
+    },
+    "record": {
+      "win": 1881,
+      "loss": 1680,
+      "draw": 299
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1770793785
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1775745941
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

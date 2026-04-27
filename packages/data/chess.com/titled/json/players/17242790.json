@@ -1,0 +1,86 @@
+{
+  "player_id": 17242790,
+  "@id": "https://api.chess.com/pub/player/tacticalnas",
+  "url": "https://www.chess.com/member/TacticalNAS",
+  "name": "Nassim Sakr",
+  "username": "tacticalnas",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Quebec",
+  "last_online": 1776529615,
+  "joined": 1399697224,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1757106318,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1693845856,
+      "game": "https://www.chess.com/game/live/142772920792"
+    },
+    "record": {
+      "win": 16,
+      "loss": 29,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2502,
+      "date": 1764975790,
+      "rd": 14
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1764975790,
+      "game": "https://www.chess.com/game/live/104097693313"
+    },
+    "record": {
+      "win": 6786,
+      "loss": 8073,
+      "draw": 955
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2378,
+      "date": 1776552722,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2521,
+      "date": 1767492269,
+      "game": "https://www.chess.com/game/live/86802660537"
+    },
+    "record": {
+      "win": 2525,
+      "loss": 2899,
+      "draw": 433
+    }
+  },
+  "fide": 2160,
+  "tactics": {
+    "highest": {
+      "rating": 2378,
+      "date": 1761917459
+    },
+    "lowest": {
+      "rating": 2378,
+      "date": 1761917459
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

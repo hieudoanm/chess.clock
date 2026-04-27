@@ -1,0 +1,84 @@
+{
+  "player_id": 91245012,
+  "@id": "https://api.chess.com/pub/player/vidityt",
+  "url": "https://www.chess.com/member/ViditYT",
+  "name": "Vidit Gujrathi",
+  "username": "vidityt",
+  "title": "GM",
+  "followers": 3146,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1624958992,
+  "joined": 1600135259,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2470,
+      "date": 1621069231,
+      "rd": 255
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1621069231,
+      "game": "https://www.chess.com/game/live/13884172195"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2901,
+      "date": 1624167104,
+      "rd": 56
+    },
+    "best": {
+      "rating": 3122,
+      "date": 1608277941,
+      "game": "https://www.chess.com/game/live/5762359114"
+    },
+    "record": {
+      "win": 141,
+      "loss": 125,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3026,
+      "date": 1624262931,
+      "rd": 38
+    },
+    "best": {
+      "rating": 3024,
+      "date": 1611574706,
+      "game": "https://www.chess.com/game/live/5893958143"
+    },
+    "record": {
+      "win": 322,
+      "loss": 127,
+      "draw": 60
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2451,
+      "date": 1600135259
+    },
+    "lowest": {
+      "rating": 2451,
+      "date": 1600135259
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

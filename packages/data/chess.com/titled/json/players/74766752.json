@@ -1,0 +1,104 @@
+{
+  "player_id": 74766752,
+  "@id": "https://api.chess.com/pub/player/xiaotong2008",
+  "url": "https://www.chess.com/member/xiaotong2008",
+  "name": "Xiao Tong",
+  "username": "xiaotong2008",
+  "title": "GM",
+  "followers": 382,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776566723,
+  "joined": 1585369383,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2289,
+      "date": 1724937438,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1649250003,
+      "game": "https://www.chess.com/game/daily/394960421"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 19036,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2526,
+      "date": 1762746405,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1747671816,
+      "game": "https://www.chess.com/game/live/141981648397"
+    },
+    "record": {
+      "win": 40,
+      "loss": 17,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3102,
+      "date": 1773905823,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3102,
+      "date": 1757238360,
+      "game": "https://www.chess.com/game/live/151488488471"
+    },
+    "record": {
+      "win": 1015,
+      "loss": 772,
+      "draw": 138
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3058,
+      "date": 1776419314,
+      "rd": 44
+    },
+    "best": {
+      "rating": 3179,
+      "date": 1760590443,
+      "game": "https://www.chess.com/game/live/154167999321"
+    },
+    "record": {
+      "win": 2258,
+      "loss": 1659,
+      "draw": 528
+    }
+  },
+  "fide": 2555,
+  "tactics": {
+    "highest": {
+      "rating": 2862,
+      "date": 1760006334
+    },
+    "lowest": {
+      "rating": 2703,
+      "date": 1760808117
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

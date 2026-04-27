@@ -1,0 +1,83 @@
+{
+  "player_id": 118905218,
+  "@id": "https://api.chess.com/pub/player/adnan_nn",
+  "url": "https://www.chess.com/member/adnan_nn",
+  "name": "adnan nadimifar",
+  "username": "adnan_nn",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1619525616,
+  "joined": 1612611129,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2244,
+      "date": 1619364519,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1615819837,
+      "game": "https://www.chess.com/game/live/9504281127"
+    },
+    "record": {
+      "win": 15,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2366,
+      "date": 1619552837,
+      "rd": 12
+    },
+    "best": {
+      "rating": 2498,
+      "date": 1618540384,
+      "game": "https://www.chess.com/game/live/11494433119"
+    },
+    "record": {
+      "win": 1247,
+      "loss": 1355,
+      "draw": 145
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2730,
+      "date": 1619550321,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1619550321,
+      "game": "https://www.chess.com/game/live/12077143081"
+    },
+    "record": {
+      "win": 154,
+      "loss": 106,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1612611129
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1612611129
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 26
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "player_id": 1979993,
+  "@id": "https://api.chess.com/pub/player/springare",
+  "url": "https://www.chess.com/member/springare",
+  "name": "martin nilsson",
+  "username": "springare",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "san diego",
+  "last_online": 1776434156,
+  "joined": 1245277450,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1325,
+      "date": 1541752806,
+      "rd": 315
+    },
+    "best": {
+      "rating": 2239,
+      "date": 1463535174,
+      "game": "https://www.chess.com/game/daily/86925132"
+    },
+    "record": {
+      "win": 14,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 2625,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1436,
+      "date": 1463936471,
+      "rd": 240
+    },
+    "best": {
+      "rating": 1436,
+      "date": 1463936471,
+      "game": "https://www.chess.com/game/daily/135431650"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2625,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2106,
+      "date": 1637372569,
+      "rd": 253
+    },
+    "best": {
+      "rating": 2106,
+      "date": 1637372569,
+      "game": "https://www.chess.com/game/live/31109392863"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2206,
+      "date": 1371957557,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1337041098,
+      "game": "https://www.chess.com/game/live/311374780"
+    },
+    "record": {
+      "win": 823,
+      "loss": 497,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1596,
+      "date": 1635303867,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1337055871,
+      "game": "https://www.chess.com/game/live/297754940"
+    },
+    "record": {
+      "win": 328,
+      "loss": 181,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2404,
+      "date": 1245277450
+    },
+    "lowest": {
+      "rating": 2404,
+      "date": 1245277450
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 33
+    }
+  }
+}

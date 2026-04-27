@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26510186.9b9cea92.200x200o.a27c03dbe299.jpeg",
+  "player_id": 26510186,
+  "@id": "https://api.chess.com/pub/player/vladdobrov",
+  "url": "https://www.chess.com/member/VladDobrov",
+  "name": "Vladimir Dobrov",
+  "username": "vladdobrov",
+  "title": "GM",
+  "followers": 1755,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1650415765,
+  "joined": 1454588723,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2455,
+      "date": 1610594992,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1567191996,
+      "game": "https://www.chess.com/game/live/3991747512"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2815,
+      "date": 1643742606,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2868,
+      "date": 1620084836,
+      "game": "https://www.chess.com/game/live/4081479559"
+    },
+    "record": {
+      "win": 1028,
+      "loss": 951,
+      "draw": 128
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2899,
+      "date": 1650415130,
+      "rd": 40
+    },
+    "best": {
+      "rating": 3011,
+      "date": 1565347574,
+      "game": "https://www.chess.com/game/live/44146508677"
+    },
+    "record": {
+      "win": 4932,
+      "loss": 3860,
+      "draw": 821
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2503,
+      "date": 1454588723
+    },
+    "lowest": {
+      "rating": 2503,
+      "date": 1454588723
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

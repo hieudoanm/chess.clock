@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74678294.f4577f43.200x200o.03133ee85c84.jpeg",
+  "player_id": 74678294,
+  "@id": "https://api.chess.com/pub/player/zabdumalik",
+  "url": "https://www.chess.com/member/ZAbdumalik",
+  "name": "Zhansaya Abdumalik",
+  "username": "zabdumalik",
+  "title": "GM",
+  "followers": 767,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "Almaty",
+  "last_online": 1776272559,
+  "joined": 1585308561,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/zabdumalik",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/zabdumalik"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2499,
+      "date": 1690624588,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1607157619,
+      "game": "https://www.chess.com/game/live/28143621733"
+    },
+    "record": {
+      "win": 14,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2629,
+      "date": 1655564250,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1619005565,
+      "game": "https://www.chess.com/game/live/12744328923"
+    },
+    "record": {
+      "win": 34,
+      "loss": 38,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2730,
+      "date": 1717195489,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1591721801,
+      "game": "https://www.chess.com/game/live/5217722897"
+    },
+    "record": {
+      "win": 227,
+      "loss": 181,
+      "draw": 55
+    }
+  },
+  "fide": 2478,
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1585308561
+    },
+    "lowest": {
+      "rating": 2553,
+      "date": 1585308561
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

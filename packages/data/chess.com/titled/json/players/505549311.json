@@ -1,0 +1,62 @@
+{
+  "player_id": 505549311,
+  "@id": "https://api.chess.com/pub/player/anonymous-12341234",
+  "url": "https://www.chess.com/member/anonymous-12341234",
+  "username": "anonymous-12341234",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776483624,
+  "joined": 1764468415,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2608,
+      "date": 1775618236,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1771126015,
+      "game": "https://www.chess.com/game/live/147981942870"
+    },
+    "record": {
+      "win": 20,
+      "loss": 18,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2543,
+      "date": 1774221933,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1773795117,
+      "game": "https://www.chess.com/game/live/166079214678"
+    },
+    "record": {
+      "win": 56,
+      "loss": 30,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2481,
+      "date": 1764694671
+    },
+    "lowest": {
+      "rating": 2200,
+      "date": 1764694532
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 6504901,
+  "@id": "https://api.chess.com/pub/player/orwaid",
+  "url": "https://www.chess.com/member/orwaid",
+  "name": "Carl Haessler",
+  "username": "orwaid",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1723979129,
+  "joined": 1326678779,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1680,
+      "date": 1705327244,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1864,
+      "date": 1547522551,
+      "game": "https://www.chess.com/game/daily/214118644"
+    },
+    "record": {
+      "win": 22,
+      "loss": 23,
+      "draw": 0,
+      "time_per_move": 9779,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2126,
+      "date": 1486011305,
+      "rd": 252
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1486004413,
+      "game": "https://www.chess.com/game/live/1845247831"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1617,
+      "date": 1420435989,
+      "rd": 153
+    },
+    "best": {
+      "rating": 1633,
+      "date": 1343891553,
+      "game": "https://www.chess.com/game/live/306702622"
+    },
+    "record": {
+      "win": 22,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1942,
+      "date": 1723979861,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2246,
+      "date": 1596055218,
+      "game": "https://www.chess.com/game/live/5219557725"
+    },
+    "record": {
+      "win": 1865,
+      "loss": 1390,
+      "draw": 162
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1326678779
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1326678779
+    }
+  },
+  "puzzle_rush": {}
+}

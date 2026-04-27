@@ -1,0 +1,84 @@
+{
+  "player_id": 52823184,
+  "@id": "https://api.chess.com/pub/player/nils_03",
+  "url": "https://www.chess.com/member/Nils_03",
+  "name": "Nils Richter",
+  "username": "nils_03",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776338535,
+  "joined": 1544030012,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2246,
+      "date": 1659731083,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1659375638,
+      "game": "https://www.chess.com/game/live/53116192565"
+    },
+    "record": {
+      "win": 14,
+      "loss": 11,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2603,
+      "date": 1690305369,
+      "rd": 310
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1690305369,
+      "game": "https://www.chess.com/game/live/84044409427"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2703,
+      "date": 1691533055,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1691533044,
+      "game": "https://www.chess.com/game/live/85271523677"
+    },
+    "record": {
+      "win": 256,
+      "loss": 261,
+      "draw": 58
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2518,
+      "date": 1544030012
+    },
+    "lowest": {
+      "rating": 2518,
+      "date": 1544030012
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

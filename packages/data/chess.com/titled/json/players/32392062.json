@@ -1,0 +1,66 @@
+{
+  "player_id": 32392062,
+  "@id": "https://api.chess.com/pub/player/jeremdev",
+  "url": "https://www.chess.com/member/JeremDev",
+  "username": "jeremdev",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1714583212,
+  "joined": 1484420325,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2473,
+      "date": 1559048560,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1551892855,
+      "game": "https://www.chess.com/game/live/3558552807"
+    },
+    "record": {
+      "win": 98,
+      "loss": 61,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2440,
+      "date": 1579654497,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1553249634,
+      "game": "https://www.chess.com/game/live/3641210804"
+    },
+    "record": {
+      "win": 216,
+      "loss": 165,
+      "draw": 21
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2245,
+      "date": 1484420325
+    },
+    "lowest": {
+      "rating": 2245,
+      "date": 1484420325
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "player_id": 159680507,
+  "@id": "https://api.chess.com/pub/player/johnwhite1952",
+  "url": "https://www.chess.com/member/JohnWhite1952",
+  "name": "John S. White",
+  "username": "johnwhite1952",
+  "title": "CM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776561762,
+  "joined": 1635548982,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1842,
+      "date": 1776547664,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1636409497,
+      "game": "https://www.chess.com/game/daily/564499107"
+    },
+    "record": {
+      "win": 175,
+      "loss": 35,
+      "draw": 23,
+      "time_per_move": 17287,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 4
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2195,
+      "date": 1775505662,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1772745604,
+      "game": "https://www.chess.com/game/live/147167007104"
+    },
+    "record": {
+      "win": 340,
+      "loss": 292,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1948,
+      "date": 1730221691,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1660061204,
+      "game": "https://www.chess.com/game/live/90105642747"
+    },
+    "record": {
+      "win": 32,
+      "loss": 204,
+      "draw": 11
+    }
+  },
+  "fide": 2235,
+  "tactics": {
+    "highest": {
+      "rating": 929,
+      "date": 1757433760
+    },
+    "lowest": {
+      "rating": 929,
+      "date": 1757433760
+    }
+  },
+  "puzzle_rush": {}
+}

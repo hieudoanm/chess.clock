@@ -1,0 +1,103 @@
+{
+  "player_id": 86414384,
+  "@id": "https://api.chess.com/pub/player/feliztigriz",
+  "url": "https://www.chess.com/member/FelizTigriz",
+  "name": "Tiger Hillarp",
+  "username": "feliztigriz",
+  "title": "GM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1770475614,
+  "joined": 1594466549,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2032,
+      "date": 1676999921,
+      "rd": 324
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1676999921,
+      "game": "https://www.chess.com/game/daily/480335779"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4052,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2176,
+      "date": 1609331939,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1597416060,
+      "game": "https://www.chess.com/game/live/6079405604"
+    },
+    "record": {
+      "win": 5,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2288,
+      "date": 1677002038,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1676758712,
+      "game": "https://www.chess.com/game/live/70626688523"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2563,
+      "date": 1598604046,
+      "rd": 189
+    },
+    "best": {
+      "rating": 2732,
+      "date": 1598603431,
+      "game": "https://www.chess.com/game/live/5302148317"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2741,
+      "date": 1594466549
+    },
+    "lowest": {
+      "rating": 2741,
+      "date": 1594466549
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

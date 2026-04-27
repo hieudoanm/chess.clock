@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2153218.ec3a4211.200x200o.878862775a01.jpeg",
+  "player_id": 2153218,
+  "@id": "https://api.chess.com/pub/player/axelmuller",
+  "url": "https://www.chess.com/member/axelmuller",
+  "name": "Axel Muller",
+  "username": "axelmuller",
+  "title": "NM",
+  "followers": 131,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Pasadena, CA",
+  "last_online": 1776261920,
+  "joined": 1252539855,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1666309423,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1294331539,
+      "game": "https://www.chess.com/game/daily/42677942"
+    },
+    "record": {
+      "win": 60,
+      "loss": 55,
+      "draw": 10,
+      "time_per_move": 39595,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1807,
+      "date": 1645902128,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1320918540,
+      "game": "https://www.chess.com/game/live/5399569089"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1756,
+      "date": 1726189484,
+      "rd": 94
+    },
+    "best": {
+      "rating": 1987,
+      "date": 1398710892,
+      "game": "https://www.chess.com/game/live/3344313620"
+    },
+    "record": {
+      "win": 554,
+      "loss": 360,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1940,
+      "date": 1694645092,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1538501874,
+      "game": "https://www.chess.com/game/live/3103759687"
+    },
+    "record": {
+      "win": 4643,
+      "loss": 3714,
+      "draw": 465
+    }
+  },
+  "fide": 2149,
+  "tactics": {
+    "highest": {
+      "rating": 1977,
+      "date": 1252539855
+    },
+    "lowest": {
+      "rating": 1977,
+      "date": 1252539855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

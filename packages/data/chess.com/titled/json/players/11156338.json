@@ -1,0 +1,69 @@
+{
+  "player_id": 11156338,
+  "@id": "https://api.chess.com/pub/player/alexthechess",
+  "url": "https://www.chess.com/member/alexthechess",
+  "name": "Alex Steinberg",
+  "username": "alexthechess",
+  "title": "NM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776596892,
+  "joined": 1363377800,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2007,
+      "date": 1776061795,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1689604730,
+      "game": "https://www.chess.com/game/live/62713887225"
+    },
+    "record": {
+      "win": 2484,
+      "loss": 1446,
+      "draw": 164
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1626,
+      "date": 1765338931,
+      "rd": 27
+    },
+    "best": {
+      "rating": 1922,
+      "date": 1623763126,
+      "game": "https://www.chess.com/game/live/17712111419"
+    },
+    "record": {
+      "win": 4648,
+      "loss": 3624,
+      "draw": 399
+    }
+  },
+  "fide": 2167,
+  "tactics": {
+    "highest": {
+      "rating": 2600,
+      "date": 1770907034
+    },
+    "lowest": {
+      "rating": 2158,
+      "date": 1760448890
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "player_id": 11545684,
+  "@id": "https://api.chess.com/pub/player/josephryan",
+  "url": "https://www.chess.com/member/JosephRyan",
+  "name": "Joseph Ryan",
+  "username": "josephryan",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1776576767,
+  "joined": 1366141270,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2111,
+      "date": 1573743855,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2021,
+      "date": 1558464862,
+      "game": "https://www.chess.com/game/live/3744810600"
+    },
+    "record": {
+      "win": 51,
+      "loss": 31,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1771473944,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1683669089,
+      "game": "https://www.chess.com/game/live/77404995487"
+    },
+    "record": {
+      "win": 926,
+      "loss": 903,
+      "draw": 150
+    }
+  },
+  "fide": 2298,
+  "tactics": {
+    "highest": {
+      "rating": 2351,
+      "date": 1760518376
+    },
+    "lowest": {
+      "rating": 2208,
+      "date": 1762952645
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

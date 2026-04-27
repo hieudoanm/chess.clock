@@ -1,0 +1,87 @@
+{
+  "player_id": 14011208,
+  "@id": "https://api.chess.com/pub/player/rogerbuland",
+  "url": "https://www.chess.com/member/RogerBuland",
+  "name": "Roger Buland",
+  "username": "rogerbuland",
+  "title": "NM",
+  "followers": 66,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Mountain View",
+  "last_online": 1776596294,
+  "joined": 1382462843,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1855,
+      "date": 1776304122,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1382462843,
+      "game": "https://www.chess.com/game/daily/375914821"
+    },
+    "record": {
+      "win": 132,
+      "loss": 10,
+      "draw": 1,
+      "time_per_move": 13013,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1581,
+      "date": 1720147123,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2020,
+      "date": 1606864201,
+      "game": "https://www.chess.com/game/live/113885392443"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1499,
+      "date": 1739547663,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1383724800,
+      "game": "https://www.chess.com/game/live/4821304817"
+    },
+    "record": {
+      "win": 2310,
+      "loss": 2231,
+      "draw": 102
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2229,
+      "date": 1769417597
+    },
+    "lowest": {
+      "rating": 1849,
+      "date": 1757642875
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "player_id": 324439703,
+  "@id": "https://api.chess.com/pub/player/nmd0402",
+  "url": "https://www.chess.com/member/NMD0402",
+  "name": "Manh Duc Nguyen",
+  "username": "nmd0402",
+  "title": "CM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1766856806,
+  "joined": 1699364133,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1381,
+      "date": 1732156698,
+      "rd": 254
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 215642,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1952,
+      "date": 1740410191,
+      "rd": 304
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2398,
+      "date": 1766845891,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1732548693,
+      "game": "https://www.chess.com/game/live/105980364969"
+    },
+    "record": {
+      "win": 49,
+      "loss": 63,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2735,
+      "date": 1766850575,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1757147661,
+      "game": "https://www.chess.com/game/live/148722510129"
+    },
+    "record": {
+      "win": 819,
+      "loss": 681,
+      "draw": 262
+    }
+  },
+  "fide": 2005,
+  "tactics": {
+    "highest": {
+      "rating": 2279,
+      "date": 1755626407
+    },
+    "lowest": {
+      "rating": 2247,
+      "date": 1755623822
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

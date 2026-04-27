@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15590494.f6b4e8a7.200x200o.5414e61809d4.png",
+  "player_id": 15590494,
+  "@id": "https://api.chess.com/pub/player/bancsoo",
+  "url": "https://www.chess.com/member/bancsoo",
+  "name": "Tamas Banusz",
+  "username": "bancsoo",
+  "title": "GM",
+  "followers": 1346,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Pecs",
+  "last_online": 1776593153,
+  "joined": 1389805356,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmbancsoo",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmbancsoo"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2583,
+      "date": 1747677502,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2695,
+      "date": 1597422870,
+      "game": "https://www.chess.com/game/live/141982850405"
+    },
+    "record": {
+      "win": 30,
+      "loss": 27,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3014,
+      "date": 1757404691,
+      "rd": 41
+    },
+    "best": {
+      "rating": 3020,
+      "date": 1751444747,
+      "game": "https://www.chess.com/game/live/125515792305"
+    },
+    "record": {
+      "win": 1569,
+      "loss": 1113,
+      "draw": 224
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3101,
+      "date": 1767809469,
+      "rd": 20
+    },
+    "best": {
+      "rating": 3135,
+      "date": 1751451579,
+      "game": "https://www.chess.com/game/live/125579348469"
+    },
+    "record": {
+      "win": 4630,
+      "loss": 3772,
+      "draw": 1208
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2615,
+      "date": 1389805356
+    },
+    "lowest": {
+      "rating": 2615,
+      "date": 1389805356
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

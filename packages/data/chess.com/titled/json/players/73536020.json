@@ -1,0 +1,85 @@
+{
+  "player_id": 73536020,
+  "@id": "https://api.chess.com/pub/player/avancada",
+  "url": "https://www.chess.com/member/Avancada",
+  "name": "Michael Coenen",
+  "username": "avancada",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776548597,
+  "joined": 1584226200,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2229,
+      "date": 1682753590,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1682717382,
+      "game": "https://www.chess.com/game/live/75901881483"
+    },
+    "record": {
+      "win": 66,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2551,
+      "date": 1753793900,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2675,
+      "date": 1611357311,
+      "game": "https://www.chess.com/game/live/6316749835"
+    },
+    "record": {
+      "win": 1067,
+      "loss": 569,
+      "draw": 95
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1691784027,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1645615679,
+      "game": "https://www.chess.com/game/live/74990549621"
+    },
+    "record": {
+      "win": 432,
+      "loss": 142,
+      "draw": 35
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2635,
+      "date": 1774736081
+    },
+    "lowest": {
+      "rating": 2241,
+      "date": 1757246758
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 11645850,
+  "@id": "https://api.chess.com/pub/player/kingbwil",
+  "url": "https://www.chess.com/member/kingbwil",
+  "name": "brandon wilson",
+  "username": "kingbwil",
+  "title": "CM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/JM",
+  "location": "kingston",
+  "last_online": 1776577929,
+  "joined": 1366855677,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1882,
+      "date": 1776574302,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1366855677,
+      "game": "https://www.chess.com/game/daily/598747973"
+    },
+    "record": {
+      "win": 97,
+      "loss": 7,
+      "draw": 9,
+      "time_per_move": 28428,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2189,
+      "date": 1736753179,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1511711088,
+      "game": "https://www.chess.com/game/live/66733810661"
+    },
+    "record": {
+      "win": 28,
+      "loss": 20,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1573,
+      "date": 1687628671,
+      "rd": 214
+    },
+    "best": {
+      "rating": 1931,
+      "date": 1419371781,
+      "game": "https://www.chess.com/game/live/2399730535"
+    },
+    "record": {
+      "win": 124,
+      "loss": 106,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2034,
+      "date": 1776577912,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2088,
+      "date": 1551232409,
+      "game": "https://www.chess.com/game/live/1807126335"
+    },
+    "record": {
+      "win": 5085,
+      "loss": 4451,
+      "draw": 542
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2390,
+      "date": 1772884869
+    },
+    "lowest": {
+      "rating": 2219,
+      "date": 1775698954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

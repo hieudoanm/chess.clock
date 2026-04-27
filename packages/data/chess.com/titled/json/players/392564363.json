@@ -1,0 +1,84 @@
+{
+  "player_id": 392564363,
+  "@id": "https://api.chess.com/pub/player/lookwow",
+  "url": "https://www.chess.com/member/lookwow",
+  "username": "lookwow",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776591733,
+  "joined": 1727710233,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2178,
+      "date": 1766422272,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1766062752,
+      "game": "https://www.chess.com/game/live/147039713968"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2201,
+      "date": 1774889823,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1774889823,
+      "game": "https://www.chess.com/game/live/166639068118"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2489,
+      "date": 1773164866,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1773154750,
+      "game": "https://www.chess.com/game/live/165408322266"
+    },
+    "record": {
+      "win": 1644,
+      "loss": 1335,
+      "draw": 131
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1285,
+      "date": 1727710233
+    },
+    "lowest": {
+      "rating": 1285,
+      "date": 1727710233
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

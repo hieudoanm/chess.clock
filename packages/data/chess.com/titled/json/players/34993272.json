@@ -1,0 +1,103 @@
+{
+  "player_id": 34993272,
+  "@id": "https://api.chess.com/pub/player/binbin239",
+  "url": "https://www.chess.com/member/binbin239",
+  "name": "Hong Anh Nguyen",
+  "username": "binbin239",
+  "title": "WIM",
+  "followers": 222,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1707162960,
+  "joined": 1492934466,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1790,
+      "date": 1707213650,
+      "rd": 180
+    },
+    "best": {
+      "rating": 1790,
+      "date": 1621317354,
+      "game": "https://www.chess.com/game/daily/302065274"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 6236,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2336,
+      "date": 1676926635,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1651395276,
+      "game": "https://www.chess.com/game/live/44774365043"
+    },
+    "record": {
+      "win": 63,
+      "loss": 33,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2374,
+      "date": 1705288812,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1645182805,
+      "game": "https://www.chess.com/game/live/15358427671"
+    },
+    "record": {
+      "win": 3676,
+      "loss": 3003,
+      "draw": 436
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2611,
+      "date": 1706756403,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2738,
+      "date": 1649858371,
+      "game": "https://www.chess.com/game/live/17937640795"
+    },
+    "record": {
+      "win": 4552,
+      "loss": 3784,
+      "draw": 748
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 4494,
+      "date": 1604328776
+    },
+    "lowest": {
+      "rating": 0,
+      "date": 0
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

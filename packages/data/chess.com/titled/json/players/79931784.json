@@ -1,0 +1,100 @@
+{
+  "player_id": 79931784,
+  "@id": "https://api.chess.com/pub/player/goldenhens123",
+  "url": "https://www.chess.com/member/GoldenHens123",
+  "username": "goldenhens123",
+  "title": "WCM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1745336259,
+  "joined": 1589881899,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1724248552,
+      "rd": 237
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1589881899,
+      "game": "https://www.chess.com/game/daily/273426030"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 10957,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1597384668
+    },
+    "best": {
+      "rating": 1654,
+      "date": 1594985738,
+      "game": "https://www.chess.com/game/live/5162523558"
+    },
+    "record": {
+      "win": 30,
+      "loss": 29,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1629970207
+    },
+    "best": {
+      "rating": 1860,
+      "date": 1629970207,
+      "game": "https://www.chess.com/game/live/5197834121"
+    },
+    "record": {
+      "win": 56,
+      "loss": 46,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1724,
+      "date": 1726470608,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1916,
+      "date": 1726154798,
+      "game": "https://www.chess.com/game/live/119893234815"
+    },
+    "record": {
+      "win": 53,
+      "loss": 42,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2232,
+      "date": 1589881899
+    },
+    "lowest": {
+      "rating": 2232,
+      "date": 1589881899
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

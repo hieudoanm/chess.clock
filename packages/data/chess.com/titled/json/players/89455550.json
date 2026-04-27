@@ -1,0 +1,111 @@
+{
+  "player_id": 89455550,
+  "@id": "https://api.chess.com/pub/player/yitongjianghu",
+  "url": "https://www.chess.com/member/yitongjianghu",
+  "name": "Tariq Yue",
+  "username": "yitongjianghu",
+  "title": "CM",
+  "followers": 116,
+  "country": "https://api.chess.com/pub/country/KP",
+  "location": "37\u00b040'48.5\"N 125\u00b005'30.6\"E",
+  "last_online": 1776563760,
+  "joined": 1597928603,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1604,
+      "date": 1776077138,
+      "rd": 185
+    },
+    "best": {
+      "rating": 1604,
+      "date": 1768221450,
+      "game": "https://www.chess.com/game/daily/910240895"
+    },
+    "record": {
+      "win": 32,
+      "loss": 36,
+      "draw": 0,
+      "time_per_move": 11194,
+      "timeout_percent": 100
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 124
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2004,
+      "date": 1754331408,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1691503903,
+      "game": "https://www.chess.com/game/live/70839091105"
+    },
+    "record": {
+      "win": 354,
+      "loss": 222,
+      "draw": 40
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2697,
+      "date": 1776547323,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1773278187,
+      "game": "https://www.chess.com/game/live/148096986344"
+    },
+    "record": {
+      "win": 299,
+      "loss": 194,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2456,
+      "date": 1774976916,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1774962329,
+      "game": "https://www.chess.com/game/live/143301611857"
+    },
+    "record": {
+      "win": 478,
+      "loss": 327,
+      "draw": 49
+    }
+  },
+  "fide": 2003,
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1597928603
+    },
+    "lowest": {
+      "rating": 2460,
+      "date": 1597928603
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 12147842,
+  "@id": "https://api.chess.com/pub/player/tiborio",
+  "url": "https://www.chess.com/member/tiborio",
+  "name": "Waldyr Espirito Santo",
+  "username": "tiborio",
+  "title": "CM",
+  "followers": 158,
+  "country": "https://api.chess.com/pub/country/ST",
+  "last_online": 1776593770,
+  "joined": 1370276366,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1112,
+      "date": 1752074070,
+      "rd": 270
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1370276366,
+      "game": "https://www.chess.com/game/daily/73772400"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 70701,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2134,
+      "date": 1776113083,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2353,
+      "date": 1761520544,
+      "game": "https://www.chess.com/game/live/45512589147"
+    },
+    "record": {
+      "win": 7064,
+      "loss": 7881,
+      "draw": 1162
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1962,
+      "date": 1767387884,
+      "rd": 60
+    },
+    "best": {
+      "rating": 1985,
+      "date": 1699490390,
+      "game": "https://www.chess.com/game/live/60357015941"
+    },
+    "record": {
+      "win": 2601,
+      "loss": 2619,
+      "draw": 151
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2020,
+      "date": 1757764143,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1698952328,
+      "game": "https://www.chess.com/game/live/7765270895"
+    },
+    "record": {
+      "win": 15209,
+      "loss": 16176,
+      "draw": 1385
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2146,
+      "date": 1370276366
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1370276366
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 20,
+      "score": 19
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30543138.db78df8c.200x200o.af308dbf3f10.webp",
+  "player_id": 30543138,
+  "@id": "https://api.chess.com/pub/player/falkentyne",
+  "url": "https://www.chess.com/member/Falkentyne",
+  "name": "Ike Miller",
+  "username": "falkentyne",
+  "title": "NM",
+  "followers": 204,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776337569,
+  "joined": 1477207209,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1860,
+      "date": 1760166799,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1860,
+      "date": 1756955481,
+      "game": "https://www.chess.com/game/daily/852991804"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 7649,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2340,
+      "date": 1757997622,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1681248717,
+      "game": "https://www.chess.com/game/live/122084983003"
+    },
+    "record": {
+      "win": 429,
+      "loss": 308,
+      "draw": 98
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2236,
+      "date": 1749850052,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1619675412,
+      "game": "https://www.chess.com/game/live/18152439953"
+    },
+    "record": {
+      "win": 2017,
+      "loss": 2002,
+      "draw": 134
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2387,
+      "date": 1759053340,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1758235811,
+      "game": "https://www.chess.com/game/live/143212590358"
+    },
+    "record": {
+      "win": 1803,
+      "loss": 1685,
+      "draw": 337
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2304,
+      "date": 1756258825
+    },
+    "lowest": {
+      "rating": 2118,
+      "date": 1756261573
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

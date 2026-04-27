@@ -1,0 +1,66 @@
+{
+  "player_id": 58400308,
+  "@id": "https://api.chess.com/pub/player/gmjimknopf",
+  "url": "https://www.chess.com/member/GMJimKnopf",
+  "name": "Maximilian Berchtenbreiter",
+  "username": "gmjimknopf",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776339121,
+  "joined": 1552346966,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2640,
+      "date": 1701274001,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1701273886,
+      "game": "https://www.chess.com/game/live/3588102251"
+    },
+    "record": {
+      "win": 35,
+      "loss": 24,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2693,
+      "date": 1600795703,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1571003288,
+      "game": "https://www.chess.com/game/live/4303793501"
+    },
+    "record": {
+      "win": 377,
+      "loss": 386,
+      "draw": 76
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1552346966
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1552346966
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29343364.6eed60d1.200x200o.863b8f324cd5.jpeg",
+  "player_id": 29343364,
+  "@id": "https://api.chess.com/pub/player/mmukka",
+  "url": "https://www.chess.com/member/Mmukka",
+  "name": "Gustas Morkunas",
+  "username": "mmukka",
+  "title": "FM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/LT",
+  "location": "Kaunas",
+  "last_online": 1776282412,
+  "joined": 1470324635,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1681325722,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1367,
+      "date": 1587658025,
+      "game": "https://www.chess.com/game/daily/257626950"
+    },
+    "record": {
+      "win": 16,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 18940,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2473,
+      "date": 1729862670,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2473,
+      "date": 1729862670,
+      "game": "https://www.chess.com/game/live/84562390437"
+    },
+    "record": {
+      "win": 266,
+      "loss": 136,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2482,
+      "date": 1756058282,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2542,
+      "date": 1751148559,
+      "game": "https://www.chess.com/game/live/140116773138"
+    },
+    "record": {
+      "win": 637,
+      "loss": 459,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2537,
+      "date": 1775556376,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1762886643,
+      "game": "https://www.chess.com/game/live/115485588495"
+    },
+    "record": {
+      "win": 3551,
+      "loss": 2902,
+      "draw": 515
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2483,
+      "date": 1755691092
+    },
+    "lowest": {
+      "rating": 2353,
+      "date": 1758566661
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

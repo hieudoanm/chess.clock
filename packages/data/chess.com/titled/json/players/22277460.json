@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22277460.fe2f8916.200x200o.b69a1148dd1d.jpg",
+  "player_id": 22277460,
+  "@id": "https://api.chess.com/pub/player/senseijulio",
+  "url": "https://www.chess.com/member/SenseiJulio",
+  "name": "Julio Sadorra",
+  "username": "senseijulio",
+  "title": "GM",
+  "followers": 335,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776571285,
+  "joined": 1430936306,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessenseijulio",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessenseijulio"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2653,
+      "date": 1716383066,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1716378621,
+      "game": "https://www.chess.com/game/live/110115685081"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2585,
+      "date": 1623473085,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1623473085,
+      "game": "https://www.chess.com/game/live/17211782843"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2683,
+      "date": 1744863589,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2774,
+      "date": 1649353680,
+      "game": "https://www.chess.com/game/live/43090257563"
+    },
+    "record": {
+      "win": 1019,
+      "loss": 970,
+      "draw": 59
+    }
+  },
+  "fide": 2660,
+  "tactics": {
+    "highest": {
+      "rating": 2710,
+      "date": 1430936306
+    },
+    "lowest": {
+      "rating": 2710,
+      "date": 1430936306
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

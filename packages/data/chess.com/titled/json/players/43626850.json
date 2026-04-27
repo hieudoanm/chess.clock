@@ -1,0 +1,83 @@
+{
+  "player_id": 43626850,
+  "@id": "https://api.chess.com/pub/player/gomatan",
+  "url": "https://www.chess.com/member/gomatan",
+  "username": "gomatan",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776597595,
+  "joined": 1519387345,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2418,
+      "date": 1774337447,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1732361983,
+      "game": "https://www.chess.com/game/live/108032395057"
+    },
+    "record": {
+      "win": 140,
+      "loss": 63,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1705661861,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2198,
+      "date": 1610106229,
+      "game": "https://www.chess.com/game/live/3995628754"
+    },
+    "record": {
+      "win": 62,
+      "loss": 51,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1776497639,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1774081739,
+      "game": "https://www.chess.com/game/live/141578502942"
+    },
+    "record": {
+      "win": 969,
+      "loss": 638,
+      "draw": 116
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2661,
+      "date": 1771249926
+    },
+    "lowest": {
+      "rating": 2559,
+      "date": 1771250232
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 57
+    }
+  }
+}

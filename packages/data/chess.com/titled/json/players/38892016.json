@@ -1,0 +1,103 @@
+{
+  "player_id": 38892016,
+  "@id": "https://api.chess.com/pub/player/dinamo3",
+  "url": "https://www.chess.com/member/Dinamo3",
+  "name": "Dominik Marczuk",
+  "username": "dinamo3",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776063724,
+  "joined": 1506198984,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1924,
+      "date": 1706651998,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2065,
+      "date": 1616352605,
+      "game": "https://www.chess.com/game/daily/318696420"
+    },
+    "record": {
+      "win": 51,
+      "loss": 9,
+      "draw": 4,
+      "time_per_move": 22312,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2167,
+      "date": 1754142602,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1605982862,
+      "game": "https://www.chess.com/game/live/102101744935"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2642,
+      "date": 1771447723,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1617302596,
+      "game": "https://www.chess.com/game/live/68672516961"
+    },
+    "record": {
+      "win": 1199,
+      "loss": 899,
+      "draw": 188
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1739895517,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1640543583,
+      "game": "https://www.chess.com/game/live/5316025772"
+    },
+    "record": {
+      "win": 911,
+      "loss": 522,
+      "draw": 121
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2666,
+      "date": 1506198984
+    },
+    "lowest": {
+      "rating": 2666,
+      "date": 1506198984
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

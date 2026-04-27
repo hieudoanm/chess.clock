@@ -1,0 +1,83 @@
+{
+  "player_id": 90479870,
+  "@id": "https://api.chess.com/pub/player/slide-away",
+  "url": "https://www.chess.com/member/Slide-Away",
+  "username": "slide-away",
+  "title": "IM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/JM",
+  "last_online": 1776539846,
+  "joined": 1599150419,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2104,
+      "date": 1599332738,
+      "rd": 283
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1599332738,
+      "game": "https://www.chess.com/game/live/5402566909"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2731,
+      "date": 1776539834,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2766,
+      "date": 1750016021,
+      "game": "https://www.chess.com/game/live/143246006762"
+    },
+    "record": {
+      "win": 836,
+      "loss": 581,
+      "draw": 94
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2707,
+      "date": 1776533111,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1730458376,
+      "game": "https://www.chess.com/game/live/124049425477"
+    },
+    "record": {
+      "win": 1663,
+      "loss": 1187,
+      "draw": 288
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2482,
+      "date": 1769761618
+    },
+    "lowest": {
+      "rating": 1101,
+      "date": 1764441079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

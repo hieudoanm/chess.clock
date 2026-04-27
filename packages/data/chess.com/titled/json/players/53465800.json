@@ -1,0 +1,84 @@
+{
+  "player_id": 53465800,
+  "@id": "https://api.chess.com/pub/player/zzww18",
+  "url": "https://www.chess.com/member/ZZWW18",
+  "name": "Pieter Heesters",
+  "username": "zzww18",
+  "title": "NM",
+  "followers": 103,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776594289,
+  "joined": 1545236027,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2099,
+      "date": 1678886359,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2108,
+      "date": 1624805299,
+      "game": "https://www.chess.com/game/live/72624900823"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2818,
+      "date": 1776563986,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1755193047,
+      "game": "https://www.chess.com/game/live/165739070978"
+    },
+    "record": {
+      "win": 10653,
+      "loss": 10059,
+      "draw": 2759
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2688,
+      "date": 1773015584,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1655213372,
+      "game": "https://www.chess.com/game/live/75749023033"
+    },
+    "record": {
+      "win": 2176,
+      "loss": 1830,
+      "draw": 624
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1545236027
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1545236027
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

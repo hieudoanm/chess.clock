@@ -1,0 +1,103 @@
+{
+  "player_id": 6405084,
+  "@id": "https://api.chess.com/pub/player/sakura123",
+  "url": "https://www.chess.com/member/sakura123",
+  "name": "Nath Saheli",
+  "username": "sakura123",
+  "title": "WFM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1746138143,
+  "joined": 1325161002,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1781,
+      "date": 1705256469,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1781,
+      "date": 1331918371,
+      "game": "https://www.chess.com/game/daily/50055362"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 49725,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2187,
+      "date": 1665987194,
+      "rd": 255
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1665987194,
+      "game": "https://www.chess.com/game/live/59725753323"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1199,
+      "date": 1668033531,
+      "rd": 305
+    },
+    "best": {
+      "rating": 1654,
+      "date": 1328888168,
+      "game": "https://www.chess.com/game/live/247978602"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1795,
+      "date": 1668034114,
+      "rd": 190
+    },
+    "best": {
+      "rating": 1887,
+      "date": 1526809722,
+      "game": "https://www.chess.com/game/live/247142643"
+    },
+    "record": {
+      "win": 43,
+      "loss": 19,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1584,
+      "date": 1325161002
+    },
+    "lowest": {
+      "rating": 1584,
+      "date": 1325161002
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 20
+    }
+  }
+}

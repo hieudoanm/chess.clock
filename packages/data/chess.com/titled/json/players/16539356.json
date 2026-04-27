@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16539356.795b915d.200x200o.f26cc15421ac.jpeg",
+  "player_id": 16539356,
+  "@id": "https://api.chess.com/pub/player/fabianenglert",
+  "url": "https://www.chess.com/member/FabianEnglert",
+  "name": "Fabian Englert",
+  "username": "fabianenglert",
+  "title": "IM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Klingenberg",
+  "last_online": 1752643675,
+  "joined": 1395321220,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 546,
+      "date": 1729003718,
+      "rd": 290
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1395321220,
+      "game": "https://www.chess.com/game/daily/713310333"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10309,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2307,
+      "date": 1620483254,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1620482447,
+      "game": "https://www.chess.com/game/live/14214785127"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2572,
+      "date": 1460124059,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1460124059,
+      "game": "https://www.chess.com/game/live/1527715146"
+    },
+    "record": {
+      "win": 32,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2440,
+      "date": 1620675443,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1620579653,
+      "game": "https://www.chess.com/game/live/1662802361"
+    },
+    "record": {
+      "win": 545,
+      "loss": 295,
+      "draw": 112
+    }
+  },
+  "fide": 2416,
+  "tactics": {
+    "highest": {
+      "rating": 2067,
+      "date": 1395321220
+    },
+    "lowest": {
+      "rating": 2067,
+      "date": 1395321220
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

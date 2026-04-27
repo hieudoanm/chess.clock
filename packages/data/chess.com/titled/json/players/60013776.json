@@ -1,0 +1,90 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60013776.df4de1ba.200x200o.ccbd5b76751a.png",
+  "player_id": 60013776,
+  "@id": "https://api.chess.com/pub/player/chessweebs",
+  "url": "https://www.chess.com/member/ChessWeebs",
+  "username": "chessweebs",
+  "title": "GM",
+  "followers": 934,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1712098273,
+  "joined": 1555702172,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessweeb",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessweeb"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1663031503,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2565,
+      "date": 1640369297,
+      "game": "https://www.chess.com/game/live/35225221039"
+    },
+    "record": {
+      "win": 80,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2925,
+      "date": 1693690442,
+      "rd": 59
+    },
+    "best": {
+      "rating": 3024,
+      "date": 1636153629,
+      "game": "https://www.chess.com/game/live/71507584021"
+    },
+    "record": {
+      "win": 6241,
+      "loss": 1964,
+      "draw": 399
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2880,
+      "date": 1693308136,
+      "rd": 68
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1648671845,
+      "game": "https://www.chess.com/game/live/6171554979"
+    },
+    "record": {
+      "win": 4468,
+      "loss": 1835,
+      "draw": 468
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1555702172
+    },
+    "lowest": {
+      "rating": 2476,
+      "date": 1555702172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

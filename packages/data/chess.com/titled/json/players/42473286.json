@@ -1,0 +1,83 @@
+{
+  "player_id": 42473286,
+  "@id": "https://api.chess.com/pub/player/terex11",
+  "url": "https://www.chess.com/member/Terex11",
+  "username": "terex11",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/MD",
+  "last_online": 1776561223,
+  "joined": 1516372033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2468,
+      "date": 1776027359,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1776027359,
+      "game": "https://www.chess.com/game/live/167225569624"
+    },
+    "record": {
+      "win": 386,
+      "loss": 308,
+      "draw": 82
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1762702367,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1762702367,
+      "game": "https://www.chess.com/game/live/145307900106"
+    },
+    "record": {
+      "win": 216,
+      "loss": 139,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1772630342,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1772630342,
+      "game": "https://www.chess.com/game/live/165407928670"
+    },
+    "record": {
+      "win": 501,
+      "loss": 385,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2785,
+      "date": 1769568176
+    },
+    "lowest": {
+      "rating": 2492,
+      "date": 1758070933
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

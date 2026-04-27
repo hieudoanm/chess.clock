@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55205840.bfe8917e.200x200o.f9a13959b886.webp",
+  "player_id": 55205840,
+  "@id": "https://api.chess.com/pub/player/chess13524678",
+  "url": "https://www.chess.com/member/chess13524678",
+  "name": "Andrew Wu",
+  "username": "chess13524678",
+  "title": "NM",
+  "followers": 113,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "us",
+  "last_online": 1776553182,
+  "joined": 1545967871,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1380,
+      "date": 1776014657,
+      "rd": 228
+    },
+    "best": {
+      "rating": 1489,
+      "date": 1732376964,
+      "game": "https://www.chess.com/game/daily/733134085"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10981,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1775958354,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1735353787,
+      "game": "https://www.chess.com/game/live/6008183036"
+    },
+    "record": {
+      "win": 470,
+      "loss": 252,
+      "draw": 84
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1776369561,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1774301064,
+      "game": "https://www.chess.com/game/live/167823015649"
+    },
+    "record": {
+      "win": 1412,
+      "loss": 1199,
+      "draw": 241
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1776479378,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2747,
+      "date": 1776372256,
+      "game": "https://www.chess.com/game/live/128817801191"
+    },
+    "record": {
+      "win": 707,
+      "loss": 508,
+      "draw": 113
+    }
+  },
+  "fide": 1999,
+  "tactics": {
+    "highest": {
+      "rating": 2270,
+      "date": 1767624997
+    },
+    "lowest": {
+      "rating": 2122,
+      "date": 1776022401
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

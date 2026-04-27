@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/148920153.4ad3da0d.200x200o.8ea562c06ae4.jpg",
+  "player_id": 148920153,
+  "@id": "https://api.chess.com/pub/player/chess2whiz",
+  "url": "https://www.chess.com/member/chess2whiz",
+  "username": "chess2whiz",
+  "title": "FM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775859053,
+  "joined": 1627142317,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1763479933,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1933,
+      "date": 1723489088,
+      "game": "https://www.chess.com/game/live/85795175461"
+    },
+    "record": {
+      "win": 41,
+      "loss": 15,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1763479933,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2033,
+      "date": 1752340641,
+      "game": "https://www.chess.com/game/live/146653412563"
+    },
+    "record": {
+      "win": 94,
+      "loss": 75,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2100,
+      "date": 1763479933,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1980,
+      "date": 1736729940,
+      "game": "https://www.chess.com/game/live/126233346873"
+    },
+    "record": {
+      "win": 229,
+      "loss": 131,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2468,
+      "date": 1773669289
+    },
+    "lowest": {
+      "rating": 2309,
+      "date": 1762113852
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

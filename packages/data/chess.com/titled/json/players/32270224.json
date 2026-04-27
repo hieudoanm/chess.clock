@@ -1,0 +1,122 @@
+{
+  "player_id": 32270224,
+  "@id": "https://api.chess.com/pub/player/migeira",
+  "url": "https://www.chess.com/member/Migeira",
+  "name": "Szymon Stysiak",
+  "username": "migeira",
+  "title": "CM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1769419807,
+  "joined": 1483998830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1728,
+      "date": 1736366722,
+      "rd": 107
+    },
+    "best": {
+      "rating": 1860,
+      "date": 1500670489,
+      "game": "https://www.chess.com/game/daily/168238500"
+    },
+    "record": {
+      "win": 15,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 11048,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1551,
+      "date": 1506422547,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1551,
+      "date": 1506422547,
+      "game": "https://www.chess.com/game/daily/173654484"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11048,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1906,
+      "date": 1613845540,
+      "rd": 150
+    },
+    "best": {
+      "rating": 1906,
+      "date": 1613845540,
+      "game": "https://www.chess.com/game/live/7583037279"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2102,
+      "date": 1736929756,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1581369048,
+      "game": "https://www.chess.com/game/live/4512193492"
+    },
+    "record": {
+      "win": 2083,
+      "loss": 1825,
+      "draw": 166
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2436,
+      "date": 1737104451,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2451,
+      "date": 1736899623,
+      "game": "https://www.chess.com/game/live/130638022403"
+    },
+    "record": {
+      "win": 752,
+      "loss": 618,
+      "draw": 80
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2377,
+      "date": 1483998830
+    },
+    "lowest": {
+      "rating": 2377,
+      "date": 1483998830
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

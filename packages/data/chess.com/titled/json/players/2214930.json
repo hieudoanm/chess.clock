@@ -1,0 +1,105 @@
+{
+  "player_id": 2214930,
+  "@id": "https://api.chess.com/pub/player/frederickrhine",
+  "url": "https://www.chess.com/member/FrederickRhine",
+  "name": "Frederick Rhine",
+  "username": "frederickrhine",
+  "title": "NM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Park Ridge, Illinois",
+  "last_online": 1776485557,
+  "joined": 1255067660,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1912,
+      "date": 1739093291,
+      "rd": 190
+    },
+    "best": {
+      "rating": 1912,
+      "date": 1707527890,
+      "game": "https://www.chess.com/game/daily/134420666"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 69274,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2190,
+      "date": 1774186019,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1426155009,
+      "game": "https://www.chess.com/game/live/168498873167"
+    },
+    "record": {
+      "win": 168,
+      "loss": 44,
+      "draw": 32
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1948,
+      "date": 1631599748,
+      "rd": 64
+    },
+    "best": {
+      "rating": 1949,
+      "date": 1629612322,
+      "game": "https://www.chess.com/game/live/1178852365"
+    },
+    "record": {
+      "win": 555,
+      "loss": 240,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2105,
+      "date": 1769367536,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1757839030,
+      "game": "https://www.chess.com/game/live/5576999925"
+    },
+    "record": {
+      "win": 651,
+      "loss": 250,
+      "draw": 70
+    }
+  },
+  "fide": 2204,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1255067660
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1255067660
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

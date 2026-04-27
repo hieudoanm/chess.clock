@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/109910396.51d4a40f.200x200o.eea943e403b0.jpeg",
+  "player_id": 109910396,
+  "@id": "https://api.chess.com/pub/player/keselek-pion",
+  "url": "https://www.chess.com/member/keselek-pion",
+  "username": "keselek-pion",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1635540733,
+  "joined": 1609845986,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2335,
+      "date": 1613925967,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1613920865,
+      "game": "https://www.chess.com/game/live/7658549905"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2531,
+      "date": 1613744919,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1613744795,
+      "game": "https://www.chess.com/game/live/7483404413"
+    },
+    "record": {
+      "win": 197,
+      "loss": 21,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2574,
+      "date": 1631529731,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1631529731,
+      "game": "https://www.chess.com/game/live/6573493528"
+    },
+    "record": {
+      "win": 180,
+      "loss": 14,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2727,
+      "date": 1609845986
+    },
+    "lowest": {
+      "rating": 2727,
+      "date": 1609845986
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 33
+    }
+  }
+}

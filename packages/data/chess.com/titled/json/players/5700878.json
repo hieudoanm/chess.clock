@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5700878.5937640e.200x200o.22728801bc70.jpeg",
+  "player_id": 5700878,
+  "@id": "https://api.chess.com/pub/player/white31",
+  "url": "https://www.chess.com/member/white31",
+  "username": "white31",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1776358265,
+  "joined": 1314652784,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1690935345,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1795,
+      "date": 1619607329,
+      "game": "https://www.chess.com/game/live/13345352637"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2658,
+      "date": 1771965582,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2769,
+      "date": 1754442895,
+      "game": "https://www.chess.com/game/live/32756959581"
+    },
+    "record": {
+      "win": 20089,
+      "loss": 17644,
+      "draw": 1565
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2612,
+      "date": 1770231607,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1765140219,
+      "game": "https://www.chess.com/game/live/13814515805"
+    },
+    "record": {
+      "win": 284,
+      "loss": 196,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2193,
+      "date": 1771935172
+    },
+    "lowest": {
+      "rating": 2092,
+      "date": 1771934665
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

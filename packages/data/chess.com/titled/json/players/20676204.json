@@ -1,0 +1,65 @@
+{
+  "player_id": 20676204,
+  "@id": "https://api.chess.com/pub/player/thebilb",
+  "url": "https://www.chess.com/member/thebilb",
+  "username": "thebilb",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1588052178,
+  "joined": 1421527995,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2519,
+      "date": 1587288954,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1526390580,
+      "game": "https://www.chess.com/game/live/2803573067"
+    },
+    "record": {
+      "win": 377,
+      "loss": 263,
+      "draw": 51
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2664,
+      "date": 1588079011,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1588062457,
+      "game": "https://www.chess.com/game/live/4533307747"
+    },
+    "record": {
+      "win": 2085,
+      "loss": 1521,
+      "draw": 371
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2328,
+      "date": 1421527995
+    },
+    "lowest": {
+      "rating": 2328,
+      "date": 1421527995
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "player_id": 38375648,
+  "@id": "https://api.chess.com/pub/player/lazaro25",
+  "url": "https://www.chess.com/member/lazaro25",
+  "username": "lazaro25",
+  "title": "FM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1774961470,
+  "joined": 1504546552,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1682110351,
+      "rd": 206
+    },
+    "record": {
+      "win": 0,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 24850,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2422,
+      "date": 1591523923,
+      "rd": 223
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1591523923,
+      "game": "https://www.chess.com/game/live/4964931555"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2361,
+      "date": 1723468846,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1703423321,
+      "game": "https://www.chess.com/game/live/97189754661"
+    },
+    "record": {
+      "win": 87,
+      "loss": 67,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2569,
+      "date": 1699363155,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1674995985,
+      "game": "https://www.chess.com/game/live/68684719915"
+    },
+    "record": {
+      "win": 1260,
+      "loss": 956,
+      "draw": 159
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1504546552
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1504546552
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

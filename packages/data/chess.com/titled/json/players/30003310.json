@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30003310.9494ea2a.200x200o.f06eb0be1b76.jpeg",
+  "player_id": 30003310,
+  "@id": "https://api.chess.com/pub/player/gilliganslaststand",
+  "url": "https://www.chess.com/member/GilliganslastStand",
+  "name": "Adam Maltese",
+  "username": "gilliganslaststand",
+  "title": "NM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776598628,
+  "joined": 1474273040,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1636,
+      "date": 1776174509,
+      "rd": 137
+    },
+    "best": {
+      "rating": 1636,
+      "date": 1767416275,
+      "game": "https://www.chess.com/game/daily/542091775"
+    },
+    "record": {
+      "win": 42,
+      "loss": 1,
+      "draw": 3,
+      "time_per_move": 60137,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2467,
+      "date": 1775941502,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1773362185,
+      "game": "https://www.chess.com/game/live/164209602354"
+    },
+    "record": {
+      "win": 536,
+      "loss": 290,
+      "draw": 60
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2619,
+      "date": 1764719159,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1628691457,
+      "game": "https://www.chess.com/game/live/139415263422"
+    },
+    "record": {
+      "win": 155,
+      "loss": 121,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1776536272,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2774,
+      "date": 1766604696,
+      "game": "https://www.chess.com/game/live/141345764724"
+    },
+    "record": {
+      "win": 4467,
+      "loss": 3542,
+      "draw": 481
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2653,
+      "date": 1766272248
+    },
+    "lowest": {
+      "rating": 2258,
+      "date": 1755728650
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

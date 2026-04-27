@@ -1,0 +1,85 @@
+{
+  "player_id": 65029054,
+  "@id": "https://api.chess.com/pub/player/pabloricardi",
+  "url": "https://www.chess.com/member/PabloRicardi",
+  "name": "Pablo Ricardi",
+  "username": "pabloricardi",
+  "title": "GM",
+  "followers": 74,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1772832231,
+  "joined": 1567444586,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2022,
+      "date": 1601155820,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1601146599,
+      "game": "https://www.chess.com/game/live/5501468996"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2191,
+      "date": 1731362427,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1731362285,
+      "game": "https://www.chess.com/game/live/125101126481"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2526,
+      "date": 1767893896,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1728949964,
+      "game": "https://www.chess.com/game/live/4089523436"
+    },
+    "record": {
+      "win": 549,
+      "loss": 273,
+      "draw": 74
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2146,
+      "date": 1567444586
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1567444586
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    }
+  }
+}

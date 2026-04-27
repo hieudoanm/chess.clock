@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13412692.c06526e9.200x200o.a399e56f6025.jpeg",
+  "player_id": 13412692,
+  "@id": "https://api.chess.com/pub/player/roman_2112",
+  "url": "https://www.chess.com/member/roman_2112",
+  "name": "Roman Cherevatenko",
+  "username": "roman_2112",
+  "title": "IM",
+  "followers": 450,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kharkov, Ukraine",
+  "last_online": 1776599522,
+  "joined": 1378382334,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1463,
+      "date": 1776379134,
+      "rd": 222
+    },
+    "best": {
+      "rating": 1483,
+      "date": 1673394443,
+      "game": "https://www.chess.com/game/daily/435775137"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 11278,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2427,
+      "date": 1734182890,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1734182890,
+      "game": "https://www.chess.com/game/live/124894170725"
+    },
+    "record": {
+      "win": 142,
+      "loss": 44,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2265,
+      "date": 1776532086,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1707485801,
+      "game": "https://www.chess.com/game/live/70896051665"
+    },
+    "record": {
+      "win": 21525,
+      "loss": 23394,
+      "draw": 884
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2565,
+      "date": 1776599509,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1730989751,
+      "game": "https://www.chess.com/game/live/126796757129"
+    },
+    "record": {
+      "win": 17812,
+      "loss": 16387,
+      "draw": 1937
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2666,
+      "date": 1378382334
+    },
+    "lowest": {
+      "rating": 2666,
+      "date": 1378382334
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 21
+    }
+  }
+}

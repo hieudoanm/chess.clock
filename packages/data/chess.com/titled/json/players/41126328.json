@@ -1,0 +1,82 @@
+{
+  "player_id": 41126328,
+  "@id": "https://api.chess.com/pub/player/shanyrak",
+  "url": "https://www.chess.com/member/Shanyrak",
+  "name": "Adriana Sermukhamedov\u0430",
+  "username": "shanyrak",
+  "title": "WFM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776517691,
+  "joined": 1512735254,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1040,
+      "date": 1762183832,
+      "rd": 247
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 42544,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2161,
+      "date": 1756483397,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1721634527,
+      "game": "https://www.chess.com/game/live/114938864879"
+    },
+    "record": {
+      "win": 205,
+      "loss": 178,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2483,
+      "date": 1776186063,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1776180651,
+      "game": "https://www.chess.com/game/live/170493047283"
+    },
+    "record": {
+      "win": 202,
+      "loss": 172,
+      "draw": 21
+    }
+  },
+  "fide": 2161,
+  "tactics": {
+    "highest": {
+      "rating": 2281,
+      "date": 1756185128
+    },
+    "lowest": {
+      "rating": 1942,
+      "date": 1758103134
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

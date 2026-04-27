@@ -1,0 +1,84 @@
+{
+  "player_id": 70750132,
+  "@id": "https://api.chess.com/pub/player/digilik",
+  "url": "https://www.chess.com/member/digilik",
+  "name": "Hayrun Nisa Sahin",
+  "username": "digilik",
+  "title": "WCM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776327087,
+  "joined": 1579013810,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1096,
+      "date": 1742841076,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1710,
+      "date": 1615552981,
+      "game": "https://www.chess.com/game/live/75385801193"
+    },
+    "record": {
+      "win": 8,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2171,
+      "date": 1743080171,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1607177715,
+      "game": "https://www.chess.com/game/live/12440244475"
+    },
+    "record": {
+      "win": 227,
+      "loss": 257,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1985,
+      "date": 1769868302,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1601552750,
+      "game": "https://www.chess.com/game/live/4616386658"
+    },
+    "record": {
+      "win": 463,
+      "loss": 541,
+      "draw": 94
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2235,
+      "date": 1579013810
+    },
+    "lowest": {
+      "rating": 2235,
+      "date": 1579013810
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

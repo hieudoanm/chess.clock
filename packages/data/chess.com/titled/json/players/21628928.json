@@ -1,0 +1,99 @@
+{
+  "player_id": 21628928,
+  "@id": "https://api.chess.com/pub/player/hustlestandard",
+  "url": "https://www.chess.com/member/HustleStandard",
+  "name": "Sebastien Feller",
+  "username": "hustlestandard",
+  "title": "GM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Thionville",
+  "last_online": 1595942373,
+  "joined": 1427030678,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 974,
+      "date": 1561408204,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1427030678,
+      "game": "https://www.chess.com/game/daily/225757059"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 747589,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1469121208,
+      "rd": 269
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1469121208,
+      "game": "https://www.chess.com/game/live/1661551695"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1586344151,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1495484538,
+      "game": "https://www.chess.com/game/live/1320412514"
+    },
+    "record": {
+      "win": 389,
+      "loss": 266,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2482,
+      "date": 1527253872,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1527253872,
+      "game": "https://www.chess.com/game/live/1370312181"
+    },
+    "record": {
+      "win": 64,
+      "loss": 35,
+      "draw": 10
+    }
+  },
+  "fide": 2622,
+  "tactics": {
+    "highest": {
+      "rating": 2587,
+      "date": 1427030678
+    },
+    "lowest": {
+      "rating": 2587,
+      "date": 1427030678
+    }
+  },
+  "puzzle_rush": {}
+}

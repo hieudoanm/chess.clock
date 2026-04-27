@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/194244844",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2011.10.22\"]\n[Round \"-\"]\n[White \"DanielNaroditsky\"]\n[Black \"Max_Bax\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnbqk1nr/ppppppBp/6p1/8/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Modern-Defense-with-1-d4\"]\n[UTCDate \"2011.10.22\"]\n[UTCTime \"19:24:42\"]\n[WhiteElo \"2612\"]\n[BlackElo \"1972\"]\n[TimeControl \"60\"]\n[Termination \"DanielNaroditsky won by resignation\"]\n[StartTime \"19:24:42\"]\n[EndDate \"2011.10.22\"]\n[EndTime \"19:24:46\"]\n[Link \"https://www.chess.com/game/live/194244844\"]\n\n1. d4 {[%clk 0:01:00]} 1... g6 {[%clk 0:01:00]} 2. Bh6 {[%clk 0:00:58.7]} 2... Bg7 {[%clk 0:00:59.9]} 3. Bxg7 {[%clk 0:00:58]} 1-0\n",
+    "time_control": "60",
+    "end_time": 1319311486,
+    "rated": true,
+    "tcn": "lB2UcV92V2",
+    "uuid": "6b62fb78-7690-11dd-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqk1nr/ppppppBp/6p1/8/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -",
+    "time_class": "bullet",
+    "rules": "chess",
+    "white": {
+      "rating": 2612,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/danielnaroditsky",
+      "username": "DanielNaroditsky",
+      "uuid": "5a96a38a-e436-11dd-8018-000000000000"
+    },
+    "black": {
+      "rating": 1972,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/max_bax",
+      "username": "Max_Bax",
+      "uuid": "83a4e8ca-92d2-11e0-8036-000000000000"
+    }
+  }
+]

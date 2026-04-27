@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15763512.4aef8345.200x200o.da2c3f65c427.jpeg",
+  "player_id": 15763512,
+  "@id": "https://api.chess.com/pub/player/coachlorente",
+  "url": "https://www.chess.com/member/CoachLorente",
+  "name": "Ramon Lorente",
+  "username": "coachlorente",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1713094122,
+  "joined": 1390755959,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1559058994,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1533110,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1381,
+      "date": 1590444365,
+      "rd": 227
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1410850800,
+      "game": "https://www.chess.com/game/live/4893506567"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2136,
+      "date": 1533410257,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1433973821,
+      "game": "https://www.chess.com/game/live/1180569974"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2307,
+      "date": 1590183250,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1590183250,
+      "game": "https://www.chess.com/game/live/3832031595"
+    },
+    "record": {
+      "win": 352,
+      "loss": 265,
+      "draw": 30
+    }
+  },
+  "fide": 2402,
+  "tactics": {
+    "highest": {
+      "rating": 2591,
+      "date": 1390755959
+    },
+    "lowest": {
+      "rating": 2591,
+      "date": 1390755959
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

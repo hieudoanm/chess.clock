@@ -1,0 +1,102 @@
+{
+  "player_id": 33424523,
+  "@id": "https://api.chess.com/pub/player/serg3k",
+  "url": "https://www.chess.com/member/serg3k",
+  "username": "serg3k",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776277598,
+  "joined": 1487804194,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1621,
+      "date": 1593418356,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1621,
+      "date": 1593418356,
+      "game": "https://www.chess.com/game/daily/257086776"
+    },
+    "record": {
+      "win": 11,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 14414,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2036,
+      "date": 1768247952,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2107,
+      "date": 1635715342,
+      "game": "https://www.chess.com/game/live/14762946255"
+    },
+    "record": {
+      "win": 68,
+      "loss": 42,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1768912037,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2036,
+      "date": 1605884798,
+      "game": "https://www.chess.com/game/live/37731064321"
+    },
+    "record": {
+      "win": 318,
+      "loss": 333,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2022,
+      "date": 1776277430,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1683408576,
+      "game": "https://www.chess.com/game/live/32957978785"
+    },
+    "record": {
+      "win": 4142,
+      "loss": 2982,
+      "draw": 504
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2451,
+      "date": 1487804194
+    },
+    "lowest": {
+      "rating": 2451,
+      "date": 1487804194
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 27
+    }
+  }
+}

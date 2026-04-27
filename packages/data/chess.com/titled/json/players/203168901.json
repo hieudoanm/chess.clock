@@ -1,0 +1,80 @@
+{
+  "player_id": 203168901,
+  "@id": "https://api.chess.com/pub/player/sanyassin2",
+  "url": "https://www.chess.com/member/Sanyassin2",
+  "name": "Sandor Kustar",
+  "username": "sanyassin2",
+  "title": "IM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1773865567,
+  "joined": 1666651809,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1835,
+      "date": 1667602734,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1960,
+      "date": 1701486439,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1700036549,
+      "game": "https://www.chess.com/game/live/95222940055"
+    },
+    "record": {
+      "win": 37,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2459,
+      "date": 1767978053,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2615,
+      "date": 1757020247,
+      "game": "https://www.chess.com/game/live/93738031085"
+    },
+    "record": {
+      "win": 1917,
+      "loss": 1478,
+      "draw": 192
+    }
+  },
+  "fide": 2347,
+  "tactics": {
+    "highest": {
+      "rating": 2062,
+      "date": 1666651809
+    },
+    "lowest": {
+      "rating": 2062,
+      "date": 1666651809
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

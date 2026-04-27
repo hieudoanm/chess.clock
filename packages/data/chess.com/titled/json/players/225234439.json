@@ -1,0 +1,84 @@
+{
+  "player_id": 225234439,
+  "@id": "https://api.chess.com/pub/player/nimzorocks",
+  "url": "https://www.chess.com/member/NimzoRocks",
+  "username": "nimzorocks",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776281112,
+  "joined": 1673671628,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2324,
+      "date": 1682418353,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2325,
+      "date": 1680825130,
+      "game": "https://www.chess.com/game/live/76156922809"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2139,
+      "date": 1763171993,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1673929401,
+      "game": "https://www.chess.com/game/live/106737634133"
+    },
+    "record": {
+      "win": 841,
+      "loss": 762,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2453,
+      "date": 1748807549,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1719259097,
+      "game": "https://www.chess.com/game/live/71433175467"
+    },
+    "record": {
+      "win": 775,
+      "loss": 569,
+      "draw": 83
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1756394685
+    },
+    "lowest": {
+      "rating": 2575,
+      "date": 1756394927
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

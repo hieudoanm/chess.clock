@@ -1,0 +1,121 @@
+{
+  "player_id": 158330001,
+  "@id": "https://api.chess.com/pub/player/geekphysicist",
+  "url": "https://www.chess.com/member/GeekPhysicist",
+  "username": "geekphysicist",
+  "title": "IM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1641338089,
+  "joined": 1634480272,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 911,
+      "date": 1744368842,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1641413320,
+      "game": "https://www.chess.com/game/daily/370364959"
+    },
+    "record": {
+      "win": 214,
+      "loss": 1346,
+      "draw": 1,
+      "time_per_move": 41351,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2042,
+      "date": 1648458003,
+      "rd": 307
+    },
+    "best": {
+      "rating": 2042,
+      "date": 1639415467,
+      "game": "https://www.chess.com/game/daily/370879563"
+    },
+    "record": {
+      "win": 4,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 41351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2394,
+      "date": 1638143226,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1638143226,
+      "game": "https://www.chess.com/game/live/31881055057"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2812,
+      "date": 1641214644,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2917,
+      "date": 1640615378,
+      "game": "https://www.chess.com/game/live/34354241039"
+    },
+    "record": {
+      "win": 791,
+      "loss": 378,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2957,
+      "date": 1641393619,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2988,
+      "date": 1641151823,
+      "game": "https://www.chess.com/game/live/33361974557"
+    },
+    "record": {
+      "win": 153,
+      "loss": 28,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 3157,
+      "date": 1634480272
+    },
+    "lowest": {
+      "rating": 3157,
+      "date": 1634480272
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 334095633,
+  "@id": "https://api.chess.com/pub/player/basi1isk6",
+  "url": "https://www.chess.com/member/basi1isk6",
+  "username": "basi1isk6",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775745718,
+  "joined": 1703329692,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2272,
+      "date": 1766187254,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1766187254,
+      "game": "https://www.chess.com/game/live/115036148863"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2850,
+      "date": 1746737511,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2858,
+      "date": 1736246034,
+      "game": "https://www.chess.com/game/live/129984523773"
+    },
+    "record": {
+      "win": 86,
+      "loss": 40,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2839,
+      "date": 1775652966,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1766440487,
+      "game": "https://www.chess.com/game/live/110484140525"
+    },
+    "record": {
+      "win": 193,
+      "loss": 160,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2656,
+      "date": 1764770890
+    },
+    "lowest": {
+      "rating": 2541,
+      "date": 1755682222
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

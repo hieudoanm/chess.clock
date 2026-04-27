@@ -1,0 +1,84 @@
+{
+  "player_id": 47739400,
+  "@id": "https://api.chess.com/pub/player/jonas_md",
+  "url": "https://www.chess.com/member/Jonas_MD",
+  "username": "jonas_md",
+  "title": "IM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1769072413,
+  "joined": 1531147076,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2432,
+      "date": 1767404649,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1713957463,
+      "game": "https://www.chess.com/game/live/107696042411"
+    },
+    "record": {
+      "win": 31,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2173,
+      "date": 1768820609,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1600618280,
+      "game": "https://www.chess.com/game/live/5756689527"
+    },
+    "record": {
+      "win": 110,
+      "loss": 110,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2538,
+      "date": 1754680890,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1713957094,
+      "game": "https://www.chess.com/game/live/6488825888"
+    },
+    "record": {
+      "win": 178,
+      "loss": 117,
+      "draw": 16
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2583,
+      "date": 1769068287
+    },
+    "lowest": {
+      "rating": 2233,
+      "date": 1769070573
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

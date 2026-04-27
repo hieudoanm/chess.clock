@@ -1,0 +1,97 @@
+{
+  "player_id": 52085734,
+  "@id": "https://api.chess.com/pub/player/pacomitaco999",
+  "url": "https://www.chess.com/member/PacoMiTaco999",
+  "username": "pacomitaco999",
+  "title": "NM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776596992,
+  "joined": 1542680033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1746027488,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5170,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2472,
+      "date": 1769648726,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1767410821,
+      "game": "https://www.chess.com/game/live/146555557236"
+    },
+    "record": {
+      "win": 64,
+      "loss": 36,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2110,
+      "date": 1772215054,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1720537031,
+      "game": "https://www.chess.com/game/live/144076220083"
+    },
+    "record": {
+      "win": 44,
+      "loss": 49,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2713,
+      "date": 1776577098,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2809,
+      "date": 1758773825,
+      "game": "https://www.chess.com/game/live/165266938664"
+    },
+    "record": {
+      "win": 2940,
+      "loss": 2907,
+      "draw": 481
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1756573157
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1771803693
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

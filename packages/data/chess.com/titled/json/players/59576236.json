@@ -1,0 +1,84 @@
+{
+  "player_id": 59576236,
+  "@id": "https://api.chess.com/pub/player/mangoboba",
+  "url": "https://www.chess.com/member/mangoboba",
+  "name": "mango",
+  "username": "mangoboba",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776341513,
+  "joined": 1554758016,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1810,
+      "date": 1608173827,
+      "rd": 340
+    },
+    "best": {
+      "rating": 1810,
+      "date": 1608173827,
+      "game": "https://www.chess.com/game/live/5985900516"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2485,
+      "date": 1556844558,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1556844558,
+      "game": "https://www.chess.com/game/live/3666386317"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2537,
+      "date": 1666361305,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1559524191,
+      "game": "https://www.chess.com/game/live/3653091890"
+    },
+    "record": {
+      "win": 221,
+      "loss": 224,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2356,
+      "date": 1554758016
+    },
+    "lowest": {
+      "rating": 2356,
+      "date": 1554758016
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

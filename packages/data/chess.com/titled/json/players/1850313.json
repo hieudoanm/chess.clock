@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1850313.48345e77.200x200o.c119c40cada3.jpeg",
+  "player_id": 1850313,
+  "@id": "https://api.chess.com/pub/player/jfriedel",
+  "url": "https://www.chess.com/member/jfriedel",
+  "name": "Josh Friedel",
+  "username": "jfriedel",
+  "title": "GM",
+  "followers": 138,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Milwaukee, Wisconsin",
+  "last_online": 1776443670,
+  "joined": 1238545425,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1658,
+      "date": 1701969074,
+      "rd": 220
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1299815853,
+      "game": "https://www.chess.com/game/daily/42646544"
+    },
+    "record": {
+      "win": 2,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 77604,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2105,
+      "date": 1652893602,
+      "rd": 330
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1590866347,
+      "game": "https://www.chess.com/game/live/4929869456"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2662,
+      "date": 1635131518,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1617313617,
+      "game": "https://www.chess.com/game/live/5110486981"
+    },
+    "record": {
+      "win": 412,
+      "loss": 303,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2720,
+      "date": 1635821971,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2720,
+      "date": 1615921516,
+      "game": "https://www.chess.com/game/live/9659254783"
+    },
+    "record": {
+      "win": 304,
+      "loss": 181,
+      "draw": 42
+    }
+  },
+  "fide": 2555,
+  "tactics": {
+    "highest": {
+      "rating": 2864,
+      "date": 1760461824
+    },
+    "lowest": {
+      "rating": 2688,
+      "date": 1760462081
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

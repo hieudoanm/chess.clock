@@ -1,0 +1,80 @@
+{
+  "player_id": 33743211,
+  "@id": "https://api.chess.com/pub/player/ruvat",
+  "url": "https://www.chess.com/member/ruvat",
+  "name": "Rumen Tashkov",
+  "username": "ruvat",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1772737117,
+  "joined": 1488818533,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2258,
+      "date": 1673648982,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1673648982,
+      "game": "https://www.chess.com/game/live/8284390483"
+    },
+    "record": {
+      "win": 31,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1744839549,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1738969888,
+      "game": "https://www.chess.com/game/live/132951530979"
+    },
+    "record": {
+      "win": 4782,
+      "loss": 2974,
+      "draw": 363
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2449,
+      "date": 1772737099,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2449,
+      "date": 1772737099,
+      "game": "https://www.chess.com/game/live/6016455911"
+    },
+    "record": {
+      "win": 3333,
+      "loss": 2242,
+      "draw": 516
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1488818533
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1488818533
+    }
+  },
+  "puzzle_rush": {}
+}

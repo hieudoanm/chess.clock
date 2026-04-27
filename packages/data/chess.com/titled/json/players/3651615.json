@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3651615.66a72c32.200x200o.168234c9156a.jpeg",
+  "player_id": 3651615,
+  "@id": "https://api.chess.com/pub/player/the-gambler",
+  "url": "https://www.chess.com/member/the-gambler",
+  "name": "Damir Majer",
+  "username": "the-gambler",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Munich",
+  "last_online": 1774704103,
+  "joined": 1277930620,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1057,
+      "date": 1624261082,
+      "rd": 253
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 7464,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2248,
+      "date": 1754308340,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1693848307,
+      "game": "https://www.chess.com/game/live/87585168025"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2529,
+      "date": 1755454544,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1693927025,
+      "game": "https://www.chess.com/game/live/22958495143"
+    },
+    "record": {
+      "win": 400,
+      "loss": 245,
+      "draw": 64
+    }
+  },
+  "fide": 2268,
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1757847598
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1757847598
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

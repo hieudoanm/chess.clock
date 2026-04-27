@@ -1,0 +1,85 @@
+{
+    "player_id": 41180270,
+    "@id": "https://api.chess.com/pub/player/menelao1986",
+    "url": "https://www.chess.com/member/menelao1986",
+    "name": "Alejandro Mateus",
+    "username": "menelao1986",
+    "title": "FM",
+    "followers": 23,
+    "country": "https://api.chess.com/pub/country/CO",
+    "last_online": 1741642125,
+    "joined": 1512865279,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2309,
+            "date": 1600216045,
+            "rd": 299
+        },
+        "best": {
+            "rating": 2475,
+            "date": 1600211688,
+            "game": "https://www.chess.com/game/live/5451336060"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2550,
+            "date": 1741092534,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2605,
+            "date": 1739641863,
+            "game": "https://www.chess.com/game/live/133374542533"
+        },
+        "record": {
+            "win": 141,
+            "loss": 125,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2625,
+            "date": 1741658235,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2695,
+            "date": 1739070824,
+            "game": "https://www.chess.com/game/live/15640969211"
+        },
+        "record": {
+            "win": 1876,
+            "loss": 1633,
+            "draw": 312
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 3348,
+            "date": 1734466266
+        },
+        "lowest": {
+            "rating": 1016,
+            "date": 1583143401
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

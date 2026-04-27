@@ -1,0 +1,79 @@
+{
+  "player_id": 310766881,
+  "@id": "https://api.chess.com/pub/player/francinie",
+  "url": "https://www.chess.com/member/francinie",
+  "username": "francinie",
+  "title": "WNM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776427262,
+  "joined": 1693976451,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1698,
+      "date": 1727360404,
+      "rd": 262
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2613,
+      "date": 1776080706,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1772978365,
+      "game": "https://www.chess.com/game/live/165673248056"
+    },
+    "record": {
+      "win": 246,
+      "loss": 198,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1774282340,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1770301307,
+      "game": "https://www.chess.com/game/live/164272618312"
+    },
+    "record": {
+      "win": 61,
+      "loss": 43,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2389,
+      "date": 1693976451
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1693976451
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

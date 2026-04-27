@@ -1,0 +1,68 @@
+{
+  "player_id": 428303739,
+  "@id": "https://api.chess.com/pub/player/acordeonist",
+  "url": "https://www.chess.com/member/acordeonist",
+  "name": "Gabriel Lesueur",
+  "username": "acordeonist",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1772986244,
+  "joined": 1739272169,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2438,
+      "date": 1757784707,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1750527138,
+      "game": "https://www.chess.com/game/live/152093884457"
+    },
+    "record": {
+      "win": 23,
+      "loss": 23,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2482,
+      "date": 1772561535,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1762881083,
+      "game": "https://www.chess.com/game/live/146905401163"
+    },
+    "record": {
+      "win": 47,
+      "loss": 55,
+      "draw": 4
+    }
+  },
+  "fide": 2319,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1739272169
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1739272169
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

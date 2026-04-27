@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4745692.7fcecd87.200x200o.ea496341e3ee.jpeg",
+  "player_id": 4745692,
+  "@id": "https://api.chess.com/pub/player/tedbelanoff",
+  "url": "https://www.chess.com/member/TedBelanoff",
+  "name": "Ted Belanoff",
+  "username": "tedbelanoff",
+  "title": "NM",
+  "followers": 10081,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Berkeley",
+  "last_online": 1776490453,
+  "joined": 1298252410,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1865,
+      "date": 1639706049,
+      "rd": 251
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 150594,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2066,
+      "date": 1776118084,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1606621197,
+      "game": "https://www.chess.com/game/live/5843186680"
+    },
+    "record": {
+      "win": 729,
+      "loss": 306,
+      "draw": 57
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1776490438,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1301266417,
+      "game": "https://www.chess.com/game/live/166793676076"
+    },
+    "record": {
+      "win": 10606,
+      "loss": 8060,
+      "draw": 835
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2298,
+      "date": 1776391541,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1700160363,
+      "game": "https://www.chess.com/game/live/165013185779"
+    },
+    "record": {
+      "win": 3089,
+      "loss": 1717,
+      "draw": 234
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2323,
+      "date": 1298252410
+    },
+    "lowest": {
+      "rating": 2323,
+      "date": 1298252410
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

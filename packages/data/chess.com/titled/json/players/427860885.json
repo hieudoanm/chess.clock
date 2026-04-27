@@ -1,0 +1,67 @@
+{
+  "player_id": 427860885,
+  "@id": "https://api.chess.com/pub/player/goldeneymar",
+  "url": "https://www.chess.com/member/GolDeNeymar",
+  "name": "Miguel Ruiz Buendia",
+  "username": "goldeneymar",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1754401895,
+  "joined": 1739122191,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2379,
+      "date": 1739740896
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1739740896,
+      "game": "https://www.chess.com/game/live/133479541621"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2399,
+      "date": 1754409303,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1754407149,
+      "game": "https://www.chess.com/game/live/148720113903"
+    },
+    "record": {
+      "win": 34,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "fide": 2379,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1739122191
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1739122191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

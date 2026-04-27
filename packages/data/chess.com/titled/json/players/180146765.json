@@ -1,0 +1,66 @@
+{
+  "player_id": 180146765,
+  "@id": "https://api.chess.com/pub/player/nanochil2",
+  "url": "https://www.chess.com/member/nanochil2",
+  "username": "nanochil2",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1776339525,
+  "joined": 1649770505,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2711,
+      "date": 1746079226,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1689658531,
+      "game": "https://www.chess.com/game/live/85569616533"
+    },
+    "record": {
+      "win": 391,
+      "loss": 400,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2682,
+      "date": 1721672749,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2935,
+      "date": 1689844351,
+      "game": "https://www.chess.com/game/live/88931439055"
+    },
+    "record": {
+      "win": 93,
+      "loss": 107,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2661,
+      "date": 1649770505
+    },
+    "lowest": {
+      "rating": 2661,
+      "date": 1649770505
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

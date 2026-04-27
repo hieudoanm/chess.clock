@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27657772.66c2b77f.200x200o.7419cc7bd974.jpeg",
+  "player_id": 27657772,
+  "@id": "https://api.chess.com/pub/player/blue_capybara",
+  "url": "https://www.chess.com/member/Blue_Capybara",
+  "name": "Gus Huston",
+  "username": "blue_capybara",
+  "title": "IM",
+  "followers": 240,
+  "country": "https://api.chess.com/pub/country/SC",
+  "last_online": 1776529448,
+  "joined": 1460159075,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1718887636,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1505,
+      "date": 1666189040,
+      "game": "https://www.chess.com/game/daily/438627897"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1845,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2077,
+      "date": 1773508407,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1645312143,
+      "game": "https://www.chess.com/game/live/39050930049"
+    },
+    "record": {
+      "win": 234,
+      "loss": 141,
+      "draw": 29
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2784,
+      "date": 1775582291,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2976,
+      "date": 1771801769,
+      "game": "https://www.chess.com/game/live/165115136014"
+    },
+    "record": {
+      "win": 2332,
+      "loss": 1778,
+      "draw": 248
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2684,
+      "date": 1776529440,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2895,
+      "date": 1762981791,
+      "game": "https://www.chess.com/game/live/59613626393"
+    },
+    "record": {
+      "win": 15602,
+      "loss": 13029,
+      "draw": 2201
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1764527277
+    },
+    "lowest": {
+      "rating": 2376,
+      "date": 1758339367
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

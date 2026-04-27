@@ -1,0 +1,80 @@
+{
+  "player_id": 17206896,
+  "@id": "https://api.chess.com/pub/player/czar101101101",
+  "url": "https://www.chess.com/member/Czar101101101",
+  "name": "Gregg",
+  "username": "czar101101101",
+  "title": "CM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Washington",
+  "last_online": 1773379400,
+  "joined": 1399467078,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1642868865,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2170,
+      "date": 1594574725,
+      "game": "https://www.chess.com/game/live/5612835700"
+    },
+    "record": {
+      "win": 268,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1451,
+      "date": 1773379387,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1457424000,
+      "game": "https://www.chess.com/game/live/6369221326"
+    },
+    "record": {
+      "win": 6284,
+      "loss": 4745,
+      "draw": 942
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1903,
+      "date": 1655575020,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2020,
+      "date": 1568344962,
+      "game": "https://www.chess.com/game/live/4025753755"
+    },
+    "record": {
+      "win": 2350,
+      "loss": 1862,
+      "draw": 617
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1399467078
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1399467078
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1343052.72b3ff5d.200x200o.eea6e10db43c.jpeg",
+  "player_id": 1343052,
+  "@id": "https://api.chess.com/pub/player/guriempire",
+  "url": "https://www.chess.com/member/Guriempire",
+  "name": "Ido Gorshtein",
+  "username": "guriempire",
+  "title": "GM",
+  "followers": 375,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "baden baden",
+  "last_online": 1769805166,
+  "joined": 1206651636,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1361,
+      "date": 1713960664,
+      "rd": 292
+    },
+    "best": {
+      "rating": 1361,
+      "date": 1206739770,
+      "game": "https://www.chess.com/game/daily/6508368"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 14611,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2332,
+      "date": 1676054365,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1674914487,
+      "game": "https://www.chess.com/game/live/68650551105"
+    },
+    "record": {
+      "win": 19,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2835,
+      "date": 1746387217,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2881,
+      "date": 1725999333,
+      "game": "https://www.chess.com/game/live/27702614447"
+    },
+    "record": {
+      "win": 1921,
+      "loss": 1332,
+      "draw": 214
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2873,
+      "date": 1746426190,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2922,
+      "date": 1679943544,
+      "game": "https://www.chess.com/game/live/107046030191"
+    },
+    "record": {
+      "win": 12146,
+      "loss": 9320,
+      "draw": 2077
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1206651636
+    },
+    "lowest": {
+      "rating": 2471,
+      "date": 1206651636
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

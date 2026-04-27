@@ -1,0 +1,83 @@
+{
+  "player_id": 12196246,
+  "@id": "https://api.chess.com/pub/player/jlkinglion",
+  "url": "https://www.chess.com/member/jlkinglion",
+  "username": "jlkinglion",
+  "title": "FM",
+  "followers": 167,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776243508,
+  "joined": 1370540914,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1630920008,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1522431256,
+      "game": "https://www.chess.com/game/live/2712062177"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1916,
+      "date": 1661349281,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1659624716,
+      "game": "https://www.chess.com/game/live/814532332"
+    },
+    "record": {
+      "win": 128,
+      "loss": 124,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2336,
+      "date": 1776243501,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1551388321,
+      "game": "https://www.chess.com/game/live/3496473975"
+    },
+    "record": {
+      "win": 25324,
+      "loss": 28992,
+      "draw": 2654
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1370540914
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1370540914
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 29
+    }
+  }
+}

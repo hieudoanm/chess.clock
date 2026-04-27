@@ -1,0 +1,83 @@
+{
+  "player_id": 34694102,
+  "@id": "https://api.chess.com/pub/player/grobesk",
+  "url": "https://www.chess.com/member/grobesk",
+  "username": "grobesk",
+  "title": "CM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1767514135,
+  "joined": 1491921081,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2264,
+      "date": 1735562857,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1640550826,
+      "game": "https://www.chess.com/game/live/33904176505"
+    },
+    "record": {
+      "win": 31,
+      "loss": 14,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2007,
+      "date": 1742632548,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1570224867,
+      "game": "https://www.chess.com/game/live/3982379088"
+    },
+    "record": {
+      "win": 61,
+      "loss": 75,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2586,
+      "date": 1767172011,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1767172011,
+      "game": "https://www.chess.com/game/live/43426247511"
+    },
+    "record": {
+      "win": 3305,
+      "loss": 3703,
+      "draw": 770
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2516,
+      "date": 1765263080
+    },
+    "lowest": {
+      "rating": 2191,
+      "date": 1765262676
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 22
+    }
+  }
+}

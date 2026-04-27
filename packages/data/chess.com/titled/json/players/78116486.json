@@ -1,0 +1,86 @@
+{
+  "player_id": 78116486,
+  "@id": "https://api.chess.com/pub/player/sergeishevelev",
+  "url": "https://www.chess.com/member/SergeiShevelev",
+  "name": "Sergei Shevelev",
+  "username": "sergeishevelev",
+  "title": "IM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+  "last_online": 1772019141,
+  "joined": 1588155756,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1677765196,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1674944820,
+      "game": "https://www.chess.com/game/live/64872762753"
+    },
+    "record": {
+      "win": 176,
+      "loss": 65,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2231,
+      "date": 1724336988,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1707483210,
+      "game": "https://www.chess.com/game/live/67881376879"
+    },
+    "record": {
+      "win": 1180,
+      "loss": 643,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2473,
+      "date": 1772019102,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1772016956,
+      "game": "https://www.chess.com/game/live/63554324669"
+    },
+    "record": {
+      "win": 1385,
+      "loss": 860,
+      "draw": 105
+    }
+  },
+  "fide": 2420,
+  "tactics": {
+    "highest": {
+      "rating": 2345,
+      "date": 1588155756
+    },
+    "lowest": {
+      "rating": 2345,
+      "date": 1588155756
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

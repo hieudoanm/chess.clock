@@ -1,0 +1,105 @@
+{
+  "player_id": 27754590,
+  "@id": "https://api.chess.com/pub/player/elisak43",
+  "url": "https://www.chess.com/member/elisak43",
+  "name": "Tibor Bodi",
+  "username": "elisak43",
+  "title": "FM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1776537008,
+  "joined": 1460718237,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 813,
+      "date": 1676465137,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1460718237,
+      "game": "https://www.chess.com/game/daily/456767409"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 150956,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1775053071,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1606684771,
+      "game": "https://www.chess.com/game/live/166720293462"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2613,
+      "date": 1773854281,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2657,
+      "date": 1610406277,
+      "game": "https://www.chess.com/game/live/7587149913"
+    },
+    "record": {
+      "win": 2035,
+      "loss": 1911,
+      "draw": 269
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2680,
+      "date": 1775129483,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1770751431,
+      "game": "https://www.chess.com/game/live/75569617319"
+    },
+    "record": {
+      "win": 4583,
+      "loss": 4660,
+      "draw": 915
+    }
+  },
+  "fide": 2324,
+  "tactics": {
+    "highest": {
+      "rating": 1968,
+      "date": 1773140314
+    },
+    "lowest": {
+      "rating": 1968,
+      "date": 1773140314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

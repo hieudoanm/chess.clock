@@ -1,0 +1,116 @@
+{
+  "player_id": 64643870,
+  "@id": "https://api.chess.com/pub/player/milena1423",
+  "url": "https://www.chess.com/member/Milena1423",
+  "username": "milena1423",
+  "title": "WCM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1761475921,
+  "joined": 1566635981,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1562,
+      "date": 1745936940,
+      "rd": 89
+    },
+    "best": {
+      "rating": 1638,
+      "date": 1627371759,
+      "game": "https://www.chess.com/game/daily/310273974"
+    },
+    "record": {
+      "win": 53,
+      "loss": 26,
+      "draw": 6,
+      "time_per_move": 45460,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1622816402,
+      "rd": 350
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 45460,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2169,
+      "date": 1710527590,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1696152270,
+      "game": "https://www.chess.com/game/live/73244653407"
+    },
+    "record": {
+      "win": 200,
+      "loss": 101,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2237,
+      "date": 1713443070,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1694363231,
+      "game": "https://www.chess.com/game/live/89322672029"
+    },
+    "record": {
+      "win": 1687,
+      "loss": 1384,
+      "draw": 218
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2142,
+      "date": 1729178320,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1698408561,
+      "game": "https://www.chess.com/game/live/92601111633"
+    },
+    "record": {
+      "win": 1688,
+      "loss": 1436,
+      "draw": 169
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2441,
+      "date": 1566635981
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1566635981
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

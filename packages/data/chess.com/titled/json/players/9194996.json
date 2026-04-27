@@ -1,0 +1,88 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9194996.d712e3ce.200x200o.62e80fe42cac.jpg",
+  "player_id": 9194996,
+  "@id": "https://api.chess.com/pub/player/gmashley",
+  "url": "https://www.chess.com/member/GMAshley",
+  "name": "Maurice Ashley",
+  "username": "gmashley",
+  "title": "GM",
+  "followers": 544,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Brooklyn",
+  "last_online": 1776461940,
+  "joined": 1349787982,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmashley",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmashley"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 1880,
+      "date": 1648256198,
+      "rd": 349
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2365,
+      "date": 1662133036,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1648230677,
+      "game": "https://www.chess.com/game/live/9317732083"
+    },
+    "record": {
+      "win": 3884,
+      "loss": 4429,
+      "draw": 389
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2204,
+      "date": 1653151433,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1602539217,
+      "game": "https://www.chess.com/game/live/5574990904"
+    },
+    "record": {
+      "win": 21,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "fide": 2465,
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1349787982
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1349787982
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

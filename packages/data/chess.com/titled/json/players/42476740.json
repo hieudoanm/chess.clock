@@ -1,0 +1,105 @@
+{
+  "player_id": 42476740,
+  "@id": "https://api.chess.com/pub/player/kingpanda13",
+  "url": "https://www.chess.com/member/KingPanda13",
+  "name": "Shadow",
+  "username": "kingpanda13",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Maastricht",
+  "last_online": 1776592304,
+  "joined": 1516378848,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1348,
+      "date": 1746027114,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1400,
+      "date": 1517586941,
+      "game": "https://www.chess.com/game/daily/220746190"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 7692,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1746538207,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1658393238,
+      "game": "https://www.chess.com/game/live/52059646735"
+    },
+    "record": {
+      "win": 151,
+      "loss": 103,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2565,
+      "date": 1774690470,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1710956275,
+      "game": "https://www.chess.com/game/live/41155110839"
+    },
+    "record": {
+      "win": 3213,
+      "loss": 3789,
+      "draw": 558
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2779,
+      "date": 1776270995,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2870,
+      "date": 1756740357,
+      "game": "https://www.chess.com/game/live/144764713682"
+    },
+    "record": {
+      "win": 3390,
+      "loss": 3565,
+      "draw": 913
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2467,
+      "date": 1769093570
+    },
+    "lowest": {
+      "rating": 2427,
+      "date": 1769093578
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

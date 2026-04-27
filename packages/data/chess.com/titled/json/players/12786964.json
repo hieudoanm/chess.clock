@@ -1,0 +1,122 @@
+{
+  "player_id": 12786964,
+  "@id": "https://api.chess.com/pub/player/wgraif",
+  "url": "https://www.chess.com/member/wgraif",
+  "name": "William Graif",
+  "username": "wgraif",
+  "title": "FM",
+  "followers": 211,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776399784,
+  "joined": 1374326044,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2093,
+      "date": 1755246499,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2294,
+      "date": 1610614213,
+      "game": "https://www.chess.com/game/daily/419042277"
+    },
+    "record": {
+      "win": 898,
+      "loss": 373,
+      "draw": 104,
+      "time_per_move": 18642,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1643,
+      "date": 1638736143,
+      "rd": 267
+    },
+    "best": {
+      "rating": 1643,
+      "date": 1638736143,
+      "game": "https://www.chess.com/game/daily/85342638"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 18642,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2369,
+      "date": 1761866666,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1609793489,
+      "game": "https://www.chess.com/game/live/6160463709"
+    },
+    "record": {
+      "win": 23,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2713,
+      "date": 1776328317,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1776328317,
+      "game": "https://www.chess.com/game/live/5883472463"
+    },
+    "record": {
+      "win": 2872,
+      "loss": 2471,
+      "draw": 250
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2701,
+      "date": 1776043629,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2724,
+      "date": 1762273928,
+      "game": "https://www.chess.com/game/live/149342908689"
+    },
+    "record": {
+      "win": 2545,
+      "loss": 2010,
+      "draw": 345
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2581,
+      "date": 1761631469
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1760243599
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

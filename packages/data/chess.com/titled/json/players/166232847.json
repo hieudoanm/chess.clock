@@ -1,0 +1,124 @@
+{
+  "player_id": 166232847,
+  "@id": "https://api.chess.com/pub/player/aldareee",
+  "url": "https://www.chess.com/member/aldareee",
+  "name": "Aldiyar Zharas",
+  "username": "aldareee",
+  "title": "CM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "Almaty",
+  "last_online": 1776589896,
+  "joined": 1640444238,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1688,
+      "date": 1767354713,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1688,
+      "date": 1764165081,
+      "game": "https://www.chess.com/game/daily/890591111"
+    },
+    "record": {
+      "win": 25,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 10510,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1828,
+      "date": 1761187122,
+      "rd": 257
+    },
+    "best": {
+      "rating": 1828,
+      "date": 1761187122,
+      "game": "https://www.chess.com/game/daily/875863977"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 10510,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2211,
+      "date": 1771604503,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1767988521,
+      "game": "https://www.chess.com/game/live/147774259394"
+    },
+    "record": {
+      "win": 253,
+      "loss": 200,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2679,
+      "date": 1776506044,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2795,
+      "date": 1768586936,
+      "game": "https://www.chess.com/game/live/148095891100"
+    },
+    "record": {
+      "win": 398,
+      "loss": 336,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2680,
+      "date": 1776285603,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1763123124,
+      "game": "https://www.chess.com/game/live/164972111830"
+    },
+    "record": {
+      "win": 1186,
+      "loss": 1071,
+      "draw": 158
+    }
+  },
+  "fide": 2123,
+  "tactics": {
+    "highest": {
+      "rating": 2618,
+      "date": 1776428563
+    },
+    "lowest": {
+      "rating": 2164,
+      "date": 1773892268
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

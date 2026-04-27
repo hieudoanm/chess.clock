@@ -1,0 +1,104 @@
+{
+  "player_id": 86759090,
+  "@id": "https://api.chess.com/pub/player/irian-jaya",
+  "url": "https://www.chess.com/member/Irian-Jaya",
+  "name": "Alexandra Kaslan",
+  "username": "irian-jaya",
+  "title": "WCM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/SR",
+  "location": "Suriname",
+  "last_online": 1776525193,
+  "joined": 1594822694,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1510,
+      "date": 1774945770,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1515,
+      "date": 1692200236,
+      "game": "https://www.chess.com/game/daily/528054063"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 70431,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1540,
+      "date": 1724732666,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1724,
+      "date": 1596296580,
+      "game": "https://www.chess.com/game/live/6321755613"
+    },
+    "record": {
+      "win": 15,
+      "loss": 18,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1542,
+      "date": 1776525147,
+      "rd": 94
+    },
+    "best": {
+      "rating": 1633,
+      "date": 1733711671,
+      "game": "https://www.chess.com/game/live/113670561885"
+    },
+    "record": {
+      "win": 240,
+      "loss": 226,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1651,
+      "date": 1762546055,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1864,
+      "date": 1603650968,
+      "game": "https://www.chess.com/game/live/5634672834"
+    },
+    "record": {
+      "win": 37,
+      "loss": 29,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1895,
+      "date": 1775921488
+    },
+    "lowest": {
+      "rating": 1651,
+      "date": 1771039430
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

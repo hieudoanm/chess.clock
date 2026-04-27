@@ -1,0 +1,104 @@
+{
+  "player_id": 5644845,
+  "@id": "https://api.chess.com/pub/player/oogee",
+  "url": "https://www.chess.com/member/oogee",
+  "name": "Eugene Yanayt",
+  "username": "oogee",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1773016978,
+  "joined": 1313793797,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1758,
+      "date": 1699952754,
+      "rd": 228
+    },
+    "best": {
+      "rating": 1763,
+      "date": 1316227083,
+      "game": "https://www.chess.com/game/daily/47193243"
+    },
+    "record": {
+      "win": 28,
+      "loss": 6,
+      "draw": 2,
+      "time_per_move": 1792,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2356,
+      "date": 1749200511,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2442,
+      "date": 1612029323,
+      "game": "https://www.chess.com/game/live/5674644311"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1668926226,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1668925953,
+      "game": "https://www.chess.com/game/live/56241811469"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2418,
+      "date": 1773013191,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1773012305,
+      "game": "https://www.chess.com/game/live/8448908087"
+    },
+    "record": {
+      "win": 811,
+      "loss": 662,
+      "draw": 62
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2591,
+      "date": 1764062163
+    },
+    "lowest": {
+      "rating": 2473,
+      "date": 1764064856
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

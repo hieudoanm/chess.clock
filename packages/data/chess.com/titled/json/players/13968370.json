@@ -1,0 +1,84 @@
+{
+  "player_id": 13968370,
+  "@id": "https://api.chess.com/pub/player/sarajkov",
+  "url": "https://www.chess.com/member/sarajkov",
+  "name": "Suradj Hanoeman",
+  "username": "sarajkov",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/SR",
+  "last_online": 1775921919,
+  "joined": 1382196669,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2140,
+      "date": 1726671497,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1596379045,
+      "game": "https://www.chess.com/game/live/5231619856"
+    },
+    "record": {
+      "win": 10,
+      "loss": 5,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1873,
+      "date": 1775429010,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2270,
+      "date": 1628513865,
+      "game": "https://www.chess.com/game/live/22252781143"
+    },
+    "record": {
+      "win": 18,
+      "loss": 30,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2176,
+      "date": 1741015120,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1737027187,
+      "game": "https://www.chess.com/game/live/62539765719"
+    },
+    "record": {
+      "win": 295,
+      "loss": 233,
+      "draw": 26
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2344,
+      "date": 1382196669
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1382196669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

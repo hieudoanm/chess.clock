@@ -1,0 +1,78 @@
+{
+  "player_id": 87538498,
+  "@id": "https://api.chess.com/pub/player/absentzest",
+  "url": "https://www.chess.com/member/AbsentZest",
+  "username": "absentzest",
+  "title": "GM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1643266207,
+  "joined": 1595686325,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2248,
+      "date": 1631380281,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1629648652,
+      "game": "https://www.chess.com/game/live/24593508663"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2114,
+      "date": 1637492472,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2434,
+      "date": 1643155615,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1637066231,
+      "game": "https://www.chess.com/game/live/31193362349"
+    },
+    "record": {
+      "win": 263,
+      "loss": 198,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1595686325
+    },
+    "lowest": {
+      "rating": 2599,
+      "date": 1595686325
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

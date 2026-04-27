@@ -1,0 +1,86 @@
+{
+  "player_id": 109328184,
+  "@id": "https://api.chess.com/pub/player/mba_chess_2021",
+  "url": "https://www.chess.com/member/MBA_CHESS_2021",
+  "name": "Robert Kula",
+  "username": "mba_chess_2021",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Police",
+  "last_online": 1776256083,
+  "joined": 1609659211,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2330,
+      "date": 1677687803,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2330,
+      "date": 1677687803,
+      "game": "https://www.chess.com/game/live/71426555171"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1979,
+      "date": 1752584994,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1752573054,
+      "game": "https://www.chess.com/game/live/140712442948"
+    },
+    "record": {
+      "win": 425,
+      "loss": 497,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2324,
+      "date": 1752858505,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1752010375,
+      "game": "https://www.chess.com/game/live/88271526455"
+    },
+    "record": {
+      "win": 4583,
+      "loss": 5440,
+      "draw": 344
+    }
+  },
+  "fide": 2284,
+  "tactics": {
+    "highest": {
+      "rating": 2530,
+      "date": 1609659211
+    },
+    "lowest": {
+      "rating": 2530,
+      "date": 1609659211
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

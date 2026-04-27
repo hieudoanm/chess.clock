@@ -1,0 +1,103 @@
+{
+  "player_id": 21547128,
+  "@id": "https://api.chess.com/pub/player/black_wyzard",
+  "url": "https://www.chess.com/member/Black_Wyzard",
+  "name": "Matthias Gantner",
+  "username": "black_wyzard",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776579980,
+  "joined": 1426534815,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2235,
+      "date": 1770751136,
+      "rd": 345
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1486129518,
+      "game": "https://www.chess.com/game/daily/136598944"
+    },
+    "record": {
+      "win": 99,
+      "loss": 3,
+      "draw": 5,
+      "time_per_move": 50193,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2274,
+      "date": 1704657225,
+      "rd": 223
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1704657225,
+      "game": "https://www.chess.com/game/live/98395490281"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2429,
+      "date": 1533930053,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1533930053,
+      "game": "https://www.chess.com/game/live/1646085028"
+    },
+    "record": {
+      "win": 70,
+      "loss": 27,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1725550454,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1534063646,
+      "game": "https://www.chess.com/game/live/1927266679"
+    },
+    "record": {
+      "win": 1822,
+      "loss": 1518,
+      "draw": 213
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2974,
+      "date": 1770830543
+    },
+    "lowest": {
+      "rating": 2765,
+      "date": 1773777088
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 82,
+      "score": 79
+    }
+  }
+}

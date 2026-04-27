@@ -1,0 +1,120 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6612022.a8ae96fd.200x200o.db405cbf7b5c.jpeg",
+  "player_id": 6612022,
+  "@id": "https://api.chess.com/pub/player/roedor",
+  "url": "https://www.chess.com/member/Roedor",
+  "name": "Andres Carrasco Miranda",
+  "username": "roedor",
+  "title": "CM",
+  "followers": 128,
+  "country": "https://api.chess.com/pub/country/CL",
+  "location": "Valdivia",
+  "last_online": 1776404774,
+  "joined": 1328331676,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1501,
+      "date": 1667646783,
+      "rd": 90
+    },
+    "best": {
+      "rating": 1847,
+      "date": 1573885729,
+      "game": "https://www.chess.com/game/daily/230824058"
+    },
+    "record": {
+      "win": 109,
+      "loss": 72,
+      "draw": 13,
+      "time_per_move": 26919,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1062,
+      "date": 1575346202,
+      "rd": 217
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 2,
+      "time_per_move": 26919,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2140,
+      "date": 1679939856,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2149,
+      "date": 1656389234,
+      "game": "https://www.chess.com/game/live/70662883135"
+    },
+    "record": {
+      "win": 33,
+      "loss": 21,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2282,
+      "date": 1774739108,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1704254356,
+      "game": "https://www.chess.com/game/live/108458976853"
+    },
+    "record": {
+      "win": 2051,
+      "loss": 660,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1776401410,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1775886719,
+      "game": "https://www.chess.com/game/live/133640339445"
+    },
+    "record": {
+      "win": 3394,
+      "loss": 2834,
+      "draw": 443
+    }
+  },
+  "fide": 2285,
+  "tactics": {
+    "highest": {
+      "rating": 2332,
+      "date": 1776403937
+    },
+    "lowest": {
+      "rating": 2227,
+      "date": 1776404179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

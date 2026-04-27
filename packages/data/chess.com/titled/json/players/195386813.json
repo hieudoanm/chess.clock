@@ -1,0 +1,83 @@
+{
+  "player_id": 195386813,
+  "@id": "https://api.chess.com/pub/player/azusa-hamaoka",
+  "url": "https://www.chess.com/member/Azusa-Hamaoka",
+  "username": "azusa-hamaoka",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/NP",
+  "last_online": 1776488624,
+  "joined": 1661941393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2036,
+      "date": 1748336451,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2036,
+      "date": 1748336451,
+      "game": "https://www.chess.com/game/live/131134198961"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2644,
+      "date": 1776329328,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1776328754,
+      "game": "https://www.chess.com/game/live/167348039708"
+    },
+    "record": {
+      "win": 165,
+      "loss": 78,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2636,
+      "date": 1748337683,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1748337683,
+      "game": "https://www.chess.com/game/live/115108676981"
+    },
+    "record": {
+      "win": 42,
+      "loss": 16,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2522,
+      "date": 1771478620
+    },
+    "lowest": {
+      "rating": 2353,
+      "date": 1776328242
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

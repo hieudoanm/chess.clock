@@ -1,0 +1,104 @@
+{
+  "player_id": 60614669,
+  "@id": "https://api.chess.com/pub/player/mergenkakabaev",
+  "url": "https://www.chess.com/member/MergenKakabaev",
+  "name": "Mergen Kakabayev",
+  "username": "mergenkakabaev",
+  "title": "FM",
+  "followers": 111,
+  "country": "https://api.chess.com/pub/country/TM",
+  "last_online": 1775538843,
+  "joined": 1557059097,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1464,
+      "date": 1732094965,
+      "rd": 235
+    },
+    "best": {
+      "rating": 1818,
+      "date": 1576952226,
+      "game": "https://www.chess.com/game/daily/245545750"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 45843,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1588011548,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1587666705,
+      "game": "https://www.chess.com/game/live/3868143441"
+    },
+    "record": {
+      "win": 6,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2231,
+      "date": 1680187116,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1615920884,
+      "game": "https://www.chess.com/game/live/9659773053"
+    },
+    "record": {
+      "win": 4,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1775538836,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2850,
+      "date": 1734707502,
+      "game": "https://www.chess.com/game/live/128445871143"
+    },
+    "record": {
+      "win": 2159,
+      "loss": 2447,
+      "draw": 420
+    }
+  },
+  "fide": 2311,
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1557059097
+    },
+    "lowest": {
+      "rating": 2501,
+      "date": 1557059097
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

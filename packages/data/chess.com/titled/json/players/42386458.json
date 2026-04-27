@@ -1,0 +1,98 @@
+{
+  "player_id": 42386458,
+  "@id": "https://api.chess.com/pub/player/mimsychess",
+  "url": "https://www.chess.com/member/Mimsychess",
+  "name": "Raymond Kaufman",
+  "username": "mimsychess",
+  "title": "IM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776447734,
+  "joined": 1516131957,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1314,
+      "date": 1714745421,
+      "rd": 238
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 207764,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1765,
+      "date": 1770318078,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1580353248,
+      "game": "https://www.chess.com/game/live/6015453138"
+    },
+    "record": {
+      "win": 4,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2240,
+      "date": 1776447683,
+      "rd": 181
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1640234947,
+      "game": "https://www.chess.com/game/live/5051259114"
+    },
+    "record": {
+      "win": 74,
+      "loss": 36,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2452,
+      "date": 1776447619,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1609130528,
+      "game": "https://www.chess.com/game/live/73151805145"
+    },
+    "record": {
+      "win": 2336,
+      "loss": 1656,
+      "draw": 266
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2401,
+      "date": 1516131957
+    },
+    "lowest": {
+      "rating": 2401,
+      "date": 1516131957
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

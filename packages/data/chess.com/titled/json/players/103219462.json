@@ -1,0 +1,88 @@
+{
+  "player_id": 103219462,
+  "@id": "https://api.chess.com/pub/player/lcv4022",
+  "url": "https://www.chess.com/member/lcv4022",
+  "username": "lcv4022",
+  "title": "WCM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776591192,
+  "joined": 1607589359,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1598,
+      "date": 1740391361,
+      "rd": 108
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1735021243,
+      "game": "https://www.chess.com/game/live/128758976643"
+    },
+    "record": {
+      "win": 18,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1514,
+      "date": 1776309451,
+      "rd": 70
+    },
+    "best": {
+      "rating": 1591,
+      "date": 1755755153,
+      "game": "https://www.chess.com/game/live/146810245110"
+    },
+    "record": {
+      "win": 43,
+      "loss": 40,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1912,
+      "date": 1776597930,
+      "rd": 41
+    },
+    "best": {
+      "rating": 1920,
+      "date": 1769679365,
+      "game": "https://www.chess.com/game/live/165305741626"
+    },
+    "record": {
+      "win": 181,
+      "loss": 128,
+      "draw": 15
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2117,
+      "date": 1758491163
+    },
+    "lowest": {
+      "rating": 1908,
+      "date": 1772655992
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    },
+    "daily": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

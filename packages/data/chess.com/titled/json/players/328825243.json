@@ -1,0 +1,66 @@
+{
+  "player_id": 328825243,
+  "@id": "https://api.chess.com/pub/player/fruisthebest",
+  "url": "https://www.chess.com/member/fruisthebest",
+  "username": "fruisthebest",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776521530,
+  "joined": 1701089334,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2103,
+      "date": 1703343605,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1703343605,
+      "game": "https://www.chess.com/game/live/97078928911"
+    },
+    "record": {
+      "win": 31,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2294,
+      "date": 1775061877,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1768421485,
+      "game": "https://www.chess.com/game/live/148038065484"
+    },
+    "record": {
+      "win": 108,
+      "loss": 41,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1701089334
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1701089334
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

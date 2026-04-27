@@ -1,0 +1,86 @@
+{
+  "player_id": 28912638,
+  "@id": "https://api.chess.com/pub/player/klokan64",
+  "url": "https://www.chess.com/member/Klokan64",
+  "name": "Hana Modrova",
+  "username": "klokan64",
+  "title": "WFM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Praha",
+  "last_online": 1776596436,
+  "joined": 1467600420,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1467,
+      "date": 1774902289,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1874,
+      "date": 1604947270,
+      "game": "https://www.chess.com/game/live/5714555840"
+    },
+    "record": {
+      "win": 322,
+      "loss": 316,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 673,
+      "date": 1772484820,
+      "rd": 51
+    },
+    "best": {
+      "rating": 1185,
+      "date": 1608402356,
+      "game": "https://www.chess.com/game/live/119399969207"
+    },
+    "record": {
+      "win": 1172,
+      "loss": 1216,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1072,
+      "date": 1776596784,
+      "rd": 25
+    },
+    "best": {
+      "rating": 1759,
+      "date": 1605968714,
+      "game": "https://www.chess.com/game/live/164256587465"
+    },
+    "record": {
+      "win": 6016,
+      "loss": 6028,
+      "draw": 519
+    }
+  },
+  "fide": 1816,
+  "tactics": {
+    "highest": {
+      "rating": 1713,
+      "date": 1757532668
+    },
+    "lowest": {
+      "rating": 1488,
+      "date": 1764841956
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

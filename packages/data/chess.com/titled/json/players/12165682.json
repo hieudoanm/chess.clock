@@ -1,0 +1,80 @@
+{
+  "player_id": 12165682,
+  "@id": "https://api.chess.com/pub/player/goran_galiot",
+  "url": "https://www.chess.com/member/Goran_Galiot",
+  "name": "Goran Galiot",
+  "username": "goran_galiot",
+  "title": "FM",
+  "followers": 103,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776508763,
+  "joined": 1370371989,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2189,
+      "date": 1673918928,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1658521381,
+      "game": "https://www.chess.com/game/live/52259387815"
+    },
+    "record": {
+      "win": 21,
+      "loss": 15,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2406,
+      "date": 1776508668,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2524,
+      "date": 1726156333,
+      "game": "https://www.chess.com/game/live/43094940629"
+    },
+    "record": {
+      "win": 28129,
+      "loss": 26502,
+      "draw": 1713
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2816,
+      "date": 1776165876,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1776111453,
+      "game": "https://www.chess.com/game/live/31706403571"
+    },
+    "record": {
+      "win": 41451,
+      "loss": 36240,
+      "draw": 4251
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1799,
+      "date": 1370371989
+    },
+    "lowest": {
+      "rating": 1799,
+      "date": 1370371989
+    }
+  },
+  "puzzle_rush": {}
+}

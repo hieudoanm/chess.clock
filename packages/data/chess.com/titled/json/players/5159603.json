@@ -1,0 +1,108 @@
+{
+  "player_id": 5159603,
+  "@id": "https://api.chess.com/pub/player/rnanjo",
+  "url": "https://www.chess.com/member/rnanjo",
+  "name": "Ryosuke Nanjo",
+  "username": "rnanjo",
+  "title": "IM",
+  "followers": 261,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776596711,
+  "joined": 1306064209,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2239,
+      "date": 1629924982,
+      "rd": 302
+    },
+    "best": {
+      "rating": 2239,
+      "date": 1350798453,
+      "game": "https://www.chess.com/game/daily/50260013"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 87623,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2450,
+      "date": 1776146595,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1601384439,
+      "game": "https://www.chess.com/game/live/23966816617"
+    },
+    "record": {
+      "win": 48,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1775306871,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1759924198,
+      "game": "https://www.chess.com/game/live/142619335232"
+    },
+    "record": {
+      "win": 7838,
+      "loss": 6134,
+      "draw": 408
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2642,
+      "date": 1776595208,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1757308665,
+      "game": "https://www.chess.com/game/live/146828851486"
+    },
+    "record": {
+      "win": 14950,
+      "loss": 11281,
+      "draw": 1619
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2616,
+      "date": 1768356196
+    },
+    "lowest": {
+      "rating": 2296,
+      "date": 1756343516
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 55
+    },
+    "daily": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

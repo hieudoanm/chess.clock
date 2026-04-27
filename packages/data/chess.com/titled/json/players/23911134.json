@@ -1,0 +1,103 @@
+{
+  "player_id": 23911134,
+  "@id": "https://api.chess.com/pub/player/karinaa87",
+  "url": "https://www.chess.com/member/Karinaa87",
+  "name": "Karina Cyfka",
+  "username": "karinaa87",
+  "title": "IM",
+  "followers": 207,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776442520,
+  "joined": 1441054272,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 677,
+      "date": 1670849644,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1441054272,
+      "game": "https://www.chess.com/game/daily/432032017"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 26906,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2293,
+      "date": 1730373629,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1621718782,
+      "game": "https://www.chess.com/game/live/5363742598"
+    },
+    "record": {
+      "win": 27,
+      "loss": 20,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2246,
+      "date": 1742583236,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1622383404,
+      "game": "https://www.chess.com/game/live/16742736397"
+    },
+    "record": {
+      "win": 40,
+      "loss": 44,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2523,
+      "date": 1737308866,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2760,
+      "date": 1585506711,
+      "game": "https://www.chess.com/game/live/130951753161"
+    },
+    "record": {
+      "win": 290,
+      "loss": 207,
+      "draw": 106
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2594,
+      "date": 1757596226
+    },
+    "lowest": {
+      "rating": 2542,
+      "date": 1757596160
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

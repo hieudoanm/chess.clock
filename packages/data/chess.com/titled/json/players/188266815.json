@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/188266815.5b442753.200x200o.bbfaa5089bbc.jpeg",
+  "player_id": 188266815,
+  "@id": "https://api.chess.com/pub/player/kyrie-eleven",
+  "url": "https://www.chess.com/member/Kyrie-Eleven",
+  "username": "kyrie-eleven",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776536222,
+  "joined": 1656370049,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1934,
+      "date": 1766261303,
+      "rd": 118
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2204,
+      "date": 1774768900,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1679401356,
+      "game": "https://www.chess.com/game/live/73113890607"
+    },
+    "record": {
+      "win": 147,
+      "loss": 101,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1985,
+      "date": 1759057887,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1670947576,
+      "game": "https://www.chess.com/game/live/64686205477"
+    },
+    "record": {
+      "win": 78,
+      "loss": 87,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2626,
+      "date": 1770741480
+    },
+    "lowest": {
+      "rating": 2534,
+      "date": 1765258360
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

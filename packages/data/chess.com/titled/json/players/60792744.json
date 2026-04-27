@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60792744.880cc4cf.200x200o.c46fd8ec063e.png",
+  "player_id": 60792744,
+  "@id": "https://api.chess.com/pub/player/crptone",
+  "url": "https://www.chess.com/member/crptone",
+  "name": "James Sun",
+  "username": "crptone",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776552788,
+  "joined": 1557427629,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1776524001,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1775411528,
+      "game": "https://www.chess.com/game/daily/937821287"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 33095,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2466,
+      "date": 1628967943,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1624758875,
+      "game": "https://www.chess.com/game/live/18476392951"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1950,
+      "date": 1574323797,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1574323031,
+      "game": "https://www.chess.com/game/live/4229105293"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2561,
+      "date": 1774661724,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1630607240,
+      "game": "https://www.chess.com/game/live/24351180197"
+    },
+    "record": {
+      "win": 471,
+      "loss": 307,
+      "draw": 56
+    }
+  },
+  "fide": 2153,
+  "tactics": {
+    "highest": {
+      "rating": 2627,
+      "date": 1760767452
+    },
+    "lowest": {
+      "rating": 2401,
+      "date": 1758609890
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

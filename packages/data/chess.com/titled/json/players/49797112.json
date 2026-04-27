@@ -1,0 +1,66 @@
+{
+  "player_id": 49797112,
+  "@id": "https://api.chess.com/pub/player/lmfchess",
+  "url": "https://www.chess.com/member/LMFchess",
+  "name": "Luisana Mujica Flores",
+  "username": "lmfchess",
+  "title": "WCM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1702439420,
+  "joined": 1537085926,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2132,
+      "date": 1549392693,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1982,
+      "date": 1549392693,
+      "game": "https://www.chess.com/game/live/3435159439"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2228,
+      "date": 1612038677,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1612038677,
+      "game": "https://www.chess.com/game/live/6398420177"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1537085926
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1537085926
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

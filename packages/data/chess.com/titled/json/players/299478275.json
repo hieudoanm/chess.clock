@@ -1,0 +1,107 @@
+{
+  "player_id": 299478275,
+  "@id": "https://api.chess.com/pub/player/jedigirl14",
+  "url": "https://www.chess.com/member/JediGirl14",
+  "username": "jedigirl14",
+  "title": "WCM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CR",
+  "last_online": 1776580299,
+  "joined": 1689171830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 670,
+      "date": 1760344437,
+      "rd": 185
+    },
+    "best": {
+      "rating": 823,
+      "date": 1691067318,
+      "game": "https://www.chess.com/game/daily/616437663"
+    },
+    "record": {
+      "win": 1,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 77656,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1820,
+      "date": 1772125005,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1820,
+      "date": 1772125005,
+      "game": "https://www.chess.com/game/live/147791382896"
+    },
+    "record": {
+      "win": 53,
+      "loss": 29,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1616,
+      "date": 1758730416,
+      "rd": 63
+    },
+    "best": {
+      "rating": 1673,
+      "date": 1750091620,
+      "game": "https://www.chess.com/game/live/143386317388"
+    },
+    "record": {
+      "win": 22,
+      "loss": 77,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1696,
+      "date": 1776104693,
+      "rd": 54
+    },
+    "best": {
+      "rating": 1712,
+      "date": 1775936683,
+      "game": "https://www.chess.com/game/live/139382950332"
+    },
+    "record": {
+      "win": 199,
+      "loss": 158,
+      "draw": 35
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1971,
+      "date": 1770231325
+    },
+    "lowest": {
+      "rating": 1854,
+      "date": 1770231101
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    },
+    "daily": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

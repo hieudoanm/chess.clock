@@ -1,0 +1,101 @@
+{
+  "player_id": 23746630,
+  "@id": "https://api.chess.com/pub/player/bait_or_mate",
+  "url": "https://www.chess.com/member/bait_or_mate",
+  "username": "bait_or_mate",
+  "title": "FM",
+  "followers": 106,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1617191049,
+  "joined": 1440063463,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1736,
+      "date": 1520441967,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1855,
+      "date": 1461432490,
+      "game": "https://www.chess.com/game/daily/128977464"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 1,
+      "time_per_move": 71743,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2560,
+      "date": 1611858588,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2578,
+      "date": 1609799519,
+      "game": "https://www.chess.com/game/live/6144753107"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2649,
+      "date": 1617220704,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1615145419,
+      "game": "https://www.chess.com/game/live/6429676712"
+    },
+    "record": {
+      "win": 796,
+      "loss": 701,
+      "draw": 118
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1617130126,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1595688322,
+      "game": "https://www.chess.com/game/live/5202399185"
+    },
+    "record": {
+      "win": 1355,
+      "loss": 1194,
+      "draw": 308
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2576,
+      "date": 1440063463
+    },
+    "lowest": {
+      "rating": 2576,
+      "date": 1440063463
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

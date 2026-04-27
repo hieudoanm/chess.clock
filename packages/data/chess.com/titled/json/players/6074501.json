@@ -1,0 +1,85 @@
+{
+  "player_id": 6074501,
+  "@id": "https://api.chess.com/pub/player/cperni",
+  "url": "https://www.chess.com/member/CPerni",
+  "name": "Carlo Pernigotti",
+  "username": "cperni",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1772100635,
+  "joined": 1320550891,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1764088218,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1600572278,
+      "game": "https://www.chess.com/game/live/143941279324"
+    },
+    "record": {
+      "win": 32,
+      "loss": 16,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1619924635,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1472012413,
+      "game": "https://www.chess.com/game/live/391411759"
+    },
+    "record": {
+      "win": 13705,
+      "loss": 13578,
+      "draw": 470
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2316,
+      "date": 1765497424,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1757031920,
+      "game": "https://www.chess.com/game/live/99460315053"
+    },
+    "record": {
+      "win": 4215,
+      "loss": 3833,
+      "draw": 554
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2315,
+      "date": 1320550891
+    },
+    "lowest": {
+      "rating": 2315,
+      "date": 1320550891
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 25
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67080558.9067e405.200x200o.a85d8b652a81.jpg",
+  "player_id": 67080558,
+  "@id": "https://api.chess.com/pub/player/rhl_b",
+  "url": "https://www.chess.com/member/rhl_b",
+  "name": "Rahul Babu",
+  "username": "rhl_b",
+  "title": "CM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776551010,
+  "joined": 1571938124,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1230,
+      "date": 1759912139,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1412,
+      "date": 1727194910,
+      "game": "https://www.chess.com/game/daily/242575460"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 50769,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1746189421,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1702658559,
+      "game": "https://www.chess.com/game/live/40944042269"
+    },
+    "record": {
+      "win": 417,
+      "loss": 218,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2327,
+      "date": 1772654569,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1772654569,
+      "game": "https://www.chess.com/game/live/121992545349"
+    },
+    "record": {
+      "win": 534,
+      "loss": 383,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2471,
+      "date": 1776288834,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1771708629,
+      "game": "https://www.chess.com/game/live/133049970799"
+    },
+    "record": {
+      "win": 7446,
+      "loss": 7635,
+      "draw": 768
+    }
+  },
+  "fide": 2169,
+  "tactics": {
+    "highest": {
+      "rating": 2287,
+      "date": 1772311231
+    },
+    "lowest": {
+      "rating": 2221,
+      "date": 1768476992
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 175270881,
+  "@id": "https://api.chess.com/pub/player/cadmartin",
+  "url": "https://www.chess.com/member/CADMartin",
+  "name": "Martin Horcajuelo Rocamora",
+  "username": "cadmartin",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776584838,
+  "joined": 1646334585,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1475,
+      "date": 1769358633,
+      "rd": 268
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 351254,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1325,
+      "date": 1767875045,
+      "rd": 171
+    },
+    "best": {
+      "rating": 1500,
+      "date": 1722024262,
+      "game": "https://www.chess.com/game/live/146217206863"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2543,
+      "date": 1776183087,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1764494331,
+      "game": "https://www.chess.com/game/live/145944368474"
+    },
+    "record": {
+      "win": 175,
+      "loss": 145,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2329,
+      "date": 1772558001,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2960,
+      "date": 1647359528,
+      "game": "https://www.chess.com/game/live/41098170425"
+    },
+    "record": {
+      "win": 201,
+      "loss": 253,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2514,
+      "date": 1762901550
+    },
+    "lowest": {
+      "rating": 2126,
+      "date": 1757217147
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

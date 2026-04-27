@@ -1,0 +1,67 @@
+{
+  "player_id": 146774437,
+  "@id": "https://api.chess.com/pub/player/blueshark23",
+  "url": "https://www.chess.com/member/blueshark23",
+  "username": "blueshark23",
+  "title": "GM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776594093,
+  "joined": 1625395281,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2340,
+      "date": 1727476230,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1661167630,
+      "game": "https://www.chess.com/game/live/54905223809"
+    },
+    "record": {
+      "win": 373,
+      "loss": 317,
+      "draw": 55
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1776594086,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1772388017,
+      "game": "https://www.chess.com/game/live/165373214080"
+    },
+    "record": {
+      "win": 7230,
+      "loss": 5927,
+      "draw": 952
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2421,
+      "date": 1625395281
+    },
+    "lowest": {
+      "rating": 2421,
+      "date": 1625395281
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 165513821,
+  "@id": "https://api.chess.com/pub/player/segjoi",
+  "url": "https://www.chess.com/member/segjoi",
+  "username": "segjoi",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776407728,
+  "joined": 1639932129,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2286,
+      "date": 1772010507,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1729271731,
+      "game": "https://www.chess.com/game/live/66727191641"
+    },
+    "record": {
+      "win": 450,
+      "loss": 448,
+      "draw": 72
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2015,
+      "date": 1773575929,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2217,
+      "date": 1771568981,
+      "game": "https://www.chess.com/game/live/164805314128"
+    },
+    "record": {
+      "win": 716,
+      "loss": 672,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2130,
+      "date": 1776069744,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1774252456,
+      "game": "https://www.chess.com/game/live/143150276732"
+    },
+    "record": {
+      "win": 363,
+      "loss": 314,
+      "draw": 67
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2086,
+      "date": 1756664431
+    },
+    "lowest": {
+      "rating": 1998,
+      "date": 1757083723
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

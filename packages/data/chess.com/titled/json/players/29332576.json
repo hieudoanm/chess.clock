@@ -1,0 +1,121 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29332576.3c498942.200x200o.552423797b8b.jpeg",
+  "player_id": 29332576,
+  "@id": "https://api.chess.com/pub/player/plouarzel",
+  "url": "https://www.chess.com/member/plouarzel",
+  "username": "plouarzel",
+  "title": "IM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776308248,
+  "joined": 1470248667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1937,
+      "date": 1734031120,
+      "rd": 94
+    },
+    "best": {
+      "rating": 1937,
+      "date": 1564745440,
+      "game": "https://www.chess.com/game/daily/213009622"
+    },
+    "record": {
+      "win": 23,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 13331,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1415,
+      "date": 1562894018,
+      "rd": 242
+    },
+    "best": {
+      "rating": 1415,
+      "date": 1562894018,
+      "game": "https://www.chess.com/game/daily/230810426"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 13331,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1551721739,
+      "rd": 347
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1551721739,
+      "game": "https://www.chess.com/game/live/3507462802"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1561052611,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1534720144,
+      "game": "https://www.chess.com/game/live/2104384445"
+    },
+    "record": {
+      "win": 2729,
+      "loss": 2373,
+      "draw": 393
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2562,
+      "date": 1561022901,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2754,
+      "date": 1543674988,
+      "game": "https://www.chess.com/game/live/2381195826"
+    },
+    "record": {
+      "win": 2502,
+      "loss": 1999,
+      "draw": 471
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1470248667
+    },
+    "lowest": {
+      "rating": 2590,
+      "date": 1470248667
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

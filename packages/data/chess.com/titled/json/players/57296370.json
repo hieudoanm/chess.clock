@@ -1,0 +1,76 @@
+{
+  "player_id": 57296370,
+  "@id": "https://api.chess.com/pub/player/hasaka90",
+  "url": "https://www.chess.com/member/hasaka90",
+  "username": "hasaka90",
+  "title": "GM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776177201,
+  "joined": 1550038583,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1746027907,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1017,
+      "date": 1693831150,
+      "rd": 217
+    },
+    "record": {
+      "win": 0,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2605,
+      "date": 1727257802,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1676135849,
+      "game": "https://www.chess.com/game/live/67678314713"
+    },
+    "record": {
+      "win": 335,
+      "loss": 230,
+      "draw": 33
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2300,
+      "date": 1763969923
+    },
+    "lowest": {
+      "rating": 2226,
+      "date": 1776177160
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

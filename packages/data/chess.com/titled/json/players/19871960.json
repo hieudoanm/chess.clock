@@ -1,0 +1,83 @@
+{
+  "player_id": 19871960,
+  "@id": "https://api.chess.com/pub/player/strongfold",
+  "url": "https://www.chess.com/member/strongfold",
+  "username": "strongfold",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1775579619,
+  "joined": 1416809596,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2232,
+      "date": 1754479384,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1585192485,
+      "game": "https://www.chess.com/game/live/44911799519"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2214,
+      "date": 1760731239,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2264,
+      "date": 1754479689,
+      "game": "https://www.chess.com/game/live/4609708021"
+    },
+    "record": {
+      "win": 553,
+      "loss": 445,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2376,
+      "date": 1754675351,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1701024673,
+      "game": "https://www.chess.com/game/live/4600902105"
+    },
+    "record": {
+      "win": 374,
+      "loss": 352,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2212,
+      "date": 1757364438
+    },
+    "lowest": {
+      "rating": 2165,
+      "date": 1761763063
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

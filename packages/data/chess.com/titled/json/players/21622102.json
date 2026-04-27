@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21622102.ca6629e7.200x200o.1ec2027a0a5f.jpeg",
+  "player_id": 21622102,
+  "@id": "https://api.chess.com/pub/player/barron045",
+  "url": "https://www.chess.com/member/barron045",
+  "name": "Michael Barron",
+  "username": "barron045",
+  "title": "IM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Toronto, Ontario",
+  "last_online": 1742332000,
+  "joined": 1426984465,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1412,
+      "date": 1671705332,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1412,
+      "date": 1427248935,
+      "game": "https://www.chess.com/game/daily/107739028"
+    },
+    "record": {
+      "win": 2,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 29,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2155,
+      "date": 1640737024,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1640737024,
+      "game": "https://www.chess.com/game/live/6481425248"
+    },
+    "record": {
+      "win": 87,
+      "loss": 24,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1994,
+      "date": 1632699824,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2197,
+      "date": 1624583629,
+      "game": "https://www.chess.com/game/live/20995846079"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2222,
+      "date": 1647652772,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1640831359,
+      "game": "https://www.chess.com/game/live/15988488479"
+    },
+    "record": {
+      "win": 481,
+      "loss": 106,
+      "draw": 23
+    }
+  },
+  "fide": 2075,
+  "tactics": {
+    "highest": {
+      "rating": 2650,
+      "date": 1426984465
+    },
+    "lowest": {
+      "rating": 2650,
+      "date": 1426984465
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

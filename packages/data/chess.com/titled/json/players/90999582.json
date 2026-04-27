@@ -1,0 +1,77 @@
+{
+  "player_id": 90999582,
+  "@id": "https://api.chess.com/pub/player/nin0b",
+  "url": "https://www.chess.com/member/nin0b",
+  "username": "nin0b",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776584665,
+  "joined": 1599819710,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1745318087
+    },
+    "best": {
+      "rating": 2141,
+      "date": 1612099254,
+      "game": "https://www.chess.com/game/live/6404881974"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1691,
+      "date": 1743097228,
+      "rd": 190
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2223,
+      "date": 1774647305,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1687197736,
+      "game": "https://www.chess.com/game/live/62597376919"
+    },
+    "record": {
+      "win": 3205,
+      "loss": 2894,
+      "draw": 198
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1762503564
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1772655203
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

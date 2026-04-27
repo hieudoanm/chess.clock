@@ -1,0 +1,83 @@
+{
+    "player_id": 385015215,
+    "@id": "https://api.chess.com/pub/player/thechosenone009",
+    "url": "https://www.chess.com/member/TheChosenOne009",
+    "username": "thechosenone009",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1763768454,
+    "joined": 1725375770,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2302,
+            "date": 1754222425,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2309,
+            "date": 1754221515,
+            "game": "https://www.chess.com/game/live/141433661366"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2501,
+            "date": 1744122816,
+            "rd": 42
+        },
+        "best": {
+            "rating": 2496,
+            "date": 1727005731,
+            "game": "https://www.chess.com/game/live/120744624135"
+        },
+        "record": {
+            "win": 9,
+            "loss": 10,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2791,
+            "date": 1763768440,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1760453231,
+            "game": "https://www.chess.com/game/live/143810338654"
+        },
+        "record": {
+            "win": 832,
+            "loss": 955,
+            "draw": 219
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1725375770
+        },
+        "lowest": {
+            "rating": 0,
+            "date": 0
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

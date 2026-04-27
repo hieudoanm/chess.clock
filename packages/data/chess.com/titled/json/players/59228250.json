@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59228250.4e7d2772.200x200o.e739eece4c22.png",
+  "player_id": 59228250,
+  "@id": "https://api.chess.com/pub/player/banane_verte",
+  "url": "https://www.chess.com/member/banane_verte",
+  "name": "Ethan Saya",
+  "username": "banane_verte",
+  "title": "FM",
+  "followers": 189,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776430101,
+  "joined": 1554035495,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/ethan_saya",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/ethan_saya"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2123,
+      "date": 1760366736,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2284,
+      "date": 1663166112,
+      "game": "https://www.chess.com/game/live/5455450469"
+    },
+    "record": {
+      "win": 48,
+      "loss": 21,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2760,
+      "date": 1774565283,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2763,
+      "date": 1774565227,
+      "game": "https://www.chess.com/game/live/144080420055"
+    },
+    "record": {
+      "win": 2263,
+      "loss": 1926,
+      "draw": 337
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2744,
+      "date": 1775064559,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2757,
+      "date": 1768601849,
+      "game": "https://www.chess.com/game/live/85546856029"
+    },
+    "record": {
+      "win": 4901,
+      "loss": 3430,
+      "draw": 894
+    }
+  },
+  "fide": 2313,
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1767986390
+    },
+    "lowest": {
+      "rating": 2173,
+      "date": 1773013809
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

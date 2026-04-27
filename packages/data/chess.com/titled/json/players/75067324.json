@@ -1,0 +1,65 @@
+{
+  "player_id": 75067324,
+  "@id": "https://api.chess.com/pub/player/arlan_mirzhanov",
+  "url": "https://www.chess.com/member/Arlan_Mirzhanov",
+  "name": "Arlan Mirzhanov",
+  "username": "arlan_mirzhanov",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776447039,
+  "joined": 1585574976,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1771465090,
+      "rd": 350
+    },
+    "record": {
+      "win": 3,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 253917,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1776356410,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1776353230,
+      "game": "https://www.chess.com/game/live/168250211763"
+    },
+    "record": {
+      "win": 74,
+      "loss": 106,
+      "draw": 20
+    }
+  },
+  "fide": 2028,
+  "tactics": {
+    "highest": {
+      "rating": 1965,
+      "date": 1772552966
+    },
+    "lowest": {
+      "rating": 1577,
+      "date": 1761568323
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 15
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 73505536,
+  "@id": "https://api.chess.com/pub/player/urbi2013",
+  "url": "https://www.chess.com/member/Urbi2013",
+  "name": "Pratitee Bordoloi",
+  "username": "urbi2013",
+  "title": "WCM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1771353154,
+  "joined": 1584194460,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1199,
+      "date": 1769515259,
+      "rd": 179
+    },
+    "best": {
+      "rating": 1334,
+      "date": 1590846602,
+      "game": "https://www.chess.com/game/daily/277508684"
+    },
+    "record": {
+      "win": 21,
+      "loss": 17,
+      "draw": 0,
+      "time_per_move": 46708,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2099,
+      "date": 1771252972,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1771252972,
+      "game": "https://www.chess.com/game/live/164771931470"
+    },
+    "record": {
+      "win": 275,
+      "loss": 168,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2066,
+      "date": 1769515259,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1597,
+      "date": 1767278074,
+      "game": "https://www.chess.com/game/live/145727035332"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2407,
+      "date": 1771352039,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1771351345,
+      "game": "https://www.chess.com/game/live/165662418567"
+    },
+    "record": {
+      "win": 144,
+      "loss": 92,
+      "draw": 17
+    }
+  },
+  "fide": 2066,
+  "tactics": {
+    "highest": {
+      "rating": 2551,
+      "date": 1765810070
+    },
+    "lowest": {
+      "rating": 2052,
+      "date": 1755103075
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 60
+    }
+  }
+}

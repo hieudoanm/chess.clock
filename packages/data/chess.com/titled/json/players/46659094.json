@@ -1,0 +1,101 @@
+{
+  "player_id": 46659094,
+  "@id": "https://api.chess.com/pub/player/pseudoss",
+  "url": "https://www.chess.com/member/pseudoss",
+  "username": "pseudoss",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/AD",
+  "last_online": 1776593605,
+  "joined": 1527708909,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1759412690,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15335,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1749656769,
+      "rd": 178
+    },
+    "best": {
+      "rating": 1865,
+      "date": 1577717463,
+      "game": "https://www.chess.com/game/live/4349578419"
+    },
+    "record": {
+      "win": 18,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2235,
+      "date": 1772128135,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1772128135,
+      "game": "https://www.chess.com/game/live/165245973280"
+    },
+    "record": {
+      "win": 30,
+      "loss": 21,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2153,
+      "date": 1772181171,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1771573124,
+      "game": "https://www.chess.com/game/live/105471681979"
+    },
+    "record": {
+      "win": 245,
+      "loss": 157,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2916,
+      "date": 1762161182
+    },
+    "lowest": {
+      "rating": 2780,
+      "date": 1762425834
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    },
+    "daily": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

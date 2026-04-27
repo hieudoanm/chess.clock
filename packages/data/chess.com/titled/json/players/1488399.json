@@ -1,0 +1,99 @@
+{
+  "player_id": 1488399,
+  "@id": "https://api.chess.com/pub/player/ticbye",
+  "url": "https://www.chess.com/member/ticbye",
+  "name": "Roel Yumol",
+  "username": "ticbye",
+  "title": "NM",
+  "followers": 117,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775784450,
+  "joined": 1220394783,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1003,
+      "date": 1721853486,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1220394783,
+      "game": "https://www.chess.com/game/daily/203739074"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 223497,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2067,
+      "date": 1659048571,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1606079437,
+      "game": "https://www.chess.com/game/live/52786849539"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2020,
+      "date": 1770861387,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2185,
+      "date": 1659066131,
+      "game": "https://www.chess.com/game/live/55527650021"
+    },
+    "record": {
+      "win": 238,
+      "loss": 245,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2430,
+      "date": 1775784410,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1710255928,
+      "game": "https://www.chess.com/game/live/104093373435"
+    },
+    "record": {
+      "win": 14279,
+      "loss": 13807,
+      "draw": 1661
+    }
+  },
+  "fide": 2260,
+  "tactics": {
+    "highest": {
+      "rating": 2279,
+      "date": 1220394783
+    },
+    "lowest": {
+      "rating": 2279,
+      "date": 1220394783
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,86 @@
+{
+  "player_id": 47783092,
+  "@id": "https://api.chess.com/pub/player/liwenliang",
+  "url": "https://www.chess.com/member/LiWenliang",
+  "name": "Li Wenliang",
+  "username": "liwenliang",
+  "title": "IM",
+  "followers": 339,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "CA",
+  "last_online": 1776573123,
+  "joined": 1531284371,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1896,
+      "date": 1774809012,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1700335567,
+      "game": "https://www.chess.com/game/live/88021288025"
+    },
+    "record": {
+      "win": 87,
+      "loss": 32,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2252,
+      "date": 1734670618,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1700708669,
+      "game": "https://www.chess.com/game/live/80600963449"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1775188033,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2613,
+      "date": 1770089733,
+      "game": "https://www.chess.com/game/live/15285152713"
+    },
+    "record": {
+      "win": 3429,
+      "loss": 3006,
+      "draw": 789
+    }
+  },
+  "fide": 2450,
+  "tactics": {
+    "highest": {
+      "rating": 2676,
+      "date": 1756313622
+    },
+    "lowest": {
+      "rating": 2490,
+      "date": 1773205768
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

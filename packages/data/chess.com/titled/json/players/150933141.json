@@ -1,0 +1,85 @@
+{
+  "player_id": 150933141,
+  "@id": "https://api.chess.com/pub/player/7next",
+  "url": "https://www.chess.com/member/7NEXT",
+  "username": "7next",
+  "title": "WFM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/KE",
+  "last_online": 1776340045,
+  "joined": 1628798259,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1796,
+      "date": 1755160239,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1796,
+      "date": 1644058125,
+      "game": "https://www.chess.com/game/daily/370937517"
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 137999,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2039,
+      "date": 1764967722,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2039,
+      "date": 1704466838,
+      "game": "https://www.chess.com/game/live/98204744155"
+    },
+    "record": {
+      "win": 34,
+      "loss": 13,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1581,
+      "date": 1741817221,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1812,
+      "date": 1726229357,
+      "game": "https://www.chess.com/game/live/32221199963"
+    },
+    "record": {
+      "win": 7,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1929,
+      "date": 1628798259
+    },
+    "lowest": {
+      "rating": 1929,
+      "date": 1628798259
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 44
+    }
+  }
+}

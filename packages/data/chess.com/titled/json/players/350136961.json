@@ -1,0 +1,66 @@
+{
+  "player_id": 350136961,
+  "@id": "https://api.chess.com/pub/player/realmenambitious",
+  "url": "https://www.chess.com/member/realmenambitious",
+  "username": "realmenambitious",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/NA",
+  "last_online": 1776085132,
+  "joined": 1710131200,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1644,
+      "date": 1761133521,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1723464066,
+      "game": "https://www.chess.com/game/live/117202205095"
+    },
+    "record": {
+      "win": 4,
+      "loss": 39,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2629,
+      "date": 1776075440,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2755,
+      "date": 1767541306,
+      "game": "https://www.chess.com/game/live/147589363278"
+    },
+    "record": {
+      "win": 422,
+      "loss": 459,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1436,
+      "date": 1763702873
+    },
+    "lowest": {
+      "rating": 800,
+      "date": 1763702557
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60709445.2031607f.200x200o.012a05821233.jpg",
+  "player_id": 60709445,
+  "@id": "https://api.chess.com/pub/player/gmaka",
+  "url": "https://www.chess.com/member/GMaka",
+  "name": "Maka Purtseladze",
+  "username": "gmaka",
+  "title": "IM",
+  "followers": 3097,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1776542580,
+  "joined": 1557255007,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1765,
+      "date": 1775636777,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1590058331,
+      "game": "https://www.chess.com/game/daily/261094636"
+    },
+    "record": {
+      "win": 23,
+      "loss": 8,
+      "draw": 1,
+      "time_per_move": 69791,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2253,
+      "date": 1774539145,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1602414866,
+      "game": "https://www.chess.com/game/live/24830516373"
+    },
+    "record": {
+      "win": 20,
+      "loss": 9,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2587,
+      "date": 1774724384,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1757773017,
+      "game": "https://www.chess.com/game/live/144236365243"
+    },
+    "record": {
+      "win": 4730,
+      "loss": 5066,
+      "draw": 769
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2575,
+      "date": 1776541782,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1771687544,
+      "game": "https://www.chess.com/game/live/166262414049"
+    },
+    "record": {
+      "win": 1078,
+      "loss": 1082,
+      "draw": 205
+    }
+  },
+  "fide": 2274,
+  "tactics": {
+    "highest": {
+      "rating": 2278,
+      "date": 1776426198
+    },
+    "lowest": {
+      "rating": 2221,
+      "date": 1776426276
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

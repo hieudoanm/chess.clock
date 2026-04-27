@@ -1,0 +1,85 @@
+{
+  "player_id": 474693464,
+  "@id": "https://api.chess.com/pub/player/attacker1112",
+  "url": "https://www.chess.com/member/Attacker1112",
+  "username": "attacker1112",
+  "title": "WCM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1774203366,
+  "joined": 1755262288,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1900,
+      "date": 1772809443,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2069,
+      "date": 1757261829,
+      "game": "https://www.chess.com/game/live/142843770478"
+    },
+    "record": {
+      "win": 16,
+      "loss": 34,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1851,
+      "date": 1773242361,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1877,
+      "date": 1757006081,
+      "game": "https://www.chess.com/game/live/142724949562"
+    },
+    "record": {
+      "win": 22,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1898,
+      "date": 1773906315,
+      "rd": 67
+    },
+    "best": {
+      "rating": 1977,
+      "date": 1769336952,
+      "game": "https://www.chess.com/game/live/148462021958"
+    },
+    "record": {
+      "win": 19,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2377,
+      "date": 1764584558
+    },
+    "lowest": {
+      "rating": 1132,
+      "date": 1755665860
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

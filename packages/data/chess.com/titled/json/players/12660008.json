@@ -1,0 +1,105 @@
+{
+  "player_id": 12660008,
+  "@id": "https://api.chess.com/pub/player/sayan_m",
+  "url": "https://www.chess.com/member/Sayan_M",
+  "name": "Sayan Mondal",
+  "username": "sayan_m",
+  "title": "NM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1663254770,
+  "joined": 1373460368,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2031,
+      "date": 1706206612,
+      "rd": 327
+    },
+    "best": {
+      "rating": 2031,
+      "date": 1413505732,
+      "game": "https://www.chess.com/game/daily/98254814"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 48,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2220,
+      "date": 1656212633,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1414958959,
+      "game": "https://www.chess.com/game/live/34185561873"
+    },
+    "record": {
+      "win": 634,
+      "loss": 472,
+      "draw": 90
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1948,
+      "date": 1546111997,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1458879732,
+      "game": "https://www.chess.com/game/live/1591204792"
+    },
+    "record": {
+      "win": 176,
+      "loss": 169,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2099,
+      "date": 1653272280,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1604376702,
+      "game": "https://www.chess.com/game/live/2893765925"
+    },
+    "record": {
+      "win": 6911,
+      "loss": 6221,
+      "draw": 810
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2538,
+      "date": 1373460368
+    },
+    "lowest": {
+      "rating": 2538,
+      "date": 1373460368
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

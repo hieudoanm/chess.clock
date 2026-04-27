@@ -1,0 +1,79 @@
+{
+  "player_id": 185664673,
+  "@id": "https://api.chess.com/pub/player/karpovs_maid",
+  "url": "https://www.chess.com/member/Karpovs_Maid",
+  "name": "Jan-Christian Schroeder",
+  "username": "karpovs_maid",
+  "title": "GM",
+  "followers": 118,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776328098,
+  "joined": 1654195672,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1578,
+      "date": 1664729735,
+      "rd": 331
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2576,
+      "date": 1769373751,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1704315856,
+      "game": "https://www.chess.com/game/live/98054958365"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2928,
+      "date": 1776200494,
+      "rd": 45
+    },
+    "best": {
+      "rating": 3033,
+      "date": 1766093455,
+      "game": "https://www.chess.com/game/live/146763961808"
+    },
+    "record": {
+      "win": 830,
+      "loss": 522,
+      "draw": 110
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2771,
+      "date": 1654195672
+    },
+    "lowest": {
+      "rating": 2771,
+      "date": 1654195672
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 48
+    }
+  }
+}

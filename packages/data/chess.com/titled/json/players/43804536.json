@@ -1,0 +1,82 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43804536.d5f789cd.200x200o.afc8fba4f382.jpg",
+    "player_id": 43804536,
+    "@id": "https://api.chess.com/pub/player/batincali",
+    "url": "https://www.chess.com/member/BATINCALI",
+    "name": "Afrim Ismaili",
+    "username": "batincali",
+    "title": "FM",
+    "followers": 60,
+    "country": "https://api.chess.com/pub/country/AL",
+    "last_online": 1734548242,
+    "joined": 1519843845,
+    "status": "basic",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1649,
+            "date": 1583850004,
+            "rd": 327
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 17822,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2114,
+            "date": 1731400189,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2285,
+            "date": 1694940355,
+            "game": "https://www.chess.com/game/live/5653830565"
+        },
+        "record": {
+            "win": 5379,
+            "loss": 4609,
+            "draw": 433
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2157,
+            "date": 1731329831,
+            "rd": 88
+        },
+        "best": {
+            "rating": 2383,
+            "date": 1698140539,
+            "game": "https://www.chess.com/game/live/4436474525"
+        },
+        "record": {
+            "win": 373,
+            "loss": 299,
+            "draw": 41
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2677,
+            "date": 1726175019
+        },
+        "lowest": {
+            "rating": 410,
+            "date": 1520009974
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 43,
+            "score": 40
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 26053966,
+  "@id": "https://api.chess.com/pub/player/marekpolska",
+  "url": "https://www.chess.com/member/marekpolska",
+  "name": "Marek Madej",
+  "username": "marekpolska",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776595432,
+  "joined": 1452419986,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 641,
+      "date": 1731425482,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1452419986,
+      "game": "https://www.chess.com/game/daily/440393673"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 32248,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1776596312,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1776596312,
+      "game": "https://www.chess.com/game/live/167261000192"
+    },
+    "record": {
+      "win": 67,
+      "loss": 27,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1776340848,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1738254359,
+      "game": "https://www.chess.com/game/live/131291412543"
+    },
+    "record": {
+      "win": 362,
+      "loss": 285,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1776551538,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1776345838,
+      "game": "https://www.chess.com/game/live/134237956459"
+    },
+    "record": {
+      "win": 750,
+      "loss": 602,
+      "draw": 71
+    }
+  },
+  "fide": 2211,
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1452419986
+    },
+    "lowest": {
+      "rating": 2571,
+      "date": 1452419986
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

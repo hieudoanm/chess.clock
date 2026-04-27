@@ -1,0 +1,102 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9314574.3c1fe5cf.200x200o.4462243417ee.jpeg",
+  "player_id": 9314574,
+  "@id": "https://api.chess.com/pub/player/stunningarbage",
+  "url": "https://www.chess.com/member/stunningarbage",
+  "username": "stunningarbage",
+  "title": "NM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776536527,
+  "joined": 1350673302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1628,
+      "date": 1601281686,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1701,
+      "date": 1529277505,
+      "game": "https://www.chess.com/game/daily/197229764"
+    },
+    "record": {
+      "win": 23,
+      "loss": 6,
+      "draw": 5,
+      "time_per_move": 35589,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1813,
+      "date": 1618251907,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1892,
+      "date": 1618088824,
+      "game": "https://www.chess.com/game/live/5031722508"
+    },
+    "record": {
+      "win": 61,
+      "loss": 36,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1766,
+      "date": 1565998146,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1749,
+      "date": 1565997603,
+      "game": "https://www.chess.com/game/live/2986420860"
+    },
+    "record": {
+      "win": 29,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1950,
+      "date": 1595637800,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2024,
+      "date": 1590349269,
+      "game": "https://www.chess.com/game/live/4902301689"
+    },
+    "record": {
+      "win": 78,
+      "loss": 53,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2682,
+      "date": 1755887992
+    },
+    "lowest": {
+      "rating": 2617,
+      "date": 1755552981
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

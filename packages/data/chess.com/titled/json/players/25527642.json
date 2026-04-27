@@ -1,0 +1,85 @@
+{
+  "player_id": 25527642,
+  "@id": "https://api.chess.com/pub/player/chesssg1",
+  "url": "https://www.chess.com/member/ChessSG1",
+  "name": "Matias Jaque",
+  "username": "chesssg1",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CL",
+  "location": "La Reina",
+  "last_online": 1776580326,
+  "joined": 1449874323,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2193,
+      "date": 1702258201,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1658754112,
+      "game": "https://www.chess.com/game/live/52508519087"
+    },
+    "record": {
+      "win": 35,
+      "loss": 22,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2177,
+      "date": 1690655284,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1690655146,
+      "game": "https://www.chess.com/game/live/84393527451"
+    },
+    "record": {
+      "win": 16,
+      "loss": 22,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1769532110,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1753808761,
+      "game": "https://www.chess.com/game/live/96157430521"
+    },
+    "record": {
+      "win": 129,
+      "loss": 156,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2207,
+      "date": 1766076387
+    },
+    "lowest": {
+      "rating": 2158,
+      "date": 1768508199
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

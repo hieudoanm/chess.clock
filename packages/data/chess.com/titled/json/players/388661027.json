@@ -1,0 +1,85 @@
+{
+  "player_id": 388661027,
+  "@id": "https://api.chess.com/pub/player/nhn_08",
+  "url": "https://www.chess.com/member/nhn_08",
+  "name": "Ngoc Hien Nguyen",
+  "username": "nhn_08",
+  "title": "WFM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1773226325,
+  "joined": 1726411214,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2040,
+      "date": 1767621678,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1767621678,
+      "game": "https://www.chess.com/game/live/147618546038"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2219,
+      "date": 1748101757,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1748100615,
+      "game": "https://www.chess.com/game/live/142413610201"
+    },
+    "record": {
+      "win": 21,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2595,
+      "date": 1762528466,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1762528466,
+      "game": "https://www.chess.com/game/live/146905401109"
+    },
+    "record": {
+      "win": 41,
+      "loss": 24,
+      "draw": 3
+    }
+  },
+  "fide": 2028,
+  "tactics": {
+    "highest": {
+      "rating": 2411,
+      "date": 1758539883
+    },
+    "lowest": {
+      "rating": 2372,
+      "date": 1758539585
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 53
+    }
+  }
+}

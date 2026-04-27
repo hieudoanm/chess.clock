@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3159002.31834545.200x200o.d60cdfd60734.jpeg",
+  "player_id": 3159002,
+  "@id": "https://api.chess.com/pub/player/renedube",
+  "url": "https://www.chess.com/member/ReneDube",
+  "name": "Rene Dube",
+  "username": "renedube",
+  "title": "CM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/NR",
+  "last_online": 1749982958,
+  "joined": 1213745275,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1457,
+      "date": 1683473891,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1608,
+      "date": 1600732524,
+      "game": "https://www.chess.com/game/daily/272187066"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 142358,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1703,
+      "date": 1621239665,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1767,
+      "date": 1604103114,
+      "game": "https://www.chess.com/game/live/5706954642"
+    },
+    "record": {
+      "win": 48,
+      "loss": 36,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1950,
+      "date": 1593376235,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1384,
+      "date": 1588390960,
+      "game": "https://www.chess.com/game/live/4799252700"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1598,
+      "date": 1625886020,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1781,
+      "date": 1594430938,
+      "game": "https://www.chess.com/game/live/15391923557"
+    },
+    "record": {
+      "win": 187,
+      "loss": 161,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2035,
+      "date": 1213745275
+    },
+    "lowest": {
+      "rating": 2035,
+      "date": 1213745275
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

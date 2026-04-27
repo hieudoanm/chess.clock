@@ -1,0 +1,80 @@
+{
+  "player_id": 27776038,
+  "@id": "https://api.chess.com/pub/player/alechin28",
+  "url": "https://www.chess.com/member/alechin28",
+  "username": "alechin28",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776506658,
+  "joined": 1460832573,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1621351340,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24487,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2415,
+      "date": 1776364210,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1775872770,
+      "game": "https://www.chess.com/game/live/69440101097"
+    },
+    "record": {
+      "win": 1128,
+      "loss": 999,
+      "draw": 66
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2502,
+      "date": 1744143370,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1672784407,
+      "game": "https://www.chess.com/game/live/53113282229"
+    },
+    "record": {
+      "win": 1189,
+      "loss": 1162,
+      "draw": 126
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2699,
+      "date": 1776424839
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1760910284
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

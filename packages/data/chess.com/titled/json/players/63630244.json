@@ -1,0 +1,85 @@
+{
+  "player_id": 63630244,
+  "@id": "https://api.chess.com/pub/player/ppupkin",
+  "url": "https://www.chess.com/member/Ppupkin",
+  "name": "Pavel Kolar",
+  "username": "ppupkin",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Lys\u00e1 nad Labem",
+  "last_online": 1776575413,
+  "joined": 1564038376,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2199,
+      "date": 1754934389,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1613760809,
+      "game": "https://www.chess.com/game/live/141760650974"
+    },
+    "record": {
+      "win": 17,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2088,
+      "date": 1775904320,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2156,
+      "date": 1767556971,
+      "game": "https://www.chess.com/game/live/5537298615"
+    },
+    "record": {
+      "win": 781,
+      "loss": 593,
+      "draw": 57
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2329,
+      "date": 1776575404,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1773937566,
+      "game": "https://www.chess.com/game/live/5630506412"
+    },
+    "record": {
+      "win": 1565,
+      "loss": 1079,
+      "draw": 242
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1775832724
+    },
+    "lowest": {
+      "rating": 2157,
+      "date": 1757849794
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

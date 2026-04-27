@@ -1,0 +1,80 @@
+{
+  "player_id": 55292630,
+  "@id": "https://api.chess.com/pub/player/matanzas1967",
+  "url": "https://www.chess.com/member/matanzas1967",
+  "name": "Roberto Calderin",
+  "username": "matanzas1967",
+  "title": "IM",
+  "followers": 198,
+  "country": "https://api.chess.com/pub/country/GT",
+  "last_online": 1772667314,
+  "joined": 1546142391,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2061,
+      "date": 1751643792,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1611422189,
+      "game": "https://www.chess.com/game/live/23421611889"
+    },
+    "record": {
+      "win": 52,
+      "loss": 5,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2101,
+      "date": 1641409073,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2553,
+      "date": 1581221762,
+      "game": "https://www.chess.com/game/live/3784006459"
+    },
+    "record": {
+      "win": 4477,
+      "loss": 3020,
+      "draw": 271
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2160,
+      "date": 1755705977,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1611190055,
+      "game": "https://www.chess.com/game/live/4435822219"
+    },
+    "record": {
+      "win": 7581,
+      "loss": 5319,
+      "draw": 805
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2470,
+      "date": 1546142391
+    },
+    "lowest": {
+      "rating": 2470,
+      "date": 1546142391
+    }
+  },
+  "puzzle_rush": {}
+}

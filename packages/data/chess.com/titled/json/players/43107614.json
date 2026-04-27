@@ -1,0 +1,128 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43107614.0b9915b5.200x200o.2ec9a48d6a6b.jpeg",
+  "player_id": 43107614,
+  "@id": "https://api.chess.com/pub/player/db-banana",
+  "url": "https://www.chess.com/member/db-banana",
+  "name": "Tristan Breuil",
+  "username": "db-banana",
+  "title": "FM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776592544,
+  "joined": 1518035515,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1803,
+      "date": 1731490135,
+      "rd": 52
+    },
+    "best": {
+      "rating": 1848,
+      "date": 1676488394,
+      "game": "https://www.chess.com/game/daily/452442939"
+    },
+    "record": {
+      "win": 234,
+      "loss": 117,
+      "draw": 12,
+      "time_per_move": 47348,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1066,
+      "date": 1697774339,
+      "rd": 143
+    },
+    "best": {
+      "rating": 1257,
+      "date": 1564242627,
+      "game": "https://www.chess.com/game/daily/225680382"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 47348,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2425,
+      "date": 1689770285,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2460,
+      "date": 1682061858,
+      "game": "https://www.chess.com/game/live/79195452345"
+    },
+    "record": {
+      "win": 59,
+      "loss": 51,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1776293367,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1734556740,
+      "game": "https://www.chess.com/game/live/144836383119"
+    },
+    "record": {
+      "win": 730,
+      "loss": 556,
+      "draw": 83
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2626,
+      "date": 1772562132,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1767978856,
+      "game": "https://www.chess.com/game/live/110647345081"
+    },
+    "record": {
+      "win": 882,
+      "loss": 627,
+      "draw": 88
+    }
+  },
+  "fide": 2305,
+  "tactics": {
+    "highest": {
+      "rating": 2705,
+      "date": 1756291593
+    },
+    "lowest": {
+      "rating": 2675,
+      "date": 1756291671
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    },
+    "daily": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

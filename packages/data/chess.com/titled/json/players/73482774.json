@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73482774.2b00dc9c.200x200o.861d7ed1419b.jpg",
+  "player_id": 73482774,
+  "@id": "https://api.chess.com/pub/player/pvorontsov",
+  "url": "https://www.chess.com/member/PVorontsov",
+  "name": "Pavel Vorontsov",
+  "username": "pvorontsov",
+  "title": "GM",
+  "followers": 241,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776456881,
+  "joined": 1584150879,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1597630363,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1597630363,
+      "game": "https://www.chess.com/game/daily/272385276"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 184897,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2302,
+      "date": 1647963004,
+      "rd": 189
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1609879850,
+      "game": "https://www.chess.com/game/live/6145054335"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2678,
+      "date": 1767510758,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2678,
+      "date": 1767510758,
+      "game": "https://www.chess.com/game/live/147565443656"
+    },
+    "record": {
+      "win": 29,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2831,
+      "date": 1720440452,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2855,
+      "date": 1609990414,
+      "game": "https://www.chess.com/game/live/5888951252"
+    },
+    "record": {
+      "win": 387,
+      "loss": 270,
+      "draw": 80
+    }
+  },
+  "fide": 2691,
+  "tactics": {
+    "highest": {
+      "rating": 2403,
+      "date": 1774626121
+    },
+    "lowest": {
+      "rating": 1151,
+      "date": 1775137020
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

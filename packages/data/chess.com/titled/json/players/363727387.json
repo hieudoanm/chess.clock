@@ -1,0 +1,83 @@
+{
+  "player_id": 363727387,
+  "@id": "https://api.chess.com/pub/player/musashistyle",
+  "url": "https://www.chess.com/member/MusashiStyle",
+  "username": "musashistyle",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1776437809,
+  "joined": 1715940411,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2440,
+      "date": 1749820950,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1749820950,
+      "game": "https://www.chess.com/game/live/139511023010"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2619,
+      "date": 1771406420,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1763085618,
+      "game": "https://www.chess.com/game/live/140569643190"
+    },
+    "record": {
+      "win": 11,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2849,
+      "date": 1776371172,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2997,
+      "date": 1772134435,
+      "game": "https://www.chess.com/game/live/165215779548"
+    },
+    "record": {
+      "win": 1404,
+      "loss": 1567,
+      "draw": 355
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1715940411
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1715940411
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 58
+    }
+  }
+}

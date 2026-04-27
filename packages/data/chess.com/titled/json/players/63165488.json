@@ -1,0 +1,84 @@
+{
+  "player_id": 63165488,
+  "@id": "https://api.chess.com/pub/player/evgchess5",
+  "url": "https://www.chess.com/member/evgchess5",
+  "name": "Evgeny Alekseev",
+  "username": "evgchess5",
+  "title": "GM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1773687607,
+  "joined": 1562792509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2628,
+      "date": 1747671134,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2732,
+      "date": 1686602184,
+      "game": "https://www.chess.com/game/live/89487736863"
+    },
+    "record": {
+      "win": 43,
+      "loss": 31,
+      "draw": 56
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2198,
+      "date": 1686567033,
+      "rd": 280
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1562875619,
+      "game": "https://www.chess.com/game/live/4040367424"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2946,
+      "date": 1752707862,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2992,
+      "date": 1705426398,
+      "game": "https://www.chess.com/game/live/119116162643"
+    },
+    "record": {
+      "win": 2466,
+      "loss": 1626,
+      "draw": 439
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2673,
+      "date": 1562792509
+    },
+    "lowest": {
+      "rating": 2673,
+      "date": 1562792509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

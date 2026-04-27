@@ -1,0 +1,123 @@
+{
+  "player_id": 14221772,
+  "@id": "https://api.chess.com/pub/player/blackboarder",
+  "url": "https://www.chess.com/member/BlackBoarder",
+  "name": "Vasily Volovich",
+  "username": "blackboarder",
+  "title": "FM",
+  "followers": 218,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776218053,
+  "joined": 1383754736,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1499,
+      "date": 1691411722,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1840,
+      "date": 1535095807,
+      "game": "https://www.chess.com/game/daily/201349564"
+    },
+    "record": {
+      "win": 106,
+      "loss": 65,
+      "draw": 2,
+      "time_per_move": 32887,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 971,
+      "date": 1473779116,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1388,
+      "date": 1462702209,
+      "game": "https://www.chess.com/game/daily/133211556"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 32887,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2290,
+      "date": 1747309433,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1718887038,
+      "game": "https://www.chess.com/game/live/112579251013"
+    },
+    "record": {
+      "win": 79,
+      "loss": 47,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2998,
+      "date": 1776217981,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3057,
+      "date": 1776115075,
+      "game": "https://www.chess.com/game/live/139295206130"
+    },
+    "record": {
+      "win": 2660,
+      "loss": 2394,
+      "draw": 420
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2782,
+      "date": 1776116433,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2855,
+      "date": 1763852865,
+      "game": "https://www.chess.com/game/live/145696776157"
+    },
+    "record": {
+      "win": 1613,
+      "loss": 1401,
+      "draw": 358
+    }
+  },
+  "fide": 2177,
+  "tactics": {
+    "highest": {
+      "rating": 2608,
+      "date": 1383754736
+    },
+    "lowest": {
+      "rating": 2608,
+      "date": 1383754736
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

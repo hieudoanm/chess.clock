@@ -1,0 +1,87 @@
+{
+    "player_id": 298632941,
+    "@id": "https://api.chess.com/pub/player/hawk_goat",
+    "url": "https://www.chess.com/member/Hawk_Goat",
+    "username": "hawk_goat",
+    "title": "FM",
+    "followers": 1,
+    "country": "https://api.chess.com/pub/country/NG",
+    "last_online": 1741696071,
+    "joined": 1688810903,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2300,
+            "date": 1721057236,
+            "rd": 207
+        },
+        "best": {
+            "rating": 1726,
+            "date": 1688839435,
+            "game": "https://www.chess.com/game/live/82578119077"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2265,
+            "date": 1726907137,
+            "rd": 97
+        },
+        "best": {
+            "rating": 2340,
+            "date": 1722517731,
+            "game": "https://www.chess.com/game/live/116256619639"
+        },
+        "record": {
+            "win": 8,
+            "loss": 9,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2265,
+            "date": 1741700871,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2299,
+            "date": 1721124367,
+            "game": "https://www.chess.com/game/live/106330680487"
+        },
+        "record": {
+            "win": 589,
+            "loss": 699,
+            "draw": 75
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1889,
+            "date": 1716618177
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1688810903
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        },
+        "daily": {
+            "total_attempts": 36,
+            "score": 33
+        }
+    }
+}

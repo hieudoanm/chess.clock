@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4705592.2e25d5c0.200x200o.aa9dc71c598a.jpeg",
+  "player_id": 4705592,
+  "@id": "https://api.chess.com/pub/player/fq-system",
+  "url": "https://www.chess.com/member/fQ-System",
+  "name": "Axel Scheffner",
+  "username": "fq-system",
+  "title": "FM",
+  "followers": 633,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776594054,
+  "joined": 1297595960,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1737,
+      "date": 1627507748,
+      "rd": 237
+    },
+    "best": {
+      "rating": 1737,
+      "date": 1351941136,
+      "game": "https://www.chess.com/game/daily/54156194"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28324,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2093,
+      "date": 1741673481,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1615641847,
+      "game": "https://www.chess.com/game/live/36270542711"
+    },
+    "record": {
+      "win": 270,
+      "loss": 61,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2410,
+      "date": 1776593041,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1300274324,
+      "game": "https://www.chess.com/game/live/133272944"
+    },
+    "record": {
+      "win": 10584,
+      "loss": 5980,
+      "draw": 586
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2303,
+      "date": 1776530921,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1737353097,
+      "game": "https://www.chess.com/game/live/37350607789"
+    },
+    "record": {
+      "win": 12549,
+      "loss": 6962,
+      "draw": 1034
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2325,
+      "date": 1775378519
+    },
+    "lowest": {
+      "rating": 2074,
+      "date": 1775491986
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

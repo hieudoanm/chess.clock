@@ -1,0 +1,103 @@
+{
+  "player_id": 71779040,
+  "@id": "https://api.chess.com/pub/player/izuzquiza",
+  "url": "https://www.chess.com/member/Izuzquiza",
+  "name": "Javier Izuzquiza",
+  "username": "izuzquiza",
+  "title": "CM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/PR",
+  "last_online": 1761561249,
+  "joined": 1580942730,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1663184806,
+      "rd": 215
+    },
+    "best": {
+      "rating": 1687,
+      "date": 1582825348,
+      "game": "https://www.chess.com/game/daily/252738138"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 204,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1663184742,
+      "rd": 238
+    },
+    "best": {
+      "rating": 1859,
+      "date": 1603055294,
+      "game": "https://www.chess.com/game/live/5602523790"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2404,
+      "date": 1759512487,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1759512487,
+      "game": "https://www.chess.com/game/live/14786226487"
+    },
+    "record": {
+      "win": 282,
+      "loss": 190,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1759524384,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2513,
+      "date": 1759524384,
+      "game": "https://www.chess.com/game/live/13744873595"
+    },
+    "record": {
+      "win": 735,
+      "loss": 637,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1580942730
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1580942730
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

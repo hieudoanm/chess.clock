@@ -1,0 +1,82 @@
+{
+  "player_id": 24467276,
+  "@id": "https://api.chess.com/pub/player/twilight_sparkle5",
+  "url": "https://www.chess.com/member/Twilight_sparkle5",
+  "name": "Suzana Resnik",
+  "username": "twilight_sparkle5",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1774553575,
+  "joined": 1444238994,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1672756121,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 27,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1677906896,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1369,
+      "date": 1444571279,
+      "game": "https://www.chess.com/game/live/1310240703"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2519,
+      "date": 1707550181,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1707550181,
+      "game": "https://www.chess.com/game/live/17184191675"
+    },
+    "record": {
+      "win": 2609,
+      "loss": 1918,
+      "draw": 434
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2480,
+      "date": 1759655271
+    },
+    "lowest": {
+      "rating": 2235,
+      "date": 1767540790
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

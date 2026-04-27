@@ -1,0 +1,84 @@
+{
+  "player_id": 489700587,
+  "@id": "https://api.chess.com/pub/player/plain_tofu",
+  "url": "https://www.chess.com/member/Plain_Tofu",
+  "username": "plain_tofu",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776556934,
+  "joined": 1759736312,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2256,
+      "date": 1775547216,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1775184107,
+      "game": "https://www.chess.com/game/live/146250151036"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2702,
+      "date": 1776553023,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1776224399,
+      "game": "https://www.chess.com/game/live/166360949108"
+    },
+    "record": {
+      "win": 271,
+      "loss": 187,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2571,
+      "date": 1776497274,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1766992812,
+      "game": "https://www.chess.com/game/live/147432565712"
+    },
+    "record": {
+      "win": 247,
+      "loss": 193,
+      "draw": 41
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2272,
+      "date": 1775619267
+    },
+    "lowest": {
+      "rating": 768,
+      "date": 1764667231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "player_id": 64473430,
+  "@id": "https://api.chess.com/pub/player/professorsrule",
+  "url": "https://www.chess.com/member/ProfessorsRule",
+  "username": "professorsrule",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776338797,
+  "joined": 1566217740,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2072,
+      "date": 1587766072,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2181,
+      "date": 1587079325,
+      "game": "https://www.chess.com/game/live/4718443311"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2445,
+      "date": 1586795561,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1586462413,
+      "game": "https://www.chess.com/game/live/4700275407"
+    },
+    "record": {
+      "win": 11,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1587241949,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1585873186,
+      "game": "https://www.chess.com/game/live/4732303872"
+    },
+    "record": {
+      "win": 79,
+      "loss": 58,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1566217740
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1566217740
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 60093506,
+  "@id": "https://api.chess.com/pub/player/olalila",
+  "url": "https://www.chess.com/member/olalila",
+  "name": "Milka Ankerst",
+  "username": "olalila",
+  "title": "WIM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776591650,
+  "joined": 1555885551,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1744712849,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 36178,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1972,
+      "date": 1776546995,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1667755475,
+      "game": "https://www.chess.com/game/live/66784807929"
+    },
+    "record": {
+      "win": 749,
+      "loss": 725,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1836,
+      "date": 1776203179,
+      "rd": 87
+    },
+    "best": {
+      "rating": 1914,
+      "date": 1750265721,
+      "game": "https://www.chess.com/game/live/4610033736"
+    },
+    "record": {
+      "win": 989,
+      "loss": 941,
+      "draw": 58
+    }
+  },
+  "fide": 1906,
+  "tactics": {
+    "highest": {
+      "rating": 2226,
+      "date": 1762021591
+    },
+    "lowest": {
+      "rating": 1934,
+      "date": 1769544058
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

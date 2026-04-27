@@ -1,0 +1,124 @@
+{
+  "player_id": 47333906,
+  "@id": "https://api.chess.com/pub/player/bimaniv",
+  "url": "https://www.chess.com/member/Bimaniv",
+  "name": "Mikhail Gusev",
+  "username": "bimaniv",
+  "title": "FM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "\u041d\u043e\u0432\u0438 \u0421\u0430\u0434",
+  "last_online": 1776599713,
+  "joined": 1529778978,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1690,
+      "date": 1776599704,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1916,
+      "date": 1633776965,
+      "game": "https://www.chess.com/game/daily/510786737"
+    },
+    "record": {
+      "win": 356,
+      "loss": 126,
+      "draw": 46,
+      "time_per_move": 31511,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1485,
+      "date": 1747345889,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1688,
+      "date": 1659382635,
+      "game": "https://www.chess.com/game/daily/498073895"
+    },
+    "record": {
+      "win": 13,
+      "loss": 12,
+      "draw": 3,
+      "time_per_move": 31511,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2366,
+      "date": 1755452593,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1750935606,
+      "game": "https://www.chess.com/game/live/139503183934"
+    },
+    "record": {
+      "win": 131,
+      "loss": 144,
+      "draw": 30
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2464,
+      "date": 1775922936,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1771412823,
+      "game": "https://www.chess.com/game/live/164810503436"
+    },
+    "record": {
+      "win": 319,
+      "loss": 180,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2533,
+      "date": 1775464633,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1760477551,
+      "game": "https://www.chess.com/game/live/131819465677"
+    },
+    "record": {
+      "win": 1372,
+      "loss": 773,
+      "draw": 186
+    }
+  },
+  "fide": 2239,
+  "tactics": {
+    "highest": {
+      "rating": 2432,
+      "date": 1764422807
+    },
+    "lowest": {
+      "rating": 2289,
+      "date": 1768607756
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

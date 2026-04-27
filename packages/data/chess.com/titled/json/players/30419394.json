@@ -1,0 +1,64 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30419394.5331463f.200x200o.0d5ced316875.jpg",
+  "player_id": 30419394,
+  "@id": "https://api.chess.com/pub/player/teillier",
+  "url": "https://www.chess.com/member/Teillier",
+  "username": "teillier",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1761870187,
+  "joined": 1476592404,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1665536783,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 20047,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2404,
+      "date": 1682525897,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1666732573,
+      "game": "https://www.chess.com/game/live/62900420353"
+    },
+    "record": {
+      "win": 175,
+      "loss": 87,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2114,
+      "date": 1476592404
+    },
+    "lowest": {
+      "rating": 2114,
+      "date": 1476592404
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

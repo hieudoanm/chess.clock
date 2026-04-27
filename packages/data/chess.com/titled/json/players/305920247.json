@@ -1,0 +1,67 @@
+{
+  "player_id": 305920247,
+  "@id": "https://api.chess.com/pub/player/porrokolo",
+  "url": "https://www.chess.com/member/Porrokolo",
+  "username": "porrokolo",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1737583400,
+  "joined": 1692012364,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2215,
+      "date": 1737390651,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1737390651,
+      "game": "https://www.chess.com/game/live/126532783443"
+    },
+    "record": {
+      "win": 56,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2819,
+      "date": 1737539804,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2853,
+      "date": 1737381685,
+      "game": "https://www.chess.com/game/live/131120431217"
+    },
+    "record": {
+      "win": 585,
+      "loss": 291,
+      "draw": 83
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2524,
+      "date": 1692012364
+    },
+    "lowest": {
+      "rating": 2524,
+      "date": 1692012364
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 130520812,
+  "@id": "https://api.chess.com/pub/player/dynamike123",
+  "url": "https://www.chess.com/member/dynamike123",
+  "name": "Wang Ip Boris Chan",
+  "username": "dynamike123",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1776594513,
+  "joined": 1616561655,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2163,
+      "date": 1772890986,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2163,
+      "date": 1772890986,
+      "game": "https://www.chess.com/game/live/146451019282"
+    },
+    "record": {
+      "win": 51,
+      "loss": 13,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1775665772,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1755603489,
+      "game": "https://www.chess.com/game/live/147256408025"
+    },
+    "record": {
+      "win": 769,
+      "loss": 598,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2586,
+      "date": 1776438443,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1773925342,
+      "game": "https://www.chess.com/game/live/167307300232"
+    },
+    "record": {
+      "win": 234,
+      "loss": 168,
+      "draw": 20
+    }
+  },
+  "fide": 1900,
+  "tactics": {
+    "highest": {
+      "rating": 2594,
+      "date": 1775117196
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1760769952
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 35787640,
+  "@id": "https://api.chess.com/pub/player/kukola",
+  "url": "https://www.chess.com/member/kukola",
+  "name": "Kudzanayi Charinda",
+  "username": "kukola",
+  "title": "WCM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/ZW",
+  "last_online": 1773043429,
+  "joined": 1495659015,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1993,
+      "date": 1661337076,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2026,
+      "date": 1658130829,
+      "game": "https://www.chess.com/game/live/51869371339"
+    },
+    "record": {
+      "win": 53,
+      "loss": 30,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1850,
+      "date": 1597836637,
+      "rd": 48
+    },
+    "best": {
+      "rating": 1620,
+      "date": 1501705643,
+      "game": "https://www.chess.com/game/live/2202936037"
+    },
+    "record": {
+      "win": 595,
+      "loss": 576,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1570,
+      "date": 1665133885,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1920,
+      "date": 1502120270,
+      "game": "https://www.chess.com/game/live/2780171753"
+    },
+    "record": {
+      "win": 1237,
+      "loss": 1131,
+      "draw": 109
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2299,
+      "date": 1495659015
+    },
+    "lowest": {
+      "rating": 2299,
+      "date": 1495659015
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

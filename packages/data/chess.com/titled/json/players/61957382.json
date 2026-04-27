@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/61957382.81353b10.200x200o.b2b4072d65e9.jpeg",
+  "player_id": 61957382,
+  "@id": "https://api.chess.com/pub/player/justdazzled",
+  "url": "https://www.chess.com/member/JustDazzled",
+  "name": "Alejandro Nieto Rodriguez",
+  "username": "justdazzled",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/DO",
+  "last_online": 1775238210,
+  "joined": 1559770316,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1205,
+      "date": 1713460137,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1608665438,
+      "game": "https://www.chess.com/game/daily/288596800"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 23598,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2027,
+      "date": 1615066796,
+      "rd": 256
+    },
+    "best": {
+      "rating": 2027,
+      "date": 1615066796,
+      "game": "https://www.chess.com/game/live/6570167429"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1770657231,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1613852557,
+      "game": "https://www.chess.com/game/live/6545894256"
+    },
+    "record": {
+      "win": 951,
+      "loss": 863,
+      "draw": 85
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2193,
+      "date": 1770744006,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1561491631,
+      "game": "https://www.chess.com/game/live/3831553897"
+    },
+    "record": {
+      "win": 124,
+      "loss": 124,
+      "draw": 6
+    }
+  },
+  "fide": 2186,
+  "tactics": {
+    "highest": {
+      "rating": 2336,
+      "date": 1559770316
+    },
+    "lowest": {
+      "rating": 2336,
+      "date": 1559770316
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

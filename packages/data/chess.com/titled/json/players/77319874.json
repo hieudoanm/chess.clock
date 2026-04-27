@@ -1,0 +1,98 @@
+{
+  "player_id": 77319874,
+  "@id": "https://api.chess.com/pub/player/nara_kh",
+  "url": "https://www.chess.com/member/Nara_Kh",
+  "name": "Narmin Khalafova",
+  "username": "nara_kh",
+  "title": "WGM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1776540015,
+  "joined": 1587409352,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1666351202,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30002,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1850,
+      "date": 1768948782,
+      "rd": 279
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1590423704,
+      "game": "https://www.chess.com/game/live/4906560135"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2551,
+      "date": 1776539980,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1765123290,
+      "game": "https://www.chess.com/game/live/128632340769"
+    },
+    "record": {
+      "win": 837,
+      "loss": 946,
+      "draw": 117
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1775131376,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1751661520,
+      "game": "https://www.chess.com/game/live/4783843893"
+    },
+    "record": {
+      "win": 1208,
+      "loss": 1294,
+      "draw": 160
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2615,
+      "date": 1760563778
+    },
+    "lowest": {
+      "rating": 2005,
+      "date": 1770827855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

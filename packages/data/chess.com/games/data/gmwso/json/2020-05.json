@@ -1,0 +1,2178 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/4814066149",
+    "time_control": "180",
+    "end_time": 1588685105,
+    "rated": true,
+    "tcn": "mu!TdvZJbs5QfH6Evw0S-K9RKQXQHQ=ZwRYRQ48!4X7PXJTJnvJslsPOgmELuCLCvC&Fmw=D-vDwvF+ned",
+    "uuid": "3b83d30c-8ed3-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5rk1/p2p1ppp/q2pp3/8/4P2N/2P3p1/PPP2bPP/R1BK3R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2504,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/kennythai",
+      "username": "kennythai",
+      "uuid": "6bd73efc-04d3-11e9-8010-000000000000"
+    },
+    "black": {
+      "rating": 2430,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4814319398",
+    "time_control": "180",
+    "end_time": 1588689353,
+    "rated": true,
+    "tcn": "lBWOow0SfoXHgv6XpxZReg5QmC!TBJQ0vMSJCJ0Jfe-K+r-SM181rJXJoJTJdJ+vJS1S-BS0Bv=SvKRK+o=JbsHzsJSJeK=ScM=TaeTMKS01SK2U=S12&12V+T+NT7471T-R",
+    "uuid": "25d58c83-8edd-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3r1b1r/2p4p/p2nPQpk/3pR1pb/1p6/6PP/PPP2PB1/4R1K1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2433,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2484,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4814433675",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.05\"]\n[Round \"-\"]\n[White \"FairChess_on_YouTube\"]\n[Black \"GMWSO\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"8/p3pk1Q/1p3pp1/3P1q2/2b5/5B1P/P4PPK/8 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D85\"]\n[ECOUrl \"https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Variation-7...c5-8.Be2-Nc6\"]\n[UTCDate \"2020.05.05\"]\n[UTCTime \"15:01:34\"]\n[WhiteElo \"2740\"]\n[BlackElo \"2741\"]\n[TimeControl \"1500+10\"]\n[Termination \"Game drawn by repetition\"]\n[StartTime \"15:01:34\"]\n[EndDate \"2020.05.05\"]\n[EndTime \"15:55:43\"]\n[Link \"https://www.chess.com/game/live/4814433675\"]\n\n1. d4 {[%clk 0:25:08.2]} 1... Nf6 {[%clk 0:25:04.6]} 2. c4 {[%clk 0:25:17.2]} 2... g6 {[%clk 0:25:12]} 3. Nc3 {[%clk 0:25:26.1]} 3... d5 {[%clk 0:25:19.4]} 4. cxd5 {[%clk 0:25:30.3]} 4... Nxd5 {[%clk 0:25:29.3]} 5. e4 {[%clk 0:25:34.5]} 5... Nxc3 {[%clk 0:25:37.7]} 6. bxc3 {[%clk 0:25:44.4]} 6... Bg7 {[%clk 0:25:46.9]} 7. Nf3 {[%clk 0:25:41.4]} 7... c5 {[%clk 0:25:54.1]} 8. Be2 {[%clk 0:25:46.4]} 8... Nc6 {[%clk 0:25:29.9]} 9. d5 {[%clk 0:25:54.4]} 9... Bxc3+ {[%clk 0:25:36.4]} 10. Bd2 {[%clk 0:26:03.4]} 10... Bxa1 {[%clk 0:25:42.2]} 11. Qxa1 {[%clk 0:26:12.1]} 11... Nd4 {[%clk 0:25:51.7]} 12. Nxd4 {[%clk 0:26:20.7]} 12... cxd4 {[%clk 0:26:01.6]} 13. Qxd4 {[%clk 0:26:28.8]} 13... O-O {[%clk 0:26:09.6]} 14. O-O {[%clk 0:26:36.6]} 14... Qb6 {[%clk 0:24:58.3]} 15. Qa1 {[%clk 0:26:43.5]} 15... Bd7 {[%clk 0:23:51.9]} 16. Rb1 {[%clk 0:21:44.8]} 16... Qc7 {[%clk 0:23:47.3]} 17. Bh6 {[%clk 0:21:18]} 17... f6 {[%clk 0:23:54.2]} 18. Bxf8 {[%clk 0:21:18.9]} 18... Kxf8 {[%clk 0:21:38]} 19. Qb2 {[%clk 0:15:54.6]} 19... b6 {[%clk 0:19:25.4]} 20. Rc1 {[%clk 0:10:19.9]} 20... Qf4 {[%clk 0:19:27.6]} 21. Qa3 {[%clk 0:08:24.1]} 21... Qxe4 {[%clk 0:15:24]} 22. Bf3 {[%clk 0:08:31.9]} 22... Qe5 {[%clk 0:12:21.9]} 23. Qa6 {[%clk 0:08:36.8]} 23... Qf4 {[%clk 0:09:45.9]} 24. Rc4 {[%clk 0:06:59.4]} 24... Qf5 {[%clk 0:09:25.2]} 25. h3 {[%clk 0:05:28.7]} 25... Qb1+ {[%clk 0:06:41.4]} 26. Kh2 {[%clk 0:05:36.5]} 26... Bb5 {[%clk 0:04:49.5]} 27. Qb7 {[%clk 0:05:43]} 27... Bxc4 {[%clk 0:04:58.5]} 28. Qxa8+ {[%clk 0:05:51.7]} 28... Kf7 {[%clk 0:05:07.7]} 29. Qh8 {[%clk 0:05:08.8]} 29... Qf5 {[%clk 0:04:23.5]} 30. Qxh7+ {[%clk 0:05:01.2]} 30... Kf8 {[%clk 0:04:16.1]} 31. Qh8+ {[%clk 0:04:15.4]} 31... Kf7 {[%clk 0:04:18.9]} 32. Qh7+ {[%clk 0:03:14.7]} 32... Kf8 {[%clk 0:04:27]} 33. Qh8+ {[%clk 0:02:33.3]} 33... Kf7 {[%clk 0:04:35.4]} 34. Qh7+ {[%clk 0:02:42.4]} 1/2-1/2\n",
+    "time_control": "1500+10",
+    "end_time": 1588694143,
+    "rated": false,
+    "accuracies": {
+      "white": 98.41822887189161,
+      "black": 98.5481643218958
+    },
+    "tcn": "lB!TkA2UbsZJAJTJmCJsjs92gvYIfm5QBJ2sclsadaQBvBIBaB8!eg7PBa6ZfbPYlV1TV9!9ajXPbcYDjqDCmvCKqOKDcADLpxLbgpZHOXHAX4914?bL?3193?91?3193?91?3",
+    "uuid": "51bb5aea-8ee1-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/p3pk1Q/1p3pp1/3P1q2/2b5/5B1P/P4PPK/8 b - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2740,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/fairchess_on_youtube",
+      "username": "FairChess_on_YouTube",
+      "uuid": "bb226e5c-5126-11e3-801a-000000000000"
+    },
+    "black": {
+      "rating": 2741,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818346289",
+    "time_control": "180",
+    "end_time": 1588767947,
+    "rated": true,
+    "tcn": "lB0KBKZRgv5QmC6EfARKA181+r=S=J-B-M10vBEdBQXQ&10R1SRISQIBQs",
+    "uuid": "93294ad2-8f94-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1bnr/p1p3pp/8/3Pp1N1/3kP3/1BQ5/PPP2PPP/RNBbK2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2436,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2118,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818349598",
+    "time_control": "180",
+    "end_time": 1588768029,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SJS6Sgv9zfHYQHt8!eg=x-Mxofe3V=3!?MS-xgo=ES797vK=vKvxDowTNwE&x",
+    "uuid": "b8aeb3b4-8f94-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1r3k/pp3ppP/2p4p/7n/1b3nK1/2NB1N1q/PPPP1P1P/R1BQR3 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2116,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    },
+    "black": {
+      "rating": 2438,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818354108",
+    "time_control": "180",
+    "end_time": 1588768103,
+    "rated": true,
+    "tcn": "lB!TowYQfoZRpx2Ugv92bs3Veg5O=KTJsJQJcD-SKR0RDR7R=KR7=T2TKT7TvK+2-R89*8",
+    "uuid": "e9dabe36-8f94-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1Rk1r/pp3pb1/n2Nnqpp/3pN3/3P4/6PP/PPP1PPB1/R2Q1RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2440,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2114,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818357923",
+    "time_control": "180",
+    "end_time": 1588768249,
+    "rated": true,
+    "tcn": "mC!TCKZJKT0Tgv5QfH90eg8!HQXQvB-Dlt+NcDNdfd=KBQ6x+f-F-exofo=mbsm{adFoQ7oD+f-xfxDxgo&gox-D",
+    "uuid": "14fa0496-8f95-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2N1rk1/p1p1bppp/5p2/3pp3/5n2/2NP3K/PPP2P1P/3RN1q1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2112,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    },
+    "black": {
+      "rating": 2442,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818365848",
+    "time_control": "180",
+    "end_time": 1588768298,
+    "rated": true,
+    "tcn": "lB2UmC3Vbs92gvZRfA0Seg5ZBJZPArSJCJ=Afe-0=SArS181=S18&1",
+    "uuid": "6c77c8fe-8f95-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bqk1nr/ppp1nQb1/1n1pP1pp/3P4/8/1pN2N2/PPP2PPP/R1BQR1K1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2444,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2110,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818368492",
+    "time_control": "180",
+    "end_time": 1588768456,
+    "rated": true,
+    "tcn": "gv!TbsZJlB6LcM3VMT0Tmu9z+l8!vFL3ft=Ctm2M=070sJzldl0R=05Z0}49=098JYRY+qMFBJ+G=s=v*9Z90}89ov-oedCvmv-A=0Aq0}!9JR3kdc-tltktRY&k",
+    "uuid": "8992f55b-8f95-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5k2/ppP2p2/5p1p/b7/7p/n1PbPB2/PPq2PnP/R1K4R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2108,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    },
+    "black": {
+      "rating": 2446,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818377256",
+    "time_control": "180",
+    "end_time": 1588768465,
+    "rated": true,
+    "tcn": "lB",
+    "uuid": "e9b42df0-8f95-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2446,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2108,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/kuli4ik",
+      "username": "kuli4ik",
+      "uuid": "7dfcc1e2-baab-11e7-8026-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818468290",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.06\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"Dr-Bassem\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"8/8/5k1b/3nNp1P/5P1K/3N4/8/8 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C94\"]\n[ECOUrl \"https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Keres-Breyer-Defense\"]\n[UTCDate \"2020.05.06\"]\n[UTCTime \"13:02:02\"]\n[WhiteElo \"2741\"]\n[BlackElo \"2608\"]\n[TimeControl \"1500+10\"]\n[Termination \"Game drawn by repetition\"]\n[StartTime \"13:02:02\"]\n[EndDate \"2020.05.06\"]\n[EndTime \"14:04:26\"]\n[Link \"https://www.chess.com/game/live/4818468290\"]\n\n1. e4 {[%clk 0:25:09.2]} 1... e5 {[%clk 0:25:06.7]} 2. Nf3 {[%clk 0:25:17.6]} 2... Nc6 {[%clk 0:25:14.9]} 3. Bb5 {[%clk 0:25:25.9]} 3... a6 {[%clk 0:25:23.6]} 4. Ba4 {[%clk 0:25:34.3]} 4... Nf6 {[%clk 0:25:32]} 5. O-O {[%clk 0:25:43.5]} 5... Be7 {[%clk 0:25:39.9]} 6. Re1 {[%clk 0:25:52.6]} 6... b5 {[%clk 0:25:48.1]} 7. Bb3 {[%clk 0:26:01.7]} 7... d6 {[%clk 0:25:57.3]} 8. c3 {[%clk 0:26:08.4]} 8... O-O {[%clk 0:26:05.2]} 9. h3 {[%clk 0:26:17]} 9... Nb8 {[%clk 0:26:13.3]} 10. d4 {[%clk 0:26:25.3]} 10... Nbd7 {[%clk 0:26:22.3]} 11. Nbd2 {[%clk 0:26:34.4]} 11... Bb7 {[%clk 0:26:31.3]} 12. Bc2 {[%clk 0:26:40.9]} 12... Re8 {[%clk 0:26:40.1]} 13. Nf1 {[%clk 0:26:33.4]} 13... Bf8 {[%clk 0:26:48.6]} 14. Ng3 {[%clk 0:26:41.5]} 14... g6 {[%clk 0:26:57.9]} 15. a4 {[%clk 0:26:33.1]} 15... Bg7 {[%clk 0:26:59.7]} 16. Bd3 {[%clk 0:25:05.4]} 16... exd4 {[%clk 0:26:41.5]} 17. cxd4 {[%clk 0:24:59.2]} 17... c5 {[%clk 0:26:47.3]} 18. axb5 {[%clk 0:24:23.1]} 18... axb5 {[%clk 0:26:57.2]} 19. Rxa8 {[%clk 0:24:32.2]} 19... Bxa8 {[%clk 0:26:53]} 20. dxc5 {[%clk 0:23:06.9]} 20... Nxc5 {[%clk 0:27:02.9]} 21. Bxb5 {[%clk 0:23:15.4]} 21... Rf8 {[%clk 0:27:09]} 22. e5 {[%clk 0:21:16.9]} 22... dxe5 {[%clk 0:27:13.7]} 23. Qxd8 {[%clk 0:21:18]} 23... Rxd8 {[%clk 0:27:23.6]} 24. Nxe5 {[%clk 0:21:27.3]} 24... Nd5 {[%clk 0:27:01.3]} 25. Bc4 {[%clk 0:20:26.3]} 25... Re8 {[%clk 0:27:05.1]} 26. Nd3 {[%clk 0:20:04.1]} 26... Rxe1+ {[%clk 0:27:07.9]} 27. Nxe1 {[%clk 0:20:14]} 27... Nb6 {[%clk 0:26:27.6]} 28. Ba2 {[%clk 0:19:58.1]} 28... Bd5 {[%clk 0:26:27.2]} 29. Bxd5 {[%clk 0:18:52.4]} 29... Nxd5 {[%clk 0:26:37.1]} 30. Ne2 {[%clk 0:19:01.9]} 30... f5 {[%clk 0:26:40.4]} 31. g4 {[%clk 0:17:04.5]} 31... Kf7 {[%clk 0:26:47.6]} 32. gxf5 {[%clk 0:16:49.2]} 32... gxf5 {[%clk 0:26:57.5]} 33. Kg2 {[%clk 0:16:58.7]} 33... Ke6 {[%clk 0:21:00.2]} 34. Kf3 {[%clk 0:17:02.3]} 34... Be5 {[%clk 0:20:55]} 35. h4 {[%clk 0:14:58.3]} 35... Bf6 {[%clk 0:19:52.8]} 36. h5 {[%clk 0:14:18.6]} 36... Be5 {[%clk 0:18:12.4]} 37. Kg2 {[%clk 0:14:24.1]} 37... Bf6 {[%clk 0:14:43.3]} 38. Kf3 {[%clk 0:12:59.7]} 38... Be5 {[%clk 0:14:47.7]} 39. Kg2 {[%clk 0:12:21.1]} 39... Bf6 {[%clk 0:14:54]} 40. Kg3 {[%clk 0:12:30.3]} 40... Be5+ {[%clk 0:13:50.8]} 41. Kf3 {[%clk 0:12:24.1]} 41... Bg7 {[%clk 0:12:03.1]} 42. Kg3 {[%clk 0:09:59]} 42... Be5+ {[%clk 0:12:06.4]} 43. f4 {[%clk 0:10:05.2]} 43... Bg7 {[%clk 0:05:10.2]} 44. Nf3 {[%clk 0:10:10.9]} 44... Nb3 {[%clk 0:03:34.8]} 45. Ng5+ {[%clk 0:10:14]} 45... Ke7 {[%clk 0:03:37]} 46. Nxh7 {[%clk 0:10:14.8]} 46... Nxc1 {[%clk 0:03:27.7]} 47. Nxc1 {[%clk 0:10:24.7]} 47... Bxb2 {[%clk 0:03:35.2]} 48. Nd3 {[%clk 0:08:53.1]} 48... Bg7 {[%clk 0:03:29.3]} 49. Ng5 {[%clk 0:08:45]} 49... Nf6 {[%clk 0:02:53.2]} 50. Kh4 {[%clk 0:08:52.1]} 50... Nd5 {[%clk 0:02:58.3]} 51. Nf3 {[%clk 0:08:29.4]} 51... Bh6 {[%clk 0:02:31.9]} 52. Nfe5 {[%clk 0:08:38.2]} 52... Kf6 {[%clk 0:01:16.2]} 53. Ng6 {[%clk 0:08:41.5]} 53... Kf7 {[%clk 0:00:53.4]} 54. Kg3 {[%clk 0:08:21.4]} 54... Nf6 {[%clk 0:00:58.4]} 55. Nde5+ {[%clk 0:08:19.6]} 55... Ke6 {[%clk 0:00:23.3]} 56. Kh4 {[%clk 0:08:28.9]} 56... Nd5 {[%clk 0:00:19.6]} 57. Nd3 {[%clk 0:08:36.7]} 57... Kf7 {[%clk 0:00:25]} 58. Nge5+ {[%clk 0:07:39.2]} 58... Kf6 {[%clk 0:00:24.7]} 59. Nd7+ {[%clk 0:07:29.3]} 59... Ke7 {[%clk 0:00:26.4]} 60. N7e5 {[%clk 0:07:38.3]} 60... Kf6 {[%clk 0:00:27.9]} 1/2-1/2\n",
+    "time_control": "1500+10",
+    "end_time": 1588773866,
+    "rated": false,
+    "accuracies": {
+      "white": 99.58397089386416,
+      "black": 99.62268819147991
+    },
+    "tcn": "mC0Kgv5QfHWOHy!Teg90feXHyrZRks8!pxQ5lB5Zbl6Xrk98lf09fw2Uiy92ktKBsBYIyHOHa4X4BIZItH89CKRKd797vKTJHA78Kt8eteJPAi4JiJPJwm1LoE!1ELULgo1Sov2KxFKTFNTKvoKTovTKvoKTowTKwvK2vw2KnDK2evIrvMS0M3rcmc2jctj23MJTwFTJMv2VvK0TKUT1FwJTtK1SwFTJKtS1UK1TKZT0ZK0T",
+    "uuid": "ca3af0d1-8f99-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/8/5k1b/3nNp1P/5P1K/3N4/8/8 w - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2741,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2608,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/dr-bassem",
+      "username": "Dr-Bassem",
+      "uuid": "6820c84c-7e36-11e3-8044-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4818908537",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.06\"]\n[Round \"-\"]\n[White \"AnishGiri\"]\n[Black \"GMWSO\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"6R1/8/6k1/5p1p/8/4K1P1/8/5r2 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D30\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-3.Nf3-Nf6\"]\n[UTCDate \"2020.05.06\"]\n[UTCTime \"15:03:23\"]\n[WhiteElo \"2731\"]\n[BlackElo \"2741\"]\n[TimeControl \"1500+10\"]\n[Termination \"Game drawn by repetition\"]\n[StartTime \"15:03:23\"]\n[EndDate \"2020.05.06\"]\n[EndTime \"16:03:10\"]\n[Link \"https://www.chess.com/game/live/4818908537\"]\n\n1. d4 {[%clk 0:25:09.5]} 1... Nf6 {[%clk 0:25:06.6]} 2. c4 {[%clk 0:25:17.9]} 2... e6 {[%clk 0:25:15.8]} 3. Nf3 {[%clk 0:25:23.5]} 3... d5 {[%clk 0:25:21.2]} 4. g3 {[%clk 0:25:24.9]} 4... Be7 {[%clk 0:25:25.4]} 5. Bg2 {[%clk 0:25:30.9]} 5... O-O {[%clk 0:25:34.5]} 6. O-O {[%clk 0:25:27.2]} 6... dxc4 {[%clk 0:25:41.9]} 7. Qc2 {[%clk 0:25:36.4]} 7... a6 {[%clk 0:25:49]} 8. a4 {[%clk 0:25:45.4]} 8... Bd7 {[%clk 0:25:57.1]} 9. Qxc4 {[%clk 0:25:53.7]} 9... Bc6 {[%clk 0:26:05.8]} 10. Bg5 {[%clk 0:26:00.7]} 10... Bd5 {[%clk 0:26:12.7]} 11. Qc2 {[%clk 0:25:47.3]} 11... Be4 {[%clk 0:26:20.8]} 12. Qc1 {[%clk 0:25:40.6]} 12... h6 {[%clk 0:26:28.8]} 13. Bxf6 {[%clk 0:25:48.6]} 13... Bxf6 {[%clk 0:26:38.7]} 14. Nbd2 {[%clk 0:25:24.3]} 14... Bxf3 {[%clk 0:26:37.5]} 15. Nxf3 {[%clk 0:25:30.2]} 15... a5 {[%clk 0:26:44.1]} 16. Qc3 {[%clk 0:24:31.6]} 16... Nc6 {[%clk 0:25:50.4]} 17. Rad1 {[%clk 0:24:38.7]} 17... Nb4 {[%clk 0:25:12.5]} 18. Ne5 {[%clk 0:23:20.5]} 18... c6 {[%clk 0:23:27.8]} 19. e4 {[%clk 0:23:27.3]} 19... Bxe5 {[%clk 0:20:52.4]} 20. dxe5 {[%clk 0:23:34]} 20... Qb6 {[%clk 0:21:01.6]} 21. Rd6 {[%clk 0:22:57.6]} 21... Na6 {[%clk 0:20:36.9]} 22. Rfd1 {[%clk 0:21:29.4]} 22... Qc5 {[%clk 0:20:22.9]} 23. Qxc5 {[%clk 0:20:16.7]} 23... Nxc5 {[%clk 0:20:29.9]} 24. R1d4 {[%clk 0:20:26.1]} 24... Rfc8 {[%clk 0:19:26.4]} 25. Bf1 {[%clk 0:14:40.1]} 25... b5 {[%clk 0:12:09.8]} 26. axb5 {[%clk 0:14:47.6]} 26... cxb5 {[%clk 0:12:19.7]} 27. Bxb5 {[%clk 0:14:56.1]} 27... Rab8 {[%clk 0:12:25.2]} 28. Ba6 {[%clk 0:15:03.3]} 28... Nxa6 {[%clk 0:12:05]} 29. Rxa6 {[%clk 0:15:10.6]} 29... Rxb2 {[%clk 0:12:14.3]} 30. Ra7 {[%clk 0:12:57.8]} 30... Rb5 {[%clk 0:11:43.8]} 31. Rdd7 {[%clk 0:11:48.1]} 31... Rf8 {[%clk 0:11:51.2]} 32. Rd4 {[%clk 0:11:06.6]} 32... Rxe5 {[%clk 0:10:24.8]} 33. Ra4 {[%clk 0:11:09.2]} 33... Rb8 {[%clk 0:10:33.7]} 34. R7xa5 {[%clk 0:11:12.9]} 34... Rxa5 {[%clk 0:10:43.6]} 35. Rxa5 {[%clk 0:11:22]} 35... Rb4 {[%clk 0:10:53.2]} 36. h4 {[%clk 0:11:04.9]} 36... Rxe4 {[%clk 0:11:00.5]} 37. Kg2 {[%clk 0:11:13]} 37... g6 {[%clk 0:11:03.1]} 38. Rb5 {[%clk 0:11:17.2]} 38... Kg7 {[%clk 0:11:11.2]} 39. Ra5 {[%clk 0:11:26.2]} 39... Rd4 {[%clk 0:11:14.9]} 40. Ra7 {[%clk 0:11:34.5]} 40... Kf6 {[%clk 0:11:16.6]} 41. Ra8 {[%clk 0:11:41.9]} 41... Kf5 {[%clk 0:11:10.2]} 42. Rh8 {[%clk 0:11:41]} 42... h5 {[%clk 0:10:43.6]} 43. Ra8 {[%clk 0:11:41.1]} 43... e5 {[%clk 0:10:44.1]} 44. Ra5 {[%clk 0:11:40.7]} 44... Rd2 {[%clk 0:10:49.1]} 45. Rb5 {[%clk 0:11:41.7]} 45... Ra2 {[%clk 0:10:50.8]} 46. Rc5 {[%clk 0:11:48]} 46... f6 {[%clk 0:10:49.1]} 47. Rb5 {[%clk 0:11:52.5]} 47... Ra4 {[%clk 0:10:50.8]} 48. Rc5 {[%clk 0:11:47.9]} 48... g5 {[%clk 0:10:47.8]} 49. hxg5 {[%clk 0:11:54.1]} 49... Kxg5 {[%clk 0:10:51.5]} 50. Rb5 {[%clk 0:11:30.4]} 50... Re4 {[%clk 0:10:57.3]} 51. Rb8 {[%clk 0:11:31.9]} 51... Rg4 {[%clk 0:10:57.4]} 52. Kf3 {[%clk 0:11:07.5]} 52... Ra4 {[%clk 0:10:43.9]} 53. Rg8+ {[%clk 0:10:19.4]} 53... Kf5 {[%clk 0:10:51.3]} 54. Rh8 {[%clk 0:10:12.3]} 54... Ra3+ {[%clk 0:10:41.9]} 55. Kg2 {[%clk 0:10:14.1]} 55... Kg6 {[%clk 0:10:51.8]} 56. Rg8+ {[%clk 0:10:21.5]} 56... Kh7 {[%clk 0:10:56]} 57. Rb8 {[%clk 0:10:28.3]} 57... Ra2 {[%clk 0:11:00.4]} 58. Re8 {[%clk 0:10:20.9]} 58... Kg6 {[%clk 0:11:02.8]} 59. Rg8+ {[%clk 0:10:25]} 59... Kf5 {[%clk 0:11:06]} 60. Rh8 {[%clk 0:10:31.8]} 60... Kg6 {[%clk 0:10:55.4]} 61. Rg8+ {[%clk 0:10:39]} 61... Kh7 {[%clk 0:10:55.7]} 62. Re8 {[%clk 0:10:47.8]} 62... Rb2 {[%clk 0:11:03.1]} 63. Rf8 {[%clk 0:10:22.2]} 63... Kg7 {[%clk 0:10:59.4]} 64. Re8 {[%clk 0:10:30]} 64... Rb4 {[%clk 0:10:50.6]} 65. Kf3 {[%clk 0:10:11.1]} 65... Ra4 {[%clk 0:10:33.3]} 66. Rb8 {[%clk 0:09:45.7]} 66... Kg6 {[%clk 0:10:16.1]} 67. Rg8+ {[%clk 0:09:48.3]} 67... Kf5 {[%clk 0:10:25.1]} 68. Rh8 {[%clk 0:09:54.8]} 68... e4+ {[%clk 0:10:34.1]} 69. Kg2 {[%clk 0:09:49.5]} 69... Kg6 {[%clk 0:10:43]} 70. Rg8+ {[%clk 0:09:50.4]} 70... Kf7 {[%clk 0:10:51.9]} 71. Rh8 {[%clk 0:09:12.9]} 71... Ra5 {[%clk 0:10:58.9]} 72. Kf1 {[%clk 0:08:55.9]} 72... Rf5 {[%clk 0:11:02]} 73. Ke2 {[%clk 0:08:44.7]} 73... Re5 {[%clk 0:09:31]} 74. Ke3 {[%clk 0:08:27.8]} 74... Kg7 {[%clk 0:09:39.9]} 75. Ra8 {[%clk 0:08:23.5]} 75... Kg6 {[%clk 0:09:48.7]} 76. Kf4 {[%clk 0:08:19.1]} 76... Rf5+ {[%clk 0:09:49.9]} 77. Kxe4 {[%clk 0:08:20.5]} 77... Rxf2 {[%clk 0:09:57.8]} 78. Rg8+ {[%clk 0:08:23]} 78... Kh6 {[%clk 0:09:56.1]} 79. Rh8+ {[%clk 0:08:29.4]} 79... Kg6 {[%clk 0:10:05.2]} 80. Rg8+ {[%clk 0:08:38.6]} 80... Kh7 {[%clk 0:10:13]} 81. Ra8 {[%clk 0:08:42.2]} 81... Rf1 {[%clk 0:10:22]} 82. Rb8 {[%clk 0:08:46.3]} 82... f5+ {[%clk 0:10:19.9]} 83. Ke3 {[%clk 0:08:54.7]} 83... Kg6 {[%clk 0:10:26.2]} 84. Rg8+ {[%clk 0:08:44.9]} 84... Kh7 {[%clk 0:10:33.1]} 85. Ra8 {[%clk 0:08:42.3]} 85... Kg6 {[%clk 0:10:41.5]} 86. Rg8+ {[%clk 0:08:49.3]} 86... Kh7 {[%clk 0:10:50.9]} 87. Ra8 {[%clk 0:08:58]} 87... Kg6 {[%clk 0:11:00.3]} 88. Rg8+ {[%clk 0:09:06.6]} 1/2-1/2\n",
+    "time_control": "1500+10",
+    "end_time": 1588780990,
+    "rated": false,
+    "accuracies": {
+      "white": 98.60260582968742,
+      "black": 98.87875781842848
+    },
+    "tcn": "lB!TkA0SgvZJow90fo8!egJAdkWOiy6ZkAZQcMQJAkJCkc3VMT0TblCvlvOGcs5QadQzvKYQmCTKBK7PdRzOfdPIsIOIdB96ofXHyHQHfH45HOIORO5jOWjHBZ69ZBHKBy95WGKGyG5zpFzCgo2UGH!2HGCBGW2TW4TL4?VN?4SK4GBlGHliHI1TIHiyHIUMFMLMIHyCH5CEovEy5!ML!?yqvoLU?!U3!5qi583U8!UL!?LU?!U3!8ij893298jzovzy852U5!UL!?KCvoLU?!U1!?yGofGLfmLKmu12?42UuDKLDCLn4!UV!?VU?!U3!4nf45TLCu3U5!U3!43U4!U3!43U4!",
+    "uuid": "c2e82fec-8faa-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6R1/8/6k1/5p1p/8/4K1P1/8/5r2 b - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2731,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/anishgiri",
+      "username": "AnishGiri",
+      "uuid": "4362c2ba-f29f-11e4-804e-000000000000"
+    },
+    "black": {
+      "rating": 2741,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819914094",
+    "time_control": "180",
+    "end_time": 1588792402,
+    "rated": true,
+    "tcn": "lBYIBIXPmC0Sgv9IbsInen-Ene+nem6O-H=z=V!VcVzs-R80VM1TMT09T79!",
+    "uuid": "27730bf5-8fcd-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1B2kr/p2p2pp/bp1Np3/1N6/4P1n1/2p2N2/PPP1KbPP/R2Q1B1R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2432,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2425,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819929202",
+    "time_control": "180",
+    "end_time": 1588792537,
+    "rated": true,
+    "tcn": "lB0SowZRfo5Qpx!Tbs90gv6ZegSKBJQzvM-9+r9U=S8!M191S1!1=S1!SZ=1-MTZM179&S91S1!1=S1!=1!?*8*9&!",
+    "uuid": "adbfb116-8fcd-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3RrQk/pppnbPpp/3pP1n1/3Pp3/1n6/1BN3PP/PPP1PPB1/R1BQ1RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2433,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 1719,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmteatime",
+      "username": "GMTeatime",
+      "uuid": "30dafcea-bb46-11e6-8006-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819939275",
+    "time_control": "180",
+    "end_time": 1588792662,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SgvSJlB9zfm8!=V2VcV-LV979=KTC+lzsjs=2mtCltL6Ldl-Alm=jad+C=TCk-090T05Z-7kd0~+981!?1Zdm71?!",
+    "uuid": "08196b79-8fce-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4bk1/pppQ1Npp/8/3pPb2/2nP4/2P2N2/Pp2bPPP/4K2R w K -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2569,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/bughouseknight",
+      "username": "BughouseKnight",
+      "uuid": "843c310c-89b2-11e7-805e-000000000000"
+    },
+    "black": {
+      "rating": 2425,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819946368",
+    "time_control": "180",
+    "end_time": 1588792852,
+    "rated": true,
+    "tcn": "lB!TgvZJcM3VMT0Tmu9zbl6Lft=CtHYQvFL3Hm8!+x+M-LMFLF-tktCt=UtmU3!?-U?3U979+k+C+L=UdmCkLk=C=Lzlml&MLU1U-S91",
+    "uuid": "4780f4e0-8fce-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn6/pp3qpk/2p1Nppp/3p2q1/3Pp2N/4P2B/PPBQ1PPP/R3K2R w KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2327,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    },
+    "black": {
+      "rating": 2415,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819958701",
+    "time_control": "180",
+    "end_time": 1588792983,
+    "rated": true,
+    "tcn": "lBZJgv6Low0Spx9Rfo=CvF!T=KRzbsz0KT0TFLSL+K5QKT2T-28Z2L-SsJZ6oC-RLRYRJT7TCQXQ+O6Z+vSB+E=SvQBQ=J+G=sTnen-Cnu&nuC1LCtQK",
+    "uuid": "b536978a-8fce-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6r/p2k3p/B2pp3/b2Pnp2/6B1/2PK2PP/PPP1Pq2/R1BQ3R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2405,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2337,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819967361",
+    "time_control": "180",
+    "end_time": 1588793166,
+    "rated": true,
+    "tcn": "lB!TgvZJcM3VMT0Tmu9zbl6Lftzlvl=Ctm5Q-FL3mE8!EL3LFLQ0LV2VdE+2+D=MpFTLEw-NFMNwDw-zacVM=V2TwKTKBK0U-T7TKT=3-0U0T0+T0}49=298",
+    "uuid": "025f65be-8fcf-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "4r1k1/ppp2pPp/5b1P/3p1pp1/1n2p3/4P3/PPPN1PP1/2R1K2R w K -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2346,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    },
+    "black": {
+      "rating": 2396,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819979520",
+    "time_control": "180",
+    "end_time": 1588793254,
+    "rated": true,
+    "tcn": "lBZJbs6LcM=Sgv!TvK3VMF2MFw-EmCTCKECsjsLEdE+LEd92-N?!=ELUN2!2-K+jfH=QegjsKU1U+?+CnvsBdB-mHm&P",
+    "uuid": "7014931b-8fcf-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1qk2B/ppp1p1r1/1qp1p1pp/3p2p1/3Qb1P1/5PB1/P1P1B1PP/R4RK1 w q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2403,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2339,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819985699",
+    "time_control": "180",
+    "end_time": 1588793460,
+    "rated": true,
+    "tcn": "lB!TgvZJcMTCMF5Qmu6L+t7Zbl0Sfm9zegzlvlCldl8!nv1TtLSL-D48-IZR+S8SIS98-V2VFT*1=U1TU3!3=UTU+1US+USU1URUDU*2UD+Glt*M-xMoDo2ogo-Fog8!-MVM*13U",
+    "uuid": "a703d5f5-8fcf-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6r1/ppp2R2/2n3k1/b2p1pp1/3P3n/3QPP1N/PPP1B2P/R4RK1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2332,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    },
+    "black": {
+      "rating": 2410,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4819998948",
+    "time_control": "180",
+    "end_time": 1588793643,
+    "rated": true,
+    "tcn": "lBZJbs6LcM=TMF0Sgv9zmu!0fH5Qeg&U-DUE=xEvovzsjs+MFMTMDNLxN28Z&wxfdf+FHQ0Q-IZ6=O45OX5X+O-ROXRX+O-GIXFwXG6Z-IZR-XR0GQ0T2NTUNw7TIZTvQKUVKv&0&NV2=T0TZT",
+    "uuid": "1f2cca23-8fd0-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "7r/pNp2pkp/B3pN2/3p2pQ/3P4/2P1PNN1/P1P2P1P/R4QK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2416,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2326,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4820011165",
+    "time_control": "180",
+    "end_time": 1588793677,
+    "rated": true,
+    "tcn": "lB!TgvZRcM6LMT0TmuRJft9zblLtkt8!ac5Qeg=EvFzldl-V-L",
+    "uuid": "8d08b8bd-8fd0-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1rk1/ppp2ppp/2n2p1n/3p1N2/3P2pN/3PP3/PP1Q1PPP/2R2RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2328,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    },
+    "black": {
+      "rating": 2414,
+      "result": "repetition",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4820013419",
+    "time_control": "180",
+    "end_time": 1588793748,
+    "rated": true,
+    "tcn": "lBZJbs6Lgv1TmCJCvF=UFLULfA!VcV2VdN=U=18Z",
+    "uuid": "a16b1357-8fd0-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1q1b1r/pppkpP1p/5ppp/5p1Q/2BPp3/2N5/PPP2PPP/R3K2R w KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2404,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2338,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4820018171",
+    "time_control": "180",
+    "end_time": 1588793826,
+    "rated": true,
+    "tcn": "lB!TcMTCMF2MFw-EmuCnwnEnen=D+l+F=wDwpwFwnw+FhFMFwn=wnm+Amv&L",
+    "uuid": "ccf354f3-8fd0-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkb1r/pppppp1p/8/5q2/2bP3p/4PKp1/PPPB2P1/RN1Q1BN1 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2331,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    },
+    "black": {
+      "rating": 2411,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4820023511",
+    "time_control": "180",
+    "end_time": 1588793967,
+    "rated": true,
+    "tcn": "lBZJbs6Lgv0SmCJCvM=JfHYQ+w-OHO5OM181-K10+q+zqzOz=I-VwF-TcV!V=R08-Y7YRYzO+ZTZ*7",
+    "uuid": "fc8addfd-8fd0-11ea-8133-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2Rkb1r/ppPn2pp/n1p1p2n/2PpNb2/3Pp2B/2N5/PPP2PPP/R2QK2R b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2417,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2325,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/shayka211",
+      "username": "shayka211",
+      "uuid": "1309e9fa-887f-11e6-8032-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4823335022",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.07\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"fireheart92\"]\n[Result \"1-0\"]\n[CurrentPosition \"3R1r2/k1pNn3/ppP2q2/1b5p/4P2P/6Q1/5PPK/4R3 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"C78\"]\n[ECOUrl \"https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Neo-Arkhangelsk-Variation\"]\n[UTCDate \"2020.05.07\"]\n[UTCTime \"15:02:09\"]\n[WhiteElo \"2741\"]\n[BlackElo \"2624\"]\n[TimeControl \"1500+10\"]\n[Termination \"GMWSO won by resignation\"]\n[StartTime \"15:02:09\"]\n[EndDate \"2020.05.07\"]\n[EndTime \"15:53:38\"]\n[Link \"https://www.chess.com/game/live/4823335022\"]\n\n1. e4 {[%clk 0:25:08.2]} 1... e5 {[%clk 0:24:13.9]} 2. Nf3 {[%clk 0:25:14.2]} 2... Nc6 {[%clk 0:24:19.3]} 3. Bb5 {[%clk 0:25:10.6]} 3... a6 {[%clk 0:24:27.3]} 4. Ba4 {[%clk 0:25:18.5]} 4... Nf6 {[%clk 0:24:35.9]} 5. O-O {[%clk 0:25:23.1]} 5... Bc5 {[%clk 0:24:44]} 6. Bxc6 {[%clk 0:24:35.6]} 6... dxc6 {[%clk 0:24:51.8]} 7. d3 {[%clk 0:24:44.9]} 7... Qe7 {[%clk 0:24:46.6]} 8. Nbd2 {[%clk 0:24:29.7]} 8... Bg4 {[%clk 0:24:51.9]} 9. Nc4 {[%clk 0:24:28]} 9... Nd7 {[%clk 0:24:57.9]} 10. h3 {[%clk 0:24:36.7]} 10... Bh5 {[%clk 0:25:03.7]} 11. a3 {[%clk 0:24:44.3]} 11... O-O-O {[%clk 0:23:20]} 12. b4 {[%clk 0:24:32.7]} 12... Bd4 {[%clk 0:23:16]} 13. Rb1 {[%clk 0:24:24.8]} 13... Nb6 {[%clk 0:19:30.4]} 14. Ne3 {[%clk 0:22:18.4]} 14... Bxe3 {[%clk 0:19:32.6]} 15. Bxe3 {[%clk 0:22:28.3]} 15... g5 {[%clk 0:19:20.1]} 16. Bxg5 {[%clk 0:21:13]} 16... f6 {[%clk 0:19:27.3]} 17. Bh4 {[%clk 0:21:14.8]} 17... Rhg8 {[%clk 0:19:28.8]} 18. Qe2 {[%clk 0:20:50.9]} 18... Na4 {[%clk 0:13:00.2]} 19. Rb3 {[%clk 0:18:29.5]} 19... Rdf8 {[%clk 0:09:46.2]} 20. Qe3 {[%clk 0:17:01.9]} 20... Kb8 {[%clk 0:09:24.8]} 21. Kh2 {[%clk 0:16:56.4]} 21... Ka8 {[%clk 0:05:02.9]} 22. c4 {[%clk 0:15:46.3]} 22... Nb6 {[%clk 0:04:17.3]} 23. Bg3 {[%clk 0:14:27]} 23... f5 {[%clk 0:03:57]} 24. Nxe5 {[%clk 0:13:09.5]} 24... fxe4 {[%clk 0:01:00.4]} 25. dxe4 {[%clk 0:12:56.2]} 25... Qe6 {[%clk 0:00:36.9]} 26. c5 {[%clk 0:12:16.3]} 26... Nc8 {[%clk 0:00:29.6]} 27. Rd3 {[%clk 0:12:20.8]} 27... Ne7 {[%clk 0:00:34.4]} 28. Re1 {[%clk 0:11:37.8]} 28... Ka7 {[%clk 0:00:29.2]} 29. a4 {[%clk 0:11:12.5]} 29... Be8 {[%clk 0:00:37.2]} 30. Rd8 {[%clk 0:11:11.4]} 30... h5 {[%clk 0:00:41.8]} 31. h4 {[%clk 0:11:02.7]} 31... Qf6 {[%clk 0:00:36]} 32. b5 {[%clk 0:10:28.1]} 32... cxb5 {[%clk 0:00:26.8]} 33. axb5 {[%clk 0:10:22.1]} 33... Bxb5 {[%clk 0:00:34.5]} 34. c6+ {[%clk 0:10:30.2]} 34... b6 {[%clk 0:00:43.2]} 35. Nd7 {[%clk 0:10:27.8]} 35... Rxg3 {[%clk 0:00:13.8]} 36. Qxg3 {[%clk 0:10:37.7]} 1-0\n",
+    "time_control": "1500+10",
+    "end_time": 1588866818,
+    "rated": false,
+    "accuracies": {
+      "white": 94.9595129345337,
+      "black": 54.68468453911293
+    },
+    "tcn": "mC0Kgv5QfHWOHy!Teg9IyQZQlt70bl6ElATZpxENiq86jzIBabZPAuBucu2MuM1TMF?!dmPybr79mu65gp54kAyPFwTLvKLCtC0SAIP6rt60fe4WqyN8t73NxFSTzHQHyH8HIQXPKZ!wuw",
+    "uuid": "b931aa46-9073-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3R1r2/k1pNn3/ppP2q2/1b5p/4P2P/6Q1/5PPK/4R3 b - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2741,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2624,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/fireheart92",
+      "username": "fireheart92",
+      "uuid": "b69501a0-81f1-11e3-804a-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824153923",
+    "time_control": "180",
+    "end_time": 1588876131,
+    "rated": true,
+    "tcn": "lB0Sow5Qfo!TpxZRgvSKBJQ0bs=zvMzsM10J1787oJsjcj=SJo90=O45-17Z1?XO=QZ7jKTJK2+T=Z6Z?178QZ81oJSJdJ+S",
+    "uuid": "21a0860b-9090-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1r6/p1pPbkBp/p2pbb2/3Q4/8/6PP/P1P1PP2/R3K2R w KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2424,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2234,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/vectorveld",
+      "username": "vectorveld",
+      "uuid": "5f7422fc-efff-11e9-bc74-1f3a3dc9c1eb"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824171645",
+    "time_control": "180",
+    "end_time": 1588876358,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SgvSJlB9zfHYQdm-CcD89=Y70Y{45D5Csjszs-l0mHm=0ad=E+7+z=IEv709!mvsldlzlel-Cle*c*d+semck=l=tmf",
+    "uuid": "bcf47851-9090-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1Bb3kr/pp2Bppp/2p2n2/2Pp4/3Pn3/2bp1B2/P1rP1PPP/3R1K1R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2204,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/malina0",
+      "username": "Malina0",
+      "uuid": "cb9cd948-d4ba-11e9-8301-efe612f26fa0"
+    },
+    "black": {
+      "rating": 2414,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824185462",
+    "time_control": "180",
+    "end_time": 1588876472,
+    "rated": true,
+    "tcn": "lBXHgv6Xow!TfoWOpx+Qeg0SbsHzBJzsJQsjQXj{X{-sdl-Cluacfc+Q-XQX4X=jXj9I+BIBvB+I-XIBuB+PBPYPX7+07X8!",
+    "uuid": "3549fb9a-9091-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1n3rk1/1N1pbppp/pp2pn2/8/4n3/2n3PP/PQP1PPB1/2R3K1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2406,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2457,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824190958",
+    "time_control": "180",
+    "end_time": 1588876597,
+    "rated": true,
+    "tcn": "lB!TgvZJcD6Lmu0Sbl9ziqzlvl8!ftTCtCJC+K1TKY7ZY545D595dN-M+D=UNMTMD5-F=YFoed+vdc=sY~Z6-0!?06sjcj3V+s",
+    "uuid": "65fae324-9091-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1BN4k/pp4p1/4p1pp/5bp1/3Pp3/P1B1Pb2/1KPN1PnP/R6R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2465,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    },
+    "black": {
+      "rating": 2398,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824199708",
+    "time_control": "180",
+    "end_time": 1588876672,
+    "rated": true,
+    "tcn": "lBZJow6Lfo0Spx90gv!TbsTCegCsjs8!ab+U-u5Z-D-CbXCsdesCuLULwE-FvF0F-N=wnwFwNwCw",
+    "uuid": "b16eaf5c-9091-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1rk1/pRpn1ppp/4p3/3p1b2/3P1NP1/6nP/P1P1P1B1/2B1QRK1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2390,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2361,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/legiondestroyer",
+      "username": "LegionDestroyer",
+      "uuid": "c72b8dc4-e1b4-11e6-8048-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824217984",
+    "time_control": "180",
+    "end_time": 1588876998,
+    "rated": true,
+    "tcn": "lB!TgvZRcD6Lmu0SfH5ZHZTZbs90+w8!+H-THZTZuCLUpF+N-V!?CKRKDKZKwK1T=MTKvKNd-1U1K191V1?!1747ad-D+v=EvEDoefoDEvYIBI7dsd-lfglvgfvl",
+    "uuid": "51cfd089-9092-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6k1/pp2b1pp/4p3/2P3P1/5n1P/8/PPPn1P2/3N1K1R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2462,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    },
+    "black": {
+      "rating": 2399,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824226901",
+    "time_control": "180",
+    "end_time": 1588877124,
+    "rated": true,
+    "tcn": "lBZJow6Efo0KBKJBpxE6gv5Qeg!0ksBsd7Q7bs0QsJ7S-D-O+HSDcD=SHOSJOH=ZvM90M181oJ18=R=S=181R0SJ-M10=R08HQ",
+    "uuid": "9f8352da-9092-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1k2r/pppp2pp/2BP4/3pP1N1/5B2/6PP/PP2PP2/R4RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2407,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2454,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824235581",
+    "time_control": "180",
+    "end_time": 1588877243,
+    "rated": true,
+    "tcn": "lB!TgvZJcD6Lmu0Sbl9zfH5ZHZTZ+wzlvl+G-rGlrl46-H8!DY7TYKZKwKTMpFMo-V!?",
+    "uuid": "eaf5707b-9092-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2r2r1k/pp3ppp/4p2N/1N1pBb2/3P3P/4P3/PPPN1Pq1/R2QK2R w KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2446,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    },
+    "black": {
+      "rating": 2415,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824243912",
+    "time_control": "180",
+    "end_time": 1588877357,
+    "rated": true,
+    "tcn": "lBWOowXHfo5Qgv6XBJQ5eg!TvK+!-M-V+x+RK1V1M1!1+S2US181-M12-SZSMS2!=1!1S7187X&ZxZ5Z=181",
+    "uuid": "336831c6-9093-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4b1r/1Npnpk1p/p2b1np1/1p1P4/8/6P1/PPP1PPBP/RNBQ1RK1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2407,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2454,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824251645",
+    "time_control": "180",
+    "end_time": 1588877454,
+    "rated": true,
+    "tcn": "iq!Tjz2Ucj92mu3VbsZRlt5Qgv8!zHQK+wKvovTNdl+T-C=FCT2T=E6EvEFwpw+vENvhNU1U+A=1=o*g-v",
+    "uuid": "764afeff-9093-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1rk1/ppp1pp2/3p1bpp/1P6/2B5/P1NPPNP1/1BPQ1PP1/R3KBrb b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2462,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    },
+    "black": {
+      "rating": 2399,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824258306",
+    "time_control": "180",
+    "end_time": 1588877538,
+    "rated": true,
+    "tcn": "lBWOowXHfoYQgv6XegZRpx0SmC!TCKTJbsJsjs+Y+F+0KRYR=K0FvFRKBK7dfd+Y+R9RKR-mgpYR-Nmwnw-L",
+    "uuid": "af70d184-9093-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn2k2r/1b3ppp/p1pbp3/1p3n1N/7N/2P3PP/P1P3BK/R1BR4 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2391,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2470,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jarlcarlander",
+      "username": "JarlCarlander",
+      "uuid": "9a67d640-7730-11de-8039-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824301645",
+    "time_control": "180",
+    "end_time": 1588878137,
+    "rated": true,
+    "tcn": "lB!TgvZRcM3VblVMvM+Npx5Q+v+FvN?NM1Fnen=wnw&FwpTEpgFn",
+    "uuid": "2ac1c457-9095-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bqkb2/ppp1pNp1/2np4/7r/3P2n1/7P/PPPNPqP1/R2Q1BKR w q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2376,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/meanieyu",
+      "username": "MeanieYu",
+      "uuid": "32a6af56-143d-11e7-801e-000000000000"
+    },
+    "black": {
+      "rating": 2402,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824305964",
+    "time_control": "180",
+    "end_time": 1588878377,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SlBSJgv9zfHYQHm8!egzsjsTCdt=V+z98vK-MnD+ngh=xox6x=oxoho8KBK5ODMOzsz+Lfn-FogCntLFLgn7P-u&D&vPucuDpne+FelLu-0!?vu",
+    "uuid": "50cbc683-9095-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6k/pp2Nppp/2p4p/3pP1P1/1P5b/4Q3/P1PKB2q/R7 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2586,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/arjunerigaisi2003",
+      "username": "ArjunErigaisi2003",
+      "uuid": "03bf2c4e-fd9d-11e9-8600-15310b0572a4"
+    },
+    "black": {
+      "rating": 2396,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824321303",
+    "time_control": "180",
+    "end_time": 1588878452,
+    "rated": true,
+    "tcn": "lB5QBJQKgvKEmC0S-K+NKENEfm!Tbs9zegzsjsTCdBCsBs-L=C=xCLxo-w-xgo-DcDxD",
+    "uuid": "d6b2567b-9095-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bqk2r/pppp1ppp/4p3/3P1P2/5nb1/2Q2NN1/P1P1BPKP/R4R2 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2390,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2592,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/arjunerigaisi2003",
+      "username": "ArjunErigaisi2003",
+      "uuid": "03bf2c4e-fd9d-11e9-8600-15310b0572a4"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4824326413",
+    "time_control": "180",
+    "end_time": 1588878578,
+    "rated": true,
+    "tcn": "gv!TlBZJbs6LcD0Smu9zftTCtCJCvK8!=V2VDV+T-N-Fhg=2V2T2N27M*wMwnwFogo=vKvCvdv-MvD-vefLx-V!?+Txofo=xon",
+    "uuid": "03e3dbae-9096-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn3r1k/ppp2pNp/4pB1N/6n1/1b1P1Q2/2N1PnPp/PPP2K1P/R7 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2597,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/arjunerigaisi2003",
+      "username": "ArjunErigaisi2003",
+      "uuid": "03bf2c4e-fd9d-11e9-8600-15310b0572a4"
+    },
+    "black": {
+      "rating": 2385,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4827368624",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.08\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"SergeyKarjakin\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"7K/8/8/8/1k6/8/8/8 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C65\"]\n[ECOUrl \"https://www.chess.com/openings/Ruy-Lopez-Opening-Berlin-Defense...5.Bxc6-dxc6-6.Nbd2-Nd7\"]\n[UTCDate \"2020.05.08\"]\n[UTCTime \"13:01:14\"]\n[WhiteElo \"2741\"]\n[BlackElo \"2709\"]\n[TimeControl \"1500+10\"]\n[Termination \"Game drawn by insufficient material\"]\n[StartTime \"13:01:14\"]\n[EndDate \"2020.05.08\"]\n[EndTime \"14:13:17\"]\n[Link \"https://www.chess.com/game/live/4827368624\"]\n\n1. e4 {[%clk 0:25:08.3]} 1... e5 {[%clk 0:25:06]} 2. Nf3 {[%clk 0:25:16.5]} 2... Nc6 {[%clk 0:25:13.9]} 3. Bb5 {[%clk 0:25:25.7]} 3... Nf6 {[%clk 0:25:21.5]} 4. d3 {[%clk 0:25:34.6]} 4... Bc5 {[%clk 0:25:29.6]} 5. Bxc6 {[%clk 0:25:43.2]} 5... dxc6 {[%clk 0:25:37.9]} 6. Nbd2 {[%clk 0:25:52.2]} 6... Nd7 {[%clk 0:24:40.8]} 7. Nc4 {[%clk 0:25:54.7]} 7... f6 {[%clk 0:24:03.8]} 8. O-O {[%clk 0:25:50.2]} 8... O-O {[%clk 0:23:28.2]} 9. c3 {[%clk 0:25:22.8]} 9... Re8 {[%clk 0:22:15.8]} 10. d4 {[%clk 0:24:09.7]} 10... exd4 {[%clk 0:22:15.2]} 11. cxd4 {[%clk 0:24:19.6]} 11... Bf8 {[%clk 0:22:09.3]} 12. Re1 {[%clk 0:23:05]} 12... Nb6 {[%clk 0:21:45]} 13. b3 {[%clk 0:20:59.4]} 13... Be6 {[%clk 0:20:44.3]} 14. Qd3 {[%clk 0:19:37.3]} 14... Qd7 {[%clk 0:17:03.2]} 15. Bb2 {[%clk 0:18:48.9]} 15... Rad8 {[%clk 0:17:09.1]} 16. Rad1 {[%clk 0:18:30.2]} 16... Qf7 {[%clk 0:16:10.1]} 17. Na5 {[%clk 0:17:50.7]} 17... Bc8 {[%clk 0:16:11.1]} 18. Nc4 {[%clk 0:16:20.3]} 18... Be6 {[%clk 0:16:17.1]} 19. Na5 {[%clk 0:13:58.9]} 19... Bc8 {[%clk 0:16:23.8]} 20. Nc4 {[%clk 0:14:07.4]} 20... c5 {[%clk 0:15:18.4]} 21. Nxb6 {[%clk 0:11:26.3]} 21... axb6 {[%clk 0:15:28.3]} 22. Qe3 {[%clk 0:11:35.5]} 22... cxd4 {[%clk 0:14:02.4]} 23. Nxd4 {[%clk 0:11:45.4]} 23... Qg6 {[%clk 0:11:00.9]} 24. f3 {[%clk 0:10:50.1]} 24... Qh5 {[%clk 0:09:18.6]} 25. Qe2 {[%clk 0:09:59.4]} 25... Bd6 {[%clk 0:08:42]} 26. g4 {[%clk 0:09:54.6]} 26... Qh3 {[%clk 0:08:04]} 27. Qg2 {[%clk 0:09:21.2]} 27... Qxg2+ {[%clk 0:07:07.2]} 28. Kxg2 {[%clk 0:09:31.1]} 28... Be5 {[%clk 0:07:15.8]} 29. Bc3 {[%clk 0:09:32.2]} 29... c6 {[%clk 0:05:12.8]} 30. Ne2 {[%clk 0:09:07.3]} 30... Bc7 {[%clk 0:05:20.5]} 31. h4 {[%clk 0:08:44.9]} 31... Kf7 {[%clk 0:05:19.4]} 32. h5 {[%clk 0:08:42.4]} 32... b5 {[%clk 0:03:49.3]} 33. Ng3 {[%clk 0:06:53.9]} 33... Rxd1 {[%clk 0:03:26.9]} 34. Rxd1 {[%clk 0:07:01.2]} 34... Be6 {[%clk 0:03:36.7]} 35. Nf5 {[%clk 0:05:15.8]} 35... Ra8 {[%clk 0:03:42.3]} 36. Rd2 {[%clk 0:05:24.3]} 36... Bf4 {[%clk 0:03:44.1]} 37. Rc2 {[%clk 0:05:28.4]} 37... g6 {[%clk 0:02:34]} 38. Ng3 {[%clk 0:03:36.4]} 38... c5 {[%clk 0:02:22.4]} 39. Ne2 {[%clk 0:02:54.5]} 39... Bd6 {[%clk 0:02:21.3]} 40. hxg6+ {[%clk 0:02:56.1]} 40... hxg6 {[%clk 0:02:29.1]} 41. Be1 {[%clk 0:03:05.4]} 41... b4 {[%clk 0:02:16.7]} 42. Bg3 {[%clk 0:03:10.9]} 42... Ke7 {[%clk 0:02:21.8]} 43. Bxd6+ {[%clk 0:02:53.9]} 43... Kxd6 {[%clk 0:02:31.7]} 44. Nf4 {[%clk 0:03:03.1]} 44... Bf7 {[%clk 0:02:36.5]} 45. Nd3 {[%clk 0:03:12.1]} 45... b6 {[%clk 0:02:40.1]} 46. f4 {[%clk 0:03:16.7]} 46... Ke7 {[%clk 0:02:29]} 47. g5 {[%clk 0:02:43.3]} 47... Be6 {[%clk 0:01:12.2]} 48. Kf3 {[%clk 0:01:14.5]} 48... Rh8 {[%clk 0:01:11.3]} 49. gxf6+ {[%clk 0:01:19.8]} 49... Kxf6 {[%clk 0:01:20.1]} 50. Nf2 {[%clk 0:01:29.2]} 50... Rd8 {[%clk 0:01:07.4]} 51. Ng4+ {[%clk 0:01:30.4]} 51... Bxg4+ {[%clk 0:01:08.1]} 52. Kxg4 {[%clk 0:01:40.3]} 52... Rd1 {[%clk 0:01:15.4]} 53. e5+ {[%clk 0:01:43.9]} 53... Ke6 {[%clk 0:01:18.5]} 54. Rg2 {[%clk 0:01:48.1]} 54... b5 {[%clk 0:01:03.9]} 55. Kg5 {[%clk 0:01:55.8]} 55... Rf1 {[%clk 0:01:12.3]} 56. Rc2 {[%clk 0:01:09.6]} 56... Rg1+ {[%clk 0:01:20.1]} 57. Kh6 {[%clk 0:01:18.8]} 57... Rg4 {[%clk 0:00:18]} 58. Rxc5 {[%clk 0:00:31.6]} 58... Rxf4 {[%clk 0:00:26.2]} 59. Rxb5 {[%clk 0:00:27.4]} 59... Rg4 {[%clk 0:00:33.6]} 60. Ra5 {[%clk 0:00:26.5]} 60... Rg2 {[%clk 0:00:38.9]} 61. Kg7 {[%clk 0:00:27.1]} 61... Rg3 {[%clk 0:00:29.9]} 62. Kh7 {[%clk 0:00:28.5]} 62... Rg2 {[%clk 0:00:37.6]} 63. Kh6 {[%clk 0:00:37.2]} 63... Rg3 {[%clk 0:00:26.2]} 64. Ra4 {[%clk 0:00:45.3]} 64... Rg2 {[%clk 0:00:34.3]} 65. Ra5 {[%clk 0:00:29]} 65... Rg3 {[%clk 0:00:42.3]} 66. Kg7 {[%clk 0:00:34.8]} 66... Rg2 {[%clk 0:00:50.6]} 67. Kh7 {[%clk 0:00:32.4]} 67... Rg3 {[%clk 0:00:58.8]} 68. Ra4 {[%clk 0:00:36.1]} 68... Rg2 {[%clk 0:01:06.1]} 69. Rxb4 {[%clk 0:00:40.9]} 69... Rxa2 {[%clk 0:01:13.9]} 70. Re4 {[%clk 0:00:46.6]} 70... Ra5 {[%clk 0:01:20.4]} 71. Kxg6 {[%clk 0:00:54.8]} 71... Rxe5 {[%clk 0:01:27.9]} 72. Rxe5+ {[%clk 0:01:04.7]} 72... Kxe5 {[%clk 0:01:36.5]} 73. Kh7 {[%clk 0:01:14]} 73... Kd4 {[%clk 0:01:44.7]} 74. b4 {[%clk 0:01:23.5]} 74... Kc4 {[%clk 0:01:53.3]} 75. Kh8 {[%clk 0:01:33.4]} 75... Kxb4 {[%clk 0:02:02]} 1/2-1/2\n",
+    "time_control": "1500+10",
+    "end_time": 1588947197,
+    "rated": false,
+    "accuracies": {
+      "white": 97.73821108841071,
+      "black": 98.01037596488052
+    },
+    "tcn": "mC0Kgv5QfH!Tlt9IHQZQblTZlA1Teg8!ks98tBKBsBI9feZPjr6Sdt7Zcj47adZ1AGS6GA6SAGS6GAQIAPWPtuIBvB1UnvUNum9RoENxmoxogoRKjsYQBmKYpF!1FNPHmw7ded6SwL84dlYDlk2ULwQIwmDRNU3UseHzew10wR0RmDS1DtXPvDR0EM1Sov4?MT0Ttn?7nESEvE7dCKTSkoPHEMdfokfgMVgEkIEDIHDEHGEoV2ow23wo3VowGywoyGowV2wo23owGywoyzoizCiG3UGKCKSKU3KBrzBA3?Az",
+    "uuid": "0691aca2-912c-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "7K/8/8/8/1k6/8/8/8 w - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2741,
+      "result": "insufficient",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2709,
+      "result": "insufficient",
+      "@id": "https://api.chess.com/pub/player/sergeykarjakin",
+      "username": "SergeyKarjakin",
+      "uuid": "f821a07e-3a3a-11e7-803a-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4827800818",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.08\"]\n[Round \"-\"]\n[White \"machupichu10\"]\n[Black \"GMWSO\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/4Qpk1/p3p2p/1p6/1P1q4/6PP/5K2/8 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Symmetrical-Variation\"]\n[UTCDate \"2020.05.08\"]\n[UTCTime \"15:00:49\"]\n[WhiteElo \"2599\"]\n[BlackElo \"2741\"]\n[TimeControl \"1500+10\"]\n[Termination \"GMWSO won by resignation\"]\n[StartTime \"15:00:49\"]\n[EndDate \"2020.05.08\"]\n[EndTime \"15:52:05\"]\n[Link \"https://www.chess.com/game/live/4827800818\"]\n\n1. d4 {[%clk 0:25:06.3]} 1... Nf6 {[%clk 0:25:08.2]} 2. Nf3 {[%clk 0:25:14.8]} 2... d5 {[%clk 0:25:14.7]} 3. c4 {[%clk 0:25:21.9]} 3... e6 {[%clk 0:25:23.7]} 4. Nc3 {[%clk 0:25:14.3]} 4... Be7 {[%clk 0:25:31.7]} 5. Bg5 {[%clk 0:25:04.9]} 5... h6 {[%clk 0:25:39.8]} 6. Bh4 {[%clk 0:25:07]} 6... dxc4 {[%clk 0:25:48.1]} 7. e3 {[%clk 0:25:05.9]} 7... c5 {[%clk 0:25:55.8]} 8. Bxc4 {[%clk 0:25:11.1]} 8... cxd4 {[%clk 0:26:03.6]} 9. Nxd4 {[%clk 0:24:12.4]} 9... Bd7 {[%clk 0:26:08.7]} 10. O-O {[%clk 0:24:09.2]} 10... O-O {[%clk 0:26:15.3]} 11. Qe2 {[%clk 0:23:32.9]} 11... Nc6 {[%clk 0:26:19.9]} 12. Rfd1 {[%clk 0:23:41.8]} 12... Qb6 {[%clk 0:26:02.7]} 13. Bg3 {[%clk 0:20:57.2]} 13... Nxd4 {[%clk 0:25:33.5]} 14. Rxd4 {[%clk 0:21:03]} 14... Rfd8 {[%clk 0:25:32.4]} 15. Rad1 {[%clk 0:20:23.6]} 15... Bc6 {[%clk 0:25:25.9]} 16. h3 {[%clk 0:17:46.7]} 16... Rxd4 {[%clk 0:24:14.9]} 17. Rxd4 {[%clk 0:17:53.4]} 17... Rd8 {[%clk 0:24:23.7]} 18. Rxd8+ {[%clk 0:17:43.7]} 18... Qxd8 {[%clk 0:24:33.6]} 19. Bb5 {[%clk 0:17:47.8]} 19... Qd7 {[%clk 0:24:21.9]} 20. Bxc6 {[%clk 0:17:47]} 20... Qxc6 {[%clk 0:24:31.8]} 21. Qd3 {[%clk 0:17:55.2]} 21... a6 {[%clk 0:23:43]} 22. Bh4 {[%clk 0:17:10.9]} 22... b5 {[%clk 0:23:02.6]} 23. b3 {[%clk 0:15:57.1]} 23... g5 {[%clk 0:20:39.3]} 24. Bg3 {[%clk 0:16:03.8]} 24... Nd7 {[%clk 0:20:47.6]} 25. Ne2 {[%clk 0:15:39.3]} 25... Nc5 {[%clk 0:20:26.7]} 26. Qd4 {[%clk 0:10:48]} 26... Ne4 {[%clk 0:16:28.5]} 27. f3 {[%clk 0:09:03.3]} 27... Nxg3 {[%clk 0:15:56.9]} 28. Nxg3 {[%clk 0:09:11.6]} 28... Qc1+ {[%clk 0:16:06.3]} 29. Kh2 {[%clk 0:09:18.2]} 29... Qc7 {[%clk 0:16:10.8]} 30. f4 {[%clk 0:09:11.7]} 30... Bc5 {[%clk 0:16:18.2]} 31. Qc3 {[%clk 0:04:51.1]} 31... gxf4 {[%clk 0:15:51.3]} 32. Ne4 {[%clk 0:04:21.5]} 32... fxe3+ {[%clk 0:15:55.4]} 33. g3 {[%clk 0:04:11]} 33... Bd6 {[%clk 0:14:30.4]} 34. Qxe3 {[%clk 0:01:00.2]} 34... Qc2+ {[%clk 0:14:33.7]} 35. Kh1 {[%clk 0:00:54.2]} 35... Qb1+ {[%clk 0:13:58.5]} 36. Kg2 {[%clk 0:01:00.9]} 36... Qxa2+ {[%clk 0:14:06.8]} 37. Kf3 {[%clk 0:01:07.6]} 37... Be7 {[%clk 0:14:12.7]} 38. Qc3 {[%clk 0:01:01.9]} 38... Qb1 {[%clk 0:13:28.3]} 39. Qc8+ {[%clk 0:00:41.2]} 39... Kh7 {[%clk 0:13:31]} 40. Qe8 {[%clk 0:00:34.9]} 40... Qd3+ {[%clk 0:13:19.3]} 41. Kf2 {[%clk 0:00:34]} 41... Kg7 {[%clk 0:13:23.1]} 42. Qxe7 {[%clk 0:00:11]} 42... Qxe4 {[%clk 0:13:30.1]} 43. b4 {[%clk 0:00:17.4]} 43... Qd4+ {[%clk 0:13:16.4]} 0-1\n",
+    "time_control": "1500+10",
+    "end_time": 1588953125,
+    "rated": false,
+    "accuracies": {
+      "white": 94.73450221231589,
+      "black": 98.48842244577628
+    },
+    "tcn": "lB!TgvZJkA0Sbs90cM3VMFJAmuYIfAIBvB6Zeg8!dm5Qfd7PFwQBdB97adZQpx7BdB47B7P7AH7ZHQZQmtWOwFXHjr2MFwTZsmZItBICnvCwmwQcgpcYvD0IBsMDwCDuowIRsuYkphkbhobiovR0usibs6!368btvn3280tCrzCB",
+    "uuid": "b82243bd-913c-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/4Qpk1/p3p2p/1p6/1P1q4/6PP/5K2/8 w - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2599,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/machupichu10",
+      "username": "machupichu10",
+      "uuid": "32fc4de6-7b97-11e7-8006-000000000000"
+    },
+    "black": {
+      "rating": 2741,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828471168",
+    "time_control": "180",
+    "end_time": 1588960184,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "3c2920f0-9154-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2458,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/x-7351414614",
+      "username": "x-7351414614",
+      "uuid": "e5f3fdb0-1887-11e5-8024-000000000000"
+    },
+    "black": {
+      "rating": 2378,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828491608",
+    "time_control": "180",
+    "end_time": 1588960454,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "ec2bdf48-9154-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1916,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/antoyo",
+      "username": "antoyo",
+      "uuid": "ba64c284-82ef-11df-804e-000000000000"
+    },
+    "black": {
+      "rating": 2378,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828492473",
+    "time_control": "180",
+    "end_time": 1588960518,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0Sgv=zfHYQJQXQHmzsls7dmd9R=KRKvK8!-0!?cM=VMT2TKE=20696eg5Z=XTLX{64Eu",
+    "uuid": "f3d8e6f5-9154-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6k/p2n1ppp/2p1p2p/5p2/8/2P1N3/PPP2PPP/R2B1RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2471,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/x-7351414614",
+      "username": "x-7351414614",
+      "uuid": "e5f3fdb0-1887-11e5-8024-000000000000"
+    },
+    "black": {
+      "rating": 2370,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828496805",
+    "time_control": "180",
+    "end_time": 1588960585,
+    "rated": true,
+    "tcn": "lB!TowZJfo6Lpx0Sgv90bsTCeg5ZcD0RvKRKBK8!sCJC-V2VdZ+2Z747=T-UT2!2-N2?DV9!=2!2V2?!-V",
+    "uuid": "194aee4a-9155-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3r2k1/ppp2pBp/4p1nN/4Pb1N/4p3/6PP/PPP1PPB1/R4RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2378,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2463,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/x-7351414614",
+      "username": "x-7351414614",
+      "uuid": "e5f3fdb0-1887-11e5-8024-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828500785",
+    "time_control": "180",
+    "end_time": 1588960705,
+    "rated": true,
+    "tcn": "lB!Tbs0SmCZJCJTJgv5QfH6Zeg90HQZQvKJsKQsdQ7=mfe=v+C47Cv+f-N-FN2892S1S=292-N21-K",
+    "uuid": "3d404108-9155-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3r3r/ppp1bk1p/4p3/4N2N/3P3n/5B2/PPP1pPPP/R1BnRbK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2382,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2146,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/malina0",
+      "username": "Malina0",
+      "uuid": "cb9cd948-d4ba-11e9-8301-efe612f26fa0"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828510634",
+    "time_control": "180",
+    "end_time": 1588960817,
+    "rated": true,
+    "tcn": "lB!TbsZJcM6EpxENgv0S=K=0muTCfH+QHQ5QsCJC-DCvov=TDNTM+VQKV2=o&po}ph",
+    "uuid": "9387ce39-9155-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2qkb1r/ppp1ppBp/4p3/4n1pN/3P4/4PP1P/PPP2P2/R2QK2Q b KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2371,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2255,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vegaz11",
+      "username": "vegaz11",
+      "uuid": "98b086d8-710b-11e3-8062-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828518381",
+    "time_control": "180",
+    "end_time": 1588961038,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SJS6SlB9zgv8!fmTCdt+U=VCstszsjs2VcV=2V2!2pF-EFN*V+M7MvMVNhNUN=V2VM191=MV2-829*?-!?!9!*7&gmfgnedEu",
+    "uuid": "d6e04190-9155-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1RN1k1/ppp2r1p/4b3/6Pb/3P4/2P1n3/P1P2qP1/R2K1B2 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2125,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/scholasticchess",
+      "username": "ScholasticChess",
+      "uuid": "1c77308c-2a10-11e7-8056-000000000000"
+    },
+    "black": {
+      "rating": 2375,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828531593",
+    "time_control": "180",
+    "end_time": 1588961266,
+    "rated": true,
+    "tcn": "lB!Tow0Sfo90px5QgvZRbs8!egTJmCJsjsRJCK1TKT0T-ESKBK6ExEQKvKTKdJ7JoJ=1-vKs-0!?=V=mclm}af=mlsm}gf=mfm-cmd+mdc+qclqclm=tkt*kmdcVdk97+B7RB2V2s2?20L29*?",
+    "uuid": "4ab3be4a-9156-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4k1R/ppp2p1p/3r4/3B1N2/6P1/3P1NP1/P1K2P2/8 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2381,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2326,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/lordofthedoorknobs",
+      "username": "LordOfTheDoorknobs",
+      "uuid": "63ea8ea4-017e-11e9-8060-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828547112",
+    "time_control": "180",
+    "end_time": 1588961392,
+    "rated": true,
+    "tcn": "lB!TgvZJcD6Lmu0Sbl9ziqzlvl8!pF3Nft5QtLSL=V2VDV-E=M+?MTEV=3!3-M3U=27T2}9?dNU2+KQKBKTK-ZKj+TjTZT+sTJslef+AfgAJ",
+    "uuid": "d38e6217-9156-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r6r/ppp2pk1/7n/3b1pNQ/7P/P3P3/2Pb1PP1/R5KR w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2336,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/lordofthedoorknobs",
+      "username": "LordOfTheDoorknobs",
+      "uuid": "63ea8ea4-017e-11e9-8060-000000000000"
+    },
+    "black": {
+      "rating": 2371,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4828555769",
+    "time_control": "180",
+    "end_time": 1588961509,
+    "rated": true,
+    "tcn": "lB!Tow0Sfo90pxZJgv5QbsTCeg3NvKQKBKCsjs=EnvExox+LxLSL-D0MdJMDJ787cD-xgpxD+M=0ad6ZMD-EvENE+F+Q=o=xKS1SDY76YD+YdZQZ",
+    "uuid": "1f53819d-9157-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1k4r/ppbbp1p1/4p3/5p2/5BpB/2P3Pp/P1P1P1PK/5R2 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2361,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2346,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/lordofthedoorknobs",
+      "username": "LordOfTheDoorknobs",
+      "uuid": "63ea8ea4-017e-11e9-8060-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831648427",
+    "time_control": "180",
+    "end_time": 1589025307,
+    "rated": true,
+    "tcn": "lB0KowKBfo5Qgv9zksBsjszIegZJpx!TvM-C=BCMcMI0+FTCM0Q0-N?!=T2ToC0UNT7TFTJC-J*Z+y=QTM=0-T0TJT87T!=0=T0TMT-0+M-J!0J0=2&8T0Z0=T0S-0U0T0S0M070-F=pgp+UFU3UBJ+SJRYR",
+    "uuid": "64d53e2d-91eb-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1q3/pp2kpP1/2ppb1p1/8/B3p3/2P3PP/P3PP1K/RN1Q1R2 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2371,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2273,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/munchinmeiji",
+      "username": "MunchinMeiji",
+      "uuid": "b392f2be-5bf7-11ea-bbbd-e3ef628f350f"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831665204",
+    "time_control": "180",
+    "end_time": 1589025566,
+    "rated": true,
+    "tcn": "lB0Sgv5Qow!TfoZJpxTCbs9zegzsjsCsde=C-N+TesCvsv+CNT2TvE=2E2-U2?U?=2&!2]!?=2?2-NCoN289&?+!go=C+N=vmvCvNv=C+q7RvNRqcq-RqRYR=m6Z-Y462SZS=290YS",
+    "uuid": "21fd01c4-91ec-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2r3bQ/pp2kpPp/2npNp2/3p3B/3Pp3/6PP/P1P1PPK1/R4R2 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2375,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2190,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831674359",
+    "time_control": "180",
+    "end_time": 1589025658,
+    "rated": true,
+    "tcn": "mC!TfAZJCKJAKT0Tgv=Edm90vB7B=uB7-N?!lt+UNDAtkt-Fhg=vovFvmvEvDU3U=3!?+!-K-AKtel-Clktzkr7tbstkrqzt-RCRjzRA",
+    "uuid": "893320c9-91ec-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnb1k1Br/ppp1bppP/5pp1/8/1Pn5/K1NnPp2/P1q2P1P/R1B3R1 w q -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2186,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    },
+    "black": {
+      "rating": 2379,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831679596",
+    "time_control": "180",
+    "end_time": 1589025757,
+    "rated": true,
+    "tcn": "lB0Sow5Qfo!TpxZJgv=CbsCvmvTCvCJCsCQB=m-Keg+U+FUCoC=McM90M0Bvmv7dad-mgp=T0T2TFT+0-289&8",
+    "uuid": "bfe61e7e-91ec-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b1Qk1r/ppp1bpNp/4pB2/4n3/4B3/5PPP/PPP1nP1K/3R1R2 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2383,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2182,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831685889",
+    "time_control": "180",
+    "end_time": 1589025883,
+    "rated": true,
+    "tcn": "lB!TcDZRmu6Lgv0Sbl90ft8!tLSL=V2VDVTEV909=M=2+F-UpxUFxEFoefLElC+U+TUCT7Ev=mvmdm=v-T2T-V",
+    "uuid": "0529e6aa-91ed-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn1B1bk1/ppp2p1p/3p1p1N/6P1/3Pb3/4Pp2/PPP1QPn1/R4K1R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2179,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    },
+    "black": {
+      "rating": 2386,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831691908",
+    "time_control": "180",
+    "end_time": 1589025976,
+    "rated": true,
+    "tcn": "lBZJbs!TcM5QmC6EfmJCmETEdEQBec+SEC+TMT0TdB=JsJ9R+y=QJT7TyQXQCQ+ZQ4*747T7gm=q",
+    "uuid": "483d3961-91ed-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3qk2r/p1pb1ppp/3bb3/8/3R4/p7/PPP1NPPP/2K4R w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2389,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2176,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831697021",
+    "time_control": "180",
+    "end_time": 1589026131,
+    "rated": true,
+    "tcn": "lB!TcDZRmu6Lgv0Sbl90ft8!tLSLpFTNDM5QM0Q0vMNTFN-EM191+S+JSJ0J+S+8+U70U181S101-MEnM1nd-V2V1V!?=2?2VL2!+S=1LV!9*?90VL0SL2SZ=S1SedJudc4?&1*0",
+    "uuid": "7f54c59b-91ed-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "7r/pppkrQNp/3ppn2/7P/3P4/4n3/PPPN2P1/R1K4R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2173,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    },
+    "black": {
+      "rating": 2392,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831705245",
+    "time_control": "180",
+    "end_time": 1589026217,
+    "rated": true,
+    "tcn": "lB0Sow5Qfo9zbs!TgvZJegzsjsTCpx-LvKQKBKCwnwLwfvwC+e=nenCnvn-CoCJCd787cM=TKT*wnowMoM2Tad6Z=2?82~",
+    "uuid": "dabae749-91ed-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2kr1Q1/pppb1p1p/4pp2/6R1/4p3/2P4P/P1P1P3/3R2K1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2395,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2170,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/chebanenkoslav",
+      "username": "chebanenkoslav",
+      "uuid": "9e7bc30e-1f7a-11e7-8054-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4831880251",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"AnishGiri\"]\n[Result \"1/2-1/2\"]\n[CurrentPosition \"r5k1/5pb1/6p1/1R5p/8/4BP2/P4P1P/5K2 w - h6\"]\n[Timezone \"UTC\"]\n[ECO \"D85\"]\n[ECOUrl \"https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation...9.Qd2-cxd4-10.cxd4-Qxd2\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"13:01:05\"]\n[WhiteElo \"2741\"]\n[BlackElo \"2731\"]\n[TimeControl \"1500+10\"]\n[Termination \"Game drawn by agreement\"]\n[StartTime \"13:01:05\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"13:57:22\"]\n[Link \"https://www.chess.com/game/live/4831880251\"]\n\n1. d4 {[%clk 0:25:05.1]} 1... Nf6 {[%clk 0:24:59.4]} 2. c4 {[%clk 0:25:11.1]} 2... g6 {[%clk 0:25:04.4]} 3. Nc3 {[%clk 0:23:50.9]} 3... d5 {[%clk 0:25:12.5]} 4. cxd5 {[%clk 0:23:58.8]} 4... Nxd5 {[%clk 0:25:22.4]} 5. e4 {[%clk 0:24:08.1]} 5... Nxc3 {[%clk 0:25:31.4]} 6. bxc3 {[%clk 0:24:18]} 6... Bg7 {[%clk 0:25:40.5]} 7. Be3 {[%clk 0:24:27.4]} 7... c5 {[%clk 0:25:47.5]} 8. Rc1 {[%clk 0:24:33.1]} 8... Qa5 {[%clk 0:25:24.9]} 9. Qd2 {[%clk 0:24:40.1]} 9... cxd4 {[%clk 0:25:32.3]} 10. cxd4 {[%clk 0:24:46.4]} 10... Qxd2+ {[%clk 0:25:41.6]} 11. Kxd2 {[%clk 0:24:54.7]} 11... O-O {[%clk 0:25:46.1]} 12. Nf3 {[%clk 0:24:55.3]} 12... Nc6 {[%clk 0:24:46]} 13. d5 {[%clk 0:24:44.7]} 13... Rd8 {[%clk 0:24:52.1]} 14. Ke1 {[%clk 0:23:41.3]} 14... Na5 {[%clk 0:21:41.4]} 15. Bg5 {[%clk 0:23:28.4]} 15... Bd7 {[%clk 0:17:13]} 16. Bd3 {[%clk 0:23:35]} 16... Rdc8 {[%clk 0:16:44.9]} 17. Ke2 {[%clk 0:23:38.8]} 17... e6 {[%clk 0:16:51.7]} 18. Bd2 {[%clk 0:22:36.6]} 18... exd5 {[%clk 0:15:39.1]} 19. exd5 {[%clk 0:21:17.2]} 19... b6 {[%clk 0:14:11.6]} 20. Ba6 {[%clk 0:20:10.4]} 20... Re8+ {[%clk 0:11:44]} 21. Be3 {[%clk 0:20:14.9]} 21... Ba4 {[%clk 0:11:16.9]} 22. Rc7 {[%clk 0:18:24.2]} 22... Rad8 {[%clk 0:08:13.1]} 23. Rxa7 {[%clk 0:10:02.5]} 23... Rxd5 {[%clk 0:07:02.1]} 24. Rc1 {[%clk 0:10:07.7]} 24... Nc6 {[%clk 0:05:55.8]} 25. Bc4 {[%clk 0:06:21.9]} 25... Bb5 {[%clk 0:03:14.6]} 26. Rc7 {[%clk 0:06:10.7]} 26... Nd4+ {[%clk 0:02:37.1]} 27. Kf1 {[%clk 0:03:53.3]} 27... Nxf3 {[%clk 0:01:53.8]} 28. gxf3 {[%clk 0:04:03.2]} 28... Bxc4+ {[%clk 0:00:36.2]} 29. R1xc4 {[%clk 0:04:13.1]} 29... b5 {[%clk 0:00:34.9]} 30. Rc8 {[%clk 0:03:55.9]} 30... Rdd8 {[%clk 0:00:38.4]} 31. Rxd8 {[%clk 0:04:03.7]} 31... Rxd8 {[%clk 0:00:48.3]} 32. Rb4 {[%clk 0:04:12]} 32... Ra8 {[%clk 0:00:49.7]} 33. Rxb5 {[%clk 0:04:20.6]} 33... h5 {[%clk 0:00:49.9]} 1/2-1/2\n",
+    "time_control": "1500+10",
+    "end_time": 1589032642,
+    "rated": false,
+    "accuracies": {
+      "white": 97.88720614857222,
+      "black": 97.45125284828453
+    },
+    "tcn": "lB!TkA2UbsZJAJTJmCJsjs92cuYIac7GdlIBsBGlel8!gv5QBJ97leQGuM6Zft76em0SMlSJCJXPtO68luZycY47YW7JhcGQOAyHWYQBmfBvovHAcAPHY6J76787Az74zH3N",
+    "uuid": "272fa3f9-91f5-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r5k1/5pb1/6p1/1R5p/8/4BP2/P4P1P/5K2 w - h6",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2741,
+      "result": "agreed",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2731,
+      "result": "agreed",
+      "@id": "https://api.chess.com/pub/player/anishgiri",
+      "username": "AnishGiri",
+      "uuid": "4362c2ba-f29f-11e4-804e-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4832325760",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"chesspanda123\"]\n[Black \"GMWSO\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/2R2pkp/1p4p1/3p4/3P1n2/1PK1rP2/2BQ2PP/2q5 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C67\"]\n[ECOUrl \"https://www.chess.com/openings/Ruy-Lopez-Opening-Berlin-Rio-Gambit-Accepted...11.c3-Rxe1-12.Qxe1-Ne8\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"15:01:19\"]\n[WhiteElo \"2738\"]\n[BlackElo \"2741\"]\n[TimeControl \"1500+10\"]\n[Termination \"GMWSO won by resignation\"]\n[StartTime \"15:01:19\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"16:04:35\"]\n[Link \"https://www.chess.com/game/live/4832325760\"]\n\n1. e4 {[%clk 0:25:07.7]} 1... e5 {[%clk 0:25:08.1]} 2. Nf3 {[%clk 0:25:14]} 2... Nc6 {[%clk 0:25:16.6]} 3. Bb5 {[%clk 0:25:21.7]} 3... Nf6 {[%clk 0:25:21.3]} 4. O-O {[%clk 0:25:29.8]} 4... Nxe4 {[%clk 0:25:29.6]} 5. Re1 {[%clk 0:25:36.6]} 5... Nd6 {[%clk 0:25:36.5]} 6. Nxe5 {[%clk 0:25:45.5]} 6... Be7 {[%clk 0:25:45.6]} 7. Bf1 {[%clk 0:25:53.9]} 7... Nxe5 {[%clk 0:25:50]} 8. Rxe5 {[%clk 0:26:02.2]} 8... O-O {[%clk 0:25:59.9]} 9. d4 {[%clk 0:26:07.1]} 9... Bf6 {[%clk 0:26:04]} 10. Re1 {[%clk 0:25:34.1]} 10... Re8 {[%clk 0:26:06.1]} 11. c3 {[%clk 0:25:17.7]} 11... Rxe1 {[%clk 0:25:58.3]} 12. Qxe1 {[%clk 0:25:26.1]} 12... Ne8 {[%clk 0:25:34.3]} 13. a4 {[%clk 0:25:29.6]} 13... d5 {[%clk 0:25:25.6]} 14. a5 {[%clk 0:25:36.5]} 14... Nd6 {[%clk 0:24:15.6]} 15. Bf4 {[%clk 0:24:33.8]} 15... Bf5 {[%clk 0:24:14.9]} 16. Nd2 {[%clk 0:24:40]} 16... Bg5 {[%clk 0:24:21.5]} 17. Qe3 {[%clk 0:23:56.7]} 17... Bxf4 {[%clk 0:24:06.7]} 18. Qxf4 {[%clk 0:24:04.8]} 18... Qd7 {[%clk 0:23:47.7]} 19. Nb3 {[%clk 0:20:51]} 19... Re8 {[%clk 0:18:42.6]} 20. Nc5 {[%clk 0:20:56.1]} 20... Qc8 {[%clk 0:18:45.5]} 21. a6 {[%clk 0:20:30.3]} 21... b6 {[%clk 0:18:53]} 22. Nb7 {[%clk 0:20:37.3]} 22... Ne4 {[%clk 0:18:46.9]} 23. Re1 {[%clk 0:20:23]} 23... Bd7 {[%clk 0:18:11.5]} 24. c4 {[%clk 0:14:08.9]} 24... Nf6 {[%clk 0:14:52.8]} 25. Rc1 {[%clk 0:08:00.4]} 25... Bc6 {[%clk 0:14:21.4]} 26. c5 {[%clk 0:08:02.1]} 26... Re4 {[%clk 0:10:15.3]} 27. Qg3 {[%clk 0:07:31]} 27... Bxb7 {[%clk 0:10:24.1]} 28. cxb6 {[%clk 0:07:28.8]} 28... Bxa6 {[%clk 0:10:29.1]} 29. Rxc7 {[%clk 0:06:39.1]} 29... Qe8 {[%clk 0:08:59.9]} 30. Bxa6 {[%clk 0:06:46.5]} 30... Re1+ {[%clk 0:07:54]} 31. Bf1 {[%clk 0:06:54.4]} 31... axb6 {[%clk 0:07:36.4]} 32. Qd3 {[%clk 0:05:27.1]} 32... g6 {[%clk 0:06:27.4]} 33. f3 {[%clk 0:05:11.8]} 33... Qa4 {[%clk 0:05:57.2]} 34. Kf2 {[%clk 0:03:37.9]} 34... Rd1 {[%clk 0:05:48.3]} 35. Qc3 {[%clk 0:03:15.9]} 35... Kg7 {[%clk 0:04:39.8]} 36. Bd3 {[%clk 0:02:08.7]} 36... Rh1 {[%clk 0:03:16.6]} 37. b3 {[%clk 0:01:33.9]} 37... Qa2+ {[%clk 0:03:17.3]} 38. Bc2 {[%clk 0:01:41.8]} 38... Qa3 {[%clk 0:02:57.8]} 39. Qe3 {[%clk 0:00:43]} 39... Qa1 {[%clk 0:02:46.3]} 40. Kg3 {[%clk 0:00:41.5]} 40... Re1 {[%clk 0:02:20.2]} 41. Qc3 {[%clk 0:00:40.5]} 41... Nh5+ {[%clk 0:01:31.1]} 42. Kf2 {[%clk 0:00:44.7]} 42... Rf1+ {[%clk 0:01:30.1]} 43. Ke3 {[%clk 0:00:42.3]} 43... Qc1+ {[%clk 0:01:37.5]} 44. Qd2 {[%clk 0:00:36.3]} 44... Re1+ {[%clk 0:01:38.9]} 45. Kd3 {[%clk 0:00:37.6]} 45... Nf4+ {[%clk 0:01:46.9]} 46. Kc3 {[%clk 0:00:46.8]} 46... Re3+ {[%clk 0:01:55.1]} 0-1\n",
+    "time_control": "1500+10",
+    "end_time": 1589040275,
+    "rated": false,
+    "accuracies": {
+      "white": 96.79066814631616,
+      "black": 98.9028150179078
+    },
+    "tcn": "mC0Kgv5QfH!TegTCfeCRvK90HfQKeK8!lB0TKe98ks8edeR8iyZJyG8RcD6LblTMeuMDuD7Zlr48rIZ6GOXPIXRCaeLZsACTecZQAI8CDwQXIPXOcY68fOCeOfWPwt2Unv8ygnedts!2ftdhjryitkiqsuqanwheusTNwnefnuacslfeutNDtseu",
+    "uuid": "ec0eb5b4-9205-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "8/2R2pkp/1p4p1/3p4/3P1n2/1PK1rP2/2BQ2PP/2q5 w - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2738,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/chesspanda123",
+      "username": "chesspanda123",
+      "uuid": "771115f2-e2bf-11e4-802a-000000000000"
+    },
+    "black": {
+      "rating": 2741,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834218384",
+    "time_control": "180",
+    "end_time": 1589065793,
+    "rated": true,
+    "tcn": "lB!TnvZJmu6Lbs0SfH5Zgm9zeg8!mwLUHZTZ=N=FNU1Uwm+R+x70=KZKBKRKvDKsjszR+E-LmB-V=MVExE-wBL",
+    "uuid": "0947b15c-924a-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4rk1/ppp1q1pp/3bp1p1/3p1NP1/5PBp/2P1P1n1/P1P3PP/R1BQ1RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2162,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/pumpedhose",
+      "username": "PumpedHose",
+      "uuid": "c2aa5dc0-8c6a-11ea-a840-6fa2b49942f6"
+    },
+    "black": {
+      "rating": 2383,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834237299",
+    "time_control": "180",
+    "end_time": 1589066404,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SfHYQJQXQHm9IgvInenTEng=ngf8!=xEphp=wphQI+K-L=CLBKwBmdm6OltIA=HAtkt-NcD=MvMNwDw7M+D+NDMNmfmOHsH5Qwn+K-vKjab=qbjqj+T+?vK-cMcj~KQbk&l-Dmv3VQ0!3lk2TcD=U0U1UDV-Kvm3V&F",
+    "uuid": "ebc78c95-924a-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r4r1b/p7/4pppk/1N2n3/4P2Q/3P3P/P1Q1KBP1/7R b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2192,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/hagakure-warrior",
+      "username": "hagakure-warrior",
+      "uuid": "bec621b6-bd2f-11e6-8024-000000000000"
+    },
+    "black": {
+      "rating": 2386,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834252423",
+    "time_control": "180",
+    "end_time": 1589066585,
+    "rated": true,
+    "tcn": "lBZJgv5Qow!TpxTCbsCnen=z-Mzsjs+U-F-CMCJCvM0KFU3UMCKBsB7BdBQB-T2TCT80-J0RcDRQ&A9IJzQPTJPGAI-HDYXPYPWP",
+    "uuid": "a0ac2471-924b-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b4r/5p2/1p4p1/knQN4/1N1n4/6PP/P1P1PK2/R4B1R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2389,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2189,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/hagakure-warrior",
+      "username": "hagakure-warrior",
+      "uuid": "bec621b6-bd2f-11e6-8024-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834262083",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"promen1999\"]\n[Result \"1-0\"]\n[CurrentPosition \"6k1/R7/8/8/7P/p5K1/r5P1/8 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"E40\"]\n[ECOUrl \"https://www.chess.com/openings/Nimzo-Indian-Defense-Normal-Line-4...Bxc3-5.bxc3-c5-6.Bd3\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"23:23:11\"]\n[WhiteElo \"3088\"]\n[BlackElo \"2856\"]\n[TimeControl \"180\"]\n[Termination \"GMWSO won on time\"]\n[StartTime \"23:23:11\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"23:29:26\"]\n[Link \"https://www.chess.com/game/live/4834262083\"]\n\n1. d4 {[%clk 0:02:59.8]} 1... Nf6 {[%clk 0:02:59.4]} 2. c4 {[%clk 0:02:54.6]} 2... e6 {[%clk 0:02:58.7]} 3. Nc3 {[%clk 0:02:52.4]} 3... Bb4 {[%clk 0:02:57.8]} 4. e3 {[%clk 0:02:47.8]} 4... Bxc3+ {[%clk 0:02:56.8]} 5. bxc3 {[%clk 0:02:46.5]} 5... c5 {[%clk 0:02:56.6]} 6. Bd3 {[%clk 0:02:44.5]} 6... d6 {[%clk 0:02:56.3]} 7. Ne2 {[%clk 0:02:43.7]} 7... Nc6 {[%clk 0:02:56]} 8. O-O {[%clk 0:02:42.6]} 8... h6 {[%clk 0:02:55.3]} 9. e4 {[%clk 0:02:41.5]} 9... e5 {[%clk 0:02:54.8]} 10. f4 {[%clk 0:02:36.9]} 10... cxd4 {[%clk 0:02:51.2]} 11. cxd4 {[%clk 0:02:36.8]} 11... exd4 {[%clk 0:02:50.6]} 12. h3 {[%clk 0:02:34]} 12... O-O {[%clk 0:02:49]} 13. Bb2 {[%clk 0:02:29.7]} 13... Re8 {[%clk 0:02:47.9]} 14. Ng3 {[%clk 0:02:22]} 14... Be6 {[%clk 0:02:43.6]} 15. Rc1 {[%clk 0:02:07.1]} 15... Rc8 {[%clk 0:02:42.8]} 16. Re1 {[%clk 0:02:01.8]} 16... Qb6 {[%clk 0:02:22.2]} 17. Ba3 {[%clk 0:01:57]} 17... Na5 {[%clk 0:02:12.1]} 18. Qa4 {[%clk 0:01:53.1]} 18... Qa6 {[%clk 0:01:54.8]} 19. Bxd6 {[%clk 0:01:41]} 19... Bxc4 {[%clk 0:01:43]} 20. Bxc4 {[%clk 0:01:39.1]} 20... Rxc4 {[%clk 0:01:25.5]} 21. Bb4 {[%clk 0:01:30.3]} 21... Qb6 {[%clk 0:01:05.1]} 22. Nh5 {[%clk 0:01:15.6]} 22... d3+ {[%clk 0:00:54]} 23. Kh2 {[%clk 0:01:14]} 23... Rexe4 {[%clk 0:00:47.6]} 24. Rxe4 {[%clk 0:00:57.7]} 24... Rxe4 {[%clk 0:00:46.8]} 25. Qxa5 {[%clk 0:00:56.8]} 25... Nxh5 {[%clk 0:00:22.2]} 26. Qxh5 {[%clk 0:00:56.1]} 26... Rxb4 {[%clk 0:00:18]} 27. Rc8+ {[%clk 0:00:54.8]} 27... Kh7 {[%clk 0:00:17.6]} 28. Qxf7 {[%clk 0:00:54.3]} 28... Qf6 {[%clk 0:00:13.6]} 29. Qg8+ {[%clk 0:00:47.6]} 29... Kg6 {[%clk 0:00:13.1]} 30. Qe8+ {[%clk 0:00:47]} 30... Qf7 {[%clk 0:00:11.9]} 31. f5+ {[%clk 0:00:40.8]} 31... Kf6 {[%clk 0:00:11.4]} 32. Qd8+ {[%clk 0:00:39.7]} 32... Qe7 {[%clk 0:00:09.3]} 33. Qxd3 {[%clk 0:00:29.6]} 33... Qe5+ {[%clk 0:00:08.6]} 34. Qg3 {[%clk 0:00:29.5]} 34... Qxg3+ {[%clk 0:00:08]} 35. Kxg3 {[%clk 0:00:29.4]} 35... Kxf5 {[%clk 0:00:07.6]} 36. Rc7 {[%clk 0:00:28.9]} 36... g5 {[%clk 0:00:06.8]} 37. Rf7+ {[%clk 0:00:27.4]} 37... Kg6 {[%clk 0:00:05.9]} 38. Rd7 {[%clk 0:00:26.9]} 38... Ra4 {[%clk 0:00:05.5]} 39. Rxb7 {[%clk 0:00:25.4]} 39... Ra3+ {[%clk 0:00:05.2]} 40. Kh2 {[%clk 0:00:23.7]} 40... Rxa2 {[%clk 0:00:05.1]} 41. Rc7 {[%clk 0:00:22.9]} 41... Kf6 {[%clk 0:00:04.4]} 42. Rc6+ {[%clk 0:00:22.2]} 42... Ke5 {[%clk 0:00:04.3]} 43. Rxh6 {[%clk 0:00:21.2]} 43... a5 {[%clk 0:00:04.2]} 44. Rg6 {[%clk 0:00:20.7]} 44... Kf5 {[%clk 0:00:04.1]} 45. Rc6 {[%clk 0:00:19.7]} 45... g4 {[%clk 0:00:04]} 46. Rc5+ {[%clk 0:00:19.2]} 46... Kf4 {[%clk 0:00:03.5]} 47. Rc4+ {[%clk 0:00:18.5]} 47... Ke3 {[%clk 0:00:03.4]} 48. Rxg4 {[%clk 0:00:18.1]} 48... a4 {[%clk 0:00:03.3]} 49. Rg3+ {[%clk 0:00:17.4]} 49... Kf4 {[%clk 0:00:02.5]} 50. Rf3+ {[%clk 0:00:16.7]} 50... Kg5 {[%clk 0:00:01.5]} 51. Kg3 {[%clk 0:00:15.9]} 51... a3 {[%clk 0:00:01.4]} 52. h4+ {[%clk 0:00:15.2]} 52... Kh6 {[%clk 0:00:00.6]} 53. Rf6+ {[%clk 0:00:13.9]} 53... Kh7 {[%clk 0:00:00.5]} 54. Rf7+ {[%clk 0:00:13]} 54... Kg8 {[%clk 0:00:00.1]} 55. Ra7 {[%clk 0:00:12.7]} 1-0\n",
+    "time_control": "180",
+    "end_time": 1589066966,
+    "rated": true,
+    "accuracies": {
+      "white": 93.80748693693263,
+      "black": 83.13007625007403
+    },
+    "tcn": "lB!TkA0Sbs9zmuzsjsYIftZRgm5Qeg3VuCSKnDIBsBKBpx8!cj98mw6Sac46fe7PjqQGdyPOqRSAtA6ARzOPwNBtgp8CeCACyGTNGNCzc6!3N1PT1!3U!8T1DLUT87107t0KtwKwpwTL6Y2MY1LU1ZzyZXyqwpqiXYUTYQTKQVWGVUKLUQMEQILDIADuAEGyEwuDwvDMpwyqxFMVvTV3T13!1W",
+    "uuid": "15aefadc-924c-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "6k1/R7/8/8/7P/p5K1/r5P1/8 b - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 3088,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2856,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/promen1999",
+      "username": "promen1999",
+      "uuid": "160257fc-6f68-11e2-8046-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834279482",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"promen1999\"]\n[Black \"GMWSO\"]\n[Result \"0-1\"]\n[CurrentPosition \"rq6/1p1N1p1k/p6N/6Pp/1P5P/P4r1K/8/2R5 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"D53\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Modern-Variation...5.e3-h6-6.Bxf6-Bxf6\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"23:29:17\"]\n[WhiteElo \"2853\"]\n[BlackElo \"3091\"]\n[TimeControl \"180\"]\n[Termination \"GMWSO won by resignation\"]\n[StartTime \"23:29:17\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"23:35:19\"]\n[Link \"https://www.chess.com/game/live/4834279482\"]\n\n1. d4 {[%clk 0:02:59.9]} 1... d5 {[%clk 0:02:59.9]} 2. c4 {[%clk 0:02:59.3]} 2... e6 {[%clk 0:02:59.2]} 3. Nc3 {[%clk 0:02:58.4]} 3... Nf6 {[%clk 0:02:58.7]} 4. Bg5 {[%clk 0:02:57.2]} 4... Be7 {[%clk 0:02:57.1]} 5. e3 {[%clk 0:02:56.6]} 5... h6 {[%clk 0:02:56]} 6. Bxf6 {[%clk 0:02:56.2]} 6... Bxf6 {[%clk 0:02:55.9]} 7. Nf3 {[%clk 0:02:55.7]} 7... O-O {[%clk 0:02:55]} 8. Rc1 {[%clk 0:02:55.4]} 8... a6 {[%clk 0:02:53.2]} 9. a3 {[%clk 0:02:50]} 9... c6 {[%clk 0:02:37.2]} 10. h4 {[%clk 0:02:37.9]} 10... g6 {[%clk 0:02:30.1]} 11. g4 {[%clk 0:02:37]} 11... Bg7 {[%clk 0:02:28.7]} 12. g5 {[%clk 0:02:35.5]} 12... h5 {[%clk 0:02:27.7]} 13. Ne5 {[%clk 0:02:33]} 13... c5 {[%clk 0:02:13]} 14. f4 {[%clk 0:02:30]} 14... Nc6 {[%clk 0:02:09.8]} 15. cxd5 {[%clk 0:02:16.4]} 15... exd5 {[%clk 0:02:07.1]} 16. Bg2 {[%clk 0:02:14.6]} 16... Be6 {[%clk 0:01:59.1]} 17. O-O {[%clk 0:02:04.5]} 17... cxd4 {[%clk 0:01:38.3]} 18. exd4 {[%clk 0:02:04.4]} 18... Qb6 {[%clk 0:01:37.4]} 19. Rf2 {[%clk 0:01:45.6]} 19... Nxd4 {[%clk 0:01:27.3]} 20. Na4 {[%clk 0:01:43.9]} 20... Qa7 {[%clk 0:01:26.1]} 21. Nc5 {[%clk 0:01:40.6]} 21... Nc6 {[%clk 0:01:17]} 22. Nxg6 {[%clk 0:01:26.7]} 22... Bg4 {[%clk 0:01:14.5]} 23. Qxd5 {[%clk 0:01:26.1]} 23... Rfd8 {[%clk 0:01:11]} 24. Qc4 {[%clk 0:01:03.2]} 24... Bd4 {[%clk 0:01:02.6]} 25. b4 {[%clk 0:00:44.4]} 25... Bxf2+ {[%clk 0:00:57.6]} 26. Kxf2 {[%clk 0:00:44.3]} 26... Rd4 {[%clk 0:00:56]} 27. Qb3 {[%clk 0:00:27.4]} 27... Kg7 {[%clk 0:00:52.3]} 28. Ne5 {[%clk 0:00:23.4]} 28... Rxf4+ {[%clk 0:00:41.6]} 29. Kg3 {[%clk 0:00:22.4]} 29... Nd4 {[%clk 0:00:41]} 30. Qb2 {[%clk 0:00:13.1]} 30... Ne2+ {[%clk 0:00:29.4]} 31. Kh2 {[%clk 0:00:12.6]} 31... Kg8 {[%clk 0:00:29]} 32. Nxg4 {[%clk 0:00:12]} 32... Qb8 {[%clk 0:00:20.1]} 33. Nh6+ {[%clk 0:00:09.4]} 33... Kh7 {[%clk 0:00:19.6]} 34. Qxe2 {[%clk 0:00:06.7]} 34... Rf2+ {[%clk 0:00:18.4]} 35. Kh3 {[%clk 0:00:04.9]} 35... Rxe2 {[%clk 0:00:17.6]} 36. Nd7 {[%clk 0:00:04.3]} 36... Re3+ {[%clk 0:00:16.3]} 37. Bf3 {[%clk 0:00:02.1]} 37... Rxf3+ {[%clk 0:00:16.2]} 0-1\n",
+    "time_control": "180",
+    "end_time": 1589067319,
+    "rated": true,
+    "accuracies": {
+      "white": 74.79777954642056,
+      "black": 98.1200327726706
+    },
+    "tcn": "lBZJkA0Sbs!TcM90mu3VMT0Tgv8!acWOiqYQpF2UoET2EMVNvKQInD5QAJSJfo6SegIBuB7PfnQBsyPWyIBQKUSEdJ97JA2BjzBngn7BAr!2UKBDnwQBrjBmwp2!KEW5EV!3jmDnpxnmIZmuovuv",
+    "uuid": "ecbe106a-924c-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rq6/1p1N1p1k/p6N/6Pp/1P5P/P4r1K/8/2R5 w - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 2853,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/promen1999",
+      "username": "promen1999",
+      "uuid": "160257fc-6f68-11e2-8046-000000000000"
+    },
+    "black": {
+      "rating": 3091,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834296431",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"promen1999\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1b5/p2q4/8/5P2/2p5/P5P1/1P2Qk1P/4R2K b - -\"]\n[Timezone \"UTC\"]\n[ECO \"E42\"]\n[ECOUrl \"https://www.chess.com/openings/Nimzo-Indian-Defense-Hubner-Rubinstein-Main-Line-7...Be7-8.Nf4\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"23:35:12\"]\n[WhiteElo \"3094\"]\n[BlackElo \"2850\"]\n[TimeControl \"180\"]\n[Termination \"GMWSO won by checkmate\"]\n[StartTime \"23:35:12\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"23:40:43\"]\n[Link \"https://www.chess.com/game/live/4834296431\"]\n\n1. d4 {[%clk 0:02:59.9]} 1... Nf6 {[%clk 0:02:59.7]} 2. c4 {[%clk 0:02:59.3]} 2... e6 {[%clk 0:02:58.7]} 3. Nc3 {[%clk 0:02:58.7]} 3... Bb4 {[%clk 0:02:58.2]} 4. e3 {[%clk 0:02:58.2]} 4... c5 {[%clk 0:02:57.8]} 5. Ne2 {[%clk 0:02:56.4]} 5... cxd4 {[%clk 0:02:54.2]} 6. exd4 {[%clk 0:02:56.3]} 6... O-O {[%clk 0:02:52.2]} 7. a3 {[%clk 0:02:52.9]} 7... Be7 {[%clk 0:02:51.7]} 8. Nf4 {[%clk 0:02:52.3]} 8... Re8 {[%clk 0:02:51.1]} 9. Bd3 {[%clk 0:02:46]} 9... Nc6 {[%clk 0:02:49.5]} 10. Be3 {[%clk 0:02:45.3]} 10... d5 {[%clk 0:02:48.3]} 11. cxd5 {[%clk 0:02:44]} 11... Nxd5 {[%clk 0:02:47.3]} 12. Ncxd5 {[%clk 0:02:33.7]} 12... exd5 {[%clk 0:02:45.5]} 13. O-O {[%clk 0:02:33.6]} 13... g6 {[%clk 0:02:28.2]} 14. Qf3 {[%clk 0:02:24.7]} 14... Bf6 {[%clk 0:02:26.9]} 15. Nxd5 {[%clk 0:02:23]} 15... Bxd4 {[%clk 0:02:19.6]} 16. Bxd4 {[%clk 0:02:00.6]} 16... Nxd4 {[%clk 0:02:19.5]} 17. Nf6+ {[%clk 0:02:00.1]} 17... Kh8 {[%clk 0:02:15.3]} 18. Qf4 {[%clk 0:01:59.6]} 18... Re6 {[%clk 0:02:08.9]} 19. Ne4 {[%clk 0:01:52.8]} 19... Kg7 {[%clk 0:02:04]} 20. Bc4 {[%clk 0:01:44.7]} 20... b5 {[%clk 0:01:56.8]} 21. Ng5 {[%clk 0:01:37.7]} 21... bxc4 {[%clk 0:01:48]} 22. Qxf7+ {[%clk 0:01:36.4]} 22... Kh6 {[%clk 0:01:43.3]} 23. Qxh7+ {[%clk 0:01:05.4]} 23... Kxg5 {[%clk 0:01:41.4]} 24. f4+ {[%clk 0:01:05.3]} 24... Kf5 {[%clk 0:01:28.6]} 25. Rae1 {[%clk 0:01:04.8]} 25... Ne2+ {[%clk 0:00:54.8]} 26. Kh1 {[%clk 0:00:50.2]} 26... Qd7 {[%clk 0:00:34.1]} 27. Qh3+ {[%clk 0:00:44.7]} 27... Kf6 {[%clk 0:00:33.5]} 28. f5 {[%clk 0:00:44.3]} 28... Ng3+ {[%clk 0:00:18.3]} 29. Qxg3 {[%clk 0:00:43]} 29... Rxe1 {[%clk 0:00:18.2]} 30. Qxg6+ {[%clk 0:00:41.6]} 30... Ke5 {[%clk 0:00:15.1]} 31. Rxe1+ {[%clk 0:00:41.5]} 31... Kf4 {[%clk 0:00:12]} 32. g3+ {[%clk 0:00:36.3]} 32... Kf3 {[%clk 0:00:11.3]} 33. Qh5+ {[%clk 0:00:35.9]} 33... Kf2 {[%clk 0:00:10]} 34. Qe2# {[%clk 0:00:35.8]} 1-0\n",
+    "time_control": "180",
+    "end_time": 1589067643,
+    "rated": true,
+    "accuracies": {
+      "white": 97.50543958350617,
+      "black": 84.93990695951038
+    },
+    "tcn": "lB!TkA0Sbs9zmuYIgmIBuB8!iqz0mD98ft5QcuZJAJTJsJSJeg2Udv0TDJTBuBQBJT!?vD8STC?2tAXHCMHAD12V13VMnDMLaeBmgh7Z3xLTDLmwxwSewUTKfeKDowDvUNvnNm",
+    "uuid": "bf58666d-924d-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b5/p2q4/8/5P2/2p5/P5P1/1P2Qk1P/4R2K b - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 3094,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2850,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/promen1999",
+      "username": "promen1999",
+      "uuid": "160257fc-6f68-11e2-8046-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834311907",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"promen1999\"]\n[Black \"GMWSO\"]\n[Result \"0-1\"]\n[CurrentPosition \"5k2/4Np2/7R/6pK/8/5P2/Pr6/6r1 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"D30\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-3.Nf3-Nf6\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"23:40:34\"]\n[WhiteElo \"2847\"]\n[BlackElo \"3097\"]\n[TimeControl \"180\"]\n[Termination \"GMWSO won by resignation\"]\n[StartTime \"23:40:34\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"23:45:54\"]\n[Link \"https://www.chess.com/game/live/4834311907\"]\n\n1. d4 {[%clk 0:02:59.9]} 1... Nf6 {[%clk 0:02:59]} 2. c4 {[%clk 0:02:59.2]} 2... e6 {[%clk 0:02:58.4]} 3. Nf3 {[%clk 0:02:58.7]} 3... d5 {[%clk 0:02:57.8]} 4. Nc3 {[%clk 0:02:57.8]} 4... Be7 {[%clk 0:02:57.4]} 5. Bg5 {[%clk 0:02:57.4]} 5... h6 {[%clk 0:02:56.9]} 6. Bxf6 {[%clk 0:02:57]} 6... Bxf6 {[%clk 0:02:56.8]} 7. e3 {[%clk 0:02:56.8]} 7... O-O {[%clk 0:02:56.2]} 8. Rc1 {[%clk 0:02:56.5]} 8... a6 {[%clk 0:02:54.9]} 9. h4 {[%clk 0:02:55.8]} 9... g6 {[%clk 0:02:52.2]} 10. Qc2 {[%clk 0:02:53.5]} 10... Bg7 {[%clk 0:02:43.5]} 11. Be2 {[%clk 0:02:46.8]} 11... c6 {[%clk 0:02:33.9]} 12. Ne5 {[%clk 0:02:41]} 12... c5 {[%clk 0:02:27.2]} 13. h5 {[%clk 0:02:34.4]} 13... g5 {[%clk 0:02:24.8]} 14. cxd5 {[%clk 0:02:28.5]} 14... exd5 {[%clk 0:02:24.7]} 15. Bf3 {[%clk 0:02:23.2]} 15... Be6 {[%clk 0:02:19.5]} 16. O-O {[%clk 0:02:20.1]} 16... cxd4 {[%clk 0:02:08.9]} 17. exd4 {[%clk 0:02:20]} 17... Nc6 {[%clk 0:02:08.3]} 18. Rcd1 {[%clk 0:02:05.3]} 18... Nxd4 {[%clk 0:01:54.4]} 19. Rxd4 {[%clk 0:02:01.8]} 19... Bxe5 {[%clk 0:01:53.9]} 20. Rxd5 {[%clk 0:01:51.5]} 20... Bxd5 {[%clk 0:01:52.2]} 21. Nxd5 {[%clk 0:01:51]} 21... g4 {[%clk 0:01:43.1]} 22. Qf5 {[%clk 0:01:42.3]} 22... gxf3 {[%clk 0:01:32.3]} 23. Qxe5 {[%clk 0:01:41.1]} 23... Qg5 {[%clk 0:01:31.2]} 24. Qxg5+ {[%clk 0:01:27.7]} 24... hxg5 {[%clk 0:01:31.1]} 25. gxf3 {[%clk 0:01:17]} 25... Kg7 {[%clk 0:01:29.2]} 26. Kg2 {[%clk 0:01:13.6]} 26... Rh8 {[%clk 0:01:27.4]} 27. Ne3 {[%clk 0:01:06.7]} 27... Rxh5 {[%clk 0:01:25.2]} 28. Rd1 {[%clk 0:01:04.6]} 28... Rhh8 {[%clk 0:01:20.2]} 29. Rd7 {[%clk 0:01:03]} 29... Rhd8 {[%clk 0:01:14.6]} 30. Rxb7 {[%clk 0:01:01.1]} 30... Rab8 {[%clk 0:01:14]} 31. Ra7 {[%clk 0:00:57.4]} 31... Rxb2 {[%clk 0:01:09.1]} 32. Rxa6 {[%clk 0:00:55.5]} 32... Rdd2 {[%clk 0:01:07.9]} 33. Kg3 {[%clk 0:00:39.3]} 33... Rxf2 {[%clk 0:01:04.7]} 34. Nf5+ {[%clk 0:00:34.1]} 34... Kh7 {[%clk 0:01:00.3]} 35. Kg4 {[%clk 0:00:31]} 35... Rg2+ {[%clk 0:00:52.4]} 36. Kh5 {[%clk 0:00:30.4]} 36... Rg1 {[%clk 0:00:49.8]} 37. Rh6+ {[%clk 0:00:13.7]} 37... Kg8 {[%clk 0:00:48.7]} 38. Ne7+ {[%clk 0:00:13.3]} 38... Kf8 {[%clk 0:00:48.1]} 0-1\n",
+    "time_control": "180",
+    "end_time": 1589067954,
+    "rated": true,
+    "accuracies": {
+      "white": 88.20861191351216,
+      "black": 98.71774160520624
+    },
+    "tcn": "lB!TkA0SgvZJbs90cM3VMT0Tmu8!acWOpF2UdkT2fmYQvKQIFNUMAJSJmv6SegIBuB5QcdQBdB2KBJSJsJMEkLEvLK7MKMVMov!2go9?Ju?NfdN?dZ?7ZX45XW5jWO7lowlnuL23wEnoENogOV3!L0!9",
+    "uuid": "80697316-924e-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5k2/4Np2/7R/6pK/8/5P2/Pr6/6r1 w - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 2847,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/promen1999",
+      "username": "promen1999",
+      "uuid": "160257fc-6f68-11e2-8046-000000000000"
+    },
+    "black": {
+      "rating": 3097,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4834326657",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.09\"]\n[Round \"-\"]\n[White \"GMWSO\"]\n[Black \"promen1999\"]\n[Result \"1-0\"]\n[CurrentPosition \"5k2/8/R2p4/3PnB1K/2p1P3/2N3R1/8/2q5 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"A61\"]\n[ECOUrl \"https://www.chess.com/openings/Benoni-Defense-Modern-Fianchetto-Variation-7...Bg7-8.Bg2-O-O-9.O-O\"]\n[UTCDate \"2020.05.09\"]\n[UTCTime \"23:45:40\"]\n[WhiteElo \"3100\"]\n[BlackElo \"2844\"]\n[TimeControl \"180\"]\n[Termination \"GMWSO won on time\"]\n[StartTime \"23:45:40\"]\n[EndDate \"2020.05.09\"]\n[EndTime \"23:52:01\"]\n[Link \"https://www.chess.com/game/live/4834326657\"]\n\n1. d4 {[%clk 0:02:59.9]} 1... Nf6 {[%clk 0:02:59.9]} 2. c4 {[%clk 0:02:59.4]} 2... e6 {[%clk 0:02:58.5]} 3. g3 {[%clk 0:02:56.8]} 3... c5 {[%clk 0:02:57.4]} 4. d5 {[%clk 0:02:53.8]} 4... exd5 {[%clk 0:02:57.3]} 5. cxd5 {[%clk 0:02:53.5]} 5... d6 {[%clk 0:02:57.2]} 6. Nc3 {[%clk 0:02:52.9]} 6... g6 {[%clk 0:02:57.1]} 7. Bg2 {[%clk 0:02:52]} 7... Bg7 {[%clk 0:02:57]} 8. Nf3 {[%clk 0:02:51.5]} 8... O-O {[%clk 0:02:56.9]} 9. O-O {[%clk 0:02:50.8]} 9... Bf5 {[%clk 0:02:56]} 10. Nd2 {[%clk 0:02:40.4]} 10... a6 {[%clk 0:02:52.6]} 11. a4 {[%clk 0:02:38.4]} 11... Re8 {[%clk 0:02:49.9]} 12. h3 {[%clk 0:02:36.3]} 12... Bc8 {[%clk 0:02:39.4]} 13. a5 {[%clk 0:02:33.9]} 13... Nbd7 {[%clk 0:02:38.6]} 14. Nc4 {[%clk 0:02:32.4]} 14... Ne5 {[%clk 0:02:38]} 15. Nb6 {[%clk 0:02:30.9]} 15... Rb8 {[%clk 0:02:37.5]} 16. e4 {[%clk 0:02:25.4]} 16... Nh5 {[%clk 0:02:36.7]} 17. Kh2 {[%clk 0:02:23]} 17... Nd7 {[%clk 0:02:21.6]} 18. Nc4 {[%clk 0:02:14.6]} 18... Ne5 {[%clk 0:02:20.6]} 19. Nxe5 {[%clk 0:02:10.6]} 19... Bxe5 {[%clk 0:02:15.7]} 20. f4 {[%clk 0:02:09.9]} 20... Bg7 {[%clk 0:02:05.2]} 21. Qf3 {[%clk 0:01:46.4]} 21... b5 {[%clk 0:02:01.4]} 22. axb6 {[%clk 0:01:45.6]} 22... Rxb6 {[%clk 0:02:00.9]} 23. Ra2 {[%clk 0:01:29.3]} 23... Rb3 {[%clk 0:01:56.3]} 24. Qd1 {[%clk 0:01:19.1]} 24... Rb4 {[%clk 0:01:47.4]} 25. Bd2 {[%clk 0:01:17.3]} 25... Nf6 {[%clk 0:01:31.9]} 26. Qc2 {[%clk 0:01:15.9]} 26... h5 {[%clk 0:01:26.8]} 27. Re1 {[%clk 0:01:15]} 27... h4 {[%clk 0:01:25.9]} 28. g4 {[%clk 0:01:14]} 28... Bxg4 {[%clk 0:01:23.5]} 29. hxg4 {[%clk 0:01:13.9]} 29... Nxg4+ {[%clk 0:01:23.2]} 30. Kh1 {[%clk 0:01:01.7]} 30... h3 {[%clk 0:01:14.1]} 31. Bf3 {[%clk 0:01:00.9]} 31... Qh4 {[%clk 0:01:09.6]} 32. Rg1 {[%clk 0:00:56.6]} 32... Nf2+ {[%clk 0:00:51.6]} 33. Kh2 {[%clk 0:00:55.7]} 33... Bh6 {[%clk 0:00:46.5]} 34. Rg3 {[%clk 0:00:46]} 34... c4 {[%clk 0:00:23.1]} 35. f5 {[%clk 0:00:44.3]} 35... Nd3 {[%clk 0:00:18.8]} 36. fxg6 {[%clk 0:00:41.6]} 36... Bf4 {[%clk 0:00:16.8]} 37. gxf7+ {[%clk 0:00:39.4]} 37... Kxf7 {[%clk 0:00:15.7]} 38. Bxf4 {[%clk 0:00:39.3]} 38... Nxf4 {[%clk 0:00:13.8]} 39. Rg4 {[%clk 0:00:37.8]} 39... Qf6 {[%clk 0:00:12.5]} 40. Rxa6 {[%clk 0:00:35.4]} 40... Nd3 {[%clk 0:00:10.2]} 41. Rg3 {[%clk 0:00:18.5]} 41... Rxb2 {[%clk 0:00:09.1]} 42. Bh5+ {[%clk 0:00:17.6]} 42... Kf8 {[%clk 0:00:07.6]} 43. Qxb2 {[%clk 0:00:15.7]} 43... Nxb2 {[%clk 0:00:07.5]} 44. Bxe8 {[%clk 0:00:14.8]} 44... Qf2+ {[%clk 0:00:07]} 45. Kxh3 {[%clk 0:00:14.2]} 45... Nd3 {[%clk 0:00:06.7]} 46. Bd7 {[%clk 0:00:11.5]} 46... Nf4+ {[%clk 0:00:04.3]} 47. Kg4 {[%clk 0:00:10.8]} 47... Ng6 {[%clk 0:00:03.1]} 48. Bf5 {[%clk 0:00:09.4]} 48... Ne5+ {[%clk 0:00:02.4]} 49. Kh3 {[%clk 0:00:09]} 49... Qf1+ {[%clk 0:00:01.6]} 50. Kh4 {[%clk 0:00:08.4]} 50... Qh1+ {[%clk 0:00:01.1]} 51. Kg5 {[%clk 0:00:07.4]} 51... Qc1+ {[%clk 0:00:00.2]} 52. Kh5 {[%clk 0:00:05.4]} 1-0\n",
+    "time_control": "180",
+    "end_time": 1589068321,
+    "rated": true,
+    "accuracies": {
+      "white": 96.23253399061626,
+      "black": 90.28568540268836
+    },
+    "tcn": "lB!TkA0SowYIBJSJAJZRbs2Ufo92gv8!eg6LvlWOiy98pxL6yG5ZlAZKAP45mCTNgpKZPAZKAK2KnDK2dvXHGP5PaiPrvdrzclNTdk3NfeNFwE6ExETEphFxov7FegEnhp2VgwIADLntLUVDU1!1lDtDwEFTiODtEwzjvN19kjtjN8Tnpxjt8ZtDxEDUZLUKExnfxFfhFMhcMN",
+    "uuid": "3a0d6757-924f-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5k2/8/R2p4/3PnB1K/2p1P3/2N3R1/8/2q5 b - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 3100,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2844,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/promen1999",
+      "username": "promen1999",
+      "uuid": "160257fc-6f68-11e2-8046-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4836582799",
+    "time_control": "180",
+    "end_time": 1589117573,
+    "rated": true,
+    "tcn": "gv!TlBZJbs6LcM3VMT0Tmu9z+w+3fH5QHy8!+Dzsjs=xhg-jdcjy=jxo-NLkN2-teltcac-ClkCw=LwL2L3L+tLtkt+Ctm+AmlCv-L=2&w*mldyj",
+    "uuid": "79b35ced-92c2-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2q1rk1/ppp2pp1/2n2p1p/3p1N2/2bP1B2/2P1PbQ1/Pn2rPpP/2RK2R1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2289,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/checkcheckmate007",
+      "username": "CheckCheckMate007",
+      "uuid": "65e0294a-b8ef-11e7-801a-000000000000"
+    },
+    "black": {
+      "rating": 2397,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4836590583",
+    "time_control": "180",
+    "end_time": 1589117632,
+    "rated": true,
+    "tcn": "lB5QBJQKgvKEmCEnen0SfAZRhf=Tng-KvKRKJS6SAS1S=J=1+y+ZJS1S=181yZ7ZdZ90-M",
+    "uuid": "c2a5870c-92c2-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r5nr/pppQbkpp/4pp2/4p1N1/4P3/8/PPP3PP/RNB2RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2405,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2281,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/checkcheckmate007",
+      "username": "CheckCheckMate007",
+      "uuid": "65e0294a-b8ef-11e7-801a-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4836594309",
+    "time_control": "180",
+    "end_time": 1589117764,
+    "rated": true,
+    "tcn": "gv!TlBZJbs6LcD0Smu9zfH5ZHZTZ-K8!KZ7Z=V1TV2Z2=V2ohgogvg-oefoDuD91=2-Udv-Fvwzsjs=jae+A-tLtktFLwvLVtA12eSUFvJj~Se+1JCbCeC=j=0j~Ce1A*m+o",
+    "uuid": "e5470944-92c2-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r5k1/ppp1P1rp/5p1n/8/2bP1P1n/2P5/P3RPbP/1q2RKN1 w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2274,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/checkcheckmate007",
+      "username": "CheckCheckMate007",
+      "uuid": "65e0294a-b8ef-11e7-801a-000000000000"
+    },
+    "black": {
+      "rating": 2412,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4836703759",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.05.10\"]\n[Round \"-\"]\n[White \"chesspanda123\"]\n[Black \"GMWSO\"]\n[Result \"1-0\"]\n[CurrentPosition \"rn6/p1q3pk/2p2br1/4p3/2Q1B3/2P1B1P1/P4PK1/3R4 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D38\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Ragozin-Defense\"]\n[UTCDate \"2020.05.10\"]\n[UTCTime \"14:01:55\"]\n[WhiteElo \"2738\"]\n[BlackElo \"2741\"]\n[TimeControl \"1500+10\"]\n[Termination \"chesspanda123 won by resignation\"]\n[StartTime \"14:01:55\"]\n[EndDate \"2020.05.10\"]\n[EndTime \"14:58:29\"]\n[Link \"https://www.chess.com/game/live/4836703759\"]\n\n1. d4 {[%clk 0:25:09.9]} 1... Nf6 {[%clk 0:25:05.1]} 2. c4 {[%clk 0:25:18.5]} 2... e6 {[%clk 0:25:11.4]} 3. Nc3 {[%clk 0:25:27]} 3... Bb4 {[%clk 0:25:19]} 4. Nf3 {[%clk 0:25:35.2]} 4... d5 {[%clk 0:25:20.6]} 5. Qb3 {[%clk 0:25:42.3]} 5... c5 {[%clk 0:25:23]} 6. dxc5 {[%clk 0:25:50.9]} 6... Na6 {[%clk 0:25:23]} 7. cxd5 {[%clk 0:25:33.7]} 7... Nxd5 {[%clk 0:24:10.9]} 8. c6 {[%clk 0:25:40.7]} 8... Qa5 {[%clk 0:23:44.2]} 9. Bd2 {[%clk 0:24:36.4]} 9... bxc6 {[%clk 0:23:17]} 10. g3 {[%clk 0:22:40]} 10... Nxc3 {[%clk 0:19:17.8]} 11. bxc3 {[%clk 0:22:46.4]} 11... Be7 {[%clk 0:19:26.8]} 12. Bg2 {[%clk 0:22:49.6]} 12... O-O {[%clk 0:17:57.3]} 13. O-O {[%clk 0:22:38.4]} 13... e5 {[%clk 0:17:51.2]} 14. Qc2 {[%clk 0:18:46.3]} 14... Qc7 {[%clk 0:14:41.4]} 15. Qe4 {[%clk 0:17:54.1]} 15... f6 {[%clk 0:14:47]} 16. Qc4+ {[%clk 0:17:49.7]} 16... Kh8 {[%clk 0:14:48.9]} 17. Be3 {[%clk 0:17:56.5]} 17... Nb8 {[%clk 0:14:45.9]} 18. Rfd1 {[%clk 0:16:05.5]} 18... Ba6 {[%clk 0:14:36.7]} 19. Qe6 {[%clk 0:16:11.2]} 19... Bxe2 {[%clk 0:13:55.2]} 20. Rd2 {[%clk 0:16:15.9]} 20... Ba6 {[%clk 0:14:03.5]} 21. Nh4 {[%clk 0:14:14.5]} 21... Bc8 {[%clk 0:13:44.7]} 22. Qc4 {[%clk 0:14:22.4]} 22... f5 {[%clk 0:12:37.1]} 23. Nf3 {[%clk 0:13:24.4]} 23... h6 {[%clk 0:10:22.1]} 24. Rad1 {[%clk 0:12:24.6]} 24... Kh7 {[%clk 0:09:55.6]} 25. h4 {[%clk 0:09:16.3]} 25... Rf6 {[%clk 0:09:06.3]} 26. Ng5+ {[%clk 0:05:56.8]} 26... hxg5 {[%clk 0:05:44.3]} 27. hxg5 {[%clk 0:06:06.7]} 27... Rg6 {[%clk 0:05:10.5]} 28. Bd5 {[%clk 0:05:32.5]} 28... f4 {[%clk 0:01:55.3]} 29. Be4 {[%clk 0:05:19.7]} 29... Bxg5 {[%clk 0:01:22.7]} 30. Rd6 {[%clk 0:05:00.2]} 30... Bf6 {[%clk 0:01:31.6]} 31. Kg2 {[%clk 0:04:38.2]} 31... f3+ {[%clk 0:00:39]} 32. Kxf3 {[%clk 0:04:32.8]} 32... Bg4+ {[%clk 0:00:45.9]} 33. Kg2 {[%clk 0:04:41.9]} 33... Bxd1 {[%clk 0:00:15.1]} 34. Rxd1 {[%clk 0:04:50.9]} 1-0\n",
+    "time_control": "1500+10",
+    "end_time": 1589122709,
+    "rated": false,
+    "accuracies": {
+      "white": 98.94084074795087,
+      "black": 98.07833042034551
+    },
+    "tcn": "lB!TkA0Sbs9zgvZJdrYIBI5OAJTJIQ7GclXQowJsjsz0fo8!egSKrkGYkC1TCA!?luO5fd6OASOmdlmOvFO6SATLFv3Vad?3pF9TvMVMFMTUoJLDJC0MlRMTgoDvov6EvoEdRd",
+    "uuid": "cba10a57-92c6-11ea-993b-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rn6/p1q3pk/2p2br1/4p3/2Q1B3/2P1B1P1/P4PK1/3R4 b - -",
+    "time_class": "rapid",
+    "rules": "chess",
+    "white": {
+      "rating": 2738,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/chesspanda123",
+      "username": "chesspanda123",
+      "uuid": "771115f2-e2bf-11e4-802a-000000000000"
+    },
+    "black": {
+      "rating": 2741,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4882455964",
+    "time_control": "180",
+    "end_time": 1589981749,
+    "rated": true,
+    "tcn": "mC!TbsZJCJ0SfASJdm90AHYQlB8!cDQHsH",
+    "uuid": "c2beddb3-9a9e-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbq1rk1/pp2bppp/5n2/1N1p4/3P1B2/8/PPP1QPPP/R3K1NR b KQ -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2136,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rekosheten",
+      "username": "rekosheten",
+      "uuid": "2f38d18a-0503-11e7-8018-000000000000"
+    },
+    "black": {
+      "rating": 2412,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4882472060",
+    "time_control": "180",
+    "end_time": 1589982056,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "623fd795-9a9f-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2217,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/rekosheten",
+      "username": "rekosheten",
+      "uuid": "2f38d18a-0503-11e7-8018-000000000000"
+    },
+    "black": {
+      "rating": 2400,
+      "result": "abandoned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4882503014",
+    "time_control": "180",
+    "end_time": 1589982663,
+    "rated": true,
+    "tcn": "mC!TbsZJgvJCvM0SMC90fHYQHmTCsC+Ult8!+VUCV2!2tC7dmd9!cD5OCK&C=uCo=T0TKT2T-NT0+T08-R8Z-KZYdv=lelon+m+zkszRKtRDtD-Alcnucdul",
+    "uuid": "93b3a442-9aa0-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1b3r1/ppk2p1p/n1p1pB2/7N/2n2N2/2P2B2/PP1qB2P/R2K3R w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2176,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/bugproberen",
+      "username": "bugproberen",
+      "uuid": "660a7f78-15ff-11ea-a016-35072badd0d3"
+    },
+    "black": {
+      "rating": 2407,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4898551378",
+    "time_control": "180",
+    "end_time": 1590278711,
+    "rated": true,
+    "tcn": "lB!TowZJfo5Qpx6Lgv0Sbs-CegCsjsTCde=ExELE-KQKvK+x+y=QoxEx-D-EKExE-K+x+h*LKExfefLDcD+LEK-xgpxn=v-EvEnEKELEhCJC+o3N&F90+M1T",
+    "uuid": "a1ac0bda-9d51-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r2qk2r/ppp1b1p1/2p1pp2/6Bp/B2PpBbQ/2P3P1/P1P1P1BK/R4Q2 w kq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2397,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2213,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/vegaz11",
+      "username": "vegaz11",
+      "uuid": "98b086d8-710b-11e3-8062-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4900708194",
+    "time_control": "180",
+    "end_time": 1590325462,
+    "rated": true,
+    "tcn": "",
+    "uuid": "efa2c424-9dbe-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2388,
+      "result": "abandoned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2483,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/dielie",
+      "username": "Dielie",
+      "uuid": "ae6ea0c6-8710-11e7-8018-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/4900914831",
+    "time_control": "180",
+    "end_time": 1590328806,
+    "rated": true,
+    "tcn": "",
+    "uuid": "b92b4f53-9dc6-11ea-a7c9-eb3d40010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 2379,
+      "result": "abandoned",
+      "@id": "https://api.chess.com/pub/player/gmwso",
+      "username": "GMWSO",
+      "uuid": "50758188-90e9-11e6-8018-000000000000"
+    },
+    "black": {
+      "rating": 2281,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/pumpedhose",
+      "username": "PumpedHose",
+      "uuid": "c2aa5dc0-8c6a-11ea-a840-6fa2b49942f6"
+    }
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "player_id": 18245896,
+  "@id": "https://api.chess.com/pub/player/mati2211",
+  "url": "https://www.chess.com/member/mati2211",
+  "name": "Mateusz Gorkiewicz",
+  "username": "mati2211",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776362668,
+  "joined": 1406471419,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1882,
+      "date": 1710550676,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1883,
+      "date": 1590138659,
+      "game": "https://www.chess.com/game/daily/258076954"
+    },
+    "record": {
+      "win": 65,
+      "loss": 63,
+      "draw": 6,
+      "time_per_move": 51007,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2299,
+      "date": 1692055224,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2323,
+      "date": 1692054607,
+      "game": "https://www.chess.com/game/live/85793364349"
+    },
+    "record": {
+      "win": 22,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2631,
+      "date": 1759692311,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1754301657,
+      "game": "https://www.chess.com/game/live/140339383734"
+    },
+    "record": {
+      "win": 1452,
+      "loss": 1421,
+      "draw": 205
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2607,
+      "date": 1771012967,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1758284768,
+      "game": "https://www.chess.com/game/live/142990114686"
+    },
+    "record": {
+      "win": 1966,
+      "loss": 1862,
+      "draw": 311
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2758,
+      "date": 1761423943
+    },
+    "lowest": {
+      "rating": 2682,
+      "date": 1756807960
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

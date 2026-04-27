@@ -1,0 +1,98 @@
+{
+  "player_id": 187116489,
+  "@id": "https://api.chess.com/pub/player/chessrook_e",
+  "url": "https://www.chess.com/member/ChessRook_E",
+  "name": "Arsal Gardezi",
+  "username": "chessrook_e",
+  "title": "NM",
+  "followers": 128,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776573883,
+  "joined": 1655417613,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1720218291,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 17554,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2059,
+      "date": 1776547427,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1776547427,
+      "game": "https://www.chess.com/game/live/167493538244"
+    },
+    "record": {
+      "win": 14,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2302,
+      "date": 1776351408,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1657998992,
+      "game": "https://www.chess.com/game/live/81368584483"
+    },
+    "record": {
+      "win": 408,
+      "loss": 678,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2375,
+      "date": 1776434941,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1772480023,
+      "game": "https://www.chess.com/game/live/161616427547"
+    },
+    "record": {
+      "win": 905,
+      "loss": 1010,
+      "draw": 111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2195,
+      "date": 1770233704
+    },
+    "lowest": {
+      "rating": 1984,
+      "date": 1770234090
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

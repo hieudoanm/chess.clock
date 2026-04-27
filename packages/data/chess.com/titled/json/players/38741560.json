@@ -1,0 +1,105 @@
+{
+  "player_id": 38741560,
+  "@id": "https://api.chess.com/pub/player/nikita_klepikov",
+  "url": "https://www.chess.com/member/Nikita_Klepikov",
+  "name": "Nikita Klepikov",
+  "username": "nikita_klepikov",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Saint-Petersburg",
+  "last_online": 1776456965,
+  "joined": 1505738320,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1459,
+      "date": 1601322766,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1459,
+      "date": 1571770875,
+      "game": "https://www.chess.com/game/daily/240095702"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2523,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2038,
+      "date": 1644349948,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2042,
+      "date": 1634494450,
+      "game": "https://www.chess.com/game/live/28232479347"
+    },
+    "record": {
+      "win": 22,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1758321542,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1758236211,
+      "game": "https://www.chess.com/game/live/88628432581"
+    },
+    "record": {
+      "win": 283,
+      "loss": 296,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2412,
+      "date": 1758038434,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1713856033,
+      "game": "https://www.chess.com/game/live/72545652863"
+    },
+    "record": {
+      "win": 434,
+      "loss": 485,
+      "draw": 61
+    }
+  },
+  "fide": 2199,
+  "tactics": {
+    "highest": {
+      "rating": 2414,
+      "date": 1766769855
+    },
+    "lowest": {
+      "rating": 2120,
+      "date": 1772032555
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16063810.e8621c06.200x200o.9592c56ffec9.jpg",
+  "player_id": 16063810,
+  "@id": "https://api.chess.com/pub/player/jackrodgers",
+  "url": "https://www.chess.com/member/JackRodgers",
+  "name": "Jack Rodgers",
+  "username": "jackrodgers",
+  "title": "FM",
+  "followers": 4750,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Australia",
+  "last_online": 1776592022,
+  "joined": 1392454860,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jackrodgerschess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jackrodgerschess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1895,
+      "date": 1775775434,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2163,
+      "date": 1632393017,
+      "game": "https://www.chess.com/game/daily/357097451"
+    },
+    "record": {
+      "win": 361,
+      "loss": 94,
+      "draw": 73,
+      "time_per_move": 15463,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1645,
+      "date": 1645753397,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1699,
+      "date": 1632615420,
+      "game": "https://www.chess.com/game/daily/357616989"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 15463,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2557,
+      "date": 1776326474,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1774127806,
+      "game": "https://www.chess.com/game/live/164581031972"
+    },
+    "record": {
+      "win": 921,
+      "loss": 883,
+      "draw": 313
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2753,
+      "date": 1776598971,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2924,
+      "date": 1770804026,
+      "game": "https://www.chess.com/game/live/145897189406"
+    },
+    "record": {
+      "win": 28549,
+      "loss": 31496,
+      "draw": 5525
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2687,
+      "date": 1776587069,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2766,
+      "date": 1747395933,
+      "game": "https://www.chess.com/game/live/126397801449"
+    },
+    "record": {
+      "win": 17228,
+      "loss": 17669,
+      "draw": 3681
+    }
+  },
+  "fide": 2204,
+  "tactics": {
+    "highest": {
+      "rating": 2143,
+      "date": 1769231628
+    },
+    "lowest": {
+      "rating": 2143,
+      "date": 1769231628
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

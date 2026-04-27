@@ -1,0 +1,104 @@
+{
+  "player_id": 30137966,
+  "@id": "https://api.chess.com/pub/player/rooie2016",
+  "url": "https://www.chess.com/member/Rooie2016",
+  "name": "Merijn van Delft",
+  "username": "rooie2016",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Hamburg",
+  "last_online": 1775587929,
+  "joined": 1475053963,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1240,
+      "date": 1681717977,
+      "rd": 308
+    },
+    "best": {
+      "rating": 1240,
+      "date": 1550333061,
+      "game": "https://www.chess.com/game/daily/216242095"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 224364,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2464,
+      "date": 1621102425,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1618663219,
+      "game": "https://www.chess.com/game/live/14839671569"
+    },
+    "record": {
+      "win": 17,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2066,
+      "date": 1486838515,
+      "rd": 211
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1486838020,
+      "game": "https://www.chess.com/game/live/1946450351"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2178,
+      "date": 1543870008,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1509213927,
+      "game": "https://www.chess.com/game/live/2395791231"
+    },
+    "record": {
+      "win": 12,
+      "loss": 14,
+      "draw": 3
+    }
+  },
+  "fide": 2384,
+  "tactics": {
+    "highest": {
+      "rating": 2108,
+      "date": 1475053963
+    },
+    "lowest": {
+      "rating": 2108,
+      "date": 1475053963
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55667092.b3eb0462.200x200o.59bd3d605004.jpeg",
+  "player_id": 55667092,
+  "@id": "https://api.chess.com/pub/player/wotgenie",
+  "url": "https://www.chess.com/member/Wotgenie",
+  "name": "Marcel Petersen",
+  "username": "wotgenie",
+  "title": "CM",
+  "followers": 81,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776593679,
+  "joined": 1546908536,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2165,
+      "date": 1776594068,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1776507580,
+      "game": "https://www.chess.com/game/daily/944343791"
+    },
+    "record": {
+      "win": 204,
+      "loss": 21,
+      "draw": 18,
+      "time_per_move": 6341,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 14
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2648,
+      "date": 1772845918,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1772845918,
+      "game": "https://www.chess.com/game/live/145049433910"
+    },
+    "record": {
+      "win": 2102,
+      "loss": 1010,
+      "draw": 353
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2852,
+      "date": 1776553655,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2852,
+      "date": 1776553655,
+      "game": "https://www.chess.com/game/live/145006181385"
+    },
+    "record": {
+      "win": 5865,
+      "loss": 4364,
+      "draw": 765
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1776562893,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2803,
+      "date": 1769039192,
+      "game": "https://www.chess.com/game/live/168267613761"
+    },
+    "record": {
+      "win": 6110,
+      "loss": 4641,
+      "draw": 999
+    }
+  },
+  "fide": 2236,
+  "tactics": {
+    "highest": {
+      "rating": 2819,
+      "date": 1769824045
+    },
+    "lowest": {
+      "rating": 2573,
+      "date": 1764369491
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    },
+    "daily": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

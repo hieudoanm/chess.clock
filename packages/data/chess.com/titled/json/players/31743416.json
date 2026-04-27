@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31743416.4f062cb9.200x200o.b6fd2137cd7e.jpeg",
+  "player_id": 31743416,
+  "@id": "https://api.chess.com/pub/player/petrosyan_tigran",
+  "url": "https://www.chess.com/member/Petrosyan_Tigran",
+  "name": "Tigran Petrosyan",
+  "username": "petrosyan_tigran",
+  "title": "IM",
+  "followers": 998,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1776581293,
+  "joined": 1482218714,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1960,
+      "date": 1714999389,
+      "rd": 179
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1651180496,
+      "game": "https://www.chess.com/game/daily/395667123"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 30132,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2372,
+      "date": 1651561283,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1627120441,
+      "game": "https://www.chess.com/game/live/20596169023"
+    },
+    "record": {
+      "win": 21,
+      "loss": 0,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2476,
+      "date": 1601676627,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1524844348,
+      "game": "https://www.chess.com/game/live/2419338616"
+    },
+    "record": {
+      "win": 64,
+      "loss": 50,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2665,
+      "date": 1749235754,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1633700323,
+      "game": "https://www.chess.com/game/live/27332975101"
+    },
+    "record": {
+      "win": 217,
+      "loss": 152,
+      "draw": 43
+    }
+  },
+  "fide": 2452,
+  "tactics": {
+    "highest": {
+      "rating": 2669,
+      "date": 1772200392
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1775139669
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34274732.13e82589.200x200o.0d6871d29e7a.jpeg",
+  "player_id": 34274732,
+  "@id": "https://api.chess.com/pub/player/chessbossgm",
+  "url": "https://www.chess.com/member/CHESSBOSSGM",
+  "username": "chessbossgm",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1747924663,
+  "joined": 1490536624,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 807,
+      "date": 1748260420,
+      "rd": 262
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 34,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1748260420,
+      "rd": 271
+    },
+    "best": {
+      "rating": 1153,
+      "date": 1514646323,
+      "game": "https://www.chess.com/game/live/2520517581"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2100,
+      "date": 1748260420,
+      "rd": 166
+    },
+    "best": {
+      "rating": 1979,
+      "date": 1586648907,
+      "game": "https://www.chess.com/game/live/4709788111"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1490536624
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1490536624
+    }
+  },
+  "puzzle_rush": {}
+}

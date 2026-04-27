@@ -1,0 +1,85 @@
+{
+  "player_id": 318583343,
+  "@id": "https://api.chess.com/pub/player/schachmatttv_daniel",
+  "url": "https://www.chess.com/member/SchachmattTV_Daniel",
+  "name": "Daniel Lichtmannecker",
+  "username": "schachmatttv_daniel",
+  "title": "CM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776590775,
+  "joined": 1696944432,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2102,
+      "date": 1742566094,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1738248826,
+      "game": "https://www.chess.com/game/live/131984945337"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2237,
+      "date": 1750276049,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1701190503,
+      "game": "https://www.chess.com/game/live/132172200857"
+    },
+    "record": {
+      "win": 29,
+      "loss": 20,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2303,
+      "date": 1766922520,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1738084509,
+      "game": "https://www.chess.com/game/live/134866741045"
+    },
+    "record": {
+      "win": 56,
+      "loss": 61,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2214,
+      "date": 1762207367
+    },
+    "lowest": {
+      "rating": 2115,
+      "date": 1762530320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

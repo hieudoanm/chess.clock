@@ -1,0 +1,67 @@
+{
+  "player_id": 2298014,
+  "@id": "https://api.chess.com/pub/player/luc5",
+  "url": "https://www.chess.com/member/luc5",
+  "name": "Lucas Wickstr\u00f6m",
+  "username": "luc5",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776309994,
+  "joined": 1258142861,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2260,
+      "date": 1732161133,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1297699482,
+      "game": "https://www.chess.com/game/live/126537451"
+    },
+    "record": {
+      "win": 1324,
+      "loss": 961,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2448,
+      "date": 1701548849,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1676227748,
+      "game": "https://www.chess.com/game/live/48199809107"
+    },
+    "record": {
+      "win": 3555,
+      "loss": 2663,
+      "draw": 276
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1258142861
+    },
+    "lowest": {
+      "rating": 2484,
+      "date": 1258142861
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 32
+    }
+  }
+}

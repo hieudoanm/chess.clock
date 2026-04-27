@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/437764469.873d2822.200x200o.93493dbeabd3.png",
+  "player_id": 437764469,
+  "@id": "https://api.chess.com/pub/player/taylorprime",
+  "url": "https://www.chess.com/member/TaylorPrime",
+  "name": "Taylor",
+  "username": "taylorprime",
+  "title": "CM",
+  "followers": 177,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776546817,
+  "joined": 1742276678,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2152,
+      "date": 1775369640,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2196,
+      "date": 1754801895,
+      "game": "https://www.chess.com/game/live/143210017002"
+    },
+    "record": {
+      "win": 30,
+      "loss": 13,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2424,
+      "date": 1775372680,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1758066253,
+      "game": "https://www.chess.com/game/live/166868143300"
+    },
+    "record": {
+      "win": 585,
+      "loss": 317,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2105,
+      "date": 1776318047,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1756161806,
+      "game": "https://www.chess.com/game/live/142334123180"
+    },
+    "record": {
+      "win": 421,
+      "loss": 345,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2153,
+      "date": 1757132768
+    },
+    "lowest": {
+      "rating": 1921,
+      "date": 1774931999
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

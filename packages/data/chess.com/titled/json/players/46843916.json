@@ -1,0 +1,103 @@
+{
+  "player_id": 46843916,
+  "@id": "https://api.chess.com/pub/player/infinite-student",
+  "url": "https://www.chess.com/member/infinite-student",
+  "username": "infinite-student",
+  "title": "IM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776582877,
+  "joined": 1528243379,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1660,
+      "date": 1758823077,
+      "rd": 276
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1528243379,
+      "game": "https://www.chess.com/game/daily/223592848"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 3223,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2811,
+      "date": 1604475384,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1603064733,
+      "game": "https://www.chess.com/game/live/4939640905"
+    },
+    "record": {
+      "win": 418,
+      "loss": 223,
+      "draw": 52
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3000,
+      "date": 1776582843,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3035,
+      "date": 1762216957,
+      "game": "https://www.chess.com/game/live/167335379744"
+    },
+    "record": {
+      "win": 3014,
+      "loss": 1717,
+      "draw": 401
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2874,
+      "date": 1770366893,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2910,
+      "date": 1768095834,
+      "game": "https://www.chess.com/game/live/5164382865"
+    },
+    "record": {
+      "win": 4929,
+      "loss": 5120,
+      "draw": 1213
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 3257,
+      "date": 1770888314
+    },
+    "lowest": {
+      "rating": 2640,
+      "date": 1770889713
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

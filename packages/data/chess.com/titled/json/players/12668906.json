@@ -1,0 +1,102 @@
+{
+  "player_id": 12668906,
+  "@id": "https://api.chess.com/pub/player/sicilianthedragon",
+  "url": "https://www.chess.com/member/SicilianTheDragon",
+  "name": "Nathan Y Lee",
+  "username": "sicilianthedragon",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775360046,
+  "joined": 1373519505,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2059,
+      "date": 1706206744,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2063,
+      "date": 1421465081,
+      "game": "https://www.chess.com/game/daily/88860674"
+    },
+    "record": {
+      "win": 27,
+      "loss": 2,
+      "draw": 3,
+      "time_per_move": 87421,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1614879971,
+      "rd": 339
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1614377638,
+      "game": "https://www.chess.com/game/live/8115852789"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1409507442,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1402120869,
+      "game": "https://www.chess.com/game/live/565594502"
+    },
+    "record": {
+      "win": 21,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1969,
+      "date": 1437780833,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2038,
+      "date": 1419827368,
+      "game": "https://www.chess.com/game/live/1078871513"
+    },
+    "record": {
+      "win": 64,
+      "loss": 39,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1775359950
+    },
+    "lowest": {
+      "rating": 2279,
+      "date": 1775360014
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

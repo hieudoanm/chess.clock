@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/80477590.6128c0df.200x200o.47bc42451c0b.jpg",
+  "player_id": 80477590,
+  "@id": "https://api.chess.com/pub/player/arthurguo",
+  "url": "https://www.chess.com/member/ArthurGuo",
+  "name": "Arthur Guo",
+  "username": "arthurguo",
+  "title": "GM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774300682,
+  "joined": 1590423033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2328,
+      "date": 1602744013,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2454,
+      "date": 1596317864,
+      "game": "https://www.chess.com/game/live/5502485731"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2649,
+      "date": 1597097111,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1597096942,
+      "game": "https://www.chess.com/game/live/5279929809"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2322,
+      "date": 1601061305,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1597086933,
+      "game": "https://www.chess.com/game/live/5279220628"
+    },
+    "record": {
+      "win": 16,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1590423033
+    },
+    "lowest": {
+      "rating": 2517,
+      "date": 1590423033
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

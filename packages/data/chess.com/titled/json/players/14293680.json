@@ -1,0 +1,123 @@
+{
+  "player_id": 14293680,
+  "@id": "https://api.chess.com/pub/player/ashwin-2302",
+  "url": "https://www.chess.com/member/Ashwin-2302",
+  "name": "Ashwin Sairam",
+  "username": "ashwin-2302",
+  "title": "FM",
+  "followers": 322,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "india",
+  "last_online": 1776582960,
+  "joined": 1384096432,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2117,
+      "date": 1776365665,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1775493613,
+      "game": "https://www.chess.com/game/daily/880932881"
+    },
+    "record": {
+      "win": 682,
+      "loss": 210,
+      "draw": 56,
+      "time_per_move": 154020,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1493,
+      "date": 1640451605,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1493,
+      "date": 1640451604,
+      "game": "https://www.chess.com/game/daily/182872486"
+    },
+    "record": {
+      "win": 17,
+      "loss": 13,
+      "draw": 3,
+      "time_per_move": 154020,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2308,
+      "date": 1771941719,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1759602614,
+      "game": "https://www.chess.com/game/live/35962102257"
+    },
+    "record": {
+      "win": 917,
+      "loss": 614,
+      "draw": 113
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2803,
+      "date": 1776279325,
+      "rd": 15
+    },
+    "best": {
+      "rating": 2906,
+      "date": 1775908390,
+      "game": "https://www.chess.com/game/live/169035041333"
+    },
+    "record": {
+      "win": 4225,
+      "loss": 3406,
+      "draw": 474
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2712,
+      "date": 1776319531,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1774949013,
+      "game": "https://www.chess.com/game/live/36047303875"
+    },
+    "record": {
+      "win": 1618,
+      "loss": 1164,
+      "draw": 199
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2696,
+      "date": 1762616808
+    },
+    "lowest": {
+      "rating": 2475,
+      "date": 1761321711
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

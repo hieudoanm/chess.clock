@@ -1,0 +1,84 @@
+{
+  "player_id": 20939586,
+  "@id": "https://api.chess.com/pub/player/cukiero",
+  "url": "https://www.chess.com/member/Cukiero",
+  "name": "Filip Cukrowski",
+  "username": "cukiero",
+  "title": "IM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776297961,
+  "joined": 1423080183,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1819,
+      "date": 1593102783,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2487,
+      "date": 1549647922,
+      "game": "https://www.chess.com/game/live/3442891281"
+    },
+    "record": {
+      "win": 14,
+      "loss": 0,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2511,
+      "date": 1741900801,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1605825405,
+      "game": "https://www.chess.com/game/live/4649351657"
+    },
+    "record": {
+      "win": 429,
+      "loss": 415,
+      "draw": 77
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2570,
+      "date": 1748478870,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1663713508,
+      "game": "https://www.chess.com/game/live/57446787909"
+    },
+    "record": {
+      "win": 1316,
+      "loss": 1211,
+      "draw": 265
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2723,
+      "date": 1423080183
+    },
+    "lowest": {
+      "rating": 2723,
+      "date": 1423080183
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 20811538,
+  "@id": "https://api.chess.com/pub/player/sparklechess",
+  "url": "https://www.chess.com/member/Sparklechess",
+  "name": "Naomi Bashkansky",
+  "username": "sparklechess",
+  "title": "WIM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776340411,
+  "joined": 1422320976,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 951,
+      "date": 1595108442,
+      "rd": 342
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1422320976,
+      "game": "https://www.chess.com/game/daily/254718810"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 151808,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1962,
+      "date": 1625251832,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2035,
+      "date": 1597204635,
+      "game": "https://www.chess.com/game/live/1652170749"
+    },
+    "record": {
+      "win": 24,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1958,
+      "date": 1617143302,
+      "rd": 125
+    },
+    "best": {
+      "rating": 1958,
+      "date": 1616107944,
+      "game": "https://www.chess.com/game/live/5722317582"
+    },
+    "record": {
+      "win": 418,
+      "loss": 313,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1677,
+      "date": 1766122743,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1899,
+      "date": 1480134747,
+      "game": "https://www.chess.com/game/live/5579870284"
+    },
+    "record": {
+      "win": 189,
+      "loss": 145,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2431,
+      "date": 1422320976
+    },
+    "lowest": {
+      "rating": 2431,
+      "date": 1422320976
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39129724.becde03b.200x200o.47b82e83f7ca.jpeg",
+  "player_id": 39129724,
+  "@id": "https://api.chess.com/pub/player/ggjohnson",
+  "url": "https://www.chess.com/member/ggjohnson",
+  "name": "Gabriella Johnson",
+  "username": "ggjohnson",
+  "title": "WIM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/TT",
+  "last_online": 1723988740,
+  "joined": 1506990538,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1817,
+      "date": 1629478884,
+      "rd": 337
+    },
+    "best": {
+      "rating": 1817,
+      "date": 1506992848,
+      "game": "https://www.chess.com/game/daily/176130748"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 31132,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1808,
+      "date": 1630254986,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1913,
+      "date": 1596221858,
+      "game": "https://www.chess.com/game/live/23386911567"
+    },
+    "record": {
+      "win": 17,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1902,
+      "date": 1596122562,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1990,
+      "date": 1596120926,
+      "game": "https://www.chess.com/game/live/5226439251"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1839,
+      "date": 1506990538
+    },
+    "lowest": {
+      "rating": 1839,
+      "date": 1506990538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 26
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 366243759,
+  "@id": "https://api.chess.com/pub/player/caballodobletero",
+  "url": "https://www.chess.com/member/caballodobletero",
+  "name": "Luis Fernando Agama Hernandez",
+  "username": "caballodobletero",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776475762,
+  "joined": 1717011287,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1991,
+      "date": 1775510853,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1999,
+      "date": 1775510448,
+      "game": "https://www.chess.com/game/live/166957501682"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1866,
+      "date": 1775686893,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2048,
+      "date": 1717023501,
+      "game": "https://www.chess.com/game/live/110839331527"
+    },
+    "record": {
+      "win": 35,
+      "loss": 38,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2376,
+      "date": 1776475753,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1752802202,
+      "game": "https://www.chess.com/game/live/147115403281"
+    },
+    "record": {
+      "win": 208,
+      "loss": 152,
+      "draw": 28
+    }
+  },
+  "fide": 1936,
+  "tactics": {
+    "highest": {
+      "rating": 2180,
+      "date": 1770161172
+    },
+    "lowest": {
+      "rating": 1940,
+      "date": 1770160771
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 23,
+      "score": 20
+    }
+  }
+}

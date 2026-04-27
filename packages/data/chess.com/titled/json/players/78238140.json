@@ -1,0 +1,85 @@
+{
+  "player_id": 78238140,
+  "@id": "https://api.chess.com/pub/player/vsevolod_ovchinnikov",
+  "url": "https://www.chess.com/member/Vsevolod_Ovchinnikov",
+  "name": "Vsevolod Ovchinnikov",
+  "username": "vsevolod_ovchinnikov",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776437301,
+  "joined": 1588269438,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2608,
+      "date": 1767012355,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2608,
+      "date": 1642708437,
+      "game": "https://www.chess.com/game/live/35671729645"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2671,
+      "date": 1745914325,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2783,
+      "date": 1735229785,
+      "game": "https://www.chess.com/game/live/89228945017"
+    },
+    "record": {
+      "win": 1880,
+      "loss": 1939,
+      "draw": 275
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2691,
+      "date": 1776432206,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2829,
+      "date": 1773326235,
+      "game": "https://www.chess.com/game/live/87062306367"
+    },
+    "record": {
+      "win": 5573,
+      "loss": 5572,
+      "draw": 1255
+    }
+  },
+  "fide": 2349,
+  "tactics": {
+    "highest": {
+      "rating": 2340,
+      "date": 1588269438
+    },
+    "lowest": {
+      "rating": 2340,
+      "date": 1588269438
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 500001659,
+  "@id": "https://api.chess.com/pub/player/calipzzo",
+  "url": "https://www.chess.com/member/calipzzo",
+  "username": "calipzzo",
+  "title": "WIM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776592877,
+  "joined": 1762836933,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2529,
+      "date": 1775710714,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1775623301,
+      "game": "https://www.chess.com/game/live/165616060282"
+    },
+    "record": {
+      "win": 26,
+      "loss": 11,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2825,
+      "date": 1776481563,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2863,
+      "date": 1775881953,
+      "game": "https://www.chess.com/game/live/165702516766"
+    },
+    "record": {
+      "win": 524,
+      "loss": 528,
+      "draw": 112
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1575,
+      "date": 1763100547
+    },
+    "lowest": {
+      "rating": 747,
+      "date": 1763100285
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

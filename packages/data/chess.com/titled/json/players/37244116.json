@@ -1,0 +1,99 @@
+{
+  "player_id": 37244116,
+  "@id": "https://api.chess.com/pub/player/egetuna10",
+  "url": "https://www.chess.com/member/EgeTuna10",
+  "name": "Ege Tuna Oktem",
+  "username": "egetuna10",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/TR",
+  "location": "Denizli",
+  "last_online": 1774364583,
+  "joined": 1500808717,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 757,
+      "date": 1753972340,
+      "rd": 303
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 46114,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2234,
+      "date": 1561544695
+    },
+    "best": {
+      "rating": 1304,
+      "date": 1541432545,
+      "game": "https://www.chess.com/game/live/2421558758"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2445,
+      "date": 1742660795,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1739640373,
+      "game": "https://www.chess.com/game/live/133378159283"
+    },
+    "record": {
+      "win": 25,
+      "loss": 23,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2492,
+      "date": 1774364543,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2741,
+      "date": 1739726374,
+      "game": "https://www.chess.com/game/live/133463973413"
+    },
+    "record": {
+      "win": 1060,
+      "loss": 978,
+      "draw": 134
+    }
+  },
+  "fide": 2234,
+  "tactics": {
+    "highest": {
+      "rating": 2498,
+      "date": 1763303655
+    },
+    "lowest": {
+      "rating": 2449,
+      "date": 1756054590
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

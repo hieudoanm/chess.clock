@@ -1,0 +1,83 @@
+{
+  "player_id": 77972282,
+  "@id": "https://api.chess.com/pub/player/anonymousim2023",
+  "url": "https://www.chess.com/member/AnonymousIM2023",
+  "username": "anonymousim2023",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1692043355,
+  "joined": 1588011421,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2352,
+      "date": 1691700540,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1590778473,
+      "game": "https://www.chess.com/game/live/4925199694"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2403,
+      "date": 1691438665,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1691003940,
+      "game": "https://www.chess.com/game/live/5281361461"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2668,
+      "date": 1691611869,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1621358945,
+      "game": "https://www.chess.com/game/live/5060191001"
+    },
+    "record": {
+      "win": 444,
+      "loss": 436,
+      "draw": 93
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2441,
+      "date": 1588011421
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1588011421
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

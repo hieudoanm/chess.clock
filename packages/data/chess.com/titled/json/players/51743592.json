@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51743592.64023720.200x200o.6d8e293d66c0.jpg",
+  "player_id": 51743592,
+  "@id": "https://api.chess.com/pub/player/ratingharvester",
+  "url": "https://www.chess.com/member/RatingHarvester",
+  "name": "Suyuan Gui",
+  "username": "ratingharvester",
+  "title": "NM",
+  "followers": 111,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776481643,
+  "joined": 1541992155,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1526,
+      "date": 1772792731,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1580,
+      "date": 1672894326,
+      "game": "https://www.chess.com/game/daily/558061093"
+    },
+    "record": {
+      "win": 40,
+      "loss": 4,
+      "draw": 3,
+      "time_per_move": 36987,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2098,
+      "date": 1744860814,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2136,
+      "date": 1691672369,
+      "game": "https://www.chess.com/game/live/67150817299"
+    },
+    "record": {
+      "win": 244,
+      "loss": 137,
+      "draw": 41
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2603,
+      "date": 1772908458,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1760298240,
+      "game": "https://www.chess.com/game/live/167217010865"
+    },
+    "record": {
+      "win": 1193,
+      "loss": 996,
+      "draw": 154
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1774973059,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1749863298,
+      "game": "https://www.chess.com/game/live/139452418700"
+    },
+    "record": {
+      "win": 684,
+      "loss": 512,
+      "draw": 107
+    }
+  },
+  "fide": 2096,
+  "tactics": {
+    "highest": {
+      "rating": 2651,
+      "date": 1764193051
+    },
+    "lowest": {
+      "rating": 2572,
+      "date": 1766699780
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

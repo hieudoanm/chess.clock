@@ -1,0 +1,97 @@
+{
+  "player_id": 13823802,
+  "@id": "https://api.chess.com/pub/player/xuspiii",
+  "url": "https://www.chess.com/member/Xuspiii",
+  "username": "xuspiii",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776183957,
+  "joined": 1381260548,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1746025897,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 21,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2085,
+      "date": 1711120488,
+      "rd": 258
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1711120206,
+      "game": "https://www.chess.com/game/live/26083166001"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2240,
+      "date": 1619336882,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1619336584,
+      "game": "https://www.chess.com/game/live/13075342757"
+    },
+    "record": {
+      "win": 62,
+      "loss": 33,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2255,
+      "date": 1636549046,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2255,
+      "date": 1636549046,
+      "game": "https://www.chess.com/game/live/30287913413"
+    },
+    "record": {
+      "win": 43,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2445,
+      "date": 1381260548
+    },
+    "lowest": {
+      "rating": 2445,
+      "date": 1381260548
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

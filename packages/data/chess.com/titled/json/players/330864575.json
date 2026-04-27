@@ -1,0 +1,66 @@
+{
+  "player_id": 330864575,
+  "@id": "https://api.chess.com/pub/player/nataberok",
+  "url": "https://www.chess.com/member/Nataberok",
+  "username": "nataberok",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775176543,
+  "joined": 1701946394,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2224,
+      "date": 1773452176,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2224,
+      "date": 1773401649,
+      "game": "https://www.chess.com/game/live/165842435436"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2554,
+      "date": 1774056228,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2554,
+      "date": 1774056228,
+      "game": "https://www.chess.com/game/live/165399208884"
+    },
+    "record": {
+      "win": 65,
+      "loss": 19,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 530,
+      "date": 1773306582
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1773306538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

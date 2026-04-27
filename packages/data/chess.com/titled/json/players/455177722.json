@@ -1,0 +1,67 @@
+{
+  "player_id": 455177722,
+  "@id": "https://api.chess.com/pub/player/the-rock-man",
+  "url": "https://www.chess.com/member/The-Rock-Man",
+  "username": "the-rock-man",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1774481346,
+  "joined": 1748521712,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3118,
+      "date": 1771844289,
+      "rd": 42
+    },
+    "best": {
+      "rating": 3147,
+      "date": 1771843324,
+      "game": "https://www.chess.com/game/live/146558775916"
+    },
+    "record": {
+      "win": 129,
+      "loss": 53,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3116,
+      "date": 1774467654,
+      "rd": 41
+    },
+    "best": {
+      "rating": 3138,
+      "date": 1774383193,
+      "game": "https://www.chess.com/game/live/165086583654"
+    },
+    "record": {
+      "win": 135,
+      "loss": 80,
+      "draw": 20
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1748521712
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1748521712
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

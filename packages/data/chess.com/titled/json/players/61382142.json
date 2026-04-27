@@ -1,0 +1,122 @@
+{
+  "player_id": 61382142,
+  "@id": "https://api.chess.com/pub/player/anonyman001",
+  "url": "https://www.chess.com/member/Anonyman001",
+  "username": "anonyman001",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775574967,
+  "joined": 1558718594,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1370,
+      "date": 1743460627,
+      "rd": 62
+    },
+    "best": {
+      "rating": 1807,
+      "date": 1559903251,
+      "game": "https://www.chess.com/game/daily/227958944"
+    },
+    "record": {
+      "win": 53,
+      "loss": 43,
+      "draw": 0,
+      "time_per_move": 32749,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1410,
+      "date": 1584738020,
+      "rd": 341
+    },
+    "best": {
+      "rating": 1410,
+      "date": 1584738020,
+      "game": "https://www.chess.com/game/daily/253572764"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32749,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2342,
+      "date": 1732052826,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1612696469,
+      "game": "https://www.chess.com/game/live/114892065791"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2265,
+      "date": 1775569966,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1772813022,
+      "game": "https://www.chess.com/game/live/129767947719"
+    },
+    "record": {
+      "win": 647,
+      "loss": 524,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2406,
+      "date": 1772573536,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1770299401,
+      "game": "https://www.chess.com/game/live/4554162638"
+    },
+    "record": {
+      "win": 726,
+      "loss": 554,
+      "draw": 86
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2398,
+      "date": 1765702234
+    },
+    "lowest": {
+      "rating": 2191,
+      "date": 1764370080
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

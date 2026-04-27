@@ -1,0 +1,67 @@
+{
+  "player_id": 303108523,
+  "@id": "https://api.chess.com/pub/player/cute_castle",
+  "url": "https://www.chess.com/member/Cute_Castle",
+  "username": "cute_castle",
+  "title": "GM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1726765622,
+  "joined": 1690825588,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2417,
+      "date": 1696229859,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1696229786,
+      "game": "https://www.chess.com/game/live/89968737025"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2686,
+      "date": 1693117337,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2793,
+      "date": 1691518296,
+      "game": "https://www.chess.com/game/live/85257095225"
+    },
+    "record": {
+      "win": 10,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2539,
+      "date": 1690825588
+    },
+    "lowest": {
+      "rating": 2539,
+      "date": 1690825588
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

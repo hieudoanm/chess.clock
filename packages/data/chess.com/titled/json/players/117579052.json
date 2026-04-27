@@ -1,0 +1,86 @@
+{
+  "player_id": 117579052,
+  "@id": "https://api.chess.com/pub/player/ani_mari",
+  "url": "https://www.chess.com/member/Ani_Mari",
+  "username": "ani_mari",
+  "title": "WFM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776522328,
+  "joined": 1612180412,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1757,
+      "date": 1705584452,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1757,
+      "date": 1705584452,
+      "game": "https://www.chess.com/game/daily/607157689"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10604,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2091,
+      "date": 1699911428,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2091,
+      "date": 1699911428,
+      "game": "https://www.chess.com/game/live/93650323657"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2096,
+      "date": 1699619715,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1612202681,
+      "game": "https://www.chess.com/game/live/7757653955"
+    },
+    "record": {
+      "win": 23,
+      "loss": 18,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2542,
+      "date": 1773748537
+    },
+    "lowest": {
+      "rating": 2194,
+      "date": 1760618934
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

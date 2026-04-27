@@ -1,0 +1,103 @@
+{
+  "player_id": 15054534,
+  "@id": "https://api.chess.com/pub/player/peixe64",
+  "url": "https://www.chess.com/member/peixe64",
+  "name": "Mateus Costamilan Tomiello",
+  "username": "peixe64",
+  "title": "FM",
+  "followers": 133,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1771892027,
+  "joined": 1387161109,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1568,
+      "date": 1716483864,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1784,
+      "date": 1609356565,
+      "game": "https://www.chess.com/game/daily/181186844"
+    },
+    "record": {
+      "win": 30,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 24480,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2258,
+      "date": 1638468104,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1609890525,
+      "game": "https://www.chess.com/game/live/1861480054"
+    },
+    "record": {
+      "win": 4,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1722646999,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1722646827,
+      "game": "https://www.chess.com/game/live/32798319543"
+    },
+    "record": {
+      "win": 696,
+      "loss": 475,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2609,
+      "date": 1770868026,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1736892434,
+      "game": "https://www.chess.com/game/live/132982740941"
+    },
+    "record": {
+      "win": 15599,
+      "loss": 14229,
+      "draw": 1644
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2584,
+      "date": 1766522566
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1770582221
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

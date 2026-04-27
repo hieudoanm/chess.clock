@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20341464.9dee5484.200x200o.2e52a336da1d.jpg",
+  "player_id": 20341464,
+  "@id": "https://api.chess.com/pub/player/garcho08",
+  "url": "https://www.chess.com/member/garcho08",
+  "name": "Susanto Megaranto",
+  "username": "garcho08",
+  "title": "GM",
+  "followers": 795,
+  "country": "https://api.chess.com/pub/country/ID",
+  "location": "Indramayu",
+  "last_online": 1692534520,
+  "joined": 1419605874,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1537,
+      "date": 1620980896,
+      "rd": 291
+    },
+    "best": {
+      "rating": 1833,
+      "date": 1441258334,
+      "game": "https://www.chess.com/game/daily/116555136"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 24404,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2505,
+      "date": 1674559451,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1631093723,
+      "game": "https://www.chess.com/game/live/5599631105"
+    },
+    "record": {
+      "win": 21,
+      "loss": 10,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2763,
+      "date": 1692535282,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2893,
+      "date": 1605627679,
+      "game": "https://www.chess.com/game/live/1407119866"
+    },
+    "record": {
+      "win": 5644,
+      "loss": 3372,
+      "draw": 647
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2944,
+      "date": 1692464511,
+      "rd": 47
+    },
+    "best": {
+      "rating": 3017,
+      "date": 1691222552,
+      "game": "https://www.chess.com/game/live/85639807157"
+    },
+    "record": {
+      "win": 3300,
+      "loss": 1639,
+      "draw": 653
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2575,
+      "date": 1419605874
+    },
+    "lowest": {
+      "rating": 2575,
+      "date": 1419605874
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

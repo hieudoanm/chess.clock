@@ -1,0 +1,102 @@
+{
+  "player_id": 31085778,
+  "@id": "https://api.chess.com/pub/player/bajna",
+  "url": "https://www.chess.com/member/bajna",
+  "username": "bajna",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776505670,
+  "joined": 1479839132,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1869,
+      "date": 1744962577,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1869,
+      "date": 1673381647,
+      "game": "https://www.chess.com/game/daily/442086595"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5243,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2150,
+      "date": 1671390200,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2159,
+      "date": 1671388779,
+      "game": "https://www.chess.com/game/live/64443680855"
+    },
+    "record": {
+      "win": 20,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1776,
+      "date": 1760390510,
+      "rd": 30
+    },
+    "best": {
+      "rating": 1975,
+      "date": 1758104946,
+      "game": "https://www.chess.com/game/live/143223462298"
+    },
+    "record": {
+      "win": 128,
+      "loss": 135,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2320,
+      "date": 1761585351,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1760736219,
+      "game": "https://www.chess.com/game/live/46524603457"
+    },
+    "record": {
+      "win": 4642,
+      "loss": 3374,
+      "draw": 715
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2880,
+      "date": 1767611767
+    },
+    "lowest": {
+      "rating": 2650,
+      "date": 1761546739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

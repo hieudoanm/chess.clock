@@ -1,0 +1,90 @@
+{
+  "player_id": 15154582,
+  "@id": "https://api.chess.com/pub/player/sea-needle",
+  "url": "https://www.chess.com/member/sea-needle",
+  "name": "Slava Mikhailuk",
+  "username": "sea-needle",
+  "title": "FM",
+  "followers": 84,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Redmond",
+  "last_online": 1776564930,
+  "joined": 1387672534,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2106,
+      "date": 1707365972,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2106,
+      "date": 1707365972,
+      "game": "https://www.chess.com/game/live/89609435857"
+    },
+    "record": {
+      "win": 21,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2354,
+      "date": 1554446736,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1403403125,
+      "game": "https://www.chess.com/game/live/798943071"
+    },
+    "record": {
+      "win": 367,
+      "loss": 215,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2585,
+      "date": 1762834233,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1762834233,
+      "game": "https://www.chess.com/game/live/61078813103"
+    },
+    "record": {
+      "win": 3168,
+      "loss": 2690,
+      "draw": 366
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2745,
+      "date": 1768954422
+    },
+    "lowest": {
+      "rating": 2325,
+      "date": 1756507325
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    },
+    "daily": {
+      "total_attempts": 14,
+      "score": 12
+    }
+  }
+}

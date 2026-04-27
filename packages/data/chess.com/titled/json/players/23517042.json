@@ -1,0 +1,123 @@
+{
+  "player_id": 23517042,
+  "@id": "https://api.chess.com/pub/player/lkb001",
+  "url": "https://www.chess.com/member/LKB001",
+  "name": "Keng Boon Lau",
+  "username": "lkb001",
+  "title": "CM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/SG",
+  "last_online": 1776508821,
+  "joined": 1438616937,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2197,
+      "date": 1711055272,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2197,
+      "date": 1521256055,
+      "game": "https://www.chess.com/game/daily/179331308"
+    },
+    "record": {
+      "win": 28,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 3216,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1827,
+      "date": 1515155452,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1827,
+      "date": 1515155451,
+      "game": "https://www.chess.com/game/daily/180819436"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3216,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2052,
+      "date": 1520343993,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2068,
+      "date": 1450425751,
+      "game": "https://www.chess.com/game/live/1389287797"
+    },
+    "record": {
+      "win": 40,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2404,
+      "date": 1727576183,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2490,
+      "date": 1711699276,
+      "game": "https://www.chess.com/game/live/105086386673"
+    },
+    "record": {
+      "win": 744,
+      "loss": 543,
+      "draw": 64
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1471583562,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1471581312,
+      "game": "https://www.chess.com/game/live/1695868518"
+    },
+    "record": {
+      "win": 171,
+      "loss": 64,
+      "draw": 21
+    }
+  },
+  "fide": 2255,
+  "tactics": {
+    "highest": {
+      "rating": 2625,
+      "date": 1757992481
+    },
+    "lowest": {
+      "rating": 2218,
+      "date": 1771558601
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 45394476,
+  "@id": "https://api.chess.com/pub/player/donmikki77",
+  "url": "https://www.chess.com/member/DonMikki77",
+  "username": "donmikki77",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u0422\u043e\u0441\u043d\u043e",
+  "last_online": 1776578975,
+  "joined": 1523996086,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2263,
+      "date": 1746027292,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1595146192,
+      "game": "https://www.chess.com/game/daily/237554154"
+    },
+    "record": {
+      "win": 148,
+      "loss": 13,
+      "draw": 81,
+      "time_per_move": 38911,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2284,
+      "date": 1692653375,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1692551486,
+      "game": "https://www.chess.com/game/live/86392162981"
+    },
+    "record": {
+      "win": 14,
+      "loss": 11,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2193,
+      "date": 1586716862,
+      "rd": 232
+    },
+    "best": {
+      "rating": 2301,
+      "date": 1586716520,
+      "game": "https://www.chess.com/game/live/4713312538"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2398,
+      "date": 1776578799,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1764731836,
+      "game": "https://www.chess.com/game/live/146146197774"
+    },
+    "record": {
+      "win": 558,
+      "loss": 478,
+      "draw": 109
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2186,
+      "date": 1759385563
+    },
+    "lowest": {
+      "rating": 2151,
+      "date": 1759386036
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

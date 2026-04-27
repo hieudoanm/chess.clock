@@ -1,0 +1,83 @@
+{
+  "player_id": 68772200,
+  "@id": "https://api.chess.com/pub/player/enazratha",
+  "url": "https://www.chess.com/member/enazratha",
+  "username": "enazratha",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776593500,
+  "joined": 1575318354,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1776592845,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1776231639,
+      "game": "https://www.chess.com/game/live/167286270048"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2171,
+      "date": 1775747587,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2223,
+      "date": 1762609238,
+      "game": "https://www.chess.com/game/live/145267793114"
+    },
+    "record": {
+      "win": 68,
+      "loss": 45,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2230,
+      "date": 1776589665,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1762343514,
+      "game": "https://www.chess.com/game/live/167368129056"
+    },
+    "record": {
+      "win": 87,
+      "loss": 61,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2102,
+      "date": 1776303398
+    },
+    "lowest": {
+      "rating": 2102,
+      "date": 1776303398
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

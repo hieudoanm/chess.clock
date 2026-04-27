@@ -1,0 +1,45 @@
+{
+  "player_id": 533928845,
+  "@id": "https://api.chess.com/pub/player/streamentry",
+  "url": "https://www.chess.com/member/streamentry",
+  "username": "streamentry",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776594207,
+  "joined": 1771864512,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_blitz": {
+    "last": {
+      "rating": 2784,
+      "date": 1776594199,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1776443088,
+      "game": "https://www.chess.com/game/live/167445108584"
+    },
+    "record": {
+      "win": 197,
+      "loss": 97,
+      "draw": 18
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1771864535
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1771864535
+    }
+  },
+  "puzzle_rush": {}
+}

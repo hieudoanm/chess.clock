@@ -1,0 +1,80 @@
+{
+  "player_id": 39298786,
+  "@id": "https://api.chess.com/pub/player/alcarazor",
+  "url": "https://www.chess.com/member/alcarazor",
+  "name": "Javier Alcaraz Ortega",
+  "username": "alcarazor",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1735663172,
+  "joined": 1507535826,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2346,
+      "date": 1613845251,
+      "rd": 206
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1613839846,
+      "game": "https://www.chess.com/game/live/7498984515"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2221,
+      "date": 1699472551,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1699472122,
+      "game": "https://www.chess.com/game/live/93211269925"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2230,
+      "date": 1735663531,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1613775274,
+      "game": "https://www.chess.com/game/live/7512192013"
+    },
+    "record": {
+      "win": 157,
+      "loss": 124,
+      "draw": 17
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1507535826
+    },
+    "lowest": {
+      "rating": 2406,
+      "date": 1507535826
+    }
+  },
+  "puzzle_rush": {}
+}

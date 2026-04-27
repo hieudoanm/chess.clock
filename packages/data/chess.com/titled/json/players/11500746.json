@@ -1,0 +1,82 @@
+{
+  "player_id": 11500746,
+  "@id": "https://api.chess.com/pub/player/transponster",
+  "url": "https://www.chess.com/member/transponster",
+  "username": "transponster",
+  "title": "GM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1587257736,
+  "joined": 1365827928,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1528983618,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1528983441,
+      "game": "https://www.chess.com/game/live/638576158"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2841,
+      "date": 1587284982,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2915,
+      "date": 1542725083,
+      "game": "https://www.chess.com/game/live/3271867614"
+    },
+    "record": {
+      "win": 1834,
+      "loss": 1219,
+      "draw": 154
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2990,
+      "date": 1587286330,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2990,
+      "date": 1587286330,
+      "game": "https://www.chess.com/game/live/4037625634"
+    },
+    "record": {
+      "win": 1663,
+      "loss": 1332,
+      "draw": 232
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2731,
+      "date": 1365827928
+    },
+    "lowest": {
+      "rating": 2731,
+      "date": 1365827928
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

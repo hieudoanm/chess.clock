@@ -1,0 +1,85 @@
+{
+  "player_id": 40636392,
+  "@id": "https://api.chess.com/pub/player/cruziana",
+  "url": "https://www.chess.com/member/cruziana",
+  "name": "Kubra Ozturk",
+  "username": "cruziana",
+  "title": "WGM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776545416,
+  "joined": 1511385532,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2268,
+      "date": 1598026682,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1597502000,
+      "game": "https://www.chess.com/game/live/5301423688"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2191,
+      "date": 1589830277,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1589388483,
+      "game": "https://www.chess.com/game/live/2730045305"
+    },
+    "record": {
+      "win": 58,
+      "loss": 19,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2343,
+      "date": 1705619144,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1705619144,
+      "game": "https://www.chess.com/game/live/3681929686"
+    },
+    "record": {
+      "win": 20,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "fide": 2353,
+  "tactics": {
+    "highest": {
+      "rating": 2238,
+      "date": 1511385532
+    },
+    "lowest": {
+      "rating": 2238,
+      "date": 1511385532
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

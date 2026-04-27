@@ -1,0 +1,108 @@
+{
+  "player_id": 60063126,
+  "@id": "https://api.chess.com/pub/player/lelouch_brittainia",
+  "url": "https://www.chess.com/member/lelouch_brittainia",
+  "name": "Jessica Callender",
+  "username": "lelouch_brittainia",
+  "title": "WCM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/GY",
+  "last_online": 1776560262,
+  "joined": 1555816846,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1189,
+      "date": 1761935927,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1194,
+      "date": 1732706840,
+      "game": "https://www.chess.com/game/daily/789136565"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 2,
+      "time_per_move": 36612,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1596,
+      "date": 1768927235,
+      "rd": 169
+    },
+    "best": {
+      "rating": 1596,
+      "date": 1768927235,
+      "game": "https://www.chess.com/game/live/23217708055"
+    },
+    "record": {
+      "win": 7,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1694,
+      "date": 1739021846,
+      "rd": 125
+    },
+    "best": {
+      "rating": 1694,
+      "date": 1739021846,
+      "game": "https://www.chess.com/game/live/126237560343"
+    },
+    "record": {
+      "win": 6,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1353,
+      "date": 1729618885,
+      "rd": 144
+    },
+    "best": {
+      "rating": 1534,
+      "date": 1719859782,
+      "game": "https://www.chess.com/game/live/62701820563"
+    },
+    "record": {
+      "win": 10,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "fide": 1579,
+  "tactics": {
+    "highest": {
+      "rating": 1883,
+      "date": 1775674524
+    },
+    "lowest": {
+      "rating": 1580,
+      "date": 1773271312
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    },
+    "daily": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

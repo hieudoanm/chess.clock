@@ -1,0 +1,84 @@
+{
+  "player_id": 164350021,
+  "@id": "https://api.chess.com/pub/player/stockscammer",
+  "url": "https://www.chess.com/member/StockScammer",
+  "username": "stockscammer",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1775973917,
+  "joined": 1639170166,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2196,
+      "date": 1682783839,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2196,
+      "date": 1682783839,
+      "game": "https://www.chess.com/game/live/57859288295"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2510,
+      "date": 1744707730,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1639265458,
+      "game": "https://www.chess.com/game/live/78959648759"
+    },
+    "record": {
+      "win": 179,
+      "loss": 165,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2442,
+      "date": 1771703965,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1692875020,
+      "game": "https://www.chess.com/game/live/86776773463"
+    },
+    "record": {
+      "win": 241,
+      "loss": 215,
+      "draw": 38
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1639170166
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1639170166
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

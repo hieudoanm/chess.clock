@@ -1,0 +1,82 @@
+{
+  "player_id": 26108834,
+  "@id": "https://api.chess.com/pub/player/bobbymastermind",
+  "url": "https://www.chess.com/member/BobbyMastermind",
+  "username": "bobbymastermind",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1773366628,
+  "joined": 1452677327,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1744208682
+    },
+    "best": {
+      "rating": 1776,
+      "date": 1452679025,
+      "game": "https://www.chess.com/game/live/1421245034"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1453455038
+    },
+    "best": {
+      "rating": 1573,
+      "date": 1452693494,
+      "game": "https://www.chess.com/game/live/1421439340"
+    },
+    "record": {
+      "win": 13,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2296,
+      "date": 1738544091,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1738544091,
+      "game": "https://www.chess.com/game/live/132282618137"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1066,
+      "date": 1773365468
+    },
+    "lowest": {
+      "rating": 1066,
+      "date": 1773365468
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

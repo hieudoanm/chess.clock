@@ -1,0 +1,105 @@
+{
+  "player_id": 35783884,
+  "@id": "https://api.chess.com/pub/player/dave_chessmate",
+  "url": "https://www.chess.com/member/Dave_ChessMate",
+  "name": "David Davtyan",
+  "username": "dave_chessmate",
+  "title": "FM",
+  "followers": 240,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1695742134,
+  "joined": 1495649933,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1645,
+      "date": 1728203336,
+      "rd": 68
+    },
+    "best": {
+      "rating": 1780,
+      "date": 1652224703,
+      "game": "https://www.chess.com/game/daily/395540047"
+    },
+    "record": {
+      "win": 100,
+      "loss": 47,
+      "draw": 6,
+      "time_per_move": 18039,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1367,
+      "date": 1695463056,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1501,
+      "date": 1655597966,
+      "game": "https://www.chess.com/game/live/4313348818"
+    },
+    "record": {
+      "win": 17,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2764,
+      "date": 1695730824,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2915,
+      "date": 1694789136,
+      "game": "https://www.chess.com/game/live/88527820585"
+    },
+    "record": {
+      "win": 587,
+      "loss": 372,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2695,
+      "date": 1695742977,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2777,
+      "date": 1694809848,
+      "game": "https://www.chess.com/game/live/44141085055"
+    },
+    "record": {
+      "win": 1718,
+      "loss": 1362,
+      "draw": 251
+    }
+  },
+  "fide": 2361,
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1495649933
+    },
+    "lowest": {
+      "rating": 2460,
+      "date": 1495649933
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

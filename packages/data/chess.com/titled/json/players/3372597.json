@@ -1,0 +1,84 @@
+{
+  "player_id": 3372597,
+  "@id": "https://api.chess.com/pub/player/ashishvaja",
+  "url": "https://www.chess.com/member/AshishVaja",
+  "name": "Ashish Vaja",
+  "username": "ashishvaja",
+  "title": "NM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Greenwood, Indiana",
+  "last_online": 1689161035,
+  "joined": 1264015359,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1367,
+      "date": 1648419836,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1414878842,
+      "game": "https://www.chess.com/game/daily/98213430"
+    },
+    "record": {
+      "win": 381,
+      "loss": 511,
+      "draw": 23,
+      "time_per_move": 26016,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1205,
+      "date": 1417841388,
+      "rd": 129
+    },
+    "best": {
+      "rating": 1438,
+      "date": 1413527010,
+      "game": "https://www.chess.com/game/daily/98455268"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 26016,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2000,
+      "date": 1411070853,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1407626011,
+      "game": "https://www.chess.com/game/live/882991898"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "fide": 2201,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1264015359
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1264015359
+    }
+  },
+  "puzzle_rush": {}
+}

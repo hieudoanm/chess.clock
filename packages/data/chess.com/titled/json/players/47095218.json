@@ -1,0 +1,85 @@
+{
+  "player_id": 47095218,
+  "@id": "https://api.chess.com/pub/player/twiceblessed",
+  "url": "https://www.chess.com/member/Twiceblessed",
+  "name": "Glen De Schampheleire",
+  "username": "twiceblessed",
+  "title": "IM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776265142,
+  "joined": 1528998052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1611413486,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1611413486,
+      "game": "https://www.chess.com/game/live/6006181884"
+    },
+    "record": {
+      "win": 10,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1644177894,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1536602684,
+      "game": "https://www.chess.com/game/live/3590825874"
+    },
+    "record": {
+      "win": 411,
+      "loss": 349,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2706,
+      "date": 1774213696,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1651004344,
+      "game": "https://www.chess.com/game/live/3644425193"
+    },
+    "record": {
+      "win": 3353,
+      "loss": 3113,
+      "draw": 648
+    }
+  },
+  "fide": 2387,
+  "tactics": {
+    "highest": {
+      "rating": 2611,
+      "date": 1760269069
+    },
+    "lowest": {
+      "rating": 2158,
+      "date": 1765834310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

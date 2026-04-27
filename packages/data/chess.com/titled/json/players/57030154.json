@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57030154.aa491b06.200x200o.c7ee448ac9f0.jpeg",
+  "player_id": 57030154,
+  "@id": "https://api.chess.com/pub/player/lavrov_maxim",
+  "url": "https://www.chess.com/member/Lavrov_Maxim",
+  "name": "Maxim Lavrov",
+  "username": "lavrov_maxim",
+  "title": "IM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1775318225,
+  "joined": 1549485549,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1761163058,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1761163058,
+      "game": "https://www.chess.com/game/daily/873041851"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 21240,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2340,
+      "date": 1642938378,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1611488896,
+      "game": "https://www.chess.com/game/live/6330791460"
+    },
+    "record": {
+      "win": 20,
+      "loss": 12,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2519,
+      "date": 1770142699,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1609804817,
+      "game": "https://www.chess.com/game/live/6145446657"
+    },
+    "record": {
+      "win": 42,
+      "loss": 49,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2615,
+      "date": 1759677783,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1619872512,
+      "game": "https://www.chess.com/game/live/131818854243"
+    },
+    "record": {
+      "win": 354,
+      "loss": 262,
+      "draw": 84
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2538,
+      "date": 1549485549
+    },
+    "lowest": {
+      "rating": 2538,
+      "date": 1549485549
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

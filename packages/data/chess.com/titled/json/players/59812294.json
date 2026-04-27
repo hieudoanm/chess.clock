@@ -1,0 +1,85 @@
+{
+  "player_id": 59812294,
+  "@id": "https://api.chess.com/pub/player/regenda",
+  "url": "https://www.chess.com/member/regenda",
+  "name": "Roman Hros",
+  "username": "regenda",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1775331911,
+  "joined": 1555251887,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2204,
+      "date": 1775072299,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2206,
+      "date": 1709409571,
+      "game": "https://www.chess.com/game/live/133451954501"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2051,
+      "date": 1711135143,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1710330981,
+      "game": "https://www.chess.com/game/live/104069432757"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2242,
+      "date": 1742845746,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1708531435,
+      "game": "https://www.chess.com/game/live/102788519303"
+    },
+    "record": {
+      "win": 77,
+      "loss": 55,
+      "draw": 11
+    }
+  },
+  "fide": 2310,
+  "tactics": {
+    "highest": {
+      "rating": 2528,
+      "date": 1760006576
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1760006576
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

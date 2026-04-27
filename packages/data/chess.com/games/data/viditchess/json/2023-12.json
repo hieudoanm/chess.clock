@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/96839377823",
+    "time_control": "180",
+    "end_time": 1703100512,
+    "rated": true,
+    "tcn": "lB!TkAZJbsJAmC0KBJ9IpxXHiq8!gvYQvK98=BQJBI8KnvJBsHBt+B5QHRQBcDKIftAtegBmghmDCK-whg&u=n*h",
+    "uuid": "52e9f5da-9f6d-11ee-8c7e-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bq2k1/p4ppp/3N1n2/2r1P3/5n2/P2pqPnP/1P3PP1/R2Q1RKr w - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 1185,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/cyrylek",
+      "username": "Cyrylek",
+      "uuid": "68bcde80-5666-11ea-9c1b-032e35eb4fcd"
+    },
+    "black": {
+      "rating": 2565,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/viditchess",
+      "username": "viditchess",
+      "uuid": "6c531d88-d357-11e1-8000-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/96839470087",
+    "time_control": "180",
+    "end_time": 1703100755,
+    "rated": true,
+    "tcn": "mCZJCJ!TbsTJgvJsjs6EpxENdm0SmH5QHN90fH8!HQXQeg45lB5HNE3NECHLvK0RKQ7T-wRwcuwRoENECE98&Z!9QKRKBKTKEF",
+    "uuid": "fa2fc448-9f6d-11ee-8c7e-6cfe544c0428",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "4rk2/p1pQ1pp1/4p3/4qr2/7Q/2P1B2P/P1P2P2/R4RK1 b - -",
+    "time_class": "blitz",
+    "rules": "bughouse",
+    "white": {
+      "rating": 922,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/99fonsi",
+      "username": "99fonsi",
+      "uuid": "6c11e3d4-8538-11ec-a6f9-8d6e56117a0d"
+    },
+    "black": {
+      "rating": 2252,
+      "result": "bughousepartnerlose",
+      "@id": "https://api.chess.com/pub/player/viditchess",
+      "username": "viditchess",
+      "uuid": "6c531d88-d357-11e1-8000-000000000000"
+    }
+  }
+]

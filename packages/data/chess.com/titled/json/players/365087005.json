@@ -1,0 +1,83 @@
+{
+  "player_id": 365087005,
+  "@id": "https://api.chess.com/pub/player/bra1n_r0t",
+  "url": "https://www.chess.com/member/bra1n_r0t",
+  "username": "bra1n_r0t",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/KP",
+  "last_online": 1775166922,
+  "joined": 1716515482,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2518,
+      "date": 1770682674,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1768411284,
+      "game": "https://www.chess.com/game/live/145012317082"
+    },
+    "record": {
+      "win": 79,
+      "loss": 40,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2365,
+      "date": 1767902722,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2451,
+      "date": 1747947136,
+      "game": "https://www.chess.com/game/live/138752922694"
+    },
+    "record": {
+      "win": 54,
+      "loss": 29,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2619,
+      "date": 1773684848,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1753416914,
+      "game": "https://www.chess.com/game/live/141079565766"
+    },
+    "record": {
+      "win": 415,
+      "loss": 357,
+      "draw": 86
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1716515482
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1716515482
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

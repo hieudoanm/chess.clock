@@ -1,0 +1,143 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19385846.9cbc9529.200x200o.013d090dcf43.jpeg",
+  "player_id": 19385846,
+  "@id": "https://api.chess.com/pub/player/oleksandrprokhorov",
+  "url": "https://www.chess.com/member/OleksandrProkhorov",
+  "name": "Oleksandr Prokhorov",
+  "username": "oleksandrprokhorov",
+  "title": "NM",
+  "followers": 2670,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Lviv, Ukraine",
+  "last_online": 1776592256,
+  "joined": 1413848189,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/oleksandrprokhorov",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/oleksandrprokhorov"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1408,
+      "date": 1776546145,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1630,
+      "date": 1765473577,
+      "game": "https://www.chess.com/game/daily/644057409"
+    },
+    "record": {
+      "win": 338,
+      "loss": 213,
+      "draw": 20,
+      "time_per_move": 33810,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 75,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 898,
+      "date": 1684171000,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1413848189,
+      "game": "https://www.chess.com/game/daily/379800711"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 33810,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 75,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1973,
+      "date": 1773773867,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1973,
+      "date": 1768158718,
+      "game": "https://www.chess.com/game/live/100035772401"
+    },
+    "record": {
+      "win": 11,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2334,
+      "date": 1776531502,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1774113974,
+      "game": "https://www.chess.com/game/live/104955662683"
+    },
+    "record": {
+      "win": 876,
+      "loss": 1172,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2399,
+      "date": 1776374437,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1652807051,
+      "game": "https://www.chess.com/game/live/154612605001"
+    },
+    "record": {
+      "win": 855,
+      "loss": 1154,
+      "draw": 185
+    }
+  },
+  "fide": 2086,
+  "tactics": {
+    "highest": {
+      "rating": 2077,
+      "date": 1760642360
+    },
+    "lowest": {
+      "rating": 1779,
+      "date": 1772456008
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26303484.dc192fa5.200x200o.d771643b19ed.jpeg",
+    "player_id": 26303484,
+    "@id": "https://api.chess.com/pub/player/bigfish1995",
+    "url": "https://www.chess.com/member/Bigfish1995",
+    "name": "Vladimir Fedoseev",
+    "username": "bigfish1995",
+    "title": "GM",
+    "followers": 3510,
+    "country": "https://api.chess.com/pub/country/SI",
+    "location": "Altea",
+    "last_online": 1734107557,
+    "joined": 1453591623,
+    "status": "premium",
+    "is_streamer": true,
+    "twitch_url": "https://twitch.tv/bigfish1995",
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [
+        {
+            "type": "twitch",
+            "channel_url": "https://twitch.tv/bigfish1995"
+        }
+    ],
+    "chess_rapid": {
+        "last": {
+            "rating": 2811,
+            "date": 1727625940,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2831,
+            "date": 1727456022,
+            "game": "https://www.chess.com/game/live/100726307777"
+        },
+        "record": {
+            "win": 302,
+            "loss": 118,
+            "draw": 133
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 3021,
+            "date": 1727211302,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3231,
+            "date": 1605012688,
+            "game": "https://www.chess.com/game/live/5687126706"
+        },
+        "record": {
+            "win": 4740,
+            "loss": 4278,
+            "draw": 698
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 3064,
+            "date": 1727859566,
+            "rd": 48
+        },
+        "best": {
+            "rating": 3205,
+            "date": 1706660884,
+            "game": "https://www.chess.com/game/live/4437624941"
+        },
+        "record": {
+            "win": 6500,
+            "loss": 4397,
+            "draw": 1401
+        }
+    },
+    "fide": 2701,
+    "tactics": {
+        "highest": {
+            "rating": 3775,
+            "date": 1723883908
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1516315761
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

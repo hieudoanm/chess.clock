@@ -1,0 +1,84 @@
+{
+  "player_id": 1528719,
+  "@id": "https://api.chess.com/pub/player/knightleap",
+  "url": "https://www.chess.com/member/knightleap",
+  "name": "Etan Ilfeld",
+  "username": "knightleap",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1768435083,
+  "joined": 1223082851,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2010,
+      "date": 1607548984,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2158,
+      "date": 1592076943,
+      "game": "https://www.chess.com/game/live/5920618765"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2088,
+      "date": 1614180786,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2142,
+      "date": 1587816574,
+      "game": "https://www.chess.com/game/live/4769262741"
+    },
+    "record": {
+      "win": 19,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2155,
+      "date": 1628169204,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1583009070,
+      "game": "https://www.chess.com/game/live/2086061184"
+    },
+    "record": {
+      "win": 2026,
+      "loss": 1771,
+      "draw": 272
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2439,
+      "date": 1223082851
+    },
+    "lowest": {
+      "rating": 2439,
+      "date": 1223082851
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

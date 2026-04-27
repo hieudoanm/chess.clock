@@ -1,0 +1,99 @@
+{
+  "player_id": 3790506,
+  "@id": "https://api.chess.com/pub/player/dmac9999",
+  "url": "https://www.chess.com/member/dmac9999",
+  "name": "Doug McClintock",
+  "username": "dmac9999",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Orange County",
+  "last_online": 1776566666,
+  "joined": 1280968905,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1695,
+      "date": 1750022960,
+      "rd": 115
+    },
+    "best": {
+      "rating": 1872,
+      "date": 1611189771,
+      "game": "https://www.chess.com/game/daily/296151320"
+    },
+    "record": {
+      "win": 38,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 11524,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1211,
+      "date": 1743916990,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1438585200,
+      "game": "https://www.chess.com/game/live/96165821583"
+    },
+    "record": {
+      "win": 6,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2269,
+      "date": 1610496911,
+      "rd": 255
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1610496911,
+      "game": "https://www.chess.com/game/live/6219242446"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2128,
+      "date": 1776566643,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1771291002,
+      "game": "https://www.chess.com/game/live/38983124021"
+    },
+    "record": {
+      "win": 9327,
+      "loss": 8061,
+      "draw": 315
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2349,
+      "date": 1280968905
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1280968905
+    }
+  },
+  "puzzle_rush": {}
+}

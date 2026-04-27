@@ -1,0 +1,67 @@
+{
+  "player_id": 299456293,
+  "@id": "https://api.chess.com/pub/player/siirk3",
+  "url": "https://www.chess.com/member/SiirK3",
+  "username": "siirk3",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776477509,
+  "joined": 1689163907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2557,
+      "date": 1774751330,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1694181225,
+      "game": "https://www.chess.com/game/live/87571267415"
+    },
+    "record": {
+      "win": 102,
+      "loss": 109,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2479,
+      "date": 1776446623,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1723940358,
+      "game": "https://www.chess.com/game/live/117938965835"
+    },
+    "record": {
+      "win": 265,
+      "loss": 260,
+      "draw": 32
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2491,
+      "date": 1761576619
+    },
+    "lowest": {
+      "rating": 2413,
+      "date": 1761576705
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 76422322,
+  "@id": "https://api.chess.com/pub/player/stiffmaster1",
+  "url": "https://www.chess.com/member/StiffMaster1",
+  "name": "Jos\u00e9 Daniel Gemy",
+  "username": "stiffmaster1",
+  "title": "IM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/BO",
+  "last_online": 1775508377,
+  "joined": 1586649432,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1737560686,
+      "rd": 350
+    },
+    "record": {
+      "win": 4,
+      "loss": 18,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2202,
+      "date": 1702130490,
+      "rd": 183
+    },
+    "best": {
+      "rating": 2297,
+      "date": 1699453559,
+      "game": "https://www.chess.com/game/live/24517345709"
+    },
+    "record": {
+      "win": 13,
+      "loss": 11,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2762,
+      "date": 1772077243,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2914,
+      "date": 1733278996,
+      "game": "https://www.chess.com/game/live/139225341632"
+    },
+    "record": {
+      "win": 83,
+      "loss": 53,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2599,
+      "date": 1756240552,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1687878276,
+      "game": "https://www.chess.com/game/live/4744984223"
+    },
+    "record": {
+      "win": 150,
+      "loss": 87,
+      "draw": 19
+    }
+  },
+  "fide": 2380,
+  "tactics": {
+    "highest": {
+      "rating": 2195,
+      "date": 1759212927
+    },
+    "lowest": {
+      "rating": 1944,
+      "date": 1759212967
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

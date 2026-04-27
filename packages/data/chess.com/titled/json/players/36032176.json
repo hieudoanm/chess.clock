@@ -1,0 +1,98 @@
+{
+  "player_id": 36032176,
+  "@id": "https://api.chess.com/pub/player/gagic233",
+  "url": "https://www.chess.com/member/gagic233",
+  "name": "Milan Gagic",
+  "username": "gagic233",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776545585,
+  "joined": 1496501143,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1734288149,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 43,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2121,
+      "date": 1712269927,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1607540569,
+      "game": "https://www.chess.com/game/live/16833289209"
+    },
+    "record": {
+      "win": 12,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2734,
+      "date": 1775303663,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2796,
+      "date": 1773069976,
+      "game": "https://www.chess.com/game/live/129753019327"
+    },
+    "record": {
+      "win": 1902,
+      "loss": 1587,
+      "draw": 251
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2763,
+      "date": 1776544631,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1775061777,
+      "game": "https://www.chess.com/game/live/144684437046"
+    },
+    "record": {
+      "win": 4201,
+      "loss": 3686,
+      "draw": 643
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2449,
+      "date": 1766023942
+    },
+    "lowest": {
+      "rating": 2360,
+      "date": 1764340515
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

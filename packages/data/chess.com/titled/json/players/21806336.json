@@ -1,0 +1,104 @@
+{
+  "player_id": 21806336,
+  "@id": "https://api.chess.com/pub/player/canairez",
+  "url": "https://www.chess.com/member/Canairez",
+  "name": "Noah Siegel",
+  "username": "canairez",
+  "title": "NM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "United States",
+  "last_online": 1776595160,
+  "joined": 1428075455,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2185,
+      "date": 1753321089,
+      "rd": 297
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1443819883,
+      "game": "https://www.chess.com/game/daily/159668630"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 12842,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1767291997,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1687033330,
+      "game": "https://www.chess.com/game/live/146395491384"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2372,
+      "date": 1465583133,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1465482358,
+      "game": "https://www.chess.com/game/live/1611907853"
+    },
+    "record": {
+      "win": 16,
+      "loss": 19,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1776562341,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2646,
+      "date": 1773672501,
+      "game": "https://www.chess.com/game/live/134864351569"
+    },
+    "record": {
+      "win": 4705,
+      "loss": 4065,
+      "draw": 604
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1759748659
+    },
+    "lowest": {
+      "rating": 2215,
+      "date": 1759749249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

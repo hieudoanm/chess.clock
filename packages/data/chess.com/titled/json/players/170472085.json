@@ -1,0 +1,68 @@
+{
+  "player_id": 170472085,
+  "@id": "https://api.chess.com/pub/player/rbkaissa",
+  "url": "https://www.chess.com/member/RBKaissa",
+  "name": "Roman Bashilin",
+  "username": "rbkaissa",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775666054,
+  "joined": 1643220370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2029,
+      "date": 1643397796,
+      "rd": 252
+    },
+    "best": {
+      "rating": 2029,
+      "date": 1643397796,
+      "game": "https://www.chess.com/game/live/37136398063"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2423,
+      "date": 1733267584,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1733265612,
+      "game": "https://www.chess.com/game/live/127003231643"
+    },
+    "record": {
+      "win": 51,
+      "loss": 72,
+      "draw": 15
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2325,
+      "date": 1643220370
+    },
+    "lowest": {
+      "rating": 2325,
+      "date": 1643220370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

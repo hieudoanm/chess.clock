@@ -1,0 +1,86 @@
+{
+  "player_id": 466781276,
+  "@id": "https://api.chess.com/pub/player/trivial-time",
+  "url": "https://www.chess.com/member/Trivial-Time",
+  "username": "trivial-time",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776429001,
+  "joined": 1752512478,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1638,
+      "date": 1767043478,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1638,
+      "date": 1767043477,
+      "game": "https://www.chess.com/game/daily/897100589"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 16583,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2500,
+      "date": 1773054382,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1765885303,
+      "game": "https://www.chess.com/game/live/140827154890"
+    },
+    "record": {
+      "win": 83,
+      "loss": 74,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2609,
+      "date": 1776428981,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1776428981,
+      "game": "https://www.chess.com/game/live/167337087610"
+    },
+    "record": {
+      "win": 1853,
+      "loss": 1489,
+      "draw": 337
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1817,
+      "date": 1776330809
+    },
+    "lowest": {
+      "rating": 1083,
+      "date": 1766487111
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

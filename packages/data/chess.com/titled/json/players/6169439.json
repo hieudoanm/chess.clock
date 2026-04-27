@@ -1,0 +1,103 @@
+{
+  "player_id": 6169439,
+  "@id": "https://api.chess.com/pub/player/kou88",
+  "url": "https://www.chess.com/member/Kou88",
+  "name": "Kohei Yamada",
+  "username": "kou88",
+  "title": "FM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776596755,
+  "joined": 1321975823,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1611,
+      "date": 1776473160,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1611,
+      "date": 1350056560,
+      "game": "https://www.chess.com/game/daily/58823238"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 49157,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1772189524,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2417,
+      "date": 1632035494,
+      "game": "https://www.chess.com/game/live/12378350769"
+    },
+    "record": {
+      "win": 92,
+      "loss": 40,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2163,
+      "date": 1638875009,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1612878806,
+      "game": "https://www.chess.com/game/live/6475978326"
+    },
+    "record": {
+      "win": 579,
+      "loss": 255,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1775212696,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1686041214,
+      "game": "https://www.chess.com/game/live/24558100355"
+    },
+    "record": {
+      "win": 2565,
+      "loss": 1594,
+      "draw": 240
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2943,
+      "date": 1321975823
+    },
+    "lowest": {
+      "rating": 2943,
+      "date": 1321975823
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

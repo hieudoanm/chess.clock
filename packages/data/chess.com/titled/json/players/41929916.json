@@ -1,0 +1,104 @@
+{
+  "player_id": 41929916,
+  "@id": "https://api.chess.com/pub/player/psychonerd5",
+  "url": "https://www.chess.com/member/Psychonerd5",
+  "name": "Mark Meyers",
+  "username": "psychonerd5",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776502791,
+  "joined": 1514911645,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1691601233,
+      "rd": 296
+    },
+    "best": {
+      "rating": 1008,
+      "date": 1516063201,
+      "game": "https://www.chess.com/game/daily/184404262"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 453,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2314,
+      "date": 1719761556,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1675627856,
+      "game": "https://www.chess.com/game/live/73271816737"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2439,
+      "date": 1670877131,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1670877131,
+      "game": "https://www.chess.com/game/live/64616018663"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2426,
+      "date": 1724440063,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1691512179,
+      "game": "https://www.chess.com/game/live/68771110887"
+    },
+    "record": {
+      "win": 224,
+      "loss": 91,
+      "draw": 28
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2321,
+      "date": 1763232916
+    },
+    "lowest": {
+      "rating": 2229,
+      "date": 1758295976
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

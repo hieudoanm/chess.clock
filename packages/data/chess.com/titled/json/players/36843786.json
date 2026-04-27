@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36843786.250c125d.200x200o.122ae4554787.png",
+  "player_id": 36843786,
+  "@id": "https://api.chess.com/pub/player/ritterfork",
+  "url": "https://www.chess.com/member/ritterfork",
+  "username": "ritterfork",
+  "title": "NM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776587611,
+  "joined": 1499375570,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1642,
+      "date": 1776481270,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1901,
+      "date": 1611344637,
+      "game": "https://www.chess.com/game/daily/302941052"
+    },
+    "record": {
+      "win": 97,
+      "loss": 39,
+      "draw": 12,
+      "time_per_move": 31266,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2435,
+      "date": 1774453990,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1774194106,
+      "game": "https://www.chess.com/game/live/166125913294"
+    },
+    "record": {
+      "win": 300,
+      "loss": 146,
+      "draw": 49
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1776441225,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1776441225,
+      "game": "https://www.chess.com/game/live/142476528430"
+    },
+    "record": {
+      "win": 1679,
+      "loss": 1379,
+      "draw": 133
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2266,
+      "date": 1776455885,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1752425631,
+      "game": "https://www.chess.com/game/live/142008299292"
+    },
+    "record": {
+      "win": 2014,
+      "loss": 1548,
+      "draw": 351
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1758486790
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1767477396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

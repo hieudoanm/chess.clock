@@ -1,0 +1,84 @@
+{
+  "player_id": 37076626,
+  "@id": "https://api.chess.com/pub/player/kavyev_ruslan",
+  "url": "https://www.chess.com/member/Kavyev_Ruslan",
+  "username": "kavyev_ruslan",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Saratov",
+  "last_online": 1775641918,
+  "joined": 1500217064,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2296,
+      "date": 1588174063,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1573230071,
+      "game": "https://www.chess.com/game/live/4787631890"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2261,
+      "date": 1736528908,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1605565526,
+      "game": "https://www.chess.com/game/live/3580216443"
+    },
+    "record": {
+      "win": 336,
+      "loss": 350,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2228,
+      "date": 1736452926,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1585553894,
+      "game": "https://www.chess.com/game/live/4691119685"
+    },
+    "record": {
+      "win": 5476,
+      "loss": 5638,
+      "draw": 923
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1763656914
+    },
+    "lowest": {
+      "rating": 2043,
+      "date": 1764700461
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

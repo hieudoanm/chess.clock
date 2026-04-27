@@ -1,0 +1,85 @@
+{
+  "player_id": 16795072,
+  "@id": "https://api.chess.com/pub/player/hypert",
+  "url": "https://www.chess.com/member/hypert",
+  "name": "Tangi Migot",
+  "username": "hypert",
+  "title": "IM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/EU",
+  "last_online": 1775420941,
+  "joined": 1396860500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2164,
+      "date": 1590865118,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1590853995,
+      "game": "https://www.chess.com/game/live/4929022459"
+    },
+    "record": {
+      "win": 7,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2370,
+      "date": 1589654402,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2220,
+      "date": 1589654402,
+      "game": "https://www.chess.com/game/live/4865260825"
+    },
+    "record": {
+      "win": 137,
+      "loss": 63,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2523,
+      "date": 1757437994,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1666107066,
+      "game": "https://www.chess.com/game/live/11470458703"
+    },
+    "record": {
+      "win": 1027,
+      "loss": 860,
+      "draw": 189
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2573,
+      "date": 1396860500
+    },
+    "lowest": {
+      "rating": 2573,
+      "date": 1396860500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

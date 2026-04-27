@@ -1,0 +1,94 @@
+{
+  "player_id": 65239646,
+  "@id": "https://api.chess.com/pub/player/weirdaje",
+  "url": "https://www.chess.com/member/weirdaje",
+  "name": "r c",
+  "username": "weirdaje",
+  "title": "WFM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/PR",
+  "last_online": 1775877544,
+  "joined": 1567890647,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1628,
+      "date": 1742286571,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1644,
+      "date": 1647759649,
+      "game": "https://www.chess.com/game/daily/618573309"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 72717,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1539,
+      "date": 1682040198,
+      "rd": 106
+    },
+    "best": {
+      "rating": 1617,
+      "date": 1596675465,
+      "game": "https://www.chess.com/game/live/4676188911"
+    },
+    "record": {
+      "win": 6,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1455,
+      "date": 1737255392,
+      "rd": 274
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1816,
+      "date": 1737255091,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1816,
+      "date": 1657145165,
+      "game": "https://www.chess.com/game/live/50883624381"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "fide": 1611,
+  "tactics": {
+    "highest": {
+      "rating": 2063,
+      "date": 1567890647
+    },
+    "lowest": {
+      "rating": 2063,
+      "date": 1567890647
+    }
+  },
+  "puzzle_rush": {}
+}

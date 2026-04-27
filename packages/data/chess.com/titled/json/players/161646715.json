@@ -1,0 +1,103 @@
+{
+  "player_id": 161646715,
+  "@id": "https://api.chess.com/pub/player/patt-trick",
+  "url": "https://www.chess.com/member/Patt-trick",
+  "username": "patt-trick",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776597627,
+  "joined": 1637154877,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1479,
+      "date": 1727954714,
+      "rd": 168
+    },
+    "best": {
+      "rating": 1479,
+      "date": 1665085204,
+      "game": "https://www.chess.com/game/daily/368023253"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3878,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2352,
+      "date": 1681416707,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1663411379,
+      "game": "https://www.chess.com/game/live/75154840753"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1772466762,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1667516895,
+      "game": "https://www.chess.com/game/live/61239626395"
+    },
+    "record": {
+      "win": 603,
+      "loss": 388,
+      "draw": 68
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2581,
+      "date": 1776412854,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1770370110,
+      "game": "https://www.chess.com/game/live/146064403102"
+    },
+    "record": {
+      "win": 5267,
+      "loss": 4105,
+      "draw": 650
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2371,
+      "date": 1763913056
+    },
+    "lowest": {
+      "rating": 2268,
+      "date": 1763913095
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

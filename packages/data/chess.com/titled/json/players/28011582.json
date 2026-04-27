@@ -1,0 +1,83 @@
+{
+  "player_id": 28011582,
+  "@id": "https://api.chess.com/pub/player/bonca64",
+  "url": "https://www.chess.com/member/Bonca64",
+  "username": "bonca64",
+  "title": "GM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776580931,
+  "joined": 1462195651,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2203,
+      "date": 1661710323,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1641578500,
+      "game": "https://www.chess.com/game/live/31863668311"
+    },
+    "record": {
+      "win": 849,
+      "loss": 604,
+      "draw": 183
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2448,
+      "date": 1462655567,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2353,
+      "date": 1462212798,
+      "game": "https://www.chess.com/game/live/1562989489"
+    },
+    "record": {
+      "win": 29,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2790,
+      "date": 1602170680,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2829,
+      "date": 1543657758,
+      "game": "https://www.chess.com/game/live/3246454699"
+    },
+    "record": {
+      "win": 150,
+      "loss": 123,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2390,
+      "date": 1761393858
+    },
+    "lowest": {
+      "rating": 1859,
+      "date": 1761809746
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

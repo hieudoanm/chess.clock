@@ -1,0 +1,104 @@
+{
+  "player_id": 17513144,
+  "@id": "https://api.chess.com/pub/player/03revilo",
+  "url": "https://www.chess.com/member/03revilo",
+  "name": "Oliver Stork",
+  "username": "03revilo",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775926030,
+  "joined": 1401551849,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2019,
+      "date": 1725265709,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2024,
+      "date": 1687033293,
+      "game": "https://www.chess.com/game/daily/527803793"
+    },
+    "record": {
+      "win": 85,
+      "loss": 8,
+      "draw": 3,
+      "time_per_move": 27710,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2536,
+      "date": 1747950281,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1715509887,
+      "game": "https://www.chess.com/game/live/101351486863"
+    },
+    "record": {
+      "win": 114,
+      "loss": 59,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2515,
+      "date": 1734366840,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1608401121,
+      "game": "https://www.chess.com/game/live/128105465053"
+    },
+    "record": {
+      "win": 439,
+      "loss": 342,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2619,
+      "date": 1758922925,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1758685450,
+      "game": "https://www.chess.com/game/live/87667899111"
+    },
+    "record": {
+      "win": 906,
+      "loss": 705,
+      "draw": 113
+    }
+  },
+  "fide": 2396,
+  "tactics": {
+    "highest": {
+      "rating": 2555,
+      "date": 1401551849
+    },
+    "lowest": {
+      "rating": 2555,
+      "date": 1401551849
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

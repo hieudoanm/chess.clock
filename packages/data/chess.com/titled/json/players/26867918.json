@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26867918.1b2ed9d6.200x200o.1258d7bbe88b.jpg",
+  "player_id": 26867918,
+  "@id": "https://api.chess.com/pub/player/misha_bilous",
+  "url": "https://www.chess.com/member/Misha_Bilous",
+  "name": "Mikhail Bilous",
+  "username": "misha_bilous",
+  "title": "IM",
+  "followers": 241,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776372485,
+  "joined": 1456154637,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1409,
+      "date": 1760171304,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1456154637,
+      "game": "https://www.chess.com/game/daily/621324831"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 107559,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1654264736,
+      "rd": 238
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1651240726,
+      "game": "https://www.chess.com/game/live/5169022751"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1768758416,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1702466028,
+      "game": "https://www.chess.com/game/live/80913752327"
+    },
+    "record": {
+      "win": 389,
+      "loss": 356,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1771951349,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2583,
+      "date": 1615407117,
+      "game": "https://www.chess.com/game/live/145090773911"
+    },
+    "record": {
+      "win": 794,
+      "loss": 789,
+      "draw": 118
+    }
+  },
+  "fide": 2423,
+  "tactics": {
+    "highest": {
+      "rating": 2628,
+      "date": 1456154637
+    },
+    "lowest": {
+      "rating": 2628,
+      "date": 1456154637
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 51
+    }
+  }
+}

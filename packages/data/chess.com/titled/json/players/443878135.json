@@ -1,0 +1,68 @@
+{
+  "player_id": 443878135,
+  "@id": "https://api.chess.com/pub/player/ac-008",
+  "url": "https://www.chess.com/member/AC-008",
+  "name": "Aleksandr Kulnev",
+  "username": "ac-008",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776445041,
+  "joined": 1744376030,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2706,
+      "date": 1750509818,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2741,
+      "date": 1750242169,
+      "game": "https://www.chess.com/game/live/139628475658"
+    },
+    "record": {
+      "win": 154,
+      "loss": 98,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2541,
+      "date": 1754407884,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1754407884,
+      "game": "https://www.chess.com/game/live/143881217221"
+    },
+    "record": {
+      "win": 95,
+      "loss": 58,
+      "draw": 3
+    }
+  },
+  "fide": 2213,
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1767952753
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1762531413
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 42088986,
+  "@id": "https://api.chess.com/pub/player/numerianus",
+  "url": "https://www.chess.com/member/Numerianus",
+  "name": "Santiago Beltr\u00e1n Rueda",
+  "username": "numerianus",
+  "title": "IM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775555472,
+  "joined": 1515333599,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1736,
+      "date": 1620203310,
+      "rd": 275
+    },
+    "best": {
+      "rating": 1736,
+      "date": 1588617829,
+      "game": "https://www.chess.com/game/daily/260504194"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 29910,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2391,
+      "date": 1709722671,
+      "rd": 259
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1614100795,
+      "game": "https://www.chess.com/game/live/4217807309"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1996,
+      "date": 1558798141,
+      "rd": 249
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2538,
+      "date": 1715620072,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1671665670,
+      "game": "https://www.chess.com/game/live/65403688091"
+    },
+    "record": {
+      "win": 42,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1515333599
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1515333599
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

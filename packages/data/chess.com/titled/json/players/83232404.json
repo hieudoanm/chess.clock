@@ -1,0 +1,84 @@
+{
+  "player_id": 83232404,
+  "@id": "https://api.chess.com/pub/player/anzett",
+  "url": "https://www.chess.com/member/anzett",
+  "username": "anzett",
+  "title": "WIM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776578595,
+  "joined": 1592486935,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2016,
+      "date": 1732271250,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1732271250,
+      "game": "https://www.chess.com/game/live/126008352145"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2270,
+      "date": 1732272831,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1695125520,
+      "game": "https://www.chess.com/game/live/16122977555"
+    },
+    "record": {
+      "win": 46,
+      "loss": 47,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2449,
+      "date": 1767609387,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2460,
+      "date": 1767608854,
+      "game": "https://www.chess.com/game/live/114970771777"
+    },
+    "record": {
+      "win": 351,
+      "loss": 334,
+      "draw": 28
+    }
+  },
+  "fide": 2157,
+  "tactics": {
+    "highest": {
+      "rating": 2316,
+      "date": 1775849748
+    },
+    "lowest": {
+      "rating": 2316,
+      "date": 1775849748
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

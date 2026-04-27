@@ -1,0 +1,103 @@
+{
+  "player_id": 65963208,
+  "@id": "https://api.chess.com/pub/player/shcufnairolf",
+  "url": "https://www.chess.com/member/ShcufNaiRolf",
+  "name": "Florian Fuchs",
+  "username": "shcufnairolf",
+  "title": "FM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1766121262,
+  "joined": 1569517761,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1666,
+      "date": 1701336575,
+      "rd": 287
+    },
+    "best": {
+      "rating": 1666,
+      "date": 1669719836,
+      "game": "https://www.chess.com/game/daily/442009059"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13015,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2484,
+      "date": 1756645311,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1748507824,
+      "game": "https://www.chess.com/game/live/99726716105"
+    },
+    "record": {
+      "win": 406,
+      "loss": 272,
+      "draw": 65
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2431,
+      "date": 1755978456,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1748170269,
+      "game": "https://www.chess.com/game/live/101245384503"
+    },
+    "record": {
+      "win": 64,
+      "loss": 43,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2345,
+      "date": 1752210967,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1736059141,
+      "game": "https://www.chess.com/game/live/5610987959"
+    },
+    "record": {
+      "win": 148,
+      "loss": 63,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2207,
+      "date": 1764396241
+    },
+    "lowest": {
+      "rating": 2133,
+      "date": 1758140965
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

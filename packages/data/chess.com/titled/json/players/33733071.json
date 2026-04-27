@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/33733071.355786d8.200x200o.c2907e2d0e4d.jpeg",
+  "player_id": 33733071,
+  "@id": "https://api.chess.com/pub/player/grolica",
+  "url": "https://www.chess.com/member/Grolica",
+  "username": "grolica",
+  "title": "IM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776541507,
+  "joined": 1488784560,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1164,
+      "date": 1729504703,
+      "rd": 268
+    },
+    "best": {
+      "rating": 1175,
+      "date": 1706682666,
+      "game": "https://www.chess.com/game/daily/596534767"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 24406,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1647880824,
+      "rd": 242
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1647880824,
+      "game": "https://www.chess.com/game/live/5670506288"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1615294649,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1645,
+      "date": 1602766053,
+      "game": "https://www.chess.com/game/live/5555097821"
+    },
+    "record": {
+      "win": 21,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2318,
+      "date": 1707146220,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1615536081,
+      "game": "https://www.chess.com/game/live/27633058319"
+    },
+    "record": {
+      "win": 142,
+      "loss": 67,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2174,
+      "date": 1488784560
+    },
+    "lowest": {
+      "rating": 2174,
+      "date": 1488784560
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

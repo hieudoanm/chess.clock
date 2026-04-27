@@ -1,0 +1,84 @@
+{
+  "player_id": 151082219,
+  "@id": "https://api.chess.com/pub/player/yyds123",
+  "url": "https://www.chess.com/member/yyds123",
+  "username": "yyds123",
+  "title": "GM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1775982606,
+  "joined": 1628925536,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1699607263,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1629360704,
+      "game": "https://www.chess.com/game/live/23098846003"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2731,
+      "date": 1767957025,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1767890145,
+      "game": "https://www.chess.com/game/live/147562562128"
+    },
+    "record": {
+      "win": 111,
+      "loss": 71,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2690,
+      "date": 1764750207,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1629289371,
+      "game": "https://www.chess.com/game/live/22939850457"
+    },
+    "record": {
+      "win": 133,
+      "loss": 87,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2397,
+      "date": 1766462313
+    },
+    "lowest": {
+      "rating": 2261,
+      "date": 1766462438
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

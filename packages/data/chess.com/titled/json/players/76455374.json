@@ -1,0 +1,84 @@
+{
+  "player_id": 76455374,
+  "@id": "https://api.chess.com/pub/player/venus02",
+  "url": "https://www.chess.com/member/venus02",
+  "name": "Thandalam Shanmugam Ravi",
+  "username": "venus02",
+  "title": "IM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1769337113,
+  "joined": 1586685933,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1754407628,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1754407628,
+      "game": "https://www.chess.com/game/live/141519383440"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2188,
+      "date": 1696756603,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1664288784,
+      "game": "https://www.chess.com/game/live/26730019125"
+    },
+    "record": {
+      "win": 81,
+      "loss": 74,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2424,
+      "date": 1665852900,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1586700282,
+      "game": "https://www.chess.com/game/live/5578624988"
+    },
+    "record": {
+      "win": 68,
+      "loss": 76,
+      "draw": 26
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586685933
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586685933
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

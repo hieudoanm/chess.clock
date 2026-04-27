@@ -1,0 +1,122 @@
+{
+  "player_id": 5651712,
+  "@id": "https://api.chess.com/pub/player/taylotrista",
+  "url": "https://www.chess.com/member/taylotrista",
+  "name": "Tristan Taylor",
+  "username": "taylotrista",
+  "title": "NM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776581573,
+  "joined": 1313896812,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1396,
+      "date": 1756126823,
+      "rd": 181
+    },
+    "best": {
+      "rating": 1502,
+      "date": 1524265810,
+      "game": "https://www.chess.com/game/daily/174324888"
+    },
+    "record": {
+      "win": 20,
+      "loss": 11,
+      "draw": 0,
+      "time_per_move": 33515,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 963,
+      "date": 1343129541,
+      "rd": 213
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 33515,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1973,
+      "date": 1756126823,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1907,
+      "date": 1615954407,
+      "game": "https://www.chess.com/game/live/9691481361"
+    },
+    "record": {
+      "win": 604,
+      "loss": 649,
+      "draw": 67
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2293,
+      "date": 1774036691,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1772860105,
+      "game": "https://www.chess.com/game/live/9365740615"
+    },
+    "record": {
+      "win": 3482,
+      "loss": 3481,
+      "draw": 209
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2426,
+      "date": 1776450706,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1772742024,
+      "game": "https://www.chess.com/game/live/150556095439"
+    },
+    "record": {
+      "win": 4370,
+      "loss": 4346,
+      "draw": 346
+    }
+  },
+  "fide": 1973,
+  "tactics": {
+    "highest": {
+      "rating": 2277,
+      "date": 1768975604
+    },
+    "lowest": {
+      "rating": 2277,
+      "date": 1768975604
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    },
+    "daily": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

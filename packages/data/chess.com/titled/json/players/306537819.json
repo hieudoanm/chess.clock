@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/306537819.e9e7f5bd.200x200o.bf239733d7de.jpg",
+  "player_id": 306537819,
+  "@id": "https://api.chess.com/pub/player/starsandducks",
+  "url": "https://www.chess.com/member/StarsAndDucks",
+  "username": "starsandducks",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "NYC",
+  "last_online": 1775258046,
+  "joined": 1692285568,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2211,
+      "date": 1694812878,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2280,
+      "date": 1692492169,
+      "game": "https://www.chess.com/game/live/86230745383"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2859,
+      "date": 1774990479,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2880,
+      "date": 1769890806,
+      "game": "https://www.chess.com/game/live/166688435808"
+    },
+    "record": {
+      "win": 481,
+      "loss": 630,
+      "draw": 96
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2630,
+      "date": 1774990925,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2747,
+      "date": 1755479451,
+      "game": "https://www.chess.com/game/live/142013869738"
+    },
+    "record": {
+      "win": 220,
+      "loss": 220,
+      "draw": 52
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1692285568
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1692285568
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

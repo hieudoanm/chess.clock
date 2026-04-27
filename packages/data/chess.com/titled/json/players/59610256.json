@@ -1,0 +1,147 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59610256.159d696b.200x200o.739437308013.jpeg",
+  "player_id": 59610256,
+  "@id": "https://api.chess.com/pub/player/alexandrasamaganova",
+  "url": "https://www.chess.com/member/AlexandraSamaganova",
+  "name": "Alexandra Samaganova",
+  "username": "alexandrasamaganova",
+  "title": "WFM",
+  "followers": 7829,
+  "country": "https://api.chess.com/pub/country/KG",
+  "location": "Bishkek",
+  "last_online": 1776594262,
+  "joined": 1554830864,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/alexandrasamaganova",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/alexandrasamaganova"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@alexandrasamaganova"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1704,
+      "date": 1776587854,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1918,
+      "date": 1649648809,
+      "game": "https://www.chess.com/game/daily/269677924"
+    },
+    "record": {
+      "win": 771,
+      "loss": 294,
+      "draw": 116,
+      "time_per_move": 60909,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 5,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1608,
+      "date": 1643749154,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1727,
+      "date": 1563121406,
+      "game": "https://www.chess.com/game/daily/361285143"
+    },
+    "record": {
+      "win": 37,
+      "loss": 14,
+      "draw": 3,
+      "time_per_move": 60909,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 5,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2164,
+      "date": 1775978075,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2236,
+      "date": 1704619435,
+      "game": "https://www.chess.com/game/live/93415137667"
+    },
+    "record": {
+      "win": 108,
+      "loss": 81,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2435,
+      "date": 1776595733,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1769525005,
+      "game": "https://www.chess.com/game/live/117045593071"
+    },
+    "record": {
+      "win": 5430,
+      "loss": 5383,
+      "draw": 506
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2490,
+      "date": 1776588567,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1775043901,
+      "game": "https://www.chess.com/game/live/110647963825"
+    },
+    "record": {
+      "win": 3626,
+      "loss": 3512,
+      "draw": 465
+    }
+  },
+  "fide": 1933,
+  "tactics": {
+    "highest": {
+      "rating": 2218,
+      "date": 1770035553
+    },
+    "lowest": {
+      "rating": 2021,
+      "date": 1760342422
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 80,
+      "score": 77
+    }
+  }
+}

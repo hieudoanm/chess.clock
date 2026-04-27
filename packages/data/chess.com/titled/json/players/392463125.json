@@ -1,0 +1,85 @@
+{
+  "player_id": 392463125,
+  "@id": "https://api.chess.com/pub/player/hugo-berthier",
+  "url": "https://www.chess.com/member/Hugo-Berthier",
+  "name": "Hugo Berthier",
+  "username": "hugo-berthier",
+  "title": "CM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776265859,
+  "joined": 1727681427,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2194,
+      "date": 1747298335,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1747298335,
+      "game": "https://www.chess.com/game/live/138478557294"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2612,
+      "date": 1770059504,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2678,
+      "date": 1764432216,
+      "game": "https://www.chess.com/game/live/143455735710"
+    },
+    "record": {
+      "win": 2119,
+      "loss": 2561,
+      "draw": 454
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1765549229,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1760515967,
+      "game": "https://www.chess.com/game/live/131800782633"
+    },
+    "record": {
+      "win": 1476,
+      "loss": 1828,
+      "draw": 734
+    }
+  },
+  "fide": 2186,
+  "tactics": {
+    "highest": {
+      "rating": 1641,
+      "date": 1727681427
+    },
+    "lowest": {
+      "rating": 1641,
+      "date": 1727681427
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

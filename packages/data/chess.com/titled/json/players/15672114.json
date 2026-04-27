@@ -1,0 +1,124 @@
+{
+  "player_id": 15672114,
+  "@id": "https://api.chess.com/pub/player/blubbiblubb",
+  "url": "https://www.chess.com/member/blubbiblubb",
+  "name": "Philipp Aeschbach",
+  "username": "blubbiblubb",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/CH",
+  "location": "Wettswil",
+  "last_online": 1661327276,
+  "joined": 1390249834,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1825,
+      "date": 1501711783,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1825,
+      "date": 1419356326,
+      "game": "https://www.chess.com/game/daily/84855060"
+    },
+    "record": {
+      "win": 32,
+      "loss": 11,
+      "draw": 12,
+      "time_per_move": 5136,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1482,
+      "date": 1390487569,
+      "rd": 269
+    },
+    "best": {
+      "rating": 1482,
+      "date": 1390487569,
+      "game": "https://www.chess.com/game/daily/83595116"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5136,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1954,
+      "date": 1430556896,
+      "rd": 131
+    },
+    "best": {
+      "rating": 1954,
+      "date": 1430556896,
+      "game": "https://www.chess.com/game/live/1139272489"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2223,
+      "date": 1503222139,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2114,
+      "date": 1501590152,
+      "game": "https://www.chess.com/game/live/2231520826"
+    },
+    "record": {
+      "win": 56,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1654454230,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2325,
+      "date": 1501089222,
+      "game": "https://www.chess.com/game/live/2253593902"
+    },
+    "record": {
+      "win": 177,
+      "loss": 129,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2475,
+      "date": 1390249834
+    },
+    "lowest": {
+      "rating": 2475,
+      "date": 1390249834
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 35
+    }
+  }
+}

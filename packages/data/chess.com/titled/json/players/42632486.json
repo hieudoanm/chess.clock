@@ -1,0 +1,99 @@
+{
+  "player_id": 42632486,
+  "@id": "https://api.chess.com/pub/player/marszach123",
+  "url": "https://www.chess.com/member/marszach123",
+  "name": "Maria Malicka",
+  "username": "marszach123",
+  "title": "WGM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1730228719,
+  "joined": 1516800475,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1695390120,
+      "rd": 350
+    },
+    "record": {
+      "win": 4,
+      "loss": 18,
+      "draw": 0,
+      "time_per_move": 1497190,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2143,
+      "date": 1690665127,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2170,
+      "date": 1631212770,
+      "game": "https://www.chess.com/game/live/62112069933"
+    },
+    "record": {
+      "win": 19,
+      "loss": 15,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1852,
+      "date": 1727722587,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2010,
+      "date": 1617577329,
+      "game": "https://www.chess.com/game/live/3365658614"
+    },
+    "record": {
+      "win": 101,
+      "loss": 102,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2167,
+      "date": 1727802174,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1630958777,
+      "game": "https://www.chess.com/game/live/77407933757"
+    },
+    "record": {
+      "win": 1553,
+      "loss": 1355,
+      "draw": 201
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2527,
+      "date": 1516800475
+    },
+    "lowest": {
+      "rating": 2527,
+      "date": 1516800475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

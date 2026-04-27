@@ -1,0 +1,104 @@
+{
+  "player_id": 74937172,
+  "@id": "https://api.chess.com/pub/player/a_dorrance",
+  "url": "https://www.chess.com/member/a_dorrance",
+  "name": "Adam Dorrance",
+  "username": "a_dorrance",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1769287600,
+  "joined": 1585487691,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1239,
+      "date": 1743461814,
+      "rd": 344
+    },
+    "best": {
+      "rating": 1802,
+      "date": 1588613503,
+      "game": "https://www.chess.com/game/daily/260701454"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 12029,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2475,
+      "date": 1660148652,
+      "rd": 257
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1623461731,
+      "game": "https://www.chess.com/game/live/17199170979"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1743888194,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1657302711,
+      "game": "https://www.chess.com/game/live/51985223339"
+    },
+    "record": {
+      "win": 227,
+      "loss": 220,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1749572532,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1749570270,
+      "game": "https://www.chess.com/game/live/143883607979"
+    },
+    "record": {
+      "win": 304,
+      "loss": 237,
+      "draw": 40
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1585487691
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1585487691
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

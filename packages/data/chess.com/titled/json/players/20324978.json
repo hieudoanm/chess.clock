@@ -1,0 +1,123 @@
+{
+  "player_id": 20324978,
+  "@id": "https://api.chess.com/pub/player/keures",
+  "url": "https://www.chess.com/member/Keures",
+  "name": "Daniel Madson de Medeiros Amorim",
+  "username": "keures",
+  "title": "NM",
+  "followers": 302,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776594281,
+  "joined": 1419517390,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2194,
+      "date": 1774827821,
+      "rd": 208
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1588146602,
+      "game": "https://www.chess.com/game/daily/109496866"
+    },
+    "record": {
+      "win": 78,
+      "loss": 23,
+      "draw": 26,
+      "time_per_move": 11058,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1507,
+      "date": 1423313668,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1507,
+      "date": 1423313668,
+      "game": "https://www.chess.com/game/daily/104496050"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11058,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2063,
+      "date": 1776501941,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2310,
+      "date": 1588446959,
+      "game": "https://www.chess.com/game/live/167473476152"
+    },
+    "record": {
+      "win": 34,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2210,
+      "date": 1693663570,
+      "rd": 174
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1693663570,
+      "game": "https://www.chess.com/game/live/3141228418"
+    },
+    "record": {
+      "win": 32,
+      "loss": 21,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2436,
+      "date": 1776594267,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2583,
+      "date": 1769728380,
+      "game": "https://www.chess.com/game/live/100750950873"
+    },
+    "record": {
+      "win": 17576,
+      "loss": 20264,
+      "draw": 3637
+    }
+  },
+  "fide": 2143,
+  "tactics": {
+    "highest": {
+      "rating": 2508,
+      "date": 1775980231
+    },
+    "lowest": {
+      "rating": 2410,
+      "date": 1775936760
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

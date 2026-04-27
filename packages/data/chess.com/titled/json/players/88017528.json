@@ -1,0 +1,105 @@
+{
+  "player_id": 88017528,
+  "@id": "https://api.chess.com/pub/player/txprogger",
+  "url": "https://www.chess.com/member/TXProgger",
+  "name": "GUSTAVO MORA",
+  "username": "txprogger",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "TX",
+  "last_online": 1776424131,
+  "joined": 1596233524,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1804,
+      "date": 1688153665,
+      "rd": 284
+    },
+    "best": {
+      "rating": 1804,
+      "date": 1660963191,
+      "game": "https://www.chess.com/game/daily/422959239"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2167,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2285,
+      "date": 1681584355,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1676947302,
+      "game": "https://www.chess.com/game/live/37056055239"
+    },
+    "record": {
+      "win": 22,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1917,
+      "date": 1698618247,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1643254535,
+      "game": "https://www.chess.com/game/live/36993074565"
+    },
+    "record": {
+      "win": 727,
+      "loss": 666,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2198,
+      "date": 1776383206,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1609719167,
+      "game": "https://www.chess.com/game/live/78899494721"
+    },
+    "record": {
+      "win": 5233,
+      "loss": 4646,
+      "draw": 367
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1917,
+      "date": 1596233524
+    },
+    "lowest": {
+      "rating": 1917,
+      "date": 1596233524
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

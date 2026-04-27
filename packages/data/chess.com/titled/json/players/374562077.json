@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/374562077.91346b42.200x200o.ae65f17d574a.png",
+  "player_id": 374562077,
+  "@id": "https://api.chess.com/pub/player/azizanaa",
+  "url": "https://www.chess.com/member/Azizanaa",
+  "name": "Charlotte Sanati",
+  "username": "azizanaa",
+  "title": "WFM",
+  "followers": 2034,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776450291,
+  "joined": 1720610393,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/azizana",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/azizana"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2112,
+      "date": 1774711925,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1737398974,
+      "game": "https://www.chess.com/game/live/127683627567"
+    },
+    "record": {
+      "win": 169,
+      "loss": 34,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2004,
+      "date": 1762544376,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1747322626,
+      "game": "https://www.chess.com/game/live/138490601620"
+    },
+    "record": {
+      "win": 65,
+      "loss": 68,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2031,
+      "date": 1776358354,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2045,
+      "date": 1755107742,
+      "game": "https://www.chess.com/game/live/131221187859"
+    },
+    "record": {
+      "win": 95,
+      "loss": 76,
+      "draw": 18
+    }
+  },
+  "fide": 1989,
+  "tactics": {
+    "highest": {
+      "rating": 2432,
+      "date": 1761592819
+    },
+    "lowest": {
+      "rating": 2249,
+      "date": 1756217587
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

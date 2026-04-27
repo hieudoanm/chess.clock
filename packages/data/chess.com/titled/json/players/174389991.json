@@ -1,0 +1,104 @@
+{
+  "player_id": 174389991,
+  "@id": "https://api.chess.com/pub/player/chessplayer522009",
+  "url": "https://www.chess.com/member/ChessPlayer522009",
+  "name": "Vihaan Dawda",
+  "username": "chessplayer522009",
+  "title": "CM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776564342,
+  "joined": 1645707871,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1662,
+      "date": 1776520266,
+      "rd": 309
+    },
+    "best": {
+      "rating": 1662,
+      "date": 1752241869,
+      "game": "https://www.chess.com/game/daily/835060560"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18586,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2228,
+      "date": 1759303182,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1751465313,
+      "game": "https://www.chess.com/game/live/44503770609"
+    },
+    "record": {
+      "win": 47,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2674,
+      "date": 1772720980,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1772029191,
+      "game": "https://www.chess.com/game/live/141640480086"
+    },
+    "record": {
+      "win": 426,
+      "loss": 237,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2595,
+      "date": 1765204837,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1765204837,
+      "game": "https://www.chess.com/game/live/123954098675"
+    },
+    "record": {
+      "win": 541,
+      "loss": 333,
+      "draw": 44
+    }
+  },
+  "fide": 2228,
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1775623681
+    },
+    "lowest": {
+      "rating": 2143,
+      "date": 1756911604
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "player_id": 472102042,
+  "@id": "https://api.chess.com/pub/player/karmadared",
+  "url": "https://www.chess.com/member/karmadared",
+  "name": "Akshat Sureka",
+  "username": "karmadared",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776579168,
+  "joined": 1754410377,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2191,
+      "date": 1765651025,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1776100924,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1775817133,
+      "game": "https://www.chess.com/game/live/166062341480"
+    },
+    "record": {
+      "win": 98,
+      "loss": 42,
+      "draw": 7
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2058,
+      "date": 1775879908
+    },
+    "lowest": {
+      "rating": 476,
+      "date": 1761037073
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

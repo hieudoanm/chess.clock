@@ -1,0 +1,87 @@
+{
+  "player_id": 26794962,
+  "@id": "https://api.chess.com/pub/player/angry_serb",
+  "url": "https://www.chess.com/member/Angry_Serb",
+  "name": "Ivan Sarenac",
+  "username": "angry_serb",
+  "title": "IM",
+  "followers": 157,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Belgrade",
+  "last_online": 1776457186,
+  "joined": 1455825207,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1444,
+      "date": 1492813810,
+      "rd": 275
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1455825207,
+      "game": "https://www.chess.com/game/daily/151627150"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28999,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2772,
+      "date": 1544381218,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1516142705,
+      "game": "https://www.chess.com/game/live/1498853966"
+    },
+    "record": {
+      "win": 1874,
+      "loss": 1835,
+      "draw": 137
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2733,
+      "date": 1736267306,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2736,
+      "date": 1736266650,
+      "game": "https://www.chess.com/game/live/4375975057"
+    },
+    "record": {
+      "win": 2806,
+      "loss": 2720,
+      "draw": 340
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2607,
+      "date": 1758580688
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1758624599
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

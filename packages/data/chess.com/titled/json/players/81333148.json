@@ -1,0 +1,69 @@
+{
+  "player_id": 81333148,
+  "@id": "https://api.chess.com/pub/player/a_off",
+  "url": "https://www.chess.com/member/a_off",
+  "name": "Artem Arikov",
+  "username": "a_off",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/EE",
+  "location": "Tallinn",
+  "last_online": 1772463054,
+  "joined": 1591180146,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1716294168,
+      "rd": 344
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1675274490,
+      "game": "https://www.chess.com/game/live/69012820383"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2245,
+      "date": 1750810749,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2398,
+      "date": 1718125491,
+      "game": "https://www.chess.com/game/live/111857597597"
+    },
+    "record": {
+      "win": 744,
+      "loss": 566,
+      "draw": 136
+    }
+  },
+  "fide": 2347,
+  "tactics": {
+    "highest": {
+      "rating": 2569,
+      "date": 1591180146
+    },
+    "lowest": {
+      "rating": 2569,
+      "date": 1591180146
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

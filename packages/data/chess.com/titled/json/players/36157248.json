@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36157248.8ca792ea.200x200o.477c44212f3d.png",
+  "player_id": 36157248,
+  "@id": "https://api.chess.com/pub/player/aggressus",
+  "url": "https://www.chess.com/member/Aggressus",
+  "name": "Giovanni Mejia",
+  "username": "aggressus",
+  "title": "NM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/PH",
+  "location": "Taguig",
+  "last_online": 1776589111,
+  "joined": 1496940884,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1866,
+      "date": 1513503567,
+      "rd": 282
+    },
+    "best": {
+      "rating": 1866,
+      "date": 1513503567,
+      "game": "https://www.chess.com/game/daily/180226762"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 135943,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2153,
+      "date": 1776517891,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2306,
+      "date": 1655221454,
+      "game": "https://www.chess.com/game/live/170830823093"
+    },
+    "record": {
+      "win": 101,
+      "loss": 57,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2502,
+      "date": 1766856340,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2592,
+      "date": 1675793379,
+      "game": "https://www.chess.com/game/live/161168822013"
+    },
+    "record": {
+      "win": 834,
+      "loss": 941,
+      "draw": 105
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2578,
+      "date": 1776519839,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2810,
+      "date": 1766773965,
+      "game": "https://www.chess.com/game/live/146594243938"
+    },
+    "record": {
+      "win": 2068,
+      "loss": 2111,
+      "draw": 436
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1758323779
+    },
+    "lowest": {
+      "rating": 2198,
+      "date": 1758324930
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

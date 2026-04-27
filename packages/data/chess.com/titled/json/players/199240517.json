@@ -1,0 +1,66 @@
+{
+  "player_id": 199240517,
+  "@id": "https://api.chess.com/pub/player/inthemindofamaster",
+  "url": "https://www.chess.com/member/InTheMindOfAMaster",
+  "username": "inthemindofamaster",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1773833716,
+  "joined": 1664379818,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2016,
+      "date": 1771926936,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1771926936,
+      "game": "https://www.chess.com/game/live/165135386632"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2306,
+      "date": 1683043740,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1675891258,
+      "game": "https://www.chess.com/game/live/66341491653"
+    },
+    "record": {
+      "win": 194,
+      "loss": 45,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1664379818
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1664379818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 33
+    }
+  }
+}

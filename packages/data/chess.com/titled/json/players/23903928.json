@@ -1,0 +1,85 @@
+{
+  "player_id": 23903928,
+  "@id": "https://api.chess.com/pub/player/tomsishere",
+  "url": "https://www.chess.com/member/tomsishere",
+  "name": "Thomas O`Sullivan",
+  "username": "tomsishere",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Paris",
+  "last_online": 1771756276,
+  "joined": 1441015527,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1350,
+      "date": 1732978005,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1350,
+      "date": 1732978005,
+      "game": "https://www.chess.com/game/live/126716403893"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1584,
+      "date": 1765506623,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1584,
+      "date": 1765506623,
+      "game": "https://www.chess.com/game/live/146608978674"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1771718872,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1757545549,
+      "game": "https://www.chess.com/game/live/132445262641"
+    },
+    "record": {
+      "win": 1665,
+      "loss": 1411,
+      "draw": 259
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2398,
+      "date": 1441015527
+    },
+    "lowest": {
+      "rating": 2398,
+      "date": 1441015527
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

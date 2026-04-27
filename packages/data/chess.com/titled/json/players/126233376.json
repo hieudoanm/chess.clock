@@ -1,0 +1,104 @@
+{
+  "player_id": 126233376,
+  "@id": "https://api.chess.com/pub/player/leolv10",
+  "url": "https://www.chess.com/member/LeoLV10",
+  "name": "Leo Valle Luis",
+  "username": "leolv10",
+  "title": "FM",
+  "followers": 229,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776514794,
+  "joined": 1615059007,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1957,
+      "date": 1749460848,
+      "rd": 233
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1615059007,
+      "game": "https://www.chess.com/game/daily/817718690"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 40351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2147,
+      "date": 1726854313,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2173,
+      "date": 1615060051,
+      "game": "https://www.chess.com/game/live/120583269391"
+    },
+    "record": {
+      "win": 10,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1758706663,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2736,
+      "date": 1755364155,
+      "game": "https://www.chess.com/game/live/122493237369"
+    },
+    "record": {
+      "win": 448,
+      "loss": 517,
+      "draw": 51
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2902,
+      "date": 1775138137,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2902,
+      "date": 1757061693,
+      "game": "https://www.chess.com/game/live/145612780381"
+    },
+    "record": {
+      "win": 2155,
+      "loss": 2222,
+      "draw": 267
+    }
+  },
+  "fide": 2367,
+  "tactics": {
+    "highest": {
+      "rating": 2504,
+      "date": 1758528703
+    },
+    "lowest": {
+      "rating": 2352,
+      "date": 1773847622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

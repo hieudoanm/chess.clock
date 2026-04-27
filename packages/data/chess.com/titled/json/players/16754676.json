@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16754676.2deffd1d.200x200o.09e05fcf0616.jpeg",
+  "player_id": 16754676,
+  "@id": "https://api.chess.com/pub/player/kroppar",
+  "url": "https://www.chess.com/member/kroppar",
+  "name": "Olaf Berg",
+  "username": "kroppar",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/FO",
+  "location": "T\u00f3rshavn",
+  "last_online": 1776453544,
+  "joined": 1396626315,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1477689909,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1420760420,
+      "game": "https://www.chess.com/game/daily/103163558"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 91,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2457,
+      "date": 1712927123,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1683336667,
+      "game": "https://www.chess.com/game/live/106396101019"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2363,
+      "date": 1705862148,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2363,
+      "date": 1705862148,
+      "game": "https://www.chess.com/game/live/99600880823"
+    },
+    "record": {
+      "win": 21,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2478,
+      "date": 1776453374,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1750344720,
+      "game": "https://www.chess.com/game/live/76803074119"
+    },
+    "record": {
+      "win": 422,
+      "loss": 315,
+      "draw": 37
+    }
+  },
+  "fide": 2306,
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1764530950
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1764533869
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

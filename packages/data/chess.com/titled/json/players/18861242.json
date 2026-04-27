@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18861242.e13d0eac.200x200o.3918b7fd8adc.jpeg",
+  "player_id": 18861242,
+  "@id": "https://api.chess.com/pub/player/andrewmcstone",
+  "url": "https://www.chess.com/member/AndrewMcStone",
+  "name": "Andrea Della Pietra",
+  "username": "andrewmcstone",
+  "title": "NM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1773562940,
+  "joined": 1410465755,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2375,
+      "date": 1708383564,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1620025106,
+      "game": "https://www.chess.com/game/daily/158568785"
+    },
+    "record": {
+      "win": 81,
+      "loss": 21,
+      "draw": 15,
+      "time_per_move": 42262,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1416667471,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1416667471,
+      "game": "https://www.chess.com/game/daily/99917426"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 42262,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1885,
+      "date": 1525203416,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1420837903,
+      "game": "https://www.chess.com/game/live/1024538765"
+    },
+    "record": {
+      "win": 28,
+      "loss": 17,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2104,
+      "date": 1615148075,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2173,
+      "date": 1604428936,
+      "game": "https://www.chess.com/game/live/3679670412"
+    },
+    "record": {
+      "win": 883,
+      "loss": 739,
+      "draw": 112
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2383,
+      "date": 1410465755
+    },
+    "lowest": {
+      "rating": 2383,
+      "date": 1410465755
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "player_id": 42768378,
+  "@id": "https://api.chess.com/pub/player/barys1974",
+  "url": "https://www.chess.com/member/Barys1974",
+  "name": "Pavel Kotsur",
+  "username": "barys1974",
+  "title": "GM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "Astana",
+  "last_online": 1769588174,
+  "joined": 1517140607,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1671355983,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1954,
+      "date": 1603368589,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1600593451,
+      "game": "https://www.chess.com/game/live/5471360051"
+    },
+    "record": {
+      "win": 15,
+      "loss": 9,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1709103463,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1709103463,
+      "game": "https://www.chess.com/game/live/101452298255"
+    },
+    "record": {
+      "win": 33,
+      "loss": 23,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2632,
+      "date": 1709103840,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2828,
+      "date": 1559111983,
+      "game": "https://www.chess.com/game/live/4832702138"
+    },
+    "record": {
+      "win": 1295,
+      "loss": 1081,
+      "draw": 258
+    }
+  },
+  "fide": 2500,
+  "tactics": {
+    "highest": {
+      "rating": 2417,
+      "date": 1517140607
+    },
+    "lowest": {
+      "rating": 2417,
+      "date": 1517140607
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

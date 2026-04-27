@@ -1,0 +1,104 @@
+{
+  "player_id": 77037386,
+  "@id": "https://api.chess.com/pub/player/shhuuvus",
+  "url": "https://www.chess.com/member/shhuuvus",
+  "name": "Saarthak Malakar",
+  "username": "shhuuvus",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775162431,
+  "joined": 1587163448,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1273,
+      "date": 1775134847,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1605,
+      "date": 1646174408,
+      "game": "https://www.chess.com/game/daily/390373619"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 8907,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1759765790,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1522,
+      "date": 1726255414,
+      "game": "https://www.chess.com/game/live/5502939722"
+    },
+    "record": {
+      "win": 311,
+      "loss": 262,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2124,
+      "date": 1753127768,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1733024717,
+      "game": "https://www.chess.com/game/live/71097804045"
+    },
+    "record": {
+      "win": 381,
+      "loss": 273,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2017,
+      "date": 1773852845,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1763448771,
+      "game": "https://www.chess.com/game/live/123635419765"
+    },
+    "record": {
+      "win": 4252,
+      "loss": 3795,
+      "draw": 503
+    }
+  },
+  "fide": 2088,
+  "tactics": {
+    "highest": {
+      "rating": 2089,
+      "date": 1760708806
+    },
+    "lowest": {
+      "rating": 1476,
+      "date": 1760806275
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

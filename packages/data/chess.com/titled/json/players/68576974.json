@@ -1,0 +1,102 @@
+{
+  "player_id": 68576974,
+  "@id": "https://api.chess.com/pub/player/aaruaaka",
+  "url": "https://www.chess.com/member/aaruaaka",
+  "username": "aaruaaka",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1720346129,
+  "joined": 1574934777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1251,
+      "date": 1720393266,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1313,
+      "date": 1595263802,
+      "game": "https://www.chess.com/game/daily/273877700"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 153991,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1737,
+      "date": 1718976779,
+      "rd": 195
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1588937743,
+      "game": "https://www.chess.com/game/live/4769251154"
+    },
+    "record": {
+      "win": 21,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1696,
+      "date": 1719765104,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2217,
+      "date": 1622292662,
+      "game": "https://www.chess.com/game/live/16031049689"
+    },
+    "record": {
+      "win": 136,
+      "loss": 101,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1528,
+      "date": 1595330445,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1561,
+      "date": 1587035718,
+      "game": "https://www.chess.com/game/live/5182095348"
+    },
+    "record": {
+      "win": 8,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2483,
+      "date": 1574934777
+    },
+    "lowest": {
+      "rating": 2483,
+      "date": 1574934777
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

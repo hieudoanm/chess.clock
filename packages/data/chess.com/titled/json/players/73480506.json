@@ -1,0 +1,84 @@
+{
+  "player_id": 73480506,
+  "@id": "https://api.chess.com/pub/player/speedoflight0",
+  "url": "https://www.chess.com/member/SpeedofLight0",
+  "name": "Andrew Hong",
+  "username": "speedoflight0",
+  "title": "GM",
+  "followers": 423,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776580704,
+  "joined": 1584146334,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2561,
+      "date": 1774466406,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2738,
+      "date": 1607293531,
+      "game": "https://www.chess.com/game/live/5903894018"
+    },
+    "record": {
+      "win": 60,
+      "loss": 45,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3106,
+      "date": 1776571535,
+      "rd": 40
+    },
+    "best": {
+      "rating": 3132,
+      "date": 1774674762,
+      "game": "https://www.chess.com/game/live/101930771823"
+    },
+    "record": {
+      "win": 1472,
+      "loss": 975,
+      "draw": 150
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3013,
+      "date": 1776580693,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3188,
+      "date": 1720512958,
+      "game": "https://www.chess.com/game/live/129362567795"
+    },
+    "record": {
+      "win": 1961,
+      "loss": 1278,
+      "draw": 323
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2817,
+      "date": 1584146334
+    },
+    "lowest": {
+      "rating": 2817,
+      "date": 1584146334
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 79,
+      "score": 76
+    }
+  }
+}

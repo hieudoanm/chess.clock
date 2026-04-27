@@ -1,0 +1,85 @@
+{
+  "player_id": 73319220,
+  "@id": "https://api.chess.com/pub/player/magste2007",
+  "url": "https://www.chess.com/member/Magste2007",
+  "name": "Stefanos Magkalakis",
+  "username": "magste2007",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776530351,
+  "joined": 1583871320,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2343,
+      "date": 1757594083,
+      "rd": 196
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1641727136,
+      "game": "https://www.chess.com/game/live/6263697404"
+    },
+    "record": {
+      "win": 45,
+      "loss": 12,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2750,
+      "date": 1775146459,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1773438615,
+      "game": "https://www.chess.com/game/live/147969057656"
+    },
+    "record": {
+      "win": 796,
+      "loss": 769,
+      "draw": 114
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2735,
+      "date": 1775747869,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2746,
+      "date": 1775161587,
+      "game": "https://www.chess.com/game/live/153558405161"
+    },
+    "record": {
+      "win": 392,
+      "loss": 210,
+      "draw": 44
+    }
+  },
+  "fide": 2343,
+  "tactics": {
+    "highest": {
+      "rating": 2470,
+      "date": 1583871320
+    },
+    "lowest": {
+      "rating": 2470,
+      "date": 1583871320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

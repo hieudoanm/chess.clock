@@ -1,0 +1,103 @@
+{
+  "player_id": 86774090,
+  "@id": "https://api.chess.com/pub/player/powerofapoint",
+  "url": "https://www.chess.com/member/powerofapoint",
+  "name": "Alice Lee",
+  "username": "powerofapoint",
+  "title": "IM",
+  "followers": 390,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776547446,
+  "joined": 1594835104,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2018,
+      "date": 1762867758,
+      "rd": 334
+    },
+    "best": {
+      "rating": 2018,
+      "date": 1608999602,
+      "game": "https://www.chess.com/game/daily/293268436"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 14149,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2361,
+      "date": 1761618003,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2367,
+      "date": 1761616058,
+      "game": "https://www.chess.com/game/live/125433512829"
+    },
+    "record": {
+      "win": 21,
+      "loss": 24,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2902,
+      "date": 1776097750,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3002,
+      "date": 1773723757,
+      "game": "https://www.chess.com/game/live/143049609509"
+    },
+    "record": {
+      "win": 3654,
+      "loss": 3012,
+      "draw": 694
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2864,
+      "date": 1775965915,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2933,
+      "date": 1771904489,
+      "game": "https://www.chess.com/game/live/141732410572"
+    },
+    "record": {
+      "win": 729,
+      "loss": 616,
+      "draw": 159
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2643,
+      "date": 1594835104
+    },
+    "lowest": {
+      "rating": 2643,
+      "date": 1594835104
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

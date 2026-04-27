@@ -1,0 +1,69 @@
+{
+  "player_id": 38427492,
+  "@id": "https://api.chess.com/pub/player/coach_iserlohn",
+  "url": "https://www.chess.com/member/Coach_Iserlohn",
+  "name": "Marcus Schm\u00fccker",
+  "username": "coach_iserlohn",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Iserlohn",
+  "last_online": 1773487385,
+  "joined": 1504711121,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2219,
+      "date": 1765205094,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2121,
+      "date": 1761427268,
+      "game": "https://www.chess.com/game/live/127485591605"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2285,
+      "date": 1767400944,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1767400944,
+      "game": "https://www.chess.com/game/live/2435109273"
+    },
+    "record": {
+      "win": 14,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "fide": 2219,
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1767975105
+    },
+    "lowest": {
+      "rating": 2221,
+      "date": 1767807898
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

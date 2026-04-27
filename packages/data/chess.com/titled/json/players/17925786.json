@@ -1,0 +1,123 @@
+{
+  "player_id": 17925786,
+  "@id": "https://api.chess.com/pub/player/youpod",
+  "url": "https://www.chess.com/member/Youpod",
+  "name": "Arend van de Lagemaat",
+  "username": "youpod",
+  "title": "CM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776598575,
+  "joined": 1404395966,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1576,
+      "date": 1776589676,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1682,
+      "date": 1587056360,
+      "game": "https://www.chess.com/game/daily/193767166"
+    },
+    "record": {
+      "win": 27,
+      "loss": 37,
+      "draw": 3,
+      "time_per_move": 23195,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1003,
+      "date": 1553784847,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1404395966,
+      "game": "https://www.chess.com/game/daily/220245982"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 23195,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2107,
+      "date": 1740078873,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1637856012,
+      "game": "https://www.chess.com/game/live/129560026893"
+    },
+    "record": {
+      "win": 237,
+      "loss": 185,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1498,
+      "date": 1776591552,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2041,
+      "date": 1704914989,
+      "game": "https://www.chess.com/game/live/98958300991"
+    },
+    "record": {
+      "win": 4706,
+      "loss": 4665,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2088,
+      "date": 1776585602,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1767083402,
+      "game": "https://www.chess.com/game/live/5022402410"
+    },
+    "record": {
+      "win": 7176,
+      "loss": 7035,
+      "draw": 543
+    }
+  },
+  "fide": 2045,
+  "tactics": {
+    "highest": {
+      "rating": 2375,
+      "date": 1767270399
+    },
+    "lowest": {
+      "rating": 2279,
+      "date": 1775195700
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

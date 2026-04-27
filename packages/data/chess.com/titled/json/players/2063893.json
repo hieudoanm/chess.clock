@@ -1,0 +1,102 @@
+{
+  "player_id": 2063893,
+  "@id": "https://api.chess.com/pub/player/wanmirrion",
+  "url": "https://www.chess.com/member/WanMirrion",
+  "name": "David John",
+  "username": "wanmirrion",
+  "title": "NM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1764817937,
+  "joined": 1248926692,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1297,
+      "date": 1702056246,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1438672636,
+      "game": "https://www.chess.com/game/daily/196533060"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 9552,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1169,
+      "date": 1464901299,
+      "rd": 202
+    },
+    "best": {
+      "rating": 1467,
+      "date": 1438714044,
+      "game": "https://www.chess.com/game/live/1602096774"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1962,
+      "date": 1556611340,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1977,
+      "date": 1556610880,
+      "game": "https://www.chess.com/game/live/126447444"
+    },
+    "record": {
+      "win": 21,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2289,
+      "date": 1605678041,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1527530700,
+      "game": "https://www.chess.com/game/live/1948859216"
+    },
+    "record": {
+      "win": 10223,
+      "loss": 6493,
+      "draw": 938
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1807,
+      "date": 1248926692
+    },
+    "lowest": {
+      "rating": 1807,
+      "date": 1248926692
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

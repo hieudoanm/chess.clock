@@ -1,0 +1,102 @@
+{
+  "player_id": 377700941,
+  "@id": "https://api.chess.com/pub/player/lenka_10",
+  "url": "https://www.chess.com/member/Lenka_10",
+  "username": "lenka_10",
+  "title": "WCM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1775668431,
+  "joined": 1722101988,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1799,
+      "date": 1764853776,
+      "rd": 226
+    },
+    "best": {
+      "rating": 1799,
+      "date": 1756373753,
+      "game": "https://www.chess.com/game/daily/856279238"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 1863,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2026,
+      "date": 1753251752,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2035,
+      "date": 1753250887,
+      "game": "https://www.chess.com/game/live/141006025206"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2250,
+      "date": 1775667706,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1775667706,
+      "game": "https://www.chess.com/game/live/167037551476"
+    },
+    "record": {
+      "win": 137,
+      "loss": 107,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2308,
+      "date": 1775666530,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1775665820,
+      "game": "https://www.chess.com/game/live/150629890877"
+    },
+    "record": {
+      "win": 338,
+      "loss": 220,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2324,
+      "date": 1756996377
+    },
+    "lowest": {
+      "rating": 1932,
+      "date": 1757833768
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

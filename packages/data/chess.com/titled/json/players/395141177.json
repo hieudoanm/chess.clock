@@ -1,0 +1,84 @@
+{
+  "player_id": 395141177,
+  "@id": "https://api.chess.com/pub/player/dr_strange_knight",
+  "url": "https://www.chess.com/member/DR_STRANGE_KNIGHT",
+  "username": "dr_strange_knight",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776560582,
+  "joined": 1728652769,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2063,
+      "date": 1753257671,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1752616133,
+      "game": "https://www.chess.com/game/live/140736362180"
+    },
+    "record": {
+      "win": 37,
+      "loss": 36,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2706,
+      "date": 1774460723,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1774460723,
+      "game": "https://www.chess.com/game/live/142015417422"
+    },
+    "record": {
+      "win": 154,
+      "loss": 80,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2418,
+      "date": 1774873805,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1774873805,
+      "game": "https://www.chess.com/game/live/141983316258"
+    },
+    "record": {
+      "win": 210,
+      "loss": 90,
+      "draw": 18
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1930,
+      "date": 1774601386
+    },
+    "lowest": {
+      "rating": 1558,
+      "date": 1774437778
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

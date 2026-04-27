@@ -1,0 +1,124 @@
+{
+  "player_id": 2400569,
+  "@id": "https://api.chess.com/pub/player/galileo22",
+  "url": "https://www.chess.com/member/Galileo22",
+  "name": "Owen McCoy",
+  "username": "galileo22",
+  "title": "NM",
+  "followers": 651,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Virginia",
+  "last_online": 1776519933,
+  "joined": 1261516265,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1879,
+      "date": 1680444969,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1463326224,
+      "game": "https://www.chess.com/game/daily/159763760"
+    },
+    "record": {
+      "win": 1012,
+      "loss": 536,
+      "draw": 129,
+      "time_per_move": 30093,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1620,
+      "date": 1516549899,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1853,
+      "date": 1501882808,
+      "game": "https://www.chess.com/game/daily/147967322"
+    },
+    "record": {
+      "win": 210,
+      "loss": 146,
+      "draw": 33,
+      "time_per_move": 30093,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2541,
+      "date": 1771559729,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1767551459,
+      "game": "https://www.chess.com/game/live/100133052255"
+    },
+    "record": {
+      "win": 391,
+      "loss": 301,
+      "draw": 58
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1776463566,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2979,
+      "date": 1766369969,
+      "game": "https://www.chess.com/game/live/111603167491"
+    },
+    "record": {
+      "win": 7256,
+      "loss": 7046,
+      "draw": 1009
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2745,
+      "date": 1776470799,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2905,
+      "date": 1761268640,
+      "game": "https://www.chess.com/game/live/166596737380"
+    },
+    "record": {
+      "win": 2640,
+      "loss": 2579,
+      "draw": 561
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1774111177
+    },
+    "lowest": {
+      "rating": 2246,
+      "date": 1760574211
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

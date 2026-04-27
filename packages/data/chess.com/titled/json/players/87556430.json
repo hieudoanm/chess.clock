@@ -1,0 +1,83 @@
+{
+  "player_id": 87556430,
+  "@id": "https://api.chess.com/pub/player/chessphoenix17",
+  "url": "https://www.chess.com/member/chessphoenix17",
+  "username": "chessphoenix17",
+  "title": "GM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1700449219,
+  "joined": 1595702655,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2633,
+      "date": 1605957802,
+      "rd": 291
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1601548000,
+      "game": "https://www.chess.com/game/live/5522462126"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2708,
+      "date": 1699925520,
+      "rd": 221
+    },
+    "best": {
+      "rating": 2828,
+      "date": 1605693280,
+      "game": "https://www.chess.com/game/live/5768711629"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2723,
+      "date": 1700015091,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2856,
+      "date": 1610622815,
+      "game": "https://www.chess.com/game/live/6232406106"
+    },
+    "record": {
+      "win": 68,
+      "loss": 76,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2706,
+      "date": 1595702655
+    },
+    "lowest": {
+      "rating": 2706,
+      "date": 1595702655
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 19489368,
+  "@id": "https://api.chess.com/pub/player/conquering",
+  "url": "https://www.chess.com/member/Conquering",
+  "username": "conquering",
+  "title": "GM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1728486583,
+  "joined": 1414525417,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1652465231,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1412,
+      "date": 1571558822,
+      "game": "https://www.chess.com/game/live/4134412357"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2742,
+      "date": 1714857169,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2803,
+      "date": 1700514034,
+      "game": "https://www.chess.com/game/live/101952245903"
+    },
+    "record": {
+      "win": 1058,
+      "loss": 1321,
+      "draw": 263
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2812,
+      "date": 1722433051,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1592210767,
+      "game": "https://www.chess.com/game/live/5016765398"
+    },
+    "record": {
+      "win": 2464,
+      "loss": 2758,
+      "draw": 907
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1414525417
+    },
+    "lowest": {
+      "rating": 2452,
+      "date": 1414525417
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

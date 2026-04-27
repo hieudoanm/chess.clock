@@ -1,0 +1,75 @@
+{
+  "player_id": 19058984,
+  "@id": "https://api.chess.com/pub/player/slipak",
+  "url": "https://www.chess.com/member/Slipak",
+  "name": "Sergio Slipak",
+  "username": "slipak",
+  "title": "GM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1776007359,
+  "joined": 1411748446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1952,
+      "date": 1676619284,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1964,
+      "date": 1596304008,
+      "game": "https://www.chess.com/game/live/5105361285"
+    },
+    "record": {
+      "win": 15,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1195,
+      "date": 1676619284,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2292,
+      "date": 1676619284,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2325,
+      "date": 1593530594,
+      "game": "https://www.chess.com/game/live/5236558734"
+    },
+    "record": {
+      "win": 27,
+      "loss": 12,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1411748446
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1411748446
+    }
+  },
+  "puzzle_rush": {}
+}

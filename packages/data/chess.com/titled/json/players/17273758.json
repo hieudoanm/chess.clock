@@ -1,0 +1,85 @@
+{
+  "player_id": 17273758,
+  "@id": "https://api.chess.com/pub/player/granjeroverde",
+  "url": "https://www.chess.com/member/granjeroverde",
+  "name": "Mark Van Ojik",
+  "username": "granjeroverde",
+  "title": "FM",
+  "followers": 283,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1700061629,
+  "joined": 1399913528,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2265,
+      "date": 1694608276,
+      "rd": 196
+    },
+    "best": {
+      "rating": 1681,
+      "date": 1586284354,
+      "game": "https://www.chess.com/game/live/4691277133"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2265,
+      "date": 1694608276,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2116,
+      "date": 1586155786,
+      "game": "https://www.chess.com/game/live/4685142978"
+    },
+    "record": {
+      "win": 31,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2390,
+      "date": 1700062907,
+      "rd": 174
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1567498745,
+      "game": "https://www.chess.com/game/live/4691161063"
+    },
+    "record": {
+      "win": 8699,
+      "loss": 8101,
+      "draw": 1124
+    }
+  },
+  "fide": 2265,
+  "tactics": {
+    "highest": {
+      "rating": 2006,
+      "date": 1399913528
+    },
+    "lowest": {
+      "rating": 2006,
+      "date": 1399913528
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

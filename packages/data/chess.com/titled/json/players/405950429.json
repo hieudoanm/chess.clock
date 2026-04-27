@@ -1,0 +1,108 @@
+{
+  "player_id": 405950429,
+  "@id": "https://api.chess.com/pub/player/youforgottodoyourpuzzles",
+  "url": "https://www.chess.com/member/YOUFORGOTTODOYOURPUZZLES",
+  "name": "SNOOPY DOOPY",
+  "username": "youforgottodoyourpuzzles",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/TT",
+  "location": "SKIBIDI_LAND",
+  "last_online": 1776558437,
+  "joined": 1732930708,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1767377535,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1513,
+      "date": 1757119136,
+      "game": "https://www.chess.com/game/daily/838726852"
+    },
+    "record": {
+      "win": 88,
+      "loss": 9,
+      "draw": 8,
+      "time_per_move": 21675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2122,
+      "date": 1750344966,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1750334362,
+      "game": "https://www.chess.com/game/live/139766174902"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2480,
+      "date": 1776546879,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1772226629,
+      "game": "https://www.chess.com/game/live/165299236876"
+    },
+    "record": {
+      "win": 347,
+      "loss": 292,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2567,
+      "date": 1776548379,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2680,
+      "date": 1768574031,
+      "game": "https://www.chess.com/game/live/147453055712"
+    },
+    "record": {
+      "win": 966,
+      "loss": 860,
+      "draw": 204
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1772747775
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1767378276
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

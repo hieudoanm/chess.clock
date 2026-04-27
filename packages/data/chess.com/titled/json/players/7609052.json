@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7609052.f1726324.200x200o.8cd7b034c2ad.jpeg",
+  "player_id": 7609052,
+  "@id": "https://api.chess.com/pub/player/momia77",
+  "url": "https://www.chess.com/member/momia77",
+  "name": "Roberto Miramontes",
+  "username": "momia77",
+  "title": "FM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "texas",
+  "last_online": 1776547882,
+  "joined": 1337282907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1462,
+      "date": 1767342372,
+      "rd": 242
+    },
+    "best": {
+      "rating": 1462,
+      "date": 1512140411,
+      "game": "https://www.chess.com/game/daily/173077060"
+    },
+    "record": {
+      "win": 7,
+      "loss": 22,
+      "draw": 0,
+      "time_per_move": 10591,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1536,
+      "date": 1675609210,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1710,
+      "date": 1472418279,
+      "game": "https://www.chess.com/game/live/1707796619"
+    },
+    "record": {
+      "win": 487,
+      "loss": 477,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1776539259,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1776305356,
+      "game": "https://www.chess.com/game/live/167415466726"
+    },
+    "record": {
+      "win": 7817,
+      "loss": 7559,
+      "draw": 745
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2596,
+      "date": 1776540698,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1775165038,
+      "game": "https://www.chess.com/game/live/139717407172"
+    },
+    "record": {
+      "win": 8880,
+      "loss": 8634,
+      "draw": 1406
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2329,
+      "date": 1765433378
+    },
+    "lowest": {
+      "rating": 2064,
+      "date": 1765435153
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

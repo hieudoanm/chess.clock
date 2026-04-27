@@ -1,0 +1,87 @@
+{
+  "player_id": 218660339,
+  "@id": "https://api.chess.com/pub/player/coyneollary",
+  "url": "https://www.chess.com/member/coyneollary",
+  "name": "Theodore Coyne",
+  "username": "coyneollary",
+  "title": "NM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1764475939,
+  "joined": 1672510107,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1751,
+      "date": 1746114734,
+      "rd": 213
+    },
+    "best": {
+      "rating": 1751,
+      "date": 1701106716,
+      "game": "https://www.chess.com/game/daily/515956667"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 54148,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2728,
+      "date": 1730232594,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2738,
+      "date": 1726099689,
+      "game": "https://www.chess.com/game/live/78041388639"
+    },
+    "record": {
+      "win": 221,
+      "loss": 88,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2644,
+      "date": 1723780941,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1723780155,
+      "game": "https://www.chess.com/game/live/73515262669"
+    },
+    "record": {
+      "win": 2054,
+      "loss": 1373,
+      "draw": 360
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1672510107
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1672510107
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

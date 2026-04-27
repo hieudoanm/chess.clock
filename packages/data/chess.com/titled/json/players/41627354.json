@@ -1,0 +1,84 @@
+{
+  "player_id": 41627354,
+  "@id": "https://api.chess.com/pub/player/gg91",
+  "url": "https://www.chess.com/member/GG91",
+  "name": "Georgios Gkoumas",
+  "username": "gg91",
+  "title": "IM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776379436,
+  "joined": 1514108578,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2502,
+      "date": 1623956966,
+      "rd": 301
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1590777845,
+      "game": "https://www.chess.com/game/live/4925039522"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2666,
+      "date": 1766519681,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1764698654,
+      "game": "https://www.chess.com/game/live/3323060834"
+    },
+    "record": {
+      "win": 420,
+      "loss": 215,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2441,
+      "date": 1728809355,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1646415702,
+      "game": "https://www.chess.com/game/live/3339082472"
+    },
+    "record": {
+      "win": 164,
+      "loss": 98,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2375,
+      "date": 1514108578
+    },
+    "lowest": {
+      "rating": 2375,
+      "date": 1514108578
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

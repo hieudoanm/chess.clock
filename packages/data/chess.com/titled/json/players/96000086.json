@@ -1,0 +1,67 @@
+{
+  "player_id": 96000086,
+  "@id": "https://api.chess.com/pub/player/rasmus_thogersen",
+  "url": "https://www.chess.com/member/Rasmus_Thogersen",
+  "name": "Rasmus Thogersen",
+  "username": "rasmus_thogersen",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1775407347,
+  "joined": 1604998668,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2476,
+      "date": 1769196160,
+      "rd": 192
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1605301153,
+      "game": "https://www.chess.com/game/live/13782726705"
+    },
+    "record": {
+      "win": 51,
+      "loss": 42,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2081,
+      "date": 1773427176,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1606653635,
+      "game": "https://www.chess.com/game/live/5982156662"
+    },
+    "record": {
+      "win": 147,
+      "loss": 138,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2061,
+      "date": 1760982961
+    },
+    "lowest": {
+      "rating": 2061,
+      "date": 1760982961
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

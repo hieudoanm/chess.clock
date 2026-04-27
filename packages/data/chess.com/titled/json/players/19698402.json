@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19698402.b81d839d.200x200o.f88a76c61079.png",
+  "player_id": 19698402,
+  "@id": "https://api.chess.com/pub/player/raceking",
+  "url": "https://www.chess.com/member/RACEKING",
+  "username": "raceking",
+  "title": "GM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1771777670,
+  "joined": 1415868106,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1552845080,
+      "rd": 202
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2469,
+      "date": 1771777615,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1552997181,
+      "game": "https://www.chess.com/game/live/6209313809"
+    },
+    "record": {
+      "win": 3026,
+      "loss": 2961,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1671343698,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1574765621,
+      "game": "https://www.chess.com/game/live/3605725247"
+    },
+    "record": {
+      "win": 485,
+      "loss": 405,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1761450739
+    },
+    "lowest": {
+      "rating": 2216,
+      "date": 1761449652
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

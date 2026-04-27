@@ -1,0 +1,110 @@
+{
+  "player_id": 46218472,
+  "@id": "https://api.chess.com/pub/player/ninjatrick",
+  "url": "https://www.chess.com/member/ninjatrick",
+  "name": "Rohan Rajaram",
+  "username": "ninjatrick",
+  "title": "CM",
+  "followers": 240,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776573205,
+  "joined": 1526430723,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1768,
+      "date": 1776559142,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1768,
+      "date": 1776520085,
+      "game": "https://www.chess.com/game/daily/956895829"
+    },
+    "record": {
+      "win": 52,
+      "loss": 17,
+      "draw": 10,
+      "time_per_move": 17088,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2174,
+      "date": 1775954981,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1774199935,
+      "game": "https://www.chess.com/game/live/168511468829"
+    },
+    "record": {
+      "win": 76,
+      "loss": 34,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2958,
+      "date": 1776567879,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3097,
+      "date": 1774987141,
+      "game": "https://www.chess.com/game/live/153302204851"
+    },
+    "record": {
+      "win": 3164,
+      "loss": 2490,
+      "draw": 347
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2661,
+      "date": 1776464920,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1748796484,
+      "game": "https://www.chess.com/game/live/144685167597"
+    },
+    "record": {
+      "win": 1124,
+      "loss": 939,
+      "draw": 184
+    }
+  },
+  "fide": 2249,
+  "tactics": {
+    "highest": {
+      "rating": 2579,
+      "date": 1760284350
+    },
+    "lowest": {
+      "rating": 2255,
+      "date": 1767153091
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

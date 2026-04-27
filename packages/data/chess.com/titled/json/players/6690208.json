@@ -1,0 +1,97 @@
+{
+  "player_id": 6690208,
+  "@id": "https://api.chess.com/pub/player/argente",
+  "url": "https://www.chess.com/member/Argente",
+  "username": "argente",
+  "title": "FM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1774877436,
+  "joined": 1329573841,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1547,
+      "date": 1464487994,
+      "rd": 228
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 9603,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2042,
+      "date": 1651346625,
+      "rd": 304
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1417797578,
+      "game": "https://www.chess.com/game/live/989837787"
+    },
+    "record": {
+      "win": 15,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2223,
+      "date": 1415213244,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1396273744,
+      "game": "https://www.chess.com/game/live/766576222"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2259,
+      "date": 1736063286,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1649790026,
+      "game": "https://www.chess.com/game/live/44141085095"
+    },
+    "record": {
+      "win": 1746,
+      "loss": 386,
+      "draw": 115
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2415,
+      "date": 1329573841
+    },
+    "lowest": {
+      "rating": 2415,
+      "date": 1329573841
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

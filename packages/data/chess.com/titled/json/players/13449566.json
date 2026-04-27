@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13449566.98f6c8e4.200x200o.65324a1a42f4.jpeg",
+  "player_id": 13449566,
+  "@id": "https://api.chess.com/pub/player/albi1999",
+  "url": "https://www.chess.com/member/albi1999",
+  "name": "Alberto Barp",
+  "username": "albi1999",
+  "title": "IM",
+  "followers": 166,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776508589,
+  "joined": 1378635555,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 873,
+      "date": 1718094503,
+      "rd": 225
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1378635555,
+      "game": "https://www.chess.com/game/daily/463055739"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30276,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2353,
+      "date": 1681415335,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1649361494,
+      "game": "https://www.chess.com/game/live/39122458835"
+    },
+    "record": {
+      "win": 23,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2650,
+      "date": 1776508581,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1769639652,
+      "game": "https://www.chess.com/game/live/2886093959"
+    },
+    "record": {
+      "win": 1023,
+      "loss": 752,
+      "draw": 111
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2746,
+      "date": 1770070281,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2768,
+      "date": 1676395180,
+      "game": "https://www.chess.com/game/live/134865538413"
+    },
+    "record": {
+      "win": 4755,
+      "loss": 3870,
+      "draw": 897
+    }
+  },
+  "fide": 2429,
+  "tactics": {
+    "highest": {
+      "rating": 2672,
+      "date": 1763290354
+    },
+    "lowest": {
+      "rating": 2508,
+      "date": 1763933443
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 19045132,
+  "@id": "https://api.chess.com/pub/player/garmendiarov",
+  "url": "https://www.chess.com/member/Garmendiarov",
+  "name": "Gabriel Garmendia",
+  "username": "garmendiarov",
+  "title": "CM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776236654,
+  "joined": 1411657781,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1691343978,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1691116156,
+      "game": "https://www.chess.com/game/live/83869765523"
+    },
+    "record": {
+      "win": 63,
+      "loss": 14,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2402,
+      "date": 1691860617,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1688756649,
+      "game": "https://www.chess.com/game/live/82497740029"
+    },
+    "record": {
+      "win": 329,
+      "loss": 237,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2350,
+      "date": 1722261310,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2553,
+      "date": 1686086292,
+      "game": "https://www.chess.com/game/live/79824731521"
+    },
+    "record": {
+      "win": 884,
+      "loss": 724,
+      "draw": 161
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2478,
+      "date": 1411657781
+    },
+    "lowest": {
+      "rating": 2478,
+      "date": 1411657781
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

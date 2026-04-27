@@ -1,0 +1,85 @@
+{
+  "player_id": 88479290,
+  "@id": "https://api.chess.com/pub/player/markparagua",
+  "url": "https://www.chess.com/member/MarkParagua",
+  "name": "Mark Paragua",
+  "username": "markparagua",
+  "title": "GM",
+  "followers": 218,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1624940285,
+  "joined": 1596729462,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2448,
+      "date": 1624713033,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1623844784,
+      "game": "https://www.chess.com/game/live/5590746125"
+    },
+    "record": {
+      "win": 53,
+      "loss": 8,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2900,
+      "date": 1624703209,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2904,
+      "date": 1624702825,
+      "game": "https://www.chess.com/game/live/18440995285"
+    },
+    "record": {
+      "win": 261,
+      "loss": 167,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2775,
+      "date": 1624936571,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2894,
+      "date": 1621205381,
+      "game": "https://www.chess.com/game/live/14491719981"
+    },
+    "record": {
+      "win": 675,
+      "loss": 391,
+      "draw": 136
+    }
+  },
+  "fide": 2529,
+  "tactics": {
+    "highest": {
+      "rating": 2450,
+      "date": 1596729462
+    },
+    "lowest": {
+      "rating": 2450,
+      "date": 1596729462
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3135258.f149438b.200x200o.bc97284c64dc.jpeg",
+  "player_id": 3135258,
+  "@id": "https://api.chess.com/pub/player/dariomione",
+  "url": "https://www.chess.com/member/DarioMione",
+  "name": "Dario Mione",
+  "username": "dariomione",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776510241,
+  "joined": 1217627310,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1854,
+      "date": 1462958998,
+      "rd": 175
+    },
+    "best": {
+      "rating": 1905,
+      "date": 1224180796,
+      "game": "https://www.chess.com/game/daily/35794346"
+    },
+    "record": {
+      "win": 17,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 15374,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2277,
+      "date": 1726171817,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1673997979,
+      "game": "https://www.chess.com/game/live/69546321351"
+    },
+    "record": {
+      "win": 337,
+      "loss": 111,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1217627310
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1217627310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 30
+    }
+  }
+}

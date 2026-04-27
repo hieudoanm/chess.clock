@@ -1,0 +1,69 @@
+{
+  "player_id": 2199170,
+  "@id": "https://api.chess.com/pub/player/elaurens",
+  "url": "https://www.chess.com/member/ElAurens",
+  "name": "Lawrence Stevens",
+  "username": "elaurens",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Temple City, CA",
+  "last_online": 1776545519,
+  "joined": 1254361871,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1850,
+      "date": 1645898452,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1851,
+      "date": 1625334850,
+      "game": "https://www.chess.com/game/live/39068395839"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2110,
+      "date": 1647251930,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1645903926,
+      "game": "https://www.chess.com/game/live/39073147833"
+    },
+    "record": {
+      "win": 55,
+      "loss": 45,
+      "draw": 5
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2824,
+      "date": 1771823956
+    },
+    "lowest": {
+      "rating": 2526,
+      "date": 1755578193
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 29
+    }
+  }
+}

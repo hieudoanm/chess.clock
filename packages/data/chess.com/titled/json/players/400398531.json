@@ -1,0 +1,66 @@
+{
+  "player_id": 400398531,
+  "@id": "https://api.chess.com/pub/player/brrrmuda",
+  "url": "https://www.chess.com/member/Brrrmuda",
+  "username": "brrrmuda",
+  "title": "GM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/BM",
+  "last_online": 1776415809,
+  "joined": 1730731682,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2838,
+      "date": 1776319924,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2987,
+      "date": 1771883380,
+      "game": "https://www.chess.com/game/live/167057799678"
+    },
+    "record": {
+      "win": 270,
+      "loss": 140,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3075,
+      "date": 1776195942,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3075,
+      "date": 1776195942,
+      "game": "https://www.chess.com/game/live/167292079444"
+    },
+    "record": {
+      "win": 248,
+      "loss": 125,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1540,
+      "date": 1775459979
+    },
+    "lowest": {
+      "rating": 1102,
+      "date": 1775459909
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

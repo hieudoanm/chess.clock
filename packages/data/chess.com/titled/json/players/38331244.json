@@ -1,0 +1,103 @@
+{
+  "player_id": 38331244,
+  "@id": "https://api.chess.com/pub/player/stassb",
+  "url": "https://www.chess.com/member/StasSB",
+  "name": "Stanislav Bukreev",
+  "username": "stassb",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776424288,
+  "joined": 1504403886,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1544,
+      "date": 1764801517,
+      "rd": 153
+    },
+    "best": {
+      "rating": 1809,
+      "date": 1721378876,
+      "game": "https://www.chess.com/game/daily/657127533"
+    },
+    "record": {
+      "win": 34,
+      "loss": 7,
+      "draw": 1,
+      "time_per_move": 91438,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2384,
+      "date": 1676832637
+    },
+    "best": {
+      "rating": 1625,
+      "date": 1586971868,
+      "game": "https://www.chess.com/game/live/4726320277"
+    },
+    "record": {
+      "win": 6,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2735,
+      "date": 1774604359,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2739,
+      "date": 1774438277,
+      "game": "https://www.chess.com/game/live/144310972000"
+    },
+    "record": {
+      "win": 203,
+      "loss": 108,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3104,
+      "date": 1774619488,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3104,
+      "date": 1774619488,
+      "game": "https://www.chess.com/game/live/146302402075"
+    },
+    "record": {
+      "win": 847,
+      "loss": 687,
+      "draw": 212
+    }
+  },
+  "fide": 2384,
+  "tactics": {
+    "highest": {
+      "rating": 2097,
+      "date": 1504403886
+    },
+    "lowest": {
+      "rating": 2097,
+      "date": 1504403886
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

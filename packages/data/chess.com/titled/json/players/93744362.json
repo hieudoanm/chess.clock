@@ -1,0 +1,67 @@
+{
+  "player_id": 93744362,
+  "@id": "https://api.chess.com/pub/player/juditova",
+  "url": "https://www.chess.com/member/Juditova",
+  "username": "juditova",
+  "title": "WIM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1770072936,
+  "joined": 1603463791,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2247,
+      "date": 1762728807,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1699395698,
+      "game": "https://www.chess.com/game/live/90427289675"
+    },
+    "record": {
+      "win": 28,
+      "loss": 17,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2190,
+      "date": 1764722430,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2283,
+      "date": 1724364803,
+      "game": "https://www.chess.com/game/live/121477794043"
+    },
+    "record": {
+      "win": 312,
+      "loss": 228,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2509,
+      "date": 1756048306
+    },
+    "lowest": {
+      "rating": 2187,
+      "date": 1762636782
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

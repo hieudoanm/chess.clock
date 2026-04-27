@@ -1,0 +1,85 @@
+{
+  "player_id": 100836510,
+  "@id": "https://api.chess.com/pub/player/olga_lelekova",
+  "url": "https://www.chess.com/member/Olga_Lelekova",
+  "name": "Olga Lelekova",
+  "username": "olga_lelekova",
+  "title": "WIM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "Tel-aviv",
+  "last_online": 1776460247,
+  "joined": 1606816400,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2045,
+      "date": 1615323528,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1613834890,
+      "game": "https://www.chess.com/game/live/7498888375"
+    },
+    "record": {
+      "win": 10,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1931,
+      "date": 1740518843,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1658774052,
+      "game": "https://www.chess.com/game/live/100951459967"
+    },
+    "record": {
+      "win": 9,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2190,
+      "date": 1776460166,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1692082880,
+      "game": "https://www.chess.com/game/live/10261923029"
+    },
+    "record": {
+      "win": 67,
+      "loss": 57,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1756934138
+    },
+    "lowest": {
+      "rating": 2249,
+      "date": 1775432553
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

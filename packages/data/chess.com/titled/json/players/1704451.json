@@ -1,0 +1,107 @@
+{
+  "player_id": 1704451,
+  "@id": "https://api.chess.com/pub/player/ukchessbomber",
+  "url": "https://www.chess.com/member/ukchessbomber",
+  "name": "Aaravamudhan Balaji",
+  "username": "ukchessbomber",
+  "title": "IM",
+  "followers": 125,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776597033,
+  "joined": 1231583230,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1048,
+      "date": 1768296489,
+      "rd": 317
+    },
+    "best": {
+      "rating": 1208,
+      "date": 1553432303,
+      "game": "https://www.chess.com/game/daily/219696630"
+    },
+    "record": {
+      "win": 14,
+      "loss": 35,
+      "draw": 1,
+      "time_per_move": 65448,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2384,
+      "date": 1741525010,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1678652878,
+      "game": "https://www.chess.com/game/live/125610501401"
+    },
+    "record": {
+      "win": 151,
+      "loss": 111,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2630,
+      "date": 1766521392,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1621795280,
+      "game": "https://www.chess.com/game/live/61495870005"
+    },
+    "record": {
+      "win": 3016,
+      "loss": 2163,
+      "draw": 331
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1770398215,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1739472904,
+      "game": "https://www.chess.com/game/live/121555870407"
+    },
+    "record": {
+      "win": 2656,
+      "loss": 2452,
+      "draw": 356
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2673,
+      "date": 1762451983
+    },
+    "lowest": {
+      "rating": 2584,
+      "date": 1762447152
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    },
+    "daily": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 43596734,
+  "@id": "https://api.chess.com/pub/player/yannickpelletier",
+  "url": "https://www.chess.com/member/YannickPelletier",
+  "name": "Yannick Pelletier",
+  "username": "yannickpelletier",
+  "title": "GM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1688421785,
+  "joined": 1519309342,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2328,
+      "date": 1597588290,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1597412372,
+      "game": "https://www.chess.com/game/live/5296648097"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1601055645,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1597615693,
+      "game": "https://www.chess.com/game/live/5312205017"
+    },
+    "record": {
+      "win": 24,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1620742550,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1597867629,
+      "game": "https://www.chess.com/game/live/5849745820"
+    },
+    "record": {
+      "win": 485,
+      "loss": 188,
+      "draw": 68
+    }
+  },
+  "fide": 2581,
+  "tactics": {
+    "highest": {
+      "rating": 2264,
+      "date": 1519309342
+    },
+    "lowest": {
+      "rating": 2264,
+      "date": 1519309342
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 29
+    }
+  }
+}

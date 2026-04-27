@@ -1,0 +1,86 @@
+{
+  "player_id": 8885866,
+  "@id": "https://api.chess.com/pub/player/dougie47",
+  "url": "https://www.chess.com/member/dougie47",
+  "name": "Doug Eckert",
+  "username": "dougie47",
+  "title": "FM",
+  "followers": 104,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "St. Louis",
+  "last_online": 1776578120,
+  "joined": 1347498100,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2197,
+      "date": 1735162518,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2222,
+      "date": 1688407590,
+      "game": "https://www.chess.com/game/live/82145021671"
+    },
+    "record": {
+      "win": 35,
+      "loss": 16,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2350,
+      "date": 1589577001,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1328,
+      "date": 1581782923,
+      "game": "https://www.chess.com/game/live/4501273613"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2235,
+      "date": 1776578114,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1775530328,
+      "game": "https://www.chess.com/game/live/71364425631"
+    },
+    "record": {
+      "win": 11313,
+      "loss": 9299,
+      "draw": 1840
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1757970055
+    },
+    "lowest": {
+      "rating": 1555,
+      "date": 1757972745
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

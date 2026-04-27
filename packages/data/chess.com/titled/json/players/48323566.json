@@ -1,0 +1,67 @@
+{
+  "player_id": 48323566,
+  "@id": "https://api.chess.com/pub/player/numberonefan",
+  "url": "https://www.chess.com/member/numberonefan",
+  "username": "numberonefan",
+  "title": "GM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776256730,
+  "joined": 1532972985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2894,
+      "date": 1753189683,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2933,
+      "date": 1753045791,
+      "game": "https://www.chess.com/game/live/121701631249"
+    },
+    "record": {
+      "win": 180,
+      "loss": 89,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2885,
+      "date": 1764553178,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3025,
+      "date": 1731341787,
+      "game": "https://www.chess.com/game/live/125102954167"
+    },
+    "record": {
+      "win": 607,
+      "loss": 387,
+      "draw": 159
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2268,
+      "date": 1532972985
+    },
+    "lowest": {
+      "rating": 2268,
+      "date": 1532972985
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

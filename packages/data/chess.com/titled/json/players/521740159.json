@@ -1,0 +1,85 @@
+{
+  "player_id": 521740159,
+  "@id": "https://api.chess.com/pub/player/kevinwangde",
+  "url": "https://www.chess.com/member/kevinwangDE",
+  "name": "Kevin Wang",
+  "username": "kevinwangde",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774825518,
+  "joined": 1769046456,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2032,
+      "date": 1769127260,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1769127260,
+      "game": "https://www.chess.com/game/live/148361543562"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2125,
+      "date": 1769294359,
+      "rd": 173
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1769285564,
+      "game": "https://www.chess.com/game/live/163598708885"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2577,
+      "date": 1774226407,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1770997339,
+      "game": "https://www.chess.com/game/live/165261585227"
+    },
+    "record": {
+      "win": 90,
+      "loss": 84,
+      "draw": 9
+    }
+  },
+  "fide": 2023,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1769046496
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1769046496
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

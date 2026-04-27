@@ -1,0 +1,123 @@
+{
+  "player_id": 5920798,
+  "@id": "https://api.chess.com/pub/player/stalyansky",
+  "url": "https://www.chess.com/member/stalyansky",
+  "name": "Seth Talyansky",
+  "username": "stalyansky",
+  "title": "CM",
+  "followers": 77,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Portland",
+  "last_online": 1775594285,
+  "joined": 1318088456,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2121,
+      "date": 1706799643,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2121,
+      "date": 1603585916,
+      "game": "https://www.chess.com/game/daily/280476164"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 68916,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1442931352,
+      "rd": 224
+    },
+    "best": {
+      "rating": 1671,
+      "date": 1442931352,
+      "game": "https://www.chess.com/game/daily/111549994"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 68916,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2371,
+      "date": 1673800490,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1612060327,
+      "game": "https://www.chess.com/game/live/6400356713"
+    },
+    "record": {
+      "win": 24,
+      "loss": 4,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2078,
+      "date": 1737130791,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1737130791,
+      "game": "https://www.chess.com/game/live/130869595707"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2356,
+      "date": 1774713233,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1620577920,
+      "game": "https://www.chess.com/game/live/166548108854"
+    },
+    "record": {
+      "win": 6411,
+      "loss": 5473,
+      "draw": 556
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2162,
+      "date": 1318088456
+    },
+    "lowest": {
+      "rating": 2162,
+      "date": 1318088456
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

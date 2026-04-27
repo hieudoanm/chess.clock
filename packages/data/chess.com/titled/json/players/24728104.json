@@ -1,0 +1,82 @@
+{
+  "player_id": 24728104,
+  "@id": "https://api.chess.com/pub/player/kaspatroll",
+  "url": "https://www.chess.com/member/Kaspatroll",
+  "name": "Mario Balbuena",
+  "username": "kaspatroll",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Sevilla",
+  "last_online": 1772826285,
+  "joined": 1445687993,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1597,
+      "date": 1766493744,
+      "rd": 166
+    },
+    "best": {
+      "rating": 1597,
+      "date": 1447369324,
+      "game": "https://www.chess.com/game/daily/121144222"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 9951,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2291,
+      "date": 1766493744,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1447180332,
+      "game": "https://www.chess.com/game/live/1345025353"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2291,
+      "date": 1766493744,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1448128613,
+      "game": "https://www.chess.com/game/live/1351214070"
+    },
+    "record": {
+      "win": 42,
+      "loss": 20,
+      "draw": 5
+    }
+  },
+  "fide": 2291,
+  "tactics": {
+    "highest": {
+      "rating": 2291,
+      "date": 1445687993
+    },
+    "lowest": {
+      "rating": 2291,
+      "date": 1445687993
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/58872898.f4827efe.200x200o.d0d510fae4b4.jpg",
+  "player_id": 58872898,
+  "@id": "https://api.chess.com/pub/player/tommywx",
+  "url": "https://www.chess.com/member/tommywx",
+  "name": "Tommy Wen",
+  "username": "tommywx",
+  "title": "FM",
+  "followers": 685,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Los Angeles",
+  "last_online": 1776563475,
+  "joined": 1553296814,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1799,
+      "date": 1755367350,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1863,
+      "date": 1677158206,
+      "game": "https://www.chess.com/game/daily/270470684"
+    },
+    "record": {
+      "win": 5,
+      "loss": 9,
+      "draw": 2,
+      "time_per_move": 52361,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2191,
+      "date": 1772691680,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1672789246,
+      "game": "https://www.chess.com/game/live/61789865225"
+    },
+    "record": {
+      "win": 40,
+      "loss": 17,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2721,
+      "date": 1776563460,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2897,
+      "date": 1759357110,
+      "game": "https://www.chess.com/game/live/116482185565"
+    },
+    "record": {
+      "win": 4549,
+      "loss": 3133,
+      "draw": 493
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2716,
+      "date": 1774207909,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2797,
+      "date": 1664339421,
+      "game": "https://www.chess.com/game/live/58391441955"
+    },
+    "record": {
+      "win": 393,
+      "loss": 238,
+      "draw": 69
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2735,
+      "date": 1761418311
+    },
+    "lowest": {
+      "rating": 2298,
+      "date": 1761420517
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

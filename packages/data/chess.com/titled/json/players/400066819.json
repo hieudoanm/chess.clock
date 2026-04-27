@@ -1,0 +1,85 @@
+{
+  "player_id": 400066819,
+  "@id": "https://api.chess.com/pub/player/metallchessbullet",
+  "url": "https://www.chess.com/member/MetallChessBullet",
+  "name": "Denis Shurakov",
+  "username": "metallchessbullet",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776553736,
+  "joined": 1730579661,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2227,
+      "date": 1763145737,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1763145737,
+      "game": "https://www.chess.com/game/live/142528837598"
+    },
+    "record": {
+      "win": 26,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1776553696,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2808,
+      "date": 1768076259,
+      "game": "https://www.chess.com/game/live/147766402286"
+    },
+    "record": {
+      "win": 4720,
+      "loss": 4527,
+      "draw": 880
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2616,
+      "date": 1767232270,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2677,
+      "date": 1757433196,
+      "game": "https://www.chess.com/game/live/151139296485"
+    },
+    "record": {
+      "win": 244,
+      "loss": 219,
+      "draw": 70
+    }
+  },
+  "fide": 2085,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1730579661
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1730579661
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

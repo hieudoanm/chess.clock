@@ -1,0 +1,67 @@
+{
+  "player_id": 62021002,
+  "@id": "https://api.chess.com/pub/player/bucefal_m",
+  "url": "https://www.chess.com/member/Bucefal_M",
+  "name": "Roman Martynov",
+  "username": "bucefal_m",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1645310344,
+  "joined": 1559921480,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1583670813,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1560168711,
+      "game": "https://www.chess.com/game/live/3771140397"
+    },
+    "record": {
+      "win": 15,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2688,
+      "date": 1635501487,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2684,
+      "date": 1635429224,
+      "game": "https://www.chess.com/game/live/28979985027"
+    },
+    "record": {
+      "win": 636,
+      "loss": 363,
+      "draw": 63
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2345,
+      "date": 1559921480
+    },
+    "lowest": {
+      "rating": 2345,
+      "date": 1559921480
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

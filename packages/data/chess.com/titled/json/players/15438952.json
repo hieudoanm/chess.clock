@@ -1,0 +1,84 @@
+{
+  "player_id": 15438952,
+  "@id": "https://api.chess.com/pub/player/aleksa74",
+  "url": "https://www.chess.com/member/aleksa74",
+  "name": "Aleksandar Kovacevic",
+  "username": "aleksa74",
+  "title": "GM",
+  "followers": 121,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776433907,
+  "joined": 1388997295,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2014,
+      "date": 1772028918,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2091,
+      "date": 1642961779,
+      "game": "https://www.chess.com/game/live/132938386793"
+    },
+    "record": {
+      "win": 15,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2732,
+      "date": 1774082895,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2795,
+      "date": 1690963885,
+      "game": "https://www.chess.com/game/live/2144721974"
+    },
+    "record": {
+      "win": 568,
+      "loss": 422,
+      "draw": 75
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2784,
+      "date": 1772639085,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2808,
+      "date": 1569487466,
+      "game": "https://www.chess.com/game/live/146881971320"
+    },
+    "record": {
+      "win": 3955,
+      "loss": 3625,
+      "draw": 828
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2690,
+      "date": 1756219636
+    },
+    "lowest": {
+      "rating": 2614,
+      "date": 1756219701
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

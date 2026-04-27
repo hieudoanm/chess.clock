@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/54106948.9406cd47.200x200o.6026f4622b0e.jpg",
+  "player_id": 54106948,
+  "@id": "https://api.chess.com/pub/player/big_finky",
+  "url": "https://www.chess.com/member/Big_Finky",
+  "username": "big_finky",
+  "title": "NM",
+  "followers": 200,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776590949,
+  "joined": 1545447416,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1402,
+      "date": 1728032522,
+      "rd": 194
+    },
+    "best": {
+      "rating": 1402,
+      "date": 1684515368,
+      "game": "https://www.chess.com/game/daily/327114496"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 6201,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2364,
+      "date": 1769854415,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1730151444,
+      "game": "https://www.chess.com/game/live/93478096815"
+    },
+    "record": {
+      "win": 293,
+      "loss": 204,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2319,
+      "date": 1775546124,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1709209510,
+      "game": "https://www.chess.com/game/live/60316816893"
+    },
+    "record": {
+      "win": 2933,
+      "loss": 3073,
+      "draw": 292
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2237,
+      "date": 1776590949,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1735537131,
+      "game": "https://www.chess.com/game/live/58587591205"
+    },
+    "record": {
+      "win": 9788,
+      "loss": 9914,
+      "draw": 1168
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2389,
+      "date": 1757052048
+    },
+    "lowest": {
+      "rating": 2229,
+      "date": 1775187083
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 18612188,
+  "@id": "https://api.chess.com/pub/player/chessqueen64",
+  "url": "https://www.chess.com/member/chessqueen64",
+  "name": "Anet Gempe",
+  "username": "chessqueen64",
+  "title": "WFM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Gro\u00dfp\u00f6sna",
+  "last_online": 1776588373,
+  "joined": 1408799119,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2050,
+      "date": 1659703205,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1547055994,
+      "game": "https://www.chess.com/game/daily/127173696"
+    },
+    "record": {
+      "win": 980,
+      "loss": 31,
+      "draw": 23,
+      "time_per_move": 38264,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1980,
+      "date": 1683446823,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2279,
+      "date": 1602213742,
+      "game": "https://www.chess.com/game/live/5714362044"
+    },
+    "record": {
+      "win": 805,
+      "loss": 692,
+      "draw": 258
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1544,
+      "date": 1734822945,
+      "rd": 28
+    },
+    "best": {
+      "rating": 1825,
+      "date": 1633800525,
+      "game": "https://www.chess.com/game/live/28144234805"
+    },
+    "record": {
+      "win": 4784,
+      "loss": 4343,
+      "draw": 632
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2107,
+      "date": 1776588347,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1770084438,
+      "game": "https://www.chess.com/game/live/164869176896"
+    },
+    "record": {
+      "win": 2637,
+      "loss": 2080,
+      "draw": 527
+    }
+  },
+  "fide": 2034,
+  "tactics": {
+    "highest": {
+      "rating": 2223,
+      "date": 1408799119
+    },
+    "lowest": {
+      "rating": 2223,
+      "date": 1408799119
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 41565760,
+  "@id": "https://api.chess.com/pub/player/anon219",
+  "url": "https://www.chess.com/member/anon219",
+  "username": "anon219",
+  "title": "GM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1623298353,
+  "joined": 1513932855,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2421,
+      "date": 1606500370,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1586423873,
+      "game": "https://www.chess.com/game/live/5305318697"
+    },
+    "record": {
+      "win": 16,
+      "loss": 3,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2687,
+      "date": 1623229500,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1603990707,
+      "game": "https://www.chess.com/game/live/5654448611"
+    },
+    "record": {
+      "win": 516,
+      "loss": 274,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2896,
+      "date": 1623228441,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2935,
+      "date": 1611084436,
+      "game": "https://www.chess.com/game/live/8453057561"
+    },
+    "record": {
+      "win": 576,
+      "loss": 291,
+      "draw": 75
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2511,
+      "date": 1513932855
+    },
+    "lowest": {
+      "rating": 2511,
+      "date": 1513932855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

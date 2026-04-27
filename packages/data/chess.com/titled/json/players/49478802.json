@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49478802.e26564d8.200x200o.e7f0092d8f68.jpeg",
+  "player_id": 49478802,
+  "@id": "https://api.chess.com/pub/player/mrntzchess",
+  "url": "https://www.chess.com/member/mrntzchess",
+  "name": "Tobias K\u00fcgel",
+  "username": "mrntzchess",
+  "title": "IM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776457806,
+  "joined": 1536233365,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 965,
+      "date": 1745030156,
+      "rd": 338
+    },
+    "best": {
+      "rating": 965,
+      "date": 1637496997,
+      "game": "https://www.chess.com/game/daily/360220171"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 64216,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2441,
+      "date": 1681739564,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1681739564,
+      "game": "https://www.chess.com/game/live/35662629923"
+    },
+    "record": {
+      "win": 170,
+      "loss": 60,
+      "draw": 58
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1751628847,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1644642421,
+      "game": "https://www.chess.com/game/live/38376271725"
+    },
+    "record": {
+      "win": 320,
+      "loss": 176,
+      "draw": 39
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1740507209,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1740504845,
+      "game": "https://www.chess.com/game/live/40518597097"
+    },
+    "record": {
+      "win": 808,
+      "loss": 503,
+      "draw": 122
+    }
+  },
+  "fide": 2297,
+  "tactics": {
+    "highest": {
+      "rating": 2635,
+      "date": 1536233365
+    },
+    "lowest": {
+      "rating": 2635,
+      "date": 1536233365
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 79,
+      "score": 76
+    }
+  }
+}

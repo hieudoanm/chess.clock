@@ -1,0 +1,62 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/359746033.2131076d.200x200o.301cdb3974a1.jpg",
+  "player_id": 359746033,
+  "@id": "https://api.chess.com/pub/player/dkimmich6",
+  "url": "https://www.chess.com/member/DKimmich6",
+  "username": "dkimmich6",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776598256,
+  "joined": 1714223096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2611,
+      "date": 1775334268,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1771189572,
+      "game": "https://www.chess.com/game/live/164677748660"
+    },
+    "record": {
+      "win": 330,
+      "loss": 118,
+      "draw": 77
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2696,
+      "date": 1776592386,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2858,
+      "date": 1769594573,
+      "game": "https://www.chess.com/game/live/148546126294"
+    },
+    "record": {
+      "win": 2858,
+      "loss": 2182,
+      "draw": 761
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1714223096
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1714223096
+    }
+  },
+  "puzzle_rush": {}
+}

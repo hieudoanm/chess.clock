@@ -1,0 +1,98 @@
+{
+  "player_id": 64979706,
+  "@id": "https://api.chess.com/pub/player/snegokhod",
+  "url": "https://www.chess.com/member/Snegokhod",
+  "name": "Anatoly Krutko",
+  "username": "snegokhod",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/XO",
+  "last_online": 1776389579,
+  "joined": 1567328383,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1704815941,
+      "rd": 350
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1311220,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2129,
+      "date": 1763546211,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1608358983,
+      "game": "https://www.chess.com/game/live/140924339624"
+    },
+    "record": {
+      "win": 23,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2508,
+      "date": 1776388737,
+      "rd": 17
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1765160072,
+      "game": "https://www.chess.com/game/live/4007200474"
+    },
+    "record": {
+      "win": 2101,
+      "loss": 1819,
+      "draw": 289
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2516,
+      "date": 1776376813,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1580841429,
+      "game": "https://www.chess.com/game/live/10259003431"
+    },
+    "record": {
+      "win": 768,
+      "loss": 744,
+      "draw": 146
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1567328383
+    },
+    "lowest": {
+      "rating": 2257,
+      "date": 1567328383
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

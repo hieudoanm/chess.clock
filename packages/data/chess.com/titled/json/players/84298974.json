@@ -1,0 +1,78 @@
+{
+  "player_id": 84298974,
+  "@id": "https://api.chess.com/pub/player/supermagnum",
+  "url": "https://www.chess.com/member/SuperMagnum",
+  "username": "supermagnum",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776341101,
+  "joined": 1593065488,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1601,
+      "date": 1596034203,
+      "rd": 309
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2522,
+      "date": 1725967020,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1715800416,
+      "game": "https://www.chess.com/game/live/109539134095"
+    },
+    "record": {
+      "win": 19,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2111,
+      "date": 1725967391,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1667905437,
+      "game": "https://www.chess.com/game/live/5149348266"
+    },
+    "record": {
+      "win": 102,
+      "loss": 110,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2267,
+      "date": 1593065488
+    },
+    "lowest": {
+      "rating": 2267,
+      "date": 1593065488
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": 27987328,
+  "@id": "https://api.chess.com/pub/player/terezarodshtein",
+  "url": "https://www.chess.com/member/TerezaRodshtein",
+  "name": "Tereza Rodshtein",
+  "username": "terezarodshtein",
+  "title": "WGM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1630558051,
+  "joined": 1462048558,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2490,
+      "date": 1613845019,
+      "rd": 190
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1613839970,
+      "game": "https://www.chess.com/game/live/7498384959"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1613743283,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1342,
+      "date": 1587500655,
+      "game": "https://www.chess.com/game/live/4753340728"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2184,
+      "date": 1618682969,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1618675559,
+      "game": "https://www.chess.com/game/live/4770159125"
+    },
+    "record": {
+      "win": 68,
+      "loss": 34,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2116,
+      "date": 1462048558
+    },
+    "lowest": {
+      "rating": 2116,
+      "date": 1462048558
+    }
+  },
+  "puzzle_rush": {}
+}

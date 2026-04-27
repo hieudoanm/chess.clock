@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19677328.625b3365.200x200o.68417b7f07b3.jpg",
+  "player_id": 19677328,
+  "@id": "https://api.chess.com/pub/player/felix-rose",
+  "url": "https://www.chess.com/member/Felix-Rose",
+  "name": "Felix Rose",
+  "username": "felix-rose",
+  "title": "CM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "comala",
+  "last_online": 1776559848,
+  "joined": 1415739233,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 711,
+      "date": 1769990548,
+      "rd": 276
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1415739233,
+      "game": "https://www.chess.com/game/daily/917619831"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37347,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2360,
+      "date": 1776187006,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1776187006,
+      "game": "https://www.chess.com/game/live/167134702176"
+    },
+    "record": {
+      "win": 127,
+      "loss": 60,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1900,
+      "date": 1776559837,
+      "rd": 13
+    },
+    "best": {
+      "rating": 2306,
+      "date": 1701726576,
+      "game": "https://www.chess.com/game/live/79326130727"
+    },
+    "record": {
+      "win": 16715,
+      "loss": 15963,
+      "draw": 997
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2402,
+      "date": 1773957772,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2417,
+      "date": 1706658946,
+      "game": "https://www.chess.com/game/live/134864351679"
+    },
+    "record": {
+      "win": 11746,
+      "loss": 11406,
+      "draw": 1200
+    }
+  },
+  "fide": 2091,
+  "tactics": {
+    "highest": {
+      "rating": 2266,
+      "date": 1763918503
+    },
+    "lowest": {
+      "rating": 2183,
+      "date": 1763918522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

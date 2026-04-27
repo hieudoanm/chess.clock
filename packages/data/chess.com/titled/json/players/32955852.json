@@ -1,0 +1,81 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32955852.f765ed1c.200x200o.c830a1ae1ed4.png",
+  "player_id": 32955852,
+  "@id": "https://api.chess.com/pub/player/marcnd",
+  "url": "https://www.chess.com/member/marcnd",
+  "name": "Marc Narciso Dublan",
+  "username": "marcnd",
+  "title": "GM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1776374889,
+  "joined": 1486323406,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1998,
+      "date": 1727278910,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2762,
+      "date": 1776374874,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1773320689,
+      "game": "https://www.chess.com/game/live/106790442769"
+    },
+    "record": {
+      "win": 984,
+      "loss": 501,
+      "draw": 49
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2471,
+      "date": 1773926819,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1557307228,
+      "game": "https://www.chess.com/game/live/2359482490"
+    },
+    "record": {
+      "win": 489,
+      "loss": 184,
+      "draw": 36
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2680,
+      "date": 1772789275
+    },
+    "lowest": {
+      "rating": 2573,
+      "date": 1772789085
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 37
+    }
+  }
+}

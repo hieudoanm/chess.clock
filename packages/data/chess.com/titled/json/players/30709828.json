@@ -1,0 +1,115 @@
+{
+  "player_id": 30709828,
+  "@id": "https://api.chess.com/pub/player/jk2w",
+  "url": "https://www.chess.com/member/JK2W",
+  "username": "jk2w",
+  "title": "CM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1572452846,
+  "joined": 1478094788,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1534,
+      "date": 1614373644,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1766,
+      "date": 1540086050,
+      "game": "https://www.chess.com/game/daily/202880362"
+    },
+    "record": {
+      "win": 14,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 89397,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1054,
+      "date": 1543441276,
+      "rd": 233
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 89397,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2195,
+      "date": 1563030469,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1548884395,
+      "game": "https://www.chess.com/game/live/3416868626"
+    },
+    "record": {
+      "win": 220,
+      "loss": 164,
+      "draw": 64
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1798,
+      "date": 1541875268,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1720,
+      "date": 1538861134,
+      "game": "https://www.chess.com/game/live/3124934214"
+    },
+    "record": {
+      "win": 20,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1572468810,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1548887402,
+      "game": "https://www.chess.com/game/live/3403514169"
+    },
+    "record": {
+      "win": 424,
+      "loss": 308,
+      "draw": 70
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2619,
+      "date": 1478094788
+    },
+    "lowest": {
+      "rating": 2619,
+      "date": 1478094788
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

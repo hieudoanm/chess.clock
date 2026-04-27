@@ -1,0 +1,80 @@
+{
+  "player_id": 294790707,
+  "@id": "https://api.chess.com/pub/player/ncatt",
+  "url": "https://www.chess.com/member/Ncatt",
+  "name": "Ekaterina Fomkina",
+  "username": "ncatt",
+  "title": "WFM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1695051140,
+  "joined": 1687233171,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1861,
+      "date": 1688216782,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2506,
+      "date": 1695051124,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1694700355,
+      "game": "https://www.chess.com/game/live/88625510783"
+    },
+    "record": {
+      "win": 119,
+      "loss": 103,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1695049568,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2580,
+      "date": 1694535462,
+      "game": "https://www.chess.com/game/live/88269702359"
+    },
+    "record": {
+      "win": 168,
+      "loss": 127,
+      "draw": 26
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1687233171
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1687233171
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

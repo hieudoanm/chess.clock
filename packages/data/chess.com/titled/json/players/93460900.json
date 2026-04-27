@@ -1,0 +1,84 @@
+{
+  "player_id": 93460900,
+  "@id": "https://api.chess.com/pub/player/daniel_salinas",
+  "url": "https://www.chess.com/member/Daniel_Salinas",
+  "name": "Daniel Salinas",
+  "username": "daniel_salinas",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775907770,
+  "joined": 1603125921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1772540968,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1772540865,
+      "game": "https://www.chess.com/game/live/5665522912"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2242,
+      "date": 1689668666,
+      "rd": 202
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1681664028,
+      "game": "https://www.chess.com/game/live/75402872939"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2419,
+      "date": 1710864023,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1696953272,
+      "game": "https://www.chess.com/game/live/96740509897"
+    },
+    "record": {
+      "win": 88,
+      "loss": 79,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2527,
+      "date": 1603125921
+    },
+    "lowest": {
+      "rating": 2527,
+      "date": 1603125921
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

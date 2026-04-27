@@ -1,0 +1,134 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16465186.f6118863.200x200o.a48e407c8cc1.jpg",
+  "player_id": 16465186,
+  "@id": "https://api.chess.com/pub/player/xberli",
+  "url": "https://www.chess.com/member/xberli",
+  "name": "Julio Cesar Diaz Rosas",
+  "username": "xberli",
+  "title": "IM",
+  "followers": 951,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776544306,
+  "joined": 1394872531,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/imjuliodiaz",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/imjuliodiaz"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@imjuliodiaz"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1967,
+      "date": 1776544296,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1511652006,
+      "game": "https://www.chess.com/game/daily/179447844"
+    },
+    "record": {
+      "win": 38,
+      "loss": 43,
+      "draw": 3,
+      "time_per_move": 18813,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1172,
+      "date": 1518592665,
+      "rd": 230
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1394872531,
+      "game": "https://www.chess.com/game/daily/186005798"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18813,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2338,
+      "date": 1759784009,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1614283181,
+      "game": "https://www.chess.com/game/live/36597092985"
+    },
+    "record": {
+      "win": 36,
+      "loss": 8,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2546,
+      "date": 1753445950,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1616906033,
+      "game": "https://www.chess.com/game/live/81371620285"
+    },
+    "record": {
+      "win": 1424,
+      "loss": 1337,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1776418519,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2677,
+      "date": 1655330679,
+      "game": "https://www.chess.com/game/live/113067064835"
+    },
+    "record": {
+      "win": 2333,
+      "loss": 2069,
+      "draw": 333
+    }
+  },
+  "fide": 2411,
+  "tactics": {
+    "highest": {
+      "rating": 2464,
+      "date": 1761197647
+    },
+    "lowest": {
+      "rating": 2408,
+      "date": 1761197654
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 79,
+      "score": 76
+    }
+  }
+}

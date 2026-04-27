@@ -1,0 +1,100 @@
+{
+  "player_id": 12236332,
+  "@id": "https://api.chess.com/pub/player/lucomighty",
+  "url": "https://www.chess.com/member/Lucomighty",
+  "name": "Cristian Luconi",
+  "username": "lucomighty",
+  "title": "FM",
+  "followers": 74,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Mendoza",
+  "last_online": 1776595483,
+  "joined": 1370780892,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1434,
+      "date": 1752776335,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1434,
+      "date": 1371533270,
+      "game": "https://www.chess.com/game/daily/71275442"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 22623,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2205,
+      "date": 1720666673,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1720665005,
+      "game": "https://www.chess.com/game/live/110170229591"
+    },
+    "record": {
+      "win": 17,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2061,
+      "date": 1772873943,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1717280370,
+      "game": "https://www.chess.com/game/live/111019213007"
+    },
+    "record": {
+      "win": 259,
+      "loss": 127,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1776597186,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2631,
+      "date": 1768933982,
+      "game": "https://www.chess.com/game/live/144020141216"
+    },
+    "record": {
+      "win": 4169,
+      "loss": 2512,
+      "draw": 873
+    }
+  },
+  "fide": 2204,
+  "tactics": {
+    "highest": {
+      "rating": 1705,
+      "date": 1370780892
+    },
+    "lowest": {
+      "rating": 1705,
+      "date": 1370780892
+    }
+  },
+  "puzzle_rush": {}
+}

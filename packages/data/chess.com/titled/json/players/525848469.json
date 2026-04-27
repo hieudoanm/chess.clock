@@ -1,0 +1,85 @@
+{
+  "player_id": 525848469,
+  "@id": "https://api.chess.com/pub/player/sergioocampos",
+  "url": "https://www.chess.com/member/SergiooCampos",
+  "name": "Sergio Campos Saez",
+  "username": "sergioocampos",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776536938,
+  "joined": 1770048147,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2204,
+      "date": 1771608689,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1771607794,
+      "game": "https://www.chess.com/game/live/164968219914"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1776535228,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1773689648,
+      "game": "https://www.chess.com/game/live/167476787304"
+    },
+    "record": {
+      "win": 182,
+      "loss": 125,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2453,
+      "date": 1776512390,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1775581133,
+      "game": "https://www.chess.com/game/live/169887646643"
+    },
+    "record": {
+      "win": 108,
+      "loss": 100,
+      "draw": 19
+    }
+  },
+  "fide": 2205,
+  "tactics": {
+    "highest": {
+      "rating": 2177,
+      "date": 1771340299
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1770048220
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

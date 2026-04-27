@@ -1,0 +1,68 @@
+{
+  "player_id": 18228486,
+  "@id": "https://api.chess.com/pub/player/rest007",
+  "url": "https://www.chess.com/member/rest007",
+  "username": "rest007",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+  "last_online": 1776445439,
+  "joined": 1406357290,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1730304500,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1616677358,
+      "game": "https://www.chess.com/game/live/10333144309"
+    },
+    "record": {
+      "win": 48,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2379,
+      "date": 1684061522,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1617539519,
+      "game": "https://www.chess.com/game/live/11277900863"
+    },
+    "record": {
+      "win": 43,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2671,
+      "date": 1765885599
+    },
+    "lowest": {
+      "rating": 2469,
+      "date": 1760288485
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

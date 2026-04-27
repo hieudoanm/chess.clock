@@ -1,0 +1,79 @@
+{
+  "player_id": 469314954,
+  "@id": "https://api.chess.com/pub/player/chesscut2025",
+  "url": "https://www.chess.com/member/ChessCut2025",
+  "username": "chesscut2025",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775374520,
+  "joined": 1753468302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1768318458,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1768318458,
+      "rd": 88
+    },
+    "best": {
+      "rating": 861,
+      "date": 1753469687,
+      "game": "https://www.chess.com/game/live/148302797557"
+    },
+    "record": {
+      "win": 24,
+      "loss": 20,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2563,
+      "date": 1775330734,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1775330734,
+      "game": "https://www.chess.com/game/live/165905539784"
+    },
+    "record": {
+      "win": 60,
+      "loss": 21,
+      "draw": 8
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2438,
+      "date": 1768909378
+    },
+    "lowest": {
+      "rating": 2190,
+      "date": 1768910303
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 20,
+      "score": 17
+    }
+  }
+}

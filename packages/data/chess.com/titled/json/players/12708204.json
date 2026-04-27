@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12708204.33ba589c.200x200o.588ef8f123bf.jpeg",
+  "player_id": 12708204,
+  "@id": "https://api.chess.com/pub/player/smurfo",
+  "url": "https://www.chess.com/member/smurfo",
+  "name": "David Smerdon",
+  "username": "smurfo",
+  "title": "GM",
+  "followers": 720,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Brisbane",
+  "last_online": 1776286919,
+  "joined": 1373810956,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2026,
+      "date": 1767755870,
+      "rd": 284
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1516677425,
+      "game": "https://www.chess.com/game/daily/183569916"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 14705,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2534,
+      "date": 1762430398,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1541930946,
+      "game": "https://www.chess.com/game/live/3207937689"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2080,
+      "date": 1767165327,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1465282524,
+      "game": "https://www.chess.com/game/live/557623540"
+    },
+    "record": {
+      "win": 89,
+      "loss": 43,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2656,
+      "date": 1759857184,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1759853295,
+      "game": "https://www.chess.com/game/live/1228653392"
+    },
+    "record": {
+      "win": 4190,
+      "loss": 1641,
+      "draw": 642
+    }
+  },
+  "fide": 2500,
+  "tactics": {
+    "highest": {
+      "rating": 2540,
+      "date": 1760930262
+    },
+    "lowest": {
+      "rating": 2259,
+      "date": 1767512136
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

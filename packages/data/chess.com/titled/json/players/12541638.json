@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12541638.f452b107.200x200o.64554ff2d6d1.jpeg",
+  "player_id": 12541638,
+  "@id": "https://api.chess.com/pub/player/avitalbor",
+  "url": "https://www.chess.com/member/AvitalBor",
+  "name": "Avital Boruchovsky",
+  "username": "avitalbor",
+  "title": "GM",
+  "followers": 235,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "Rehovot",
+  "last_online": 1763726989,
+  "joined": 1372627048,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1817,
+      "date": 1754580241,
+      "rd": 215
+    },
+    "best": {
+      "rating": 1899,
+      "date": 1374391093,
+      "game": "https://www.chess.com/game/daily/72903064"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 11959,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2590,
+      "date": 1706724138,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1590782587,
+      "game": "https://www.chess.com/game/live/51727284105"
+    },
+    "record": {
+      "win": 25,
+      "loss": 15,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2669,
+      "date": 1750523958,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2796,
+      "date": 1633867259,
+      "game": "https://www.chess.com/game/live/27605995139"
+    },
+    "record": {
+      "win": 252,
+      "loss": 219,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2915,
+      "date": 1763587041,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2961,
+      "date": 1760300405,
+      "game": "https://www.chess.com/game/live/133031932671"
+    },
+    "record": {
+      "win": 3069,
+      "loss": 2525,
+      "draw": 783
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2649,
+      "date": 1756839007
+    },
+    "lowest": {
+      "rating": 2480,
+      "date": 1756840039
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

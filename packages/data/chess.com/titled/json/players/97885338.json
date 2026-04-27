@@ -1,0 +1,83 @@
+{
+  "player_id": 97885338,
+  "@id": "https://api.chess.com/pub/player/kokosikkaka",
+  "url": "https://www.chess.com/member/kokosikkaka",
+  "username": "kokosikkaka",
+  "title": "FM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/MR",
+  "last_online": 1776497375,
+  "joined": 1605799375,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2537,
+      "date": 1771007711,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1769360573,
+      "game": "https://www.chess.com/game/live/148290843468"
+    },
+    "record": {
+      "win": 29,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1768592712,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2826,
+      "date": 1765452855,
+      "game": "https://www.chess.com/game/live/146766246360"
+    },
+    "record": {
+      "win": 155,
+      "loss": 115,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2838,
+      "date": 1776497309,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2867,
+      "date": 1776078791,
+      "game": "https://www.chess.com/game/live/167247536114"
+    },
+    "record": {
+      "win": 915,
+      "loss": 989,
+      "draw": 203
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2068,
+      "date": 1605799375
+    },
+    "lowest": {
+      "rating": 2068,
+      "date": 1605799375
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

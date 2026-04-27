@@ -1,0 +1,87 @@
+{
+    "player_id": 15577684,
+    "@id": "https://api.chess.com/pub/player/yuriy88",
+    "url": "https://www.chess.com/member/yuriy88",
+    "name": "Yuriy Ayrapetyan",
+    "username": "yuriy88",
+    "title": "GM",
+    "followers": 109,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1710255403,
+    "joined": 1389730567,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1548,
+            "date": 1675934897,
+            "rd": 215
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1389730567,
+            "game": "https://www.chess.com/game/daily/362266953"
+        },
+        "record": {
+            "win": 9,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 13070,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2676,
+            "date": 1680818426,
+            "rd": 59
+        },
+        "best": {
+            "rating": 2852,
+            "date": 1600953039,
+            "game": "https://www.chess.com/game/live/27204008965"
+        },
+        "record": {
+            "win": 3356,
+            "loss": 2252,
+            "draw": 425
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2769,
+            "date": 1710256029,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2905,
+            "date": 1661846605,
+            "game": "https://www.chess.com/game/live/37471797755"
+        },
+        "record": {
+            "win": 2777,
+            "loss": 1793,
+            "draw": 443
+        }
+    },
+    "fide": 2498,
+    "tactics": {
+        "highest": {
+            "rating": 3107,
+            "date": 1690098417
+        },
+        "lowest": {
+            "rating": 1407,
+            "date": 1389970740
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

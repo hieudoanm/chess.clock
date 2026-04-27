@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47701342.5725331d.200x200o.fbcf1961cc5a.jpeg",
+  "player_id": 47701342,
+  "@id": "https://api.chess.com/pub/player/sveta10",
+  "url": "https://www.chess.com/member/Sveta10",
+  "name": "Svitlana Demchenko",
+  "username": "sveta10",
+  "title": "WIM",
+  "followers": 1213,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776536077,
+  "joined": 1531019668,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/svetastream",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/svetastream"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2051,
+      "date": 1760862522,
+      "rd": 314
+    },
+    "best": {
+      "rating": 2051,
+      "date": 1729274896,
+      "game": "https://www.chess.com/game/daily/717390341"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2491,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1773254922,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2381,
+      "date": 1771198248,
+      "game": "https://www.chess.com/game/live/164746970544"
+    },
+    "record": {
+      "win": 92,
+      "loss": 35,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2453,
+      "date": 1776535076,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1766858443,
+      "game": "https://www.chess.com/game/live/109185137867"
+    },
+    "record": {
+      "win": 3752,
+      "loss": 4002,
+      "draw": 418
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2429,
+      "date": 1774204153,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1748223080,
+      "game": "https://www.chess.com/game/live/144485974991"
+    },
+    "record": {
+      "win": 696,
+      "loss": 620,
+      "draw": 140
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1531019668
+    },
+    "lowest": {
+      "rating": 2484,
+      "date": 1531019668
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

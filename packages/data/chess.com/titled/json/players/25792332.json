@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25792332.27fb075d.200x200o.eb62d694ff54.jpeg",
+  "player_id": 25792332,
+  "@id": "https://api.chess.com/pub/player/jensrahnfeld",
+  "url": "https://www.chess.com/member/JensRahnfeld",
+  "name": "Jens Rahnfeld",
+  "username": "jensrahnfeld",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Freiburg",
+  "last_online": 1776588623,
+  "joined": 1451222094,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 951,
+      "date": 1776588511,
+      "rd": 337
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1451222094,
+      "game": "https://www.chess.com/game/daily/949476379"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 17568,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2470,
+      "date": 1774728380,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1680184122,
+      "game": "https://www.chess.com/game/live/147175489692"
+    },
+    "record": {
+      "win": 53,
+      "loss": 30,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1715247742,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1774778115,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1758054736,
+      "game": "https://www.chess.com/game/live/139479941846"
+    },
+    "record": {
+      "win": 1495,
+      "loss": 1119,
+      "draw": 206
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2644,
+      "date": 1755899177
+    },
+    "lowest": {
+      "rating": 2595,
+      "date": 1757842647
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

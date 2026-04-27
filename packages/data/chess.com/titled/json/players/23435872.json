@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/23435872.49ce5408.200x200o.4c67626aad0b.jpeg",
+  "player_id": 23435872,
+  "@id": "https://api.chess.com/pub/player/therigos",
+  "url": "https://www.chess.com/member/TheRigos",
+  "name": "Richard Mladek",
+  "username": "therigos",
+  "title": "IM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Czech Republic",
+  "last_online": 1774295854,
+  "joined": 1438108308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 862,
+      "date": 1733877828,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1438108308,
+      "game": "https://www.chess.com/game/daily/436901691"
+    },
+    "record": {
+      "win": 8,
+      "loss": 17,
+      "draw": 0,
+      "time_per_move": 85016,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2010,
+      "date": 1693578373,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1544367926,
+      "game": "https://www.chess.com/game/live/4911088815"
+    },
+    "record": {
+      "win": 13,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2728,
+      "date": 1723402675,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1682791589,
+      "game": "https://www.chess.com/game/live/101386989961"
+    },
+    "record": {
+      "win": 1699,
+      "loss": 1486,
+      "draw": 149
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2575,
+      "date": 1731969009,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2708,
+      "date": 1706227301,
+      "game": "https://www.chess.com/game/live/99516173503"
+    },
+    "record": {
+      "win": 1423,
+      "loss": 1144,
+      "draw": 156
+    }
+  },
+  "fide": 401,
+  "tactics": {
+    "highest": {
+      "rating": 2610,
+      "date": 1438108308
+    },
+    "lowest": {
+      "rating": 2610,
+      "date": 1438108308
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

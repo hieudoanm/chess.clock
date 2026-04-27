@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2655365.969f28f3.200x200o.c74476f74ab3.jpeg",
+  "player_id": 2655365,
+  "@id": "https://api.chess.com/pub/player/jmatias",
+  "url": "https://www.chess.com/member/JMatias",
+  "name": "Juliano Resende M Pereira",
+  "username": "jmatias",
+  "title": "FM",
+  "followers": 295,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Uberlandia",
+  "last_online": 1776307395,
+  "joined": 1269167907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2351,
+      "date": 1463527267,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1441978322,
+      "game": "https://www.chess.com/game/daily/118392710"
+    },
+    "record": {
+      "win": 26,
+      "loss": 3,
+      "draw": 7,
+      "time_per_move": 12187,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2306,
+      "date": 1625604676,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1355446315,
+      "game": "https://www.chess.com/game/live/19082189429"
+    },
+    "record": {
+      "win": 25,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2372,
+      "date": 1624402809,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1607905439,
+      "game": "https://www.chess.com/game/live/3145576523"
+    },
+    "record": {
+      "win": 973,
+      "loss": 871,
+      "draw": 69
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1630510444,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1589747921,
+      "game": "https://www.chess.com/game/live/4376821877"
+    },
+    "record": {
+      "win": 15162,
+      "loss": 15798,
+      "draw": 1695
+    }
+  },
+  "fide": 2197,
+  "tactics": {
+    "highest": {
+      "rating": 2255,
+      "date": 1269167907
+    },
+    "lowest": {
+      "rating": 2255,
+      "date": 1269167907
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

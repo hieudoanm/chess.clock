@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18969624.b7e2bce2.200x200o.d7319c5cabd0.jpeg",
+  "player_id": 18969624,
+  "@id": "https://api.chess.com/pub/player/forantes",
+  "url": "https://www.chess.com/member/Forantes",
+  "name": "Francisco Orantes Taboada",
+  "username": "forantes",
+  "title": "FM",
+  "followers": 804,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776536185,
+  "joined": 1411165532,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/tactiquero",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/tactiquero"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 538,
+      "date": 1667850258,
+      "rd": 255
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1411165532,
+      "game": "https://www.chess.com/game/daily/267753948"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 59550,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1637099912,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2283,
+      "date": 1591551169,
+      "game": "https://www.chess.com/game/live/5588155700"
+    },
+    "record": {
+      "win": 93,
+      "loss": 36,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2492,
+      "date": 1776508347,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1616716694,
+      "game": "https://www.chess.com/game/live/10443401731"
+    },
+    "record": {
+      "win": 1978,
+      "loss": 1808,
+      "draw": 271
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2416,
+      "date": 1775053325,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1619683086,
+      "game": "https://www.chess.com/game/live/18816021777"
+    },
+    "record": {
+      "win": 1956,
+      "loss": 1371,
+      "draw": 245
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2183,
+      "date": 1776097473
+    },
+    "lowest": {
+      "rating": 2183,
+      "date": 1776097473
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

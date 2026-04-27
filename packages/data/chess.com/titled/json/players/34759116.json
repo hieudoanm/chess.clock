@@ -1,0 +1,104 @@
+{
+  "player_id": 34759116,
+  "@id": "https://api.chess.com/pub/player/knightduta",
+  "url": "https://www.chess.com/member/KnightDuta",
+  "name": "Satria Duta Cahaya",
+  "username": "knightduta",
+  "title": "IM",
+  "followers": 336,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776598751,
+  "joined": 1492138426,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2020,
+      "date": 1768268691,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1622164803,
+      "game": "https://www.chess.com/game/daily/334910783"
+    },
+    "record": {
+      "win": 68,
+      "loss": 14,
+      "draw": 8,
+      "time_per_move": 17728,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2184,
+      "date": 1711704808,
+      "rd": 123
+    },
+    "best": {
+      "rating": 1845,
+      "date": 1570860028,
+      "game": "https://www.chess.com/game/live/3778763514"
+    },
+    "record": {
+      "win": 26,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2801,
+      "date": 1772614798,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2894,
+      "date": 1755917061,
+      "game": "https://www.chess.com/game/live/144796769689"
+    },
+    "record": {
+      "win": 1184,
+      "loss": 851,
+      "draw": 85
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2992,
+      "date": 1776598179,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3051,
+      "date": 1774817582,
+      "game": "https://www.chess.com/game/live/165172191490"
+    },
+    "record": {
+      "win": 7038,
+      "loss": 5479,
+      "draw": 749
+    }
+  },
+  "fide": 2184,
+  "tactics": {
+    "highest": {
+      "rating": 2613,
+      "date": 1492138426
+    },
+    "lowest": {
+      "rating": 2613,
+      "date": 1492138426
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

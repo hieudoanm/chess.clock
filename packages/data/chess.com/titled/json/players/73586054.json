@@ -1,0 +1,104 @@
+{
+  "player_id": 73586054,
+  "@id": "https://api.chess.com/pub/player/tianzel",
+  "url": "https://www.chess.com/member/tianzel",
+  "name": "Christian Zobel",
+  "username": "tianzel",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776231443,
+  "joined": 1584298220,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1596,
+      "date": 1770595679,
+      "rd": 244
+    },
+    "best": {
+      "rating": 1653,
+      "date": 1589548450,
+      "game": "https://www.chess.com/game/daily/260527000"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 70357,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2157,
+      "date": 1684522713,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1989,
+      "date": 1602086261,
+      "game": "https://www.chess.com/game/live/78261596801"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2308,
+      "date": 1776160272,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1751810503,
+      "game": "https://www.chess.com/game/live/140393417656"
+    },
+    "record": {
+      "win": 17,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2310,
+      "date": 1764267078,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1754410011,
+      "game": "https://www.chess.com/game/live/142671616413"
+    },
+    "record": {
+      "win": 61,
+      "loss": 84,
+      "draw": 16
+    }
+  },
+  "fide": 2157,
+  "tactics": {
+    "highest": {
+      "rating": 2309,
+      "date": 1774351987
+    },
+    "lowest": {
+      "rating": 2062,
+      "date": 1761137688
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

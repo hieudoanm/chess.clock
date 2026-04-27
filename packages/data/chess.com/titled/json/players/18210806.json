@@ -1,0 +1,103 @@
+{
+  "player_id": 18210806,
+  "@id": "https://api.chess.com/pub/player/asymptotics",
+  "url": "https://www.chess.com/member/asymptotics",
+  "name": "Gregory J Kimmel",
+  "username": "asymptotics",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1662150786,
+  "joined": 1406237355,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1857,
+      "date": 1708278565,
+      "rd": 188
+    },
+    "best": {
+      "rating": 1961,
+      "date": 1539235203,
+      "game": "https://www.chess.com/game/daily/128424924"
+    },
+    "record": {
+      "win": 29,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10833,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1843,
+      "date": 1619376615,
+      "rd": 235
+    },
+    "best": {
+      "rating": 1928,
+      "date": 1457409376,
+      "game": "https://www.chess.com/game/live/1495445559"
+    },
+    "record": {
+      "win": 46,
+      "loss": 18,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2214,
+      "date": 1619376704,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1498276641,
+      "game": "https://www.chess.com/game/live/3918932216"
+    },
+    "record": {
+      "win": 1750,
+      "loss": 1463,
+      "draw": 140
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2027,
+      "date": 1619377939,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1542725477,
+      "game": "https://www.chess.com/game/live/2156299810"
+    },
+    "record": {
+      "win": 2750,
+      "loss": 2406,
+      "draw": 292
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2342,
+      "date": 1406237355
+    },
+    "lowest": {
+      "rating": 2342,
+      "date": 1406237355
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

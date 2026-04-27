@@ -1,0 +1,98 @@
+{
+  "player_id": 47974138,
+  "@id": "https://api.chess.com/pub/player/zedololo",
+  "url": "https://www.chess.com/member/ZeDoLolo",
+  "username": "zedololo",
+  "title": "NM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776299898,
+  "joined": 1531923769,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1345,
+      "date": 1749796716,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1440,
+      "date": 1714263985,
+      "game": "https://www.chess.com/game/daily/728629223"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 112297,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1335,
+      "date": 1641774224,
+      "rd": 213
+    },
+    "best": {
+      "rating": 1734,
+      "date": 1641757424,
+      "game": "https://www.chess.com/game/live/35490495827"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1985,
+      "date": 1701915279,
+      "rd": 298
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2273,
+      "date": 1775887784,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1773634070,
+      "game": "https://www.chess.com/game/live/148027355384"
+    },
+    "record": {
+      "win": 1298,
+      "loss": 875,
+      "draw": 142
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2439,
+      "date": 1774968205
+    },
+    "lowest": {
+      "rating": 2201,
+      "date": 1755724764
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

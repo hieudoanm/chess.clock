@@ -1,0 +1,99 @@
+{
+  "player_id": 8391680,
+  "@id": "https://api.chess.com/pub/player/danielaus",
+  "url": "https://www.chess.com/member/danielaus",
+  "name": "daniele parrini",
+  "username": "danielaus",
+  "title": "NM",
+  "followers": 221,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "orvieto",
+  "last_online": 1776589360,
+  "joined": 1343804770,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1667,
+      "date": 1756650489,
+      "rd": 196
+    },
+    "best": {
+      "rating": 1777,
+      "date": 1438188028,
+      "game": "https://www.chess.com/game/daily/111416630"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 8846,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1141,
+      "date": 1775196938,
+      "rd": 118
+    },
+    "record": {
+      "win": 0,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1877,
+      "date": 1776587932,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1661524656,
+      "game": "https://www.chess.com/game/live/55263566611"
+    },
+    "record": {
+      "win": 10712,
+      "loss": 10406,
+      "draw": 458
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1582,
+      "date": 1761379389,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1722928980,
+      "game": "https://www.chess.com/game/live/2951286425"
+    },
+    "record": {
+      "win": 4950,
+      "loss": 4754,
+      "draw": 285
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1950,
+      "date": 1763890123
+    },
+    "lowest": {
+      "rating": 1823,
+      "date": 1761337220
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 22
+    }
+  }
+}

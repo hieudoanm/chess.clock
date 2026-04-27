@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4545576.7107feed.200x200o.c23e4d1aa9b7.jpeg",
+  "player_id": 4545576,
+  "@id": "https://api.chess.com/pub/player/zuchbolt",
+  "url": "https://www.chess.com/member/ZuchBolt",
+  "name": "Julien Sohier",
+  "username": "zuchbolt",
+  "title": "FM",
+  "followers": 106,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776585050,
+  "joined": 1294872601,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1684,
+      "date": 1776435243,
+      "rd": 153
+    },
+    "best": {
+      "rating": 2145,
+      "date": 1429527483,
+      "game": "https://www.chess.com/game/daily/160856634"
+    },
+    "record": {
+      "win": 472,
+      "loss": 199,
+      "draw": 45,
+      "time_per_move": 29453,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2082,
+      "date": 1706292642,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1706285409,
+      "game": "https://www.chess.com/game/live/100023807861"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2173,
+      "date": 1776315137,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1751369710,
+      "game": "https://www.chess.com/game/live/113232666653"
+    },
+    "record": {
+      "win": 1004,
+      "loss": 807,
+      "draw": 78
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2294,
+      "date": 1776584199,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1695102002,
+      "game": "https://www.chess.com/game/live/68942161535"
+    },
+    "record": {
+      "win": 3177,
+      "loss": 2703,
+      "draw": 451
+    }
+  },
+  "fide": 2188,
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1760182090
+    },
+    "lowest": {
+      "rating": 2277,
+      "date": 1760171309
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

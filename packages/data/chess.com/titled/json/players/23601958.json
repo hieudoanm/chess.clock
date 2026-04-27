@@ -1,0 +1,86 @@
+{
+  "player_id": 23601958,
+  "@id": "https://api.chess.com/pub/player/naruto-k",
+  "url": "https://www.chess.com/member/Naruto-K",
+  "name": "Nikita Kuznecovs",
+  "username": "naruto-k",
+  "title": "FM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776596396,
+  "joined": 1439152985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1783,
+      "date": 1714685308,
+      "rd": 228
+    },
+    "best": {
+      "rating": 1783,
+      "date": 1668969837,
+      "game": "https://www.chess.com/game/daily/316434586"
+    },
+    "record": {
+      "win": 37,
+      "loss": 12,
+      "draw": 1,
+      "time_per_move": 7882,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2570,
+      "date": 1774113874,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1773876045,
+      "game": "https://www.chess.com/game/live/125628548519"
+    },
+    "record": {
+      "win": 987,
+      "loss": 895,
+      "draw": 69
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2495,
+      "date": 1776596388,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1603362585,
+      "game": "https://www.chess.com/game/live/67131026059"
+    },
+    "record": {
+      "win": 6169,
+      "loss": 6537,
+      "draw": 605
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1439152985
+    },
+    "lowest": {
+      "rating": 2353,
+      "date": 1439152985
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

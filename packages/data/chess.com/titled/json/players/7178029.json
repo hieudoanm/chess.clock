@@ -1,0 +1,87 @@
+{
+  "player_id": 7178029,
+  "@id": "https://api.chess.com/pub/player/campingdirk",
+  "url": "https://www.chess.com/member/campingdirk",
+  "name": "Dirk Hoogland",
+  "username": "campingdirk",
+  "title": "CM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776537926,
+  "joined": 1333488492,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 947,
+      "date": 1731922093,
+      "rd": 230
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1333488492,
+      "game": "https://www.chess.com/game/daily/572379235"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12830,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1920,
+      "date": 1672778484,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2025,
+      "date": 1641498291,
+      "game": "https://www.chess.com/game/live/1230105875"
+    },
+    "record": {
+      "win": 50,
+      "loss": 26,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2102,
+      "date": 1776537914,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1748636334,
+      "game": "https://www.chess.com/game/live/79907475507"
+    },
+    "record": {
+      "win": 4515,
+      "loss": 3833,
+      "draw": 491
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2227,
+      "date": 1766659894
+    },
+    "lowest": {
+      "rating": 1994,
+      "date": 1767276244
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

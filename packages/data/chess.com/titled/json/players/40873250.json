@@ -1,0 +1,76 @@
+{
+    "player_id": 40873250,
+    "@id": "https://api.chess.com/pub/player/domithebest",
+    "url": "https://www.chess.com/member/domithebest",
+    "name": "Slawomir Chojnacki",
+    "username": "domithebest",
+    "title": "CM",
+    "followers": 84,
+    "country": "https://api.chess.com/pub/country/PL",
+    "last_online": 1733959864,
+    "joined": 1512058962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1714573257,
+            "rd": 350
+        },
+        "record": {
+            "win": 2,
+            "loss": 10,
+            "draw": 0,
+            "time_per_move": 0,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2527,
+            "date": 1584216971,
+            "rd": 247
+        },
+        "best": {
+            "rating": 2377,
+            "date": 1584216971,
+            "game": "https://www.chess.com/game/live/4594871598"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2455,
+            "date": 1733964436,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2657,
+            "date": 1727794206,
+            "game": "https://www.chess.com/game/live/110850673543"
+        },
+        "record": {
+            "win": 6316,
+            "loss": 7792,
+            "draw": 1441
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3243,
+            "date": 1691620396
+        },
+        "lowest": {
+            "rating": 343,
+            "date": 1512163089
+        }
+    },
+    "puzzle_rush": {}
+}

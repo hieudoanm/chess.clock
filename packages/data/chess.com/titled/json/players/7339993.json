@@ -1,0 +1,108 @@
+{
+  "player_id": 7339993,
+  "@id": "https://api.chess.com/pub/player/rhpdalton",
+  "url": "https://www.chess.com/member/rhpdalton",
+  "name": "Ryan H Peterson",
+  "username": "rhpdalton",
+  "title": "NM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776567302,
+  "joined": 1334834617,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1742,
+      "date": 1713796402,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1742,
+      "date": 1560544805,
+      "game": "https://www.chess.com/game/daily/220097288"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 3,
+      "time_per_move": 52035,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1770144497,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1755298114,
+      "game": "https://www.chess.com/game/live/55716292279"
+    },
+    "record": {
+      "win": 111,
+      "loss": 64,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2347,
+      "date": 1734587413,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1651975994,
+      "game": "https://www.chess.com/game/live/43076447265"
+    },
+    "record": {
+      "win": 1244,
+      "loss": 962,
+      "draw": 107
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2429,
+      "date": 1739591119,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1688075319,
+      "game": "https://www.chess.com/game/live/81813952907"
+    },
+    "record": {
+      "win": 1128,
+      "loss": 759,
+      "draw": 142
+    }
+  },
+  "fide": 2275,
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1334834617
+    },
+    "lowest": {
+      "rating": 2469,
+      "date": 1334834617
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    },
+    "daily": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

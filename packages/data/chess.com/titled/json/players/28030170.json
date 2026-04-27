@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28030170.df5f1e03.200x200o.5dd5b1b512ed.jpg",
+  "player_id": 28030170,
+  "@id": "https://api.chess.com/pub/player/rsnr",
+  "url": "https://www.chess.com/member/Rsnr",
+  "name": "Arsene Kukhmazov",
+  "username": "rsnr",
+  "title": "IM",
+  "followers": 213,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776213842,
+  "joined": 1462299835,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1235,
+      "date": 1629033603,
+      "rd": 314
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1462299835,
+      "game": "https://www.chess.com/game/daily/186970624"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7360,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1706299919,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1463209200,
+      "game": "https://www.chess.com/game/live/100032203267"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2942,
+      "date": 1761352850,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2976,
+      "date": 1761348382,
+      "game": "https://www.chess.com/game/live/144696838888"
+    },
+    "record": {
+      "win": 3777,
+      "loss": 2509,
+      "draw": 495
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2952,
+      "date": 1772157929,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3067,
+      "date": 1770123582,
+      "game": "https://www.chess.com/game/live/112485599343"
+    },
+    "record": {
+      "win": 6095,
+      "loss": 4527,
+      "draw": 1679
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2721,
+      "date": 1761618318
+    },
+    "lowest": {
+      "rating": 2679,
+      "date": 1761618408
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

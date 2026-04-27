@@ -1,0 +1,84 @@
+{
+  "player_id": 23789696,
+  "@id": "https://api.chess.com/pub/player/bafmas",
+  "url": "https://www.chess.com/member/bafmas",
+  "name": "Malcolm Stephens",
+  "username": "bafmas",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776577718,
+  "joined": 1440324642,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2249,
+      "date": 1763585944,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1651274149,
+      "game": "https://www.chess.com/game/live/87358835439"
+    },
+    "record": {
+      "win": 105,
+      "loss": 62,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2071,
+      "date": 1776577705,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1675156222,
+      "game": "https://www.chess.com/game/live/68895811379"
+    },
+    "record": {
+      "win": 587,
+      "loss": 446,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2355,
+      "date": 1773461548,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1773461548,
+      "game": "https://www.chess.com/game/live/49192150163"
+    },
+    "record": {
+      "win": 1375,
+      "loss": 997,
+      "draw": 221
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2374,
+      "date": 1440324642
+    },
+    "lowest": {
+      "rating": 2374,
+      "date": 1440324642
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

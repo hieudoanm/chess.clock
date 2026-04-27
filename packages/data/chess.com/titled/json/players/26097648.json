@@ -1,0 +1,103 @@
+{
+  "player_id": 26097648,
+  "@id": "https://api.chess.com/pub/player/maxfan2008",
+  "url": "https://www.chess.com/member/Maxfan2008",
+  "name": "Maxim Gavrilov",
+  "username": "maxfan2008",
+  "title": "FM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1713894657,
+  "joined": 1452623647,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1714473255,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1702,
+      "date": 1561278456,
+      "game": "https://www.chess.com/game/daily/221667992"
+    },
+    "record": {
+      "win": 63,
+      "loss": 22,
+      "draw": 7,
+      "time_per_move": 16421,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2209,
+      "date": 1678119677,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1640694053,
+      "game": "https://www.chess.com/game/live/33418807877"
+    },
+    "record": {
+      "win": 157,
+      "loss": 104,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2492,
+      "date": 1706636563,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1706385192,
+      "game": "https://www.chess.com/game/live/100118640237"
+    },
+    "record": {
+      "win": 233,
+      "loss": 143,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2656,
+      "date": 1713891495,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2657,
+      "date": 1713890911,
+      "game": "https://www.chess.com/game/live/107627032641"
+    },
+    "record": {
+      "win": 1417,
+      "loss": 1317,
+      "draw": 111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2926,
+      "date": 1452623647
+    },
+    "lowest": {
+      "rating": 2926,
+      "date": 1452623647
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

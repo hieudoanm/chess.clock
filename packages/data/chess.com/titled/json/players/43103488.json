@@ -1,0 +1,98 @@
+{
+  "player_id": 43103488,
+  "@id": "https://api.chess.com/pub/player/snap_man",
+  "url": "https://www.chess.com/member/snap_man",
+  "name": "Ekaterina Diakonova",
+  "username": "snap_man",
+  "title": "NM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1758056057,
+  "joined": 1518028541,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1334,
+      "date": 1718131159,
+      "rd": 223
+    },
+    "record": {
+      "win": 0,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 151698,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2259,
+      "date": 1649672800,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2281,
+      "date": 1591212410,
+      "game": "https://www.chess.com/game/live/5529135834"
+    },
+    "record": {
+      "win": 16,
+      "loss": 16,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1649673075,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1649673075,
+      "game": "https://www.chess.com/game/live/4877927134"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2327,
+      "date": 1757364491,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1752005989,
+      "game": "https://www.chess.com/game/live/4833812166"
+    },
+    "record": {
+      "win": 218,
+      "loss": 203,
+      "draw": 26
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2261,
+      "date": 1518028541
+    },
+    "lowest": {
+      "rating": 2261,
+      "date": 1518028541
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

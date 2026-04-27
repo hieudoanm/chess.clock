@@ -1,0 +1,100 @@
+{
+  "player_id": 11149052,
+  "@id": "https://api.chess.com/pub/player/poluribharath",
+  "url": "https://www.chess.com/member/poluribharath",
+  "name": "Bharat Kumar Reddy Poluri",
+  "username": "poluribharath",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Hyderabad",
+  "last_online": 1776421754,
+  "joined": 1363324340,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 341,
+      "date": 1766066984,
+      "rd": 311
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 838615,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2161,
+      "date": 1766066984,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1764162580,
+      "game": "https://www.chess.com/game/live/145982631456"
+    },
+    "record": {
+      "win": 40,
+      "loss": 14,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2527,
+      "date": 1767341823,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1766651065,
+      "game": "https://www.chess.com/game/live/147150279884"
+    },
+    "record": {
+      "win": 68,
+      "loss": 19,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2782,
+      "date": 1772558383,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2853,
+      "date": 1769510230,
+      "game": "https://www.chess.com/game/live/164622351894"
+    },
+    "record": {
+      "win": 2114,
+      "loss": 1124,
+      "draw": 206
+    }
+  },
+  "fide": 2161,
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1771225273
+    },
+    "lowest": {
+      "rating": 2119,
+      "date": 1763108904
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

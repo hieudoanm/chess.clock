@@ -1,0 +1,88 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42084538.05490c5f.200x200o.a29ba093e0c7.jpeg",
+  "player_id": 42084538,
+  "@id": "https://api.chess.com/pub/player/henryk_s",
+  "url": "https://www.chess.com/member/Henryk_S",
+  "name": "Henryk Seifert",
+  "username": "henryk_s",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776489269,
+  "joined": 1515321468,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1611,
+      "date": 1699455506,
+      "rd": 339
+    },
+    "best": {
+      "rating": 1611,
+      "date": 1699455506,
+      "game": "https://www.chess.com/game/daily/582353753"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 108,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1936,
+      "date": 1775060712,
+      "rd": 55
+    },
+    "best": {
+      "rating": 1986,
+      "date": 1775045568,
+      "game": "https://www.chess.com/game/live/155978797293"
+    },
+    "record": {
+      "win": 47,
+      "loss": 11,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1850,
+      "date": 1776333200,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1635879350,
+      "game": "https://www.chess.com/game/live/25381313463"
+    },
+    "record": {
+      "win": 491,
+      "loss": 407,
+      "draw": 47
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2420,
+      "date": 1771860698
+    },
+    "lowest": {
+      "rating": 2078,
+      "date": 1776152168
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

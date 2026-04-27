@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40192508.350a02a3.200x200o.3d9eca03da26.png",
+  "player_id": 40192508,
+  "@id": "https://api.chess.com/pub/player/babegroot",
+  "url": "https://www.chess.com/member/BabeGroot",
+  "name": "Wen Yang",
+  "username": "babegroot",
+  "title": "GM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1775396199,
+  "joined": 1510212256,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2128,
+      "date": 1636880299,
+      "rd": 218
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2899,
+      "date": 1755251231,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3004,
+      "date": 1688370132,
+      "game": "https://www.chess.com/game/live/82108306783"
+    },
+    "record": {
+      "win": 49,
+      "loss": 45,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2766,
+      "date": 1710473431,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2937,
+      "date": 1599361455,
+      "game": "https://www.chess.com/game/live/5587040974"
+    },
+    "record": {
+      "win": 143,
+      "loss": 57,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2788,
+      "date": 1510212256
+    },
+    "lowest": {
+      "rating": 2788,
+      "date": 1510212256
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

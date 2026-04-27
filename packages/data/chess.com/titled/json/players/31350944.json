@@ -1,0 +1,88 @@
+{
+  "player_id": 31350944,
+  "@id": "https://api.chess.com/pub/player/schroer",
+  "url": "https://www.chess.com/member/Schroer",
+  "name": "Jonathan Schroer",
+  "username": "schroer",
+  "title": "IM",
+  "followers": 74,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Apex, North Carolina",
+  "last_online": 1776372682,
+  "joined": 1480757821,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1810,
+      "date": 1768964444,
+      "rd": 346
+    },
+    "best": {
+      "rating": 1810,
+      "date": 1768964443,
+      "game": "https://www.chess.com/game/daily/906825555"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 99003,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2021,
+      "date": 1666914907,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2021,
+      "date": 1635889221,
+      "game": "https://www.chess.com/game/live/29627396527"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1816,
+      "date": 1721699463,
+      "rd": 334
+    },
+    "best": {
+      "rating": 1816,
+      "date": 1613852313,
+      "game": "https://www.chess.com/game/live/7591282561"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "fide": 2423,
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1480757821
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1480757821
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

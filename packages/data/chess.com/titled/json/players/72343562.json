@@ -1,0 +1,122 @@
+{
+  "player_id": 72343562,
+  "@id": "https://api.chess.com/pub/player/rubinstein_akiba",
+  "url": "https://www.chess.com/member/Rubinstein_Akiba",
+  "name": "Harshad S",
+  "username": "rubinstein_akiba",
+  "title": "FM",
+  "followers": 1894,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776272939,
+  "joined": 1582008989,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1928,
+      "date": 1719485597,
+      "rd": 77
+    },
+    "best": {
+      "rating": 1980,
+      "date": 1591014003,
+      "game": "https://www.chess.com/game/daily/522564803"
+    },
+    "record": {
+      "win": 44,
+      "loss": 14,
+      "draw": 5,
+      "time_per_move": 49687,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2467,
+      "date": 1654427113,
+      "rd": 211
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1654427113,
+      "game": "https://www.chess.com/game/daily/357818751"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 49687,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2840,
+      "date": 1747654982,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2840,
+      "date": 1617796586,
+      "game": "https://www.chess.com/game/live/11534674587"
+    },
+    "record": {
+      "win": 22,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3002,
+      "date": 1769615573,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3002,
+      "date": 1769615573,
+      "game": "https://www.chess.com/game/live/146092822406"
+    },
+    "record": {
+      "win": 8499,
+      "loss": 9634,
+      "draw": 1124
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2902,
+      "date": 1776272694,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2920,
+      "date": 1776270034,
+      "game": "https://www.chess.com/game/live/55952023019"
+    },
+    "record": {
+      "win": 1425,
+      "loss": 1715,
+      "draw": 290
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2525,
+      "date": 1582008989
+    },
+    "lowest": {
+      "rating": 2525,
+      "date": 1582008989
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

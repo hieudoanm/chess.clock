@@ -1,0 +1,120 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12596294.50e59c81.200x200o.2bcd1e1f330f.png",
+  "player_id": 12596294,
+  "@id": "https://api.chess.com/pub/player/kjjl",
+  "url": "https://www.chess.com/member/kjjl",
+  "name": "Koen Lambrechts",
+  "username": "kjjl",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Groningen",
+  "last_online": 1775593020,
+  "joined": 1373027694,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1551,
+      "date": 1712251455,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1574,
+      "date": 1566056456,
+      "game": "https://www.chess.com/game/daily/231211986"
+    },
+    "record": {
+      "win": 10,
+      "loss": 12,
+      "draw": 2,
+      "time_per_move": 38225,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1050,
+      "date": 1557842368,
+      "rd": 345
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 38225,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2172,
+      "date": 1695294532,
+      "rd": 220
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1610805434,
+      "game": "https://www.chess.com/game/live/6252343374"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2110,
+      "date": 1725637983,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1614757772,
+      "game": "https://www.chess.com/game/live/852306116"
+    },
+    "record": {
+      "win": 1221,
+      "loss": 1111,
+      "draw": 87
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1758036503,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1715506672,
+      "game": "https://www.chess.com/game/live/107431430681"
+    },
+    "record": {
+      "win": 166,
+      "loss": 178,
+      "draw": 22
+    }
+  },
+  "fide": 2293,
+  "tactics": {
+    "highest": {
+      "rating": 2320,
+      "date": 1373027694
+    },
+    "lowest": {
+      "rating": 2320,
+      "date": 1373027694
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 37
+    }
+  }
+}

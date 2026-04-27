@@ -1,0 +1,84 @@
+{
+  "player_id": 55587118,
+  "@id": "https://api.chess.com/pub/player/chessmachine14",
+  "url": "https://www.chess.com/member/chessmachine14",
+  "name": "Ayan Allahverdiyeva",
+  "username": "chessmachine14",
+  "title": "WIM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1776234124,
+  "joined": 1546752433,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1939,
+      "date": 1624734608,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1559465880,
+      "game": "https://www.chess.com/game/live/18462705805"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1757133489,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1756746275,
+      "game": "https://www.chess.com/game/live/142597830854"
+    },
+    "record": {
+      "win": 101,
+      "loss": 83,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1767722827,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1757096553,
+      "game": "https://www.chess.com/game/live/146905401061"
+    },
+    "record": {
+      "win": 642,
+      "loss": 774,
+      "draw": 91
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2239,
+      "date": 1546752433
+    },
+    "lowest": {
+      "rating": 2239,
+      "date": 1546752433
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

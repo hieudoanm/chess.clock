@@ -1,0 +1,123 @@
+{
+  "player_id": 22165902,
+  "@id": "https://api.chess.com/pub/player/mrcorbat",
+  "url": "https://www.chess.com/member/mrcorbat",
+  "name": "Conrad Ho",
+  "username": "mrcorbat",
+  "title": "NM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1776570224,
+  "joined": 1430256359,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1960,
+      "date": 1776416130,
+      "rd": 291
+    },
+    "best": {
+      "rating": 2108,
+      "date": 1604967295,
+      "game": "https://www.chess.com/game/daily/130683048"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 25491,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1464102256,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1464102256,
+      "game": "https://www.chess.com/game/daily/135139476"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 25491,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1964,
+      "date": 1759028893,
+      "rd": 202
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1629478338,
+      "game": "https://www.chess.com/game/live/143644037030"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1901,
+      "date": 1776317219,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1709564966,
+      "game": "https://www.chess.com/game/live/114358253517"
+    },
+    "record": {
+      "win": 1305,
+      "loss": 1370,
+      "draw": 102
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1853,
+      "date": 1776570189,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2064,
+      "date": 1668053793,
+      "game": "https://www.chess.com/game/live/75607274943"
+    },
+    "record": {
+      "win": 1025,
+      "loss": 1037,
+      "draw": 75
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2296,
+      "date": 1758688604
+    },
+    "lowest": {
+      "rating": 2128,
+      "date": 1775359592
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

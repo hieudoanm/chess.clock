@@ -1,0 +1,84 @@
+{
+  "player_id": 359389259,
+  "@id": "https://api.chess.com/pub/player/spasskl",
+  "url": "https://www.chess.com/member/SPASSKl",
+  "username": "spasskl",
+  "title": "GM",
+  "followers": 146,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1743982295,
+  "joined": 1714069561,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2113,
+      "date": 1775205335,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2113,
+      "date": 1743644394,
+      "game": "https://www.chess.com/game/daily/741557413"
+    },
+    "record": {
+      "win": 26,
+      "loss": 0,
+      "draw": 5,
+      "time_per_move": 7682,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1722139568,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1722139568,
+      "game": "https://www.chess.com/game/live/115878581537"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2764,
+      "date": 1743909268,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2891,
+      "date": 1724905752,
+      "game": "https://www.chess.com/game/live/114931719399"
+    },
+    "record": {
+      "win": 961,
+      "loss": 838,
+      "draw": 226
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2573,
+      "date": 1714069561
+    },
+    "lowest": {
+      "rating": 2573,
+      "date": 1714069561
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 30
+    }
+  }
+}

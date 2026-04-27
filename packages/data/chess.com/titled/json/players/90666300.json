@@ -1,0 +1,67 @@
+{
+  "player_id": 90666300,
+  "@id": "https://api.chess.com/pub/player/schachlana",
+  "url": "https://www.chess.com/member/schachlana",
+  "name": "Luisa Bashylina",
+  "username": "schachlana",
+  "title": "WFM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1774890632,
+  "joined": 1599391627,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2250,
+      "date": 1774787012,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1774786843,
+      "game": "https://www.chess.com/game/live/166584963924"
+    },
+    "record": {
+      "win": 30,
+      "loss": 22,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2328,
+      "date": 1723564551,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1700605055,
+      "game": "https://www.chess.com/game/live/114298861171"
+    },
+    "record": {
+      "win": 77,
+      "loss": 135,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2341,
+      "date": 1768859020
+    },
+    "lowest": {
+      "rating": 2308,
+      "date": 1768859103
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

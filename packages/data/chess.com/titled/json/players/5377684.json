@@ -1,0 +1,103 @@
+{
+  "player_id": 5377684,
+  "@id": "https://api.chess.com/pub/player/spirals5",
+  "url": "https://www.chess.com/member/spirals5",
+  "username": "spirals5",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776566319,
+  "joined": 1309687238,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1528,
+      "date": 1766000403,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1309687238,
+      "game": "https://www.chess.com/game/daily/504827795"
+    },
+    "record": {
+      "win": 51,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8953,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2294,
+      "date": 1690304970,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1649291168,
+      "game": "https://www.chess.com/game/live/42761335543"
+    },
+    "record": {
+      "win": 63,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2335,
+      "date": 1721093674,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2387,
+      "date": 1688100822,
+      "game": "https://www.chess.com/game/live/41126951133"
+    },
+    "record": {
+      "win": 3617,
+      "loss": 1239,
+      "draw": 278
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1776566283,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1770192487,
+      "game": "https://www.chess.com/game/live/148583180546"
+    },
+    "record": {
+      "win": 1752,
+      "loss": 1055,
+      "draw": 474
+    }
+  },
+  "fide": 2430,
+  "tactics": {
+    "highest": {
+      "rating": 2610,
+      "date": 1759631157
+    },
+    "lowest": {
+      "rating": 2197,
+      "date": 1759632268
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

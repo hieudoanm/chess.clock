@@ -1,0 +1,56 @@
+{
+  "player_id": 332623421,
+  "@id": "https://api.chess.com/pub/player/janespet",
+  "url": "https://www.chess.com/member/JanesPet",
+  "username": "janespet",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1771707306,
+  "joined": 1702681286,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 911,
+      "date": 1744717498,
+      "rd": 277
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1850,
+      "date": 1771707067,
+      "rd": 69
+    },
+    "best": {
+      "rating": 1914,
+      "date": 1710549801,
+      "game": "https://www.chess.com/game/live/104288373281"
+    },
+    "record": {
+      "win": 1226,
+      "loss": 1140,
+      "draw": 181
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1702681286
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1702681286
+    }
+  },
+  "puzzle_rush": {}
+}

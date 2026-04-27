@@ -1,0 +1,65 @@
+{
+  "player_id": 80239230,
+  "@id": "https://api.chess.com/pub/player/frostnova",
+  "url": "https://www.chess.com/member/FrostNova",
+  "username": "frostnova",
+  "title": "GM",
+  "followers": 97,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1710703421,
+  "joined": 1590183865,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2932,
+      "date": 1594488985,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2782,
+      "date": 1594488985,
+      "game": "https://www.chess.com/game/live/5134671320"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2967,
+      "date": 1614616909,
+      "rd": 62
+    },
+    "best": {
+      "rating": 3028,
+      "date": 1606851936,
+      "game": "https://www.chess.com/game/live/7429997553"
+    },
+    "record": {
+      "win": 102,
+      "loss": 44,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1590183865
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1590183865
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 41
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 60508025,
+  "@id": "https://api.chess.com/pub/player/gmthekingindian",
+  "url": "https://www.chess.com/member/GMthekingindian",
+  "name": "Piero Mazzilli",
+  "username": "gmthekingindian",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776556059,
+  "joined": 1556829258,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1762187087,
+      "rd": 350
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 212708,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1398,
+      "date": 1667491381,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1941,
+      "date": 1664316366,
+      "game": "https://www.chess.com/game/live/58054255615"
+    },
+    "record": {
+      "win": 3,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2500,
+      "date": 1766943502,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1764533783,
+      "game": "https://www.chess.com/game/live/100212804069"
+    },
+    "record": {
+      "win": 1768,
+      "loss": 1883,
+      "draw": 242
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1776555826,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1772319917,
+      "game": "https://www.chess.com/game/live/93739238117"
+    },
+    "record": {
+      "win": 2917,
+      "loss": 3288,
+      "draw": 519
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1757369650
+    },
+    "lowest": {
+      "rating": 2396,
+      "date": 1773050532
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

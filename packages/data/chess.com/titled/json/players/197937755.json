@@ -1,0 +1,84 @@
+{
+  "player_id": 197937755,
+  "@id": "https://api.chess.com/pub/player/valiantceleb",
+  "url": "https://www.chess.com/member/ValiantCeleb",
+  "name": "Caleb Levi",
+  "username": "valiantceleb",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1774709729,
+  "joined": 1663613583,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2282,
+      "date": 1774206931,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1684173746,
+      "game": "https://www.chess.com/game/live/168516867933"
+    },
+    "record": {
+      "win": 34,
+      "loss": 30,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2572,
+      "date": 1774462078,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1729674499,
+      "game": "https://www.chess.com/game/live/130960784323"
+    },
+    "record": {
+      "win": 165,
+      "loss": 195,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2630,
+      "date": 1774545773,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2697,
+      "date": 1762278515,
+      "game": "https://www.chess.com/game/live/149324309111"
+    },
+    "record": {
+      "win": 313,
+      "loss": 420,
+      "draw": 67
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1762875717
+    },
+    "lowest": {
+      "rating": 2450,
+      "date": 1755627368
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

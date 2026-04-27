@@ -1,0 +1,79 @@
+{
+  "player_id": 11636394,
+  "@id": "https://api.chess.com/pub/player/honestgirl",
+  "url": "https://www.chess.com/member/honestgirl",
+  "username": "honestgirl",
+  "title": "GM",
+  "followers": 1096,
+  "country": "https://api.chess.com/pub/country/TO",
+  "last_online": 1703267646,
+  "joined": 1366793166,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1465,
+      "date": 1627446530,
+      "rd": 91
+    },
+    "record": {
+      "win": 0,
+      "loss": 21,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1577798732,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1368380045,
+      "game": "https://www.chess.com/game/live/513733421"
+    },
+    "record": {
+      "win": 101,
+      "loss": 35,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2889,
+      "date": 1704999200,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2962,
+      "date": 1583520678,
+      "game": "https://www.chess.com/game/live/3955075848"
+    },
+    "record": {
+      "win": 28032,
+      "loss": 13385,
+      "draw": 4305
+    }
+  },
+  "fide": 1365,
+  "tactics": {
+    "highest": {
+      "rating": 2301,
+      "date": 1366793166
+    },
+    "lowest": {
+      "rating": 2301,
+      "date": 1366793166
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

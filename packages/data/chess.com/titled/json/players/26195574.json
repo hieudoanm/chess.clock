@@ -1,0 +1,117 @@
+{
+  "player_id": 26195574,
+  "@id": "https://api.chess.com/pub/player/chosenpr",
+  "url": "https://www.chess.com/member/chosenpr",
+  "name": "Rafael Mejias",
+  "username": "chosenpr",
+  "title": "CM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/PR",
+  "last_online": 1775315780,
+  "joined": 1453082775,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1758,
+      "date": 1745137710,
+      "rd": 160
+    },
+    "best": {
+      "rating": 1818,
+      "date": 1621794555,
+      "game": "https://www.chess.com/game/daily/317305010"
+    },
+    "record": {
+      "win": 24,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 5319,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1594,
+      "date": 1465501845,
+      "rd": 215
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 5319,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2055,
+      "date": 1698024712,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1698023790,
+      "game": "https://www.chess.com/game/live/91761583111"
+    },
+    "record": {
+      "win": 42,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2301,
+      "date": 1697495896,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1696727351,
+      "game": "https://www.chess.com/game/live/23332842273"
+    },
+    "record": {
+      "win": 1026,
+      "loss": 873,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1710360355,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1692312884,
+      "game": "https://www.chess.com/game/live/90109180007"
+    },
+    "record": {
+      "win": 8170,
+      "loss": 7511,
+      "draw": 905
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1996,
+      "date": 1453082775
+    },
+    "lowest": {
+      "rating": 1996,
+      "date": 1453082775
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 9,
+      "score": 7
+    }
+  }
+}

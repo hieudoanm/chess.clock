@@ -1,0 +1,85 @@
+{
+  "player_id": 2360405,
+  "@id": "https://api.chess.com/pub/player/goingkronos",
+  "url": "https://www.chess.com/member/GoingKronos",
+  "name": "Stellan Brynell",
+  "username": "goingkronos",
+  "title": "GM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1750853613,
+  "joined": 1260277257,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2056,
+      "date": 1652662565,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1282811144,
+      "game": "https://www.chess.com/game/daily/30229777"
+    },
+    "record": {
+      "win": 12,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 9300,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2469,
+      "date": 1570390128,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1570389818,
+      "game": "https://www.chess.com/game/live/4095508514"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2486,
+      "date": 1594145202,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1593538806,
+      "game": "https://www.chess.com/game/live/4466510455"
+    },
+    "record": {
+      "win": 404,
+      "loss": 239,
+      "draw": 59
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2597,
+      "date": 1260277257
+    },
+    "lowest": {
+      "rating": 2597,
+      "date": 1260277257
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 165334517,
+  "@id": "https://api.chess.com/pub/player/ychess6",
+  "url": "https://www.chess.com/member/ychess6",
+  "name": "Yash Jyoti Bir",
+  "username": "ychess6",
+  "title": "WFM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776578018,
+  "joined": 1639793246,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2032,
+      "date": 1687445770,
+      "rd": 339
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1687445770,
+      "game": "https://www.chess.com/game/live/60955216581"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1830,
+      "date": 1775133709,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1867,
+      "date": 1774793447,
+      "game": "https://www.chess.com/game/live/166761422070"
+    },
+    "record": {
+      "win": 87,
+      "loss": 66,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2020,
+      "date": 1771838134,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1729398138,
+      "game": "https://www.chess.com/game/live/147919226362"
+    },
+    "record": {
+      "win": 118,
+      "loss": 70,
+      "draw": 23
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1925,
+      "date": 1763177284
+    },
+    "lowest": {
+      "rating": 1826,
+      "date": 1772013205
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

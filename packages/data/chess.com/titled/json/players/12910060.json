@@ -1,0 +1,103 @@
+{
+  "player_id": 12910060,
+  "@id": "https://api.chess.com/pub/player/wildcoyote2",
+  "url": "https://www.chess.com/member/wildcoyote2",
+  "name": "Karthik Padmanabhan",
+  "username": "wildcoyote2",
+  "title": "NM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776029250,
+  "joined": 1374968378,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1667,
+      "date": 1715257907,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1667,
+      "date": 1514380806,
+      "game": "https://www.chess.com/game/daily/94936518"
+    },
+    "record": {
+      "win": 48,
+      "loss": 47,
+      "draw": 6,
+      "time_per_move": 10680,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1838,
+      "date": 1752803622,
+      "rd": 229
+    },
+    "best": {
+      "rating": 1917,
+      "date": 1602683765,
+      "game": "https://www.chess.com/game/live/6337248880"
+    },
+    "record": {
+      "win": 44,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2188,
+      "date": 1774153729,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1623786339,
+      "game": "https://www.chess.com/game/live/123015012285"
+    },
+    "record": {
+      "win": 690,
+      "loss": 547,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1996,
+      "date": 1754844480,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1586362218,
+      "game": "https://www.chess.com/game/live/2508908690"
+    },
+    "record": {
+      "win": 572,
+      "loss": 314,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2131,
+      "date": 1374968378
+    },
+    "lowest": {
+      "rating": 2131,
+      "date": 1374968378
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

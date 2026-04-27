@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/89241562.dc84fd67.200x200o.b0ce86793a22.jpeg",
+  "player_id": 89241562,
+  "@id": "https://api.chess.com/pub/player/biscuitsnatcher",
+  "url": "https://www.chess.com/member/biscuitsnatcher",
+  "username": "biscuitsnatcher",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/KP",
+  "last_online": 1776196317,
+  "joined": 1597660536,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2362,
+      "date": 1770676302,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1685828764,
+      "game": "https://www.chess.com/game/live/147853238510"
+    },
+    "record": {
+      "win": 107,
+      "loss": 64,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2116,
+      "date": 1733487252,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1707416753,
+      "game": "https://www.chess.com/game/live/58987177815"
+    },
+    "record": {
+      "win": 606,
+      "loss": 517,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2299,
+      "date": 1757544225,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1685557687,
+      "game": "https://www.chess.com/game/live/79308651817"
+    },
+    "record": {
+      "win": 1444,
+      "loss": 1152,
+      "draw": 84
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1597660536
+    },
+    "lowest": {
+      "rating": 2495,
+      "date": 1597660536
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

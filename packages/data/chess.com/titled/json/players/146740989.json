@@ -1,0 +1,83 @@
+{
+  "player_id": 146740989,
+  "@id": "https://api.chess.com/pub/player/silent-observer",
+  "url": "https://www.chess.com/member/silent-observer",
+  "username": "silent-observer",
+  "title": "GM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776562034,
+  "joined": 1625360736,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2600,
+      "date": 1775821154,
+      "rd": 236
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1775821154,
+      "game": "https://www.chess.com/game/live/31404632883"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1773484436,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2787,
+      "date": 1696308960,
+      "game": "https://www.chess.com/game/live/143259670428"
+    },
+    "record": {
+      "win": 151,
+      "loss": 161,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2907,
+      "date": 1776561104,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2921,
+      "date": 1760356743,
+      "game": "https://www.chess.com/game/live/143922201982"
+    },
+    "record": {
+      "win": 839,
+      "loss": 601,
+      "draw": 139
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 391,
+      "date": 1763806690
+    },
+    "lowest": {
+      "rating": 100,
+      "date": 1763806701
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 5,
+      "score": 4
+    }
+  }
+}

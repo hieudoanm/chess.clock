@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21929836.4764f3d5.200x200o.c6b618360e59.jpeg",
+  "player_id": 21929836,
+  "@id": "https://api.chess.com/pub/player/paulvelten",
+  "url": "https://www.chess.com/member/PaulVelten",
+  "name": "Paul Velten",
+  "username": "paulvelten",
+  "title": "GM",
+  "followers": 109,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1772865769,
+  "joined": 1428788238,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2707,
+      "date": 1611946410,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2787,
+      "date": 1602410763,
+      "game": "https://www.chess.com/game/live/5567734361"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1736325325,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2904,
+      "date": 1736325325,
+      "game": "https://www.chess.com/game/live/130060765279"
+    },
+    "record": {
+      "win": 310,
+      "loss": 106,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2907,
+      "date": 1735051179,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2934,
+      "date": 1734822716,
+      "game": "https://www.chess.com/game/live/128563395139"
+    },
+    "record": {
+      "win": 280,
+      "loss": 158,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2747,
+      "date": 1764522508
+    },
+    "lowest": {
+      "rating": 2669,
+      "date": 1764440732
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

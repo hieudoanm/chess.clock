@@ -1,0 +1,62 @@
+{
+  "player_id": 36136092,
+  "@id": "https://api.chess.com/pub/player/markowskitomasz",
+  "url": "https://www.chess.com/member/markowskitomasz",
+  "username": "markowskitomasz",
+  "title": "GM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776436227,
+  "joined": 1496864180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1758,
+      "date": 1731430140,
+      "rd": 254
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2613,
+      "date": 1756114854,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1632035329,
+      "game": "https://www.chess.com/game/live/6429242689"
+    },
+    "record": {
+      "win": 400,
+      "loss": 285,
+      "draw": 104
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2448,
+      "date": 1496864180
+    },
+    "lowest": {
+      "rating": 2448,
+      "date": 1496864180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

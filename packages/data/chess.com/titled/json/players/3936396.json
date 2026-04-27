@@ -1,0 +1,109 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3936396.1f0404be.200x200o.0796b91d5d58.jpeg",
+  "player_id": 3936396,
+  "@id": "https://api.chess.com/pub/player/ankit_chessneurons",
+  "url": "https://www.chess.com/member/Ankit_ChessNeurons",
+  "name": "Ankit Rajpara",
+  "username": "ankit_chessneurons",
+  "title": "GM",
+  "followers": 362,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776476384,
+  "joined": 1283755692,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@chessneurons"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2052,
+      "date": 1584514894,
+      "rd": 313
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1410717593,
+      "game": "https://www.chess.com/game/daily/95930274"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 492,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2245,
+      "date": 1755482135,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1586998867,
+      "game": "https://www.chess.com/game/live/4727891592"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2828,
+      "date": 1774177062,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1774173846,
+      "game": "https://www.chess.com/game/live/11975613235"
+    },
+    "record": {
+      "win": 196,
+      "loss": 117,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2792,
+      "date": 1774175155,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2792,
+      "date": 1773591120,
+      "game": "https://www.chess.com/game/live/130610497871"
+    },
+    "record": {
+      "win": 105,
+      "loss": 33,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2713,
+      "date": 1283755692
+    },
+    "lowest": {
+      "rating": 2713,
+      "date": 1283755692
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

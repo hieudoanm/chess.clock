@@ -1,0 +1,123 @@
+{
+  "player_id": 3958711,
+  "@id": "https://api.chess.com/pub/player/hehu",
+  "url": "https://www.chess.com/member/HEHU",
+  "name": "Erik Norberg",
+  "username": "hehu",
+  "title": "CM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776315817,
+  "joined": 1284135641,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1971,
+      "date": 1757324315,
+      "rd": 210
+    },
+    "best": {
+      "rating": 1971,
+      "date": 1705900615,
+      "game": "https://www.chess.com/game/daily/127136998"
+    },
+    "record": {
+      "win": 41,
+      "loss": 24,
+      "draw": 3,
+      "time_per_move": 3996,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1454,
+      "date": 1451988524,
+      "rd": 261
+    },
+    "best": {
+      "rating": 1454,
+      "date": 1451988524,
+      "game": "https://www.chess.com/game/daily/125742924"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3996,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2258,
+      "date": 1774890813,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1607628829,
+      "game": "https://www.chess.com/game/live/5934859081"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2322,
+      "date": 1774381615,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1676366308,
+      "game": "https://www.chess.com/game/live/70557128067"
+    },
+    "record": {
+      "win": 624,
+      "loss": 435,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2270,
+      "date": 1774384307,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1705178302,
+      "game": "https://www.chess.com/game/live/89764118363"
+    },
+    "record": {
+      "win": 219,
+      "loss": 127,
+      "draw": 6
+    }
+  },
+  "fide": 2257,
+  "tactics": {
+    "highest": {
+      "rating": 2357,
+      "date": 1772471383
+    },
+    "lowest": {
+      "rating": 2130,
+      "date": 1756743998
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 42
+    }
+  }
+}

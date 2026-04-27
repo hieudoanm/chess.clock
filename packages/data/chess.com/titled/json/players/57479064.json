@@ -1,0 +1,83 @@
+{
+  "player_id": 57479064,
+  "@id": "https://api.chess.com/pub/player/thunderbolt_02",
+  "url": "https://www.chess.com/member/Thunderbolt_02",
+  "username": "thunderbolt_02",
+  "title": "IM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/NG",
+  "last_online": 1776443682,
+  "joined": 1550424636,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2261,
+      "date": 1754906042,
+      "rd": 280
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1639336655,
+      "game": "https://www.chess.com/game/live/33074444979"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2265,
+      "date": 1566632440,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1555618096,
+      "game": "https://www.chess.com/game/live/3628213742"
+    },
+    "record": {
+      "win": 4,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2648,
+      "date": 1776443674,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2763,
+      "date": 1755374061,
+      "game": "https://www.chess.com/game/live/87672717549"
+    },
+    "record": {
+      "win": 2438,
+      "loss": 2928,
+      "draw": 607
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1550424636
+    },
+    "lowest": {
+      "rating": 2453,
+      "date": 1550424636
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

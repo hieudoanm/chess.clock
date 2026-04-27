@@ -1,0 +1,83 @@
+{
+  "player_id": 58354388,
+  "@id": "https://api.chess.com/pub/player/nicolassrc",
+  "url": "https://www.chess.com/member/NicolasSRC",
+  "name": "Samuel Nicolas Rodriguez Celis",
+  "username": "nicolassrc",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1703223934,
+  "joined": 1552250881,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1562,
+      "date": 1598318243,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1580,
+      "date": 1595367968,
+      "game": "https://www.chess.com/game/live/5047948974"
+    },
+    "record": {
+      "win": 24,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1650,
+      "date": 1591014154,
+      "rd": 177
+    },
+    "best": {
+      "rating": 1062,
+      "date": 1587763513,
+      "game": "https://www.chess.com/game/live/4766856964"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1518,
+      "date": 1595491009,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1520,
+      "date": 1593122440,
+      "game": "https://www.chess.com/game/live/4917132898"
+    },
+    "record": {
+      "win": 32,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2244,
+      "date": 1552250881
+    },
+    "lowest": {
+      "rating": 2244,
+      "date": 1552250881
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

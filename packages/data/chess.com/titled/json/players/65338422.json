@@ -1,0 +1,104 @@
+{
+  "player_id": 65338422,
+  "@id": "https://api.chess.com/pub/player/dual_flurry",
+  "url": "https://www.chess.com/member/dual_flurry",
+  "name": "Jerad Docena",
+  "username": "dual_flurry",
+  "title": "IM",
+  "followers": 136,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776428701,
+  "joined": 1568121699,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1653,
+      "date": 1738249296,
+      "rd": 310
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1736590799,
+      "game": "https://www.chess.com/game/daily/753782727"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 13945,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2681,
+      "date": 1776244476,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2696,
+      "date": 1757050664,
+      "game": "https://www.chess.com/game/live/164443467162"
+    },
+    "record": {
+      "win": 353,
+      "loss": 81,
+      "draw": 43
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2482,
+      "date": 1748756926,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1732313183,
+      "game": "https://www.chess.com/game/live/132062403021"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2809,
+      "date": 1772850779,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1771057956,
+      "game": "https://www.chess.com/game/live/146067187634"
+    },
+    "record": {
+      "win": 186,
+      "loss": 121,
+      "draw": 29
+    }
+  },
+  "fide": 2397,
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1568121699
+    },
+    "lowest": {
+      "rating": 2590,
+      "date": 1568121699
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 41
+    }
+  }
+}

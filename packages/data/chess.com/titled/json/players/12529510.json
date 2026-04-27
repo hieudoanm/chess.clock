@@ -1,0 +1,64 @@
+{
+  "player_id": 12529510,
+  "@id": "https://api.chess.com/pub/player/cchow64",
+  "url": "https://www.chess.com/member/cchow64",
+  "name": "Colin Chow",
+  "username": "cchow64",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Sacramento",
+  "last_online": 1422732436,
+  "joined": 1372537980,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1896,
+      "date": 1491648854,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1393914726,
+      "game": "https://www.chess.com/game/daily/83024748"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 56120,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1834,
+      "date": 1387443234,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1975,
+      "date": 1387182344,
+      "game": "https://www.chess.com/game/live/674321971"
+    },
+    "record": {
+      "win": 15,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1372537980
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1372537980
+    }
+  },
+  "puzzle_rush": {}
+}

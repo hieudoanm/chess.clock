@@ -1,0 +1,123 @@
+{
+  "player_id": 15718568,
+  "@id": "https://api.chess.com/pub/player/derekcclasby",
+  "url": "https://www.chess.com/member/derekcclasby",
+  "name": "Derek Clasby",
+  "username": "derekcclasby",
+  "title": "FM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776528717,
+  "joined": 1390516193,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1729,
+      "date": 1751177711,
+      "rd": 294
+    },
+    "best": {
+      "rating": 1729,
+      "date": 1741743414,
+      "game": "https://www.chess.com/game/daily/97389808"
+    },
+    "record": {
+      "win": 59,
+      "loss": 59,
+      "draw": 0,
+      "time_per_move": 15338,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1380,
+      "date": 1414088389,
+      "rd": 147
+    },
+    "best": {
+      "rating": 1380,
+      "date": 1414088389,
+      "game": "https://www.chess.com/game/daily/98004782"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 15338,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2245,
+      "date": 1769905801,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1737930760,
+      "game": "https://www.chess.com/game/live/5200063850"
+    },
+    "record": {
+      "win": 1608,
+      "loss": 1297,
+      "draw": 150
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2868,
+      "date": 1764012429,
+      "rd": 46
+    },
+    "best": {
+      "rating": 3061,
+      "date": 1651337039,
+      "game": "https://www.chess.com/game/live/43775738357"
+    },
+    "record": {
+      "win": 3822,
+      "loss": 3154,
+      "draw": 388
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2684,
+      "date": 1773933388,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2810,
+      "date": 1642621179,
+      "game": "https://www.chess.com/game/live/43026615975"
+    },
+    "record": {
+      "win": 1460,
+      "loss": 1169,
+      "draw": 206
+    }
+  },
+  "fide": 2339,
+  "tactics": {
+    "highest": {
+      "rating": 2791,
+      "date": 1390516193
+    },
+    "lowest": {
+      "rating": 2791,
+      "date": 1390516193
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

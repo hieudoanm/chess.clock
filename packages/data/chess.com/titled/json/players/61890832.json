@@ -1,0 +1,67 @@
+{
+  "player_id": 61890832,
+  "@id": "https://api.chess.com/pub/player/chessqueen2200",
+  "url": "https://www.chess.com/member/Chessqueen2200",
+  "username": "chessqueen2200",
+  "title": "WFM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1773502816,
+  "joined": 1559622767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1549,
+      "date": 1658500059,
+      "rd": 338
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1585654964,
+      "game": "https://www.chess.com/game/live/4660419584"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2166,
+      "date": 1717070363,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1704040407,
+      "game": "https://www.chess.com/game/live/4563271489"
+    },
+    "record": {
+      "win": 75,
+      "loss": 12,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2373,
+      "date": 1559622767
+    },
+    "lowest": {
+      "rating": 2373,
+      "date": 1559622767
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

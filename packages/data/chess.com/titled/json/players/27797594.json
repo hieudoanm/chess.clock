@@ -1,0 +1,102 @@
+{
+  "player_id": 27797594,
+  "@id": "https://api.chess.com/pub/player/halfnatty",
+  "url": "https://www.chess.com/member/halfnatty",
+  "username": "halfnatty",
+  "title": "GM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1767859745,
+  "joined": 1460954907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2154,
+      "date": 1682600986,
+      "rd": 227
+    },
+    "best": {
+      "rating": 2154,
+      "date": 1620111832,
+      "game": "https://www.chess.com/game/daily/321772670"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28372,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2337,
+      "date": 1672561759,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2377,
+      "date": 1596803637,
+      "game": "https://www.chess.com/game/live/23797608813"
+    },
+    "record": {
+      "win": 32,
+      "loss": 10,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1630134695,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2802,
+      "date": 1604422198,
+      "game": "https://www.chess.com/game/live/3418891149"
+    },
+    "record": {
+      "win": 514,
+      "loss": 187,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1695747901,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2803,
+      "date": 1574959941,
+      "game": "https://www.chess.com/game/live/2383565406"
+    },
+    "record": {
+      "win": 2020,
+      "loss": 1560,
+      "draw": 266
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2565,
+      "date": 1460954907
+    },
+    "lowest": {
+      "rating": 2565,
+      "date": 1460954907
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

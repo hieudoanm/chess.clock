@@ -1,0 +1,86 @@
+{
+  "player_id": 35276422,
+  "@id": "https://api.chess.com/pub/player/sichess100",
+  "url": "https://www.chess.com/member/SiChess100",
+  "username": "sichess100",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776533756,
+  "joined": 1493917588,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2216,
+      "date": 1776352490,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1763668520,
+      "game": "https://www.chess.com/game/daily/360183553"
+    },
+    "record": {
+      "win": 113,
+      "loss": 2,
+      "draw": 9,
+      "time_per_move": 27733,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1887,
+      "date": 1629131226,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1887,
+      "date": 1629131226,
+      "game": "https://www.chess.com/game/live/18978943283"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2174,
+      "date": 1776440662,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1643054054,
+      "game": "https://www.chess.com/game/live/36792583061"
+    },
+    "record": {
+      "win": 127,
+      "loss": 79,
+      "draw": 18
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1762017251
+    },
+    "lowest": {
+      "rating": 2517,
+      "date": 1762017251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 28
+    }
+  }
+}

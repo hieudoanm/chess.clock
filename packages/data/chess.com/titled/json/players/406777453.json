@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/406777453.8b224fb9.200x200o.a26200ca0d52.png",
+  "player_id": 406777453,
+  "@id": "https://api.chess.com/pub/player/ranyred",
+  "url": "https://www.chess.com/member/ranyred",
+  "username": "ranyred",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Aix-en-Provence",
+  "last_online": 1776574235,
+  "joined": 1733254876,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1924,
+      "date": 1775544683,
+      "rd": 175
+    },
+    "best": {
+      "rating": 1924,
+      "date": 1748445259,
+      "game": "https://www.chess.com/game/daily/770232423"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18961,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2441,
+      "date": 1776459957,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1776214494,
+      "game": "https://www.chess.com/game/live/167409920600"
+    },
+    "record": {
+      "win": 259,
+      "loss": 144,
+      "draw": 48
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2316,
+      "date": 1768447595,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1767326485,
+      "game": "https://www.chess.com/game/live/132519020495"
+    },
+    "record": {
+      "win": 156,
+      "loss": 120,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2476,
+      "date": 1776570835,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1770433626,
+      "game": "https://www.chess.com/game/live/163945726708"
+    },
+    "record": {
+      "win": 290,
+      "loss": 214,
+      "draw": 46
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2413,
+      "date": 1772096870
+    },
+    "lowest": {
+      "rating": 2091,
+      "date": 1764889472
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15825694.66852268.200x200o.686802210945.jpeg",
+  "player_id": 15825694,
+  "@id": "https://api.chess.com/pub/player/tst2014",
+  "url": "https://www.chess.com/member/TST2014",
+  "name": "Tigran Nazaretyan",
+  "username": "tst2014",
+  "title": "FM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1758581356,
+  "joined": 1391094271,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2544,
+      "date": 1391335440,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1731,
+      "date": 1391101762,
+      "game": "https://www.chess.com/game/live/713450237"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2462,
+      "date": 1617305740,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2492,
+      "date": 1617215677,
+      "game": "https://www.chess.com/game/live/10953986279"
+    },
+    "record": {
+      "win": 139,
+      "loss": 136,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2637,
+      "date": 1703635498,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1643573297,
+      "game": "https://www.chess.com/game/live/4752649622"
+    },
+    "record": {
+      "win": 3275,
+      "loss": 3282,
+      "draw": 671
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2602,
+      "date": 1391094271
+    },
+    "lowest": {
+      "rating": 2602,
+      "date": 1391094271
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

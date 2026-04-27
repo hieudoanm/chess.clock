@@ -1,0 +1,67 @@
+{
+  "player_id": 31804158,
+  "@id": "https://api.chess.com/pub/player/burritus",
+  "url": "https://www.chess.com/member/burritus",
+  "name": "Andres Aguilar",
+  "username": "burritus",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776561624,
+  "joined": 1482442322,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1999,
+      "date": 1584740461,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1551656630,
+      "game": "https://www.chess.com/game/live/2429476454"
+    },
+    "record": {
+      "win": 42,
+      "loss": 29,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2413,
+      "date": 1714516982,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1712076514,
+      "game": "https://www.chess.com/game/live/108253258317"
+    },
+    "record": {
+      "win": 196,
+      "loss": 156,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2148,
+      "date": 1482442322
+    },
+    "lowest": {
+      "rating": 2148,
+      "date": 1482442322
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

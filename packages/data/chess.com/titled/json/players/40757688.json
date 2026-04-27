@@ -1,0 +1,87 @@
+{
+  "player_id": 40757688,
+  "@id": "https://api.chess.com/pub/player/denkertanker",
+  "url": "https://www.chess.com/member/DenkerTanker",
+  "name": "Stefan Schneider",
+  "username": "denkertanker",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1775832487,
+  "joined": 1511725915,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2124,
+      "date": 1768489540,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1758645284,
+      "game": "https://www.chess.com/game/daily/897437387"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 47297,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2302,
+      "date": 1775585761,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1754154617,
+      "game": "https://www.chess.com/game/live/165023280156"
+    },
+    "record": {
+      "win": 1,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2540,
+      "date": 1775548829,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1774816517,
+      "game": "https://www.chess.com/game/live/145540263132"
+    },
+    "record": {
+      "win": 76,
+      "loss": 34,
+      "draw": 10
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2564,
+      "date": 1756486038
+    },
+    "lowest": {
+      "rating": 2507,
+      "date": 1755625049
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 35
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 189033861,
+  "@id": "https://api.chess.com/pub/player/1234abcdjohnny",
+  "url": "https://www.chess.com/member/1234abcdjohnny",
+  "username": "1234abcdjohnny",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1765027671,
+  "joined": 1657024459,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1765010511,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1750833862,
+      "game": "https://www.chess.com/game/live/50763573597"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2658,
+      "date": 1763891563,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1763891563,
+      "game": "https://www.chess.com/game/live/145817120366"
+    },
+    "record": {
+      "win": 60,
+      "loss": 33,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1657024459
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1657024459
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "player_id": 435099409,
+  "@id": "https://api.chess.com/pub/player/fortemaestro",
+  "url": "https://www.chess.com/member/Fortemaestro",
+  "username": "fortemaestro",
+  "title": "GM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/XO",
+  "last_online": 1776337513,
+  "joined": 1741372767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2515,
+      "date": 1771171191,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2527,
+      "date": 1770566818,
+      "game": "https://www.chess.com/game/live/164410544646"
+    },
+    "record": {
+      "win": 19,
+      "loss": 11,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2731,
+      "date": 1771172180,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1771172180,
+      "game": "https://www.chess.com/game/live/138484279934"
+    },
+    "record": {
+      "win": 79,
+      "loss": 40,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2208,
+      "date": 1771172761
+    },
+    "lowest": {
+      "rating": 2198,
+      "date": 1771172718
+    }
+  },
+  "puzzle_rush": {}
+}

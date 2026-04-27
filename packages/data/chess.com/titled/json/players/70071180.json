@@ -1,0 +1,103 @@
+{
+  "player_id": 70071180,
+  "@id": "https://api.chess.com/pub/player/alimentor20",
+  "url": "https://www.chess.com/member/AliMentor20",
+  "name": "Alain Genzling",
+  "username": "alimentor20",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1673227548,
+  "joined": 1577719790,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2172,
+      "date": 1717259867,
+      "rd": 275
+    },
+    "best": {
+      "rating": 2172,
+      "date": 1602615633,
+      "game": "https://www.chess.com/game/daily/248063830"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12195,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1979,
+      "date": 1622555230,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1619701235,
+      "game": "https://www.chess.com/game/live/16293382743"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2449,
+      "date": 1665421188,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1629105072,
+      "game": "https://www.chess.com/game/live/4753581287"
+    },
+    "record": {
+      "win": 144,
+      "loss": 140,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2275,
+      "date": 1669328881,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1579990506,
+      "game": "https://www.chess.com/game/live/4691734778"
+    },
+    "record": {
+      "win": 156,
+      "loss": 128,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2613,
+      "date": 1577719790
+    },
+    "lowest": {
+      "rating": 2613,
+      "date": 1577719790
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

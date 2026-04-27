@@ -1,0 +1,84 @@
+{
+  "player_id": 39434554,
+  "@id": "https://api.chess.com/pub/player/tompalov",
+  "url": "https://www.chess.com/member/Tompalov",
+  "username": "tompalov",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "last_online": 1776580457,
+  "joined": 1507963432,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2079,
+      "date": 1711226634,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1618039824,
+      "game": "https://www.chess.com/game/live/14266281703"
+    },
+    "record": {
+      "win": 14,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2329,
+      "date": 1717213172,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1685073797,
+      "game": "https://www.chess.com/game/live/78812531981"
+    },
+    "record": {
+      "win": 1064,
+      "loss": 811,
+      "draw": 49
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2375,
+      "date": 1776491505,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1717667663,
+      "game": "https://www.chess.com/game/live/109825839135"
+    },
+    "record": {
+      "win": 619,
+      "loss": 468,
+      "draw": 83
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2804,
+      "date": 1762415393
+    },
+    "lowest": {
+      "rating": 2443,
+      "date": 1761288285
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

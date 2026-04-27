@@ -1,0 +1,75 @@
+{
+  "player_id": 45117672,
+  "@id": "https://api.chess.com/pub/player/rickyzhou",
+  "url": "https://www.chess.com/member/Rickyzhou",
+  "name": "Weiqi Zhou",
+  "username": "rickyzhou",
+  "title": "GM",
+  "followers": 96,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1711544498,
+  "joined": 1523246959,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2352,
+      "date": 1681131825,
+      "rd": 276
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2671,
+      "date": 1675572387,
+      "rd": 253
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2920,
+      "date": 1711548522,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3036,
+      "date": 1690690595,
+      "game": "https://www.chess.com/game/live/81409244017"
+    },
+    "record": {
+      "win": 2061,
+      "loss": 2010,
+      "draw": 681
+    }
+  },
+  "fide": 2604,
+  "tactics": {
+    "highest": {
+      "rating": 2278,
+      "date": 1523246959
+    },
+    "lowest": {
+      "rating": 2278,
+      "date": 1523246959
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

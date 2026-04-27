@@ -1,0 +1,103 @@
+{
+  "player_id": 3741115,
+  "@id": "https://api.chess.com/pub/player/brooklyncyclone",
+  "url": "https://www.chess.com/member/brooklyncyclone",
+  "username": "brooklyncyclone",
+  "title": "IM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776593184,
+  "joined": 1279969353,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1394,
+      "date": 1741796528,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1394,
+      "date": 1376375158,
+      "game": "https://www.chess.com/game/daily/73054984"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11453,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2076,
+      "date": 1756751954,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1756751954,
+      "game": "https://www.chess.com/game/live/4857457787"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1733,
+      "date": 1757194221,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1619064593,
+      "game": "https://www.chess.com/game/live/12803101875"
+    },
+    "record": {
+      "win": 72,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2493,
+      "date": 1760971798,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1760971798,
+      "game": "https://www.chess.com/game/live/144442900952"
+    },
+    "record": {
+      "win": 353,
+      "loss": 82,
+      "draw": 26
+    }
+  },
+  "fide": 2420,
+  "tactics": {
+    "highest": {
+      "rating": 2658,
+      "date": 1769468009
+    },
+    "lowest": {
+      "rating": 2215,
+      "date": 1763314421
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 47
+    }
+  }
+}

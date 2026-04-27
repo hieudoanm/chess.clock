@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25929520.f9f7f20a.200x200o.d526a7547e63.jpeg",
+  "player_id": 25929520,
+  "@id": "https://api.chess.com/pub/player/trickyfortem",
+  "url": "https://www.chess.com/member/TrickyFortem",
+  "name": "Andrii Vachylia",
+  "username": "trickyfortem",
+  "title": "FM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776274544,
+  "joined": 1451850834,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1620,
+      "date": 1611760608,
+      "rd": 158
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1451850834,
+      "game": "https://www.chess.com/game/daily/291104834"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 23278,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2036,
+      "date": 1626195424,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2036,
+      "date": 1626195424,
+      "game": "https://www.chess.com/game/live/13878151623"
+    },
+    "record": {
+      "win": 16,
+      "loss": 1,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2389,
+      "date": 1680345339,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1606990620,
+      "game": "https://www.chess.com/game/live/5931756057"
+    },
+    "record": {
+      "win": 1638,
+      "loss": 1293,
+      "draw": 164
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2756,
+      "date": 1674602562,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2780,
+      "date": 1667318887,
+      "game": "https://www.chess.com/game/live/61057265483"
+    },
+    "record": {
+      "win": 1141,
+      "loss": 951,
+      "draw": 174
+    }
+  },
+  "fide": 2303,
+  "tactics": {
+    "highest": {
+      "rating": 2473,
+      "date": 1775236080
+    },
+    "lowest": {
+      "rating": 2473,
+      "date": 1775236080
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

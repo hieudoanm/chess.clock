@@ -1,0 +1,104 @@
+{
+  "player_id": 33993508,
+  "@id": "https://api.chess.com/pub/player/fmantonio",
+  "url": "https://www.chess.com/member/FMAntonio",
+  "name": "Anton Konaplev",
+  "username": "fmantonio",
+  "title": "FM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776001631,
+  "joined": 1489609131,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1442,
+      "date": 1744576721,
+      "rd": 305
+    },
+    "best": {
+      "rating": 1442,
+      "date": 1639412829,
+      "game": "https://www.chess.com/game/daily/369303225"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 99494,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2237,
+      "date": 1768143496,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1672858530,
+      "game": "https://www.chess.com/game/live/66597045873"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2509,
+      "date": 1737211525,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1608762329,
+      "game": "https://www.chess.com/game/live/3545243323"
+    },
+    "record": {
+      "win": 315,
+      "loss": 326,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2508,
+      "date": 1761487292,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2605,
+      "date": 1559821138,
+      "game": "https://www.chess.com/game/live/4691779345"
+    },
+    "record": {
+      "win": 905,
+      "loss": 872,
+      "draw": 128
+    }
+  },
+  "fide": 2284,
+  "tactics": {
+    "highest": {
+      "rating": 2705,
+      "date": 1489609131
+    },
+    "lowest": {
+      "rating": 2705,
+      "date": 1489609131
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

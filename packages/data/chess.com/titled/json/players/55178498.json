@@ -1,0 +1,79 @@
+{
+  "player_id": 55178498,
+  "@id": "https://api.chess.com/pub/player/thefirstchess",
+  "url": "https://www.chess.com/member/Thefirstchess",
+  "username": "thefirstchess",
+  "title": "WFM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/VE",
+  "last_online": 1555952950,
+  "joined": 1545921497,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1565,
+      "date": 1719304171,
+      "rd": 203
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 37244,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2207,
+      "date": 1555983401,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2129,
+      "date": 1554843494,
+      "game": "https://www.chess.com/game/live/3639490244"
+    },
+    "record": {
+      "win": 32,
+      "loss": 35,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2469,
+      "date": 1555863859,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1555847837,
+      "game": "https://www.chess.com/game/live/3598523084"
+    },
+    "record": {
+      "win": 93,
+      "loss": 63,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2114,
+      "date": 1545921497
+    },
+    "lowest": {
+      "rating": 2114,
+      "date": 1545921497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

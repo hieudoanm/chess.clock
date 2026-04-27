@@ -1,0 +1,99 @@
+{
+  "player_id": 1988585,
+  "@id": "https://api.chess.com/pub/player/allejam",
+  "url": "https://www.chess.com/member/allejam",
+  "name": "Rudijanto Majella",
+  "username": "allejam",
+  "title": "NM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/ID",
+  "location": "Tangerang",
+  "last_online": 1776587087,
+  "joined": 1245672710,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 829,
+      "date": 1759998490,
+      "rd": 228
+    },
+    "record": {
+      "win": 0,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 11692,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2055,
+      "date": 1775803943,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1772633011,
+      "game": "https://www.chess.com/game/live/165472259742"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2821,
+      "date": 1776141757,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2821,
+      "date": 1776141757,
+      "game": "https://www.chess.com/game/live/138991908386"
+    },
+    "record": {
+      "win": 446,
+      "loss": 278,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1776578676,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2696,
+      "date": 1768894989,
+      "game": "https://www.chess.com/game/live/4547084222"
+    },
+    "record": {
+      "win": 760,
+      "loss": 564,
+      "draw": 100
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2463,
+      "date": 1764087719
+    },
+    "lowest": {
+      "rating": 2224,
+      "date": 1775166735
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/167635533.a143c9bf.200x200o.e09cb6dd29d2.jpg",
+  "player_id": 167635533,
+  "@id": "https://api.chess.com/pub/player/blitzbrains",
+  "url": "https://www.chess.com/member/BlitzBrains",
+  "username": "blitzbrains",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776557422,
+  "joined": 1641371353,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2226,
+      "date": 1775830668,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2226,
+      "date": 1775830668,
+      "game": "https://www.chess.com/game/live/146873464918"
+    },
+    "record": {
+      "win": 38,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1769823164,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1769823164,
+      "game": "https://www.chess.com/game/live/143091911890"
+    },
+    "record": {
+      "win": 409,
+      "loss": 300,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2492,
+      "date": 1776162914,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1776161544,
+      "game": "https://www.chess.com/game/live/142096907112"
+    },
+    "record": {
+      "win": 170,
+      "loss": 85,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1774745135
+    },
+    "lowest": {
+      "rating": 2037,
+      "date": 1756527322
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

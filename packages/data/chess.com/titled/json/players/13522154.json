@@ -1,0 +1,87 @@
+{
+  "player_id": 13522154,
+  "@id": "https://api.chess.com/pub/player/popov_m",
+  "url": "https://www.chess.com/member/popov_m",
+  "name": "Mikhail Popov",
+  "username": "popov_m",
+  "title": "IM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u0422\u044e\u043c\u0435\u043d\u044c",
+  "last_online": 1776531420,
+  "joined": 1379147678,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1327,
+      "date": 1769202462,
+      "rd": 301
+    },
+    "best": {
+      "rating": 1327,
+      "date": 1769202462,
+      "game": "https://www.chess.com/game/daily/912092639"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 43731,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2798,
+      "date": 1598733355,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2662,
+      "date": 1527728564,
+      "game": "https://www.chess.com/game/live/2838855308"
+    },
+    "record": {
+      "win": 647,
+      "loss": 461,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2592,
+      "date": 1771431443,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2689,
+      "date": 1679437204,
+      "game": "https://www.chess.com/game/live/3139611790"
+    },
+    "record": {
+      "win": 298,
+      "loss": 180,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2585,
+      "date": 1379147678
+    },
+    "lowest": {
+      "rating": 2585,
+      "date": 1379147678
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 78403236,
+  "@id": "https://api.chess.com/pub/player/orby314",
+  "url": "https://www.chess.com/member/orby314",
+  "username": "orby314",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776443996,
+  "joined": 1588434642,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2359,
+      "date": 1764475837,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1701574545,
+      "game": "https://www.chess.com/game/live/145510973250"
+    },
+    "record": {
+      "win": 95,
+      "loss": 57,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2056,
+      "date": 1680008985,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1609970134,
+      "game": "https://www.chess.com/game/live/6172202941"
+    },
+    "record": {
+      "win": 322,
+      "loss": 138,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2479,
+      "date": 1776443986,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2561,
+      "date": 1767649214,
+      "game": "https://www.chess.com/game/live/74464829871"
+    },
+    "record": {
+      "win": 8434,
+      "loss": 6833,
+      "draw": 785
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2491,
+      "date": 1762531229
+    },
+    "lowest": {
+      "rating": 2309,
+      "date": 1762789928
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

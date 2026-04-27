@@ -1,0 +1,105 @@
+{
+  "player_id": 15351912,
+  "@id": "https://api.chess.com/pub/player/necromon",
+  "url": "https://www.chess.com/member/Necromon",
+  "name": "John Nemeth",
+  "username": "necromon",
+  "title": "FM",
+  "followers": 133,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Melbourne",
+  "last_online": 1776556820,
+  "joined": 1388573885,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1844,
+      "date": 1776430463,
+      "rd": 239
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1641069774,
+      "game": "https://www.chess.com/game/daily/364903133"
+    },
+    "record": {
+      "win": 68,
+      "loss": 9,
+      "draw": 10,
+      "time_per_move": 26027,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2268,
+      "date": 1776336387,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1672701578,
+      "game": "https://www.chess.com/game/live/66439991951"
+    },
+    "record": {
+      "win": 173,
+      "loss": 29,
+      "draw": 38
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2471,
+      "date": 1748655025,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1665527324,
+      "game": "https://www.chess.com/game/live/139047078102"
+    },
+    "record": {
+      "win": 1296,
+      "loss": 588,
+      "draw": 94
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2657,
+      "date": 1776430744,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1776412863,
+      "game": "https://www.chess.com/game/live/113094595047"
+    },
+    "record": {
+      "win": 702,
+      "loss": 302,
+      "draw": 79
+    }
+  },
+  "fide": 2164,
+  "tactics": {
+    "highest": {
+      "rating": 2526,
+      "date": 1769417235
+    },
+    "lowest": {
+      "rating": 2138,
+      "date": 1756900116
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

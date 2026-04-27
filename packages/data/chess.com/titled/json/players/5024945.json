@@ -1,0 +1,85 @@
+{
+  "player_id": 5024945,
+  "@id": "https://api.chess.com/pub/player/pgelis",
+  "url": "https://www.chess.com/member/pgelis",
+  "name": "Paul Gelis",
+  "username": "pgelis",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1708039554,
+  "joined": 1303525594,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1708032575,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1708031560,
+      "game": "https://www.chess.com/game/live/101112806003"
+    },
+    "record": {
+      "win": 19,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1707955259,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2325,
+      "date": 1303871713,
+      "game": "https://www.chess.com/game/live/101614908027"
+    },
+    "record": {
+      "win": 220,
+      "loss": 189,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2267,
+      "date": 1709215126,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1707612003,
+      "game": "https://www.chess.com/game/live/101282471787"
+    },
+    "record": {
+      "win": 350,
+      "loss": 346,
+      "draw": 97
+    }
+  },
+  "fide": 2058,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1303525594
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1303525594
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

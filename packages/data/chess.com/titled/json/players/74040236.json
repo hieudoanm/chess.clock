@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74040236.2ef89265.200x200o.01bd79744bb5.jpeg",
+  "player_id": 74040236,
+  "@id": "https://api.chess.com/pub/player/vladyslav_puchka",
+  "url": "https://www.chess.com/member/Vladyslav_Puchka",
+  "name": "Vladyslav Puchka",
+  "username": "vladyslav_puchka",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776594775,
+  "joined": 1584797236,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1965,
+      "date": 1776587921,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1760097672,
+      "game": "https://www.chess.com/game/daily/644057355"
+    },
+    "record": {
+      "win": 95,
+      "loss": 6,
+      "draw": 17,
+      "time_per_move": 42997,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2304,
+      "date": 1765292275,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1765292275,
+      "game": "https://www.chess.com/game/live/146505451086"
+    },
+    "record": {
+      "win": 40,
+      "loss": 17,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2478,
+      "date": 1775338626,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1739022967,
+      "game": "https://www.chess.com/game/live/35657346709"
+    },
+    "record": {
+      "win": 3295,
+      "loss": 3811,
+      "draw": 696
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2317,
+      "date": 1776289636,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1737926286,
+      "game": "https://www.chess.com/game/live/131664666947"
+    },
+    "record": {
+      "win": 371,
+      "loss": 383,
+      "draw": 91
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2200,
+      "date": 1767474681
+    },
+    "lowest": {
+      "rating": 1975,
+      "date": 1767473272
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

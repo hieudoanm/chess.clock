@@ -1,0 +1,104 @@
+{
+  "player_id": 28977160,
+  "@id": "https://api.chess.com/pub/player/aslu",
+  "url": "https://www.chess.com/member/ASLU",
+  "name": "Anna \u015alusarczyk",
+  "username": "aslu",
+  "title": "WCM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776532328,
+  "joined": 1467999732,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1447,
+      "date": 1719835976,
+      "rd": 108
+    },
+    "best": {
+      "rating": 1773,
+      "date": 1579634564,
+      "game": "https://www.chess.com/game/daily/247449166"
+    },
+    "record": {
+      "win": 17,
+      "loss": 8,
+      "draw": 2,
+      "time_per_move": 35970,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1569,
+      "date": 1744702876,
+      "rd": 137
+    },
+    "best": {
+      "rating": 1606,
+      "date": 1618944231,
+      "game": "https://www.chess.com/game/live/12682733059"
+    },
+    "record": {
+      "win": 81,
+      "loss": 35,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2248,
+      "date": 1776184511,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1763575803,
+      "game": "https://www.chess.com/game/live/145710385954"
+    },
+    "record": {
+      "win": 409,
+      "loss": 318,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2275,
+      "date": 1776183911,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2368,
+      "date": 1721776072,
+      "game": "https://www.chess.com/game/live/115509497223"
+    },
+    "record": {
+      "win": 448,
+      "loss": 383,
+      "draw": 42
+    }
+  },
+  "fide": 1953,
+  "tactics": {
+    "highest": {
+      "rating": 2468,
+      "date": 1761554082
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1760383263
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

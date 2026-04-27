@@ -1,0 +1,106 @@
+{
+  "player_id": 101146378,
+  "@id": "https://api.chess.com/pub/player/masteryolo29",
+  "url": "https://www.chess.com/member/masteryolo29",
+  "name": "Antoine Flick",
+  "username": "masteryolo29",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776597226,
+  "joined": 1606921354,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1698,
+      "date": 1776588173,
+      "rd": 127
+    },
+    "best": {
+      "rating": 1698,
+      "date": 1769331153,
+      "game": "https://www.chess.com/game/daily/908735541"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 35571,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1563,
+      "date": 1769493153,
+      "rd": 144
+    },
+    "best": {
+      "rating": 1563,
+      "date": 1769493153,
+      "game": "https://www.chess.com/game/daily/896352027"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 35571,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2304,
+      "date": 1722791683,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2492,
+      "date": 1612516810,
+      "game": "https://www.chess.com/game/live/23122868399"
+    },
+    "record": {
+      "win": 125,
+      "loss": 36,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2727,
+      "date": 1775406459,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2817,
+      "date": 1701524701,
+      "game": "https://www.chess.com/game/live/123090592257"
+    },
+    "record": {
+      "win": 192,
+      "loss": 70,
+      "draw": 10
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2744,
+      "date": 1775917063
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1755844410
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

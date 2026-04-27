@@ -1,0 +1,104 @@
+{
+  "player_id": 36711930,
+  "@id": "https://api.chess.com/pub/player/larissasteenbekkers",
+  "url": "https://www.chess.com/member/LarissaSteenbekkers",
+  "name": "Franck Steenbekkers",
+  "username": "larissasteenbekkers",
+  "title": "CM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Boxtel",
+  "last_online": 1776340362,
+  "joined": 1498893840,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1970,
+      "date": 1685051103,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1584968476,
+      "game": "https://www.chess.com/game/daily/248740696"
+    },
+    "record": {
+      "win": 78,
+      "loss": 58,
+      "draw": 6,
+      "time_per_move": 26014,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2022,
+      "date": 1581857518,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2022,
+      "date": 1581857488,
+      "game": "https://www.chess.com/game/live/4503928996"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1726,
+      "date": 1565100217,
+      "rd": 129
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1565097673,
+      "game": "https://www.chess.com/game/live/3925729006"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1873,
+      "date": 1584909889,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1499318911,
+      "game": "https://www.chess.com/game/live/3756160546"
+    },
+    "record": {
+      "win": 675,
+      "loss": 399,
+      "draw": 70
+    }
+  },
+  "fide": 2165,
+  "tactics": {
+    "highest": {
+      "rating": 1947,
+      "date": 1498893840
+    },
+    "lowest": {
+      "rating": 1947,
+      "date": 1498893840
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 15
+    }
+  }
+}

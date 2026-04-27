@@ -1,0 +1,85 @@
+{
+  "player_id": 330150933,
+  "@id": "https://api.chess.com/pub/player/alexey_krupko",
+  "url": "https://www.chess.com/member/Alexey_Krupko",
+  "name": "Alexey Krupko",
+  "username": "alexey_krupko",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776536897,
+  "joined": 1701611008,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2522,
+      "date": 1776453632,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1773779552,
+      "game": "https://www.chess.com/game/live/147763367904"
+    },
+    "record": {
+      "win": 621,
+      "loss": 219,
+      "draw": 84
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2081,
+      "date": 1775058701,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2294,
+      "date": 1719000268,
+      "game": "https://www.chess.com/game/live/110322124861"
+    },
+    "record": {
+      "win": 27,
+      "loss": 19,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2421,
+      "date": 1775059275,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1727386392,
+      "game": "https://www.chess.com/game/live/121124463487"
+    },
+    "record": {
+      "win": 28,
+      "loss": 17,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1489,
+      "date": 1770052114
+    },
+    "lowest": {
+      "rating": 1040,
+      "date": 1761463622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

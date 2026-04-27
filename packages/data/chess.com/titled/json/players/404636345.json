@@ -1,0 +1,61 @@
+{
+  "player_id": 404636345,
+  "@id": "https://api.chess.com/pub/player/yellow_orangee",
+  "url": "https://www.chess.com/member/Yellow_Orangee",
+  "username": "yellow_orangee",
+  "title": "WFM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776340716,
+  "joined": 1732452319,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2109,
+      "date": 1746824181,
+      "rd": 75
+    },
+    "record": {
+      "win": 10,
+      "loss": 11,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2120,
+      "date": 1753475984,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2233,
+      "date": 1733759084,
+      "game": "https://www.chess.com/game/live/127497637609"
+    },
+    "record": {
+      "win": 20,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2002,
+      "date": 1732452319
+    },
+    "lowest": {
+      "rating": 2002,
+      "date": 1732452319
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

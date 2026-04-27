@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76492320.1a7fc133.200x200o.acdeeb425f27.jpeg",
+  "player_id": 76492320,
+  "@id": "https://api.chess.com/pub/player/alexey_spirin",
+  "url": "https://www.chess.com/member/Alexey_Spirin",
+  "name": "Alexey Spirin",
+  "username": "alexey_spirin",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1769713432,
+  "joined": 1586710788,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 2059,
+      "date": 1673114903,
+      "rd": 311
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1673114903,
+      "game": "https://www.chess.com/game/daily/457774409"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9362,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2333,
+      "date": 1670844132,
+      "rd": 252
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1643024879,
+      "game": "https://www.chess.com/game/live/36763172547"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1919,
+      "date": 1650794804,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2184,
+      "date": 1605623076,
+      "game": "https://www.chess.com/game/live/36855598337"
+    },
+    "record": {
+      "win": 345,
+      "loss": 297,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2091,
+      "date": 1641931594,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2091,
+      "date": 1641931594,
+      "game": "https://www.chess.com/game/live/4976253908"
+    },
+    "record": {
+      "win": 102,
+      "loss": 97,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1756202550
+    },
+    "lowest": {
+      "rating": 2424,
+      "date": 1755686908
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

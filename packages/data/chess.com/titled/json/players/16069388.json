@@ -1,0 +1,100 @@
+{
+  "player_id": 16069388,
+  "@id": "https://api.chess.com/pub/player/petrostein",
+  "url": "https://www.chess.com/member/Petrostein",
+  "name": "Alciguel Ruiz",
+  "username": "petrostein",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/CO",
+  "location": "Bogota",
+  "last_online": 1776532088,
+  "joined": 1392486383,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1601770510,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 13567,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1601770507,
+      "rd": 198
+    },
+    "best": {
+      "rating": 1503,
+      "date": 1599694336,
+      "game": "https://www.chess.com/game/live/5423020891"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2166,
+      "date": 1491674036,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1491544304,
+      "game": "https://www.chess.com/game/live/2036912656"
+    },
+    "record": {
+      "win": 91,
+      "loss": 65,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2213,
+      "date": 1773191151,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1591842884,
+      "game": "https://www.chess.com/game/live/96597514741"
+    },
+    "record": {
+      "win": 5949,
+      "loss": 4915,
+      "draw": 644
+    }
+  },
+  "fide": 2199,
+  "tactics": {
+    "highest": {
+      "rating": 2329,
+      "date": 1759116690
+    },
+    "lowest": {
+      "rating": 2109,
+      "date": 1771910571
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

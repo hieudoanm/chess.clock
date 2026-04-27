@@ -1,0 +1,100 @@
+{
+  "player_id": 4582035,
+  "@id": "https://api.chess.com/pub/player/dmjjmd",
+  "url": "https://www.chess.com/member/dmjjmd",
+  "name": "David Mbonu",
+  "username": "dmjjmd",
+  "title": "NM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1766683144,
+  "joined": 1295488006,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1704040170,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 6957,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2197,
+      "date": 1745708045,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1686121308,
+      "game": "https://www.chess.com/game/live/79859433697"
+    },
+    "record": {
+      "win": 68,
+      "loss": 51,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2022,
+      "date": 1751649280,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2330,
+      "date": 1616646165,
+      "game": "https://www.chess.com/game/live/2178082047"
+    },
+    "record": {
+      "win": 306,
+      "loss": 247,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1720381634,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1595369102,
+      "game": "https://www.chess.com/game/live/5250752008"
+    },
+    "record": {
+      "win": 5779,
+      "loss": 5694,
+      "draw": 562
+    }
+  },
+  "fide": 2190,
+  "tactics": {
+    "highest": {
+      "rating": 2637,
+      "date": 1765989408
+    },
+    "lowest": {
+      "rating": 2503,
+      "date": 1765989529
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75622378.795868da.200x200o.5d31f0c565ee.jpg",
+  "player_id": 75622378,
+  "@id": "https://api.chess.com/pub/player/icy",
+  "url": "https://www.chess.com/member/icy",
+  "name": "Jesse Zafirakos",
+  "username": "icy",
+  "title": "CM",
+  "followers": 5542,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Melbourne, Victoria",
+  "last_online": 1776582871,
+  "joined": 1585999390,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1379,
+      "date": 1775592250,
+      "rd": 64
+    },
+    "best": {
+      "rating": 1874,
+      "date": 1743846161,
+      "game": "https://www.chess.com/game/daily/507870223"
+    },
+    "record": {
+      "win": 735,
+      "loss": 257,
+      "draw": 172,
+      "time_per_move": 19580,
+      "timeout_percent": 30
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 900,
+      "date": 1770180111,
+      "rd": 107
+    },
+    "best": {
+      "rating": 1208,
+      "date": 1713968538,
+      "game": "https://www.chess.com/game/daily/495181661"
+    },
+    "record": {
+      "win": 34,
+      "loss": 22,
+      "draw": 6,
+      "time_per_move": 19580,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2472,
+      "date": 1769607725,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1752912493,
+      "game": "https://www.chess.com/game/live/72273316035"
+    },
+    "record": {
+      "win": 509,
+      "loss": 153,
+      "draw": 215
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3010,
+      "date": 1776010086,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3233,
+      "date": 1752336914,
+      "game": "https://www.chess.com/game/live/144169876518"
+    },
+    "record": {
+      "win": 29139,
+      "loss": 10370,
+      "draw": 1698
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2628,
+      "date": 1775299248,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1764167020,
+      "game": "https://www.chess.com/game/live/120419384475"
+    },
+    "record": {
+      "win": 1750,
+      "loss": 885,
+      "draw": 449
+    }
+  },
+  "fide": 2004,
+  "tactics": {
+    "highest": {
+      "rating": 2068,
+      "date": 1760323533
+    },
+    "lowest": {
+      "rating": 2015,
+      "date": 1756295737
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

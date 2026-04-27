@@ -1,0 +1,84 @@
+{
+  "player_id": 46287590,
+  "@id": "https://api.chess.com/pub/player/1moodyman1",
+  "url": "https://www.chess.com/member/1moodyman1",
+  "name": "Alexandr Tarasov",
+  "username": "1moodyman1",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1758817980,
+  "joined": 1526635114,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1635688083,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2575,
+      "date": 1611487556,
+      "game": "https://www.chess.com/game/live/6330632288"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2672,
+      "date": 1640383500,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1640383500,
+      "game": "https://www.chess.com/game/live/3529660046"
+    },
+    "record": {
+      "win": 709,
+      "loss": 555,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2753,
+      "date": 1754048045,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2753,
+      "date": 1754048045,
+      "game": "https://www.chess.com/game/live/75992426665"
+    },
+    "record": {
+      "win": 619,
+      "loss": 422,
+      "draw": 108
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1526635114
+    },
+    "lowest": {
+      "rating": 2571,
+      "date": 1526635114
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

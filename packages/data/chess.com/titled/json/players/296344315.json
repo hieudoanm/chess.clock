@@ -1,0 +1,84 @@
+{
+  "player_id": 296344315,
+  "@id": "https://api.chess.com/pub/player/2krk1",
+  "url": "https://www.chess.com/member/2KRK1",
+  "name": "Jose Miguel Fernandez Garcia",
+  "username": "2krk1",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775867054,
+  "joined": 1687878279,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2395,
+      "date": 1775851902,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1688058964,
+      "game": "https://www.chess.com/game/live/167134863722"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2863,
+      "date": 1761588875,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1759951529,
+      "game": "https://www.chess.com/game/live/83506667925"
+    },
+    "record": {
+      "win": 118,
+      "loss": 102,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2710,
+      "date": 1773330090,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2841,
+      "date": 1761943333,
+      "game": "https://www.chess.com/game/live/144985503778"
+    },
+    "record": {
+      "win": 908,
+      "loss": 898,
+      "draw": 228
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1687878279
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1687878279
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

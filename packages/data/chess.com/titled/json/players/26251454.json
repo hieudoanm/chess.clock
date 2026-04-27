@@ -1,0 +1,67 @@
+{
+  "player_id": 26251454,
+  "@id": "https://api.chess.com/pub/player/huanghou",
+  "url": "https://www.chess.com/member/HuangHou",
+  "name": "Zhaoqin Peng",
+  "username": "huanghou",
+  "title": "GM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1724502383,
+  "joined": 1453365206,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2233,
+      "date": 1631216373,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1597412494,
+      "game": "https://www.chess.com/game/live/5333560144"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2280,
+      "date": 1621022526,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1606653225,
+      "game": "https://www.chess.com/game/live/1755366344"
+    },
+    "record": {
+      "win": 224,
+      "loss": 141,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2587,
+      "date": 1453365206
+    },
+    "lowest": {
+      "rating": 2587,
+      "date": 1453365206
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 26
+    }
+  }
+}

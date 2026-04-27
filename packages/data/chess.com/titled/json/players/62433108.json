@@ -1,0 +1,103 @@
+{
+  "player_id": 62433108,
+  "@id": "https://api.chess.com/pub/player/chessforme17",
+  "url": "https://www.chess.com/member/chessforme17",
+  "name": "Advay Bansal",
+  "username": "chessforme17",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776557726,
+  "joined": 1560895110,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1745034723,
+      "rd": 163
+    },
+    "best": {
+      "rating": 1902,
+      "date": 1563489764,
+      "game": "https://www.chess.com/game/daily/271800290"
+    },
+    "record": {
+      "win": 22,
+      "loss": 10,
+      "draw": 2,
+      "time_per_move": 77866,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1687035090,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1658764556,
+      "game": "https://www.chess.com/game/live/51656367585"
+    },
+    "record": {
+      "win": 653,
+      "loss": 630,
+      "draw": 175
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2322,
+      "date": 1776464636,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1769556299,
+      "game": "https://www.chess.com/game/live/5461615506"
+    },
+    "record": {
+      "win": 1068,
+      "loss": 970,
+      "draw": 114
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2455,
+      "date": 1776464467,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2575,
+      "date": 1768621960,
+      "game": "https://www.chess.com/game/live/170705444211"
+    },
+    "record": {
+      "win": 1970,
+      "loss": 1921,
+      "draw": 328
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1772175534
+    },
+    "lowest": {
+      "rating": 2252,
+      "date": 1772176680
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 42
+    }
+  }
+}

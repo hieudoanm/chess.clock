@@ -1,0 +1,83 @@
+{
+  "player_id": 130206964,
+  "@id": "https://api.chess.com/pub/player/nice_2_m8te_u",
+  "url": "https://www.chess.com/member/Nice_2_M8te_U",
+  "username": "nice_2_m8te_u",
+  "title": "FM",
+  "followers": 150,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776537303,
+  "joined": 1616486145,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1765645501,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1739644465,
+      "game": "https://www.chess.com/game/live/133379956151"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2493,
+      "date": 1766256742,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2780,
+      "date": 1704223461,
+      "game": "https://www.chess.com/game/live/146965005540"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2756,
+      "date": 1770215010,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1763563491,
+      "game": "https://www.chess.com/game/live/117527956223"
+    },
+    "record": {
+      "win": 1732,
+      "loss": 1423,
+      "draw": 340
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2771,
+      "date": 1772152981
+    },
+    "lowest": {
+      "rating": 2558,
+      "date": 1772153188
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 45
+    }
+  }
+}

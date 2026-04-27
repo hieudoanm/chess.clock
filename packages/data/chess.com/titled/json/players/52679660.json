@@ -1,0 +1,86 @@
+{
+  "player_id": 52679660,
+  "@id": "https://api.chess.com/pub/player/aemeffi",
+  "url": "https://www.chess.com/member/AEMEffi",
+  "name": "Evgeny Degtiarev",
+  "username": "aemeffi",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776443263,
+  "joined": 1543771255,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2003,
+      "date": 1694421361,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1620453703,
+      "game": "https://www.chess.com/game/daily/331293584"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 39481,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2192,
+      "date": 1738790341,
+      "rd": 170
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1640513261,
+      "game": "https://www.chess.com/game/live/34179556031"
+    },
+    "record": {
+      "win": 397,
+      "loss": 386,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2415,
+      "date": 1776443245,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1765278491,
+      "game": "https://www.chess.com/game/live/15701610587"
+    },
+    "record": {
+      "win": 2163,
+      "loss": 2310,
+      "draw": 276
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2538,
+      "date": 1543771255
+    },
+    "lowest": {
+      "rating": 2538,
+      "date": 1543771255
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

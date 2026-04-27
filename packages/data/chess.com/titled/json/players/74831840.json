@@ -1,0 +1,97 @@
+{
+  "player_id": 74831840,
+  "@id": "https://api.chess.com/pub/player/chain0",
+  "url": "https://www.chess.com/member/Chain0",
+  "username": "chain0",
+  "title": "CM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/PE",
+  "last_online": 1776472788,
+  "joined": 1585414268,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2147,
+      "date": 1768575776,
+      "rd": 289
+    },
+    "best": {
+      "rating": 2147,
+      "date": 1691628950,
+      "game": "https://www.chess.com/game/daily/491603821"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32287,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2209,
+      "date": 1740550637,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1730227073,
+      "game": "https://www.chess.com/game/live/123279097023"
+    },
+    "record": {
+      "win": 51,
+      "loss": 24,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2204,
+      "date": 1774420876,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1726205951,
+      "game": "https://www.chess.com/game/live/119943570861"
+    },
+    "record": {
+      "win": 147,
+      "loss": 92,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2306,
+      "date": 1775330403,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1772913323,
+      "game": "https://www.chess.com/game/live/135052742519"
+    },
+    "record": {
+      "win": 884,
+      "loss": 768,
+      "draw": 101
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2319,
+      "date": 1776039105
+    },
+    "lowest": {
+      "rating": 2195,
+      "date": 1767937022
+    }
+  },
+  "puzzle_rush": {}
+}

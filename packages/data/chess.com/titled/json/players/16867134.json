@@ -1,0 +1,103 @@
+{
+  "player_id": 16867134,
+  "@id": "https://api.chess.com/pub/player/jup1978",
+  "url": "https://www.chess.com/member/jup1978",
+  "name": "Juan Antonio Urbina Perez",
+  "username": "jup1978",
+  "title": "FM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775992318,
+  "joined": 1397294277,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1814,
+      "date": 1770823855,
+      "rd": 274
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1397294277,
+      "game": "https://www.chess.com/game/daily/239083540"
+    },
+    "record": {
+      "win": 237,
+      "loss": 135,
+      "draw": 61,
+      "time_per_move": 6889,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2086,
+      "date": 1659720565,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1659719441,
+      "game": "https://www.chess.com/game/live/53457666373"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2405,
+      "date": 1736617712,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2449,
+      "date": 1733597469,
+      "game": "https://www.chess.com/game/live/127331405917"
+    },
+    "record": {
+      "win": 845,
+      "loss": 652,
+      "draw": 105
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2559,
+      "date": 1771345224,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1707497712,
+      "game": "https://www.chess.com/game/live/63917500023"
+    },
+    "record": {
+      "win": 7224,
+      "loss": 8398,
+      "draw": 1979
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2384,
+      "date": 1762753991
+    },
+    "lowest": {
+      "rating": 2192,
+      "date": 1758603362
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 30154745,
+  "@id": "https://api.chess.com/pub/player/ppokerchess",
+  "url": "https://www.chess.com/member/PPokerChess",
+  "name": "Guess Who",
+  "username": "ppokerchess",
+  "title": "IM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776500124,
+  "joined": 1475154280,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2445,
+      "date": 1768144461,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1647763558,
+      "game": "https://www.chess.com/game/live/41500803287"
+    },
+    "record": {
+      "win": 20,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2380,
+      "date": 1483386871,
+      "rd": 253
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1483386871,
+      "game": "https://www.chess.com/game/live/1882868534"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1754368429,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2542,
+      "date": 1730124280,
+      "game": "https://www.chess.com/game/live/123862843729"
+    },
+    "record": {
+      "win": 50,
+      "loss": 26,
+      "draw": 6
+    }
+  },
+  "fide": 2402,
+  "tactics": {
+    "highest": {
+      "rating": 2598,
+      "date": 1767007528
+    },
+    "lowest": {
+      "rating": 2429,
+      "date": 1767007571
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

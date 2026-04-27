@@ -1,0 +1,105 @@
+{
+  "player_id": 39633960,
+  "@id": "https://api.chess.com/pub/player/abdimalik_abdisalimov",
+  "url": "https://www.chess.com/member/Abdimalik_Abdisalimov",
+  "name": "Abdimalik Abdisalimov",
+  "username": "abdimalik_abdisalimov",
+  "title": "GM",
+  "followers": 572,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "location": "tashkent",
+  "last_online": 1775655536,
+  "joined": 1508573535,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1324,
+      "date": 1713860946,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1508573535,
+      "game": "https://www.chess.com/game/daily/491539831"
+    },
+    "record": {
+      "win": 5,
+      "loss": 25,
+      "draw": 0,
+      "time_per_move": 84247,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1924,
+      "date": 1739809418,
+      "rd": 266
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1529511886,
+      "game": "https://www.chess.com/game/live/2889983552"
+    },
+    "record": {
+      "win": 6,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2826,
+      "date": 1665145701,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2989,
+      "date": 1610727756,
+      "game": "https://www.chess.com/game/live/6243933903"
+    },
+    "record": {
+      "win": 1005,
+      "loss": 1150,
+      "draw": 123
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2783,
+      "date": 1737478078,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2916,
+      "date": 1583684507,
+      "game": "https://www.chess.com/game/live/4557593640"
+    },
+    "record": {
+      "win": 2435,
+      "loss": 2624,
+      "draw": 564
+    }
+  },
+  "fide": 2435,
+  "tactics": {
+    "highest": {
+      "rating": 2320,
+      "date": 1508573535
+    },
+    "lowest": {
+      "rating": 2320,
+      "date": 1508573535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

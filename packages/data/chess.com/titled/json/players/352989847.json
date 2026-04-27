@@ -1,0 +1,80 @@
+{
+  "player_id": 352989847,
+  "@id": "https://api.chess.com/pub/player/umumba_fm",
+  "url": "https://www.chess.com/member/Umumba_FM",
+  "name": "David H\u00f6ffer",
+  "username": "umumba_fm",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1758625957,
+  "joined": 1711355958,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1758534259,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1758534259,
+      "game": "https://www.chess.com/game/live/143417480894"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2628,
+      "date": 1748986777,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1748986647,
+      "game": "https://www.chess.com/game/live/139184719594"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2580,
+      "date": 1750798278,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2707,
+      "date": 1714515553,
+      "game": "https://www.chess.com/game/live/127004998853"
+    },
+    "record": {
+      "win": 58,
+      "loss": 68,
+      "draw": 7
+    }
+  },
+  "fide": 2307,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1711355958
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1711355958
+    }
+  },
+  "puzzle_rush": {}
+}

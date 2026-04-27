@@ -1,0 +1,99 @@
+{
+  "player_id": 13288124,
+  "@id": "https://api.chess.com/pub/player/topmoi",
+  "url": "https://www.chess.com/member/topmoi",
+  "name": "rag lth",
+  "username": "topmoi",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/DK",
+  "location": "danemark",
+  "last_online": 1776355245,
+  "joined": 1377522784,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1091,
+      "date": 1746025746,
+      "rd": 288
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 34,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1751461089,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1630311291,
+      "game": "https://www.chess.com/game/live/24049012997"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2226,
+      "date": 1678882996,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1649941134,
+      "game": "https://www.chess.com/game/live/3063027929"
+    },
+    "record": {
+      "win": 491,
+      "loss": 382,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2487,
+      "date": 1776081994,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2657,
+      "date": 1772300008,
+      "game": "https://www.chess.com/game/live/164486673686"
+    },
+    "record": {
+      "win": 7327,
+      "loss": 6055,
+      "draw": 817
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2326,
+      "date": 1755606329
+    },
+    "lowest": {
+      "rating": 2260,
+      "date": 1756036536
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

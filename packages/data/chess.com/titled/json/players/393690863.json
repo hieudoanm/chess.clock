@@ -1,0 +1,66 @@
+{
+  "player_id": 393690863,
+  "@id": "https://api.chess.com/pub/player/lfpp5",
+  "url": "https://www.chess.com/member/LFPP5",
+  "username": "lfpp5",
+  "title": "GM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776028468,
+  "joined": 1728070967,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2596,
+      "date": 1733268082,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1733264314,
+      "game": "https://www.chess.com/game/live/127002555393"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2918,
+      "date": 1759672047,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2963,
+      "date": 1753090166,
+      "game": "https://www.chess.com/game/live/132613870845"
+    },
+    "record": {
+      "win": 133,
+      "loss": 90,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2697,
+      "date": 1772405817
+    },
+    "lowest": {
+      "rating": 2644,
+      "date": 1772405854
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

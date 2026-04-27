@@ -1,0 +1,84 @@
+{
+  "player_id": 352359873,
+  "@id": "https://api.chess.com/pub/player/garryel-ogro",
+  "url": "https://www.chess.com/member/GarryEl-Ogro",
+  "username": "garryel-ogro",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1763902546,
+  "joined": 1711076984,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1758635453,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2072,
+      "date": 1737247469,
+      "game": "https://www.chess.com/game/live/130298418847"
+    },
+    "record": {
+      "win": 12,
+      "loss": 14,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1758635453,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1738356650,
+      "game": "https://www.chess.com/game/live/132095452549"
+    },
+    "record": {
+      "win": 23,
+      "loss": 43,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2219,
+      "date": 1762456422,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1760533440,
+      "game": "https://www.chess.com/game/live/144320006814"
+    },
+    "record": {
+      "win": 178,
+      "loss": 66,
+      "draw": 13
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2137,
+      "date": 1762442712
+    },
+    "lowest": {
+      "rating": 1918,
+      "date": 1761656765
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 28
+    }
+  }
+}

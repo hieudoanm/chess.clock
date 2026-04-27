@@ -1,0 +1,84 @@
+{
+  "player_id": 171219705,
+  "@id": "https://api.chess.com/pub/player/chocolate_cookie02",
+  "url": "https://www.chess.com/member/chocolate_cookie02",
+  "name": "Bora Yarar",
+  "username": "chocolate_cookie02",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776582799,
+  "joined": 1643738366,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 801,
+      "date": 1747225318,
+      "rd": 197
+    },
+    "best": {
+      "rating": 590,
+      "date": 1656767226,
+      "game": "https://www.chess.com/game/live/50506120795"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2742,
+      "date": 1755788274,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2799,
+      "date": 1714678059,
+      "game": "https://www.chess.com/game/live/94498432347"
+    },
+    "record": {
+      "win": 396,
+      "loss": 287,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2880,
+      "date": 1714293121,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2880,
+      "date": 1714293121,
+      "game": "https://www.chess.com/game/live/105627622193"
+    },
+    "record": {
+      "win": 263,
+      "loss": 80,
+      "draw": 32
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2752,
+      "date": 1774178694
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1755756319
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

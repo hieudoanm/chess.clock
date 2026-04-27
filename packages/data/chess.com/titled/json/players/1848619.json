@@ -1,0 +1,123 @@
+{
+  "player_id": 1848619,
+  "@id": "https://api.chess.com/pub/player/dcremisi",
+  "url": "https://www.chess.com/member/dcremisi",
+  "name": "Daniel Cremisi",
+  "username": "dcremisi",
+  "title": "NM",
+  "followers": 70,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Charlotte, NC",
+  "last_online": 1776571566,
+  "joined": 1238457573,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1767,
+      "date": 1731490090,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1888,
+      "date": 1502068787,
+      "game": "https://www.chess.com/game/daily/152129900"
+    },
+    "record": {
+      "win": 1439,
+      "loss": 884,
+      "draw": 194,
+      "time_per_move": 15141,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 928,
+      "date": 1302733472,
+      "rd": 172
+    },
+    "best": {
+      "rating": 1183,
+      "date": 1297557317,
+      "game": "https://www.chess.com/game/daily/31518410"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 15141,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1907,
+      "date": 1770612263,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2088,
+      "date": 1484180019,
+      "game": "https://www.chess.com/game/live/286856419"
+    },
+    "record": {
+      "win": 129,
+      "loss": 178,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2542,
+      "date": 1691659352,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1690639708,
+      "game": "https://www.chess.com/game/live/2134175786"
+    },
+    "record": {
+      "win": 6709,
+      "loss": 5566,
+      "draw": 621
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2635,
+      "date": 1755633952,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1705422616,
+      "game": "https://www.chess.com/game/live/104621513647"
+    },
+    "record": {
+      "win": 8337,
+      "loss": 7687,
+      "draw": 1122
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2434,
+      "date": 1238457573
+    },
+    "lowest": {
+      "rating": 2434,
+      "date": 1238457573
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 225570973,
+  "@id": "https://api.chess.com/pub/player/rvmalg",
+  "url": "https://www.chess.com/member/RVMalg",
+  "username": "rvmalg",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776543462,
+  "joined": 1673725894,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2426,
+      "date": 1773434016,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1766534510,
+      "game": "https://www.chess.com/game/live/147097863184"
+    },
+    "record": {
+      "win": 212,
+      "loss": 147,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2320,
+      "date": 1774391139,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1773500960,
+      "game": "https://www.chess.com/game/live/110408556061"
+    },
+    "record": {
+      "win": 821,
+      "loss": 677,
+      "draw": 86
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2492,
+      "date": 1775337239,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2492,
+      "date": 1775337239,
+      "game": "https://www.chess.com/game/live/86710882951"
+    },
+    "record": {
+      "win": 248,
+      "loss": 167,
+      "draw": 29
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2290,
+      "date": 1756044344
+    },
+    "lowest": {
+      "rating": 2140,
+      "date": 1765067141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

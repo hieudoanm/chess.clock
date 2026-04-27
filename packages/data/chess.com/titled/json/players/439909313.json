@@ -1,0 +1,56 @@
+{
+  "player_id": 439909313,
+  "@id": "https://api.chess.com/pub/player/snoopfm",
+  "url": "https://www.chess.com/member/SnoopFM",
+  "username": "snoopfm",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1743383001,
+  "joined": 1743004530,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1743284974,
+      "rd": 37
+    },
+    "record": {
+      "win": 48,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2706,
+      "date": 1743381996,
+      "rd": 44
+    },
+    "record": {
+      "win": 16,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2304,
+      "date": 1743004530
+    },
+    "lowest": {
+      "rating": 2304,
+      "date": 1743004530
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

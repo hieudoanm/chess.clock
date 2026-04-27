@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/41548278.f4e36849.200x200o.1625386012a3.jpeg",
+  "player_id": 41548278,
+  "@id": "https://api.chess.com/pub/player/olkarchess",
+  "url": "https://www.chess.com/member/olkarchess",
+  "name": "Oleksii Karvatskyi",
+  "username": "olkarchess",
+  "title": "FM",
+  "followers": 104,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776510485,
+  "joined": 1513880519,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1716,
+      "date": 1755013671,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1716,
+      "date": 1634571096,
+      "game": "https://www.chess.com/game/daily/248029894"
+    },
+    "record": {
+      "win": 127,
+      "loss": 32,
+      "draw": 14,
+      "time_per_move": 32701,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2155,
+      "date": 1756057872,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1756057872,
+      "game": "https://www.chess.com/game/live/6262807599"
+    },
+    "record": {
+      "win": 139,
+      "loss": 98,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1772322092,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2842,
+      "date": 1772319635,
+      "game": "https://www.chess.com/game/live/140299286672"
+    },
+    "record": {
+      "win": 505,
+      "loss": 356,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1769618495,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1766859876,
+      "game": "https://www.chess.com/game/live/133049970483"
+    },
+    "record": {
+      "win": 1268,
+      "loss": 867,
+      "draw": 108
+    }
+  },
+  "fide": 2306,
+  "tactics": {
+    "highest": {
+      "rating": 2422,
+      "date": 1756820660
+    },
+    "lowest": {
+      "rating": 2248,
+      "date": 1759582497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

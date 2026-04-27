@@ -1,0 +1,80 @@
+{
+  "player_id": 435877707,
+  "@id": "https://api.chess.com/pub/player/callwithacehigh",
+  "url": "https://www.chess.com/member/callwithacehigh",
+  "name": "Warren Wang",
+  "username": "callwithacehigh",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776389156,
+  "joined": 1741642615,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2142,
+      "date": 1776388893,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2154,
+      "date": 1762478520,
+      "game": "https://www.chess.com/game/live/138505997288"
+    },
+    "record": {
+      "win": 24,
+      "loss": 12,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2408,
+      "date": 1764362387,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1763944972,
+      "game": "https://www.chess.com/game/live/139886697004"
+    },
+    "record": {
+      "win": 172,
+      "loss": 134,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1763332749,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1749941197,
+      "game": "https://www.chess.com/game/live/145599416218"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "fide": 2046,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1741642615
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1741642615
+    }
+  },
+  "puzzle_rush": {}
+}

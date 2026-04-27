@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28270948.6b615eee.200x200o.24395a0319a3.jpeg",
+  "player_id": 28270948,
+  "@id": "https://api.chess.com/pub/player/gogolev_artemy",
+  "url": "https://www.chess.com/member/Gogolev_Artemy",
+  "name": "Artemy Gogolev",
+  "username": "gogolev_artemy",
+  "title": "IM",
+  "followers": 114,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Cherepovets",
+  "last_online": 1776482658,
+  "joined": 1463736269,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1617611299,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 245,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2453,
+      "date": 1678121810,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1675537006,
+      "game": "https://www.chess.com/game/live/69275745693"
+    },
+    "record": {
+      "win": 27,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2650,
+      "date": 1763475644,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2723,
+      "date": 1755011914,
+      "game": "https://www.chess.com/game/live/88629049169"
+    },
+    "record": {
+      "win": 838,
+      "loss": 800,
+      "draw": 129
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2694,
+      "date": 1776150717,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1751483942,
+      "game": "https://www.chess.com/game/live/145183163779"
+    },
+    "record": {
+      "win": 1370,
+      "loss": 1225,
+      "draw": 283
+    }
+  },
+  "fide": 2383,
+  "tactics": {
+    "highest": {
+      "rating": 2514,
+      "date": 1770107053
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1770125829
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

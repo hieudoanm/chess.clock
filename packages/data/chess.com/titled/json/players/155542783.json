@@ -1,0 +1,83 @@
+{
+  "player_id": 155542783,
+  "@id": "https://api.chess.com/pub/player/falschgeld",
+  "url": "https://www.chess.com/member/Falschgeld",
+  "username": "falschgeld",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1667396592,
+  "joined": 1632329294,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1750696643,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2270,
+      "date": 1664399328,
+      "game": "https://www.chess.com/game/live/58137711963"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1655705529,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1655705529,
+      "game": "https://www.chess.com/game/live/29418013917"
+    },
+    "record": {
+      "win": 17,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2495,
+      "date": 1667386843,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1663964408,
+      "game": "https://www.chess.com/game/live/49490391989"
+    },
+    "record": {
+      "win": 124,
+      "loss": 52,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2126,
+      "date": 1632329294
+    },
+    "lowest": {
+      "rating": 2126,
+      "date": 1632329294
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

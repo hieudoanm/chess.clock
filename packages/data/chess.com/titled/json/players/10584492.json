@@ -1,0 +1,69 @@
+{
+  "player_id": 10584492,
+  "@id": "https://api.chess.com/pub/player/noguru",
+  "url": "https://www.chess.com/member/NoGuru",
+  "name": "Christoph Serrer",
+  "username": "noguru",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Hamburg",
+  "last_online": 1758812826,
+  "joined": 1359224807,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2304,
+      "date": 1664207055,
+      "rd": 189
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1642890103,
+      "game": "https://www.chess.com/game/live/6066084636"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2383,
+      "date": 1682009759,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1680897633,
+      "game": "https://www.chess.com/game/live/10863374169"
+    },
+    "record": {
+      "win": 114,
+      "loss": 81,
+      "draw": 28
+    }
+  },
+  "fide": 2274,
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1359224807
+    },
+    "lowest": {
+      "rating": 2407,
+      "date": 1359224807
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

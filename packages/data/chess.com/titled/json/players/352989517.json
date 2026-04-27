@@ -1,0 +1,84 @@
+{
+  "player_id": 352989517,
+  "@id": "https://api.chess.com/pub/player/veganforfuture",
+  "url": "https://www.chess.com/member/VeganForFuture",
+  "username": "veganforfuture",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776525553,
+  "joined": 1711355784,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2489,
+      "date": 1776525542,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1762550563,
+      "game": "https://www.chess.com/game/live/144369095652"
+    },
+    "record": {
+      "win": 209,
+      "loss": 114,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2645,
+      "date": 1770906424,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2676,
+      "date": 1764079457,
+      "game": "https://www.chess.com/game/live/145943996900"
+    },
+    "record": {
+      "win": 86,
+      "loss": 53,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2646,
+      "date": 1775836017,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2779,
+      "date": 1766272550,
+      "game": "https://www.chess.com/game/live/146023880698"
+    },
+    "record": {
+      "win": 1377,
+      "loss": 1086,
+      "draw": 235
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1711355784
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1711355784
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17683246.71bd398d.200x200o.5b47d1e9d4e3.jpeg",
+  "player_id": 17683246,
+  "@id": "https://api.chess.com/pub/player/warmoatmeal",
+  "url": "https://www.chess.com/member/warmoatmeal",
+  "name": "Learn2Chess",
+  "username": "warmoatmeal",
+  "title": "FM",
+  "followers": 182,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1690843006,
+  "joined": 1402707957,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/warmoatmealchess",
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/warmoatmealchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1022,
+      "date": 1746025977,
+      "rd": 90
+    },
+    "best": {
+      "rating": 1452,
+      "date": 1440045015,
+      "game": "https://www.chess.com/game/daily/117658928"
+    },
+    "record": {
+      "win": 44,
+      "loss": 66,
+      "draw": 5,
+      "time_per_move": 24840,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2095,
+      "date": 1687237707,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1607288773,
+      "game": "https://www.chess.com/game/live/1234358539"
+    },
+    "record": {
+      "win": 90,
+      "loss": 79,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2216,
+      "date": 1678433433,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1604677372,
+      "game": "https://www.chess.com/game/live/6128527569"
+    },
+    "record": {
+      "win": 944,
+      "loss": 904,
+      "draw": 99
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2037,
+      "date": 1687237147,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1596126245,
+      "game": "https://www.chess.com/game/live/5283563702"
+    },
+    "record": {
+      "win": 1617,
+      "loss": 1579,
+      "draw": 221
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2448,
+      "date": 1402707957
+    },
+    "lowest": {
+      "rating": 2448,
+      "date": 1402707957
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

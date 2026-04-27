@@ -1,0 +1,104 @@
+{
+  "player_id": 272856233,
+  "@id": "https://api.chess.com/pub/player/hmag76",
+  "url": "https://www.chess.com/member/HMag76",
+  "name": "Hugues Magnier",
+  "username": "hmag76",
+  "title": "FM",
+  "followers": 96,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776340468,
+  "joined": 1681025733,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1164,
+      "date": 1767172312,
+      "rd": 160
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1681025733,
+      "game": "https://www.chess.com/game/daily/842369604"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 2,
+      "time_per_move": 39946,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2397,
+      "date": 1748781662,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2397,
+      "date": 1748781662,
+      "game": "https://www.chess.com/game/live/139095103184"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2157,
+      "date": 1765312210,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1701105593,
+      "game": "https://www.chess.com/game/live/99415417429"
+    },
+    "record": {
+      "win": 61,
+      "loss": 51,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2387,
+      "date": 1765752327,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1713075016,
+      "game": "https://www.chess.com/game/live/122733253463"
+    },
+    "record": {
+      "win": 5156,
+      "loss": 5217,
+      "draw": 678
+    }
+  },
+  "fide": 2262,
+  "tactics": {
+    "highest": {
+      "rating": 1288,
+      "date": 1759553332
+    },
+    "lowest": {
+      "rating": 1096,
+      "date": 1759553289
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

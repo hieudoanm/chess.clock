@@ -1,0 +1,84 @@
+{
+  "player_id": 21232844,
+  "@id": "https://api.chess.com/pub/player/msb2",
+  "url": "https://www.chess.com/member/Msb2",
+  "name": "Matthias Bluebaum",
+  "username": "msb2",
+  "title": "GM",
+  "followers": 1459,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776562015,
+  "joined": 1424713872,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2637,
+      "date": 1774465027,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1590859547,
+      "game": "https://www.chess.com/game/live/167998216257"
+    },
+    "record": {
+      "win": 322,
+      "loss": 92,
+      "draw": 120
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3139,
+      "date": 1776535053,
+      "rd": 30
+    },
+    "best": {
+      "rating": 3269,
+      "date": 1772907704,
+      "game": "https://www.chess.com/game/live/166006814935"
+    },
+    "record": {
+      "win": 12469,
+      "loss": 4622,
+      "draw": 1233
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3210,
+      "date": 1776374436,
+      "rd": 34
+    },
+    "best": {
+      "rating": 3238,
+      "date": 1771538401,
+      "game": "https://www.chess.com/game/live/147534804517"
+    },
+    "record": {
+      "win": 10736,
+      "loss": 4959,
+      "draw": 2004
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2675,
+      "date": 1756836399
+    },
+    "lowest": {
+      "rating": 2050,
+      "date": 1768343285
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 94,
+      "score": 93
+    }
+  }
+}

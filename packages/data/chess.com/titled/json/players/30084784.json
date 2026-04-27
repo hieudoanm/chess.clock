@@ -1,0 +1,104 @@
+{
+  "player_id": 30084784,
+  "@id": "https://api.chess.com/pub/player/sconko",
+  "url": "https://www.chess.com/member/Sconko",
+  "name": "Siddhant Gaikwad",
+  "username": "sconko",
+  "title": "FM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "in",
+  "last_online": 1776225036,
+  "joined": 1474736227,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1167,
+      "date": 1717426047,
+      "rd": 217
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1474736227,
+      "game": "https://www.chess.com/game/daily/196244218"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 26856,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2126,
+      "date": 1762994399,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1681147583,
+      "game": "https://www.chess.com/game/live/34005687665"
+    },
+    "record": {
+      "win": 79,
+      "loss": 23,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2309,
+      "date": 1773323186,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1772862686,
+      "game": "https://www.chess.com/game/live/74780556071"
+    },
+    "record": {
+      "win": 1042,
+      "loss": 1021,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1768873083,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1718994627,
+      "game": "https://www.chess.com/game/live/115507172163"
+    },
+    "record": {
+      "win": 229,
+      "loss": 119,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2567,
+      "date": 1772337339
+    },
+    "lowest": {
+      "rating": 2409,
+      "date": 1772337483
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

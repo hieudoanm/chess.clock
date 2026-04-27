@@ -1,0 +1,103 @@
+{
+  "player_id": 34741902,
+  "@id": "https://api.chess.com/pub/player/goldenshare",
+  "url": "https://www.chess.com/member/GoldenShare",
+  "name": "Luis Eduardo Ballester Llagaria",
+  "username": "goldenshare",
+  "title": "FM",
+  "followers": 356,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776587876,
+  "joined": 1492088503,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1739533671,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1739533671,
+      "game": "https://www.chess.com/game/daily/762485389"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7052,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2498,
+      "date": 1741639794
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1702164884,
+      "game": "https://www.chess.com/game/live/91921727203"
+    },
+    "record": {
+      "win": 85,
+      "loss": 51,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2793,
+      "date": 1774796699,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1774796288,
+      "game": "https://www.chess.com/game/live/107698430787"
+    },
+    "record": {
+      "win": 616,
+      "loss": 646,
+      "draw": 92
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2650,
+      "date": 1776534958,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2751,
+      "date": 1734115670,
+      "game": "https://www.chess.com/game/live/127854530329"
+    },
+    "record": {
+      "win": 7353,
+      "loss": 7706,
+      "draw": 1475
+    }
+  },
+  "fide": 2331,
+  "tactics": {
+    "highest": {
+      "rating": 2300,
+      "date": 1492088503
+    },
+    "lowest": {
+      "rating": 2300,
+      "date": 1492088503
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

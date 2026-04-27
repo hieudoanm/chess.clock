@@ -1,0 +1,105 @@
+{
+    "player_id": 17411890,
+    "@id": "https://api.chess.com/pub/player/kirbydowna",
+    "url": "https://www.chess.com/member/KirbyDownA",
+    "name": "Alex Markovits",
+    "username": "kirbydowna",
+    "title": "NM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "United States",
+    "last_online": 1737240130,
+    "joined": 1400868329,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Stone",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 2241,
+            "date": 1725375633,
+            "rd": 68
+        },
+        "best": {
+            "rating": 2245,
+            "date": 1598720403,
+            "game": "https://www.chess.com/game/daily/263954060"
+        },
+        "record": {
+            "win": 63,
+            "loss": 4,
+            "draw": 13,
+            "time_per_move": 10477,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2066,
+            "date": 1726189334,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2066,
+            "date": 1726189334,
+            "game": "https://www.chess.com/game/live/119927389381"
+        },
+        "record": {
+            "win": 5,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2287,
+            "date": 1599863071,
+            "rd": 43
+        },
+        "best": {
+            "rating": 2441,
+            "date": 1495252887,
+            "game": "https://www.chess.com/game/live/2110335052"
+        },
+        "record": {
+            "win": 1591,
+            "loss": 1300,
+            "draw": 166
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2381,
+            "date": 1729634070,
+            "rd": 53
+        },
+        "best": {
+            "rating": 2426,
+            "date": 1728400032,
+            "game": "https://www.chess.com/game/live/122138422547"
+        },
+        "record": {
+            "win": 360,
+            "loss": 323,
+            "draw": 58
+        }
+    },
+    "fide": 2210,
+    "tactics": {
+        "highest": {
+            "rating": 3289,
+            "date": 1729880174
+        },
+        "lowest": {
+            "rating": 2147,
+            "date": 1484469970
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 50,
+            "score": 47
+        }
+    }
+}

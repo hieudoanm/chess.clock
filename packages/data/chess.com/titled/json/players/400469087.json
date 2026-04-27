@@ -1,0 +1,105 @@
+{
+  "player_id": 400469087,
+  "@id": "https://api.chess.com/pub/player/cmjkao",
+  "url": "https://www.chess.com/member/CMJkao",
+  "name": "Jamison Kao",
+  "username": "cmjkao",
+  "title": "CM",
+  "followers": 429,
+  "country": "https://api.chess.com/pub/country/HK",
+  "location": "jkao0708#0",
+  "last_online": 1776272786,
+  "joined": 1730755662,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1265,
+      "date": 1776272770,
+      "rd": 176
+    },
+    "best": {
+      "rating": 1686,
+      "date": 1753939829,
+      "game": "https://www.chess.com/game/daily/817215078"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 147893,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2433,
+      "date": 1772331531,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1756317403,
+      "game": "https://www.chess.com/game/live/145257574123"
+    },
+    "record": {
+      "win": 67,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2541,
+      "date": 1775916120,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2622,
+      "date": 1757014793,
+      "game": "https://www.chess.com/game/live/142531775380"
+    },
+    "record": {
+      "win": 135,
+      "loss": 87,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2563,
+      "date": 1776187635,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2752,
+      "date": 1755820994,
+      "game": "https://www.chess.com/game/live/142686876394"
+    },
+    "record": {
+      "win": 2056,
+      "loss": 1645,
+      "draw": 327
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2474,
+      "date": 1759345469
+    },
+    "lowest": {
+      "rating": 2336,
+      "date": 1759345923
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

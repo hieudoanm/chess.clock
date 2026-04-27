@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31744024.29b2ca71.200x200o.4c7925b976f8.jpeg",
+  "player_id": 31744024,
+  "@id": "https://api.chess.com/pub/player/gnechko_ruslan",
+  "url": "https://www.chess.com/member/Gnechko_Ruslan",
+  "name": "Ruslan Gnechko",
+  "username": "gnechko_ruslan",
+  "title": "NM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776439352,
+  "joined": 1482222124,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1765,
+      "date": 1596702502,
+      "rd": 74
+    },
+    "best": {
+      "rating": 1779,
+      "date": 1564312361,
+      "game": "https://www.chess.com/game/daily/229759454"
+    },
+    "record": {
+      "win": 43,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 13660,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2146,
+      "date": 1647270367,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2310,
+      "date": 1607008311,
+      "game": "https://www.chess.com/game/live/37379496803"
+    },
+    "record": {
+      "win": 94,
+      "loss": 30,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2381,
+      "date": 1758388016,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1607184978,
+      "game": "https://www.chess.com/game/live/127330799453"
+    },
+    "record": {
+      "win": 1255,
+      "loss": 1074,
+      "draw": 111
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1776438533,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2597,
+      "date": 1718729840,
+      "game": "https://www.chess.com/game/live/123975048765"
+    },
+    "record": {
+      "win": 3517,
+      "loss": 3362,
+      "draw": 569
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1482222124
+    },
+    "lowest": {
+      "rating": 2407,
+      "date": 1482222124
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

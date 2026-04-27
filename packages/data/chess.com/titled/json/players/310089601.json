@@ -1,0 +1,108 @@
+{
+  "player_id": 310089601,
+  "@id": "https://api.chess.com/pub/player/amanmuhammethommadov",
+  "url": "https://www.chess.com/member/amanmuhammethommadov",
+  "name": "Amanmuhammet Hommadov",
+  "username": "amanmuhammethommadov",
+  "title": "FM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/TM",
+  "last_online": 1776594126,
+  "joined": 1693715943,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1441,
+      "date": 1766060803,
+      "rd": 328
+    },
+    "best": {
+      "rating": 1441,
+      "date": 1700476719,
+      "game": "https://www.chess.com/game/daily/561969979"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 65307,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1746690306,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1704120193,
+      "game": "https://www.chess.com/game/live/97858179001"
+    },
+    "record": {
+      "win": 17,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2634,
+      "date": 1775328355,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2647,
+      "date": 1753550300,
+      "game": "https://www.chess.com/game/live/127589415869"
+    },
+    "record": {
+      "win": 100,
+      "loss": 71,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2846,
+      "date": 1776594082,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3100,
+      "date": 1771341777,
+      "game": "https://www.chess.com/game/live/165698484548"
+    },
+    "record": {
+      "win": 4593,
+      "loss": 4457,
+      "draw": 744
+    }
+  },
+  "fide": 2266,
+  "tactics": {
+    "highest": {
+      "rating": 2521,
+      "date": 1776197131
+    },
+    "lowest": {
+      "rating": 2410,
+      "date": 1776461673
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    },
+    "daily": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

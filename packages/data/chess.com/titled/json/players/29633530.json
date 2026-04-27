@@ -1,0 +1,105 @@
+{
+  "player_id": 29633530,
+  "@id": "https://api.chess.com/pub/player/2killer2",
+  "url": "https://www.chess.com/member/2Killer2",
+  "name": "Llatzer Bru Rullo",
+  "username": "2killer2",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/XC",
+  "location": "Tarragona",
+  "last_online": 1774708559,
+  "joined": 1472136860,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 954,
+      "date": 1774876063,
+      "rd": 348
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1472136860,
+      "game": "https://www.chess.com/game/daily/881528029"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 71583,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2332,
+      "date": 1753455671,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1753454980,
+      "game": "https://www.chess.com/game/live/5186720361"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2278,
+      "date": 1701081705,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2197,
+      "date": 1611997448,
+      "game": "https://www.chess.com/game/live/2801241864"
+    },
+    "record": {
+      "win": 99,
+      "loss": 76,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2463,
+      "date": 1753892815,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1701213209,
+      "game": "https://www.chess.com/game/live/94951767109"
+    },
+    "record": {
+      "win": 1052,
+      "loss": 784,
+      "draw": 165
+    }
+  },
+  "fide": 2278,
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1761556277
+    },
+    "lowest": {
+      "rating": 2161,
+      "date": 1761729082
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

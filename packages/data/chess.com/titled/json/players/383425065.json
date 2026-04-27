@@ -1,0 +1,104 @@
+{
+  "player_id": 383425065,
+  "@id": "https://api.chess.com/pub/player/icg-paja",
+  "url": "https://www.chess.com/member/ICG-Paja",
+  "name": "Pavel Haase",
+  "username": "icg-paja",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776371779,
+  "joined": 1724688863,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1603,
+      "date": 1753362914,
+      "rd": 347
+    },
+    "best": {
+      "rating": 1603,
+      "date": 1752998869,
+      "game": "https://www.chess.com/game/daily/838120410"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 50033,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2133,
+      "date": 1763738684,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2133,
+      "date": 1763737485,
+      "game": "https://www.chess.com/game/live/145785027290"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1882,
+      "date": 1772560284,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1959,
+      "date": 1725885177,
+      "game": "https://www.chess.com/game/live/127605598529"
+    },
+    "record": {
+      "win": 150,
+      "loss": 117,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2042,
+      "date": 1748017277,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2158,
+      "date": 1725354579,
+      "game": "https://www.chess.com/game/live/124969740027"
+    },
+    "record": {
+      "win": 19,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "fide": 2133,
+  "tactics": {
+    "highest": {
+      "rating": 2258,
+      "date": 1776184736
+    },
+    "lowest": {
+      "rating": 2135,
+      "date": 1776184231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

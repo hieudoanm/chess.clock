@@ -1,0 +1,103 @@
+{
+  "player_id": 159451197,
+  "@id": "https://api.chess.com/pub/player/d1sintegrator",
+  "url": "https://www.chess.com/member/D1sintegrator",
+  "name": "Iung Alicio de O. Pinheiro",
+  "username": "d1sintegrator",
+  "title": "FM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1774807632,
+  "joined": 1635379229,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2009,
+      "date": 1768488874,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1759465251,
+      "game": "https://www.chess.com/game/daily/856801190"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 4568,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2654,
+      "date": 1768228191,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1764806493,
+      "game": "https://www.chess.com/game/live/144690386194"
+    },
+    "record": {
+      "win": 307,
+      "loss": 137,
+      "draw": 42
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2710,
+      "date": 1773587369,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1679523464,
+      "game": "https://www.chess.com/game/live/115085289201"
+    },
+    "record": {
+      "win": 2714,
+      "loss": 2461,
+      "draw": 273
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2743,
+      "date": 1771685358,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1760304909,
+      "game": "https://www.chess.com/game/live/125191174349"
+    },
+    "record": {
+      "win": 5414,
+      "loss": 5333,
+      "draw": 554
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2482,
+      "date": 1760305896
+    },
+    "lowest": {
+      "rating": 2408,
+      "date": 1774088287
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

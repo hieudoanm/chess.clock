@@ -1,0 +1,79 @@
+{
+  "player_id": 35824936,
+  "@id": "https://api.chess.com/pub/player/stefan_christensen",
+  "url": "https://www.chess.com/member/Stefan_Christensen",
+  "username": "stefan_christensen",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1613392201,
+  "joined": 1495788877,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2131,
+      "date": 1642498106,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1610906403,
+      "game": "https://www.chess.com/game/daily/294301040"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 36130,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1612814895,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1942,
+      "date": 1612725061,
+      "game": "https://www.chess.com/game/live/6408280216"
+    },
+    "record": {
+      "win": 23,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2250,
+      "date": 1613417424,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1613416856,
+      "game": "https://www.chess.com/game/live/5392796725"
+    },
+    "record": {
+      "win": 63,
+      "loss": 29,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2098,
+      "date": 1495788877
+    },
+    "lowest": {
+      "rating": 2098,
+      "date": 1495788877
+    }
+  },
+  "puzzle_rush": {}
+}

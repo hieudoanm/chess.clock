@@ -1,0 +1,78 @@
+{
+  "player_id": 18061736,
+  "@id": "https://api.chess.com/pub/player/quesfr",
+  "url": "https://www.chess.com/member/quesfr",
+  "username": "quesfr",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1688382134,
+  "joined": 1405298808,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1377,
+      "date": 1518092603,
+      "rd": 182
+    },
+    "record": {
+      "win": 0,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2254,
+      "date": 1587496876,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2249,
+      "date": 1575049019,
+      "game": "https://www.chess.com/game/live/2508893034"
+    },
+    "record": {
+      "win": 343,
+      "loss": 234,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2187,
+      "date": 1637003077,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1577055114,
+      "game": "https://www.chess.com/game/live/4691734965"
+    },
+    "record": {
+      "win": 1762,
+      "loss": 1387,
+      "draw": 313
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2488,
+      "date": 1405298808
+    },
+    "lowest": {
+      "rating": 2488,
+      "date": 1405298808
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

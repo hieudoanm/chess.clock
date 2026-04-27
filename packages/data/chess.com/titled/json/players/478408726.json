@@ -1,0 +1,68 @@
+{
+  "player_id": 478408726,
+  "@id": "https://api.chess.com/pub/player/feelsliketoday",
+  "url": "https://www.chess.com/member/feelsliketoday",
+  "name": "Federico Zuttioni",
+  "username": "feelsliketoday",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1775782543,
+  "joined": 1756411983,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1775222333,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1771402443,
+      "game": "https://www.chess.com/game/live/148595575806"
+    },
+    "record": {
+      "win": 83,
+      "loss": 22,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2474,
+      "date": 1775059377,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1771212024,
+      "game": "https://www.chess.com/game/live/164905112706"
+    },
+    "record": {
+      "win": 122,
+      "loss": 87,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1110,
+      "date": 1768131636
+    },
+    "lowest": {
+      "rating": 865,
+      "date": 1768131393
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

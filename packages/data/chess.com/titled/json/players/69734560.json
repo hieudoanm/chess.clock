@@ -1,0 +1,102 @@
+{
+  "player_id": 69734560,
+  "@id": "https://api.chess.com/pub/player/m5mnooo",
+  "url": "https://www.chess.com/member/M5mnooo",
+  "username": "m5mnooo",
+  "title": "WFM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/AE",
+  "last_online": 1775683727,
+  "joined": 1577093888,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1702,
+      "date": 1616441557,
+      "rd": 260
+    },
+    "best": {
+      "rating": 1702,
+      "date": 1616441557,
+      "game": "https://www.chess.com/game/daily/318395034"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19035,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2339,
+      "date": 1730840536,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1692632543,
+      "game": "https://www.chess.com/game/live/5605681566"
+    },
+    "record": {
+      "win": 341,
+      "loss": 48,
+      "draw": 29
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2076,
+      "date": 1740481054,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1700880106,
+      "game": "https://www.chess.com/game/live/87246541873"
+    },
+    "record": {
+      "win": 155,
+      "loss": 137,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2202,
+      "date": 1775149728,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1775148108,
+      "game": "https://www.chess.com/game/live/85090416181"
+    },
+    "record": {
+      "win": 1567,
+      "loss": 1367,
+      "draw": 174
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2551,
+      "date": 1577093888
+    },
+    "lowest": {
+      "rating": 2551,
+      "date": 1577093888
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

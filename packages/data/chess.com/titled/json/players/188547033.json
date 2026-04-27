@@ -1,0 +1,66 @@
+{
+  "player_id": 188547033,
+  "@id": "https://api.chess.com/pub/player/schachfantasie",
+  "url": "https://www.chess.com/member/Schachfantasie",
+  "username": "schachfantasie",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776343006,
+  "joined": 1656607234,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2287,
+      "date": 1776333799,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1772379985,
+      "game": "https://www.chess.com/game/live/165372769554"
+    },
+    "record": {
+      "win": 176,
+      "loss": 106,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2115,
+      "date": 1774863403,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1773743887,
+      "game": "https://www.chess.com/game/live/166622084460"
+    },
+    "record": {
+      "win": 8,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2319,
+      "date": 1770101332
+    },
+    "lowest": {
+      "rating": 2100,
+      "date": 1770101179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

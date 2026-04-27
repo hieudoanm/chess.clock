@@ -1,0 +1,86 @@
+{
+  "player_id": 75940368,
+  "@id": "https://api.chess.com/pub/player/eternauta2400",
+  "url": "https://www.chess.com/member/Eternauta2400",
+  "name": "Pablo Glavina",
+  "username": "eternauta2400",
+  "title": "IM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776337847,
+  "joined": 1586254291,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1857,
+      "date": 1660940029,
+      "rd": 219
+    },
+    "best": {
+      "rating": 1857,
+      "date": 1660940029,
+      "game": "https://www.chess.com/game/daily/416963111"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 40633,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2766,
+      "date": 1703355335,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1699117476,
+      "game": "https://www.chess.com/game/live/92859797667"
+    },
+    "record": {
+      "win": 87,
+      "loss": 84,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2826,
+      "date": 1703631315,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2982,
+      "date": 1700598364,
+      "game": "https://www.chess.com/game/live/87051612079"
+    },
+    "record": {
+      "win": 769,
+      "loss": 886,
+      "draw": 172
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586254291
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586254291
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

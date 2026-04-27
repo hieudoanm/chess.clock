@@ -1,0 +1,66 @@
+{
+  "player_id": 432938881,
+  "@id": "https://api.chess.com/pub/player/theloyalwolf",
+  "url": "https://www.chess.com/member/theloyalwolf",
+  "username": "theloyalwolf",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776595014,
+  "joined": 1740677908,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2493,
+      "date": 1776528082,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1776527945,
+      "game": "https://www.chess.com/game/live/167489300782"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3074,
+      "date": 1776596829,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3130,
+      "date": 1776352718,
+      "game": "https://www.chess.com/game/live/143376352826"
+    },
+    "record": {
+      "win": 861,
+      "loss": 1010,
+      "draw": 228
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1740677908
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1740677908
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

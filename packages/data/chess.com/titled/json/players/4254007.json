@@ -1,0 +1,104 @@
+{
+  "player_id": 4254007,
+  "@id": "https://api.chess.com/pub/player/omerkhanfm",
+  "url": "https://www.chess.com/member/OmerKhanFM",
+  "name": "Mohammed Omer Khan",
+  "username": "omerkhanfm",
+  "title": "FM",
+  "followers": 165,
+  "country": "https://api.chess.com/pub/country/PK",
+  "last_online": 1776574500,
+  "joined": 1289770563,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 992,
+      "date": 1756168700,
+      "rd": 314
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1289770563,
+      "game": "https://www.chess.com/game/daily/738180633"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 284635,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2084,
+      "date": 1776445341,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1739632720,
+      "game": "https://www.chess.com/game/live/101809514829"
+    },
+    "record": {
+      "win": 293,
+      "loss": 121,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1254,
+      "date": 1765039944,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1880,
+      "date": 1708606937,
+      "game": "https://www.chess.com/game/live/131730602315"
+    },
+    "record": {
+      "win": 43,
+      "loss": 78,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1969,
+      "date": 1772816054,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1734355296,
+      "game": "https://www.chess.com/game/live/128616217945"
+    },
+    "record": {
+      "win": 380,
+      "loss": 347,
+      "draw": 27
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2619,
+      "date": 1772342313
+    },
+    "lowest": {
+      "rating": 2418,
+      "date": 1772558623
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

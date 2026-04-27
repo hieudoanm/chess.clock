@@ -1,0 +1,98 @@
+{
+  "player_id": 162489015,
+  "@id": "https://api.chess.com/pub/player/kenreoo",
+  "url": "https://www.chess.com/member/Kenreoo",
+  "username": "kenreoo",
+  "title": "FM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776590391,
+  "joined": 1637818232,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1751790630,
+      "rd": 350
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1888680,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2227,
+      "date": 1773585188,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2295,
+      "date": 1747560940,
+      "game": "https://www.chess.com/game/live/75832349461"
+    },
+    "record": {
+      "win": 95,
+      "loss": 87,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2416,
+      "date": 1753217324,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1729489768,
+      "game": "https://www.chess.com/game/live/123144630969"
+    },
+    "record": {
+      "win": 299,
+      "loss": 210,
+      "draw": 39
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2771,
+      "date": 1776484256,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2785,
+      "date": 1773301330,
+      "game": "https://www.chess.com/game/live/165836637514"
+    },
+    "record": {
+      "win": 2340,
+      "loss": 1441,
+      "draw": 364
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2679,
+      "date": 1764136816
+    },
+    "lowest": {
+      "rating": 2660,
+      "date": 1764136791
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

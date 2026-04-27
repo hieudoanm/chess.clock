@@ -1,0 +1,85 @@
+{
+  "player_id": 52738540,
+  "@id": "https://api.chess.com/pub/player/poetepe",
+  "url": "https://www.chess.com/member/Poetepe",
+  "name": "Petr Walek",
+  "username": "poetepe",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776526263,
+  "joined": 1543871042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2294,
+      "date": 1715635351,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1563,
+      "date": 1587404270,
+      "game": "https://www.chess.com/game/live/4748214650"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2395,
+      "date": 1652005711,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1614861049,
+      "game": "https://www.chess.com/game/live/8426063293"
+    },
+    "record": {
+      "win": 2062,
+      "loss": 1685,
+      "draw": 220
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2330,
+      "date": 1710024568,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1579175296,
+      "game": "https://www.chess.com/game/live/7767780589"
+    },
+    "record": {
+      "win": 347,
+      "loss": 252,
+      "draw": 52
+    }
+  },
+  "fide": 2294,
+  "tactics": {
+    "highest": {
+      "rating": 2753,
+      "date": 1768240226
+    },
+    "lowest": {
+      "rating": 2516,
+      "date": 1756061217
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

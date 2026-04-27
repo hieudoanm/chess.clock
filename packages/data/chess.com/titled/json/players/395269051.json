@@ -1,0 +1,67 @@
+{
+  "player_id": 395269051,
+  "@id": "https://api.chess.com/pub/player/dundiescott",
+  "url": "https://www.chess.com/member/DundieScott",
+  "username": "dundiescott",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776490342,
+  "joined": 1728696471,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2470,
+      "date": 1775127420,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1775127420,
+      "game": "https://www.chess.com/game/live/138721567568"
+    },
+    "record": {
+      "win": 20,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2505,
+      "date": 1750754998,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1750754998,
+      "game": "https://www.chess.com/game/live/131698815965"
+    },
+    "record": {
+      "win": 128,
+      "loss": 89,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2679,
+      "date": 1755915102
+    },
+    "lowest": {
+      "rating": 2629,
+      "date": 1760754721
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

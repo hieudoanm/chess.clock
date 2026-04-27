@@ -1,0 +1,85 @@
+{
+  "player_id": 78103530,
+  "@id": "https://api.chess.com/pub/player/dlr7",
+  "url": "https://www.chess.com/member/DLR7",
+  "name": "David Lana",
+  "username": "dlr7",
+  "title": "FM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Zaragoza",
+  "last_online": 1776339160,
+  "joined": 1588140506,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2122,
+      "date": 1621430098,
+      "rd": 215
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1621081660,
+      "game": "https://www.chess.com/game/live/14819289221"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2490,
+      "date": 1615678875,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2575,
+      "date": 1600772197,
+      "game": "https://www.chess.com/game/live/5490234451"
+    },
+    "record": {
+      "win": 96,
+      "loss": 73,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2634,
+      "date": 1625593120,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1588757236,
+      "game": "https://www.chess.com/game/live/17749356419"
+    },
+    "record": {
+      "win": 379,
+      "loss": 431,
+      "draw": 97
+    }
+  },
+  "fide": 2370,
+  "tactics": {
+    "highest": {
+      "rating": 2306,
+      "date": 1588140506
+    },
+    "lowest": {
+      "rating": 2306,
+      "date": 1588140506
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

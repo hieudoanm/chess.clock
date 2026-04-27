@@ -1,0 +1,83 @@
+{
+  "player_id": 133432990,
+  "@id": "https://api.chess.com/pub/player/faster_thxn_light",
+  "url": "https://www.chess.com/member/Faster_thxn_light",
+  "username": "faster_thxn_light",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776255975,
+  "joined": 1617612128,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1769691134
+    },
+    "best": {
+      "rating": 2197,
+      "date": 1700387015,
+      "game": "https://www.chess.com/game/live/97501273587"
+    },
+    "record": {
+      "win": 22,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2622,
+      "date": 1772788237,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1755165008,
+      "game": "https://www.chess.com/game/live/143029661606"
+    },
+    "record": {
+      "win": 802,
+      "loss": 564,
+      "draw": 108
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2599,
+      "date": 1774791365,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1771445379,
+      "game": "https://www.chess.com/game/live/147954134906"
+    },
+    "record": {
+      "win": 1024,
+      "loss": 777,
+      "draw": 178
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2127,
+      "date": 1774077597
+    },
+    "lowest": {
+      "rating": 1884,
+      "date": 1765988841
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

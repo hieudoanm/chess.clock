@@ -1,0 +1,118 @@
+{
+  "player_id": 11562868,
+  "@id": "https://api.chess.com/pub/player/elm2007",
+  "url": "https://www.chess.com/member/elm2007",
+  "name": "Elie Milikow",
+  "username": "elm2007",
+  "title": "IM",
+  "followers": 2382,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776565569,
+  "joined": 1366268887,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1613,
+      "date": 1755446947,
+      "rd": 148
+    },
+    "best": {
+      "rating": 1743,
+      "date": 1558364007,
+      "game": "https://www.chess.com/game/daily/218187864"
+    },
+    "record": {
+      "win": 119,
+      "loss": 109,
+      "draw": 6,
+      "time_per_move": 52288,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 758,
+      "date": 1566978002,
+      "rd": 254
+    },
+    "record": {
+      "win": 0,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 52288,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1930,
+      "date": 1762331743,
+      "rd": 228
+    },
+    "best": {
+      "rating": 2038,
+      "date": 1547826643,
+      "game": "https://www.chess.com/game/live/3223178763"
+    },
+    "record": {
+      "win": 209,
+      "loss": 204,
+      "draw": 39
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3073,
+      "date": 1776565551,
+      "rd": 17
+    },
+    "best": {
+      "rating": 3157,
+      "date": 1641155502,
+      "game": "https://www.chess.com/game/live/167386451896"
+    },
+    "record": {
+      "win": 15900,
+      "loss": 16217,
+      "draw": 1381
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2899,
+      "date": 1774899936,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2962,
+      "date": 1737664944,
+      "game": "https://www.chess.com/game/live/4658570119"
+    },
+    "record": {
+      "win": 1967,
+      "loss": 1843,
+      "draw": 320
+    }
+  },
+  "fide": 3000,
+  "tactics": {
+    "highest": {
+      "rating": 2694,
+      "date": 1762511083
+    },
+    "lowest": {
+      "rating": 2578,
+      "date": 1762511522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

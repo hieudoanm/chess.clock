@@ -1,0 +1,82 @@
+{
+  "player_id": 91805476,
+  "@id": "https://api.chess.com/pub/player/hoshka",
+  "url": "https://www.chess.com/member/Hoshka",
+  "name": "David Levine",
+  "username": "hoshka",
+  "title": "NM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776407609,
+  "joined": 1600878446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 2051,
+      "date": 1766646645,
+      "rd": 311
+    },
+    "best": {
+      "rating": 2051,
+      "date": 1766646645,
+      "game": "https://www.chess.com/game/daily/894850663"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 16406,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1833,
+      "date": 1626840397,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2342,
+      "date": 1767129311,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1767129311,
+      "game": "https://www.chess.com/game/live/65293884803"
+    },
+    "record": {
+      "win": 2183,
+      "loss": 1940,
+      "draw": 381
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2165,
+      "date": 1762718125
+    },
+    "lowest": {
+      "rating": 1721,
+      "date": 1762718717
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 10,
+      "score": 7
+    }
+  }
+}

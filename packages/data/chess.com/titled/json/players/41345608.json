@@ -1,0 +1,98 @@
+{
+    "player_id": 41345608,
+    "@id": "https://api.chess.com/pub/player/ilya2700",
+    "url": "https://www.chess.com/member/ilya2700",
+    "name": "Ilya Gruzman",
+    "username": "ilya2700",
+    "title": "CM",
+    "followers": 136,
+    "country": "https://api.chess.com/pub/country/IL",
+    "last_online": 1741518703,
+    "joined": 1513327064,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1452,
+            "date": 1732955128,
+            "rd": 342
+        },
+        "record": {
+            "win": 5,
+            "loss": 11,
+            "draw": 0,
+            "time_per_move": 242512,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1162,
+            "date": 1741336559,
+            "rd": 56
+        },
+        "best": {
+            "rating": 1698,
+            "date": 1619893044,
+            "game": "https://www.chess.com/game/live/119620854379"
+        },
+        "record": {
+            "win": 720,
+            "loss": 911,
+            "draw": 78
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 1797,
+            "date": 1741083914,
+            "rd": 100
+        },
+        "best": {
+            "rating": 1982,
+            "date": 1611732312,
+            "game": "https://www.chess.com/game/live/97915801777"
+        },
+        "record": {
+            "win": 93,
+            "loss": 83,
+            "draw": 12
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 1923,
+            "date": 1740911859,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2495,
+            "date": 1704200292,
+            "game": "https://www.chess.com/game/live/124562931483"
+        },
+        "record": {
+            "win": 1130,
+            "loss": 1403,
+            "draw": 154
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3366,
+            "date": 1657460999
+        },
+        "lowest": {
+            "rating": 416,
+            "date": 1560546311
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

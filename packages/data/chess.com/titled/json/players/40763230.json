@@ -1,0 +1,63 @@
+{
+  "player_id": 40763230,
+  "@id": "https://api.chess.com/pub/player/pgw-in-sf",
+  "url": "https://www.chess.com/member/PGW-in-SF",
+  "name": "Patrick Wolff",
+  "username": "pgw-in-sf",
+  "title": "GM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "San Francisco",
+  "last_online": 1703888011,
+  "joined": 1511741425,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2366,
+      "date": 1704639246,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1703801612,
+      "game": "https://www.chess.com/game/live/97441855231"
+    },
+    "record": {
+      "win": 283,
+      "loss": 160,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2785,
+      "date": 1704152700,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1703718776,
+      "game": "https://www.chess.com/game/live/97365559743"
+    },
+    "record": {
+      "win": 242,
+      "loss": 84,
+      "draw": 41
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1511741425
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1511741425
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43543820.0e6d7404.200x200o.a4a8e3aad03b.jpg",
+  "player_id": 43543820,
+  "@id": "https://api.chess.com/pub/player/vahan",
+  "url": "https://www.chess.com/member/Vahan",
+  "name": "Vahan Nalbandyan",
+  "username": "vahan",
+  "title": "CM",
+  "followers": 1602,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1776596894,
+  "joined": 1519163771,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chachachess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chachachess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1366,
+      "date": 1755262103,
+      "rd": 87
+    },
+    "best": {
+      "rating": 1737,
+      "date": 1625425983,
+      "game": "https://www.chess.com/game/daily/331797900"
+    },
+    "record": {
+      "win": 25,
+      "loss": 17,
+      "draw": 5,
+      "time_per_move": 24823,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2454,
+      "date": 1774939789,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1774197442,
+      "game": "https://www.chess.com/game/live/145519133496"
+    },
+    "record": {
+      "win": 169,
+      "loss": 57,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2705,
+      "date": 1776298226,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2864,
+      "date": 1759446687,
+      "game": "https://www.chess.com/game/live/153303403427"
+    },
+    "record": {
+      "win": 4239,
+      "loss": 2806,
+      "draw": 369
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1776299246,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1761672830,
+      "game": "https://www.chess.com/game/live/155374598711"
+    },
+    "record": {
+      "win": 3843,
+      "loss": 2920,
+      "draw": 447
+    }
+  },
+  "fide": 2270,
+  "tactics": {
+    "highest": {
+      "rating": 2720,
+      "date": 1768328551
+    },
+    "lowest": {
+      "rating": 2642,
+      "date": 1768328672
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

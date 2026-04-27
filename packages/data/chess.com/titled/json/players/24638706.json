@@ -1,0 +1,103 @@
+{
+  "player_id": 24638706,
+  "@id": "https://api.chess.com/pub/player/yaboimars",
+  "url": "https://www.chess.com/member/YaBoiMars",
+  "name": "idk",
+  "username": "yaboimars",
+  "title": "CM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/JM",
+  "last_online": 1776337553,
+  "joined": 1445186969,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1519,
+      "date": 1729099305,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1519,
+      "date": 1507950076,
+      "game": "https://www.chess.com/game/daily/176277540"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 16047,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2140,
+      "date": 1709174884,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1606188081,
+      "game": "https://www.chess.com/game/live/5808526088"
+    },
+    "record": {
+      "win": 248,
+      "loss": 130,
+      "draw": 53
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2305,
+      "date": 1682347241,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1615264561,
+      "game": "https://www.chess.com/game/live/5498935756"
+    },
+    "record": {
+      "win": 304,
+      "loss": 250,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2303,
+      "date": 1679670682,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1672603911,
+      "game": "https://www.chess.com/game/live/5102081337"
+    },
+    "record": {
+      "win": 1341,
+      "loss": 1297,
+      "draw": 168
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2217,
+      "date": 1445186969
+    },
+    "lowest": {
+      "rating": 2217,
+      "date": 1445186969
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

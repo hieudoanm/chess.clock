@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76881610.f65c300d.200x200o.559c58bab364.jpg",
+  "player_id": 76881610,
+  "@id": "https://api.chess.com/pub/player/mariya_zubova",
+  "url": "https://www.chess.com/member/Mariya_Zubova",
+  "name": "Mariya Zubova",
+  "username": "mariya_zubova",
+  "title": "WIM",
+  "followers": 800,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Ukraine",
+  "last_online": 1776326885,
+  "joined": 1587042453,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/games_chess",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/games_chess"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2049,
+      "date": 1644875363,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1636058597,
+      "game": "https://www.chess.com/game/live/29796567973"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2162,
+      "date": 1645465818,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1611430457,
+      "game": "https://www.chess.com/game/live/13009918471"
+    },
+    "record": {
+      "win": 247,
+      "loss": 134,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2293,
+      "date": 1746466150,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1739551820,
+      "game": "https://www.chess.com/game/live/4818062140"
+    },
+    "record": {
+      "win": 699,
+      "loss": 461,
+      "draw": 83
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 2626,
+      "date": 1770970982
+    },
+    "lowest": {
+      "rating": 2323,
+      "date": 1771665818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

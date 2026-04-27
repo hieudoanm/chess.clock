@@ -1,0 +1,85 @@
+{
+  "player_id": 324812083,
+  "@id": "https://api.chess.com/pub/player/gmt4114",
+  "url": "https://www.chess.com/member/GMT4114",
+  "name": "Gizem Olcayoz",
+  "username": "gmt4114",
+  "title": "WCM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1764520356,
+  "joined": 1699514795,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2127,
+      "date": 1738505364,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1704650279,
+      "game": "https://www.chess.com/game/live/132232871683"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1601,
+      "date": 1763226148,
+      "rd": 44
+    },
+    "best": {
+      "rating": 1887,
+      "date": 1700076507,
+      "game": "https://www.chess.com/game/live/140331038096"
+    },
+    "record": {
+      "win": 695,
+      "loss": 803,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2011,
+      "date": 1764518593,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1700158132,
+      "game": "https://www.chess.com/game/live/118509575067"
+    },
+    "record": {
+      "win": 1071,
+      "loss": 1404,
+      "draw": 207
+    }
+  },
+  "fide": 1754,
+  "tactics": {
+    "highest": {
+      "rating": 2220,
+      "date": 1756559540
+    },
+    "lowest": {
+      "rating": 2103,
+      "date": 1760255695
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

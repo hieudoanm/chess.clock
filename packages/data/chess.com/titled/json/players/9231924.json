@@ -1,0 +1,83 @@
+{
+  "player_id": 9231924,
+  "@id": "https://api.chess.com/pub/player/lachaturanga",
+  "url": "https://www.chess.com/member/lachaturanga",
+  "username": "lachaturanga",
+  "title": "WFM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1770915112,
+  "joined": 1350076750,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2117,
+      "date": 1635649153,
+      "rd": 246
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1635649153,
+      "game": "https://www.chess.com/game/live/29387392527"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1717466206,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1642724314,
+      "game": "https://www.chess.com/game/live/35268968145"
+    },
+    "record": {
+      "win": 157,
+      "loss": 100,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2093,
+      "date": 1677629788,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1677041821,
+      "game": "https://www.chess.com/game/live/36792042661"
+    },
+    "record": {
+      "win": 65,
+      "loss": 35,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2401,
+      "date": 1770656654
+    },
+    "lowest": {
+      "rating": 2340,
+      "date": 1770656538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

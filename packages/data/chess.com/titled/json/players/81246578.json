@@ -1,0 +1,83 @@
+{
+  "player_id": 81246578,
+  "@id": "https://api.chess.com/pub/player/yaris9",
+  "url": "https://www.chess.com/member/Yaris9",
+  "username": "yaris9",
+  "title": "WGM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1774524560,
+  "joined": 1591105895,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1675277861,
+      "rd": 136
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1597926142,
+      "game": "https://www.chess.com/game/live/69008597263"
+    },
+    "record": {
+      "win": 4,
+      "loss": 5,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1623006800,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1623004236,
+      "game": "https://www.chess.com/game/live/16740888493"
+    },
+    "record": {
+      "win": 72,
+      "loss": 40,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2414,
+      "date": 1666893590,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1653068591,
+      "game": "https://www.chess.com/game/live/6252570210"
+    },
+    "record": {
+      "win": 186,
+      "loss": 115,
+      "draw": 60
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2179,
+      "date": 1591105895
+    },
+    "lowest": {
+      "rating": 2179,
+      "date": 1591105895
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 42
+    }
+  }
+}

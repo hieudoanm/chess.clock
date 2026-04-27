@@ -1,0 +1,83 @@
+{
+  "player_id": 324844049,
+  "@id": "https://api.chess.com/pub/player/whitechocolate04",
+  "url": "https://www.chess.com/member/WhiteChocolate04",
+  "username": "whitechocolate04",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776546486,
+  "joined": 1699527907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1758653362,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1758015608,
+      "game": "https://www.chess.com/game/live/143476279966"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2485,
+      "date": 1765583006,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1729328550,
+      "game": "https://www.chess.com/game/live/123067217085"
+    },
+    "record": {
+      "win": 10,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2568,
+      "date": 1776546480,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1770320098,
+      "game": "https://www.chess.com/game/live/164130890368"
+    },
+    "record": {
+      "win": 982,
+      "loss": 771,
+      "draw": 122
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1760889718
+    },
+    "lowest": {
+      "rating": 2445,
+      "date": 1760889538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

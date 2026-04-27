@@ -1,0 +1,102 @@
+{
+  "player_id": 62717104,
+  "@id": "https://api.chess.com/pub/player/7-the_dragon-7",
+  "url": "https://www.chess.com/member/7-The_Dragon-7",
+  "username": "7-the_dragon-7",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776493632,
+  "joined": 1561583382,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2249,
+      "date": 1746027988,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1595964604,
+      "game": "https://www.chess.com/game/daily/263421244"
+    },
+    "record": {
+      "win": 20,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 39447,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2193,
+      "date": 1723720325,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1653149247,
+      "game": "https://www.chess.com/game/live/97511992647"
+    },
+    "record": {
+      "win": 30,
+      "loss": 35,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1552,
+      "date": 1776175541,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1607676900,
+      "game": "https://www.chess.com/game/live/5938900689"
+    },
+    "record": {
+      "win": 104,
+      "loss": 110,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2043,
+      "date": 1776493623,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1670330322,
+      "game": "https://www.chess.com/game/live/63895811643"
+    },
+    "record": {
+      "win": 1996,
+      "loss": 1867,
+      "draw": 140
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2530,
+      "date": 1756906681
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1756569983
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

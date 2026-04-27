@@ -1,0 +1,85 @@
+{
+  "player_id": 34694638,
+  "@id": "https://api.chess.com/pub/player/kristof_08",
+  "url": "https://www.chess.com/member/Kristof_08",
+  "name": "Kristof Pal Kolimar",
+  "username": "kristof_08",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776488136,
+  "joined": 1491922439,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2338,
+      "date": 1741102961,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1600186672,
+      "game": "https://www.chess.com/game/live/5449615704"
+    },
+    "record": {
+      "win": 78,
+      "loss": 64,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2470,
+      "date": 1746529476,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1735818840,
+      "game": "https://www.chess.com/game/live/129557573545"
+    },
+    "record": {
+      "win": 702,
+      "loss": 494,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2536,
+      "date": 1772563324,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1750802124,
+      "game": "https://www.chess.com/game/live/145108773205"
+    },
+    "record": {
+      "win": 1935,
+      "loss": 1625,
+      "draw": 267
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1491922439
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1491922439
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

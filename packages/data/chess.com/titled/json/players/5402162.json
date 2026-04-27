@@ -1,0 +1,80 @@
+{
+  "player_id": 5402162,
+  "@id": "https://api.chess.com/pub/player/stepakyedael",
+  "url": "https://www.chess.com/member/stepakyedael",
+  "name": "yedael stepak",
+  "username": "stepakyedael",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "telaviv",
+  "last_online": 1676113352,
+  "joined": 1310072042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2394,
+      "date": 1663317548,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1633605363,
+      "game": "https://www.chess.com/game/live/28703399191"
+    },
+    "record": {
+      "win": 41,
+      "loss": 44,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2004,
+      "date": 1663059066,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2244,
+      "date": 1632790988,
+      "game": "https://www.chess.com/game/live/26529606901"
+    },
+    "record": {
+      "win": 3761,
+      "loss": 2805,
+      "draw": 328
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2276,
+      "date": 1663606009,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1647419336,
+      "game": "https://www.chess.com/game/live/23563294209"
+    },
+    "record": {
+      "win": 18312,
+      "loss": 16168,
+      "draw": 2631
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2022,
+      "date": 1310072042
+    },
+    "lowest": {
+      "rating": 2022,
+      "date": 1310072042
+    }
+  },
+  "puzzle_rush": {}
+}

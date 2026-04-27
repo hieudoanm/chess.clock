@@ -1,0 +1,105 @@
+{
+  "player_id": 1789328,
+  "@id": "https://api.chess.com/pub/player/malti",
+  "url": "https://www.chess.com/member/malti",
+  "name": "Colin Pace",
+  "username": "malti",
+  "title": "CM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/MT",
+  "location": "Sliema",
+  "last_online": 1776272557,
+  "joined": 1235641360,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2193,
+      "date": 1516613304,
+      "rd": 242
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1262042804,
+      "game": "https://www.chess.com/game/daily/28396807"
+    },
+    "record": {
+      "win": 65,
+      "loss": 30,
+      "draw": 8,
+      "time_per_move": 31184,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2062,
+      "date": 1755032484,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2070,
+      "date": 1755030402,
+      "game": "https://www.chess.com/game/live/127395580121"
+    },
+    "record": {
+      "win": 18,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2146,
+      "date": 1763049423,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1712088105,
+      "game": "https://www.chess.com/game/live/141352900122"
+    },
+    "record": {
+      "win": 992,
+      "loss": 863,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2085,
+      "date": 1734527694,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1700729603,
+      "game": "https://www.chess.com/game/live/111273684233"
+    },
+    "record": {
+      "win": 1616,
+      "loss": 1274,
+      "draw": 127
+    }
+  },
+  "fide": 2150,
+  "tactics": {
+    "highest": {
+      "rating": 2420,
+      "date": 1235641360
+    },
+    "lowest": {
+      "rating": 2420,
+      "date": 1235641360
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 29
+    }
+  }
+}

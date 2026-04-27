@@ -1,0 +1,97 @@
+{
+  "player_id": 147129361,
+  "@id": "https://api.chess.com/pub/player/knightmate64",
+  "url": "https://www.chess.com/member/KnightMate64",
+  "username": "knightmate64",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776102902,
+  "joined": 1625684777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1392,
+      "date": 1729499482,
+      "rd": 211
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 231712,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2490,
+      "date": 1775417849,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1774779562,
+      "game": "https://www.chess.com/game/live/164355679312"
+    },
+    "record": {
+      "win": 173,
+      "loss": 105,
+      "draw": 31
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2539,
+      "date": 1775049371,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1716141511,
+      "game": "https://www.chess.com/game/live/63736312155"
+    },
+    "record": {
+      "win": 740,
+      "loss": 723,
+      "draw": 125
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1769419559,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1769419559,
+      "game": "https://www.chess.com/game/live/106411150177"
+    },
+    "record": {
+      "win": 1453,
+      "loss": 1369,
+      "draw": 250
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2708,
+      "date": 1769167427
+    },
+    "lowest": {
+      "rating": 2449,
+      "date": 1759663948
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

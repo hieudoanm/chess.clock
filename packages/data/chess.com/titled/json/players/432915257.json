@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/432915257.5d82c09d.200x200o.f07d1715d3f3.png",
+  "player_id": 432915257,
+  "@id": "https://api.chess.com/pub/player/robertskytte",
+  "url": "https://www.chess.com/member/RobertSkytte",
+  "name": "Robert Skytte",
+  "username": "robertskytte",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776186632,
+  "joined": 1740673052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1134,
+      "date": 1776179945,
+      "rd": 301
+    },
+    "best": {
+      "rating": 1134,
+      "date": 1755718715,
+      "game": "https://www.chess.com/game/daily/813728456"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 188752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2016,
+      "date": 1773780046,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1773780046,
+      "game": "https://www.chess.com/game/live/166081509700"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1773916288,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1773508389,
+      "game": "https://www.chess.com/game/live/166012815253"
+    },
+    "record": {
+      "win": 132,
+      "loss": 175,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2224,
+      "date": 1776186598,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2264,
+      "date": 1747513312,
+      "game": "https://www.chess.com/game/live/149327308795"
+    },
+    "record": {
+      "win": 56,
+      "loss": 150,
+      "draw": 17
+    }
+  },
+  "fide": 2007,
+  "tactics": {
+    "highest": {
+      "rating": 1687,
+      "date": 1762791011
+    },
+    "lowest": {
+      "rating": 1663,
+      "date": 1762764004
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

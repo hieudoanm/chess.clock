@@ -1,0 +1,67 @@
+{
+  "player_id": 27843886,
+  "@id": "https://api.chess.com/pub/player/kosche007",
+  "url": "https://www.chess.com/member/Kosche007",
+  "name": "Janusz Koscielski",
+  "username": "kosche007",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775853136,
+  "joined": 1461232968,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1730311510,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1730309146,
+      "game": "https://www.chess.com/game/live/124049408109"
+    },
+    "record": {
+      "win": 88,
+      "loss": 46,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2506,
+      "date": 1775248138,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1771010901,
+      "game": "https://www.chess.com/game/live/68336639101"
+    },
+    "record": {
+      "win": 725,
+      "loss": 574,
+      "draw": 75
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2492,
+      "date": 1461232968
+    },
+    "lowest": {
+      "rating": 2492,
+      "date": 1461232968
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

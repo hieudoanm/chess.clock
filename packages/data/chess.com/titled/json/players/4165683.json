@@ -1,0 +1,87 @@
+{
+  "player_id": 4165683,
+  "@id": "https://api.chess.com/pub/player/gaasten",
+  "url": "https://www.chess.com/member/gaasten",
+  "name": "Johan Norberg",
+  "username": "gaasten",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "sweeeeeden",
+  "last_online": 1776293715,
+  "joined": 1288036802,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1991,
+      "date": 1738056489,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1487244744,
+      "game": "https://www.chess.com/game/daily/111671016"
+    },
+    "record": {
+      "win": 320,
+      "loss": 50,
+      "draw": 26,
+      "time_per_move": 13022,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1757199356,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1494435046,
+      "game": "https://www.chess.com/game/live/1754665018"
+    },
+    "record": {
+      "win": 202,
+      "loss": 104,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2312,
+      "date": 1764483923,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2599,
+      "date": 1639592042,
+      "game": "https://www.chess.com/game/live/33332091695"
+    },
+    "record": {
+      "win": 157,
+      "loss": 91,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2671,
+      "date": 1765112891
+    },
+    "lowest": {
+      "rating": 2578,
+      "date": 1765112924
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

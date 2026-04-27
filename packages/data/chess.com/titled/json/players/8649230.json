@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8649230.0d72c924.200x200o.5a329a8deb78.png",
+  "player_id": 8649230,
+  "@id": "https://api.chess.com/pub/player/yellowdragoon",
+  "url": "https://www.chess.com/member/yellowdragoon",
+  "name": "Henry Li",
+  "username": "yellowdragoon",
+  "title": "FM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1765218191,
+  "joined": 1345744249,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1596,
+      "date": 1652732498,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1722,
+      "date": 1442323930,
+      "game": "https://www.chess.com/game/daily/102677396"
+    },
+    "record": {
+      "win": 35,
+      "loss": 26,
+      "draw": 5,
+      "time_per_move": 33877,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2027,
+      "date": 1747358065,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2027,
+      "date": 1747358065,
+      "game": "https://www.chess.com/game/live/138506502230"
+    },
+    "record": {
+      "win": 29,
+      "loss": 21,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2140,
+      "date": 1652624997,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2185,
+      "date": 1553541442,
+      "game": "https://www.chess.com/game/live/4321752455"
+    },
+    "record": {
+      "win": 161,
+      "loss": 90,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2292,
+      "date": 1761397072,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1546373411,
+      "game": "https://www.chess.com/game/live/4829548578"
+    },
+    "record": {
+      "win": 1350,
+      "loss": 1225,
+      "draw": 131
+    }
+  },
+  "fide": 2303,
+  "tactics": {
+    "highest": {
+      "rating": 2592,
+      "date": 1345744249
+    },
+    "lowest": {
+      "rating": 2592,
+      "date": 1345744249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

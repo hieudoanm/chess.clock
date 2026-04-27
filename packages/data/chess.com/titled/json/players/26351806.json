@@ -1,0 +1,102 @@
+{
+  "player_id": 26351806,
+  "@id": "https://api.chess.com/pub/player/soylatte17",
+  "url": "https://www.chess.com/member/SoyLatte17",
+  "username": "soylatte17",
+  "title": "WFM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774268077,
+  "joined": 1453820838,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1476,
+      "date": 1707241285,
+      "rd": 195
+    },
+    "best": {
+      "rating": 1846,
+      "date": 1462075858,
+      "game": "https://www.chess.com/game/daily/133856114"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 26691,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2090,
+      "date": 1763462392,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2100,
+      "date": 1763380395,
+      "game": "https://www.chess.com/game/live/145614078150"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2042,
+      "date": 1752549991,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1732459124,
+      "game": "https://www.chess.com/game/live/126070756077"
+    },
+    "record": {
+      "win": 516,
+      "loss": 450,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1855,
+      "date": 1769842078,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1689640915,
+      "game": "https://www.chess.com/game/live/83379351377"
+    },
+    "record": {
+      "win": 96,
+      "loss": 80,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2259,
+      "date": 1756528550
+    },
+    "lowest": {
+      "rating": 2159,
+      "date": 1756529054
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

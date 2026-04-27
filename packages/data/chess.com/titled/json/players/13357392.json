@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13357392.b8f8937e.200x200o.e454ba51d88e.jpeg",
+  "player_id": 13357392,
+  "@id": "https://api.chess.com/pub/player/nguyenxi",
+  "url": "https://www.chess.com/member/NguyenXi",
+  "name": "Hoang Thong Tu",
+  "username": "nguyenxi",
+  "title": "GM",
+  "followers": 376,
+  "country": "https://api.chess.com/pub/country/VN",
+  "location": "Ho Chi Minh City",
+  "last_online": 1774839530,
+  "joined": 1378004548,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1282,
+      "date": 1763890097,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1470,
+      "date": 1612829923,
+      "game": "https://www.chess.com/game/daily/259833014"
+    },
+    "record": {
+      "win": 32,
+      "loss": 40,
+      "draw": 12,
+      "time_per_move": 18658,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1603,
+      "date": 1682915244,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1799,
+      "date": 1530026140,
+      "game": "https://www.chess.com/game/live/1725145488"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2862,
+      "date": 1765880952,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2998,
+      "date": 1670235343,
+      "game": "https://www.chess.com/game/live/5614587697"
+    },
+    "record": {
+      "win": 22219,
+      "loss": 15212,
+      "draw": 1821
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2658,
+      "date": 1669943488,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2774,
+      "date": 1580717678,
+      "game": "https://www.chess.com/game/live/2638967955"
+    },
+    "record": {
+      "win": 1320,
+      "loss": 949,
+      "draw": 178
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2532,
+      "date": 1766628453
+    },
+    "lowest": {
+      "rating": 2491,
+      "date": 1762995145
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

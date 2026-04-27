@@ -1,0 +1,67 @@
+{
+  "player_id": 56968824,
+  "@id": "https://api.chess.com/pub/player/msolleveld",
+  "url": "https://www.chess.com/member/msolleveld",
+  "name": "Maarten Solleveld",
+  "username": "msolleveld",
+  "title": "GM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1770069537,
+  "joined": 1549372481,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2566,
+      "date": 1769292581,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1674311288,
+      "game": "https://www.chess.com/game/live/3556656499"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3076,
+      "date": 1770066529,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3076,
+      "date": 1770066529,
+      "game": "https://www.chess.com/game/live/164153659482"
+    },
+    "record": {
+      "win": 441,
+      "loss": 296,
+      "draw": 129
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2350,
+      "date": 1549372481
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1549372481
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

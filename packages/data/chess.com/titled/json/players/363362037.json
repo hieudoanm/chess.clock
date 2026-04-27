@@ -1,0 +1,79 @@
+{
+  "player_id": 363362037,
+  "@id": "https://api.chess.com/pub/player/benkoclub",
+  "url": "https://www.chess.com/member/benkoclub",
+  "username": "benkoclub",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1775567555,
+  "joined": 1715791957,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2110,
+      "date": 1745972151,
+      "rd": 49
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2577,
+      "date": 1775506207,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1773607738,
+      "game": "https://www.chess.com/game/live/123092387519"
+    },
+    "record": {
+      "win": 134,
+      "loss": 139,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2657,
+      "date": 1775506305,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2757,
+      "date": 1771606584,
+      "game": "https://www.chess.com/game/live/164824651852"
+    },
+    "record": {
+      "win": 515,
+      "loss": 506,
+      "draw": 73
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1890,
+      "date": 1760057320
+    },
+    "lowest": {
+      "rating": 1756,
+      "date": 1760057216
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

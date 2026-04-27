@@ -1,0 +1,64 @@
+{
+  "player_id": 4908302,
+  "@id": "https://api.chess.com/pub/player/nbi1",
+  "url": "https://www.chess.com/member/nbi1",
+  "name": "Peter Stein",
+  "username": "nbi1",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1752259658,
+  "joined": 1301213996,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1213,
+      "date": 1746017296,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1301213996,
+      "game": "https://www.chess.com/game/daily/276699990"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2695,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1769,
+      "date": 1623220199,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1589937595,
+      "game": "https://www.chess.com/game/live/1893205809"
+    },
+    "record": {
+      "win": 115,
+      "loss": 106,
+      "draw": 9
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1301213996
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1301213996
+    }
+  },
+  "puzzle_rush": {}
+}

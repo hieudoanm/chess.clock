@@ -1,0 +1,84 @@
+{
+  "player_id": 78706948,
+  "@id": "https://api.chess.com/pub/player/hypercar",
+  "url": "https://www.chess.com/member/Hypercar",
+  "name": "Tanraj Sohal",
+  "username": "hypercar",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776580191,
+  "joined": 1588735259,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2222,
+      "date": 1670626515,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1657559201,
+      "game": "https://www.chess.com/game/live/51300557943"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2711,
+      "date": 1776580182,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2780,
+      "date": 1752911149,
+      "game": "https://www.chess.com/game/live/140633003508"
+    },
+    "record": {
+      "win": 4477,
+      "loss": 3247,
+      "draw": 716
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2606,
+      "date": 1769059469,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2663,
+      "date": 1642568769,
+      "game": "https://www.chess.com/game/live/40003187571"
+    },
+    "record": {
+      "win": 749,
+      "loss": 581,
+      "draw": 132
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2465,
+      "date": 1769035012
+    },
+    "lowest": {
+      "rating": 2394,
+      "date": 1769035023
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

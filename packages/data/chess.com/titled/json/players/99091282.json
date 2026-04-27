@@ -1,0 +1,104 @@
+{
+  "player_id": 99091282,
+  "@id": "https://api.chess.com/pub/player/bartek_turski",
+  "url": "https://www.chess.com/member/Bartek_Turski",
+  "name": "Bartlomiej Turski",
+  "username": "bartek_turski",
+  "title": "FM",
+  "followers": 93,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776593610,
+  "joined": 1606230742,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2101,
+      "date": 1709371806,
+      "rd": 208
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1677764723,
+      "game": "https://www.chess.com/game/daily/463830633"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 33872,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2096,
+      "date": 1776431996,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2097,
+      "date": 1770238849,
+      "game": "https://www.chess.com/game/live/99440495687"
+    },
+    "record": {
+      "win": 17,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2869,
+      "date": 1776550247,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2908,
+      "date": 1773098279,
+      "game": "https://www.chess.com/game/live/127859984443"
+    },
+    "record": {
+      "win": 1122,
+      "loss": 948,
+      "draw": 192
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2910,
+      "date": 1775291650,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2962,
+      "date": 1693602765,
+      "game": "https://www.chess.com/game/live/96576442349"
+    },
+    "record": {
+      "win": 688,
+      "loss": 806,
+      "draw": 311
+    }
+  },
+  "fide": 2411,
+  "tactics": {
+    "highest": {
+      "rating": 2466,
+      "date": 1759960309
+    },
+    "lowest": {
+      "rating": 2208,
+      "date": 1758568208
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

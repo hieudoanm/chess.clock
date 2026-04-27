@@ -1,0 +1,80 @@
+{
+  "player_id": 60106336,
+  "@id": "https://api.chess.com/pub/player/karina_ivanova",
+  "url": "https://www.chess.com/member/Karina_Ivanova",
+  "name": "Karina Ivanova",
+  "username": "karina_ivanova",
+  "title": "WFM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775155950,
+  "joined": 1555927563,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2042,
+      "date": 1675978082,
+      "rd": 254
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1718,
+      "date": 1747163367,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2129,
+      "date": 1603692959,
+      "game": "https://www.chess.com/game/live/3791434075"
+    },
+    "record": {
+      "win": 292,
+      "loss": 265,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2309,
+      "date": 1770060453,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1691243546,
+      "game": "https://www.chess.com/game/live/3926891577"
+    },
+    "record": {
+      "win": 1791,
+      "loss": 1597,
+      "draw": 421
+    }
+  },
+  "fide": 2096,
+  "tactics": {
+    "highest": {
+      "rating": 2551,
+      "date": 1756409332
+    },
+    "lowest": {
+      "rating": 2413,
+      "date": 1760280442
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

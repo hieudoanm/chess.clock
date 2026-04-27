@@ -1,0 +1,80 @@
+{
+  "player_id": 224178639,
+  "@id": "https://api.chess.com/pub/player/manmish2",
+  "url": "https://www.chess.com/member/ManMish2",
+  "name": "Mikayel Manvelyan",
+  "username": "manmish2",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1776183661,
+  "joined": 1673529126,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2289,
+      "date": 1715948171,
+      "rd": 264
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2662,
+      "date": 1750535458,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2762,
+      "date": 1704481329,
+      "game": "https://www.chess.com/game/live/109787517287"
+    },
+    "record": {
+      "win": 179,
+      "loss": 149,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2921,
+      "date": 1776183654,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3058,
+      "date": 1773960418,
+      "game": "https://www.chess.com/game/live/168077419155"
+    },
+    "record": {
+      "win": 2118,
+      "loss": 1822,
+      "draw": 383
+    }
+  },
+  "fide": 2289,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1673529126
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1673529126
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

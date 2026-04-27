@@ -1,0 +1,66 @@
+{
+  "player_id": 265564627,
+  "@id": "https://api.chess.com/pub/player/momeii",
+  "url": "https://www.chess.com/member/momeii",
+  "username": "momeii",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776598005,
+  "joined": 1679574449,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2893,
+      "date": 1766554655,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2899,
+      "date": 1681729274,
+      "game": "https://www.chess.com/game/live/147105672816"
+    },
+    "record": {
+      "win": 24,
+      "loss": 34,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1776242763,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2553,
+      "date": 1776172479,
+      "game": "https://www.chess.com/game/live/147924155634"
+    },
+    "record": {
+      "win": 31,
+      "loss": 25,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2774,
+      "date": 1679574449
+    },
+    "lowest": {
+      "rating": 2774,
+      "date": 1679574449
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

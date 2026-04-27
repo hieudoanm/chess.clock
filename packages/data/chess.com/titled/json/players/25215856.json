@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25215856.a2d43d73.200x200o.745039526c6f.jpg",
+  "player_id": 25215856,
+  "@id": "https://api.chess.com/pub/player/arman_hakemi",
+  "url": "https://www.chess.com/member/Arman_Hakemi",
+  "name": "Arman Hakemi",
+  "username": "arman_hakemi",
+  "title": "IM",
+  "followers": 926,
+  "country": "https://api.chess.com/pub/country/IR",
+  "location": "Tehran",
+  "last_online": 1776556895,
+  "joined": 1448284671,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 965,
+      "date": 1733238385,
+      "rd": 337
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1448284671,
+      "game": "https://www.chess.com/game/daily/419664903"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 89409,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2280,
+      "date": 1762260147,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1679250655,
+      "game": "https://www.chess.com/game/live/76602576907"
+    },
+    "record": {
+      "win": 47,
+      "loss": 10,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2832,
+      "date": 1771005434,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2910,
+      "date": 1669968954,
+      "game": "https://www.chess.com/game/live/63707830611"
+    },
+    "record": {
+      "win": 1048,
+      "loss": 713,
+      "draw": 103
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2639,
+      "date": 1766512329,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2727,
+      "date": 1653408406,
+      "game": "https://www.chess.com/game/live/39911417789"
+    },
+    "record": {
+      "win": 766,
+      "loss": 522,
+      "draw": 126
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2614,
+      "date": 1757781503
+    },
+    "lowest": {
+      "rating": 2210,
+      "date": 1765609877
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

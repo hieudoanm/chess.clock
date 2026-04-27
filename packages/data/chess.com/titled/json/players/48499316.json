@@ -1,0 +1,61 @@
+{
+  "player_id": 48499316,
+  "@id": "https://api.chess.com/pub/player/miupiu",
+  "url": "https://www.chess.com/member/miupiu",
+  "username": "miupiu",
+  "title": "WGM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776284617,
+  "joined": 1533489200,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1391,
+      "date": 1588432302,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2163,
+      "date": 1767995407,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1702285661,
+      "game": "https://www.chess.com/game/live/14288257271"
+    },
+    "record": {
+      "win": 183,
+      "loss": 125,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1539,
+      "date": 1773083195
+    },
+    "lowest": {
+      "rating": 1315,
+      "date": 1772808508
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 32090308,
+  "@id": "https://api.chess.com/pub/player/yolosz",
+  "url": "https://www.chess.com/member/Yolosz",
+  "name": "Milosz Rudnicki",
+  "username": "yolosz",
+  "title": "CM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1747736721,
+  "joined": 1483396806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1686684936,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1466,
+      "date": 1588369036,
+      "game": "https://www.chess.com/game/live/4798213109"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2301,
+      "date": 1645663060,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2302,
+      "date": 1600381618,
+      "game": "https://www.chess.com/game/live/4239547381"
+    },
+    "record": {
+      "win": 1089,
+      "loss": 820,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2263,
+      "date": 1747645504,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1686694741,
+      "game": "https://www.chess.com/game/live/80428940321"
+    },
+    "record": {
+      "win": 396,
+      "loss": 300,
+      "draw": 71
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2593,
+      "date": 1483396806
+    },
+    "lowest": {
+      "rating": 2593,
+      "date": 1483396806
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

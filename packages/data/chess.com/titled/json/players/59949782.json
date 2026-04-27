@@ -1,0 +1,103 @@
+{
+  "player_id": 59949782,
+  "@id": "https://api.chess.com/pub/player/guinero68",
+  "url": "https://www.chess.com/member/guinero68",
+  "name": "Carlos Lopez",
+  "username": "guinero68",
+  "title": "FM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776536995,
+  "joined": 1555564223,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2044,
+      "date": 1776536960,
+      "rd": 193
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1682871856,
+      "game": "https://www.chess.com/game/daily/483407437"
+    },
+    "record": {
+      "win": 53,
+      "loss": 4,
+      "draw": 2,
+      "time_per_move": 34364,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2170,
+      "date": 1770752025,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1655411700,
+      "game": "https://www.chess.com/game/live/49150231721"
+    },
+    "record": {
+      "win": 85,
+      "loss": 48,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2091,
+      "date": 1775573831,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1613320610,
+      "game": "https://www.chess.com/game/live/44420348649"
+    },
+    "record": {
+      "win": 9252,
+      "loss": 8508,
+      "draw": 675
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2465,
+      "date": 1765863747,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1765863174,
+      "game": "https://www.chess.com/game/live/148737510635"
+    },
+    "record": {
+      "win": 577,
+      "loss": 524,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2399,
+      "date": 1756431115
+    },
+    "lowest": {
+      "rating": 1820,
+      "date": 1776454173
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

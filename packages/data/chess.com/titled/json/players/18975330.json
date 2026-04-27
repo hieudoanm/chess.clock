@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18975330.11c6272f.200x200o.3f70a55aab25.jpeg",
+  "player_id": 18975330,
+  "@id": "https://api.chess.com/pub/player/bjarkesahl",
+  "url": "https://www.chess.com/member/BjarkeSahl",
+  "name": "Bjarke Sahl",
+  "username": "bjarkesahl",
+  "title": "IM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Oslo",
+  "last_online": 1776406375,
+  "joined": 1411207923,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1533,
+      "date": 1753271040,
+      "rd": 263
+    },
+    "best": {
+      "rating": 1533,
+      "date": 1414820713,
+      "game": "https://www.chess.com/game/daily/97124228"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 17203,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2150,
+      "date": 1774390373,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1774390373,
+      "game": "https://www.chess.com/game/live/146833155420"
+    },
+    "record": {
+      "win": 25,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2163,
+      "date": 1775217528,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1600005542,
+      "game": "https://www.chess.com/game/live/165991426104"
+    },
+    "record": {
+      "win": 5651,
+      "loss": 4532,
+      "draw": 231
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2403,
+      "date": 1773253477,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1759865920,
+      "game": "https://www.chess.com/game/live/4726552558"
+    },
+    "record": {
+      "win": 5797,
+      "loss": 5110,
+      "draw": 525
+    }
+  },
+  "fide": 2335,
+  "tactics": {
+    "highest": {
+      "rating": 2650,
+      "date": 1769658478
+    },
+    "lowest": {
+      "rating": 2565,
+      "date": 1756178142
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

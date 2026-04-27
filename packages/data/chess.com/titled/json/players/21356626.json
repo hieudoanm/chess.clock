@@ -1,0 +1,64 @@
+{
+  "player_id": 21356626,
+  "@id": "https://api.chess.com/pub/player/liyoliyo",
+  "url": "https://www.chess.com/member/liyoliyo",
+  "name": "Omar Garcia Martinez",
+  "username": "liyoliyo",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Buriti dos Lopes",
+  "last_online": 1726923450,
+  "joined": 1425414766,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1438,
+      "date": 1480549121,
+      "rd": 257
+    },
+    "best": {
+      "rating": 1438,
+      "date": 1427647519,
+      "game": "https://www.chess.com/game/daily/107494686"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 39849,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2162,
+      "date": 1437958837,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1437702870,
+      "game": "https://www.chess.com/game/live/1221864442"
+    },
+    "record": {
+      "win": 102,
+      "loss": 54,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1425414766
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1425414766
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,124 @@
+{
+  "player_id": 13898556,
+  "@id": "https://api.chess.com/pub/player/revroli",
+  "url": "https://www.chess.com/member/revroli",
+  "name": "Roland Reviczki",
+  "username": "revroli",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1746531959,
+  "joined": 1381760623,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1513,
+      "date": 1732544574,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1691,
+      "date": 1508307481,
+      "game": "https://www.chess.com/game/daily/172874812"
+    },
+    "record": {
+      "win": 25,
+      "loss": 27,
+      "draw": 2,
+      "time_per_move": 38654,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 938,
+      "date": 1499353213,
+      "rd": 186
+    },
+    "best": {
+      "rating": 1288,
+      "date": 1424466138,
+      "game": "https://www.chess.com/game/daily/104505478"
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 38654,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2241,
+      "date": 1732544574,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1610,
+      "date": 1591961191,
+      "game": "https://www.chess.com/game/live/3095202966"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2241,
+      "date": 1732544574,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1723914489,
+      "game": "https://www.chess.com/game/live/117651620953"
+    },
+    "record": {
+      "win": 174,
+      "loss": 111,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2159,
+      "date": 1740342631,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1723571752,
+      "game": "https://www.chess.com/game/live/117304192409"
+    },
+    "record": {
+      "win": 310,
+      "loss": 230,
+      "draw": 22
+    }
+  },
+  "fide": 2241,
+  "tactics": {
+    "highest": {
+      "rating": 2422,
+      "date": 1381760623
+    },
+    "lowest": {
+      "rating": 2422,
+      "date": 1381760623
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

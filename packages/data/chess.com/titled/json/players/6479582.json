@@ -1,0 +1,103 @@
+{
+  "player_id": 6479582,
+  "@id": "https://api.chess.com/pub/player/svilson23",
+  "url": "https://www.chess.com/member/svilson23",
+  "name": "Rastko Svicevic",
+  "username": "svilson23",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776591354,
+  "joined": 1326294314,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1897,
+      "date": 1586899110,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1332709840,
+      "game": "https://www.chess.com/game/daily/50246732"
+    },
+    "record": {
+      "win": 38,
+      "loss": 25,
+      "draw": 9,
+      "time_per_move": 11962,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2245,
+      "date": 1680436371,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1587325317,
+      "game": "https://www.chess.com/game/live/29874505555"
+    },
+    "record": {
+      "win": 51,
+      "loss": 27,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2352,
+      "date": 1620498937,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1607873734,
+      "game": "https://www.chess.com/game/live/4801781587"
+    },
+    "record": {
+      "win": 59,
+      "loss": 28,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2239,
+      "date": 1776590754,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1755469513,
+      "game": "https://www.chess.com/game/live/41722278317"
+    },
+    "record": {
+      "win": 3940,
+      "loss": 4882,
+      "draw": 586
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2280,
+      "date": 1326294314
+    },
+    "lowest": {
+      "rating": 2280,
+      "date": 1326294314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

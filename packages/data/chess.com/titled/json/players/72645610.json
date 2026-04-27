@@ -1,0 +1,98 @@
+{
+  "player_id": 72645610,
+  "@id": "https://api.chess.com/pub/player/latixxa",
+  "url": "https://www.chess.com/member/latixxa",
+  "name": "jean marco cruz mendez",
+  "username": "latixxa",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/CU",
+  "location": "cuba",
+  "last_online": 1621336880,
+  "joined": 1582580612,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1641713975,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 22,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1613297659,
+      "rd": 194
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1603069875,
+      "game": "https://www.chess.com/game/live/5603264948"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2276,
+      "date": 1618679238,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2323,
+      "date": 1611804637,
+      "game": "https://www.chess.com/game/live/6369988252"
+    },
+    "record": {
+      "win": 36,
+      "loss": 24,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2416,
+      "date": 1621361818,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2417,
+      "date": 1621361159,
+      "game": "https://www.chess.com/game/live/15099996565"
+    },
+    "record": {
+      "win": 183,
+      "loss": 138,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2233,
+      "date": 1582580612
+    },
+    "lowest": {
+      "rating": 2233,
+      "date": 1582580612
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

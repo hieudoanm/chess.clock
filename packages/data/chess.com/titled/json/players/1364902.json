@@ -1,0 +1,102 @@
+{
+  "player_id": 1364902,
+  "@id": "https://api.chess.com/pub/player/cats4sale",
+  "url": "https://www.chess.com/member/Cats4Sale",
+  "username": "cats4sale",
+  "title": "FM",
+  "followers": 218,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776340725,
+  "joined": 1208976243,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1363,
+      "date": 1701949059,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1837,
+      "date": 1417569876,
+      "game": "https://www.chess.com/game/daily/100994130"
+    },
+    "record": {
+      "win": 3,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 14277,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1636675524,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1631658642,
+      "game": "https://www.chess.com/game/live/25396916099"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2571,
+      "date": 1635381273,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2751,
+      "date": 1634684823,
+      "game": "https://www.chess.com/game/live/4151473530"
+    },
+    "record": {
+      "win": 676,
+      "loss": 483,
+      "draw": 87
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2445,
+      "date": 1656973559,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1542328639,
+      "game": "https://www.chess.com/game/live/3464091940"
+    },
+    "record": {
+      "win": 789,
+      "loss": 650,
+      "draw": 161
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2332,
+      "date": 1208976243
+    },
+    "lowest": {
+      "rating": 2332,
+      "date": 1208976243
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    }
+  }
+}

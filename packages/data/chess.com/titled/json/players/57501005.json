@@ -1,0 +1,68 @@
+{
+  "player_id": 57501005,
+  "@id": "https://api.chess.com/pub/player/witcher8",
+  "url": "https://www.chess.com/member/witcher8",
+  "name": "Alexey Zhuravlev",
+  "username": "witcher8",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1769976584,
+  "joined": 1550475291,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2409,
+      "date": 1617303555,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1617217006,
+      "game": "https://www.chess.com/game/live/11039171277"
+    },
+    "record": {
+      "win": 47,
+      "loss": 46,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2610,
+      "date": 1769977381,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1755626152,
+      "game": "https://www.chess.com/game/live/36271190175"
+    },
+    "record": {
+      "win": 426,
+      "loss": 432,
+      "draw": 68
+    }
+  },
+  "fide": 2359,
+  "tactics": {
+    "highest": {
+      "rating": 2015,
+      "date": 1761761516
+    },
+    "lowest": {
+      "rating": 2015,
+      "date": 1761761516
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

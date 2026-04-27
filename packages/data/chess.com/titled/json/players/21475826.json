@@ -1,0 +1,99 @@
+{
+  "player_id": 21475826,
+  "@id": "https://api.chess.com/pub/player/raining_taco",
+  "url": "https://www.chess.com/member/raining_taco",
+  "name": "William Wu",
+  "username": "raining_taco",
+  "title": "NM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776470226,
+  "joined": 1426117425,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1254,
+      "date": 1750160704,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1430,
+      "date": 1448069318,
+      "game": "https://www.chess.com/game/daily/120188584"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 4,
+      "time_per_move": 47269,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2116,
+      "date": 1750160704,
+      "rd": 108
+    },
+    "best": {
+      "rating": 1995,
+      "date": 1618706678,
+      "game": "https://www.chess.com/game/live/5470067142"
+    },
+    "record": {
+      "win": 339,
+      "loss": 289,
+      "draw": 52
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2116,
+      "date": 1750160704,
+      "rd": 174
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2116,
+      "date": 1750160704,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1591454795,
+      "game": "https://www.chess.com/game/live/5097103809"
+    },
+    "record": {
+      "win": 791,
+      "loss": 678,
+      "draw": 81
+    }
+  },
+  "fide": 2116,
+  "tactics": {
+    "highest": {
+      "rating": 2412,
+      "date": 1426117425
+    },
+    "lowest": {
+      "rating": 2412,
+      "date": 1426117425
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

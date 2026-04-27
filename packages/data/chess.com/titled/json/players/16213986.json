@@ -1,0 +1,81 @@
+{
+  "player_id": 16213986,
+  "@id": "https://api.chess.com/pub/player/albayo",
+  "url": "https://www.chess.com/member/albayo",
+  "name": "Alvaro Bayo",
+  "username": "albayo",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Logro&ntilde;o",
+  "last_online": 1776185351,
+  "joined": 1393363382,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1747513396,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2387,
+      "date": 1751548078,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1751545788,
+      "game": "https://www.chess.com/game/live/92348531099"
+    },
+    "record": {
+      "win": 84,
+      "loss": 41,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2369,
+      "date": 1756535976,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2647,
+      "date": 1663712563,
+      "game": "https://www.chess.com/game/live/79223531747"
+    },
+    "record": {
+      "win": 490,
+      "loss": 472,
+      "draw": 85
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2356,
+      "date": 1756109270
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1756109285
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

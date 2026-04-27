@@ -1,0 +1,147 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/92602550.69266f8e.200x200o.8d038a5ab909.jpeg",
+  "player_id": 92602550,
+  "@id": "https://api.chess.com/pub/player/romkachess",
+  "url": "https://www.chess.com/member/Romkachess",
+  "name": "Roman Gavrilin",
+  "username": "romkachess",
+  "title": "NM",
+  "followers": 2439,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Canada",
+  "last_online": 1776571949,
+  "joined": 1602003818,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/romkachess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/romkachess"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@romkachess9803"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1732,
+      "date": 1776569891,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1663371809,
+      "game": "https://www.chess.com/game/daily/591258373"
+    },
+    "record": {
+      "win": 772,
+      "loss": 184,
+      "draw": 115,
+      "time_per_move": 57158,
+      "timeout_percent": 4
+    },
+    "tournament": {
+      "points": 39,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1997,
+      "date": 1771204279,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2116,
+      "date": 1711317723,
+      "game": "https://www.chess.com/game/daily/578656061"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 57158,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 39,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2368,
+      "date": 1773595453,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1769269341,
+      "game": "https://www.chess.com/game/live/52836053287"
+    },
+    "record": {
+      "win": 311,
+      "loss": 86,
+      "draw": 39
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2773,
+      "date": 1776532990,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2852,
+      "date": 1776529550,
+      "game": "https://www.chess.com/game/live/81367402371"
+    },
+    "record": {
+      "win": 4171,
+      "loss": 4205,
+      "draw": 563
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2707,
+      "date": 1776467688,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2711,
+      "date": 1710884328,
+      "game": "https://www.chess.com/game/live/154596997331"
+    },
+    "record": {
+      "win": 2118,
+      "loss": 1916,
+      "draw": 428
+    }
+  },
+  "fide": 2147,
+  "tactics": {
+    "highest": {
+      "rating": 2396,
+      "date": 1602003818
+    },
+    "lowest": {
+      "rating": 2396,
+      "date": 1602003818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

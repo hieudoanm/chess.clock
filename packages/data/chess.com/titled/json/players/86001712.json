@@ -1,0 +1,85 @@
+{
+  "player_id": 86001712,
+  "@id": "https://api.chess.com/pub/player/aleking03",
+  "url": "https://www.chess.com/member/Aleking03",
+  "name": "Alejandro Mora Mu\u00f1oz",
+  "username": "aleking03",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776467511,
+  "joined": 1594092272,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1619,
+      "date": 1745588954,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1663,
+      "date": 1619299347,
+      "game": "https://www.chess.com/game/live/5709695770"
+    },
+    "record": {
+      "win": 25,
+      "loss": 21,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2635,
+      "date": 1776467159,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1766723976,
+      "game": "https://www.chess.com/game/live/146806162214"
+    },
+    "record": {
+      "win": 854,
+      "loss": 896,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2554,
+      "date": 1774839592,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1748965177,
+      "game": "https://www.chess.com/game/live/147514399177"
+    },
+    "record": {
+      "win": 216,
+      "loss": 115,
+      "draw": 21
+    }
+  },
+  "fide": 2135,
+  "tactics": {
+    "highest": {
+      "rating": 2346,
+      "date": 1758564059
+    },
+    "lowest": {
+      "rating": 2122,
+      "date": 1755575127
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

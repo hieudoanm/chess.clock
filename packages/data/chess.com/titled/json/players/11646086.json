@@ -1,0 +1,97 @@
+{
+  "player_id": 11646086,
+  "@id": "https://api.chess.com/pub/player/jagrr",
+  "url": "https://www.chess.com/member/Jagrr",
+  "username": "jagrr",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776596373,
+  "joined": 1366857486,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 391,
+      "date": 1773928004,
+      "rd": 340
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 4569,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2363,
+      "date": 1776591497,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2416,
+      "date": 1604736969,
+      "game": "https://www.chess.com/game/live/6068048816"
+    },
+    "record": {
+      "win": 130,
+      "loss": 92,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2415,
+      "date": 1776550984,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2478,
+      "date": 1760273050,
+      "game": "https://www.chess.com/game/live/144203196960"
+    },
+    "record": {
+      "win": 1440,
+      "loss": 1173,
+      "draw": 128
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2369,
+      "date": 1776551336,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1776551336,
+      "game": "https://www.chess.com/game/live/166564764836"
+    },
+    "record": {
+      "win": 339,
+      "loss": 268,
+      "draw": 49
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1366857486
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1366857486
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 330564581,
+  "@id": "https://api.chess.com/pub/player/gmgrandfa",
+  "url": "https://www.chess.com/member/GMGrandFa",
+  "name": "Mersad Khodashenas",
+  "username": "gmgrandfa",
+  "title": "IM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1775788330,
+  "joined": 1701801461,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2271,
+      "date": 1733675982,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1733675982,
+      "game": "https://www.chess.com/game/live/106858825977"
+    },
+    "record": {
+      "win": 16,
+      "loss": 0,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2871,
+      "date": 1772014805,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1757588534,
+      "game": "https://www.chess.com/game/live/145709370696"
+    },
+    "record": {
+      "win": 138,
+      "loss": 39,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2850,
+      "date": 1770978362,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2864,
+      "date": 1770977386,
+      "game": "https://www.chess.com/game/live/153561996815"
+    },
+    "record": {
+      "win": 105,
+      "loss": 51,
+      "draw": 12
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2335,
+      "date": 1759937176
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1759827474
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

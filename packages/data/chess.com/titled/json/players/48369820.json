@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/48369820.69bfa408.200x200o.f6d3d7a20e45.jpeg",
+  "player_id": 48369820,
+  "@id": "https://api.chess.com/pub/player/niktlt",
+  "url": "https://www.chess.com/member/Niktlt",
+  "name": "Arseny Alavkin",
+  "username": "niktlt",
+  "title": "GM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776138999,
+  "joined": 1533111691,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1614694794,
+      "rd": 175
+    },
+    "record": {
+      "win": 1,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2627,
+      "date": 1773512059,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2808,
+      "date": 1637339025,
+      "game": "https://www.chess.com/game/live/24504713667"
+    },
+    "record": {
+      "win": 674,
+      "loss": 632,
+      "draw": 83
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2579,
+      "date": 1751745339,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2740,
+      "date": 1687876892,
+      "game": "https://www.chess.com/game/live/117926405811"
+    },
+    "record": {
+      "win": 357,
+      "loss": 287,
+      "draw": 78
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2621,
+      "date": 1533111691
+    },
+    "lowest": {
+      "rating": 2621,
+      "date": 1533111691
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

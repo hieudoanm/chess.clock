@@ -1,0 +1,83 @@
+{
+  "player_id": 83284504,
+  "@id": "https://api.chess.com/pub/player/stre_sebt",
+  "url": "https://www.chess.com/member/stre_sebt",
+  "username": "stre_sebt",
+  "title": "WFM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1618057198,
+  "joined": 1592511733,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1896,
+      "date": 1612975452,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1612801163,
+      "game": "https://www.chess.com/game/live/6481384511"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2132,
+      "date": 1597497938,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1592917970,
+      "game": "https://www.chess.com/game/live/5073746613"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2130,
+      "date": 1597395988,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1592745407,
+      "game": "https://www.chess.com/game/live/5295859435"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2277,
+      "date": 1592511733
+    },
+    "lowest": {
+      "rating": 2277,
+      "date": 1592511733
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 164504347,
+  "@id": "https://api.chess.com/pub/player/nicolas_2509",
+  "url": "https://www.chess.com/member/Nicolas_2509",
+  "name": "Nicolas Gabriel Rojas Linares",
+  "username": "nicolas_2509",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/PE",
+  "last_online": 1776288749,
+  "joined": 1639281467,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2068,
+      "date": 1768314253,
+      "rd": 103
+    },
+    "best": {
+      "rating": 1944,
+      "date": 1658956701,
+      "game": "https://www.chess.com/game/live/65584349597"
+    },
+    "record": {
+      "win": 33,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2530,
+      "date": 1775928262,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1771698652,
+      "game": "https://www.chess.com/game/live/164197785249"
+    },
+    "record": {
+      "win": 359,
+      "loss": 371,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2683,
+      "date": 1772766550,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2699,
+      "date": 1771951331,
+      "game": "https://www.chess.com/game/live/164620787355"
+    },
+    "record": {
+      "win": 287,
+      "loss": 198,
+      "draw": 28
+    }
+  },
+  "fide": 2068,
+  "tactics": {
+    "highest": {
+      "rating": 2518,
+      "date": 1769206413
+    },
+    "lowest": {
+      "rating": 1742,
+      "date": 1767911970
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

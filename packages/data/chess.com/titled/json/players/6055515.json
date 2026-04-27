@@ -1,0 +1,105 @@
+{
+  "player_id": 6055515,
+  "@id": "https://api.chess.com/pub/player/sl2000",
+  "url": "https://www.chess.com/member/SL2000",
+  "name": "Sam Capocyan",
+  "username": "sl2000",
+  "title": "NM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1732200447,
+  "joined": 1320268872,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 528,
+      "date": 1764062891,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1320268872,
+      "game": "https://www.chess.com/game/daily/648239659"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 145797,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1729225758,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1729225758,
+      "game": "https://www.chess.com/game/live/122960049853"
+    },
+    "record": {
+      "win": 26,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2338,
+      "date": 1714259997,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1712010591,
+      "game": "https://www.chess.com/game/live/105646223697"
+    },
+    "record": {
+      "win": 200,
+      "loss": 243,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2389,
+      "date": 1732169859,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1710345943,
+      "game": "https://www.chess.com/game/live/104046596299"
+    },
+    "record": {
+      "win": 1284,
+      "loss": 1407,
+      "draw": 152
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 708,
+      "date": 1320268872
+    },
+    "lowest": {
+      "rating": 708,
+      "date": 1320268872
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

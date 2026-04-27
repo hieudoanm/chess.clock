@@ -1,0 +1,84 @@
+{
+  "player_id": 390008203,
+  "@id": "https://api.chess.com/pub/player/thundersman",
+  "url": "https://www.chess.com/member/thundersman",
+  "username": "thundersman",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775614400,
+  "joined": 1726856933,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2480,
+      "date": 1765649967,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1760917524,
+      "game": "https://www.chess.com/game/live/145006323368"
+    },
+    "record": {
+      "win": 18,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2543,
+      "date": 1765495495,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1765493541,
+      "game": "https://www.chess.com/game/live/146605211500"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2645,
+      "date": 1766414649,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1766096531,
+      "game": "https://www.chess.com/game/live/144520533998"
+    },
+    "record": {
+      "win": 52,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1225,
+      "date": 1759025706
+    },
+    "lowest": {
+      "rating": 963,
+      "date": 1758547742
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "player_id": 28976236,
+  "@id": "https://api.chess.com/pub/player/palmateo",
+  "url": "https://www.chess.com/member/Palmateo",
+  "name": "Pedro Antonio Lopez Mateo",
+  "username": "palmateo",
+  "title": "FM",
+  "followers": 95,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776586925,
+  "joined": 1467995122,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1861,
+      "date": 1776577545,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1580754984,
+      "game": "https://www.chess.com/game/daily/214431062"
+    },
+    "record": {
+      "win": 3034,
+      "loss": 1340,
+      "draw": 397,
+      "time_per_move": 126054,
+      "timeout_percent": 3
+    },
+    "tournament": {
+      "points": 85,
+      "withdraw": 52,
+      "count": 8,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1836,
+      "date": 1775204578,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1740325071,
+      "game": "https://www.chess.com/game/daily/795113879"
+    },
+    "record": {
+      "win": 143,
+      "loss": 66,
+      "draw": 30,
+      "time_per_move": 126054,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 85,
+      "withdraw": 52,
+      "count": 8,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2369,
+      "date": 1765649106,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1762457653,
+      "game": "https://www.chess.com/game/live/145198261468"
+    },
+    "record": {
+      "win": 35,
+      "loss": 12,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1776545302,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1756803081,
+      "game": "https://www.chess.com/game/live/142850357888"
+    },
+    "record": {
+      "win": 2085,
+      "loss": 2119,
+      "draw": 166
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2355,
+      "date": 1774647523,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1757002108,
+      "game": "https://www.chess.com/game/live/142640681506"
+    },
+    "record": {
+      "win": 796,
+      "loss": 755,
+      "draw": 118
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2376,
+      "date": 1776199583
+    },
+    "lowest": {
+      "rating": 2113,
+      "date": 1755101935
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

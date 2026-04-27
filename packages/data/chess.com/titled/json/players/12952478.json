@@ -1,0 +1,105 @@
+{
+  "player_id": 12952478,
+  "@id": "https://api.chess.com/pub/player/kaitlyninc",
+  "url": "https://www.chess.com/member/kaitlyninc",
+  "name": "Kaitlyn Yang",
+  "username": "kaitlyninc",
+  "title": "WFM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1731480607,
+  "joined": 1375218418,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1880,
+      "date": 1724747298,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1596911955,
+      "game": "https://www.chess.com/game/daily/174570196"
+    },
+    "record": {
+      "win": 91,
+      "loss": 9,
+      "draw": 11,
+      "time_per_move": 190320,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1659,
+      "date": 1699775410,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1659,
+      "date": 1379287925,
+      "game": "https://www.chess.com/game/live/601713456"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2133,
+      "date": 1633904393,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2133,
+      "date": 1602573146,
+      "game": "https://www.chess.com/game/live/1149403645"
+    },
+    "record": {
+      "win": 414,
+      "loss": 562,
+      "draw": 59
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1888,
+      "date": 1636870698,
+      "rd": 63
+    },
+    "best": {
+      "rating": 1916,
+      "date": 1479963929,
+      "game": "https://www.chess.com/game/live/1823067466"
+    },
+    "record": {
+      "win": 331,
+      "loss": 342,
+      "draw": 54
+    }
+  },
+  "fide": 1800,
+  "tactics": {
+    "highest": {
+      "rating": 2283,
+      "date": 1375218418
+    },
+    "lowest": {
+      "rating": 2283,
+      "date": 1375218418
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

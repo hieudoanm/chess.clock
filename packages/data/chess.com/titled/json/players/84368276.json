@@ -1,0 +1,85 @@
+{
+  "player_id": 84368276,
+  "@id": "https://api.chess.com/pub/player/emirgulbeyaz",
+  "url": "https://www.chess.com/member/emirgulbeyaz",
+  "name": "Emir Gulbeyaz",
+  "username": "emirgulbeyaz",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776367663,
+  "joined": 1593105337,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2225,
+      "date": 1700384062,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2225,
+      "date": 1694017610,
+      "game": "https://www.chess.com/game/live/93628743625"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2413,
+      "date": 1770914450,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1694603794,
+      "game": "https://www.chess.com/game/live/88018789159"
+    },
+    "record": {
+      "win": 62,
+      "loss": 27,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2371,
+      "date": 1697578301,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1697576811,
+      "game": "https://www.chess.com/game/live/91315237955"
+    },
+    "record": {
+      "win": 68,
+      "loss": 21,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1795,
+      "date": 1593105337
+    },
+    "lowest": {
+      "rating": 1795,
+      "date": 1593105337
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

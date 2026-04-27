@@ -1,0 +1,68 @@
+{
+    "player_id": 52363300,
+    "@id": "https://api.chess.com/pub/player/gmdavenogood",
+    "url": "https://www.chess.com/member/gmdavenogood",
+    "name": "David R Norwood",
+    "username": "gmdavenogood",
+    "title": "GM",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/GB",
+    "last_online": 1718376608,
+    "joined": 1543233728,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2534,
+            "date": 1718383923,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2689,
+            "date": 1631050027,
+            "game": "https://www.chess.com/game/live/24073740687"
+        },
+        "record": {
+            "win": 1090,
+            "loss": 910,
+            "draw": 99
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2795,
+            "date": 1718383627,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2869,
+            "date": 1716910693,
+            "game": "https://www.chess.com/game/live/109443697175"
+        },
+        "record": {
+            "win": 1156,
+            "loss": 1012,
+            "draw": 160
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1543233728
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1543233728
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 64,
+            "score": 61
+        }
+    }
+}

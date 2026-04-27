@@ -1,0 +1,74 @@
+{
+  "player_id": 61611962,
+  "@id": "https://api.chess.com/pub/player/ajedrez1101",
+  "url": "https://www.chess.com/member/ajedrez1101",
+  "name": "Boris Bruned",
+  "username": "ajedrez1101",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1763911103,
+  "joined": 1559215580,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1238,
+      "date": 1621617132,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2263,
+      "date": 1713634283,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1674928884,
+      "game": "https://www.chess.com/game/live/107370812929"
+    },
+    "record": {
+      "win": 2046,
+      "loss": 2008,
+      "draw": 207
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2318,
+      "date": 1763484249,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1716910830,
+      "game": "https://www.chess.com/game/live/30826708495"
+    },
+    "record": {
+      "win": 330,
+      "loss": 383,
+      "draw": 52
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2087,
+      "date": 1559215580
+    },
+    "lowest": {
+      "rating": 2087,
+      "date": 1559215580
+    }
+  },
+  "puzzle_rush": {}
+}

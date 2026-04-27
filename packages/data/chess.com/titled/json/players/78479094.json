@@ -1,0 +1,86 @@
+{
+    "player_id": 78479094,
+    "@id": "https://api.chess.com/pub/player/pavelshkapenko",
+    "url": "https://www.chess.com/member/PavelShkapenko",
+    "name": "Pavel Shkapenko",
+    "username": "pavelshkapenko",
+    "title": "IM",
+    "followers": 416,
+    "country": "https://api.chess.com/pub/country/XX",
+    "location": "Kaliningrad",
+    "last_online": 1734153368,
+    "joined": 1588512153,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2577,
+            "date": 1699610408,
+            "rd": 74
+        },
+        "best": {
+            "rating": 2636,
+            "date": 1679835597,
+            "game": "https://www.chess.com/game/live/46890561311"
+        },
+        "record": {
+            "win": 107,
+            "loss": 37,
+            "draw": 28
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2787,
+            "date": 1724939233,
+            "rd": 24
+        },
+        "best": {
+            "rating": 2787,
+            "date": 1724939233,
+            "game": "https://www.chess.com/game/live/101152954711"
+        },
+        "record": {
+            "win": 493,
+            "loss": 331,
+            "draw": 91
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2727,
+            "date": 1734155214,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2869,
+            "date": 1663100915,
+            "game": "https://www.chess.com/game/live/94461735593"
+        },
+        "record": {
+            "win": 5753,
+            "loss": 4005,
+            "draw": 1982
+        }
+    },
+    "fide": 2424,
+    "tactics": {
+        "highest": {
+            "rating": 2717,
+            "date": 1680580162
+        },
+        "lowest": {
+            "rating": 2442,
+            "date": 1590077744
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 51,
+            "score": 48
+        }
+    }
+}

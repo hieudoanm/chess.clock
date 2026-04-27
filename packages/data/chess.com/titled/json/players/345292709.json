@@ -1,0 +1,84 @@
+{
+  "player_id": 345292709,
+  "@id": "https://api.chess.com/pub/player/pushingsomepieces",
+  "url": "https://www.chess.com/member/pushingsomepieces",
+  "name": "Lisa Sickmann",
+  "username": "pushingsomepieces",
+  "title": "WFM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776508585,
+  "joined": 1707929431,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2065,
+      "date": 1753204041,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2081,
+      "date": 1726858579,
+      "game": "https://www.chess.com/game/live/120586838675"
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1946,
+      "date": 1762031595,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1728655972,
+      "game": "https://www.chess.com/game/live/123091279685"
+    },
+    "record": {
+      "win": 57,
+      "loss": 56,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2242,
+      "date": 1762032118,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2319,
+      "date": 1714495566,
+      "game": "https://www.chess.com/game/live/113671245873"
+    },
+    "record": {
+      "win": 194,
+      "loss": 271,
+      "draw": 36
+    }
+  },
+  "fide": 2050,
+  "tactics": {
+    "highest": {
+      "rating": 2177,
+      "date": 1755674931
+    },
+    "lowest": {
+      "rating": 2132,
+      "date": 1757485801
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

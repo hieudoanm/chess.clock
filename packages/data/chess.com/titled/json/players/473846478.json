@@ -1,0 +1,80 @@
+{
+  "player_id": 473846478,
+  "@id": "https://api.chess.com/pub/player/checkmatechamp_08",
+  "url": "https://www.chess.com/member/CheckmateChamp_08",
+  "name": "Hanya Shah",
+  "username": "checkmatechamp_08",
+  "title": "WCM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776596522,
+  "joined": 1754984280,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2010,
+      "date": 1764582739,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2024,
+      "date": 1764574887,
+      "game": "https://www.chess.com/game/live/146170872318"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1906,
+      "date": 1776500798,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1994,
+      "date": 1775571750,
+      "game": "https://www.chess.com/game/live/166774279768"
+    },
+    "record": {
+      "win": 30,
+      "loss": 53,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1659,
+      "date": 1773941875,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1819,
+      "date": 1772787729,
+      "game": "https://www.chess.com/game/live/165796772768"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 1680,
+  "tactics": {
+    "highest": {
+      "rating": 1725,
+      "date": 1776093775
+    },
+    "lowest": {
+      "rating": 478,
+      "date": 1772633992
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18360188.49d60331.200x200o.60f886b5f9dc.jpeg",
+  "player_id": 18360188,
+  "@id": "https://api.chess.com/pub/player/qib_wang",
+  "url": "https://www.chess.com/member/Qib_wang",
+  "name": "Qibiao Wang",
+  "username": "qib_wang",
+  "title": "NM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Manhattan, New York",
+  "last_online": 1776208235,
+  "joined": 1407206018,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1362,
+      "date": 1610650340,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1573,
+      "date": 1424121953,
+      "game": "https://www.chess.com/game/daily/98257924"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 57628,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2188,
+      "date": 1605492352,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1605488677,
+      "game": "https://www.chess.com/game/live/4656872697"
+    },
+    "record": {
+      "win": 66,
+      "loss": 10,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2447,
+      "date": 1665286111,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1658524186,
+      "game": "https://www.chess.com/game/live/5598805102"
+    },
+    "record": {
+      "win": 481,
+      "loss": 339,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2563,
+      "date": 1769396665,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1726974714,
+      "game": "https://www.chess.com/game/live/4594166628"
+    },
+    "record": {
+      "win": 1408,
+      "loss": 1073,
+      "draw": 170
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2584,
+      "date": 1407206018
+    },
+    "lowest": {
+      "rating": 2584,
+      "date": 1407206018
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

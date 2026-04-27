@@ -1,0 +1,104 @@
+{
+  "player_id": 44046538,
+  "@id": "https://api.chess.com/pub/player/1000suleyman",
+  "url": "https://www.chess.com/member/1000Suleyman",
+  "name": "Da Rosa Henrique Jaze Simoes",
+  "username": "1000suleyman",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776555816,
+  "joined": 1520468194,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 831,
+      "date": 1734442337,
+      "rd": 308
+    },
+    "best": {
+      "rating": 831,
+      "date": 1605731404,
+      "game": "https://www.chess.com/game/daily/273133122"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 352010,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2056,
+      "date": 1719529480,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1719528563,
+      "game": "https://www.chess.com/game/live/113267374017"
+    },
+    "record": {
+      "win": 60,
+      "loss": 26,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2026,
+      "date": 1770077565,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1768685477,
+      "game": "https://www.chess.com/game/live/148144690662"
+    },
+    "record": {
+      "win": 551,
+      "loss": 409,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1977,
+      "date": 1770148343,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2234,
+      "date": 1719525575,
+      "game": "https://www.chess.com/game/live/115069130267"
+    },
+    "record": {
+      "win": 629,
+      "loss": 415,
+      "draw": 64
+    }
+  },
+  "fide": 2003,
+  "tactics": {
+    "highest": {
+      "rating": 2486,
+      "date": 1768443167
+    },
+    "lowest": {
+      "rating": 2179,
+      "date": 1769469828
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

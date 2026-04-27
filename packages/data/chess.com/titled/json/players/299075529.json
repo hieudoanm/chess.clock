@@ -1,0 +1,90 @@
+{
+  "player_id": 299075529,
+  "@id": "https://api.chess.com/pub/player/dcacheiro",
+  "url": "https://www.chess.com/member/DCacheiro",
+  "name": "Diego Cacheiro Blanco",
+  "username": "dcacheiro",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776590281,
+  "joined": 1688991758,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1500,
+      "date": 1735690743,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1500,
+      "date": 1735690743,
+      "game": "https://www.chess.com/game/daily/728871041"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11183,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2751,
+      "date": 1771007583,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1752074881,
+      "game": "https://www.chess.com/game/live/103748461463"
+    },
+    "record": {
+      "win": 258,
+      "loss": 218,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2623,
+      "date": 1769080131,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1689083659,
+      "game": "https://www.chess.com/game/live/129401646895"
+    },
+    "record": {
+      "win": 78,
+      "loss": 64,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2656,
+      "date": 1758523538
+    },
+    "lowest": {
+      "rating": 2133,
+      "date": 1775132148
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    },
+    "daily": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

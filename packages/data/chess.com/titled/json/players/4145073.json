@@ -1,0 +1,86 @@
+{
+  "player_id": 4145073,
+  "@id": "https://api.chess.com/pub/player/thefakescotch",
+  "url": "https://www.chess.com/member/thefakescotch",
+  "name": "Joshua Mu",
+  "username": "thefakescotch",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775841043,
+  "joined": 1287616900,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1863,
+      "date": 1500741852,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1330049196,
+      "game": "https://www.chess.com/game/daily/46424044"
+    },
+    "record": {
+      "win": 111,
+      "loss": 59,
+      "draw": 13,
+      "time_per_move": 15583,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2245,
+      "date": 1383340310,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2711,
+      "date": 1297031424,
+      "game": "https://www.chess.com/game/live/95590960"
+    },
+    "record": {
+      "win": 224,
+      "loss": 164,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2095,
+      "date": 1752265449,
+      "rd": 301
+    },
+    "best": {
+      "rating": 2231,
+      "date": 1512788327,
+      "game": "https://www.chess.com/game/live/519112275"
+    },
+    "record": {
+      "win": 222,
+      "loss": 176,
+      "draw": 27
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2533,
+      "date": 1755720075
+    },
+    "lowest": {
+      "rating": 2290,
+      "date": 1760927423
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

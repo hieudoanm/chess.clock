@@ -1,0 +1,86 @@
+{
+  "player_id": 18373904,
+  "@id": "https://api.chess.com/pub/player/fl00red",
+  "url": "https://www.chess.com/member/fl00red",
+  "name": "Craig Jones",
+  "username": "fl00red",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "chapel hill",
+  "last_online": 1776244282,
+  "joined": 1407296178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1723,
+      "date": 1649887071,
+      "rd": 172
+    },
+    "best": {
+      "rating": 1803,
+      "date": 1649885967,
+      "game": "https://www.chess.com/game/live/43624748767"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2652,
+      "date": 1691966057,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1691395782,
+      "game": "https://www.chess.com/game/live/84983003307"
+    },
+    "record": {
+      "win": 230,
+      "loss": 182,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1773,
+      "date": 1776244282,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1487464979,
+      "game": "https://www.chess.com/game/live/1971431192"
+    },
+    "record": {
+      "win": 129,
+      "loss": 107,
+      "draw": 15
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2519,
+      "date": 1407296178
+    },
+    "lowest": {
+      "rating": 2519,
+      "date": 1407296178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

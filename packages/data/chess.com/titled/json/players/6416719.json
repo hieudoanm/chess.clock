@@ -1,0 +1,117 @@
+{
+  "player_id": 6416719,
+  "@id": "https://api.chess.com/pub/player/ekko_li",
+  "url": "https://www.chess.com/member/Ekko_li",
+  "name": "Patrick Gong",
+  "username": "ekko_li",
+  "title": "IM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776583645,
+  "joined": 1325319469,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1906,
+      "date": 1751709248,
+      "rd": 109
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1573760946,
+      "game": "https://www.chess.com/game/daily/233232496"
+    },
+    "record": {
+      "win": 27,
+      "loss": 27,
+      "draw": 2,
+      "time_per_move": 76881,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1394719329,
+      "rd": 290
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 76881,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2276,
+      "date": 1682002948,
+      "rd": 174
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1606642331,
+      "game": "https://www.chess.com/game/live/6543617596"
+    },
+    "record": {
+      "win": 42,
+      "loss": 28,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2429,
+      "date": 1631233798,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1587130084,
+      "game": "https://www.chess.com/game/live/4734269219"
+    },
+    "record": {
+      "win": 104,
+      "loss": 71,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2774,
+      "date": 1776583612,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2823,
+      "date": 1730799073,
+      "game": "https://www.chess.com/game/live/47748672863"
+    },
+    "record": {
+      "win": 4063,
+      "loss": 3630,
+      "draw": 666
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1300,
+      "date": 1758844711
+    },
+    "lowest": {
+      "rating": 1008,
+      "date": 1758846354
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

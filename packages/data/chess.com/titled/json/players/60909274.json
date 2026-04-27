@@ -1,0 +1,65 @@
+{
+  "player_id": 60909274,
+  "@id": "https://api.chess.com/pub/player/icewizard1",
+  "url": "https://www.chess.com/member/Icewizard1",
+  "username": "icewizard1",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1586407232,
+  "joined": 1557683912,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2409,
+      "date": 1586416879,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1585835384,
+      "game": "https://www.chess.com/game/live/4664819612"
+    },
+    "record": {
+      "win": 86,
+      "loss": 80,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2910,
+      "date": 1587816471,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2924,
+      "date": 1586425463,
+      "game": "https://www.chess.com/game/live/4681975671"
+    },
+    "record": {
+      "win": 590,
+      "loss": 580,
+      "draw": 82
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1557683912
+    },
+    "lowest": {
+      "rating": 2495,
+      "date": 1557683912
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

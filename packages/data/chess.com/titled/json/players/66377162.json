@@ -1,0 +1,84 @@
+{
+  "player_id": 66377162,
+  "@id": "https://api.chess.com/pub/player/name-505",
+  "url": "https://www.chess.com/member/name-505",
+  "username": "name-505",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776582980,
+  "joined": 1570431841,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2392,
+      "date": 1748572696,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1748572696,
+      "game": "https://www.chess.com/game/live/138999826492"
+    },
+    "record": {
+      "win": 13,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2583,
+      "date": 1772770002,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1749011445,
+      "game": "https://www.chess.com/game/live/139017924416"
+    },
+    "record": {
+      "win": 28,
+      "loss": 16,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2836,
+      "date": 1776582935,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2933,
+      "date": 1761723463,
+      "game": "https://www.chess.com/game/live/146435275132"
+    },
+    "record": {
+      "win": 994,
+      "loss": 1189,
+      "draw": 208
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2391,
+      "date": 1757162645
+    },
+    "lowest": {
+      "rating": 2280,
+      "date": 1757162662
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

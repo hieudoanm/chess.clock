@@ -1,0 +1,103 @@
+{
+  "player_id": 15714388,
+  "@id": "https://api.chess.com/pub/player/le_poisson",
+  "url": "https://www.chess.com/member/le_poisson",
+  "name": "Ivana Hrescak",
+  "username": "le_poisson",
+  "title": "WIM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776332092,
+  "joined": 1390498557,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 519,
+      "date": 1681913792,
+      "rd": 283
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1390498557,
+      "game": "https://www.chess.com/game/daily/497803299"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 173523,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2142,
+      "date": 1715248912,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1597497687,
+      "game": "https://www.chess.com/game/live/4708117406"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1921,
+      "date": 1742577602,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1600371155,
+      "game": "https://www.chess.com/game/live/5459959190"
+    },
+    "record": {
+      "win": 81,
+      "loss": 94,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2325,
+      "date": 1756845690,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2407,
+      "date": 1732055863,
+      "game": "https://www.chess.com/game/live/87060694833"
+    },
+    "record": {
+      "win": 299,
+      "loss": 308,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2399,
+      "date": 1755983271
+    },
+    "lowest": {
+      "rating": 2117,
+      "date": 1756201657
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

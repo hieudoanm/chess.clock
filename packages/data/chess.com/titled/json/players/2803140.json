@@ -1,0 +1,98 @@
+{
+  "player_id": 2803140,
+  "@id": "https://api.chess.com/pub/player/aunqa",
+  "url": "https://www.chess.com/member/aunqa",
+  "name": "Lee Qing Aun",
+  "username": "aunqa",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/SG",
+  "last_online": 1776592625,
+  "joined": 1273065056,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1596708533,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 243,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2047,
+      "date": 1747625254,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1596788384,
+      "game": "https://www.chess.com/game/live/5300802376"
+    },
+    "record": {
+      "win": 14,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2517,
+      "date": 1773665534,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2596,
+      "date": 1690388469,
+      "game": "https://www.chess.com/game/live/74535251519"
+    },
+    "record": {
+      "win": 224,
+      "loss": 189,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2725,
+      "date": 1776593398,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2769,
+      "date": 1770430899,
+      "game": "https://www.chess.com/game/live/154166797119"
+    },
+    "record": {
+      "win": 428,
+      "loss": 362,
+      "draw": 61
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2534,
+      "date": 1756382795
+    },
+    "lowest": {
+      "rating": 2275,
+      "date": 1760680028
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/123188160.78fa4b25.200x200o.2ed520114964.png",
+  "player_id": 123188160,
+  "@id": "https://api.chess.com/pub/player/chessplant300",
+  "url": "https://www.chess.com/member/ChessPlant300",
+  "name": "Aaron Wang",
+  "username": "chessplant300",
+  "title": "NM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776556642,
+  "joined": 1614019742,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1132,
+      "date": 1765734880,
+      "rd": 244
+    },
+    "best": {
+      "rating": 1132,
+      "date": 1723307951,
+      "game": "https://www.chess.com/game/daily/503655621"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9216,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2019,
+      "date": 1757944083,
+      "rd": 64
+    },
+    "best": {
+      "rating": 1791,
+      "date": 1674002472,
+      "game": "https://www.chess.com/game/live/67740129391"
+    },
+    "record": {
+      "win": 71,
+      "loss": 26,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2019,
+      "date": 1757944083,
+      "rd": 42
+    },
+    "best": {
+      "rating": 1207,
+      "date": 1647130720,
+      "game": "https://www.chess.com/game/live/39105617071"
+    },
+    "record": {
+      "win": 81,
+      "loss": 41,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2378,
+      "date": 1776475587,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1774482862,
+      "game": "https://www.chess.com/game/live/166391849366"
+    },
+    "record": {
+      "win": 255,
+      "loss": 166,
+      "draw": 36
+    }
+  },
+  "fide": 2019,
+  "tactics": {
+    "highest": {
+      "rating": 2678,
+      "date": 1761493355
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1760055488
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

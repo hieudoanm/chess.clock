@@ -1,0 +1,66 @@
+{
+  "player_id": 279836377,
+  "@id": "https://api.chess.com/pub/player/unknown1soldier",
+  "url": "https://www.chess.com/member/unknown1soldier",
+  "username": "unknown1soldier",
+  "title": "GM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/MV",
+  "last_online": 1776353861,
+  "joined": 1682620064,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3062,
+      "date": 1748112392,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3177,
+      "date": 1683116102,
+      "game": "https://www.chess.com/game/live/77557914195"
+    },
+    "record": {
+      "win": 166,
+      "loss": 56,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3035,
+      "date": 1748124743,
+      "rd": 45
+    },
+    "best": {
+      "rating": 3134,
+      "date": 1684528859,
+      "game": "https://www.chess.com/game/live/78077440921"
+    },
+    "record": {
+      "win": 328,
+      "loss": 69,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2742,
+      "date": 1758119940
+    },
+    "lowest": {
+      "rating": 2028,
+      "date": 1758677401
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 46
+    }
+  }
+}

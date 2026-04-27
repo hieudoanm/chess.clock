@@ -1,0 +1,68 @@
+{
+    "player_id": 389925963,
+    "@id": "https://api.chess.com/pub/player/ow321",
+    "url": "https://www.chess.com/member/OW321",
+    "name": "Oscar Williams",
+    "username": "ow321",
+    "title": "NM",
+    "followers": 4,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1741702699,
+    "joined": 1726838365,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2725,
+            "date": 1741610171,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2791,
+            "date": 1737120650,
+            "game": "https://www.chess.com/game/live/130822229137"
+        },
+        "record": {
+            "win": 2717,
+            "loss": 2464,
+            "draw": 446
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2564,
+            "date": 1741611384,
+            "rd": 29
+        },
+        "best": {
+            "rating": 2691,
+            "date": 1734299153,
+            "game": "https://www.chess.com/game/live/127608044347"
+        },
+        "record": {
+            "win": 594,
+            "loss": 507,
+            "draw": 120
+        }
+    },
+    "fide": 2221,
+    "tactics": {
+        "highest": {
+            "rating": 2916,
+            "date": 1738882988
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1726838365
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

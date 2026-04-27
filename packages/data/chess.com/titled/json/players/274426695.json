@@ -1,0 +1,83 @@
+{
+  "player_id": 274426695,
+  "@id": "https://api.chess.com/pub/player/warblingyarbles",
+  "url": "https://www.chess.com/member/WarblingYarbles",
+  "username": "warblingyarbles",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776597064,
+  "joined": 1681360648,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2038,
+      "date": 1757499451,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2206,
+      "date": 1690434062,
+      "game": "https://www.chess.com/game/live/84172211655"
+    },
+    "record": {
+      "win": 13,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2784,
+      "date": 1776510600,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2854,
+      "date": 1770988929,
+      "game": "https://www.chess.com/game/live/165874658216"
+    },
+    "record": {
+      "win": 1234,
+      "loss": 828,
+      "draw": 93
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2717,
+      "date": 1776549845,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1774234050,
+      "game": "https://www.chess.com/game/live/165391540048"
+    },
+    "record": {
+      "win": 326,
+      "loss": 205,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2505,
+      "date": 1681360648
+    },
+    "lowest": {
+      "rating": 2505,
+      "date": 1681360648
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 41156184,
+  "@id": "https://api.chess.com/pub/player/azn2002",
+  "url": "https://www.chess.com/member/azn2002",
+  "name": "Andre Nielsen",
+  "username": "azn2002",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776426542,
+  "joined": 1512806581,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1776,
+      "date": 1748547499,
+      "rd": 123
+    },
+    "best": {
+      "rating": 1951,
+      "date": 1521308809,
+      "game": "https://www.chess.com/game/daily/255289394"
+    },
+    "record": {
+      "win": 42,
+      "loss": 17,
+      "draw": 2,
+      "time_per_move": 100234,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2260,
+      "date": 1774302169,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1609756920,
+      "game": "https://www.chess.com/game/live/6139358243"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1650647854,
+      "rd": 131
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1565039893,
+      "game": "https://www.chess.com/game/live/3922532329"
+    },
+    "record": {
+      "win": 687,
+      "loss": 510,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1772623660,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1766685668,
+      "game": "https://www.chess.com/game/live/111859969797"
+    },
+    "record": {
+      "win": 208,
+      "loss": 122,
+      "draw": 27
+    }
+  },
+  "fide": 2268,
+  "tactics": {
+    "highest": {
+      "rating": 2675,
+      "date": 1776334398
+    },
+    "lowest": {
+      "rating": 2438,
+      "date": 1757322436
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

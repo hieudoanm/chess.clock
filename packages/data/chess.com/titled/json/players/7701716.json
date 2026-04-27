@@ -1,0 +1,84 @@
+{
+  "player_id": 7701716,
+  "@id": "https://api.chess.com/pub/player/iceworks",
+  "url": "https://www.chess.com/member/IceWorks",
+  "username": "iceworks",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776383856,
+  "joined": 1338117125,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2049,
+      "date": 1627258820,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1625220452,
+      "game": "https://www.chess.com/game/live/14212933989"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2101,
+      "date": 1639286531,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1615457543,
+      "game": "https://www.chess.com/game/live/18956748501"
+    },
+    "record": {
+      "win": 4143,
+      "loss": 3690,
+      "draw": 207
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1767395801,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1576305064,
+      "game": "https://www.chess.com/game/live/4595828967"
+    },
+    "record": {
+      "win": 1890,
+      "loss": 1493,
+      "draw": 151
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1771912303
+    },
+    "lowest": {
+      "rating": 2500,
+      "date": 1771912303
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 30
+    }
+  }
+}

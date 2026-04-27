@@ -1,0 +1,99 @@
+{
+  "player_id": 38269400,
+  "@id": "https://api.chess.com/pub/player/agrigo3",
+  "url": "https://www.chess.com/member/agrigo3",
+  "name": "Angela Dragomirescu",
+  "username": "agrigo3",
+  "title": "WIM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776543290,
+  "joined": 1504209180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 738,
+      "date": 1717696257,
+      "rd": 289
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 92429,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1602,
+      "date": 1702667450,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1591026516,
+      "game": "https://www.chess.com/game/live/4938007084"
+    },
+    "record": {
+      "win": 39,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2030,
+      "date": 1606846358,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1589616381,
+      "game": "https://www.chess.com/game/live/4901672217"
+    },
+    "record": {
+      "win": 46,
+      "loss": 46,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2150,
+      "date": 1649621138,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1585842261,
+      "game": "https://www.chess.com/game/live/4814954729"
+    },
+    "record": {
+      "win": 976,
+      "loss": 748,
+      "draw": 231
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2396,
+      "date": 1504209180
+    },
+    "lowest": {
+      "rating": 2396,
+      "date": 1504209180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

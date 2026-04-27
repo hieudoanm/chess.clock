@@ -1,0 +1,69 @@
+{
+  "player_id": 20402624,
+  "@id": "https://api.chess.com/pub/player/glufs",
+  "url": "https://www.chess.com/member/Glufs",
+  "name": "Anders Livner",
+  "username": "glufs",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Stockholm",
+  "last_online": 1774034303,
+  "joined": 1419942136,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2271,
+      "date": 1702930492,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1667327725,
+      "game": "https://www.chess.com/game/live/88797731927"
+    },
+    "record": {
+      "win": 51,
+      "loss": 41,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2319,
+      "date": 1772561551,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1768321984,
+      "game": "https://www.chess.com/game/live/162635222557"
+    },
+    "record": {
+      "win": 181,
+      "loss": 104,
+      "draw": 26
+    }
+  },
+  "fide": 2361,
+  "tactics": {
+    "highest": {
+      "rating": 2490,
+      "date": 1419942136
+    },
+    "lowest": {
+      "rating": 2490,
+      "date": 1419942136
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 38
+    }
+  }
+}

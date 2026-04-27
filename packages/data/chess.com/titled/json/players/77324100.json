@@ -1,0 +1,85 @@
+{
+  "player_id": 77324100,
+  "@id": "https://api.chess.com/pub/player/kingtsay88",
+  "url": "https://www.chess.com/member/KingTsay88",
+  "name": "Vincent Tsay",
+  "username": "kingtsay88",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1645378609,
+  "joined": 1587412283,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1607894681,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1588522713,
+      "game": "https://www.chess.com/game/live/5957289542"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2024,
+      "date": 1593887198,
+      "rd": 37
+    },
+    "best": {
+      "rating": 1962,
+      "date": 1589583848,
+      "game": "https://www.chess.com/game/live/4888068208"
+    },
+    "record": {
+      "win": 68,
+      "loss": 40,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2286,
+      "date": 1596656541,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1587851490,
+      "game": "https://www.chess.com/game/live/4772672206"
+    },
+    "record": {
+      "win": 150,
+      "loss": 119,
+      "draw": 26
+    }
+  },
+  "fide": 2407,
+  "tactics": {
+    "highest": {
+      "rating": 2168,
+      "date": 1587412283
+    },
+    "lowest": {
+      "rating": 2168,
+      "date": 1587412283
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

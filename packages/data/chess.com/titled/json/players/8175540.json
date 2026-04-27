@@ -1,0 +1,85 @@
+{
+  "player_id": 8175540,
+  "@id": "https://api.chess.com/pub/player/neuguenzburg",
+  "url": "https://www.chess.com/member/Neuguenzburg",
+  "name": "Harald Keilhack",
+  "username": "neuguenzburg",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Eberdingen",
+  "last_online": 1776595742,
+  "joined": 1342109871,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2388,
+      "date": 1701467922,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1701467922,
+      "game": "https://www.chess.com/game/live/94654221695"
+    },
+    "record": {
+      "win": 131,
+      "loss": 39,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2394,
+      "date": 1346636280,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2244,
+      "date": 1346536054,
+      "game": "https://www.chess.com/game/live/352429302"
+    },
+    "record": {
+      "win": 119,
+      "loss": 36,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2525,
+      "date": 1775318434,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1775089096,
+      "game": "https://www.chess.com/game/live/166744104874"
+    },
+    "record": {
+      "win": 394,
+      "loss": 218,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2526,
+      "date": 1775037694
+    },
+    "lowest": {
+      "rating": 2077,
+      "date": 1765145789
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

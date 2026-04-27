@@ -1,0 +1,104 @@
+{
+  "player_id": 97268442,
+  "@id": "https://api.chess.com/pub/player/manumunoz01",
+  "url": "https://www.chess.com/member/ManuMunoz01",
+  "name": "Manuel Pelaez",
+  "username": "manumunoz01",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776368725,
+  "joined": 1605556184,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1610,
+      "date": 1692803204,
+      "rd": 341
+    },
+    "best": {
+      "rating": 1610,
+      "date": 1605820203,
+      "game": "https://www.chess.com/game/daily/287430738"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2829,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1714071397,
+      "rd": 312
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1690842296,
+      "game": "https://www.chess.com/game/live/5758492882"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2046,
+      "date": 1773871173,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1713799135,
+      "game": "https://www.chess.com/game/live/87242497153"
+    },
+    "record": {
+      "win": 174,
+      "loss": 92,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2330,
+      "date": 1776194342,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1749586443,
+      "game": "https://www.chess.com/game/live/139556201446"
+    },
+    "record": {
+      "win": 288,
+      "loss": 217,
+      "draw": 77
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2343,
+      "date": 1759674063
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1765568350
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

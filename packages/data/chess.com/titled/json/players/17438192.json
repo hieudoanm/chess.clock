@@ -1,0 +1,86 @@
+{
+  "player_id": 17438192,
+  "@id": "https://api.chess.com/pub/player/candidate_master",
+  "url": "https://www.chess.com/member/Candidate_Master",
+  "username": "candidate_master",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776584055,
+  "joined": 1401048108,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1825,
+      "date": 1746025936,
+      "rd": 176
+    },
+    "best": {
+      "rating": 1942,
+      "date": 1608723526,
+      "game": "https://www.chess.com/game/daily/116342928"
+    },
+    "record": {
+      "win": 19,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 22177,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2310,
+      "date": 1775251211,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1494280426,
+      "game": "https://www.chess.com/game/live/1963250646"
+    },
+    "record": {
+      "win": 8071,
+      "loss": 6496,
+      "draw": 667
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1776583641,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1775739270,
+      "game": "https://www.chess.com/game/live/164717296958"
+    },
+    "record": {
+      "win": 309,
+      "loss": 180,
+      "draw": 37
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2586,
+      "date": 1758101658
+    },
+    "lowest": {
+      "rating": 2529,
+      "date": 1769719384
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

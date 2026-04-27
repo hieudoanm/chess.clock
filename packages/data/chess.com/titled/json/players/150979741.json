@@ -1,0 +1,105 @@
+{
+  "player_id": 150979741,
+  "@id": "https://api.chess.com/pub/player/vmulay",
+  "url": "https://www.chess.com/member/vmulay",
+  "name": "Vivan Mulay",
+  "username": "vmulay",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Andromeda",
+  "last_online": 1776550356,
+  "joined": 1628843208,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1494,
+      "date": 1771935061,
+      "rd": 69
+    },
+    "best": {
+      "rating": 1506,
+      "date": 1674656606,
+      "game": "https://www.chess.com/game/daily/460217163"
+    },
+    "record": {
+      "win": 24,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 14021,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2111,
+      "date": 1771808876,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1771808876,
+      "game": "https://www.chess.com/game/live/72465848069"
+    },
+    "record": {
+      "win": 594,
+      "loss": 463,
+      "draw": 53
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2084,
+      "date": 1764601083,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1339,
+      "date": 1684835916,
+      "game": "https://www.chess.com/game/live/52429884507"
+    },
+    "record": {
+      "win": 106,
+      "loss": 72,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1775581548,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1773770472,
+      "game": "https://www.chess.com/game/live/168078619049"
+    },
+    "record": {
+      "win": 393,
+      "loss": 275,
+      "draw": 37
+    }
+  },
+  "fide": 2240,
+  "tactics": {
+    "highest": {
+      "rating": 2594,
+      "date": 1775997960
+    },
+    "lowest": {
+      "rating": 915,
+      "date": 1768869182
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

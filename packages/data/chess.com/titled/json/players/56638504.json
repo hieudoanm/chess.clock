@@ -1,0 +1,85 @@
+{
+  "player_id": 56638504,
+  "@id": "https://api.chess.com/pub/player/shoorly",
+  "url": "https://www.chess.com/member/Shoorly",
+  "name": "Georg Froewis",
+  "username": "shoorly",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Wien",
+  "last_online": 1776274116,
+  "joined": 1548690046,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2096,
+      "date": 1630758612,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1630758612,
+      "game": "https://www.chess.com/game/live/24495719533"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1753024792,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1668633206,
+      "game": "https://www.chess.com/game/live/5724192382"
+    },
+    "record": {
+      "win": 390,
+      "loss": 355,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2632,
+      "date": 1733074014,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2741,
+      "date": 1585495872,
+      "game": "https://www.chess.com/game/live/4564289083"
+    },
+    "record": {
+      "win": 121,
+      "loss": 89,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2506,
+      "date": 1757425246
+    },
+    "lowest": {
+      "rating": 2415,
+      "date": 1757334817
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

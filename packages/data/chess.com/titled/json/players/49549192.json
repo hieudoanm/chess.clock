@@ -1,0 +1,104 @@
+{
+  "player_id": 49549192,
+  "@id": "https://api.chess.com/pub/player/barbix1",
+  "url": "https://www.chess.com/member/Barbix1",
+  "name": "Pierre Barbot",
+  "username": "barbix1",
+  "title": "IM",
+  "followers": 82,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776090215,
+  "joined": 1536416806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2109,
+      "date": 1748918300,
+      "rd": 253
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1699090351,
+      "game": "https://www.chess.com/game/daily/463465801"
+    },
+    "record": {
+      "win": 19,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15394,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1965,
+      "date": 1759948016,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1617477432,
+      "game": "https://www.chess.com/game/live/11215462537"
+    },
+    "record": {
+      "win": 13,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2798,
+      "date": 1769280271,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2861,
+      "date": 1698267262,
+      "game": "https://www.chess.com/game/live/92005204355"
+    },
+    "record": {
+      "win": 50,
+      "loss": 23,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1753198899,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1541168340,
+      "game": "https://www.chess.com/game/live/10489620059"
+    },
+    "record": {
+      "win": 1021,
+      "loss": 785,
+      "draw": 211
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1735,
+      "date": 1536416806
+    },
+    "lowest": {
+      "rating": 1735,
+      "date": 1536416806
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

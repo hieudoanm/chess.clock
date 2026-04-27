@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3961245.f1ded560.200x200o.0333df9acf3c.jpg",
+  "player_id": 3961245,
+  "@id": "https://api.chess.com/pub/player/carokantor",
+  "url": "https://www.chess.com/member/carokantor",
+  "name": "Alan Kantor",
+  "username": "carokantor",
+  "title": "NM",
+  "followers": 172,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776564610,
+  "joined": 1284170391,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1399,
+      "date": 1776561590,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1361139057,
+      "game": "https://www.chess.com/game/daily/213357530"
+    },
+    "record": {
+      "win": 150,
+      "loss": 101,
+      "draw": 10,
+      "time_per_move": 39896,
+      "timeout_percent": 15
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1930,
+      "date": 1776561346,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2263,
+      "date": 1514501861,
+      "game": "https://www.chess.com/game/live/4961902555"
+    },
+    "record": {
+      "win": 318,
+      "loss": 207,
+      "draw": 33
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1769,
+      "date": 1736349589,
+      "rd": 225
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1644334607,
+      "game": "https://www.chess.com/game/live/38073565427"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1516,
+      "date": 1734581728,
+      "rd": 77
+    },
+    "best": {
+      "rating": 1842,
+      "date": 1525538832,
+      "game": "https://www.chess.com/game/live/82182584907"
+    },
+    "record": {
+      "win": 887,
+      "loss": 790,
+      "draw": 74
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1762,
+      "date": 1758800866
+    },
+    "lowest": {
+      "rating": 1534,
+      "date": 1774719203
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 17,
+      "score": 14
+    }
+  }
+}

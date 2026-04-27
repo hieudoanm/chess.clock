@@ -1,0 +1,99 @@
+{
+  "player_id": 144885703,
+  "@id": "https://api.chess.com/pub/player/keremilgaz",
+  "url": "https://www.chess.com/member/keremilgaz",
+  "name": "Yusuf Kerem Ilgaz",
+  "username": "keremilgaz",
+  "title": "CM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776435423,
+  "joined": 1623941105,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1513,
+      "date": 1758028590,
+      "rd": 236
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 179485,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2183,
+      "date": 1758028590,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1996,
+      "date": 1643980005,
+      "game": "https://www.chess.com/game/live/37718446231"
+    },
+    "record": {
+      "win": 18,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2495,
+      "date": 1766687683,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1758651992,
+      "game": "https://www.chess.com/game/live/143274904686"
+    },
+    "record": {
+      "win": 114,
+      "loss": 84,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2661,
+      "date": 1774325834,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1765989137,
+      "game": "https://www.chess.com/game/live/153578198237"
+    },
+    "record": {
+      "win": 1130,
+      "loss": 959,
+      "draw": 127
+    }
+  },
+  "fide": 2183,
+  "tactics": {
+    "highest": {
+      "rating": 2218,
+      "date": 1623941105
+    },
+    "lowest": {
+      "rating": 2218,
+      "date": 1623941105
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

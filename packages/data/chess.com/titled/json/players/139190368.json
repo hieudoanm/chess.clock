@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/139190368.033f77fc.200x200o.e165487e808a.png",
+  "player_id": 139190368,
+  "@id": "https://api.chess.com/pub/player/chessburger_tv",
+  "url": "https://www.chess.com/member/chessburger_tv",
+  "name": "Alessio Boraso",
+  "username": "chessburger_tv",
+  "title": "FM",
+  "followers": 4807,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Milano",
+  "last_online": 1776438552,
+  "joined": 1620386252,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessburger_tv",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessburger_tv"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2403,
+      "date": 1776417676,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1764684394,
+      "game": "https://www.chess.com/game/live/147971379862"
+    },
+    "record": {
+      "win": 1549,
+      "loss": 912,
+      "draw": 182
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2628,
+      "date": 1773436683,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1748716580,
+      "game": "https://www.chess.com/game/live/110820178719"
+    },
+    "record": {
+      "win": 1612,
+      "loss": 1054,
+      "draw": 149
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2512,
+      "date": 1770059321,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1738339026,
+      "game": "https://www.chess.com/game/live/130609890401"
+    },
+    "record": {
+      "win": 1065,
+      "loss": 615,
+      "draw": 130
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2770,
+      "date": 1775399900
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1760369063
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

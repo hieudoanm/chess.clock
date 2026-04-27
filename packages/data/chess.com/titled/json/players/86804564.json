@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86804564.dc4b585d.200x200o.0375ad00d0ce.jpg",
+  "player_id": 86804564,
+  "@id": "https://api.chess.com/pub/player/ipachess",
+  "url": "https://www.chess.com/member/IPAchess",
+  "name": "Joao Avalos",
+  "username": "ipachess",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/CL",
+  "location": "Iquique",
+  "last_online": 1776572382,
+  "joined": 1594865663,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1737560684,
+      "rd": 350
+    },
+    "record": {
+      "win": 4,
+      "loss": 18,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2448,
+      "date": 1770852743,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1770852743,
+      "game": "https://www.chess.com/game/live/82495941013"
+    },
+    "record": {
+      "win": 51,
+      "loss": 65,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1776490580,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1676316591,
+      "game": "https://www.chess.com/game/live/44120691619"
+    },
+    "record": {
+      "win": 4031,
+      "loss": 3708,
+      "draw": 416
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2555,
+      "date": 1768508489
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1768509205
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

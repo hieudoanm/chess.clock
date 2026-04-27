@@ -1,0 +1,84 @@
+{
+  "player_id": 83228152,
+  "@id": "https://api.chess.com/pub/player/chessyanchik",
+  "url": "https://www.chess.com/member/chessyanchik",
+  "name": "Yana Ilyuchyk",
+  "username": "chessyanchik",
+  "title": "WFM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1774981472,
+  "joined": 1592484500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2354,
+      "date": 1747080346,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1631101061,
+      "game": "https://www.chess.com/game/live/24236927675"
+    },
+    "record": {
+      "win": 14,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2262,
+      "date": 1592738185,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1592734967,
+      "game": "https://www.chess.com/game/live/5034684505"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2313,
+      "date": 1723474411,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1723468010,
+      "game": "https://www.chess.com/game/live/117206454555"
+    },
+    "record": {
+      "win": 37,
+      "loss": 37,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2411,
+      "date": 1592484500
+    },
+    "lowest": {
+      "rating": 2411,
+      "date": 1592484500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

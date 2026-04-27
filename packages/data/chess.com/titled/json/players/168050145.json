@@ -1,0 +1,104 @@
+{
+  "player_id": 168050145,
+  "@id": "https://api.chess.com/pub/player/appa-avatar",
+  "url": "https://www.chess.com/member/APPA-avatar",
+  "name": "Kamelia Chmielek",
+  "username": "appa-avatar",
+  "title": "WCM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1774732891,
+  "joined": 1641631595,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1557,
+      "date": 1752069986,
+      "rd": 151
+    },
+    "best": {
+      "rating": 1557,
+      "date": 1655312458,
+      "game": "https://www.chess.com/game/daily/398731593"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 20472,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1993,
+      "date": 1753810894,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1753809721,
+      "game": "https://www.chess.com/game/live/89999982163"
+    },
+    "record": {
+      "win": 78,
+      "loss": 23,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2041,
+      "date": 1774639178,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2065,
+      "date": 1774638872,
+      "game": "https://www.chess.com/game/live/166464342772"
+    },
+    "record": {
+      "win": 257,
+      "loss": 172,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2180,
+      "date": 1773688429,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1773687191,
+      "game": "https://www.chess.com/game/live/148116802501"
+    },
+    "record": {
+      "win": 109,
+      "loss": 59,
+      "draw": 9
+    }
+  },
+  "fide": 1929,
+  "tactics": {
+    "highest": {
+      "rating": 2350,
+      "date": 1758807300
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1758807265
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6388786.1018cbda.200x200o.0884db6d9cc3.jpeg",
+  "player_id": 6388786,
+  "@id": "https://api.chess.com/pub/player/londonkid",
+  "url": "https://www.chess.com/member/londonkid",
+  "username": "londonkid",
+  "title": "CM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776550307,
+  "joined": 1324947696,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1895,
+      "date": 1692617695,
+      "rd": 48
+    },
+    "best": {
+      "rating": 1882,
+      "date": 1645582646,
+      "game": "https://www.chess.com/game/daily/383558959"
+    },
+    "record": {
+      "win": 64,
+      "loss": 22,
+      "draw": 10,
+      "time_per_move": 6610,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2375,
+      "date": 1746229559,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1648769584,
+      "game": "https://www.chess.com/game/live/53113298097"
+    },
+    "record": {
+      "win": 240,
+      "loss": 143,
+      "draw": 61
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2766,
+      "date": 1776023624,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1771106483,
+      "game": "https://www.chess.com/game/live/132809953617"
+    },
+    "record": {
+      "win": 2214,
+      "loss": 2160,
+      "draw": 359
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2724,
+      "date": 1776022304,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2746,
+      "date": 1771036315,
+      "game": "https://www.chess.com/game/live/66522161923"
+    },
+    "record": {
+      "win": 5071,
+      "loss": 4702,
+      "draw": 1111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2728,
+      "date": 1324947696
+    },
+    "lowest": {
+      "rating": 2728,
+      "date": 1324947696
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    },
+    "daily": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

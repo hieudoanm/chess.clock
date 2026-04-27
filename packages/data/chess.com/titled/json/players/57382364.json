@@ -1,0 +1,84 @@
+{
+  "player_id": 57382364,
+  "@id": "https://api.chess.com/pub/player/orkan85",
+  "url": "https://www.chess.com/member/orkan85",
+  "name": "Oliver Kurmann",
+  "username": "orkan85",
+  "title": "IM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1767820356,
+  "joined": 1550221706,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1577,
+      "date": 1602348805,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1586623313,
+      "game": "https://www.chess.com/game/live/4888153680"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2606,
+      "date": 1767820961,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1666858646,
+      "game": "https://www.chess.com/game/live/60597546915"
+    },
+    "record": {
+      "win": 1884,
+      "loss": 1549,
+      "draw": 140
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2502,
+      "date": 1722260123,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1699840951,
+      "game": "https://www.chess.com/game/live/112794649697"
+    },
+    "record": {
+      "win": 923,
+      "loss": 730,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2607,
+      "date": 1550221706
+    },
+    "lowest": {
+      "rating": 2607,
+      "date": 1550221706
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

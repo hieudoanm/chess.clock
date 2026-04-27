@@ -1,0 +1,67 @@
+{
+  "player_id": 27411222,
+  "@id": "https://api.chess.com/pub/player/gmalsayed",
+  "url": "https://www.chess.com/member/gmalsayed",
+  "name": "Mohammed Alsayed",
+  "username": "gmalsayed",
+  "title": "GM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/QA",
+  "last_online": 1775232106,
+  "joined": 1458851279,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2792,
+      "date": 1732471302,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2929,
+      "date": 1677363976,
+      "game": "https://www.chess.com/game/live/110392337053"
+    },
+    "record": {
+      "win": 1204,
+      "loss": 701,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2915,
+      "date": 1766753402,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2939,
+      "date": 1714766053,
+      "game": "https://www.chess.com/game/live/110964656491"
+    },
+    "record": {
+      "win": 1101,
+      "loss": 768,
+      "draw": 140
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1759502503
+    },
+    "lowest": {
+      "rating": 1484,
+      "date": 1767724630
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

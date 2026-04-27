@@ -1,0 +1,85 @@
+{
+  "player_id": 30585274,
+  "@id": "https://api.chess.com/pub/player/pepekan",
+  "url": "https://www.chess.com/member/Pepekan",
+  "name": "Pepe Kan",
+  "username": "pepekan",
+  "title": "IM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Madrid",
+  "last_online": 1776583397,
+  "joined": 1477423034,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2313,
+      "date": 1759697982,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1641422949,
+      "game": "https://www.chess.com/game/live/59767315259"
+    },
+    "record": {
+      "win": 295,
+      "loss": 182,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2334,
+      "date": 1774434839,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1773576572,
+      "game": "https://www.chess.com/game/live/44618431239"
+    },
+    "record": {
+      "win": 524,
+      "loss": 157,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2472,
+      "date": 1773492725,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1637240427,
+      "game": "https://www.chess.com/game/live/51532778595"
+    },
+    "record": {
+      "win": 1742,
+      "loss": 703,
+      "draw": 247
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2698,
+      "date": 1776513632
+    },
+    "lowest": {
+      "rating": 2430,
+      "date": 1770796368
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

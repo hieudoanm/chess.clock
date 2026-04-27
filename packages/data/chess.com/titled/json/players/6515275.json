@@ -1,0 +1,103 @@
+{
+  "player_id": 6515275,
+  "@id": "https://api.chess.com/pub/player/mfcampeao",
+  "url": "https://www.chess.com/member/mfcampeao",
+  "username": "mfcampeao",
+  "title": "NM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776499857,
+  "joined": 1326842777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1189,
+      "date": 1774869868,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1326842777,
+      "game": "https://www.chess.com/game/daily/910391567"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 29411,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1929,
+      "date": 1738723359,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1977,
+      "date": 1599088956,
+      "game": "https://www.chess.com/game/live/21491959633"
+    },
+    "record": {
+      "win": 10,
+      "loss": 22,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2141,
+      "date": 1618225507,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1617221531,
+      "game": "https://www.chess.com/game/live/3927188720"
+    },
+    "record": {
+      "win": 38,
+      "loss": 44,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2181,
+      "date": 1774921556,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1618189442,
+      "game": "https://www.chess.com/game/live/11927635993"
+    },
+    "record": {
+      "win": 1930,
+      "loss": 1531,
+      "draw": 174
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2087,
+      "date": 1762140234
+    },
+    "lowest": {
+      "rating": 1878,
+      "date": 1764545946
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 26
+    }
+  }
+}

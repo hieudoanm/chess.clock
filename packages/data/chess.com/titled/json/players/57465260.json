@@ -1,0 +1,102 @@
+{
+  "player_id": 57465260,
+  "@id": "https://api.chess.com/pub/player/chess_brilliant",
+  "url": "https://www.chess.com/member/chess_brilliant",
+  "username": "chess_brilliant",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1588739505,
+  "joined": 1550396246,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1987,
+      "date": 1620548916,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1987,
+      "date": 1588938001,
+      "game": "https://www.chess.com/game/daily/257532026"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 72469,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1840,
+      "date": 1585071525,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2130,
+      "date": 1572525467,
+      "game": "https://www.chess.com/game/live/4579331659"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2415,
+      "date": 1583829988,
+      "rd": 288
+    },
+    "best": {
+      "rating": 2265,
+      "date": 1579536903,
+      "game": "https://www.chess.com/game/live/4417705343"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2020,
+      "date": 1588765921,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1550436267,
+      "game": "https://www.chess.com/game/live/3467696567"
+    },
+    "record": {
+      "win": 178,
+      "loss": 183,
+      "draw": 47
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2050,
+      "date": 1550396246
+    },
+    "lowest": {
+      "rating": 2050,
+      "date": 1550396246
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 191745523,
+  "@id": "https://api.chess.com/pub/player/dnxcc64",
+  "url": "https://www.chess.com/member/dnxcc64",
+  "username": "dnxcc64",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776591672,
+  "joined": 1659233882,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2540,
+      "date": 1776501862,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2697,
+      "date": 1768615290,
+      "game": "https://www.chess.com/game/live/147902967674"
+    },
+    "record": {
+      "win": 1212,
+      "loss": 515,
+      "draw": 133
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2317,
+      "date": 1757754118,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2336,
+      "date": 1752319059,
+      "game": "https://www.chess.com/game/live/142623265950"
+    },
+    "record": {
+      "win": 54,
+      "loss": 26,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2476,
+      "date": 1766208007,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1752234820,
+      "game": "https://www.chess.com/game/live/142307809944"
+    },
+    "record": {
+      "win": 139,
+      "loss": 96,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1054,
+      "date": 1761212802
+    },
+    "lowest": {
+      "rating": 1054,
+      "date": 1761212802
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

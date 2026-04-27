@@ -1,0 +1,84 @@
+{
+  "player_id": 7740394,
+  "@id": "https://api.chess.com/pub/player/chipmunknau",
+  "url": "https://www.chess.com/member/chipmunknau",
+  "name": "Quang Long Le",
+  "username": "chipmunknau",
+  "title": "IM",
+  "followers": 291,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1775786796,
+  "joined": 1338442220,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2104,
+      "date": 1737416825,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2170,
+      "date": 1609700475,
+      "game": "https://www.chess.com/game/live/131155153365"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2773,
+      "date": 1748929615,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2781,
+      "date": 1748929366,
+      "game": "https://www.chess.com/game/live/36751815903"
+    },
+    "record": {
+      "win": 2222,
+      "loss": 1749,
+      "draw": 191
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2777,
+      "date": 1775786772,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2790,
+      "date": 1704261528,
+      "game": "https://www.chess.com/game/live/129422608283"
+    },
+    "record": {
+      "win": 3315,
+      "loss": 2926,
+      "draw": 402
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2246,
+      "date": 1769383061
+    },
+    "lowest": {
+      "rating": 2028,
+      "date": 1769383525
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

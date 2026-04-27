@@ -1,0 +1,103 @@
+{
+  "player_id": 61193584,
+  "@id": "https://api.chess.com/pub/player/chessintuit",
+  "url": "https://www.chess.com/member/chessintuit",
+  "name": "Balaji Daggupati",
+  "username": "chessintuit",
+  "title": "GM",
+  "followers": 393,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776538378,
+  "joined": 1558309191,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1941,
+      "date": 1708207363,
+      "rd": 226
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1585859738,
+      "game": "https://www.chess.com/game/daily/253273132"
+    },
+    "record": {
+      "win": 9,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 33638,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2431,
+      "date": 1774812598,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1606693109,
+      "game": "https://www.chess.com/game/live/5850284205"
+    },
+    "record": {
+      "win": 39,
+      "loss": 25,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2679,
+      "date": 1698528553,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1675315228,
+      "game": "https://www.chess.com/game/live/69056592891"
+    },
+    "record": {
+      "win": 61,
+      "loss": 70,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2905,
+      "date": 1776538232,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2972,
+      "date": 1771973036,
+      "game": "https://www.chess.com/game/live/5001198676"
+    },
+    "record": {
+      "win": 1332,
+      "loss": 1562,
+      "draw": 267
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2598,
+      "date": 1558309191
+    },
+    "lowest": {
+      "rating": 2598,
+      "date": 1558309191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

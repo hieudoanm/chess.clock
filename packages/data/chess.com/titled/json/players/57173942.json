@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57173942.3b215660.200x200o.15eae400a02d.jpg",
+  "player_id": 57173942,
+  "@id": "https://api.chess.com/pub/player/andrei_belozerov",
+  "url": "https://www.chess.com/member/Andrei_Belozerov",
+  "name": "Andrei Belozerov",
+  "username": "andrei_belozerov",
+  "title": "GM",
+  "followers": 364,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Novosibirsk",
+  "last_online": 1776549615,
+  "joined": 1549777389,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2377,
+      "date": 1729585754,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1654158486,
+      "game": "https://www.chess.com/game/daily/237554170"
+    },
+    "record": {
+      "win": 4102,
+      "loss": 195,
+      "draw": 588,
+      "time_per_move": 14198,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2040,
+      "date": 1607281109,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2068,
+      "date": 1607067157,
+      "game": "https://www.chess.com/game/daily/289961320"
+    },
+    "record": {
+      "win": 48,
+      "loss": 4,
+      "draw": 2,
+      "time_per_move": 14198,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2443,
+      "date": 1735461808,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1590775263,
+      "game": "https://www.chess.com/game/live/4924804326"
+    },
+    "record": {
+      "win": 262,
+      "loss": 37,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2378,
+      "date": 1753933386,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1621228997,
+      "game": "https://www.chess.com/game/live/3590684580"
+    },
+    "record": {
+      "win": 362,
+      "loss": 91,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2796,
+      "date": 1776340867,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1756236931,
+      "game": "https://www.chess.com/game/live/75149574871"
+    },
+    "record": {
+      "win": 1852,
+      "loss": 1102,
+      "draw": 337
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2858,
+      "date": 1771604813
+    },
+    "lowest": {
+      "rating": 2546,
+      "date": 1760094274
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

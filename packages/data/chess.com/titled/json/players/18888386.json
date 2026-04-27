@@ -1,0 +1,85 @@
+{
+  "player_id": 18888386,
+  "@id": "https://api.chess.com/pub/player/hurghada",
+  "url": "https://www.chess.com/member/Hurghada",
+  "name": "Roger Derichs",
+  "username": "hurghada",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Berlin",
+  "last_online": 1776595357,
+  "joined": 1410636294,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1526,
+      "date": 1688230931,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1526,
+      "date": 1688230931,
+      "game": "https://www.chess.com/game/live/81969559743"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2521,
+      "date": 1775314637,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1714828244,
+      "game": "https://www.chess.com/game/live/164426045192"
+    },
+    "record": {
+      "win": 668,
+      "loss": 543,
+      "draw": 91
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2456,
+      "date": 1776596375,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2575,
+      "date": 1764092235,
+      "game": "https://www.chess.com/game/live/120223239293"
+    },
+    "record": {
+      "win": 3454,
+      "loss": 2646,
+      "draw": 652
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2438,
+      "date": 1764844664
+    },
+    "lowest": {
+      "rating": 2215,
+      "date": 1762097387
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 41
+    }
+  }
+}

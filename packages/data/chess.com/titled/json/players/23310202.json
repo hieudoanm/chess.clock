@@ -1,0 +1,64 @@
+{
+  "player_id": 23310202,
+  "@id": "https://api.chess.com/pub/player/hakki1",
+  "url": "https://www.chess.com/member/hakki1",
+  "name": "Karl Thorsteins",
+  "username": "hakki1",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Reykjavik",
+  "last_online": 1776546068,
+  "joined": 1437340374,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1573,
+      "date": 1656024780,
+      "rd": 184
+    },
+    "best": {
+      "rating": 1573,
+      "date": 1656024780,
+      "game": "https://www.chess.com/game/live/49762821779"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1775949669,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1774891222,
+      "game": "https://www.chess.com/game/live/4721929428"
+    },
+    "record": {
+      "win": 860,
+      "loss": 607,
+      "draw": 173
+    }
+  },
+  "fide": 2430,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1437340374
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1437340374
+    }
+  },
+  "puzzle_rush": {}
+}

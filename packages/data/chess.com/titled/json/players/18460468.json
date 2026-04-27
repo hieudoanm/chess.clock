@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18460468.8913f531.200x200o.794c404dbff2.jpg",
+  "player_id": 18460468,
+  "@id": "https://api.chess.com/pub/player/roelandpruijssers",
+  "url": "https://www.chess.com/member/RoelandPruijssers",
+  "name": "Roeland Pruijssers",
+  "username": "roelandpruijssers",
+  "title": "GM",
+  "followers": 1120,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776591493,
+  "joined": 1407839024,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gm_roeland",
+  "verified": false,
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gm_roeland"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1455,
+      "date": 1776530850,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1407839024,
+      "game": "https://www.chess.com/game/daily/904244989"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 33186,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2437,
+      "date": 1773254843,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2770,
+      "date": 1611439232,
+      "game": "https://www.chess.com/game/live/16027484793"
+    },
+    "record": {
+      "win": 17,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2565,
+      "date": 1718805161,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1717424008,
+      "game": "https://www.chess.com/game/live/111158449257"
+    },
+    "record": {
+      "win": 150,
+      "loss": 124,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2696,
+      "date": 1770135500,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2799,
+      "date": 1714129442,
+      "game": "https://www.chess.com/game/live/4284906592"
+    },
+    "record": {
+      "win": 1337,
+      "loss": 898,
+      "draw": 216
+    }
+  },
+  "fide": 2537,
+  "tactics": {
+    "highest": {
+      "rating": 2629,
+      "date": 1767861624
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1774259726
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

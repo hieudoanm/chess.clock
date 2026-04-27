@@ -1,0 +1,142 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36197178.36cf2fcd.200x200o.49a898168039.png",
+  "player_id": 36197178,
+  "@id": "https://api.chess.com/pub/player/keithonsky",
+  "url": "https://www.chess.com/member/Keithonsky",
+  "name": "Keith Jeffrey Khumalo",
+  "username": "keithonsky",
+  "title": "CM",
+  "followers": 2086,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776546162,
+  "joined": 1497081633,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/keithonsky",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/keithonsky"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1885,
+      "date": 1776545460,
+      "rd": 122
+    },
+    "best": {
+      "rating": 1997,
+      "date": 1776193661,
+      "game": "https://www.chess.com/game/daily/213101134"
+    },
+    "record": {
+      "win": 465,
+      "loss": 397,
+      "draw": 89,
+      "time_per_move": 6723,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1551,
+      "date": 1563098087,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1722,
+      "date": 1527627168,
+      "game": "https://www.chess.com/game/daily/194102892"
+    },
+    "record": {
+      "win": 45,
+      "loss": 34,
+      "draw": 2,
+      "time_per_move": 6723,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2175,
+      "date": 1769006225,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2363,
+      "date": 1549579184,
+      "game": "https://www.chess.com/game/live/24510154817"
+    },
+    "record": {
+      "win": 47,
+      "loss": 16,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2738,
+      "date": 1774454897,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2868,
+      "date": 1750367822,
+      "game": "https://www.chess.com/game/live/142423213151"
+    },
+    "record": {
+      "win": 5702,
+      "loss": 6733,
+      "draw": 577
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2673,
+      "date": 1775984015,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1770634860,
+      "game": "https://www.chess.com/game/live/96747104339"
+    },
+    "record": {
+      "win": 7031,
+      "loss": 7291,
+      "draw": 989
+    }
+  },
+  "fide": 2179,
+  "tactics": {
+    "highest": {
+      "rating": 2529,
+      "date": 1773393438
+    },
+    "lowest": {
+      "rating": 2487,
+      "date": 1760097825
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

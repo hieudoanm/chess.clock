@@ -1,0 +1,67 @@
+{
+  "player_id": 413566709,
+  "@id": "https://api.chess.com/pub/player/handplay01",
+  "url": "https://www.chess.com/member/handplay01",
+  "username": "handplay01",
+  "title": "GM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775908627,
+  "joined": 1735493092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3109,
+      "date": 1762409642,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3109,
+      "date": 1762409642,
+      "game": "https://www.chess.com/game/live/144961527060"
+    },
+    "record": {
+      "win": 70,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3201,
+      "date": 1771111534,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3343,
+      "date": 1763490719,
+      "game": "https://www.chess.com/game/live/146754935934"
+    },
+    "record": {
+      "win": 428,
+      "loss": 228,
+      "draw": 83
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1735493092
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1735493092
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 84,
+      "score": 81
+    }
+  }
+}

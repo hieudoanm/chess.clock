@@ -1,0 +1,61 @@
+{
+  "player_id": 369832525,
+  "@id": "https://api.chess.com/pub/player/seoulserenity",
+  "url": "https://www.chess.com/member/SeoulSerenity",
+  "username": "seoulserenity",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/KR",
+  "last_online": 1776338024,
+  "joined": 1718456670,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2711,
+      "date": 1768576895,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2766,
+      "date": 1768574584,
+      "game": "https://www.chess.com/game/live/148087698854"
+    },
+    "record": {
+      "win": 148,
+      "loss": 71,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1770741199,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2579,
+      "date": 1770738902,
+      "game": "https://www.chess.com/game/live/164499637882"
+    },
+    "record": {
+      "win": 327,
+      "loss": 168,
+      "draw": 78
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1718456670
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1718456670
+    }
+  },
+  "puzzle_rush": {}
+}

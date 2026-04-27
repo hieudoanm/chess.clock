@@ -1,0 +1,67 @@
+{
+  "player_id": 321597829,
+  "@id": "https://api.chess.com/pub/player/arlo2024",
+  "url": "https://www.chess.com/member/Arlo2024",
+  "name": "Torben S\u00f8raas",
+  "username": "arlo2024",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776368726,
+  "joined": 1698156736,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2429,
+      "date": 1722674554
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1722673264,
+      "game": "https://www.chess.com/game/live/115983043865"
+    },
+    "record": {
+      "win": 122,
+      "loss": 98,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2457,
+      "date": 1767723166,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1767717698,
+      "game": "https://www.chess.com/game/live/158400452487"
+    },
+    "record": {
+      "win": 432,
+      "loss": 506,
+      "draw": 99
+    }
+  },
+  "fide": 2121,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1698156736
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1698156736
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 419929705,
+  "@id": "https://api.chess.com/pub/player/eternalimprover",
+  "url": "https://www.chess.com/member/EternalImprover",
+  "username": "eternalimprover",
+  "title": "GM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776586041,
+  "joined": 1737576806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3002,
+      "date": 1773055858,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1773055383,
+      "game": "https://www.chess.com/game/live/165416159766"
+    },
+    "record": {
+      "win": 137,
+      "loss": 64,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2925,
+      "date": 1773384175,
+      "rd": 40
+    },
+    "best": {
+      "rating": 3032,
+      "date": 1752590423,
+      "game": "https://www.chess.com/game/live/133438164041"
+    },
+    "record": {
+      "win": 233,
+      "loss": 201,
+      "draw": 45
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2681,
+      "date": 1772795032
+    },
+    "lowest": {
+      "rating": 2170,
+      "date": 1762513469
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

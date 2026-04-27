@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55286594.a20322fd.200x200o.58bf3b7667f6.jpg",
+  "player_id": 55286594,
+  "@id": "https://api.chess.com/pub/player/jehubner",
+  "url": "https://www.chess.com/member/JEHUBNER",
+  "name": "J\u00e9ssica Trindade Hubner",
+  "username": "jehubner",
+  "title": "WNM",
+  "followers": 872,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Rio de Janeiro",
+  "last_online": 1776558459,
+  "joined": 1546127772,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/queenofpatif",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/queenofpatif"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1994,
+      "date": 1718010742,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2015,
+      "date": 1665424145,
+      "game": "https://www.chess.com/game/daily/418384769"
+    },
+    "record": {
+      "win": 8,
+      "loss": 6,
+      "draw": 4,
+      "time_per_move": 8972,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2101,
+      "date": 1753589762,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2159,
+      "date": 1748919405,
+      "game": "https://www.chess.com/game/live/65935878105"
+    },
+    "record": {
+      "win": 619,
+      "loss": 609,
+      "draw": 133
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2101,
+      "date": 1761860193,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1752725524,
+      "game": "https://www.chess.com/game/live/56522402627"
+    },
+    "record": {
+      "win": 6673,
+      "loss": 7361,
+      "draw": 691
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2073,
+      "date": 1776558418,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2181,
+      "date": 1754835897,
+      "game": "https://www.chess.com/game/live/144978840320"
+    },
+    "record": {
+      "win": 6814,
+      "loss": 7274,
+      "draw": 881
+    }
+  },
+  "fide": 1845,
+  "tactics": {
+    "highest": {
+      "rating": 2134,
+      "date": 1764162931
+    },
+    "lowest": {
+      "rating": 1949,
+      "date": 1764163581
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

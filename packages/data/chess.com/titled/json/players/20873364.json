@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20873364.de1f80fd.200x200o.2a3c49f5ca25.png",
+  "player_id": 20873364,
+  "@id": "https://api.chess.com/pub/player/vojtap",
+  "url": "https://www.chess.com/member/Vojtap",
+  "name": "Vojtech Parizek",
+  "username": "vojtap",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1775980732,
+  "joined": 1422695402,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1540,
+      "date": 1718353716,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1540,
+      "date": 1686759181,
+      "game": "https://www.chess.com/game/daily/524481463"
+    },
+    "record": {
+      "win": 16,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10558,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2387,
+      "date": 1736863404,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1685644274,
+      "game": "https://www.chess.com/game/live/79382077693"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1882,
+      "date": 1685620798,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1681294471,
+      "game": "https://www.chess.com/game/live/79357981103"
+    },
+    "record": {
+      "win": 11,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2203,
+      "date": 1773313163,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2330,
+      "date": 1717530532,
+      "game": "https://www.chess.com/game/live/131237948485"
+    },
+    "record": {
+      "win": 486,
+      "loss": 423,
+      "draw": 51
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2306,
+      "date": 1757015823
+    },
+    "lowest": {
+      "rating": 2168,
+      "date": 1773790929
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

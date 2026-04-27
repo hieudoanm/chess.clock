@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/393479915.5e8c670c.200x200o.56a2b9f0baad.jpg",
+  "player_id": 393479915,
+  "@id": "https://api.chess.com/pub/player/yhvhchess",
+  "url": "https://www.chess.com/member/YHVHchess",
+  "username": "yhvhchess",
+  "title": "WCM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776529003,
+  "joined": 1727998981,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1020,
+      "date": 1775204348,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1020,
+      "date": 1765981064,
+      "game": "https://www.chess.com/game/daily/880142933"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 60527,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1831,
+      "date": 1776092004,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2041,
+      "date": 1748989805,
+      "game": "https://www.chess.com/game/live/138854587914"
+    },
+    "record": {
+      "win": 514,
+      "loss": 547,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1432,
+      "date": 1775688480,
+      "rd": 28
+    },
+    "best": {
+      "rating": 1870,
+      "date": 1751909651,
+      "game": "https://www.chess.com/game/live/140437128998"
+    },
+    "record": {
+      "win": 215,
+      "loss": 230,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1589,
+      "date": 1776528980,
+      "rd": 41
+    },
+    "best": {
+      "rating": 1822,
+      "date": 1730554282,
+      "game": "https://www.chess.com/game/live/124295377227"
+    },
+    "record": {
+      "win": 268,
+      "loss": 300,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2288,
+      "date": 1775120114
+    },
+    "lowest": {
+      "rating": 2101,
+      "date": 1772565276
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

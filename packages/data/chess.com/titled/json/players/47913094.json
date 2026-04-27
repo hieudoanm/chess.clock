@@ -1,0 +1,82 @@
+{
+  "player_id": 47913094,
+  "@id": "https://api.chess.com/pub/player/noranup",
+  "url": "https://www.chess.com/member/Noranup",
+  "username": "noranup",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776551705,
+  "joined": 1531727624,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1687,
+      "date": 1614787650,
+      "rd": 328
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2657,
+      "date": 1742323941,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2737,
+      "date": 1738348162,
+      "game": "https://www.chess.com/game/live/132085197413"
+    },
+    "record": {
+      "win": 678,
+      "loss": 482,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2648,
+      "date": 1775823110,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2739,
+      "date": 1771092154,
+      "game": "https://www.chess.com/game/live/164548003692"
+    },
+    "record": {
+      "win": 566,
+      "loss": 420,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2619,
+      "date": 1763340205
+    },
+    "lowest": {
+      "rating": 2610,
+      "date": 1763340110
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

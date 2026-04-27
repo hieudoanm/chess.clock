@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11326806.25affa25.200x200o.55893300760c.jpeg",
+  "player_id": 11326806,
+  "@id": "https://api.chess.com/pub/player/kenta1234",
+  "url": "https://www.chess.com/member/kenta1234",
+  "name": "Olivier Kenta",
+  "username": "kenta1234",
+  "title": "IM",
+  "followers": 214,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Montreal",
+  "last_online": 1776483898,
+  "joined": 1364596073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1675,
+      "date": 1772666738,
+      "rd": 202
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1650832802,
+      "game": "https://www.chess.com/game/daily/423364591"
+    },
+    "record": {
+      "win": 26,
+      "loss": 11,
+      "draw": 0,
+      "time_per_move": 9867,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2414,
+      "date": 1629315548,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1621195219,
+      "game": "https://www.chess.com/game/live/9402936935"
+    },
+    "record": {
+      "win": 20,
+      "loss": 4,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2839,
+      "date": 1729735299,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1725861949,
+      "game": "https://www.chess.com/game/live/119680820967"
+    },
+    "record": {
+      "win": 1100,
+      "loss": 624,
+      "draw": 129
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2864,
+      "date": 1773612096,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2935,
+      "date": 1763683813,
+      "game": "https://www.chess.com/game/live/128458365213"
+    },
+    "record": {
+      "win": 3837,
+      "loss": 2576,
+      "draw": 703
+    }
+  },
+  "fide": 2382,
+  "tactics": {
+    "highest": {
+      "rating": 2391,
+      "date": 1759291328
+    },
+    "lowest": {
+      "rating": 2278,
+      "date": 1761357535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

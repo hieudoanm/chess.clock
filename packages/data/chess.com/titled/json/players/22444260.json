@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22444260.615d29af.200x200o.3c0a03d823e2.png",
+  "player_id": 22444260,
+  "@id": "https://api.chess.com/pub/player/boasovietica",
+  "url": "https://www.chess.com/member/boasovietica",
+  "name": "Marcelo Villalba",
+  "username": "boasovietica",
+  "title": "IM",
+  "followers": 643,
+  "country": "https://api.chess.com/pub/country/PY",
+  "location": "Asuncion",
+  "last_online": 1776463136,
+  "joined": 1431972449,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/boasovietica94",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/boasovietica94"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1329,
+      "date": 1771382214,
+      "rd": 243
+    },
+    "best": {
+      "rating": 1329,
+      "date": 1730764834,
+      "game": "https://www.chess.com/game/daily/718282629"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 59919,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2127,
+      "date": 1773467732,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2189,
+      "date": 1612045784,
+      "game": "https://www.chess.com/game/live/5850201700"
+    },
+    "record": {
+      "win": 45,
+      "loss": 16,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2360,
+      "date": 1775859184,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1612488487,
+      "game": "https://www.chess.com/game/live/5779527016"
+    },
+    "record": {
+      "win": 609,
+      "loss": 487,
+      "draw": 51
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1776463102,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1724181356,
+      "game": "https://www.chess.com/game/live/90688872547"
+    },
+    "record": {
+      "win": 5747,
+      "loss": 5134,
+      "draw": 1005
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2747,
+      "date": 1431972449
+    },
+    "lowest": {
+      "rating": 2747,
+      "date": 1431972449
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 82,
+      "score": 79
+    }
+  }
+}

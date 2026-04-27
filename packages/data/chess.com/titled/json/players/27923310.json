@@ -1,0 +1,86 @@
+{
+  "player_id": 27923310,
+  "@id": "https://api.chess.com/pub/player/lhuron",
+  "url": "https://www.chess.com/member/Lhuron",
+  "name": "Marius Zainea",
+  "username": "lhuron",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/LU",
+  "last_online": 1776535724,
+  "joined": 1461686096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2221,
+      "date": 1762841375,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1758225789,
+      "game": "https://www.chess.com/game/daily/440301337"
+    },
+    "record": {
+      "win": 97,
+      "loss": 23,
+      "draw": 23,
+      "time_per_move": 11194,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1835,
+      "date": 1534619995,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1835,
+      "date": 1534619995,
+      "game": "https://www.chess.com/game/live/1560480276"
+    },
+    "record": {
+      "win": 22,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1948,
+      "date": 1669063605,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2031,
+      "date": 1580594768,
+      "game": "https://www.chess.com/game/live/2734607929"
+    },
+    "record": {
+      "win": 377,
+      "loss": 261,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2519,
+      "date": 1461686096
+    },
+    "lowest": {
+      "rating": 2519,
+      "date": 1461686096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

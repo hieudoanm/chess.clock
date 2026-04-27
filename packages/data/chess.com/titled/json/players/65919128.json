@@ -1,0 +1,102 @@
+{
+  "player_id": 65919128,
+  "@id": "https://api.chess.com/pub/player/msspock73",
+  "url": "https://www.chess.com/member/MsSpock73",
+  "username": "msspock73",
+  "title": "WFM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/GL",
+  "last_online": 1776502821,
+  "joined": 1569426435,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1724,
+      "date": 1674678162,
+      "rd": 263
+    },
+    "best": {
+      "rating": 1724,
+      "date": 1619355554,
+      "game": "https://www.chess.com/game/daily/326800358"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 40285,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2156,
+      "date": 1713002045,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1682344564,
+      "game": "https://www.chess.com/game/live/106740025235"
+    },
+    "record": {
+      "win": 40,
+      "loss": 20,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1955,
+      "date": 1712742679,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1618171209,
+      "game": "https://www.chess.com/game/live/8441715239"
+    },
+    "record": {
+      "win": 934,
+      "loss": 859,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2317,
+      "date": 1741125793,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1739451292,
+      "game": "https://www.chess.com/game/live/97169405209"
+    },
+    "record": {
+      "win": 1918,
+      "loss": 1906,
+      "draw": 208
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2538,
+      "date": 1569426435
+    },
+    "lowest": {
+      "rating": 2538,
+      "date": 1569426435
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

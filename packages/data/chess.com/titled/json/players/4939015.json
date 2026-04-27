@@ -1,0 +1,87 @@
+{
+  "player_id": 4939015,
+  "@id": "https://api.chess.com/pub/player/bereolos",
+  "url": "https://www.chess.com/member/bereolos",
+  "name": "Peter Bereolos",
+  "username": "bereolos",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Knoxville, TN",
+  "last_online": 1776582603,
+  "joined": 1301802842,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 821,
+      "date": 1735854662,
+      "rd": 340
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1301802842,
+      "game": "https://www.chess.com/game/daily/382839301"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 64005,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2193,
+      "date": 1717191070,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1624645046,
+      "game": "https://www.chess.com/game/live/36535164135"
+    },
+    "record": {
+      "win": 344,
+      "loss": 65,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2146,
+      "date": 1735772783,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1506386346,
+      "game": "https://www.chess.com/game/live/2395999844"
+    },
+    "record": {
+      "win": 415,
+      "loss": 272,
+      "draw": 59
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1767205696
+    },
+    "lowest": {
+      "rating": 2303,
+      "date": 1764555291
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

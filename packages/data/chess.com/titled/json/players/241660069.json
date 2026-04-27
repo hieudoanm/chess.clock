@@ -1,0 +1,84 @@
+{
+  "player_id": 241660069,
+  "@id": "https://api.chess.com/pub/player/vadim_galchenko",
+  "url": "https://www.chess.com/member/Vadim_Galchenko",
+  "name": "Vadim Galchenko",
+  "username": "vadim_galchenko",
+  "title": "NM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776595587,
+  "joined": 1675843509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1766690162,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2100,
+      "date": 1711211471,
+      "game": "https://www.chess.com/game/live/110980254705"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2206,
+      "date": 1677841249,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2206,
+      "date": 1677841249,
+      "game": "https://www.chess.com/game/live/71580202073"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2592,
+      "date": 1749996096,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1710882414,
+      "game": "https://www.chess.com/game/live/94347098241"
+    },
+    "record": {
+      "win": 91,
+      "loss": 46,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1103,
+      "date": 1763754770
+    },
+    "lowest": {
+      "rating": 1103,
+      "date": 1763754770
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

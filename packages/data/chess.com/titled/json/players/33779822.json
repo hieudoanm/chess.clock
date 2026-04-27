@@ -1,0 +1,103 @@
+{
+  "player_id": 33779822,
+  "@id": "https://api.chess.com/pub/player/last7samurai",
+  "url": "https://www.chess.com/member/Last7Samurai",
+  "name": "Cemil Can Ali Marandi",
+  "username": "last7samurai",
+  "title": "GM",
+  "followers": 2579,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776337592,
+  "joined": 1488927588,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2229,
+      "date": 1669368511,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2229,
+      "date": 1637793924,
+      "game": "https://www.chess.com/game/daily/224503700"
+    },
+    "record": {
+      "win": 28,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 31312,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2770,
+      "date": 1645922012,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2827,
+      "date": 1590859238,
+      "game": "https://www.chess.com/game/live/6160464937"
+    },
+    "record": {
+      "win": 36,
+      "loss": 2,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2755,
+      "date": 1651440718,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2868,
+      "date": 1644704748,
+      "game": "https://www.chess.com/game/live/2988753737"
+    },
+    "record": {
+      "win": 1825,
+      "loss": 1493,
+      "draw": 221
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2893,
+      "date": 1651418900,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2950,
+      "date": 1651340306,
+      "game": "https://www.chess.com/game/live/4867171513"
+    },
+    "record": {
+      "win": 3110,
+      "loss": 1870,
+      "draw": 584
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2629,
+      "date": 1488927588
+    },
+    "lowest": {
+      "rating": 2629,
+      "date": 1488927588
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 106,
+      "score": 103
+    }
+  }
+}

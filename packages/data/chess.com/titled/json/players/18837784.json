@@ -1,0 +1,99 @@
+{
+  "player_id": 18837784,
+  "@id": "https://api.chess.com/pub/player/huixiang",
+  "url": "https://www.chess.com/member/HuiXiang",
+  "name": "Yingrui Lin",
+  "username": "huixiang",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776589015,
+  "joined": 1410307720,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1023,
+      "date": 1767796623,
+      "rd": 214
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 107456,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2344,
+      "date": 1767796623,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1726682296,
+      "game": "https://www.chess.com/game/live/115210120947"
+    },
+    "record": {
+      "win": 64,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2574,
+      "date": 1760725289,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1753618407,
+      "game": "https://www.chess.com/game/live/139856255148"
+    },
+    "record": {
+      "win": 53,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1776590220,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1776590220,
+      "game": "https://www.chess.com/game/live/142043787560"
+    },
+    "record": {
+      "win": 310,
+      "loss": 215,
+      "draw": 54
+    }
+  },
+  "fide": 2344,
+  "tactics": {
+    "highest": {
+      "rating": 2694,
+      "date": 1776414886
+    },
+    "lowest": {
+      "rating": 2269,
+      "date": 1762190508
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

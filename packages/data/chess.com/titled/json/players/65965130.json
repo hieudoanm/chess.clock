@@ -1,0 +1,83 @@
+{
+  "player_id": 65965130,
+  "@id": "https://api.chess.com/pub/player/kusiia",
+  "url": "https://www.chess.com/member/Kusiia",
+  "username": "kusiia",
+  "title": "WFM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/BY",
+  "last_online": 1775766507,
+  "joined": 1569520353,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 811,
+      "date": 1649313785,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1505,
+      "date": 1647497785,
+      "game": "https://www.chess.com/game/live/41241620149"
+    },
+    "record": {
+      "win": 3,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2449,
+      "date": 1775766418,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1735999632,
+      "game": "https://www.chess.com/game/live/129738005687"
+    },
+    "record": {
+      "win": 172,
+      "loss": 100,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2416,
+      "date": 1767983757,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1767904921,
+      "game": "https://www.chess.com/game/live/4611008379"
+    },
+    "record": {
+      "win": 677,
+      "loss": 547,
+      "draw": 100
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2183,
+      "date": 1569520353
+    },
+    "lowest": {
+      "rating": 2183,
+      "date": 1569520353
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

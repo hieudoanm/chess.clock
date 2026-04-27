@@ -1,0 +1,99 @@
+{
+  "player_id": 53004942,
+  "@id": "https://api.chess.com/pub/player/chesszeror",
+  "url": "https://www.chess.com/member/chesszeror",
+  "name": "Rene Federico Lacayo Cortez",
+  "username": "chesszeror",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/NI",
+  "location": "Chinandega",
+  "last_online": 1776200622,
+  "joined": 1544365396,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1182,
+      "date": 1630050126,
+      "rd": 331
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 50337,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1936,
+      "date": 1630172157,
+      "rd": 192
+    },
+    "best": {
+      "rating": 1936,
+      "date": 1630172157,
+      "game": "https://www.chess.com/game/live/23905627203"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1872,
+      "date": 1738689990,
+      "rd": 70
+    },
+    "best": {
+      "rating": 1939,
+      "date": 1735156098,
+      "game": "https://www.chess.com/game/live/128894626379"
+    },
+    "record": {
+      "win": 27,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2433,
+      "date": 1743873510,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1735511681,
+      "game": "https://www.chess.com/game/live/131214047301"
+    },
+    "record": {
+      "win": 2616,
+      "loss": 2099,
+      "draw": 321
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2147,
+      "date": 1544365396
+    },
+    "lowest": {
+      "rating": 2147,
+      "date": 1544365396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 18
+    }
+  }
+}

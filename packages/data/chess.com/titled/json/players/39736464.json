@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39736464.69aff9d3.200x200o.a39a998cf0a2.jpg",
+  "player_id": 39736464,
+  "@id": "https://api.chess.com/pub/player/koshkamatrioshka",
+  "url": "https://www.chess.com/member/KoshkaMatrioshka",
+  "name": "Svyatoslav Korneev Leskova",
+  "username": "koshkamatrioshka",
+  "title": "CM",
+  "followers": 282,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776599549,
+  "joined": 1508876599,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/ajedrezkorneevjr",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/ajedrezkorneevjr"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1776192244,
+      "rd": 350
+    },
+    "record": {
+      "win": 7,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 185828,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2479,
+      "date": 1773350734,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1764780990,
+      "game": "https://www.chess.com/game/live/145875717378"
+    },
+    "record": {
+      "win": 114,
+      "loss": 41,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2737,
+      "date": 1775249131,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1773432208,
+      "game": "https://www.chess.com/game/live/164789084952"
+    },
+    "record": {
+      "win": 906,
+      "loss": 409,
+      "draw": 103
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2751,
+      "date": 1776538018,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2811,
+      "date": 1771346606,
+      "game": "https://www.chess.com/game/live/147606799099"
+    },
+    "record": {
+      "win": 4551,
+      "loss": 3075,
+      "draw": 728
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2734,
+      "date": 1772791603
+    },
+    "lowest": {
+      "rating": 2455,
+      "date": 1762086251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

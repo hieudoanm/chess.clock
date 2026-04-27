@@ -1,0 +1,99 @@
+{
+  "player_id": 71802028,
+  "@id": "https://api.chess.com/pub/player/sherry_ali",
+  "url": "https://www.chess.com/member/sherry_ali",
+  "name": "Sheriffa Ali",
+  "username": "sherry_ali",
+  "title": "WCM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/GY",
+  "last_online": 1776212159,
+  "joined": 1580994192,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1192,
+      "date": 1776212146,
+      "rd": 233
+    },
+    "best": {
+      "rating": 1280,
+      "date": 1712062374,
+      "game": "https://www.chess.com/game/daily/875823193"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 62330,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1383,
+      "date": 1708009392,
+      "rd": 278
+    },
+    "best": {
+      "rating": 1383,
+      "date": 1708009392,
+      "game": "https://www.chess.com/game/live/10540586013"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 695,
+      "date": 1620360485,
+      "rd": 340
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1116,
+      "date": 1689552771,
+      "rd": 181
+    },
+    "best": {
+      "rating": 1399,
+      "date": 1595708871,
+      "game": "https://www.chess.com/game/live/5229112253"
+    },
+    "record": {
+      "win": 19,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1633,
+      "date": 1580994192
+    },
+    "lowest": {
+      "rating": 1633,
+      "date": 1580994192
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 18
+    }
+  }
+}

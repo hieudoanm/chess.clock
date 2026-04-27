@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/47865732.2ed84ac2.200x200o.8d99198ff5dd.jpeg",
+  "player_id": 47865732,
+  "@id": "https://api.chess.com/pub/player/azerichess",
+  "url": "https://www.chess.com/member/Azerichess",
+  "name": "Shakhriyar Mamedyarov",
+  "username": "azerichess",
+  "title": "GM",
+  "followers": 3790,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1775457303,
+  "joined": 1531570378,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/shakhriyarmamedyarov",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/shakhriyarmamedyarov"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2703,
+      "date": 1747675641,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2820,
+      "date": 1548815069,
+      "game": "https://www.chess.com/game/live/88805536351"
+    },
+    "record": {
+      "win": 73,
+      "loss": 32,
+      "draw": 47
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3117,
+      "date": 1772461267,
+      "rd": 46
+    },
+    "best": {
+      "rating": 3212,
+      "date": 1688745705,
+      "game": "https://www.chess.com/game/live/6232616602"
+    },
+    "record": {
+      "win": 1090,
+      "loss": 843,
+      "draw": 180
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3086,
+      "date": 1775288251,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3140,
+      "date": 1769962591,
+      "game": "https://www.chess.com/game/live/144962339628"
+    },
+    "record": {
+      "win": 894,
+      "loss": 550,
+      "draw": 257
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2989,
+      "date": 1769343988
+    },
+    "lowest": {
+      "rating": 2726,
+      "date": 1769343074
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 88,
+      "score": 85
+    }
+  }
+}

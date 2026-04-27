@@ -1,0 +1,103 @@
+{
+  "player_id": 6231559,
+  "@id": "https://api.chess.com/pub/player/querqus",
+  "url": "https://www.chess.com/member/querqus",
+  "name": "Petter Haugli",
+  "username": "querqus",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Moss",
+  "last_online": 1582118840,
+  "joined": 1322797167,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2259,
+      "date": 1544088492,
+      "rd": 215
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1512473610,
+      "game": "https://www.chess.com/game/daily/180387532"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10494,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1408904021,
+      "rd": 319
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1330864870,
+      "game": "https://www.chess.com/game/live/259744388"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1957,
+      "date": 1511902437,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1410686357,
+      "game": "https://www.chess.com/game/live/311771452"
+    },
+    "record": {
+      "win": 26,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2383,
+      "date": 1582148094,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1570997766,
+      "game": "https://www.chess.com/game/live/3632643731"
+    },
+    "record": {
+      "win": 9385,
+      "loss": 5666,
+      "draw": 1503
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2431,
+      "date": 1322797167
+    },
+    "lowest": {
+      "rating": 2431,
+      "date": 1322797167
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 31
+    }
+  }
+}

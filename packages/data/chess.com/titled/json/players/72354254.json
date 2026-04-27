@@ -1,0 +1,79 @@
+{
+  "player_id": 72354254,
+  "@id": "https://api.chess.com/pub/player/janaschach",
+  "url": "https://www.chess.com/member/Janaschach",
+  "name": "Jana Schneider",
+  "username": "janaschach",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775028241,
+  "joined": 1582032101,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2204,
+      "date": 1611255240,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1590425128,
+      "game": "https://www.chess.com/game/live/4906144287"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2262,
+      "date": 1678443563,
+      "rd": 202
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2426,
+      "date": 1685981886,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2429,
+      "date": 1661427412,
+      "game": "https://www.chess.com/game/live/28742404815"
+    },
+    "record": {
+      "win": 33,
+      "loss": 19,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1757326157
+    },
+    "lowest": {
+      "rating": 2313,
+      "date": 1756588215
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 483326279,
+  "@id": "https://api.chess.com/pub/player/roadtowc2025",
+  "url": "https://www.chess.com/member/RoadtoWC2025",
+  "username": "roadtowc2025",
+  "title": "IM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/XO",
+  "last_online": 1776503730,
+  "joined": 1757832021,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1065,
+      "date": 1776035811,
+      "rd": 346
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 164911,
+      "timeout_percent": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2849,
+      "date": 1776424148,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2914,
+      "date": 1775195962,
+      "game": "https://www.chess.com/game/live/166055799484"
+    },
+    "record": {
+      "win": 134,
+      "loss": 63,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3024,
+      "date": 1776492340,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3075,
+      "date": 1765096516,
+      "game": "https://www.chess.com/game/live/145384255288"
+    },
+    "record": {
+      "win": 475,
+      "loss": 261,
+      "draw": 57
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1764,
+      "date": 1775472057
+    },
+    "lowest": {
+      "rating": 773,
+      "date": 1766061311
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

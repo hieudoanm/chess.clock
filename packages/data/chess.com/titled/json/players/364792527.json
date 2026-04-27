@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/364792527.30b426b0.200x200o.f47a82935873.jpg",
+  "player_id": 364792527,
+  "@id": "https://api.chess.com/pub/player/dvglk",
+  "url": "https://www.chess.com/member/dvglk",
+  "name": "Oleksandr Dovgaliuk",
+  "username": "dvglk",
+  "title": "FM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Netherlands",
+  "last_online": 1776597182,
+  "joined": 1716392092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1729,
+      "date": 1770445670,
+      "rd": 275
+    },
+    "best": {
+      "rating": 1729,
+      "date": 1770445669,
+      "game": "https://www.chess.com/game/daily/802052433"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10623,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2015,
+      "date": 1726503628,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2015,
+      "date": 1726503628,
+      "game": "https://www.chess.com/game/live/120242367355"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1775859840,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2767,
+      "date": 1752518220,
+      "game": "https://www.chess.com/game/live/145039912098"
+    },
+    "record": {
+      "win": 631,
+      "loss": 577,
+      "draw": 99
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2676,
+      "date": 1773853090,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2785,
+      "date": 1771698629,
+      "game": "https://www.chess.com/game/live/167663416811"
+    },
+    "record": {
+      "win": 549,
+      "loss": 478,
+      "draw": 75
+    }
+  },
+  "fide": 2316,
+  "tactics": {
+    "highest": {
+      "rating": 2022,
+      "date": 1772789211
+    },
+    "lowest": {
+      "rating": 1915,
+      "date": 1773258026
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

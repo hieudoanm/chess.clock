@@ -1,0 +1,83 @@
+{
+  "player_id": 374547973,
+  "@id": "https://api.chess.com/pub/player/vhtspeedrun",
+  "url": "https://www.chess.com/member/VHTSpeedrun",
+  "username": "vhtspeedrun",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775976048,
+  "joined": 1720603933,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2150,
+      "date": 1731467415,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1731467415,
+      "game": "https://www.chess.com/game/live/121539620849"
+    },
+    "record": {
+      "win": 36,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1771419604,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2587,
+      "date": 1771419435,
+      "game": "https://www.chess.com/game/live/144164849104"
+    },
+    "record": {
+      "win": 26,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2662,
+      "date": 1771321712,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1764145664,
+      "game": "https://www.chess.com/game/live/145973820724"
+    },
+    "record": {
+      "win": 129,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1292,
+      "date": 1770809663
+    },
+    "lowest": {
+      "rating": 975,
+      "date": 1770733275
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

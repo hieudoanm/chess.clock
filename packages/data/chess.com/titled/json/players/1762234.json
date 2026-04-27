@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1762234.e9232887.200x200o.3510c4c2911b.jpeg",
+  "player_id": 1762234,
+  "@id": "https://api.chess.com/pub/player/themagician",
+  "url": "https://www.chess.com/member/TheMagician",
+  "name": "John Curtis",
+  "username": "themagician",
+  "title": "FM",
+  "followers": 4209,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Sydney",
+  "last_online": 1776571579,
+  "joined": 1234409632,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/fmjohncurtischess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/fmjohncurtischess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1919,
+      "date": 1773537786,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1358470277,
+      "game": "https://www.chess.com/game/daily/47586768"
+    },
+    "record": {
+      "win": 145,
+      "loss": 25,
+      "draw": 16,
+      "time_per_move": 37706,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2273,
+      "date": 1776252487,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1450776242,
+      "game": "https://www.chess.com/game/live/164874680930"
+    },
+    "record": {
+      "win": 1730,
+      "loss": 249,
+      "draw": 94
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1653,
+      "date": 1776473224,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1299460432,
+      "game": "https://www.chess.com/game/live/132490854659"
+    },
+    "record": {
+      "win": 31227,
+      "loss": 26197,
+      "draw": 968
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1776550322,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2416,
+      "date": 1764892884,
+      "game": "https://www.chess.com/game/live/45955840433"
+    },
+    "record": {
+      "win": 55514,
+      "loss": 33106,
+      "draw": 5709
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2363,
+      "date": 1776524510
+    },
+    "lowest": {
+      "rating": 2189,
+      "date": 1762553657
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 32030992,
+  "@id": "https://api.chess.com/pub/player/poneis_malditos",
+  "url": "https://www.chess.com/member/poneis_malditos",
+  "username": "poneis_malditos",
+  "title": "NM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Curitiba",
+  "last_online": 1776349200,
+  "joined": 1483199830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1357,
+      "date": 1705587379,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1377,
+      "date": 1619045390,
+      "game": "https://www.chess.com/game/daily/327065628"
+    },
+    "record": {
+      "win": 14,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 12009,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2276,
+      "date": 1746033266,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1666122312,
+      "game": "https://www.chess.com/game/live/50866846895"
+    },
+    "record": {
+      "win": 85,
+      "loss": 37,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2233,
+      "date": 1708535314,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2368,
+      "date": 1647283419,
+      "game": "https://www.chess.com/game/live/41021411583"
+    },
+    "record": {
+      "win": 191,
+      "loss": 165,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2516,
+      "date": 1776282908,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1748974165,
+      "game": "https://www.chess.com/game/live/139181632132"
+    },
+    "record": {
+      "win": 5362,
+      "loss": 5549,
+      "draw": 758
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2436,
+      "date": 1483199830
+    },
+    "lowest": {
+      "rating": 2436,
+      "date": 1483199830
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

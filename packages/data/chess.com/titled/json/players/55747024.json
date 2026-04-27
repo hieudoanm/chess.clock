@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55747024.ab7951c4.200x200o.fc9e7e2aabb2.jpg",
+  "player_id": 55747024,
+  "@id": "https://api.chess.com/pub/player/thechesschannel",
+  "url": "https://www.chess.com/member/TheChessChannel",
+  "name": "Mike Ellenbogen",
+  "username": "thechesschannel",
+  "title": "NM",
+  "followers": 126,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1759802593,
+  "joined": 1547067264,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2251,
+      "date": 1695544141,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1643647463,
+      "game": "https://www.chess.com/game/daily/297931384"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 2,
+      "time_per_move": 37394,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2513,
+      "date": 1757777388,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1671552449,
+      "game": "https://www.chess.com/game/live/129666656025"
+    },
+    "record": {
+      "win": 94,
+      "loss": 30,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2320,
+      "date": 1763224707,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1732571689,
+      "game": "https://www.chess.com/game/live/145015768115"
+    },
+    "record": {
+      "win": 39441,
+      "loss": 45160,
+      "draw": 4492
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2642,
+      "date": 1758128370,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2663,
+      "date": 1735940005,
+      "game": "https://www.chess.com/game/live/143118212464"
+    },
+    "record": {
+      "win": 774,
+      "loss": 793,
+      "draw": 106
+    }
+  },
+  "fide": 2215,
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1755631727
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1758547047
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

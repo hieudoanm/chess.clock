@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/513540361.395df275.200x200o.f39b50a63cb8.png",
+  "player_id": 513540361,
+  "@id": "https://api.chess.com/pub/player/26_twentysix",
+  "url": "https://www.chess.com/member/26_TwentySix",
+  "username": "26_twentysix",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776537884,
+  "joined": 1766759886,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2230,
+      "date": 1772638534,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1770909693,
+      "game": "https://www.chess.com/game/live/148340597450"
+    },
+    "record": {
+      "win": 8,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2498,
+      "date": 1776527719,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1769773903,
+      "game": "https://www.chess.com/game/live/164002031626"
+    },
+    "record": {
+      "win": 401,
+      "loss": 443,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2522,
+      "date": 1776440055,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2577,
+      "date": 1767707772,
+      "game": "https://www.chess.com/game/live/147670289520"
+    },
+    "record": {
+      "win": 147,
+      "loss": 170,
+      "draw": 33
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2413,
+      "date": 1769633796
+    },
+    "lowest": {
+      "rating": 2078,
+      "date": 1772989353
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

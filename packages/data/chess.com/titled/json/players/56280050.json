@@ -1,0 +1,88 @@
+{
+  "player_id": 56280050,
+  "@id": "https://api.chess.com/pub/player/gahryman",
+  "url": "https://www.chess.com/member/gahryman",
+  "name": "Meilis Annaberdiev",
+  "username": "gahryman",
+  "title": "GM",
+  "followers": 198,
+  "country": "https://api.chess.com/pub/country/TM",
+  "last_online": 1776592390,
+  "joined": 1547988899,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2333,
+      "date": 1774462894,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1594491583,
+      "game": "https://www.chess.com/game/live/166423596016"
+    },
+    "record": {
+      "win": 34,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2495,
+      "date": 1776524023,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1677099439,
+      "game": "https://www.chess.com/game/live/6264599651"
+    },
+    "record": {
+      "win": 507,
+      "loss": 471,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2769,
+      "date": 1776592810,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2813,
+      "date": 1563026083,
+      "game": "https://www.chess.com/game/live/97972305687"
+    },
+    "record": {
+      "win": 1853,
+      "loss": 1650,
+      "draw": 317
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2669,
+      "date": 1763120318
+    },
+    "lowest": {
+      "rating": 2602,
+      "date": 1763120497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    },
+    "daily": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

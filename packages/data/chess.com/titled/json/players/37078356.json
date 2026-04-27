@@ -1,0 +1,104 @@
+{
+  "player_id": 37078356,
+  "@id": "https://api.chess.com/pub/player/sztgabor",
+  "url": "https://www.chess.com/member/sztgabor",
+  "name": "Gabor Szabo-Toth",
+  "username": "sztgabor",
+  "title": "CM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776583508,
+  "joined": 1500221930,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1497,
+      "date": 1769348322,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1497,
+      "date": 1754065815,
+      "game": "https://www.chess.com/game/daily/837637698"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3218,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1760264725,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1697832326,
+      "game": "https://www.chess.com/game/live/87225057923"
+    },
+    "record": {
+      "win": 133,
+      "loss": 87,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2314,
+      "date": 1761212293,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1761212293,
+      "game": "https://www.chess.com/game/live/144628700770"
+    },
+    "record": {
+      "win": 21,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2352,
+      "date": 1769277782,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1760111684,
+      "game": "https://www.chess.com/game/live/89548170429"
+    },
+    "record": {
+      "win": 671,
+      "loss": 470,
+      "draw": 64
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 2831,
+      "date": 1770806925
+    },
+    "lowest": {
+      "rating": 2545,
+      "date": 1757087037
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

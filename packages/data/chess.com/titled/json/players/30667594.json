@@ -1,0 +1,84 @@
+{
+  "player_id": 30667594,
+  "@id": "https://api.chess.com/pub/player/gm_donatello",
+  "url": "https://www.chess.com/member/GM_Donatello",
+  "name": "Jure Borisek",
+  "username": "gm_donatello",
+  "title": "GM",
+  "followers": 185,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1775752907,
+  "joined": 1477853709,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2455,
+      "date": 1631193288,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1597408656,
+      "game": "https://www.chess.com/game/live/24502940333"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2726,
+      "date": 1767823196,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2905,
+      "date": 1763295714,
+      "game": "https://www.chess.com/game/live/145470157796"
+    },
+    "record": {
+      "win": 483,
+      "loss": 464,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2942,
+      "date": 1765292198,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1765292198,
+      "game": "https://www.chess.com/game/live/138769390460"
+    },
+    "record": {
+      "win": 6020,
+      "loss": 6405,
+      "draw": 1267
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2464,
+      "date": 1762697131
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1765322731
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

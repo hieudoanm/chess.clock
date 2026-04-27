@@ -1,0 +1,64 @@
+{
+  "player_id": 15912682,
+  "@id": "https://api.chess.com/pub/player/bundychess",
+  "url": "https://www.chess.com/member/BundyChess",
+  "name": "BundyChess BundyChess",
+  "username": "bundychess",
+  "title": "IM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "ACT",
+  "last_online": 1759321229,
+  "joined": 1391594785,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2435,
+      "date": 1414028530,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1399087226,
+      "game": "https://www.chess.com/game/live/798214051"
+    },
+    "record": {
+      "win": 1952,
+      "loss": 1580,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2377,
+      "date": 1751962905,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1689044330,
+      "game": "https://www.chess.com/game/live/82784428357"
+    },
+    "record": {
+      "win": 419,
+      "loss": 252,
+      "draw": 18
+    }
+  },
+  "fide": 2377,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1391594785
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1391594785
+    }
+  },
+  "puzzle_rush": {}
+}

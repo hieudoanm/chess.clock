@@ -1,0 +1,81 @@
+{
+  "player_id": 5539378,
+  "@id": "https://api.chess.com/pub/player/pete1988",
+  "url": "https://www.chess.com/member/pete1988",
+  "name": "Peter Vas",
+  "username": "pete1988",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1714574833,
+  "joined": 1312205115,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1493,
+      "date": 1746174489,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1493,
+      "date": 1714574837,
+      "game": "https://www.chess.com/game/daily/536455711"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75043,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2223,
+      "date": 1703953532,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1700489518,
+      "game": "https://www.chess.com/game/live/4567110234"
+    },
+    "record": {
+      "win": 665,
+      "loss": 628,
+      "draw": 98
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2215,
+      "date": 1699308380,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1585488592,
+      "game": "https://www.chess.com/game/live/4652355495"
+    },
+    "record": {
+      "win": 1180,
+      "loss": 1075,
+      "draw": 311
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2127,
+      "date": 1312205115
+    },
+    "lowest": {
+      "rating": 2127,
+      "date": 1312205115
+    }
+  },
+  "puzzle_rush": {}
+}

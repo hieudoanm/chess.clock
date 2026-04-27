@@ -1,0 +1,143 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1820249.0aff515c.200x200o.4e7535794c1b.jpg",
+  "player_id": 1820249,
+  "@id": "https://api.chess.com/pub/player/jamescoleman",
+  "url": "https://www.chess.com/member/JamesColeman",
+  "name": "James Coleman",
+  "username": "jamescoleman",
+  "title": "CM",
+  "followers": 2566,
+  "country": "https://api.chess.com/pub/country/XE",
+  "location": "Horley, Surrey",
+  "last_online": 1776530207,
+  "joined": 1237061683,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jamescolemanchess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jamescolemanchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2129,
+      "date": 1776530178,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1768814536,
+      "game": "https://www.chess.com/game/daily/266375148"
+    },
+    "record": {
+      "win": 1144,
+      "loss": 33,
+      "draw": 59,
+      "time_per_move": 9640,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 8,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1308,
+      "date": 1775060047,
+      "rd": 198
+    },
+    "best": {
+      "rating": 1308,
+      "date": 1775060046,
+      "game": "https://www.chess.com/game/daily/888263273"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9640,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 8,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2430,
+      "date": 1773856326,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1668293788,
+      "game": "https://www.chess.com/game/live/10252932951"
+    },
+    "record": {
+      "win": 616,
+      "loss": 34,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2533,
+      "date": 1759684168,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1756633136,
+      "game": "https://www.chess.com/game/live/2930759793"
+    },
+    "record": {
+      "win": 41847,
+      "loss": 22164,
+      "draw": 3721
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2507,
+      "date": 1771195916,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1726245445,
+      "game": "https://www.chess.com/game/live/934183866"
+    },
+    "record": {
+      "win": 2686,
+      "loss": 587,
+      "draw": 194
+    }
+  },
+  "fide": 2290,
+  "tactics": {
+    "highest": {
+      "rating": 1601,
+      "date": 1773858566
+    },
+    "lowest": {
+      "rating": 473,
+      "date": 1769545300
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 28029626,
+  "@id": "https://api.chess.com/pub/player/dimonbanan",
+  "url": "https://www.chess.com/member/DIMONBANAN",
+  "name": "Dmitry Minko",
+  "username": "dimonbanan",
+  "title": "FM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776359839,
+  "joined": 1462297590,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1525,
+      "date": 1759327039,
+      "rd": 211
+    },
+    "best": {
+      "rating": 1525,
+      "date": 1670875212,
+      "game": "https://www.chess.com/game/daily/422226781"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 53963,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2385,
+      "date": 1771185590,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1768836054,
+      "game": "https://www.chess.com/game/live/75484241985"
+    },
+    "record": {
+      "win": 32,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2731,
+      "date": 1775861128,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1772996513,
+      "game": "https://www.chess.com/game/live/100725742629"
+    },
+    "record": {
+      "win": 2194,
+      "loss": 1939,
+      "draw": 389
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2659,
+      "date": 1776359163,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1772987521,
+      "game": "https://www.chess.com/game/live/101578974825"
+    },
+    "record": {
+      "win": 2392,
+      "loss": 2003,
+      "draw": 414
+    }
+  },
+  "fide": 2247,
+  "tactics": {
+    "highest": {
+      "rating": 2384,
+      "date": 1759667764
+    },
+    "lowest": {
+      "rating": 2157,
+      "date": 1759667847
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

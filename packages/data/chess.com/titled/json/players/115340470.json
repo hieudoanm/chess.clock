@@ -1,0 +1,83 @@
+{
+  "player_id": 115340470,
+  "@id": "https://api.chess.com/pub/player/horcruxbb",
+  "url": "https://www.chess.com/member/HorcruxBB",
+  "username": "horcruxbb",
+  "title": "IM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1747572662,
+  "joined": 1611495664,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2404,
+      "date": 1646593101,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1632143255,
+      "game": "https://www.chess.com/game/live/22282230697"
+    },
+    "record": {
+      "win": 23,
+      "loss": 13,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2282,
+      "date": 1664210057,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1628982394,
+      "game": "https://www.chess.com/game/live/22714247543"
+    },
+    "record": {
+      "win": 261,
+      "loss": 167,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2469,
+      "date": 1743231875,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1612019318,
+      "game": "https://www.chess.com/game/live/11464557805"
+    },
+    "record": {
+      "win": 146,
+      "loss": 75,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1611495664
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1611495664
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

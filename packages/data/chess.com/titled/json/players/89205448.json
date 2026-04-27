@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/89205448.89cfcf18.200x200o.2b373267e657.jpg",
+  "player_id": 89205448,
+  "@id": "https://api.chess.com/pub/player/gmzaven",
+  "url": "https://www.chess.com/member/GMZaven",
+  "name": "Zaven Andriasyan",
+  "username": "gmzaven",
+  "title": "GM",
+  "followers": 654,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776425858,
+  "joined": 1597606907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 979,
+      "date": 1758961761,
+      "rd": 236
+    },
+    "record": {
+      "win": 6,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 135529,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2955,
+      "date": 1745690399,
+      "rd": 34
+    },
+    "best": {
+      "rating": 3011,
+      "date": 1734202776,
+      "game": "https://www.chess.com/game/live/127938047285"
+    },
+    "record": {
+      "win": 227,
+      "loss": 115,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2685,
+      "date": 1745943645,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2844,
+      "date": 1693948045,
+      "game": "https://www.chess.com/game/live/87686538217"
+    },
+    "record": {
+      "win": 31,
+      "loss": 16,
+      "draw": 7
+    }
+  },
+  "fide": 2588,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1597606907
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1597606907
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "player_id": 22743716,
+  "@id": "https://api.chess.com/pub/player/david_alex",
+  "url": "https://www.chess.com/member/david_alex",
+  "name": "David-Alexandru Botea",
+  "username": "david_alex",
+  "title": "FM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776536601,
+  "joined": 1433828659,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1628,
+      "date": 1774368336,
+      "rd": 81
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1612117203,
+      "game": "https://www.chess.com/game/daily/302663144"
+    },
+    "record": {
+      "win": 158,
+      "loss": 52,
+      "draw": 11,
+      "time_per_move": 72154,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 940,
+      "date": 1527346791,
+      "rd": 269
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1433828659,
+      "game": "https://www.chess.com/game/daily/195272108"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 72154,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2155,
+      "date": 1738442040,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2196,
+      "date": 1642242638,
+      "game": "https://www.chess.com/game/live/29240401059"
+    },
+    "record": {
+      "win": 96,
+      "loss": 59,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2199,
+      "date": 1696234081,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1640692835,
+      "game": "https://www.chess.com/game/live/3711674966"
+    },
+    "record": {
+      "win": 438,
+      "loss": 255,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1771868821,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1737817216,
+      "game": "https://www.chess.com/game/live/96137052475"
+    },
+    "record": {
+      "win": 867,
+      "loss": 721,
+      "draw": 111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2413,
+      "date": 1763921989
+    },
+    "lowest": {
+      "rating": 2213,
+      "date": 1760360707
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

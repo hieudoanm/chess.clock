@@ -1,0 +1,84 @@
+{
+  "player_id": 45088268,
+  "@id": "https://api.chess.com/pub/player/smile2005",
+  "url": "https://www.chess.com/member/Smile2005",
+  "name": "Maksim Zhukov",
+  "username": "smile2005",
+  "title": "FM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776549019,
+  "joined": 1523165523,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1630,
+      "date": 1776258260,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1686515440,
+      "game": "https://www.chess.com/game/live/80254297229"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2352,
+      "date": 1737413325,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1660990585,
+      "game": "https://www.chess.com/game/live/44052961363"
+    },
+    "record": {
+      "win": 235,
+      "loss": 223,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1776549017,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2621,
+      "date": 1770128422,
+      "game": "https://www.chess.com/game/live/10257767009"
+    },
+    "record": {
+      "win": 4518,
+      "loss": 4544,
+      "draw": 1017
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2142,
+      "date": 1773835674
+    },
+    "lowest": {
+      "rating": 1956,
+      "date": 1773935844
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

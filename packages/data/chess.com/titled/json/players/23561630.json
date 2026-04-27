@@ -1,0 +1,69 @@
+{
+  "player_id": 23561630,
+  "@id": "https://api.chess.com/pub/player/nouma78",
+  "url": "https://www.chess.com/member/nouma78",
+  "name": "Petr Neuman",
+  "username": "nouma78",
+  "title": "GM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1586127641,
+  "joined": 1438899900,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1960,
+      "date": 1621412896,
+      "rd": 71
+    },
+    "best": {
+      "rating": 1960,
+      "date": 1585903454,
+      "game": "https://www.chess.com/game/daily/253945530"
+    },
+    "record": {
+      "win": 42,
+      "loss": 20,
+      "draw": 3,
+      "time_per_move": 6070,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2461,
+      "date": 1585685121,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2561,
+      "date": 1578517510,
+      "game": "https://www.chess.com/game/live/4382090930"
+    },
+    "record": {
+      "win": 149,
+      "loss": 115,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1438899900
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1438899900
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 83523710,
+  "@id": "https://api.chess.com/pub/player/larciano",
+  "url": "https://www.chess.com/member/Larciano",
+  "name": "Brigitte von Herman",
+  "username": "larciano",
+  "title": "WFM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1769091687,
+  "joined": 1592647336,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1876,
+      "date": 1623006694,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1617293441,
+      "game": "https://www.chess.com/game/live/11032419119"
+    },
+    "record": {
+      "win": 14,
+      "loss": 43,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2029,
+      "date": 1626203114,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1622299509,
+      "game": "https://www.chess.com/game/live/15951260113"
+    },
+    "record": {
+      "win": 43,
+      "loss": 78,
+      "draw": 5
+    }
+  },
+  "fide": 2085,
+  "tactics": {
+    "highest": {
+      "rating": 1113,
+      "date": 1763747471
+    },
+    "lowest": {
+      "rating": 1035,
+      "date": 1763747437
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

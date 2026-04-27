@@ -1,0 +1,66 @@
+{
+  "player_id": 65113000,
+  "@id": "https://api.chess.com/pub/player/iamastraw",
+  "url": "https://www.chess.com/member/iamastraw",
+  "name": "Brandon Jacobson",
+  "username": "iamastraw",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1590162895,
+  "joined": 1567644178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3120,
+      "date": 1590180769,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3116,
+      "date": 1589934582,
+      "game": "https://www.chess.com/game/live/4885038801"
+    },
+    "record": {
+      "win": 86,
+      "loss": 83,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2947,
+      "date": 1590188835,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3008,
+      "date": 1590182331,
+      "game": "https://www.chess.com/game/live/4884782469"
+    },
+    "record": {
+      "win": 156,
+      "loss": 151,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1567644178
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1567644178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

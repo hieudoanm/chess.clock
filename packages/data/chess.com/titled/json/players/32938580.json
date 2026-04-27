@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32938580.5cd9cb07.200x200o.dd539f75a36c.jpg",
+  "player_id": 32938580,
+  "@id": "https://api.chess.com/pub/player/chesspeople",
+  "url": "https://www.chess.com/member/ChessPeople",
+  "name": "Brodie McClymont",
+  "username": "chesspeople",
+  "title": "IM",
+  "followers": 289,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Toowoomba City",
+  "last_online": 1776310465,
+  "joined": 1486268781,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2240,
+      "date": 1691656110,
+      "rd": 239
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1660099203,
+      "game": "https://www.chess.com/game/daily/188119920"
+    },
+    "record": {
+      "win": 222,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 28380,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1512495610,
+      "rd": 256
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1504266006,
+      "game": "https://www.chess.com/game/daily/169931018"
+    },
+    "record": {
+      "win": 14,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28380,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2708,
+      "date": 1593228010,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2689,
+      "date": 1512885733,
+      "game": "https://www.chess.com/game/live/2331274106"
+    },
+    "record": {
+      "win": 4328,
+      "loss": 3010,
+      "draw": 348
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1633487708,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1508602244,
+      "game": "https://www.chess.com/game/live/2382307649"
+    },
+    "record": {
+      "win": 91,
+      "loss": 34,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1614,
+      "date": 1486268781
+    },
+    "lowest": {
+      "rating": 1614,
+      "date": 1486268781
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

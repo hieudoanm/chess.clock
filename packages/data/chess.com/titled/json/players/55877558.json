@@ -1,0 +1,105 @@
+{
+  "player_id": 55877558,
+  "@id": "https://api.chess.com/pub/player/eithanruiz12",
+  "url": "https://www.chess.com/member/EithanRuiz12",
+  "name": "Eithan Ruiz",
+  "username": "eithanruiz12",
+  "title": "CM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "Jalisco",
+  "last_online": 1775366664,
+  "joined": 1547315242,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 947,
+      "date": 1773888990,
+      "rd": 105
+    },
+    "best": {
+      "rating": 947,
+      "date": 1745597466,
+      "game": "https://www.chess.com/game/daily/800943625"
+    },
+    "record": {
+      "win": 20,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 6661,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2079,
+      "date": 1758891351,
+      "rd": 149
+    },
+    "best": {
+      "rating": 1596,
+      "date": 1645334584,
+      "game": "https://www.chess.com/game/live/24197199923"
+    },
+    "record": {
+      "win": 103,
+      "loss": 63,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2248,
+      "date": 1774833523,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1758947663,
+      "game": "https://www.chess.com/game/live/143529628276"
+    },
+    "record": {
+      "win": 329,
+      "loss": 265,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2328,
+      "date": 1766511354,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1766509177,
+      "game": "https://www.chess.com/game/live/160820821859"
+    },
+    "record": {
+      "win": 299,
+      "loss": 202,
+      "draw": 24
+    }
+  },
+  "fide": 2079,
+  "tactics": {
+    "highest": {
+      "rating": 2365,
+      "date": 1758937041
+    },
+    "lowest": {
+      "rating": 2003,
+      "date": 1764716541
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

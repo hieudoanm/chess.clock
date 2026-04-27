@@ -1,0 +1,84 @@
+{
+  "player_id": 59258192,
+  "@id": "https://api.chess.com/pub/player/nw_tynka",
+  "url": "https://www.chess.com/member/nw_tynka",
+  "name": "Kristyna Petrova",
+  "username": "nw_tynka",
+  "title": "WGM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1774281227,
+  "joined": 1554102145,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2442,
+      "date": 1766576128,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2442,
+      "date": 1766576128,
+      "game": "https://www.chess.com/game/live/145077666416"
+    },
+    "record": {
+      "win": 70,
+      "loss": 31,
+      "draw": 30
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1756406702,
+      "rd": 204
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1756406702,
+      "game": "https://www.chess.com/game/live/3624341236"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2284,
+      "date": 1773313654,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1769323419,
+      "game": "https://www.chess.com/game/live/164349151446"
+    },
+    "record": {
+      "win": 349,
+      "loss": 287,
+      "draw": 107
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2183,
+      "date": 1762025257
+    },
+    "lowest": {
+      "rating": 2126,
+      "date": 1755539270
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

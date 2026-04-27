@@ -1,0 +1,102 @@
+{
+  "player_id": 9019504,
+  "@id": "https://api.chess.com/pub/player/jat0123",
+  "url": "https://www.chess.com/member/jat0123",
+  "username": "jat0123",
+  "title": "NM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776538460,
+  "joined": 1348459934,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1316,
+      "date": 1762443860,
+      "rd": 243
+    },
+    "best": {
+      "rating": 1316,
+      "date": 1609285958,
+      "game": "https://www.chess.com/game/daily/293229342"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 52840,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2296,
+      "date": 1765225527,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1655672159,
+      "game": "https://www.chess.com/game/live/44770782535"
+    },
+    "record": {
+      "win": 168,
+      "loss": 62,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2674,
+      "date": 1776499942,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2926,
+      "date": 1766606279,
+      "game": "https://www.chess.com/game/live/147128625718"
+    },
+    "record": {
+      "win": 4276,
+      "loss": 3247,
+      "draw": 566
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2529,
+      "date": 1775585994,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1770669281,
+      "game": "https://www.chess.com/game/live/145709118224"
+    },
+    "record": {
+      "win": 456,
+      "loss": 280,
+      "draw": 36
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2664,
+      "date": 1772823290
+    },
+    "lowest": {
+      "rating": 2491,
+      "date": 1768246422
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

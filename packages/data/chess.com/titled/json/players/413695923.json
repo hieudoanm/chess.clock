@@ -1,0 +1,89 @@
+{
+  "player_id": 413695923,
+  "@id": "https://api.chess.com/pub/player/testtheline",
+  "url": "https://www.chess.com/member/TestTheLine",
+  "username": "testtheline",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776590130,
+  "joined": 1735541524,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1464,
+      "date": 1759211918,
+      "rd": 238
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1757421511,
+      "game": "https://www.chess.com/game/daily/864217325"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 25158,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2292,
+      "date": 1776020472,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2484,
+      "date": 1738527911,
+      "game": "https://www.chess.com/game/live/132266985303"
+    },
+    "record": {
+      "win": 17,
+      "loss": 13,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1776365293,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1774079636,
+      "game": "https://www.chess.com/game/live/140695873960"
+    },
+    "record": {
+      "win": 831,
+      "loss": 504,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2659,
+      "date": 1776515071
+    },
+    "lowest": {
+      "rating": 2385,
+      "date": 1759089670
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    },
+    "daily": {
+      "total_attempts": 47,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/162387209.2144e7a4.200x200o.88ab938386b3.jpg",
+  "player_id": 162387209,
+  "@id": "https://api.chess.com/pub/player/matthew_clarke",
+  "url": "https://www.chess.com/member/Matthew_Clarke",
+  "name": "Matthew Clarke",
+  "username": "matthew_clarke",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1772660902,
+  "joined": 1637737455,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1966,
+      "date": 1746606671,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1679740272,
+      "game": "https://www.chess.com/game/daily/386802445"
+    },
+    "record": {
+      "win": 524,
+      "loss": 286,
+      "draw": 8,
+      "time_per_move": 94412,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1702962254,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2164,
+      "date": 1699871907,
+      "game": "https://www.chess.com/game/live/80979026177"
+    },
+    "record": {
+      "win": 57,
+      "loss": 11,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2110,
+      "date": 1718094913,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2127,
+      "date": 1640513181,
+      "game": "https://www.chess.com/game/live/35467656385"
+    },
+    "record": {
+      "win": 70,
+      "loss": 40,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1995,
+      "date": 1769128893,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1640425302,
+      "game": "https://www.chess.com/game/live/79824137565"
+    },
+    "record": {
+      "win": 357,
+      "loss": 230,
+      "draw": 27
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2647,
+      "date": 1770156241
+    },
+    "lowest": {
+      "rating": 470,
+      "date": 1767766752
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 46
+    }
+  }
+}

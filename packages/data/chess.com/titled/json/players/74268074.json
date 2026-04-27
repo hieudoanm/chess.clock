@@ -1,0 +1,104 @@
+{
+  "player_id": 74268074,
+  "@id": "https://api.chess.com/pub/player/fcm002",
+  "url": "https://www.chess.com/member/FCM002",
+  "name": "Benson Schexnaydre",
+  "username": "fcm002",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1752893143,
+  "joined": 1584980185,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2030,
+      "date": 1730809864,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1593369882,
+      "game": "https://www.chess.com/game/daily/255993604"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 81516,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2074,
+      "date": 1730809865,
+      "rd": 224
+    },
+    "best": {
+      "rating": 2033,
+      "date": 1678749567,
+      "game": "https://www.chess.com/game/live/5241972753"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2316,
+      "date": 1752603744,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1752602978,
+      "game": "https://www.chess.com/game/live/103396304127"
+    },
+    "record": {
+      "win": 291,
+      "loss": 247,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1748380544,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1682187718,
+      "game": "https://www.chess.com/game/live/142693809739"
+    },
+    "record": {
+      "win": 278,
+      "loss": 202,
+      "draw": 33
+    }
+  },
+  "fide": 2074,
+  "tactics": {
+    "highest": {
+      "rating": 2715,
+      "date": 1584980185
+    },
+    "lowest": {
+      "rating": 2715,
+      "date": 1584980185
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

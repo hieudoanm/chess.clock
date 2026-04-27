@@ -1,0 +1,83 @@
+{
+  "player_id": 88119710,
+  "@id": "https://api.chess.com/pub/player/rise_18",
+  "url": "https://www.chess.com/member/Rise_18",
+  "username": "rise_18",
+  "title": "WCM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1766446868,
+  "joined": 1596357801,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2156,
+      "date": 1747367888,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1733387820,
+      "game": "https://www.chess.com/game/live/71566309039"
+    },
+    "record": {
+      "win": 184,
+      "loss": 79,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1821,
+      "date": 1759956936,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1961,
+      "date": 1675940972,
+      "game": "https://www.chess.com/game/live/104413834279"
+    },
+    "record": {
+      "win": 586,
+      "loss": 479,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1997,
+      "date": 1756177223,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2028,
+      "date": 1735468041,
+      "game": "https://www.chess.com/game/live/129012774703"
+    },
+    "record": {
+      "win": 209,
+      "loss": 114,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2287,
+      "date": 1760069616
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1760069546
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

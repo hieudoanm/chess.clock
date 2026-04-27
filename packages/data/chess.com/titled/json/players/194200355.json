@@ -1,0 +1,104 @@
+{
+  "player_id": 194200355,
+  "@id": "https://api.chess.com/pub/player/lopesakalopes",
+  "url": "https://www.chess.com/member/lopesakalopes",
+  "name": "Leonardo Lopes Dos Santos",
+  "username": "lopesakalopes",
+  "title": "NM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776353896,
+  "joined": 1661091689,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 791,
+      "date": 1766496040,
+      "rd": 231
+    },
+    "best": {
+      "rating": 791,
+      "date": 1746669029,
+      "game": "https://www.chess.com/game/daily/795109885"
+    },
+    "record": {
+      "win": 18,
+      "loss": 27,
+      "draw": 0,
+      "time_per_move": 80475,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2085,
+      "date": 1776350765,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1776350765,
+      "game": "https://www.chess.com/game/live/80676758727"
+    },
+    "record": {
+      "win": 1580,
+      "loss": 1570,
+      "draw": 184
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2073,
+      "date": 1766859321,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1766859095,
+      "game": "https://www.chess.com/game/live/161169425913"
+    },
+    "record": {
+      "win": 956,
+      "loss": 722,
+      "draw": 77
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2332,
+      "date": 1776562428,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1771358949,
+      "game": "https://www.chess.com/game/live/153650197373"
+    },
+    "record": {
+      "win": 3409,
+      "loss": 3558,
+      "draw": 390
+    }
+  },
+  "fide": 2039,
+  "tactics": {
+    "highest": {
+      "rating": 2237,
+      "date": 1767792452
+    },
+    "lowest": {
+      "rating": 2188,
+      "date": 1767714236
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

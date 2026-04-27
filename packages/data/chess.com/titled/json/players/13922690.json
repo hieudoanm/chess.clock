@@ -1,0 +1,85 @@
+{
+  "player_id": 13922690,
+  "@id": "https://api.chess.com/pub/player/eend",
+  "url": "https://www.chess.com/member/Eend",
+  "name": "Thomas Willemze",
+  "username": "eend",
+  "title": "IM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Haarlem",
+  "last_online": 1776370627,
+  "joined": 1381915905,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1621079770,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1610810453,
+      "game": "https://www.chess.com/game/live/6395655495"
+    },
+    "record": {
+      "win": 13,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2117,
+      "date": 1630086227,
+      "rd": 256
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1630086227,
+      "game": "https://www.chess.com/game/live/23824721251"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2221,
+      "date": 1688068400,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1638909714,
+      "game": "https://www.chess.com/game/live/32648364181"
+    },
+    "record": {
+      "win": 18,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2581,
+      "date": 1381915905
+    },
+    "lowest": {
+      "rating": 2581,
+      "date": 1381915905
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 35
+    }
+  }
+}

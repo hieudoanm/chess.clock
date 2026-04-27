@@ -1,0 +1,99 @@
+{
+  "player_id": 13108522,
+  "@id": "https://api.chess.com/pub/player/dynamita",
+  "url": "https://www.chess.com/member/Dynamita",
+  "name": "Dynamita",
+  "username": "dynamita",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776447939,
+  "joined": 1376261042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1760018994,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 38,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1759431239,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1759431239,
+      "game": "https://www.chess.com/game/live/143826877758"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2271,
+      "date": 1755877220,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1748989832,
+      "game": "https://www.chess.com/game/live/139185988362"
+    },
+    "record": {
+      "win": 43,
+      "loss": 37,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2318,
+      "date": 1766165484,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1681675751,
+      "game": "https://www.chess.com/game/live/784962065"
+    },
+    "record": {
+      "win": 3342,
+      "loss": 3409,
+      "draw": 327
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1376261042
+    },
+    "lowest": {
+      "rating": 2495,
+      "date": 1376261042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 31
+    }
+  }
+}

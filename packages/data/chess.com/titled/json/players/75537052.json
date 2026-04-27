@@ -1,0 +1,85 @@
+{
+  "player_id": 75537052,
+  "@id": "https://api.chess.com/pub/player/yacoobeen",
+  "url": "https://www.chess.com/member/YacooBeen",
+  "name": "Jakub Roubalik",
+  "username": "yacoobeen",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776580563,
+  "joined": 1585929665,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2306,
+      "date": 1726848910,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1726846605,
+      "game": "https://www.chess.com/game/live/120585017951"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1767817197,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1740854325,
+      "game": "https://www.chess.com/game/live/134591954365"
+    },
+    "record": {
+      "win": 147,
+      "loss": 177,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2476,
+      "date": 1772224890,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1759065020,
+      "game": "https://www.chess.com/game/live/149853496545"
+    },
+    "record": {
+      "win": 973,
+      "loss": 844,
+      "draw": 126
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2523,
+      "date": 1765012883
+    },
+    "lowest": {
+      "rating": 2396,
+      "date": 1771140109
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 40
+    }
+  }
+}

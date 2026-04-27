@@ -1,0 +1,63 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/73722206.b1f455f1.200x200o.5e9bd05439e6.jpeg",
+  "player_id": 73722206,
+  "@id": "https://api.chess.com/pub/player/georgegiorgadze",
+  "url": "https://www.chess.com/member/GeorgeGiorgadze",
+  "name": "George Giorgadze",
+  "username": "georgegiorgadze",
+  "title": "GM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/GE",
+  "location": "Tbilisi",
+  "last_online": 1776591797,
+  "joined": 1584469412,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1758,
+      "date": 1627149632,
+      "rd": 313
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2245,
+      "date": 1620235459,
+      "rd": 186
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1620235459,
+      "game": "https://www.chess.com/game/live/13974088733"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2812,
+      "date": 1755627141
+    },
+    "lowest": {
+      "rating": 2659,
+      "date": 1762275721
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

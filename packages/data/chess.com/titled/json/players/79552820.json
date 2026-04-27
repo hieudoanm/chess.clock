@@ -1,0 +1,83 @@
+{
+    "player_id": 79552820,
+    "@id": "https://api.chess.com/pub/player/anpospan",
+    "url": "https://www.chess.com/member/anpospan",
+    "name": "Igor Spiric",
+    "username": "anpospan",
+    "title": "FM",
+    "followers": 14,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1695717846,
+    "joined": 1589532310,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2347,
+            "date": 1630774636,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2368,
+            "date": 1592676287,
+            "game": "https://www.chess.com/game/live/5501712042"
+        },
+        "record": {
+            "win": 53,
+            "loss": 29,
+            "draw": 29
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2263,
+            "date": 1621708597,
+            "rd": 85
+        },
+        "best": {
+            "rating": 2448,
+            "date": 1591740767,
+            "game": "https://www.chess.com/game/live/5799572949"
+        },
+        "record": {
+            "win": 25,
+            "loss": 23,
+            "draw": 4
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2321,
+            "date": 1630778656,
+            "rd": 60
+        },
+        "best": {
+            "rating": 2463,
+            "date": 1606594368,
+            "game": "https://www.chess.com/game/live/8447059213"
+        },
+        "record": {
+            "win": 2000,
+            "loss": 1748,
+            "draw": 427
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3259,
+            "date": 1606646346
+        },
+        "lowest": {
+            "rating": 1214,
+            "date": 1589648629
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 59,
+            "score": 56
+        }
+    }
+}

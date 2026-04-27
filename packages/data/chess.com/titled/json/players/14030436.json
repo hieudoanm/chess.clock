@@ -1,0 +1,104 @@
+{
+  "player_id": 14030436,
+  "@id": "https://api.chess.com/pub/player/azde",
+  "url": "https://www.chess.com/member/Azde",
+  "name": "Eduardo Azael Ayala Pena",
+  "username": "azde",
+  "title": "CM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1775962797,
+  "joined": 1382588650,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1519,
+      "date": 1762939702,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1382588650,
+      "game": "https://www.chess.com/game/daily/209516752"
+    },
+    "record": {
+      "win": 41,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 58065,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1755,
+      "date": 1473040355,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2032,
+      "date": 1469123370,
+      "game": "https://www.chess.com/game/live/1663364803"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1763934002,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1757048752,
+      "game": "https://www.chess.com/game/live/142720384926"
+    },
+    "record": {
+      "win": 3097,
+      "loss": 2965,
+      "draw": 296
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2630,
+      "date": 1763832191,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2657,
+      "date": 1763773611,
+      "game": "https://www.chess.com/game/live/4821078056"
+    },
+    "record": {
+      "win": 1936,
+      "loss": 1792,
+      "draw": 276
+    }
+  },
+  "fide": 2201,
+  "tactics": {
+    "highest": {
+      "rating": 2642,
+      "date": 1382588650
+    },
+    "lowest": {
+      "rating": 2642,
+      "date": 1382588650
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 193545213,
+  "@id": "https://api.chess.com/pub/player/seiya_the_king",
+  "url": "https://www.chess.com/member/Seiya_The_King",
+  "username": "seiya_the_king",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/EH",
+  "last_online": 1751756597,
+  "joined": 1660607512,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2004,
+      "date": 1734814207,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1734574434,
+      "game": "https://www.chess.com/game/live/125025574493"
+    },
+    "record": {
+      "win": 65,
+      "loss": 15,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2108,
+      "date": 1734176670,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1730016432,
+      "game": "https://www.chess.com/game/live/123756638309"
+    },
+    "record": {
+      "win": 14,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2026,
+      "date": 1748733575,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1748545319,
+      "game": "https://www.chess.com/game/live/128533398981"
+    },
+    "record": {
+      "win": 137,
+      "loss": 77,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1660607512
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1660607512
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

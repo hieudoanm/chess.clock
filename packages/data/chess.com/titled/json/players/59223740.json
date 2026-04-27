@@ -1,0 +1,79 @@
+{
+  "player_id": 59223740,
+  "@id": "https://api.chess.com/pub/player/anne93",
+  "url": "https://www.chess.com/member/Anne93",
+  "name": "Anne Haast",
+  "username": "anne93",
+  "title": "WGM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1771269599,
+  "joined": 1554025092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1622906061,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1598017029,
+      "game": "https://www.chess.com/game/live/5296654742"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2385,
+      "date": 1733573126,
+      "rd": 340
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2278,
+      "date": 1765117644,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1606652041,
+      "game": "https://www.chess.com/game/live/65113818693"
+    },
+    "record": {
+      "win": 44,
+      "loss": 40,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1765089842
+    },
+    "lowest": {
+      "rating": 2335,
+      "date": 1765089639
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

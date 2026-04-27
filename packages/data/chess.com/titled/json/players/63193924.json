@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/63193924.3e492ee8.200x200o.b94007ebf7ab.jpeg",
+  "player_id": 63193924,
+  "@id": "https://api.chess.com/pub/player/tastytablet",
+  "url": "https://www.chess.com/member/TastyTablet",
+  "name": "Nikita Voinikonis",
+  "username": "tastytablet",
+  "title": "FM",
+  "followers": 132,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776592723,
+  "joined": 1562873181,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1823,
+      "date": 1774369712,
+      "rd": 279
+    },
+    "best": {
+      "rating": 1883,
+      "date": 1585246952,
+      "game": "https://www.chess.com/game/daily/250800234"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 1,
+      "time_per_move": 95681,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2616,
+      "date": 1698170199,
+      "rd": 208
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1698170199,
+      "game": "https://www.chess.com/game/live/91909146769"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1755252158,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2669,
+      "date": 1625158484,
+      "game": "https://www.chess.com/game/live/4217177012"
+    },
+    "record": {
+      "win": 724,
+      "loss": 593,
+      "draw": 73
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2724,
+      "date": 1776592710,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1774718257,
+      "game": "https://www.chess.com/game/live/166808498550"
+    },
+    "record": {
+      "win": 1655,
+      "loss": 1407,
+      "draw": 379
+    }
+  },
+  "fide": 2217,
+  "tactics": {
+    "highest": {
+      "rating": 2609,
+      "date": 1562873181
+    },
+    "lowest": {
+      "rating": 2609,
+      "date": 1562873181
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

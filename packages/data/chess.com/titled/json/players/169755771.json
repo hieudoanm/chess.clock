@@ -1,0 +1,85 @@
+{
+  "player_id": 169755771,
+  "@id": "https://api.chess.com/pub/player/chess_cryptoworld",
+  "url": "https://www.chess.com/member/chess_cryptoworld",
+  "name": "Rushaan Mahajan",
+  "username": "chess_cryptoworld",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776576451,
+  "joined": 1642737045,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1990,
+      "date": 1749653928,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1736210027,
+      "game": "https://www.chess.com/game/live/129947977335"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2531,
+      "date": 1776480659,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1755488249,
+      "game": "https://www.chess.com/game/live/113753984391"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1776575931,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2662,
+      "date": 1722479173,
+      "game": "https://www.chess.com/game/live/73181677281"
+    },
+    "record": {
+      "win": 1874,
+      "loss": 2099,
+      "draw": 367
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2200,
+      "date": 1642737045
+    },
+    "lowest": {
+      "rating": 2200,
+      "date": 1642737045
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

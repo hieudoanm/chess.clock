@@ -1,0 +1,80 @@
+{
+  "player_id": 77415772,
+  "@id": "https://api.chess.com/pub/player/milosji",
+  "url": "https://www.chess.com/member/MilosJi",
+  "name": "Milos Jirovsky",
+  "username": "milosji",
+  "title": "GM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1655544598,
+  "joined": 1587497106,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1971,
+      "date": 1590857575,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1590769228,
+      "game": "https://www.chess.com/game/live/4924544288"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2305,
+      "date": 1655571889,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1595751695,
+      "game": "https://www.chess.com/game/live/5267235457"
+    },
+    "record": {
+      "win": 236,
+      "loss": 61,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1638648680,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1598294690,
+      "game": "https://www.chess.com/game/live/6429345671"
+    },
+    "record": {
+      "win": 381,
+      "loss": 235,
+      "draw": 72
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1587497106
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1587497106
+    }
+  },
+  "puzzle_rush": {}
+}

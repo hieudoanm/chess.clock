@@ -1,0 +1,84 @@
+{
+  "player_id": 28683448,
+  "@id": "https://api.chess.com/pub/player/klauser63",
+  "url": "https://www.chess.com/member/klauser63",
+  "name": "Claudio Sericano",
+  "username": "klauser63",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1775306309,
+  "joined": 1466248080,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1915,
+      "date": 1695328466,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1628274770,
+      "game": "https://www.chess.com/game/live/88696395931"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2169,
+      "date": 1735838905,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1657476964,
+      "game": "https://www.chess.com/game/live/110035269857"
+    },
+    "record": {
+      "win": 85,
+      "loss": 75,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2494,
+      "date": 1772368619,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1752756562,
+      "game": "https://www.chess.com/game/live/117998422985"
+    },
+    "record": {
+      "win": 1150,
+      "loss": 1111,
+      "draw": 170
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2203,
+      "date": 1466248080
+    },
+    "lowest": {
+      "rating": 2203,
+      "date": 1466248080
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

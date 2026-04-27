@@ -1,0 +1,85 @@
+{
+  "player_id": 4376609,
+  "@id": "https://api.chess.com/pub/player/arathorn2",
+  "url": "https://www.chess.com/member/Arathorn2",
+  "name": "Christian",
+  "username": "arathorn2",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1694031810,
+  "joined": 1292100443,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2286,
+      "date": 1639610732,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2286,
+      "date": 1639610732,
+      "game": "https://www.chess.com/game/live/33347648217"
+    },
+    "record": {
+      "win": 25,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2208,
+      "date": 1606162770,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1577978029,
+      "game": "https://www.chess.com/game/live/4502525116"
+    },
+    "record": {
+      "win": 3661,
+      "loss": 1699,
+      "draw": 223
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2379,
+      "date": 1651869404,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1649877644,
+      "game": "https://www.chess.com/game/live/4337083682"
+    },
+    "record": {
+      "win": 3300,
+      "loss": 1421,
+      "draw": 350
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2622,
+      "date": 1292100443
+    },
+    "lowest": {
+      "rating": 2622,
+      "date": 1292100443
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

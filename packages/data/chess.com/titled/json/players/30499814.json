@@ -1,0 +1,78 @@
+{
+  "player_id": 30499814,
+  "@id": "https://api.chess.com/pub/player/tony15051987",
+  "url": "https://www.chess.com/member/tony15051987",
+  "name": "Anthony Bellaiche",
+  "username": "tony15051987",
+  "title": "IM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Paris",
+  "last_online": 1776374482,
+  "joined": 1476990737,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1719841096,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 3533870,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1741,
+      "date": 1772023817,
+      "rd": 160
+    },
+    "best": {
+      "rating": 1814,
+      "date": 1616675169,
+      "game": "https://www.chess.com/game/live/10413960863"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2565,
+      "date": 1776374216,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1732457848,
+      "game": "https://www.chess.com/game/live/46396161103"
+    },
+    "record": {
+      "win": 6328,
+      "loss": 5309,
+      "draw": 766
+    }
+  },
+  "fide": 2499,
+  "tactics": {
+    "highest": {
+      "rating": 2550,
+      "date": 1764511148
+    },
+    "lowest": {
+      "rating": 2288,
+      "date": 1768945581
+    }
+  },
+  "puzzle_rush": {}
+}

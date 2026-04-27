@@ -1,0 +1,87 @@
+{
+  "player_id": 1317291,
+  "@id": "https://api.chess.com/pub/player/zycie_to_gra",
+  "url": "https://www.chess.com/member/Zycie_to_gra",
+  "name": "Rory Quinn",
+  "username": "zycie_to_gra",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1776389369,
+  "joined": 1204232007,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 875,
+      "date": 1731078091,
+      "rd": 322
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1204232007,
+      "game": "https://www.chess.com/game/daily/328192908"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8178,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2073,
+      "date": 1731078092,
+      "rd": 313
+    },
+    "best": {
+      "rating": 1238,
+      "date": 1618776328,
+      "game": "https://www.chess.com/game/live/12513968909"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1776380116,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2295,
+      "date": 1775953383,
+      "game": "https://www.chess.com/game/live/167001245668"
+    },
+    "record": {
+      "win": 390,
+      "loss": 248,
+      "draw": 30
+    }
+  },
+  "fide": 2073,
+  "tactics": {
+    "highest": {
+      "rating": 1842,
+      "date": 1204232007
+    },
+    "lowest": {
+      "rating": 1842,
+      "date": 1204232007
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40385996.46d50d53.200x200o.99a1a03a57b8.png",
+  "player_id": 40385996,
+  "@id": "https://api.chess.com/pub/player/cecile-haussernot",
+  "url": "https://www.chess.com/member/Cecile-Haussernot",
+  "name": "C\u00e9cile Haussernot",
+  "username": "cecile-haussernot",
+  "title": "WIM",
+  "followers": 8111,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776197610,
+  "joined": 1510734223,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@cecile_haussernot"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1749145088,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1749145088,
+      "game": "https://www.chess.com/game/daily/816885066"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 268720,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2410,
+      "date": 1771091335,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1771091335,
+      "game": "https://www.chess.com/game/live/122309343521"
+    },
+    "record": {
+      "win": 39,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2680,
+      "date": 1774746978,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2781,
+      "date": 1753306272,
+      "game": "https://www.chess.com/game/live/164884205364"
+    },
+    "record": {
+      "win": 1120,
+      "loss": 1056,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2739,
+      "date": 1772308074,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2811,
+      "date": 1758476857,
+      "game": "https://www.chess.com/game/live/139501624886"
+    },
+    "record": {
+      "win": 1440,
+      "loss": 1322,
+      "draw": 194
+    }
+  },
+  "fide": 2254,
+  "tactics": {
+    "highest": {
+      "rating": 2630,
+      "date": 1760135158
+    },
+    "lowest": {
+      "rating": 2515,
+      "date": 1756758848
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

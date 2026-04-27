@@ -1,0 +1,84 @@
+{
+  "player_id": 4582930,
+  "@id": "https://api.chess.com/pub/player/king_kinto",
+  "url": "https://www.chess.com/member/king_kinto",
+  "name": "Kinto Wan",
+  "username": "king_kinto",
+  "title": "CM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Sydney",
+  "last_online": 1653108401,
+  "joined": 1295504231,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2099,
+      "date": 1614424539,
+      "rd": 273
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1606647183,
+      "game": "https://www.chess.com/game/live/5845655076"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1604674334,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2150,
+      "date": 1604674162,
+      "game": "https://www.chess.com/game/live/433655395"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2219,
+      "date": 1623416042,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1623416042,
+      "game": "https://www.chess.com/game/live/4279555059"
+    },
+    "record": {
+      "win": 628,
+      "loss": 521,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1295504231
+    },
+    "lowest": {
+      "rating": 2353,
+      "date": 1295504231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

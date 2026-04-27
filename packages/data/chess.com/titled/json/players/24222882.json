@@ -1,0 +1,117 @@
+{
+  "player_id": 24222882,
+  "@id": "https://api.chess.com/pub/player/unstoppable_dragon",
+  "url": "https://www.chess.com/member/Unstoppable_dragon",
+  "name": "Arthur Bantefa",
+  "username": "unstoppable_dragon",
+  "title": "CM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776446624,
+  "joined": 1442873111,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1135,
+      "date": 1764247748,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1372,
+      "date": 1541334232,
+      "game": "https://www.chess.com/game/daily/194514878"
+    },
+    "record": {
+      "win": 20,
+      "loss": 25,
+      "draw": 1,
+      "time_per_move": 49807,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 756,
+      "date": 1555678206,
+      "rd": 303
+    },
+    "record": {
+      "win": 2,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 49807,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1769700535,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2190,
+      "date": 1702223420,
+      "game": "https://www.chess.com/game/live/105637225985"
+    },
+    "record": {
+      "win": 662,
+      "loss": 743,
+      "draw": 84
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2334,
+      "date": 1766102448,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1737663428,
+      "game": "https://www.chess.com/game/live/101748207017"
+    },
+    "record": {
+      "win": 771,
+      "loss": 735,
+      "draw": 81
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2213,
+      "date": 1776446617,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1702648707,
+      "game": "https://www.chess.com/game/live/105468618789"
+    },
+    "record": {
+      "win": 3476,
+      "loss": 3573,
+      "draw": 357
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2467,
+      "date": 1442873111
+    },
+    "lowest": {
+      "rating": 2467,
+      "date": 1442873111
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

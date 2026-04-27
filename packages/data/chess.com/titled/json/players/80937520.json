@@ -1,0 +1,86 @@
+{
+  "player_id": 80937520,
+  "@id": "https://api.chess.com/pub/player/pangtao",
+  "url": "https://www.chess.com/member/pangtao",
+  "name": "Tao Pang",
+  "username": "pangtao",
+  "title": "GM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/CN",
+  "location": "China",
+  "last_online": 1760943819,
+  "joined": 1590827509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2430,
+      "date": 1711185809,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1711179647,
+      "game": "https://www.chess.com/game/live/24756741843"
+    },
+    "record": {
+      "win": 42,
+      "loss": 13,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2580,
+      "date": 1758512120,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1718048632,
+      "game": "https://www.chess.com/game/live/111787405751"
+    },
+    "record": {
+      "win": 170,
+      "loss": 96,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2776,
+      "date": 1760939951,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2813,
+      "date": 1747421029,
+      "game": "https://www.chess.com/game/live/40270233183"
+    },
+    "record": {
+      "win": 1294,
+      "loss": 843,
+      "draw": 227
+    }
+  },
+  "fide": 2430,
+  "tactics": {
+    "highest": {
+      "rating": 2459,
+      "date": 1590827509
+    },
+    "lowest": {
+      "rating": 2459,
+      "date": 1590827509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

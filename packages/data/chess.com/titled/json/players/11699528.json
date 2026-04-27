@@ -1,0 +1,85 @@
+{
+  "player_id": 11699528,
+  "@id": "https://api.chess.com/pub/player/gektar1988",
+  "url": "https://www.chess.com/member/Gektar1988",
+  "name": "George Nagibin",
+  "username": "gektar1988",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776537500,
+  "joined": 1367250166,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1717,
+      "date": 1650201686,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1611383703,
+      "game": "https://www.chess.com/game/live/14456858071"
+    },
+    "record": {
+      "win": 59,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2566,
+      "date": 1766162921,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2654,
+      "date": 1602487983,
+      "game": "https://www.chess.com/game/live/2090427255"
+    },
+    "record": {
+      "win": 3101,
+      "loss": 1645,
+      "draw": 275
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2490,
+      "date": 1776536805,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1553435175,
+      "game": "https://www.chess.com/game/live/3578167309"
+    },
+    "record": {
+      "win": 1174,
+      "loss": 779,
+      "draw": 214
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2135,
+      "date": 1758399638
+    },
+    "lowest": {
+      "rating": 1821,
+      "date": 1758399151
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

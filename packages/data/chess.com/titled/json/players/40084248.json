@@ -1,0 +1,102 @@
+{
+  "player_id": 40084248,
+  "@id": "https://api.chess.com/pub/player/jajuraj",
+  "url": "https://www.chess.com/member/jajuraj",
+  "username": "jajuraj",
+  "title": "FM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/EU",
+  "last_online": 1776534806,
+  "joined": 1509899484,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1341,
+      "date": 1755785618,
+      "rd": 92
+    },
+    "best": {
+      "rating": 1429,
+      "date": 1704468949,
+      "game": "https://www.chess.com/game/daily/603717891"
+    },
+    "record": {
+      "win": 55,
+      "loss": 22,
+      "draw": 1,
+      "time_per_move": 14021,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2454,
+      "date": 1765138116,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1759866999,
+      "game": "https://www.chess.com/game/live/139510638718"
+    },
+    "record": {
+      "win": 1227,
+      "loss": 929,
+      "draw": 148
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2410,
+      "date": 1776429086,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1761513244,
+      "game": "https://www.chess.com/game/live/128540603629"
+    },
+    "record": {
+      "win": 1208,
+      "loss": 786,
+      "draw": 83
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2554,
+      "date": 1775069460,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1772959704,
+      "game": "https://www.chess.com/game/live/78080537579"
+    },
+    "record": {
+      "win": 3251,
+      "loss": 2259,
+      "draw": 291
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2348,
+      "date": 1771502556
+    },
+    "lowest": {
+      "rating": 2081,
+      "date": 1759954473
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

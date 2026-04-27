@@ -1,0 +1,83 @@
+{
+  "player_id": 24360800,
+  "@id": "https://api.chess.com/pub/player/3f32",
+  "url": "https://www.chess.com/member/3f32",
+  "username": "3f32",
+  "title": "IM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1762337741,
+  "joined": 1443639986,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2092,
+      "date": 1755817598,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1755636636,
+      "game": "https://www.chess.com/game/live/142089079138"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2616,
+      "date": 1574592598,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2720,
+      "date": 1500198191,
+      "game": "https://www.chess.com/game/live/2207236629"
+    },
+    "record": {
+      "win": 1475,
+      "loss": 1760,
+      "draw": 172
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2741,
+      "date": 1574615914,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1574279335,
+      "game": "https://www.chess.com/game/live/4221989545"
+    },
+    "record": {
+      "win": 1689,
+      "loss": 1766,
+      "draw": 290
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2462,
+      "date": 1757280518
+    },
+    "lowest": {
+      "rating": 2265,
+      "date": 1757280530
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 27527372,
+  "@id": "https://api.chess.com/pub/player/usurpov",
+  "url": "https://www.chess.com/member/Usurpov",
+  "name": "Marcelo Ripari",
+  "username": "usurpov",
+  "title": "FM",
+  "followers": 317,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1776433047,
+  "joined": 1459441380,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2332,
+      "date": 1711664989,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1574952916,
+      "game": "https://www.chess.com/game/daily/226976996"
+    },
+    "record": {
+      "win": 45,
+      "loss": 1,
+      "draw": 7,
+      "time_per_move": 11383,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2401,
+      "date": 1601422746,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1601422746,
+      "game": "https://www.chess.com/game/live/3561488517"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2330,
+      "date": 1774732021,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1601167055,
+      "game": "https://www.chess.com/game/live/46475319033"
+    },
+    "record": {
+      "win": 25132,
+      "loss": 12573,
+      "draw": 1181
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2446,
+      "date": 1776433032,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1576105593,
+      "game": "https://www.chess.com/game/live/2858332214"
+    },
+    "record": {
+      "win": 425,
+      "loss": 297,
+      "draw": 62
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2126,
+      "date": 1459441380
+    },
+    "lowest": {
+      "rating": 2126,
+      "date": 1459441380
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 30
+    }
+  }
+}

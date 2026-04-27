@@ -1,0 +1,84 @@
+{
+  "player_id": 178858609,
+  "@id": "https://api.chess.com/pub/player/kamilahryshchenko",
+  "url": "https://www.chess.com/member/KamilaHryshchenko",
+  "name": "Kamila Hryshchenko",
+  "username": "kamilahryshchenko",
+  "title": "WFM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776591913,
+  "joined": 1648833626,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2016,
+      "date": 1772058028,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2061,
+      "date": 1650122699,
+      "game": "https://www.chess.com/game/live/139370109440"
+    },
+    "record": {
+      "win": 18,
+      "loss": 11,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1609,
+      "date": 1775420633,
+      "rd": 148
+    },
+    "best": {
+      "rating": 1683,
+      "date": 1772058152,
+      "game": "https://www.chess.com/game/live/165210635266"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1772058769,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1761090389,
+      "game": "https://www.chess.com/game/live/123976255371"
+    },
+    "record": {
+      "win": 26,
+      "loss": 40,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1648833626
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1648833626
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 116624298,
+  "@id": "https://api.chess.com/pub/player/1g60-1",
+  "url": "https://www.chess.com/member/1g60-1",
+  "name": "Sharvesh Deviprasath",
+  "username": "1g60-1",
+  "title": "FM",
+  "followers": 102,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776565834,
+  "joined": 1611870457,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1675,
+      "date": 1746113403,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1675,
+      "date": 1680130877,
+      "game": "https://www.chess.com/game/daily/460770329"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 74683,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2026,
+      "date": 1775324009,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1627422606,
+      "game": "https://www.chess.com/game/live/106845738763"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2510,
+      "date": 1767759107,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2524,
+      "date": 1767746667,
+      "game": "https://www.chess.com/game/live/147557708070"
+    },
+    "record": {
+      "win": 231,
+      "loss": 280,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1767741954,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1766465904,
+      "game": "https://www.chess.com/game/live/130205955605"
+    },
+    "record": {
+      "win": 271,
+      "loss": 235,
+      "draw": 46
+    }
+  },
+  "fide": 2510,
+  "tactics": {
+    "highest": {
+      "rating": 1734,
+      "date": 1611870457
+    },
+    "lowest": {
+      "rating": 1734,
+      "date": 1611870457
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

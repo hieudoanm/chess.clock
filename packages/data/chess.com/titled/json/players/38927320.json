@@ -1,0 +1,86 @@
+{
+  "player_id": 38927320,
+  "@id": "https://api.chess.com/pub/player/badlyplayed",
+  "url": "https://www.chess.com/member/Badlyplayed",
+  "name": "Paolo Ciuffoletti",
+  "username": "badlyplayed",
+  "title": "NM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Aosta",
+  "last_online": 1776580139,
+  "joined": 1506326679,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2103,
+      "date": 1685991391,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2293,
+      "date": 1651412974,
+      "game": "https://www.chess.com/game/live/77301704067"
+    },
+    "record": {
+      "win": 124,
+      "loss": 121,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1907,
+      "date": 1667754144,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2029,
+      "date": 1643302096,
+      "game": "https://www.chess.com/game/live/41187100291"
+    },
+    "record": {
+      "win": 912,
+      "loss": 821,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2223,
+      "date": 1754669957,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1668532562,
+      "game": "https://www.chess.com/game/live/78597125241"
+    },
+    "record": {
+      "win": 4569,
+      "loss": 3768,
+      "draw": 441
+    }
+  },
+  "fide": 2106,
+  "tactics": {
+    "highest": {
+      "rating": 2815,
+      "date": 1506326679
+    },
+    "lowest": {
+      "rating": 2815,
+      "date": 1506326679
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

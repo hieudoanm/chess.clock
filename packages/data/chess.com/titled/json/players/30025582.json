@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30025582.7a9c0445.200x200o.28ef6e364524.png",
+  "player_id": 30025582,
+  "@id": "https://api.chess.com/pub/player/profterrieux",
+  "url": "https://www.chess.com/member/ProfTerrieux",
+  "name": "Kevin TERRIEUX",
+  "username": "profterrieux",
+  "title": "IM",
+  "followers": 723,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "La Meziere",
+  "last_online": 1776590055,
+  "joined": 1474397022,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/proevolutionechecs",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/proevolutionechecs"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2504,
+      "date": 1774965329,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1733830727,
+      "game": "https://www.chess.com/game/live/58122567817"
+    },
+    "record": {
+      "win": 84,
+      "loss": 17,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2350,
+      "date": 1707040593,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1663232307,
+      "game": "https://www.chess.com/game/live/45170350693"
+    },
+    "record": {
+      "win": 8,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2631,
+      "date": 1775759296,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1679220228,
+      "game": "https://www.chess.com/game/live/6089313208"
+    },
+    "record": {
+      "win": 3830,
+      "loss": 3890,
+      "draw": 832
+    }
+  },
+  "fide": 2448,
+  "tactics": {
+    "highest": {
+      "rating": 2842,
+      "date": 1474397022
+    },
+    "lowest": {
+      "rating": 2842,
+      "date": 1474397022
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

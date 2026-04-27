@@ -1,0 +1,78 @@
+{
+  "player_id": 4975579,
+  "@id": "https://api.chess.com/pub/player/guyford",
+  "url": "https://www.chess.com/member/Guyford",
+  "username": "guyford",
+  "title": "NM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1690684955,
+  "joined": 1302576938,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1845,
+      "date": 1510014618,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2021,
+      "date": 1429569265,
+      "game": "https://www.chess.com/game/live/1121171763"
+    },
+    "record": {
+      "win": 193,
+      "loss": 132,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1892,
+      "date": 1536598426,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1429003306,
+      "game": "https://www.chess.com/game/live/1124279342"
+    },
+    "record": {
+      "win": 5324,
+      "loss": 4316,
+      "draw": 427
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2029,
+      "date": 1678260972,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1584184175,
+      "game": "https://www.chess.com/game/live/4592602584"
+    },
+    "record": {
+      "win": 2457,
+      "loss": 1863,
+      "draw": 350
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1302576938
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1302576938
+    }
+  },
+  "puzzle_rush": {}
+}

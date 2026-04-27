@@ -1,0 +1,98 @@
+{
+  "player_id": 481138688,
+  "@id": "https://api.chess.com/pub/player/marmotnumber1",
+  "url": "https://www.chess.com/member/Marmotnumber1",
+  "username": "marmotnumber1",
+  "title": "WCM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776573743,
+  "joined": 1757165971,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1766149653,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 550932,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2107,
+      "date": 1759820283,
+      "rd": 238
+    },
+    "best": {
+      "rating": 2107,
+      "date": 1759820283,
+      "game": "https://www.chess.com/game/live/154133200779"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2106,
+      "date": 1776311975,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2229,
+      "date": 1759253314,
+      "game": "https://www.chess.com/game/live/166918578758"
+    },
+    "record": {
+      "win": 108,
+      "loss": 65,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1944,
+      "date": 1775830026,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1759550074,
+      "game": "https://www.chess.com/game/live/154203999977"
+    },
+    "record": {
+      "win": 75,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1775961427
+    },
+    "lowest": {
+      "rating": 472,
+      "date": 1757985959
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

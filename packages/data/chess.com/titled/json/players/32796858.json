@@ -1,0 +1,107 @@
+{
+  "player_id": 32796858,
+  "@id": "https://api.chess.com/pub/player/candela2013",
+  "url": "https://www.chess.com/member/candela2013",
+  "name": "Xavier Avila Jimenez",
+  "username": "candela2013",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776595525,
+  "joined": 1485803531,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1409,
+      "date": 1730979714,
+      "rd": 343
+    },
+    "best": {
+      "rating": 1409,
+      "date": 1730979712,
+      "game": "https://www.chess.com/game/daily/719599361"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 65888,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2231,
+      "date": 1617450964,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2231,
+      "date": 1617450964,
+      "game": "https://www.chess.com/game/live/11189668659"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2399,
+      "date": 1776147099,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1761072419,
+      "game": "https://www.chess.com/game/live/26051971791"
+    },
+    "record": {
+      "win": 3114,
+      "loss": 2802,
+      "draw": 130
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2433,
+      "date": 1741335609,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1722845490,
+      "game": "https://www.chess.com/game/live/82830673239"
+    },
+    "record": {
+      "win": 2123,
+      "loss": 1875,
+      "draw": 147
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2648,
+      "date": 1765439752
+    },
+    "lowest": {
+      "rating": 2579,
+      "date": 1767686055
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    },
+    "daily": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

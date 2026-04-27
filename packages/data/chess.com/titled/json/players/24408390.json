@@ -1,0 +1,84 @@
+{
+  "player_id": 24408390,
+  "@id": "https://api.chess.com/pub/player/mistango",
+  "url": "https://www.chess.com/member/Mistango",
+  "name": "Ruslan Musalov",
+  "username": "mistango",
+  "title": "IM",
+  "followers": 102,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1773418563,
+  "joined": 1443901613,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2399,
+      "date": 1622039507,
+      "rd": 229
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1620292744,
+      "game": "https://www.chess.com/game/live/6162010847"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2617,
+      "date": 1747547207,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1732609996,
+      "game": "https://www.chess.com/game/live/138580401838"
+    },
+    "record": {
+      "win": 2975,
+      "loss": 3689,
+      "draw": 499
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2644,
+      "date": 1748852292,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2797,
+      "date": 1562699250,
+      "game": "https://www.chess.com/game/live/110064612381"
+    },
+    "record": {
+      "win": 2937,
+      "loss": 3283,
+      "draw": 633
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1443901613
+    },
+    "lowest": {
+      "rating": 2257,
+      "date": 1443901613
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

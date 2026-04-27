@@ -1,0 +1,103 @@
+{
+  "player_id": 23370450,
+  "@id": "https://api.chess.com/pub/player/chickencrossroad",
+  "url": "https://www.chess.com/member/chickencrossroad",
+  "name": "Daniel Yeager",
+  "username": "chickencrossroad",
+  "title": "FM",
+  "followers": 1126,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776572873,
+  "joined": 1437717621,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 910,
+      "date": 1772370415,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1437717621,
+      "game": "https://www.chess.com/game/daily/757534129"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 111338,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2035,
+      "date": 1768588181,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1534186084,
+      "game": "https://www.chess.com/game/live/3112644930"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2158,
+      "date": 1773778930,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1605761525,
+      "game": "https://www.chess.com/game/live/5795065276"
+    },
+    "record": {
+      "win": 1388,
+      "loss": 1013,
+      "draw": 179
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1757531589,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1573616504,
+      "game": "https://www.chess.com/game/live/3926642148"
+    },
+    "record": {
+      "win": 1420,
+      "loss": 1086,
+      "draw": 218
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2470,
+      "date": 1764233671
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1764466788
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

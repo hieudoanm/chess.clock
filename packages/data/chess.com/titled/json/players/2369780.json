@@ -1,0 +1,122 @@
+{
+  "player_id": 2369780,
+  "@id": "https://api.chess.com/pub/player/data_pillars",
+  "url": "https://www.chess.com/member/Data_Pillars",
+  "name": "Lalit Prasad",
+  "username": "data_pillars",
+  "title": "CM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776520568,
+  "joined": 1260587985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2074,
+      "date": 1748161690,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2074,
+      "date": 1716592361,
+      "game": "https://www.chess.com/game/daily/31781694"
+    },
+    "record": {
+      "win": 90,
+      "loss": 30,
+      "draw": 5,
+      "time_per_move": 79015,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1353,
+      "date": 1422452905,
+      "rd": 262
+    },
+    "best": {
+      "rating": 1353,
+      "date": 1422452905,
+      "game": "https://www.chess.com/game/daily/100040742"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 79015,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2082,
+      "date": 1676787381,
+      "rd": 200
+    },
+    "best": {
+      "rating": 2082,
+      "date": 1676787381,
+      "game": "https://www.chess.com/game/live/70525430161"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2170,
+      "date": 1539773370,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2136,
+      "date": 1512223655,
+      "game": "https://www.chess.com/game/live/1463267404"
+    },
+    "record": {
+      "win": 1142,
+      "loss": 819,
+      "draw": 85
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2329,
+      "date": 1776428050,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1776243364,
+      "game": "https://www.chess.com/game/live/167434558352"
+    },
+    "record": {
+      "win": 576,
+      "loss": 241,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2999,
+      "date": 1260587985
+    },
+    "lowest": {
+      "rating": 2999,
+      "date": 1260587985
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 67570240,
+  "@id": "https://api.chess.com/pub/player/beautifullmindchess",
+  "url": "https://www.chess.com/member/BeautiFullMindChess",
+  "name": "Jonathan Subervi",
+  "username": "beautifullmindchess",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/DO",
+  "location": "United States",
+  "last_online": 1776461503,
+  "joined": 1572958752,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2128,
+      "date": 1763637780,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1604196952,
+      "game": "https://www.chess.com/game/live/145736493928"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1898,
+      "date": 1747015825,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1717892310,
+      "game": "https://www.chess.com/game/live/111632545995"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2261,
+      "date": 1776385880,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1769469082,
+      "game": "https://www.chess.com/game/live/110044215749"
+    },
+    "record": {
+      "win": 2484,
+      "loss": 3111,
+      "draw": 237
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1714,
+      "date": 1761073441
+    },
+    "lowest": {
+      "rating": 1270,
+      "date": 1766026162
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

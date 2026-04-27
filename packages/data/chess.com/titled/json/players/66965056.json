@@ -1,0 +1,104 @@
+{
+  "player_id": 66965056,
+  "@id": "https://api.chess.com/pub/player/jasonliu02",
+  "url": "https://www.chess.com/member/Jasonliu02",
+  "name": "Jason Liu",
+  "username": "jasonliu02",
+  "title": "FM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1776591690,
+  "joined": 1571692806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1203,
+      "date": 1774453661,
+      "rd": 168
+    },
+    "best": {
+      "rating": 1203,
+      "date": 1755875338,
+      "game": "https://www.chess.com/game/daily/562447469"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 2,
+      "time_per_move": 101152,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2117,
+      "date": 1755284189,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1646939411,
+      "game": "https://www.chess.com/game/live/27358787719"
+    },
+    "record": {
+      "win": 163,
+      "loss": 96,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2498,
+      "date": 1774951922,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2527,
+      "date": 1764777187,
+      "game": "https://www.chess.com/game/live/147718346032"
+    },
+    "record": {
+      "win": 340,
+      "loss": 246,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2479,
+      "date": 1759778556,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1759521253,
+      "game": "https://www.chess.com/game/live/142693809619"
+    },
+    "record": {
+      "win": 491,
+      "loss": 371,
+      "draw": 52
+    }
+  },
+  "fide": 2064,
+  "tactics": {
+    "highest": {
+      "rating": 2472,
+      "date": 1759575096
+    },
+    "lowest": {
+      "rating": 2454,
+      "date": 1758832897
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

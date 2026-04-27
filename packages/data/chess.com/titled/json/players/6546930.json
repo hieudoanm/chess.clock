@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6546930.dd8b48a1.200x200o.4fe4096ffa79.jpeg",
+  "player_id": 6546930,
+  "@id": "https://api.chess.com/pub/player/blitis",
+  "url": "https://www.chess.com/member/blitis",
+  "name": "Jacques Blit",
+  "username": "blitis",
+  "title": "IM",
+  "followers": 74,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1775481648,
+  "joined": 1327340465,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1585,
+      "date": 1569953374,
+      "rd": 109
+    },
+    "best": {
+      "rating": 1631,
+      "date": 1333572854,
+      "game": "https://www.chess.com/game/daily/51024577"
+    },
+    "record": {
+      "win": 18,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 34817,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1776,
+      "date": 1675529088,
+      "rd": 311
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1584830339,
+      "game": "https://www.chess.com/game/live/4621642350"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2573,
+      "date": 1716865759,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2752,
+      "date": 1643124435,
+      "game": "https://www.chess.com/game/live/39035337691"
+    },
+    "record": {
+      "win": 1275,
+      "loss": 404,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2648,
+      "date": 1706659331,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1706659331,
+      "game": "https://www.chess.com/game/live/100391587905"
+    },
+    "record": {
+      "win": 445,
+      "loss": 161,
+      "draw": 45
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2682,
+      "date": 1760049975
+    },
+    "lowest": {
+      "rating": 2629,
+      "date": 1760050295
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

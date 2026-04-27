@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4752925.cf88a59b.200x200o.fc8a4ac0c2ba.jpeg",
+  "player_id": 4752925,
+  "@id": "https://api.chess.com/pub/player/gmchessgus",
+  "url": "https://www.chess.com/member/GMChessGus",
+  "name": "Gustavo Leon",
+  "username": "gmchessgus",
+  "title": "NM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776418046,
+  "joined": 1298347765,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1442,
+      "date": 1760013647,
+      "rd": 333
+    },
+    "best": {
+      "rating": 1442,
+      "date": 1619645275,
+      "game": "https://www.chess.com/game/daily/47424190"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 15909,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2349,
+      "date": 1643957889,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1643547931,
+      "game": "https://www.chess.com/game/live/37029026553"
+    },
+    "record": {
+      "win": 48,
+      "loss": 23,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2609,
+      "date": 1769810792,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1769810677,
+      "game": "https://www.chess.com/game/live/163942613038"
+    },
+    "record": {
+      "win": 813,
+      "loss": 522,
+      "draw": 56
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1770372925,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1759886138,
+      "game": "https://www.chess.com/game/live/144494172026"
+    },
+    "record": {
+      "win": 7374,
+      "loss": 6558,
+      "draw": 1306
+    }
+  },
+  "fide": 2029,
+  "tactics": {
+    "highest": {
+      "rating": 2324,
+      "date": 1771710457
+    },
+    "lowest": {
+      "rating": 2154,
+      "date": 1771708497
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

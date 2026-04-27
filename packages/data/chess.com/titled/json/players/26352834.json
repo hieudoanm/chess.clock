@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26352834.823a8d50.200x200o.4c32f681357e.png",
+  "player_id": 26352834,
+  "@id": "https://api.chess.com/pub/player/berardino",
+  "url": "https://www.chess.com/member/Berardino",
+  "name": "Diego Berardino",
+  "username": "berardino",
+  "title": "IM",
+  "followers": 2629,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Rio de Janeiro",
+  "last_online": 1776469330,
+  "joined": 1453824890,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1774,
+      "date": 1770114203,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1453824890,
+      "game": "https://www.chess.com/game/daily/333241437"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 4,
+      "time_per_move": 23036,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2713,
+      "date": 1775590892,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2736,
+      "date": 1754092710,
+      "game": "https://www.chess.com/game/live/164231752954"
+    },
+    "record": {
+      "win": 351,
+      "loss": 70,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2503,
+      "date": 1751163057,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1524600432,
+      "game": "https://www.chess.com/game/live/6308200113"
+    },
+    "record": {
+      "win": 90,
+      "loss": 70,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2808,
+      "date": 1775493458,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2828,
+      "date": 1775250080,
+      "game": "https://www.chess.com/game/live/25551005595"
+    },
+    "record": {
+      "win": 4226,
+      "loss": 3810,
+      "draw": 821
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2726,
+      "date": 1773764385
+    },
+    "lowest": {
+      "rating": 2562,
+      "date": 1773765934
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

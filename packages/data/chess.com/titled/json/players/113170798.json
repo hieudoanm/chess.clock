@@ -1,0 +1,84 @@
+{
+  "player_id": 113170798,
+  "@id": "https://api.chess.com/pub/player/skinerd6",
+  "url": "https://www.chess.com/member/skinerd6",
+  "name": "Ilya Kuzmin",
+  "username": "skinerd6",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776591953,
+  "joined": 1610848084,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2026,
+      "date": 1626995172,
+      "rd": 205
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1620824799,
+      "game": "https://www.chess.com/game/live/14563608909"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2224,
+      "date": 1695205254,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2281,
+      "date": 1664972869,
+      "game": "https://www.chess.com/game/live/57727252465"
+    },
+    "record": {
+      "win": 91,
+      "loss": 61,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2343,
+      "date": 1776591564,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1766892660,
+      "game": "https://www.chess.com/game/live/147359627354"
+    },
+    "record": {
+      "win": 4816,
+      "loss": 4539,
+      "draw": 712
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2054,
+      "date": 1767326664
+    },
+    "lowest": {
+      "rating": 1104,
+      "date": 1767328129
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

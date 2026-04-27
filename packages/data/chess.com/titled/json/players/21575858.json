@@ -1,0 +1,99 @@
+{
+  "player_id": 21575858,
+  "@id": "https://api.chess.com/pub/player/iozefinaw",
+  "url": "https://www.chess.com/member/IozefinaW",
+  "name": "Iozefina Werle",
+  "username": "iozefinaw",
+  "title": "WGM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Groningen",
+  "last_online": 1776544726,
+  "joined": 1426710937,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1675643928,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 42097,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2254,
+      "date": 1622895050,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1597584726,
+      "game": "https://www.chess.com/game/live/4906695318"
+    },
+    "record": {
+      "win": 8,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1988,
+      "date": 1776544717,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1651343633,
+      "game": "https://www.chess.com/game/live/45009608085"
+    },
+    "record": {
+      "win": 2183,
+      "loss": 2009,
+      "draw": 128
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2061,
+      "date": 1671786470,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1598820396,
+      "game": "https://www.chess.com/game/live/65110874855"
+    },
+    "record": {
+      "win": 434,
+      "loss": 356,
+      "draw": 52
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2287,
+      "date": 1776325077
+    },
+    "lowest": {
+      "rating": 2072,
+      "date": 1776325382
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 36
+    }
+  }
+}

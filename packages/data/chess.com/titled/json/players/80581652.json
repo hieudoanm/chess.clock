@@ -1,0 +1,79 @@
+{
+    "player_id": 80581652,
+    "@id": "https://api.chess.com/pub/player/kaffeehaus1851",
+    "url": "https://www.chess.com/member/KaffeeHaus1851",
+    "username": "kaffeehaus1851",
+    "title": "GM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1740673765,
+    "joined": 1590514644,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2255,
+            "date": 1597270553,
+            "rd": 311
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2715,
+            "date": 1707765155,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2870,
+            "date": 1591753719,
+            "game": "https://www.chess.com/game/live/5175494404"
+        },
+        "record": {
+            "win": 144,
+            "loss": 94,
+            "draw": 14
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2841,
+            "date": 1739649317,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2882,
+            "date": 1707767250,
+            "game": "https://www.chess.com/game/live/101504034963"
+        },
+        "record": {
+            "win": 241,
+            "loss": 176,
+            "draw": 32
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1590514644
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1590514644
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 47
+        }
+    }
+}

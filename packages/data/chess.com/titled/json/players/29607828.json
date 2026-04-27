@@ -1,0 +1,105 @@
+{
+  "player_id": 29607828,
+  "@id": "https://api.chess.com/pub/player/solofon",
+  "url": "https://www.chess.com/member/solofon",
+  "name": "Joachim Solberg",
+  "username": "solofon",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Stochkolm",
+  "last_online": 1776511805,
+  "joined": 1471982869,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2044,
+      "date": 1776511347,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1616508038,
+      "game": "https://www.chess.com/game/daily/276288508"
+    },
+    "record": {
+      "win": 131,
+      "loss": 15,
+      "draw": 14,
+      "time_per_move": 89432,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1708534443,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1322,
+      "date": 1640958090,
+      "game": "https://www.chess.com/game/live/34696846243"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2605,
+      "date": 1771263071,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1747497957,
+      "game": "https://www.chess.com/game/live/140751716102"
+    },
+    "record": {
+      "win": 389,
+      "loss": 257,
+      "draw": 65
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2622,
+      "date": 1776511791,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1737895203,
+      "game": "https://www.chess.com/game/live/124562321887"
+    },
+    "record": {
+      "win": 485,
+      "loss": 268,
+      "draw": 137
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1471982869
+    },
+    "lowest": {
+      "rating": 2517,
+      "date": 1471982869
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

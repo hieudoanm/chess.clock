@@ -1,0 +1,103 @@
+{
+  "player_id": 61267788,
+  "@id": "https://api.chess.com/pub/player/tyczka123",
+  "url": "https://www.chess.com/member/tyczka123",
+  "name": "tymon czernek",
+  "username": "tyczka123",
+  "title": "FM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1690475298,
+  "joined": 1558472819,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1690327244,
+      "rd": 145
+    },
+    "best": {
+      "rating": 1461,
+      "date": 1586791195,
+      "game": "https://www.chess.com/game/daily/258784980"
+    },
+    "record": {
+      "win": 12,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 47664,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2339,
+      "date": 1643028416,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1628280335,
+      "game": "https://www.chess.com/game/live/22018734233"
+    },
+    "record": {
+      "win": 9,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2573,
+      "date": 1688077909,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1655910375,
+      "game": "https://www.chess.com/game/live/57679159171"
+    },
+    "record": {
+      "win": 2184,
+      "loss": 2539,
+      "draw": 269
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2646,
+      "date": 1690322647,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2740,
+      "date": 1665915174,
+      "game": "https://www.chess.com/game/live/84060627609"
+    },
+    "record": {
+      "win": 584,
+      "loss": 411,
+      "draw": 68
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2655,
+      "date": 1558472819
+    },
+    "lowest": {
+      "rating": 2655,
+      "date": 1558472819
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

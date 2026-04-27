@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/342849333.8d0df15e.200x200o.411127ac78ed.png",
+  "player_id": 342849333,
+  "@id": "https://api.chess.com/pub/player/verybadlybald",
+  "url": "https://www.chess.com/member/VeryBadlyBald",
+  "name": "Louis Khoo-Thwe",
+  "username": "verybadlybald",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776582088,
+  "joined": 1706897446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1607,
+      "date": 1776578687,
+      "rd": 174
+    },
+    "best": {
+      "rating": 1598,
+      "date": 1771661605,
+      "game": "https://www.chess.com/game/daily/714125081"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 41712,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2539,
+      "date": 1767476538,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1766140591,
+      "game": "https://www.chess.com/game/live/143731119396"
+    },
+    "record": {
+      "win": 163,
+      "loss": 43,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2558,
+      "date": 1767476716,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2592,
+      "date": 1758193102,
+      "game": "https://www.chess.com/game/live/153302799739"
+    },
+    "record": {
+      "win": 158,
+      "loss": 79,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1773166377,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1766658878,
+      "game": "https://www.chess.com/game/live/145112967521"
+    },
+    "record": {
+      "win": 857,
+      "loss": 535,
+      "draw": 116
+    }
+  },
+  "fide": 2214,
+  "tactics": {
+    "highest": {
+      "rating": 2265,
+      "date": 1761132310
+    },
+    "lowest": {
+      "rating": 2066,
+      "date": 1759250037
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

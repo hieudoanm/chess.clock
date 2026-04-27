@@ -1,0 +1,84 @@
+{
+  "player_id": 18567158,
+  "@id": "https://api.chess.com/pub/player/asiorex",
+  "url": "https://www.chess.com/member/asiorex",
+  "name": "Joanna Mikulewicz",
+  "username": "asiorex",
+  "title": "WFM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776275303,
+  "joined": 1408478885,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1909,
+      "date": 1699632693,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1433755013,
+      "game": "https://www.chess.com/game/live/1177826522"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1819,
+      "date": 1669400073,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1648192412,
+      "game": "https://www.chess.com/game/live/42322841527"
+    },
+    "record": {
+      "win": 26,
+      "loss": 26,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1958,
+      "date": 1764108865,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1662048749,
+      "game": "https://www.chess.com/game/live/41807467795"
+    },
+    "record": {
+      "win": 232,
+      "loss": 175,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2196,
+      "date": 1760027456
+    },
+    "lowest": {
+      "rating": 1970,
+      "date": 1767829111
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81069604.8628603f.200x200o.b18276fff93c.jpeg",
+  "player_id": 81069604,
+  "@id": "https://api.chess.com/pub/player/vd_coach",
+  "url": "https://www.chess.com/member/VD_coach",
+  "name": "Vardan Danielian",
+  "username": "vd_coach",
+  "title": "FM",
+  "followers": 128,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1776539304,
+  "joined": 1590945715,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1776531005,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1735076667,
+      "game": "https://www.chess.com/game/live/128901793683"
+    },
+    "record": {
+      "win": 622,
+      "loss": 317,
+      "draw": 149
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2725,
+      "date": 1776092895,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2749,
+      "date": 1772059870,
+      "game": "https://www.chess.com/game/live/88629063051"
+    },
+    "record": {
+      "win": 4852,
+      "loss": 5269,
+      "draw": 1010
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2801,
+      "date": 1776267177,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1764462912,
+      "game": "https://www.chess.com/game/live/108250911975"
+    },
+    "record": {
+      "win": 6290,
+      "loss": 6522,
+      "draw": 1993
+    }
+  },
+  "fide": 2230,
+  "tactics": {
+    "highest": {
+      "rating": 2261,
+      "date": 1590945715
+    },
+    "lowest": {
+      "rating": 2261,
+      "date": 1590945715
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

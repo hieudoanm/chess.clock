@@ -1,0 +1,84 @@
+{
+  "player_id": 63158590,
+  "@id": "https://api.chess.com/pub/player/enajer77",
+  "url": "https://www.chess.com/member/ENajer77",
+  "name": "Evgeniy Najer",
+  "username": "enajer77",
+  "title": "GM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776235839,
+  "joined": 1562778139,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2473,
+      "date": 1774460571,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1648924454,
+      "game": "https://www.chess.com/game/live/168770668715"
+    },
+    "record": {
+      "win": 21,
+      "loss": 19,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2558,
+      "date": 1774375334,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1587074989,
+      "game": "https://www.chess.com/game/live/4731890092"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2867,
+      "date": 1776201617,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1770826992,
+      "game": "https://www.chess.com/game/live/119121070201"
+    },
+    "record": {
+      "win": 1223,
+      "loss": 1089,
+      "draw": 239
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2993,
+      "date": 1773651422
+    },
+    "lowest": {
+      "rating": 2894,
+      "date": 1773651991
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 86,
+      "score": 83
+    }
+  }
+}

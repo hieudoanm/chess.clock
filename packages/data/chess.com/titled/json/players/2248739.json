@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2248739.6ec88ae3.200x200o.598fed706a08.jpg",
+  "player_id": 2248739,
+  "@id": "https://api.chess.com/pub/player/socoloco",
+  "url": "https://www.chess.com/member/SocoLoco",
+  "name": "Steve Harrington",
+  "username": "socoloco",
+  "title": "NM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Victoria, BC",
+  "last_online": 1776562804,
+  "joined": 1256358366,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1326,
+      "date": 1775604071,
+      "rd": 207
+    },
+    "best": {
+      "rating": 1396,
+      "date": 1763731045,
+      "game": "https://www.chess.com/game/daily/888583195"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 46851,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2043,
+      "date": 1768593194,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1762458256,
+      "game": "https://www.chess.com/game/live/100222992313"
+    },
+    "record": {
+      "win": 19,
+      "loss": 21,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2088,
+      "date": 1714548574,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1622823631,
+      "game": "https://www.chess.com/game/live/6378306845"
+    },
+    "record": {
+      "win": 12866,
+      "loss": 11890,
+      "draw": 587
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2120,
+      "date": 1776561838,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1733447919,
+      "game": "https://www.chess.com/game/live/99121477555"
+    },
+    "record": {
+      "win": 10154,
+      "loss": 11495,
+      "draw": 1178
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2247,
+      "date": 1763830918
+    },
+    "lowest": {
+      "rating": 2029,
+      "date": 1763831604
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 29
+    }
+  }
+}

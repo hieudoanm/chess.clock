@@ -1,0 +1,105 @@
+{
+  "player_id": 76858192,
+  "@id": "https://api.chess.com/pub/player/stefanoskazantzoglou",
+  "url": "https://www.chess.com/member/StefanosKazantzoglou",
+  "name": "Stefanos Kazantzoglou",
+  "username": "stefanoskazantzoglou",
+  "title": "FM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/GR",
+  "location": "\u0391\u03b8\u03ae\u03bd\u03b1, \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03b1\u03bd\u03ae",
+  "last_online": 1776598697,
+  "joined": 1587023541,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1100,
+      "date": 1776598120,
+      "rd": 163
+    },
+    "best": {
+      "rating": 1290,
+      "date": 1723399565,
+      "game": "https://www.chess.com/game/daily/687355283"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 32182,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2189,
+      "date": 1740689457,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2197,
+      "date": 1734080394,
+      "game": "https://www.chess.com/game/live/4962430272"
+    },
+    "record": {
+      "win": 13,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2484,
+      "date": 1774732785,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1774731254,
+      "game": "https://www.chess.com/game/live/143454913126"
+    },
+    "record": {
+      "win": 79,
+      "loss": 71,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2558,
+      "date": 1776175170,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2597,
+      "date": 1726589905,
+      "game": "https://www.chess.com/game/live/119721057183"
+    },
+    "record": {
+      "win": 561,
+      "loss": 597,
+      "draw": 92
+    }
+  },
+  "fide": 2197,
+  "tactics": {
+    "highest": {
+      "rating": 2169,
+      "date": 1761827373
+    },
+    "lowest": {
+      "rating": 2047,
+      "date": 1776524719
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

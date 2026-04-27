@@ -1,0 +1,84 @@
+{
+  "player_id": 65735844,
+  "@id": "https://api.chess.com/pub/player/mbdida",
+  "url": "https://www.chess.com/member/mbdida",
+  "username": "mbdida",
+  "title": "WFM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776543941,
+  "joined": 1569003834,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1856,
+      "date": 1698082037,
+      "rd": 282
+    },
+    "best": {
+      "rating": 2154,
+      "date": 1613750287,
+      "game": "https://www.chess.com/game/live/7488216759"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2350,
+      "date": 1670013875,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1670013875,
+      "game": "https://www.chess.com/game/live/63752963325"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1944,
+      "date": 1751745462,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1632927013,
+      "game": "https://www.chess.com/game/live/12310566357"
+    },
+    "record": {
+      "win": 136,
+      "loss": 84,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2171,
+      "date": 1773662717
+    },
+    "lowest": {
+      "rating": 1925,
+      "date": 1759408509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

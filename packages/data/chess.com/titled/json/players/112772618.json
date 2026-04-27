@@ -1,0 +1,83 @@
+{
+  "player_id": 112772618,
+  "@id": "https://api.chess.com/pub/player/chartreuxx",
+  "url": "https://www.chess.com/member/Chartreuxx",
+  "username": "chartreuxx",
+  "title": "WFM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776432020,
+  "joined": 1610741016,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2167,
+      "date": 1635884122,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1635884122,
+      "game": "https://www.chess.com/game/live/29622627597"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2221,
+      "date": 1735252050,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1622581345,
+      "game": "https://www.chess.com/game/live/16320292485"
+    },
+    "record": {
+      "win": 30,
+      "loss": 33,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2268,
+      "date": 1776283062,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1634760824,
+      "game": "https://www.chess.com/game/live/29210429595"
+    },
+    "record": {
+      "win": 984,
+      "loss": 1152,
+      "draw": 118
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2388,
+      "date": 1762389127
+    },
+    "lowest": {
+      "rating": 2232,
+      "date": 1762425650
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 46
+    }
+  }
+}

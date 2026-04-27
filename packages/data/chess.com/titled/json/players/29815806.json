@@ -1,0 +1,104 @@
+{
+  "player_id": 29815806,
+  "@id": "https://api.chess.com/pub/player/gpeloui",
+  "url": "https://www.chess.com/member/gpeloui",
+  "name": "Ezra Kirk",
+  "username": "gpeloui",
+  "title": "IM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776590583,
+  "joined": 1473204838,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1827,
+      "date": 1755349017,
+      "rd": 324
+    },
+    "best": {
+      "rating": 1827,
+      "date": 1664524406,
+      "game": "https://www.chess.com/game/daily/431175189"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 26318,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2221,
+      "date": 1664828540,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1617288125,
+      "game": "https://www.chess.com/game/live/11026533333"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2652,
+      "date": 1775048542,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1760178616,
+      "game": "https://www.chess.com/game/live/143472367332"
+    },
+    "record": {
+      "win": 4149,
+      "loss": 3579,
+      "draw": 433
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2769,
+      "date": 1776437238,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2787,
+      "date": 1774455120,
+      "game": "https://www.chess.com/game/live/85872086029"
+    },
+    "record": {
+      "win": 1040,
+      "loss": 837,
+      "draw": 160
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2668,
+      "date": 1756118386
+    },
+    "lowest": {
+      "rating": 2468,
+      "date": 1760599708
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

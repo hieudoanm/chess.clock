@@ -1,0 +1,83 @@
+{
+  "player_id": 76463542,
+  "@id": "https://api.chess.com/pub/player/aiakos2",
+  "url": "https://www.chess.com/member/aiakos2",
+  "username": "aiakos2",
+  "title": "WCM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776360364,
+  "joined": 1586692576,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1981,
+      "date": 1676536876,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2129,
+      "date": 1616788911,
+      "game": "https://www.chess.com/game/live/10342672287"
+    },
+    "record": {
+      "win": 28,
+      "loss": 19,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1659,
+      "date": 1676249617,
+      "rd": 30
+    },
+    "best": {
+      "rating": 1688,
+      "date": 1676244751,
+      "game": "https://www.chess.com/game/live/69981727385"
+    },
+    "record": {
+      "win": 70,
+      "loss": 55,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1882,
+      "date": 1676536876,
+      "rd": 48
+    },
+    "best": {
+      "rating": 1971,
+      "date": 1645285556,
+      "game": "https://www.chess.com/game/live/41126941205"
+    },
+    "record": {
+      "win": 99,
+      "loss": 66,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2211,
+      "date": 1586692576
+    },
+    "lowest": {
+      "rating": 2211,
+      "date": 1586692576
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

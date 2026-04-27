@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17129144.f948b22d.200x200o.00478ca40872.jpg",
+  "player_id": 17129144,
+  "@id": "https://api.chess.com/pub/player/gm_naw",
+  "url": "https://www.chess.com/member/GM_naw",
+  "username": "gm_naw",
+  "title": "FM",
+  "followers": 192,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1773140506,
+  "joined": 1398950915,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 737,
+      "date": 1703559054,
+      "rd": 326
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1398950915,
+      "game": "https://www.chess.com/game/daily/549729095"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 450203,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2352,
+      "date": 1749158012,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1682728413,
+      "game": "https://www.chess.com/game/live/76899119329"
+    },
+    "record": {
+      "win": 33,
+      "loss": 15,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2423,
+      "date": 1703559432,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1683046810,
+      "game": "https://www.chess.com/game/live/76803089263"
+    },
+    "record": {
+      "win": 326,
+      "loss": 221,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2453,
+      "date": 1691840905,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1611557029,
+      "game": "https://www.chess.com/game/live/74503848247"
+    },
+    "record": {
+      "win": 281,
+      "loss": 222,
+      "draw": 27
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1398950915
+    },
+    "lowest": {
+      "rating": 2571,
+      "date": 1398950915
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

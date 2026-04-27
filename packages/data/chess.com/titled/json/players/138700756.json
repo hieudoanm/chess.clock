@@ -1,0 +1,66 @@
+{
+    "player_id": 138700756,
+    "@id": "https://api.chess.com/pub/player/lionking4321",
+    "url": "https://www.chess.com/member/lionking4321",
+    "username": "lionking4321",
+    "title": "GM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1704806328,
+    "joined": 1620126875,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2500,
+            "date": 1643655590,
+            "rd": 151
+        },
+        "best": {
+            "rating": 2010,
+            "date": 1633431402,
+            "game": "https://www.chess.com/game/live/27508167181"
+        },
+        "record": {
+            "win": 2,
+            "loss": 4,
+            "draw": 2
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 255,
+            "date": 1643655590,
+            "rd": 135
+        },
+        "best": {
+            "rating": 2162,
+            "date": 1620127372,
+            "game": "https://www.chess.com/game/live/13869105025"
+        },
+        "record": {
+            "win": 4,
+            "loss": 4,
+            "draw": 1
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1200,
+            "date": 1620126875
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1620126875
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

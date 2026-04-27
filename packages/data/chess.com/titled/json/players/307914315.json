@@ -1,0 +1,66 @@
+{
+  "player_id": 307914315,
+  "@id": "https://api.chess.com/pub/player/nichyne",
+  "url": "https://www.chess.com/member/Nichyne",
+  "username": "nichyne",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/SB",
+  "last_online": 1776508483,
+  "joined": 1692889755,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2632,
+      "date": 1775995981,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1770314253,
+      "game": "https://www.chess.com/game/live/144903293484"
+    },
+    "record": {
+      "win": 1665,
+      "loss": 1533,
+      "draw": 135
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2522,
+      "date": 1763844025,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1749494536,
+      "game": "https://www.chess.com/game/live/139649189668"
+    },
+    "record": {
+      "win": 97,
+      "loss": 56,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2409,
+      "date": 1757184196
+    },
+    "lowest": {
+      "rating": 2280,
+      "date": 1757585466
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

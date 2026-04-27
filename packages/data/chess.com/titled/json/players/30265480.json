@@ -1,0 +1,84 @@
+{
+  "player_id": 30265480,
+  "@id": "https://api.chess.com/pub/player/atrophiedcrazyhouse",
+  "url": "https://www.chess.com/member/AtrophiedCrazyhouse",
+  "username": "atrophiedcrazyhouse",
+  "title": "NM",
+  "followers": 84,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1633563172,
+  "joined": 1475782513,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1488,
+      "date": 1539374237,
+      "rd": 169
+    },
+    "best": {
+      "rating": 1488,
+      "date": 1494427922,
+      "game": "https://www.chess.com/game/daily/154337050"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 25483,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2423,
+      "date": 1571290044,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1531450731,
+      "game": "https://www.chess.com/game/live/2988810468"
+    },
+    "record": {
+      "win": 703,
+      "loss": 419,
+      "draw": 51
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1571289558,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1570249280,
+      "game": "https://www.chess.com/game/live/2988954887"
+    },
+    "record": {
+      "win": 457,
+      "loss": 187,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2434,
+      "date": 1475782513
+    },
+    "lowest": {
+      "rating": 2434,
+      "date": 1475782513
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 171634341,
+  "@id": "https://api.chess.com/pub/player/baxyq",
+  "url": "https://www.chess.com/member/baxyq",
+  "name": "Brendan Anderson",
+  "username": "baxyq",
+  "title": "CM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776077402,
+  "joined": 1644023075,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2047,
+      "date": 1733330518,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1672913511,
+      "game": "https://www.chess.com/game/daily/458003875"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 10133,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2241,
+      "date": 1769573762,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2283,
+      "date": 1691465511,
+      "game": "https://www.chess.com/game/live/39878315433"
+    },
+    "record": {
+      "win": 212,
+      "loss": 151,
+      "draw": 33
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2107,
+      "date": 1728899956,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1728051623,
+      "game": "https://www.chess.com/game/live/119880619305"
+    },
+    "record": {
+      "win": 81,
+      "loss": 57,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2272,
+      "date": 1776077373,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1668576525,
+      "game": "https://www.chess.com/game/live/165288013071"
+    },
+    "record": {
+      "win": 1968,
+      "loss": 1538,
+      "draw": 293
+    }
+  },
+  "fide": 2015,
+  "tactics": {
+    "highest": {
+      "rating": 2312,
+      "date": 1644023075
+    },
+    "lowest": {
+      "rating": 2312,
+      "date": 1644023075
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

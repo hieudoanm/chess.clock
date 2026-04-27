@@ -1,0 +1,103 @@
+{
+    "player_id": 192254137,
+    "@id": "https://api.chess.com/pub/player/capablanca_oujda_2021",
+    "url": "https://www.chess.com/member/Capablanca_Oujda_2021",
+    "name": "Filali Razzouki Marouane",
+    "username": "capablanca_oujda_2021",
+    "title": "CM",
+    "followers": 203,
+    "country": "https://api.chess.com/pub/country/MA",
+    "last_online": 1733945732,
+    "joined": 1659629868,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1729,
+            "date": 1729594036,
+            "rd": 240
+        },
+        "best": {
+            "rating": 1729,
+            "date": 1713911944,
+            "game": "https://www.chess.com/game/daily/577060593"
+        },
+        "record": {
+            "win": 4,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 23241,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2401,
+            "date": 1733066228,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2553,
+            "date": 1697478800,
+            "game": "https://www.chess.com/game/live/103831930867"
+        },
+        "record": {
+            "win": 45,
+            "loss": 30,
+            "draw": 5
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2694,
+            "date": 1734180771,
+            "rd": 22
+        },
+        "best": {
+            "rating": 2703,
+            "date": 1734062834,
+            "game": "https://www.chess.com/game/live/102534022093"
+        },
+        "record": {
+            "win": 1330,
+            "loss": 1182,
+            "draw": 166
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2363,
+            "date": 1733927470,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2601,
+            "date": 1709850986,
+            "game": "https://www.chess.com/game/live/110065277383"
+        },
+        "record": {
+            "win": 258,
+            "loss": 227,
+            "draw": 33
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3613,
+            "date": 1725564032
+        },
+        "lowest": {
+            "rating": 1010,
+            "date": 1667243895
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 74,
+            "score": 71
+        }
+    }
+}

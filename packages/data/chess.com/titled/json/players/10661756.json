@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10661756.d624ac89.200x200o.7497415fbba0.jpeg",
+  "player_id": 10661756,
+  "@id": "https://api.chess.com/pub/player/gasconjr",
+  "url": "https://www.chess.com/member/GasconJR",
+  "name": "Jose Rafael Gascon",
+  "username": "gasconjr",
+  "title": "GM",
+  "followers": 2355,
+  "country": "https://api.chess.com/pub/country/SN",
+  "location": "Madrid",
+  "last_online": 1776518280,
+  "joined": 1359747246,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmgascon",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmgascon"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1973,
+      "date": 1761121692,
+      "rd": 284
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1362616592,
+      "game": "https://www.chess.com/game/daily/669974283"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 78924,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2440,
+      "date": 1774648685,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1603468527,
+      "game": "https://www.chess.com/game/live/69185457873"
+    },
+    "record": {
+      "win": 86,
+      "loss": 18,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2709,
+      "date": 1775353379,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2819,
+      "date": 1713312285,
+      "game": "https://www.chess.com/game/live/107044879293"
+    },
+    "record": {
+      "win": 1236,
+      "loss": 1090,
+      "draw": 152
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2710,
+      "date": 1776517305,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1772666522,
+      "game": "https://www.chess.com/game/live/87665558859"
+    },
+    "record": {
+      "win": 9983,
+      "loss": 8705,
+      "draw": 1780
+    }
+  },
+  "fide": 2498,
+  "tactics": {
+    "highest": {
+      "rating": 2668,
+      "date": 1758286730
+    },
+    "lowest": {
+      "rating": 2496,
+      "date": 1766078819
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

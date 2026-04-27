@@ -1,0 +1,96 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/156574447.6dce83c4.200x200o.d9b17543b325.png",
+  "player_id": 156574447,
+  "@id": "https://api.chess.com/pub/player/shadowking71",
+  "url": "https://www.chess.com/member/ShadowKing71",
+  "name": "James Chirilov",
+  "username": "shadowking71",
+  "title": "FM",
+  "followers": 1078,
+  "country": "https://api.chess.com/pub/country/AG",
+  "location": "Charlotte",
+  "last_online": 1776574996,
+  "joined": 1633105511,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/sk78live",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/sk78live"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1773602128,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1681874182,
+      "game": "https://www.chess.com/game/live/167914813415"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3038,
+      "date": 1776535131,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3358,
+      "date": 1770697109,
+      "game": "https://www.chess.com/game/live/166333354092"
+    },
+    "record": {
+      "win": 4757,
+      "loss": 4954,
+      "draw": 744
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3010,
+      "date": 1776457207,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3071,
+      "date": 1774467654,
+      "game": "https://www.chess.com/game/live/101258529835"
+    },
+    "record": {
+      "win": 6246,
+      "loss": 8164,
+      "draw": 1433
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2547,
+      "date": 1633105511
+    },
+    "lowest": {
+      "rating": 2547,
+      "date": 1633105511
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    },
+    "daily": {
+      "total_attempts": 59,
+      "score": 57
+    }
+  }
+}

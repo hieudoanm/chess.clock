@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/138250256.a9679262.200x200o.386a76a2b8cc.jpeg",
+  "player_id": 138250256,
+  "@id": "https://api.chess.com/pub/player/diandimov",
+  "url": "https://www.chess.com/member/DianDimov",
+  "username": "diandimov",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1631795099,
+  "joined": 1619869549,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1524,
+      "date": 1626211204,
+      "rd": 232
+    },
+    "best": {
+      "rating": 1524,
+      "date": 1623099096,
+      "game": "https://www.chess.com/game/daily/334140169"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 53196,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1899,
+      "date": 1624050425,
+      "rd": 53
+    },
+    "best": {
+      "rating": 1913,
+      "date": 1622282274,
+      "game": "https://www.chess.com/game/live/16020284985"
+    },
+    "record": {
+      "win": 42,
+      "loss": 12,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2733,
+      "date": 1631820378,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2751,
+      "date": 1625677395,
+      "game": "https://www.chess.com/game/live/17932866761"
+    },
+    "record": {
+      "win": 423,
+      "loss": 98,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2356,
+      "date": 1624794680,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1624794364,
+      "game": "https://www.chess.com/game/live/18533377339"
+    },
+    "record": {
+      "win": 177,
+      "loss": 67,
+      "draw": 17
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2268,
+      "date": 1619869549
+    },
+    "lowest": {
+      "rating": 2268,
+      "date": 1619869549
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

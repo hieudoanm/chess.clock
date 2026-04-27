@@ -1,0 +1,86 @@
+{
+  "player_id": 168132487,
+  "@id": "https://api.chess.com/pub/player/drahacik",
+  "url": "https://www.chess.com/member/Drahacik",
+  "name": "Eric Peterson",
+  "username": "drahacik",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/SK",
+  "location": "Stara Lubovna",
+  "last_online": 1763475484,
+  "joined": 1641677553,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2291,
+      "date": 1664716450,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2368,
+      "date": 1650795087,
+      "game": "https://www.chess.com/game/live/44485236917"
+    },
+    "record": {
+      "win": 188,
+      "loss": 98,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2136,
+      "date": 1651882049,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2136,
+      "date": 1651882049,
+      "game": "https://www.chess.com/game/live/45618645157"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2354,
+      "date": 1763476848,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1641744733,
+      "game": "https://www.chess.com/game/live/39306042097"
+    },
+    "record": {
+      "win": 2089,
+      "loss": 1470,
+      "draw": 398
+    }
+  },
+  "fide": 2309,
+  "tactics": {
+    "highest": {
+      "rating": 2725,
+      "date": 1641677553
+    },
+    "lowest": {
+      "rating": 2725,
+      "date": 1641677553
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

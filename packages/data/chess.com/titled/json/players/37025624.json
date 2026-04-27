@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37025624.87de83d6.200x200o.83e85ef0aec7.jpeg",
+  "player_id": 37025624,
+  "@id": "https://api.chess.com/pub/player/igordubrovich",
+  "url": "https://www.chess.com/member/igordubrovich",
+  "name": "Igor Dubrovich",
+  "username": "igordubrovich",
+  "title": "NM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "CABA",
+  "last_online": 1775780709,
+  "joined": 1500038117,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1633,
+      "date": 1753536954,
+      "rd": 252
+    },
+    "best": {
+      "rating": 1815,
+      "date": 1753126932,
+      "game": "https://www.chess.com/game/daily/170184232"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10362,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2040,
+      "date": 1732893271,
+      "rd": 74
+    },
+    "best": {
+      "rating": 1866,
+      "date": 1589063491,
+      "game": "https://www.chess.com/game/live/4802806639"
+    },
+    "record": {
+      "win": 21,
+      "loss": 9,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2040,
+      "date": 1732893271,
+      "rd": 56
+    },
+    "best": {
+      "rating": 1809,
+      "date": 1510374605,
+      "game": "https://www.chess.com/game/live/5067988763"
+    },
+    "record": {
+      "win": 46,
+      "loss": 37,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2208,
+      "date": 1771964533,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1738689600,
+      "game": "https://www.chess.com/game/live/132423682417"
+    },
+    "record": {
+      "win": 344,
+      "loss": 249,
+      "draw": 46
+    }
+  },
+  "fide": 2040,
+  "tactics": {
+    "highest": {
+      "rating": 2286,
+      "date": 1772310092
+    },
+    "lowest": {
+      "rating": 2160,
+      "date": 1772128953
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

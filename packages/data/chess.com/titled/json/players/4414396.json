@@ -1,0 +1,103 @@
+{
+  "player_id": 4414396,
+  "@id": "https://api.chess.com/pub/player/want2lose",
+  "url": "https://www.chess.com/member/want2lose",
+  "name": "Safal Bora",
+  "username": "want2lose",
+  "title": "GM",
+  "followers": 344,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776581246,
+  "joined": 1292734667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1873,
+      "date": 1759433713,
+      "rd": 181
+    },
+    "best": {
+      "rating": 1873,
+      "date": 1531897204,
+      "game": "https://www.chess.com/game/daily/179113504"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 31591,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2531,
+      "date": 1701144253,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1701144253,
+      "game": "https://www.chess.com/game/live/94882154751"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2987,
+      "date": 1776567931,
+      "rd": 20
+    },
+    "best": {
+      "rating": 3093,
+      "date": 1767378325,
+      "game": "https://www.chess.com/game/live/148054792882"
+    },
+    "record": {
+      "win": 17394,
+      "loss": 9974,
+      "draw": 2057
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3062,
+      "date": 1776309780,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3062,
+      "date": 1776309780,
+      "game": "https://www.chess.com/game/live/154598798093"
+    },
+    "record": {
+      "win": 23146,
+      "loss": 13283,
+      "draw": 3977
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1766076455
+    },
+    "lowest": {
+      "rating": 2375,
+      "date": 1766076207
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

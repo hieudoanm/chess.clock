@@ -1,0 +1,68 @@
+{
+  "player_id": 31842080,
+  "@id": "https://api.chess.com/pub/player/anantone",
+  "url": "https://www.chess.com/member/anantone",
+  "name": "Antonio Pazos Porta",
+  "username": "anantone",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1768753619,
+  "joined": 1482586071,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2559,
+      "date": 1756236660,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1609879900,
+      "game": "https://www.chess.com/game/live/6152664530"
+    },
+    "record": {
+      "win": 64,
+      "loss": 49,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1756169224,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1612895276,
+      "game": "https://www.chess.com/game/live/6355251632"
+    },
+    "record": {
+      "win": 124,
+      "loss": 95,
+      "draw": 12
+    }
+  },
+  "fide": 2383,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1482586071
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1482586071
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 41
+    }
+  }
+}

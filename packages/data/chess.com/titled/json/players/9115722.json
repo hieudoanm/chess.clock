@@ -1,0 +1,104 @@
+{
+  "player_id": 9115722,
+  "@id": "https://api.chess.com/pub/player/renathy",
+  "url": "https://www.chess.com/member/renathy",
+  "name": "Renate Vidruska",
+  "username": "renathy",
+  "title": "WFM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/LV",
+  "location": "Latvia",
+  "last_online": 1776519085,
+  "joined": 1349189658,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1432,
+      "date": 1765150704,
+      "rd": 335
+    },
+    "best": {
+      "rating": 1640,
+      "date": 1353916933,
+      "game": "https://www.chess.com/game/daily/61386488"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 17355,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1580,
+      "date": 1743683377,
+      "rd": 342
+    },
+    "best": {
+      "rating": 1572,
+      "date": 1360596174,
+      "game": "https://www.chess.com/game/live/452550376"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2222,
+      "date": 1757177876,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1757176949,
+      "game": "https://www.chess.com/game/live/151490282527"
+    },
+    "record": {
+      "win": 45,
+      "loss": 48,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1774977092,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1755617169,
+      "game": "https://www.chess.com/game/live/169284042137"
+    },
+    "record": {
+      "win": 65,
+      "loss": 100,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1961,
+      "date": 1760163481
+    },
+    "lowest": {
+      "rating": 1679,
+      "date": 1756718875
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

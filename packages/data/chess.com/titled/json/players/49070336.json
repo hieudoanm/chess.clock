@@ -1,0 +1,109 @@
+{
+  "player_id": 49070336,
+  "@id": "https://api.chess.com/pub/player/rionelg",
+  "url": "https://www.chess.com/member/rionelG",
+  "name": "Gabriel Lenoir",
+  "username": "rionelg",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1763780101,
+  "joined": 1535114766,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1855,
+      "date": 1763776608,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1683893117,
+      "game": "https://www.chess.com/game/daily/588005035"
+    },
+    "record": {
+      "win": 362,
+      "loss": 28,
+      "draw": 24,
+      "time_per_move": 9554,
+      "timeout_percent": 3
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 2,
+      "highest_finish": 7
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2194,
+      "date": 1740915686,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1677439091,
+      "game": "https://www.chess.com/game/live/103753289461"
+    },
+    "record": {
+      "win": 42,
+      "loss": 15,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2171,
+      "date": 1720487290,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2226,
+      "date": 1719110167,
+      "game": "https://www.chess.com/game/live/71959910449"
+    },
+    "record": {
+      "win": 426,
+      "loss": 153,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2324,
+      "date": 1759103474,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2472,
+      "date": 1728400618,
+      "game": "https://www.chess.com/game/live/120951655019"
+    },
+    "record": {
+      "win": 1141,
+      "loss": 1093,
+      "draw": 145
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 3383,
+      "date": 1719659928
+    },
+    "lowest": {
+      "rating": 0,
+      "date": 0
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

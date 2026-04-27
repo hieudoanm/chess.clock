@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1823078.6fb584e9.200x200o.fee5e1cbba20.jpg",
+  "player_id": 1823078,
+  "@id": "https://api.chess.com/pub/player/white_phoenix",
+  "url": "https://www.chess.com/member/White_Phoenix",
+  "name": "Clive Ng",
+  "username": "white_phoenix",
+  "title": "FM",
+  "followers": 277,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Sydney",
+  "last_online": 1776595106,
+  "joined": 1237201184,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1665790103,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1263787823,
+      "game": "https://www.chess.com/game/daily/60654730"
+    },
+    "record": {
+      "win": 24,
+      "loss": 25,
+      "draw": 2,
+      "time_per_move": 33257,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2349,
+      "date": 1775101032,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1775101032,
+      "game": "https://www.chess.com/game/live/165938579442"
+    },
+    "record": {
+      "win": 331,
+      "loss": 182,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1774337765,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1631321952,
+      "game": "https://www.chess.com/game/live/81868937"
+    },
+    "record": {
+      "win": 891,
+      "loss": 839,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2358,
+      "date": 1776559084,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1581571362,
+      "game": "https://www.chess.com/game/live/35968160157"
+    },
+    "record": {
+      "win": 2428,
+      "loss": 3331,
+      "draw": 339
+    }
+  },
+  "fide": 2113,
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1765069414
+    },
+    "lowest": {
+      "rating": 2135,
+      "date": 1769032693
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

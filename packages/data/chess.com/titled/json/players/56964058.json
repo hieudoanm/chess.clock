@@ -1,0 +1,104 @@
+{
+  "player_id": 56964058,
+  "@id": "https://api.chess.com/pub/player/orange_ghost",
+  "url": "https://www.chess.com/member/Orange_Ghost",
+  "name": "Yoav Milikow",
+  "username": "orange_ghost",
+  "title": "IM",
+  "followers": 4828,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1765317690,
+  "joined": 1549362832,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2044,
+      "date": 1674159948,
+      "rd": 185
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1562659803,
+      "game": "https://www.chess.com/game/daily/223064234"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 93979,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2590,
+      "date": 1664729219,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2740,
+      "date": 1571846270,
+      "game": "https://www.chess.com/game/live/46806639335"
+    },
+    "record": {
+      "win": 22,
+      "loss": 13,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3333,
+      "date": 1746804239,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3333,
+      "date": 1624911418,
+      "game": "https://www.chess.com/game/live/5733051830"
+    },
+    "record": {
+      "win": 8771,
+      "loss": 7637,
+      "draw": 755
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2756,
+      "date": 1738309741,
+      "rd": 59
+    },
+    "best": {
+      "rating": 3037,
+      "date": 1641142036,
+      "game": "https://www.chess.com/game/live/65313713105"
+    },
+    "record": {
+      "win": 3504,
+      "loss": 4091,
+      "draw": 835
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2728,
+      "date": 1549362832
+    },
+    "lowest": {
+      "rating": 2728,
+      "date": 1549362832
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 81,
+      "score": 80
+    }
+  }
+}

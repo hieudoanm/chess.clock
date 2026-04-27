@@ -1,0 +1,65 @@
+{
+  "player_id": 358074793,
+  "@id": "https://api.chess.com/pub/player/loyalfighter",
+  "url": "https://www.chess.com/member/loyalfighter",
+  "username": "loyalfighter",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776218222,
+  "joined": 1713516565,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1776218188,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2646,
+      "date": 1752714601,
+      "game": "https://www.chess.com/game/live/142094872112"
+    },
+    "record": {
+      "win": 566,
+      "loss": 591,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2432,
+      "date": 1768542839,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1713535146,
+      "game": "https://www.chess.com/game/live/107376776775"
+    },
+    "record": {
+      "win": 35,
+      "loss": 49,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1476,
+      "date": 1771520449
+    },
+    "lowest": {
+      "rating": 1020,
+      "date": 1760230387
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

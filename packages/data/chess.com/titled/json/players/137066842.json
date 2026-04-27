@@ -1,0 +1,104 @@
+{
+  "player_id": 137066842,
+  "@id": "https://api.chess.com/pub/player/melova",
+  "url": "https://www.chess.com/member/MeloVa",
+  "name": "Merlijn Van Volsem",
+  "username": "melova",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776491712,
+  "joined": 1619260627,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1739,
+      "date": 1770804906,
+      "rd": 207
+    },
+    "best": {
+      "rating": 1739,
+      "date": 1770804905,
+      "game": "https://www.chess.com/game/daily/394832089"
+    },
+    "record": {
+      "win": 101,
+      "loss": 10,
+      "draw": 4,
+      "time_per_move": 6085,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2563,
+      "date": 1776251820,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1776251820,
+      "game": "https://www.chess.com/game/live/166669384802"
+    },
+    "record": {
+      "win": 99,
+      "loss": 13,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1661611418,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1661611271,
+      "game": "https://www.chess.com/game/live/26759999629"
+    },
+    "record": {
+      "win": 202,
+      "loss": 54,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2759,
+      "date": 1767293417,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2784,
+      "date": 1755342567,
+      "game": "https://www.chess.com/game/live/141953635988"
+    },
+    "record": {
+      "win": 980,
+      "loss": 674,
+      "draw": 133
+    }
+  },
+  "fide": 2349,
+  "tactics": {
+    "highest": {
+      "rating": 2903,
+      "date": 1775904267
+    },
+    "lowest": {
+      "rating": 2572,
+      "date": 1755607308
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

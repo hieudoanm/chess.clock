@@ -1,0 +1,135 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20849442.5fc1b180.200x200o.bee096416039.jpeg",
+  "player_id": 20849442,
+  "@id": "https://api.chess.com/pub/player/adriananikolova",
+  "url": "https://www.chess.com/member/AdrianaNikolova",
+  "name": "Adriana Nikolova",
+  "username": "adriananikolova",
+  "title": "WGM",
+  "followers": 4818,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Plovdiv, BUL",
+  "last_online": 1776432931,
+  "joined": 1422553672,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/wgmadriana",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/wgmadriana"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@wgmadriananikolova"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1492,
+      "date": 1743755306,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2061,
+      "date": 1467040886,
+      "game": "https://www.chess.com/game/daily/122706640"
+    },
+    "record": {
+      "win": 341,
+      "loss": 146,
+      "draw": 56,
+      "time_per_move": 67216,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1566,
+      "date": 1494343581,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1481790608,
+      "game": "https://www.chess.com/game/daily/122097146"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 1,
+      "time_per_move": 67216,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2212,
+      "date": 1775158742,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2363,
+      "date": 1482703008,
+      "game": "https://www.chess.com/game/live/58465801167"
+    },
+    "record": {
+      "win": 391,
+      "loss": 59,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2628,
+      "date": 1776411673,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1653683241,
+      "game": "https://www.chess.com/game/live/68673769853"
+    },
+    "record": {
+      "win": 6059,
+      "loss": 6873,
+      "draw": 1005
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2552,
+      "date": 1776162011,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1774905514,
+      "game": "https://www.chess.com/game/live/67197246713"
+    },
+    "record": {
+      "win": 4170,
+      "loss": 3680,
+      "draw": 642
+    }
+  },
+  "fide": 2389,
+  "tactics": {
+    "highest": {
+      "rating": 2715,
+      "date": 1772109437
+    },
+    "lowest": {
+      "rating": 2548,
+      "date": 1763145259
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 80,
+      "score": 77
+    }
+  }
+}

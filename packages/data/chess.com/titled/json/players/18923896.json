@@ -1,0 +1,104 @@
+{
+  "player_id": 18923896,
+  "@id": "https://api.chess.com/pub/player/cthutq",
+  "url": "https://www.chess.com/member/Cthutq",
+  "name": "Sergey Muratov",
+  "username": "cthutq",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u0410\u0440\u0442\u0435\u043c",
+  "last_online": 1776306908,
+  "joined": 1410870885,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1816,
+      "date": 1716469766,
+      "rd": 169
+    },
+    "best": {
+      "rating": 1902,
+      "date": 1612543260,
+      "game": "https://www.chess.com/game/daily/257646090"
+    },
+    "record": {
+      "win": 23,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 52888,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2133,
+      "date": 1632536402,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1619144947,
+      "game": "https://www.chess.com/game/live/16310082689"
+    },
+    "record": {
+      "win": 37,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1842,
+      "date": 1438258626,
+      "rd": 242
+    },
+    "best": {
+      "rating": 1721,
+      "date": 1438257614,
+      "game": "https://www.chess.com/game/live/1231726667"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2258,
+      "date": 1726190618,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1561007279,
+      "game": "https://www.chess.com/game/live/4885918368"
+    },
+    "record": {
+      "win": 881,
+      "loss": 645,
+      "draw": 139
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2557,
+      "date": 1410870885
+    },
+    "lowest": {
+      "rating": 2557,
+      "date": 1410870885
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

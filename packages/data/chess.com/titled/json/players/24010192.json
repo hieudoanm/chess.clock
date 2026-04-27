@@ -1,0 +1,123 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24010192.becb7e9a.200x200o.83fd36f29c72.png",
+  "player_id": 24010192,
+  "@id": "https://api.chess.com/pub/player/appalm",
+  "url": "https://www.chess.com/member/appalm",
+  "name": "Ashley Pang",
+  "username": "appalm",
+  "title": "WCM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1772619014,
+  "joined": 1441652389,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1459,
+      "date": 1715897966,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1459,
+      "date": 1591665998,
+      "game": "https://www.chess.com/game/daily/172131944"
+    },
+    "record": {
+      "win": 43,
+      "loss": 43,
+      "draw": 1,
+      "time_per_move": 42049,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1077,
+      "date": 1531616329,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1441652389,
+      "game": "https://www.chess.com/game/daily/172062516"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 42049,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1668,
+      "date": 1623436282,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1758,
+      "date": 1556045914,
+      "game": "https://www.chess.com/game/live/3641419418"
+    },
+    "record": {
+      "win": 324,
+      "loss": 234,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1793,
+      "date": 1749716284,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1793,
+      "date": 1749716284,
+      "game": "https://www.chess.com/game/live/3439035024"
+    },
+    "record": {
+      "win": 220,
+      "loss": 164,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2024,
+      "date": 1764652651,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2024,
+      "date": 1764652651,
+      "game": "https://www.chess.com/game/live/104399474285"
+    },
+    "record": {
+      "win": 681,
+      "loss": 519,
+      "draw": 48
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2523,
+      "date": 1757459436
+    },
+    "lowest": {
+      "rating": 2402,
+      "date": 1764724232
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "player_id": 30943804,
+  "@id": "https://api.chess.com/pub/player/zhuban",
+  "url": "https://www.chess.com/member/Zhuban",
+  "name": "Zhuban Bigabylov",
+  "username": "zhuban",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "\u0428\u044b\u043c\u043a\u0435\u043d\u0442",
+  "last_online": 1775024586,
+  "joined": 1479299427,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2251,
+      "date": 1766499627,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1681058543,
+      "game": "https://www.chess.com/game/live/74796680873"
+    },
+    "record": {
+      "win": 60,
+      "loss": 45,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1903,
+      "date": 1761227031,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1994,
+      "date": 1760100182,
+      "game": "https://www.chess.com/game/live/5901173591"
+    },
+    "record": {
+      "win": 24,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2313,
+      "date": 1768653455,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2358,
+      "date": 1747757819,
+      "game": "https://www.chess.com/game/live/3483393662"
+    },
+    "record": {
+      "win": 143,
+      "loss": 117,
+      "draw": 15
+    }
+  },
+  "fide": 2031,
+  "tactics": {
+    "highest": {
+      "rating": 2488,
+      "date": 1758996366
+    },
+    "lowest": {
+      "rating": 1597,
+      "date": 1761394384
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

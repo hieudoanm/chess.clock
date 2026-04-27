@@ -1,0 +1,81 @@
+{
+  "player_id": 64781158,
+  "@id": "https://api.chess.com/pub/player/belabadea21",
+  "url": "https://www.chess.com/member/belabadea21",
+  "name": "Bela Badea",
+  "username": "belabadea21",
+  "title": "GM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776337452,
+  "joined": 1566920420,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1717241059,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2494820,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1669713659,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1669713659,
+      "game": "https://www.chess.com/game/live/63451618471"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2284,
+      "date": 1594710417,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1586851357,
+      "game": "https://www.chess.com/game/live/3984785736"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2618,
+      "date": 1566920420
+    },
+    "lowest": {
+      "rating": 2618,
+      "date": 1566920420
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

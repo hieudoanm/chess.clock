@@ -1,0 +1,84 @@
+{
+  "player_id": 160904825,
+  "@id": "https://api.chess.com/pub/player/vat55",
+  "url": "https://www.chess.com/member/VAT55",
+  "name": "Oleg Kozlov",
+  "username": "vat55",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775663446,
+  "joined": 1636560057,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1655907403,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2224,
+      "date": 1653492460,
+      "game": "https://www.chess.com/game/live/47230311665"
+    },
+    "record": {
+      "win": 12,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2716,
+      "date": 1745774976,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1736620902,
+      "game": "https://www.chess.com/game/live/130359065061"
+    },
+    "record": {
+      "win": 91,
+      "loss": 61,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2755,
+      "date": 1775660319,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2878,
+      "date": 1775211000,
+      "game": "https://www.chess.com/game/live/145091373685"
+    },
+    "record": {
+      "win": 1625,
+      "loss": 1779,
+      "draw": 196
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1636560057
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1636560057
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

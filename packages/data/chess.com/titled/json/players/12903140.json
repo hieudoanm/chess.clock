@@ -1,0 +1,88 @@
+{
+  "player_id": 12903140,
+  "@id": "https://api.chess.com/pub/player/rngtmn",
+  "url": "https://www.chess.com/member/Rngtmn",
+  "name": "Ron Gutman",
+  "username": "rngtmn",
+  "title": "NM",
+  "followers": 93,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "San Diego",
+  "last_online": 1776537614,
+  "joined": 1374934702,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1892,
+      "date": 1761472833,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1892,
+      "date": 1542758416,
+      "game": "https://www.chess.com/game/daily/207871746"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8377,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1775436399,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1775436399,
+      "game": "https://www.chess.com/game/live/164798005758"
+    },
+    "record": {
+      "win": 19974,
+      "loss": 16277,
+      "draw": 1058
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2367,
+      "date": 1776537607,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1773698060,
+      "game": "https://www.chess.com/game/live/165935241818"
+    },
+    "record": {
+      "win": 4295,
+      "loss": 3597,
+      "draw": 298
+    }
+  },
+  "fide": 2294,
+  "tactics": {
+    "highest": {
+      "rating": 2507,
+      "date": 1775436897
+    },
+    "lowest": {
+      "rating": 2070,
+      "date": 1755744868
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45068188.6657149a.200x200o.f28c0647024d.jpg",
+  "player_id": 45068188,
+  "@id": "https://api.chess.com/pub/player/nguyenmyhanhan",
+  "url": "https://www.chess.com/member/nguyenmyhanhan",
+  "name": "My Hanh An Nguyen",
+  "username": "nguyenmyhanhan",
+  "title": "WIM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776582247,
+  "joined": 1523113467,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1742397816,
+      "rd": 350
+    },
+    "record": {
+      "win": 4,
+      "loss": 40,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1986,
+      "date": 1695607484,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1986,
+      "date": 1695607484,
+      "game": "https://www.chess.com/game/live/47824798539"
+    },
+    "record": {
+      "win": 20,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2226,
+      "date": 1776534990,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1769879985,
+      "game": "https://www.chess.com/game/live/170845826953"
+    },
+    "record": {
+      "win": 377,
+      "loss": 329,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2311,
+      "date": 1745961256,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1681318594,
+      "game": "https://www.chess.com/game/live/26920273671"
+    },
+    "record": {
+      "win": 120,
+      "loss": 74,
+      "draw": 8
+    }
+  },
+  "fide": 1896,
+  "tactics": {
+    "highest": {
+      "rating": 2473,
+      "date": 1760342339
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1759734711
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

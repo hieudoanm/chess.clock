@@ -1,0 +1,83 @@
+{
+  "player_id": 152776617,
+  "@id": "https://api.chess.com/pub/player/agent_bishopp",
+  "url": "https://www.chess.com/member/Agent_Bishopp",
+  "username": "agent_bishopp",
+  "title": "WIM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776584849,
+  "joined": 1630241714,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1631281253,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2158,
+      "date": 1630683675,
+      "game": "https://www.chess.com/game/live/25014110729"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2547,
+      "date": 1764063981,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1764063981,
+      "game": "https://www.chess.com/game/live/118997379515"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2362,
+      "date": 1725257900,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1697642963,
+      "game": "https://www.chess.com/game/live/106578386089"
+    },
+    "record": {
+      "win": 41,
+      "loss": 27,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2446,
+      "date": 1763372687
+    },
+    "lowest": {
+      "rating": 2042,
+      "date": 1757102650
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

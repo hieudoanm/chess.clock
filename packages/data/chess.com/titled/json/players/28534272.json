@@ -1,0 +1,104 @@
+{
+  "player_id": 28534272,
+  "@id": "https://api.chess.com/pub/player/edjo32",
+  "url": "https://www.chess.com/member/edjo32",
+  "name": "Carsten Hecht",
+  "username": "edjo32",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776538242,
+  "joined": 1465317853,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1657,
+      "date": 1743582513,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1466609233,
+      "game": "https://www.chess.com/game/daily/137823538"
+    },
+    "record": {
+      "win": 17,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 5730,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2289,
+      "date": 1721143927,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1611951663,
+      "game": "https://www.chess.com/game/live/6429060782"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1611754770,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1611754693,
+      "game": "https://www.chess.com/game/live/2621219270"
+    },
+    "record": {
+      "win": 181,
+      "loss": 132,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2502,
+      "date": 1739121493,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2596,
+      "date": 1697492663,
+      "game": "https://www.chess.com/game/live/109884701889"
+    },
+    "record": {
+      "win": 733,
+      "loss": 482,
+      "draw": 90
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1765123966
+    },
+    "lowest": {
+      "rating": 2053,
+      "date": 1771152738
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

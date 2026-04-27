@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7945122.e5dcc497.200x200o.d32c4424d9c4.jpeg",
+  "player_id": 7945122,
+  "@id": "https://api.chess.com/pub/player/koziororo",
+  "url": "https://www.chess.com/member/koziororo",
+  "name": "Michal Koziorowicz",
+  "username": "koziororo",
+  "title": "FM",
+  "followers": 181,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776555205,
+  "joined": 1340132724,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1972,
+      "date": 1667548203,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2058,
+      "date": 1482184098,
+      "game": "https://www.chess.com/game/daily/60089862"
+    },
+    "record": {
+      "win": 65,
+      "loss": 27,
+      "draw": 5,
+      "time_per_move": 74120,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2615,
+      "date": 1776203984,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1769812468,
+      "game": "https://www.chess.com/game/live/165113862360"
+    },
+    "record": {
+      "win": 640,
+      "loss": 349,
+      "draw": 65
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2825,
+      "date": 1776164973,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2861,
+      "date": 1776163655,
+      "game": "https://www.chess.com/game/live/157540050139"
+    },
+    "record": {
+      "win": 2787,
+      "loss": 2578,
+      "draw": 320
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2587,
+      "date": 1773351443,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2788,
+      "date": 1666128479,
+      "game": "https://www.chess.com/game/live/59866875775"
+    },
+    "record": {
+      "win": 1508,
+      "loss": 1192,
+      "draw": 197
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2746,
+      "date": 1760125805
+    },
+    "lowest": {
+      "rating": 2700,
+      "date": 1762205374
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

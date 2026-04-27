@@ -1,0 +1,82 @@
+{
+  "player_id": 331128963,
+  "@id": "https://api.chess.com/pub/player/genialdama",
+  "url": "https://www.chess.com/member/genialdama",
+  "name": "Mayra Cabrera Ladron de Guevara",
+  "username": "genialdama",
+  "title": "WFM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776542966,
+  "joined": 1702052638,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1703932691,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 62832,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1211,
+      "date": 1766597761,
+      "rd": 170
+    },
+    "best": {
+      "rating": 1921,
+      "date": 1722956355,
+      "game": "https://www.chess.com/game/live/120653394109"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1892,
+      "date": 1762749550,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1989,
+      "date": 1762723780,
+      "game": "https://www.chess.com/game/live/145319707694"
+    },
+    "record": {
+      "win": 35,
+      "loss": 26,
+      "draw": 4
+    }
+  },
+  "fide": 1920,
+  "tactics": {
+    "highest": {
+      "rating": 2199,
+      "date": 1763127859
+    },
+    "lowest": {
+      "rating": 2050,
+      "date": 1772187633
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 10192638,
+  "@id": "https://api.chess.com/pub/player/dendirk",
+  "url": "https://www.chess.com/member/DenDirk",
+  "name": "Dirk van Dooren",
+  "username": "dendirk",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Brabant",
+  "last_online": 1776406205,
+  "joined": 1356648627,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2206,
+      "date": 1735087550,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1626091305,
+      "game": "https://www.chess.com/game/live/3331184520"
+    },
+    "record": {
+      "win": 250,
+      "loss": 182,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2536,
+      "date": 1776358591,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1763726050,
+      "game": "https://www.chess.com/game/live/130322986805"
+    },
+    "record": {
+      "win": 6317,
+      "loss": 5098,
+      "draw": 641
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1774547944
+    },
+    "lowest": {
+      "rating": 2231,
+      "date": 1774623295
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

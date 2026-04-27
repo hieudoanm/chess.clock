@@ -1,0 +1,83 @@
+{
+  "player_id": 373611955,
+  "@id": "https://api.chess.com/pub/player/parallax_mastermind",
+  "url": "https://www.chess.com/member/Parallax_Mastermind",
+  "username": "parallax_mastermind",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1776501822,
+  "joined": 1720183951,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2354,
+      "date": 1768900005,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1752332959,
+      "game": "https://www.chess.com/game/live/140616070218"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2637,
+      "date": 1770864821,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2708,
+      "date": 1755199629,
+      "game": "https://www.chess.com/game/live/142488406358"
+    },
+    "record": {
+      "win": 198,
+      "loss": 144,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2809,
+      "date": 1776501683,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2866,
+      "date": 1768505828,
+      "game": "https://www.chess.com/game/live/146961164036"
+    },
+    "record": {
+      "win": 461,
+      "loss": 437,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2597,
+      "date": 1770576908
+    },
+    "lowest": {
+      "rating": 2453,
+      "date": 1770572104
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

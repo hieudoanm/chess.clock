@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/36078958.5099b432.200x200o.090b535e0d16.jpg",
+  "player_id": 36078958,
+  "@id": "https://api.chess.com/pub/player/soldierofgod1",
+  "url": "https://www.chess.com/member/SoldierOfGod1",
+  "name": "Lucas Fonseca Piccoli",
+  "username": "soldierofgod1",
+  "title": "FM",
+  "followers": 920,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Santa Catarina",
+  "last_online": 1776259307,
+  "joined": 1496672983,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/mnpiccoli",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/mnpiccoli"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1700,
+      "date": 1750063798,
+      "rd": 213
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1496672983,
+      "game": "https://www.chess.com/game/daily/250521684"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 32848,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2234,
+      "date": 1678548628,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1654560389,
+      "game": "https://www.chess.com/game/live/6076657393"
+    },
+    "record": {
+      "win": 163,
+      "loss": 44,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2605,
+      "date": 1685153681,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2613,
+      "date": 1625518140,
+      "game": "https://www.chess.com/game/live/6211184991"
+    },
+    "record": {
+      "win": 574,
+      "loss": 347,
+      "draw": 56
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2617,
+      "date": 1708704389,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1652924826,
+      "game": "https://www.chess.com/game/live/15789854967"
+    },
+    "record": {
+      "win": 1161,
+      "loss": 719,
+      "draw": 108
+    }
+  },
+  "fide": 2191,
+  "tactics": {
+    "highest": {
+      "rating": 2639,
+      "date": 1496672983
+    },
+    "lowest": {
+      "rating": 2639,
+      "date": 1496672983
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

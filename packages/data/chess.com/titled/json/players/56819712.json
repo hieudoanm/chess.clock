@@ -1,0 +1,86 @@
+{
+  "player_id": 56819712,
+  "@id": "https://api.chess.com/pub/player/chichin_chao",
+  "url": "https://www.chess.com/member/Chichin_chao",
+  "name": "Jesus Vallejo Diaz",
+  "username": "chichin_chao",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776521792,
+  "joined": 1549048714,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1438,
+      "date": 1774349104,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1438,
+      "date": 1774349103,
+      "game": "https://www.chess.com/game/daily/821747114"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10784,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2366,
+      "date": 1776521784,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1776117320,
+      "game": "https://www.chess.com/game/live/3540237604"
+    },
+    "record": {
+      "win": 355,
+      "loss": 234,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2370,
+      "date": 1775683756,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1563704993,
+      "game": "https://www.chess.com/game/live/4752554267"
+    },
+    "record": {
+      "win": 743,
+      "loss": 613,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2300,
+      "date": 1768676610
+    },
+    "lowest": {
+      "rating": 2087,
+      "date": 1760214424
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "player_id": 7844322,
+  "@id": "https://api.chess.com/pub/player/fianchettoer",
+  "url": "https://www.chess.com/member/fianchettoer",
+  "username": "fianchettoer",
+  "title": "NM",
+  "followers": 68,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776374632,
+  "joined": 1339292100,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1502,
+      "date": 1712248418,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1817,
+      "date": 1443335602,
+      "game": "https://www.chess.com/game/daily/124886805"
+    },
+    "record": {
+      "win": 73,
+      "loss": 60,
+      "draw": 4,
+      "time_per_move": 138894,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1469,
+      "date": 1400421396,
+      "rd": 195
+    },
+    "best": {
+      "rating": 1474,
+      "date": 1385671240,
+      "game": "https://www.chess.com/game/daily/78731254"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 138894,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1725,
+      "date": 1680239548,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1539635596,
+      "game": "https://www.chess.com/game/live/1418170633"
+    },
+    "record": {
+      "win": 130,
+      "loss": 76,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2465,
+      "date": 1647567925,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2683,
+      "date": 1614227391,
+      "game": "https://www.chess.com/game/live/4157056750"
+    },
+    "record": {
+      "win": 7802,
+      "loss": 5561,
+      "draw": 739
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1643607113,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1643519790,
+      "game": "https://www.chess.com/game/live/3259775791"
+    },
+    "record": {
+      "win": 9208,
+      "loss": 7308,
+      "draw": 1077
+    }
+  },
+  "fide": 2180,
+  "tactics": {
+    "highest": {
+      "rating": 2606,
+      "date": 1339292100
+    },
+    "lowest": {
+      "rating": 2606,
+      "date": 1339292100
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

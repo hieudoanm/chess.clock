@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18246510.1d057fbe.200x200o.a8a289116df3.jpeg",
+  "player_id": 18246510,
+  "@id": "https://api.chess.com/pub/player/mikhail_golubev",
+  "url": "https://www.chess.com/member/Mikhail_Golubev",
+  "name": "Mikhail Golubev",
+  "username": "mikhail_golubev",
+  "title": "GM",
+  "followers": 601,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Odessa",
+  "last_online": 1776501056,
+  "joined": 1406475021,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1668860229,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 18039,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2439,
+      "date": 1776465025,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1702151521,
+      "game": "https://www.chess.com/game/live/53443742151"
+    },
+    "record": {
+      "win": 114,
+      "loss": 73,
+      "draw": 31
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2413,
+      "date": 1665183984,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1661627643,
+      "game": "https://www.chess.com/game/live/55366263235"
+    },
+    "record": {
+      "win": 463,
+      "loss": 203,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2724,
+      "date": 1748109751,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1735079373,
+      "game": "https://www.chess.com/game/live/85246402053"
+    },
+    "record": {
+      "win": 4543,
+      "loss": 3814,
+      "draw": 883
+    }
+  },
+  "fide": 2461,
+  "tactics": {
+    "highest": {
+      "rating": 2727,
+      "date": 1406475021
+    },
+    "lowest": {
+      "rating": 2727,
+      "date": 1406475021
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

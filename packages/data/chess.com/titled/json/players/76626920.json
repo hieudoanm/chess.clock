@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76626920.98855962.200x200o.8acdac0a8e2e.jpg",
+  "player_id": 76626920,
+  "@id": "https://api.chess.com/pub/player/deepfear",
+  "url": "https://www.chess.com/member/deepfear",
+  "name": "Alexandra Prado",
+  "username": "deepfear",
+  "title": "WCM",
+  "followers": 2368,
+  "country": "https://api.chess.com/pub/country/BO",
+  "last_online": 1776596614,
+  "joined": 1586816909,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/alexandrachess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/alexandrachess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 510,
+      "date": 1738514234,
+      "rd": 159
+    },
+    "best": {
+      "rating": 892,
+      "date": 1592198951,
+      "game": "https://www.chess.com/game/daily/266626118"
+    },
+    "record": {
+      "win": 4,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 203987,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2074,
+      "date": 1776453099,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1726342486,
+      "game": "https://www.chess.com/game/live/126541835709"
+    },
+    "record": {
+      "win": 116,
+      "loss": 61,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1506,
+      "date": 1776596605,
+      "rd": 28
+    },
+    "best": {
+      "rating": 1797,
+      "date": 1706953354,
+      "game": "https://www.chess.com/game/live/76875269517"
+    },
+    "record": {
+      "win": 3816,
+      "loss": 3925,
+      "draw": 254
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1830,
+      "date": 1776590654,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1720616079,
+      "game": "https://www.chess.com/game/live/50579382941"
+    },
+    "record": {
+      "win": 1010,
+      "loss": 1161,
+      "draw": 110
+    }
+  },
+  "fide": 1936,
+  "tactics": {
+    "highest": {
+      "rating": 2321,
+      "date": 1771784684
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1771784414
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

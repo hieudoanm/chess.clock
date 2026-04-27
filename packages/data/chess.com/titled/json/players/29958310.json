@@ -1,0 +1,87 @@
+{
+  "player_id": 29958310,
+  "@id": "https://api.chess.com/pub/player/mata_ratas",
+  "url": "https://www.chess.com/member/Mata_ratas",
+  "name": "Rosa Serrano",
+  "username": "mata_ratas",
+  "title": "WFM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1774696747,
+  "joined": 1474019118,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 983,
+      "date": 1755011470,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1387,
+      "date": 1487433842,
+      "game": "https://www.chess.com/game/daily/156708084"
+    },
+    "record": {
+      "win": 6,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 67831,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1654255969,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1654254261,
+      "game": "https://www.chess.com/game/live/47992817591"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2125,
+      "date": 1761062488,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1646768696,
+      "game": "https://www.chess.com/game/live/50775633085"
+    },
+    "record": {
+      "win": 562,
+      "loss": 504,
+      "draw": 39
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2103,
+      "date": 1761931090
+    },
+    "lowest": {
+      "rating": 2085,
+      "date": 1761931072
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

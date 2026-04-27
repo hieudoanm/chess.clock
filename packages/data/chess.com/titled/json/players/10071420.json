@@ -1,0 +1,104 @@
+{
+  "player_id": 10071420,
+  "@id": "https://api.chess.com/pub/player/eichess2",
+  "url": "https://www.chess.com/member/eichess2",
+  "name": "Rachel Miller",
+  "username": "eichess2",
+  "title": "CM",
+  "followers": 116,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776580938,
+  "joined": 1355873458,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1824,
+      "date": 1733736504,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2039,
+      "date": 1409349736,
+      "game": "https://www.chess.com/game/daily/88199276"
+    },
+    "record": {
+      "win": 38,
+      "loss": 42,
+      "draw": 1,
+      "time_per_move": 78561,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1921,
+      "date": 1756264240,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1372798845,
+      "game": "https://www.chess.com/game/live/24427358125"
+    },
+    "record": {
+      "win": 106,
+      "loss": 60,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1917,
+      "date": 1657915332,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1600826403,
+      "game": "https://www.chess.com/game/live/5323216936"
+    },
+    "record": {
+      "win": 75,
+      "loss": 85,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2001,
+      "date": 1770421881,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2057,
+      "date": 1481340964,
+      "game": "https://www.chess.com/game/live/1846658720"
+    },
+    "record": {
+      "win": 462,
+      "loss": 435,
+      "draw": 50
+    }
+  },
+  "fide": 1,
+  "tactics": {
+    "highest": {
+      "rating": 2073,
+      "date": 1763141414
+    },
+    "lowest": {
+      "rating": 1520,
+      "date": 1764879765
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

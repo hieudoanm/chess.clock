@@ -1,0 +1,83 @@
+{
+  "player_id": 424784155,
+  "@id": "https://api.chess.com/pub/player/alphagm1729",
+  "url": "https://www.chess.com/member/AlphaGM1729",
+  "username": "alphagm1729",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776340865,
+  "joined": 1738159869,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1947,
+      "date": 1743504040,
+      "rd": 110
+    },
+    "best": {
+      "rating": 1986,
+      "date": 1738248818,
+      "game": "https://www.chess.com/game/live/131987362643"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2010,
+      "date": 1745350412,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2041,
+      "date": 1738259550,
+      "game": "https://www.chess.com/game/live/131998250137"
+    },
+    "record": {
+      "win": 14,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2069,
+      "date": 1745350237,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1738196186,
+      "game": "https://www.chess.com/game/live/131931576031"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2126,
+      "date": 1738159869
+    },
+    "lowest": {
+      "rating": 2126,
+      "date": 1738159869
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

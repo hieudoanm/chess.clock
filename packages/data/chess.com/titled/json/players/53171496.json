@@ -1,0 +1,105 @@
+{
+  "player_id": 53171496,
+  "@id": "https://api.chess.com/pub/player/racingchesslive",
+  "url": "https://www.chess.com/member/RacingChessLive",
+  "name": "Juan Manuel Bertorello",
+  "username": "racingchesslive",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Villa Adelina",
+  "last_online": 1776306730,
+  "joined": 1544669140,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2162,
+      "date": 1634632121,
+      "rd": 173
+    },
+    "best": {
+      "rating": 2162,
+      "date": 1603031492,
+      "game": "https://www.chess.com/game/daily/275586860"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 26225,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2282,
+      "date": 1717477485,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1595629413,
+      "game": "https://www.chess.com/game/live/5174097370"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2305,
+      "date": 1776027615,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1706059660,
+      "game": "https://www.chess.com/game/live/21227374183"
+    },
+    "record": {
+      "win": 1313,
+      "loss": 1428,
+      "draw": 103
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2586,
+      "date": 1776027048,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1775520251,
+      "game": "https://www.chess.com/game/live/167183778130"
+    },
+    "record": {
+      "win": 81,
+      "loss": 59,
+      "draw": 16
+    }
+  },
+  "fide": 2282,
+  "tactics": {
+    "highest": {
+      "rating": 2087,
+      "date": 1544669140
+    },
+    "lowest": {
+      "rating": 2087,
+      "date": 1544669140
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

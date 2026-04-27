@@ -1,0 +1,103 @@
+{
+  "player_id": 74938504,
+  "@id": "https://api.chess.com/pub/player/bobdakow",
+  "url": "https://www.chess.com/member/BobDaKow",
+  "name": "Jed Sloan",
+  "username": "bobdakow",
+  "title": "CM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776250888,
+  "joined": 1585488417,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1669,
+      "date": 1774844785,
+      "rd": 153
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1610425513,
+      "game": "https://www.chess.com/game/daily/297390854"
+    },
+    "record": {
+      "win": 16,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 72607,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2089,
+      "date": 1738358060,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1652625610,
+      "game": "https://www.chess.com/game/live/46273233399"
+    },
+    "record": {
+      "win": 27,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1965,
+      "date": 1743768868,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2527,
+      "date": 1606876619,
+      "game": "https://www.chess.com/game/live/5835178608"
+    },
+    "record": {
+      "win": 16,
+      "loss": 23,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1800,
+      "date": 1748515806,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1697578149,
+      "game": "https://www.chess.com/game/live/4926198376"
+    },
+    "record": {
+      "win": 208,
+      "loss": 204,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1855,
+      "date": 1585488417
+    },
+    "lowest": {
+      "rating": 1855,
+      "date": 1585488417
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

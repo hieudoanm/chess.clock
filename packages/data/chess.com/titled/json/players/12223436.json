@@ -1,0 +1,94 @@
+{
+  "player_id": 12223436,
+  "@id": "https://api.chess.com/pub/player/kot60",
+  "url": "https://www.chess.com/member/kot60",
+  "name": "Mark Kotliar",
+  "username": "kot60",
+  "title": "FM",
+  "followers": 124,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776578513,
+  "joined": 1370705718,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1659428896,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 8,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1638035406,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1606696816,
+      "game": "https://www.chess.com/game/live/5850065274"
+    },
+    "record": {
+      "win": 10,
+      "loss": 14,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2252,
+      "date": 1666465753,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1666465753,
+      "game": "https://www.chess.com/game/live/60204096019"
+    },
+    "record": {
+      "win": 14,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1776579699,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1774244889,
+      "game": "https://www.chess.com/game/live/166746856150"
+    },
+    "record": {
+      "win": 49456,
+      "loss": 57235,
+      "draw": 9498
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2350,
+      "date": 1370705718
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1370705718
+    }
+  },
+  "puzzle_rush": {}
+}

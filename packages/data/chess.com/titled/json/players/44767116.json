@@ -1,0 +1,68 @@
+{
+  "player_id": 44767116,
+  "@id": "https://api.chess.com/pub/player/vadim_biliy",
+  "url": "https://www.chess.com/member/Vadim_Biliy",
+  "name": "Vadim Biliy",
+  "username": "vadim_biliy",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776587559,
+  "joined": 1522333442,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2410,
+      "date": 1749025678,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1748767364,
+      "game": "https://www.chess.com/game/live/120641417629"
+    },
+    "record": {
+      "win": 125,
+      "loss": 100,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2403,
+      "date": 1747924689,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1747924689,
+      "game": "https://www.chess.com/game/live/3926642289"
+    },
+    "record": {
+      "win": 5280,
+      "loss": 6002,
+      "draw": 1163
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2375,
+      "date": 1768253403
+    },
+    "lowest": {
+      "rating": 2281,
+      "date": 1768384256
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 28
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 29668814,
+  "@id": "https://api.chess.com/pub/player/sahs66",
+  "url": "https://www.chess.com/member/sahs66",
+  "name": "Aivars Raudive",
+  "username": "sahs66",
+  "title": "FM",
+  "followers": 101,
+  "country": "https://api.chess.com/pub/country/LV",
+  "last_online": 1776540809,
+  "joined": 1472338988,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 855,
+      "date": 1749186279,
+      "rd": 322
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1472338988,
+      "game": "https://www.chess.com/game/daily/817390614"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13747,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1440,
+      "date": 1775665256,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1705,
+      "date": 1617372656,
+      "game": "https://www.chess.com/game/live/5667917819"
+    },
+    "record": {
+      "win": 87,
+      "loss": 43,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1885,
+      "date": 1776315845,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1699659881,
+      "game": "https://www.chess.com/game/live/113524804687"
+    },
+    "record": {
+      "win": 409,
+      "loss": 251,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1815,
+      "date": 1775059029,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1588525584,
+      "game": "https://www.chess.com/game/live/1711451803"
+    },
+    "record": {
+      "win": 576,
+      "loss": 546,
+      "draw": 109
+    }
+  },
+  "fide": 2288,
+  "tactics": {
+    "highest": {
+      "rating": 1869,
+      "date": 1763569169
+    },
+    "lowest": {
+      "rating": 1611,
+      "date": 1764178008
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 45
+    }
+  }
+}

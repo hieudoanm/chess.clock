@@ -1,0 +1,102 @@
+{
+  "player_id": 348883681,
+  "@id": "https://api.chess.com/pub/player/patatablava123",
+  "url": "https://www.chess.com/member/patatablava123",
+  "username": "patatablava123",
+  "title": "WCM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/MK",
+  "last_online": 1776594441,
+  "joined": 1709564081,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1555,
+      "date": 1771070974,
+      "rd": 176
+    },
+    "best": {
+      "rating": 1555,
+      "date": 1770666866,
+      "game": "https://www.chess.com/game/daily/921689455"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 20980,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2167,
+      "date": 1725802783,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2174,
+      "date": 1725802125,
+      "game": "https://www.chess.com/game/live/119539871977"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1874,
+      "date": 1775514453,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2407,
+      "date": 1726328103,
+      "game": "https://www.chess.com/game/live/106915836855"
+    },
+    "record": {
+      "win": 1751,
+      "loss": 1644,
+      "draw": 175
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2030,
+      "date": 1776597841,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1716474216,
+      "game": "https://www.chess.com/game/live/114775719567"
+    },
+    "record": {
+      "win": 2969,
+      "loss": 2782,
+      "draw": 385
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1966,
+      "date": 1769181106
+    },
+    "lowest": {
+      "rating": 1678,
+      "date": 1758643450
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

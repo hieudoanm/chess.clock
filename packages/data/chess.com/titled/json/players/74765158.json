@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74765158.e35b815f.200x200o.67f1c8be106a.jpeg",
+  "player_id": 74765158,
+  "@id": "https://api.chess.com/pub/player/clevervoyage",
+  "url": "https://www.chess.com/member/CleverVoyage",
+  "username": "clevervoyage",
+  "title": "WIM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776329534,
+  "joined": 1585367361,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2006,
+      "date": 1619534127,
+      "rd": 237
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2251,
+      "date": 1767217443,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1735572109,
+      "game": "https://www.chess.com/game/live/63361618747"
+    },
+    "record": {
+      "win": 168,
+      "loss": 172,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1767506139,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1653678079,
+      "game": "https://www.chess.com/game/live/63045033373"
+    },
+    "record": {
+      "win": 2294,
+      "loss": 2613,
+      "draw": 266
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2668,
+      "date": 1775668520
+    },
+    "lowest": {
+      "rating": 2507,
+      "date": 1761187741
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

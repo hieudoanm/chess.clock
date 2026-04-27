@@ -1,0 +1,104 @@
+{
+  "player_id": 5916279,
+  "@id": "https://api.chess.com/pub/player/rokomotion",
+  "url": "https://www.chess.com/member/RokoMotion",
+  "name": "Seth Rokosky",
+  "username": "rokomotion",
+  "title": "NM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776596428,
+  "joined": 1318018623,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1479,
+      "date": 1775936717,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2184,
+      "date": 1550759496,
+      "game": "https://www.chess.com/game/daily/211700006"
+    },
+    "record": {
+      "win": 233,
+      "loss": 143,
+      "draw": 24,
+      "time_per_move": 87661,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2140,
+      "date": 1717447280,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2149,
+      "date": 1679239140,
+      "game": "https://www.chess.com/game/live/72977948015"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2374,
+      "date": 1775043478,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1670845714,
+      "game": "https://www.chess.com/game/live/57194862777"
+    },
+    "record": {
+      "win": 433,
+      "loss": 317,
+      "draw": 66
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2627,
+      "date": 1776597046,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2627,
+      "date": 1776597046,
+      "game": "https://www.chess.com/game/live/59485280303"
+    },
+    "record": {
+      "win": 20628,
+      "loss": 17591,
+      "draw": 3268
+    }
+  },
+  "fide": 2286,
+  "tactics": {
+    "highest": {
+      "rating": 2380,
+      "date": 1318018623
+    },
+    "lowest": {
+      "rating": 2380,
+      "date": 1318018623
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

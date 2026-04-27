@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2772366.56dd9c2f.200x200o.3a095708d884.jpeg",
+  "player_id": 2772366,
+  "@id": "https://api.chess.com/pub/player/dbojkov",
+  "url": "https://www.chess.com/member/dbojkov",
+  "name": "Dejan Bojkov",
+  "username": "dbojkov",
+  "title": "GM",
+  "followers": 1431,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Sofia",
+  "last_online": 1775659309,
+  "joined": 1272403999,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1717392572,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 35873,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2257,
+      "date": 1691252621,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1673881200,
+      "game": "https://www.chess.com/game/live/1312784408"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2593,
+      "date": 1374188682,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2459,
+      "date": 1349688034,
+      "game": "https://www.chess.com/game/live/297052089"
+    },
+    "record": {
+      "win": 324,
+      "loss": 76,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2395,
+      "date": 1550415519,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1338891327,
+      "game": "https://www.chess.com/game/live/362449108"
+    },
+    "record": {
+      "win": 265,
+      "loss": 85,
+      "draw": 26
+    }
+  },
+  "fide": 2597,
+  "tactics": {
+    "highest": {
+      "rating": 2631,
+      "date": 1757518105
+    },
+    "lowest": {
+      "rating": 2567,
+      "date": 1757518170
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

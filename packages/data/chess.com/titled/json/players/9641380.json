@@ -1,0 +1,99 @@
+{
+  "player_id": 9641380,
+  "@id": "https://api.chess.com/pub/player/chalomoro",
+  "url": "https://www.chess.com/member/chalomoro",
+  "name": "Gonzalo Moro Saidon",
+  "username": "chalomoro",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1775170947,
+  "joined": 1352927249,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1010,
+      "date": 1747658843,
+      "rd": 214
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 47317,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1686002676,
+      "rd": 208
+    },
+    "best": {
+      "rating": 2072,
+      "date": 1686002104,
+      "game": "https://www.chess.com/game/live/5062455060"
+    },
+    "record": {
+      "win": 55,
+      "loss": 34,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2237,
+      "date": 1773796632,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2269,
+      "date": 1687548131,
+      "game": "https://www.chess.com/game/live/81286994161"
+    },
+    "record": {
+      "win": 213,
+      "loss": 145,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2186,
+      "date": 1751400536,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1705956407,
+      "game": "https://www.chess.com/game/live/143881217687"
+    },
+    "record": {
+      "win": 438,
+      "loss": 241,
+      "draw": 56
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2364,
+      "date": 1352927249
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1352927249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

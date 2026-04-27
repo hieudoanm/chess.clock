@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/639118712",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2013.11.06\"]\n[Round \"-\"]\n[White \"IamTHEmasta\"]\n[Black \"DanielNaroditsky\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnQ1kbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNB1KBNR b KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"A41\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-1...d6\"]\n[UTCDate \"2013.11.06\"]\n[UTCTime \"04:05:02\"]\n[WhiteElo \"1761\"]\n[BlackElo \"2452\"]\n[TimeControl \"60\"]\n[Termination \"IamTHEmasta won by checkmate\"]\n[StartTime \"04:05:02\"]\n[EndDate \"2013.11.06\"]\n[EndTime \"04:05:09\"]\n[Link \"https://www.chess.com/game/live/639118712\"]\n\n1. d4 {[%clk 0:01:00]} 1... d6 {[%clk 0:01:00]} 2. Qd3 {[%clk 0:00:59.3]} 2... Bf5 {[%clk 0:00:59.2]} 3. Qxf5 {[%clk 0:00:58.2]} 3... Qc8 {[%clk 0:00:58.7]} 4. Qxc8# {[%clk 0:00:57]} 1-0\n",
+    "time_control": "60",
+    "end_time": 1383710709,
+    "rated": true,
+    "tcn": "lBZRdt6LtL76L6",
+    "uuid": "1694a5d0-7372-11de-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnQ1kbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNB1KBNR b KQkq -",
+    "time_class": "bullet",
+    "rules": "chess",
+    "white": {
+      "rating": 1761,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/iamthemasta",
+      "username": "IamTHEmasta",
+      "uuid": "ef28c0fa-9e06-11e0-8059-000000000000"
+    },
+    "black": {
+      "rating": 2452,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/danielnaroditsky",
+      "username": "DanielNaroditsky",
+      "uuid": "5a96a38a-e436-11dd-8018-000000000000"
+    }
+  }
+]

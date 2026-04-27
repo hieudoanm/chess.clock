@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13359502.2796c5f2.200x200o.0e5841068339.png",
+  "player_id": 13359502,
+  "@id": "https://api.chess.com/pub/player/saylormoon",
+  "url": "https://www.chess.com/member/Saylormoon",
+  "name": "Natacha Benmesbah",
+  "username": "saylormoon",
+  "title": "WGM",
+  "followers": 487,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776590187,
+  "joined": 1378021652,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/wim_saylormoon",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/wim_saylormoon"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1265,
+      "date": 1763630900,
+      "rd": 178
+    },
+    "best": {
+      "rating": 1391,
+      "date": 1712684294,
+      "game": "https://www.chess.com/game/daily/529240077"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 45411,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2152,
+      "date": 1772190972,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2152,
+      "date": 1772190972,
+      "game": "https://www.chess.com/game/live/165276004926"
+    },
+    "record": {
+      "win": 30,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2377,
+      "date": 1767684706,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2498,
+      "date": 1737972207,
+      "game": "https://www.chess.com/game/live/131567472945"
+    },
+    "record": {
+      "win": 316,
+      "loss": 298,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2332,
+      "date": 1776079654,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1676416010,
+      "game": "https://www.chess.com/game/live/129421994677"
+    },
+    "record": {
+      "win": 469,
+      "loss": 409,
+      "draw": 55
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1755603488
+    },
+    "lowest": {
+      "rating": 2378,
+      "date": 1765297461
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

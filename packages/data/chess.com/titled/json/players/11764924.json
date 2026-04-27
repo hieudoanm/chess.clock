@@ -1,0 +1,104 @@
+{
+  "player_id": 11764924,
+  "@id": "https://api.chess.com/pub/player/srdr8290",
+  "url": "https://www.chess.com/member/SRDR8290",
+  "name": "Stanislav Ritvin",
+  "username": "srdr8290",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776553099,
+  "joined": 1367712235,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2099,
+      "date": 1768514040,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1764635681,
+      "game": "https://www.chess.com/game/daily/388819095"
+    },
+    "record": {
+      "win": 106,
+      "loss": 12,
+      "draw": 15,
+      "time_per_move": 9854,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2351,
+      "date": 1760560481,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1669830157,
+      "game": "https://www.chess.com/game/live/63568110209"
+    },
+    "record": {
+      "win": 54,
+      "loss": 38,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2466,
+      "date": 1776552549,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2627,
+      "date": 1553802321,
+      "game": "https://www.chess.com/game/live/162378427001"
+    },
+    "record": {
+      "win": 2715,
+      "loss": 2130,
+      "draw": 295
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2471,
+      "date": 1774388320,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1748209588,
+      "game": "https://www.chess.com/game/live/5316025812"
+    },
+    "record": {
+      "win": 7022,
+      "loss": 5637,
+      "draw": 1019
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1757103598
+    },
+    "lowest": {
+      "rating": 2315,
+      "date": 1771451767
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

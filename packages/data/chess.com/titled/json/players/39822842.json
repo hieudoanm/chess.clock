@@ -1,0 +1,67 @@
+{
+  "player_id": 39822842,
+  "@id": "https://api.chess.com/pub/player/abelbaumann",
+  "url": "https://www.chess.com/member/AbelBaumann",
+  "name": "Hans Rath",
+  "username": "abelbaumann",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776582340,
+  "joined": 1509129696,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1775751106,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1760897994,
+      "game": "https://www.chess.com/game/live/144487780674"
+    },
+    "record": {
+      "win": 6,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2662,
+      "date": 1776319000,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1752256221,
+      "game": "https://www.chess.com/game/live/140588153970"
+    },
+    "record": {
+      "win": 1608,
+      "loss": 1244,
+      "draw": 353
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2295,
+      "date": 1760277638
+    },
+    "lowest": {
+      "rating": 2271,
+      "date": 1760277486
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

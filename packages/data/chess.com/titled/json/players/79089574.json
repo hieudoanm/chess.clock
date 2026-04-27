@@ -1,0 +1,103 @@
+{
+  "player_id": 79089574,
+  "@id": "https://api.chess.com/pub/player/nuvas",
+  "url": "https://www.chess.com/member/Nuvas",
+  "name": "Evgenios Ioannidis",
+  "username": "nuvas",
+  "title": "GM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1775979168,
+  "joined": 1589105926,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1611,
+      "date": 1712594499,
+      "rd": 340
+    },
+    "best": {
+      "rating": 1611,
+      "date": 1712594499,
+      "game": "https://www.chess.com/game/daily/638550863"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10315,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2546,
+      "date": 1758788119,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1727277812,
+      "game": "https://www.chess.com/game/live/4934185738"
+    },
+    "record": {
+      "win": 106,
+      "loss": 40,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2830,
+      "date": 1751223011,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2929,
+      "date": 1716957877,
+      "game": "https://www.chess.com/game/live/139956581320"
+    },
+    "record": {
+      "win": 1839,
+      "loss": 1570,
+      "draw": 225
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2850,
+      "date": 1770577828,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2962,
+      "date": 1751532560,
+      "game": "https://www.chess.com/game/live/91295944845"
+    },
+    "record": {
+      "win": 1643,
+      "loss": 1364,
+      "draw": 285
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2742,
+      "date": 1760699991
+    },
+    "lowest": {
+      "rating": 2548,
+      "date": 1775843184
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

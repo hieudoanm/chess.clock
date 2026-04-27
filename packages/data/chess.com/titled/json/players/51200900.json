@@ -1,0 +1,68 @@
+{
+  "player_id": 51200900,
+  "@id": "https://api.chess.com/pub/player/worldchampionbulletchess",
+  "url": "https://www.chess.com/member/WorldChampionBulletChess",
+  "name": "Juan Leon Jimenez Molina",
+  "username": "worldchampionbulletchess",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1692982964,
+  "joined": 1540655968,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2553,
+      "date": 1679771496,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2628,
+      "date": 1554318286,
+      "game": "https://www.chess.com/game/live/73505649045"
+    },
+    "record": {
+      "win": 136,
+      "loss": 183,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2534,
+      "date": 1677804837,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1677378784,
+      "game": "https://www.chess.com/game/live/71021147533"
+    },
+    "record": {
+      "win": 47,
+      "loss": 74,
+      "draw": 11
+    }
+  },
+  "fide": 2398,
+  "tactics": {
+    "highest": {
+      "rating": 2155,
+      "date": 1540655968
+    },
+    "lowest": {
+      "rating": 2155,
+      "date": 1540655968
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

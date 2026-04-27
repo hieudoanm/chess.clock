@@ -1,0 +1,80 @@
+{
+  "player_id": 294688107,
+  "@id": "https://api.chess.com/pub/player/headtothewin",
+  "url": "https://www.chess.com/member/headtothewin",
+  "username": "headtothewin",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776514543,
+  "joined": 1687190251,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1073,
+      "date": 1755599520,
+      "rd": 344
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 28047,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2496,
+      "date": 1765886843,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1765868389,
+      "game": "https://www.chess.com/game/live/146777646268"
+    },
+    "record": {
+      "win": 41,
+      "loss": 13,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2452,
+      "date": 1776514536,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1776513654,
+      "game": "https://www.chess.com/game/live/167480001962"
+    },
+    "record": {
+      "win": 68,
+      "loss": 24,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2439,
+      "date": 1765767609
+    },
+    "lowest": {
+      "rating": 2298,
+      "date": 1766631585
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

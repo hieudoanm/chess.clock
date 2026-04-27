@@ -1,0 +1,102 @@
+{
+  "player_id": 45069970,
+  "@id": "https://api.chess.com/pub/player/saevecors",
+  "url": "https://www.chess.com/member/Saevecors",
+  "username": "saevecors",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1696083919,
+  "joined": 1523117513,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1680207935,
+      "rd": 103
+    },
+    "best": {
+      "rating": 1888,
+      "date": 1554033607,
+      "game": "https://www.chess.com/game/daily/221885448"
+    },
+    "record": {
+      "win": 2,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 32084,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1813,
+      "date": 1549491135,
+      "rd": 336
+    },
+    "best": {
+      "rating": 1813,
+      "date": 1549491135,
+      "game": "https://www.chess.com/game/live/3438291279"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2112,
+      "date": 1696084338,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1679861001,
+      "game": "https://www.chess.com/game/live/73601985325"
+    },
+    "record": {
+      "win": 1599,
+      "loss": 1441,
+      "draw": 78
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2081,
+      "date": 1683727842,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1553521615,
+      "game": "https://www.chess.com/game/live/77169051265"
+    },
+    "record": {
+      "win": 598,
+      "loss": 484,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1523117513
+    },
+    "lowest": {
+      "rating": 2588,
+      "date": 1523117513
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

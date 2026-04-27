@@ -1,0 +1,85 @@
+{
+  "player_id": 536565865,
+  "@id": "https://api.chess.com/pub/player/parokha_serhii",
+  "url": "https://www.chess.com/member/Parokha_Serhii",
+  "name": "Serhii Parokha",
+  "username": "parokha_serhii",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776576788,
+  "joined": 1772566013,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2325,
+      "date": 1775841639,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1775838558,
+      "game": "https://www.chess.com/game/live/167125666816"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2433,
+      "date": 1776562713,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1774294377,
+      "game": "https://www.chess.com/game/live/167131873378"
+    },
+    "record": {
+      "win": 60,
+      "loss": 62,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1776560219,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1775854228,
+      "game": "https://www.chess.com/game/live/166014873536"
+    },
+    "record": {
+      "win": 378,
+      "loss": 331,
+      "draw": 65
+    }
+  },
+  "fide": 2323,
+  "tactics": {
+    "highest": {
+      "rating": 2323,
+      "date": 1773859707
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1772566059
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

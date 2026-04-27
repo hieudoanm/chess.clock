@@ -1,0 +1,103 @@
+{
+  "player_id": 13057506,
+  "@id": "https://api.chess.com/pub/player/kiwibobo",
+  "url": "https://www.chess.com/member/kiwibobo",
+  "name": "Kiren Vivek Nasta",
+  "username": "kiwibobo",
+  "title": "NM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776564922,
+  "joined": 1375907239,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1561,
+      "date": 1759107001,
+      "rd": 165
+    },
+    "best": {
+      "rating": 1858,
+      "date": 1685623116,
+      "game": "https://www.chess.com/game/daily/525306733"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 8430,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2054,
+      "date": 1774713729,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2063,
+      "date": 1761506387,
+      "game": "https://www.chess.com/game/live/144524188636"
+    },
+    "record": {
+      "win": 486,
+      "loss": 479,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2500,
+      "date": 1773888088,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1733081384,
+      "game": "https://www.chess.com/game/live/121889976083"
+    },
+    "record": {
+      "win": 3989,
+      "loss": 4010,
+      "draw": 500
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2421,
+      "date": 1776546021,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1738208959,
+      "game": "https://www.chess.com/game/live/80429532417"
+    },
+    "record": {
+      "win": 3729,
+      "loss": 2937,
+      "draw": 520
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2318,
+      "date": 1766681885
+    },
+    "lowest": {
+      "rating": 2176,
+      "date": 1768344865
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

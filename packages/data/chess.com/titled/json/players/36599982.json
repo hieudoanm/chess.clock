@@ -1,0 +1,85 @@
+{
+  "player_id": 36599982,
+  "@id": "https://api.chess.com/pub/player/yerlan-ra",
+  "url": "https://www.chess.com/member/Yerlan-Ra",
+  "name": "Yerlan Rakhimgaliyev",
+  "username": "yerlan-ra",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776573886,
+  "joined": 1498492489,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1944,
+      "date": 1772437282,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1584250287,
+      "game": "https://www.chess.com/game/live/4682643623"
+    },
+    "record": {
+      "win": 12,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2621,
+      "date": 1769954288,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2690,
+      "date": 1767811151,
+      "game": "https://www.chess.com/game/live/117193221869"
+    },
+    "record": {
+      "win": 1126,
+      "loss": 1372,
+      "draw": 86
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2722,
+      "date": 1776526341,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2837,
+      "date": 1773385215,
+      "game": "https://www.chess.com/game/live/157363054447"
+    },
+    "record": {
+      "win": 1272,
+      "loss": 1342,
+      "draw": 156
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2587,
+      "date": 1768099075
+    },
+    "lowest": {
+      "rating": 2252,
+      "date": 1760372466
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

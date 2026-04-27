@@ -1,0 +1,84 @@
+{
+  "player_id": 16074964,
+  "@id": "https://api.chess.com/pub/player/flubs",
+  "url": "https://www.chess.com/member/flubs",
+  "name": "Patrick Lacey",
+  "username": "flubs",
+  "title": "NM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776572553,
+  "joined": 1392514830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2488,
+      "date": 1772756541,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1772486945,
+      "game": "https://www.chess.com/game/live/165394804148"
+    },
+    "record": {
+      "win": 67,
+      "loss": 30,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2584,
+      "date": 1772826779,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1769180491,
+      "game": "https://www.chess.com/game/live/126880188807"
+    },
+    "record": {
+      "win": 17839,
+      "loss": 14249,
+      "draw": 1791
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2548,
+      "date": 1776572518,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1770020567,
+      "game": "https://www.chess.com/game/live/64823586515"
+    },
+    "record": {
+      "win": 21403,
+      "loss": 16655,
+      "draw": 2657
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2462,
+      "date": 1756475398
+    },
+    "lowest": {
+      "rating": 2195,
+      "date": 1760417376
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

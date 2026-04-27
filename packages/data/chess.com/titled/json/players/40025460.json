@@ -1,0 +1,98 @@
+{
+  "player_id": 40025460,
+  "@id": "https://api.chess.com/pub/player/alogo24",
+  "url": "https://www.chess.com/member/alogo24",
+  "name": "Holger Dietz",
+  "username": "alogo24",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776338907,
+  "joined": 1509727835,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2120,
+      "date": 1665442394,
+      "rd": 256
+    },
+    "best": {
+      "rating": 2120,
+      "date": 1664398110,
+      "game": "https://www.chess.com/game/daily/422063563"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 57053,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1665442394,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1716,
+      "date": 1657172012,
+      "game": "https://www.chess.com/game/live/51193845835"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1677899772,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2428,
+      "date": 1662737527,
+      "game": "https://www.chess.com/game/live/56475051167"
+    },
+    "record": {
+      "win": 2498,
+      "loss": 2011,
+      "draw": 206
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1668242927,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1656062463,
+      "game": "https://www.chess.com/game/live/49801170995"
+    },
+    "record": {
+      "win": 2213,
+      "loss": 1724,
+      "draw": 349
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1509727835
+    },
+    "lowest": {
+      "rating": 2604,
+      "date": 1509727835
+    }
+  },
+  "puzzle_rush": {}
+}

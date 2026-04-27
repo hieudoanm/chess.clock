@@ -1,0 +1,83 @@
+{
+  "player_id": 85285844,
+  "@id": "https://api.chess.com/pub/player/patzernation",
+  "url": "https://www.chess.com/member/patzernation",
+  "username": "patzernation",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776307026,
+  "joined": 1593634861,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1727024299,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1727024299,
+      "game": "https://www.chess.com/game/live/5842713839"
+    },
+    "record": {
+      "win": 29,
+      "loss": 17,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1702986588,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1679618765,
+      "game": "https://www.chess.com/game/live/73357569045"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1702986588,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1595633015,
+      "game": "https://www.chess.com/game/live/5199648559"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2001,
+      "date": 1593634861
+    },
+    "lowest": {
+      "rating": 2001,
+      "date": 1593634861
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

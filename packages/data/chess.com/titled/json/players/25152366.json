@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25152366.8fb42d0d.200x200o.84d66911cf62.jpg",
+  "player_id": 25152366,
+  "@id": "https://api.chess.com/pub/player/agent-jl",
+  "url": "https://www.chess.com/member/Agent-JL",
+  "name": "Justin Liang",
+  "username": "agent-jl",
+  "title": "NM",
+  "followers": 696,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "MI, USA",
+  "last_online": 1776549518,
+  "joined": 1447972230,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/agent_jl_chess",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/agent_jl_chess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1665,
+      "date": 1754714937,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1970,
+      "date": 1484655001,
+      "game": "https://www.chess.com/game/daily/134243710"
+    },
+    "record": {
+      "win": 24,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 23931,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2441,
+      "date": 1758745283,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2449,
+      "date": 1727240149,
+      "game": "https://www.chess.com/game/live/120978015539"
+    },
+    "record": {
+      "win": 46,
+      "loss": 23,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2866,
+      "date": 1776401335,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1774845634,
+      "game": "https://www.chess.com/game/live/37088442163"
+    },
+    "record": {
+      "win": 7629,
+      "loss": 8470,
+      "draw": 1017
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2661,
+      "date": 1776386539,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2718,
+      "date": 1776109262,
+      "game": "https://www.chess.com/game/live/4908471814"
+    },
+    "record": {
+      "win": 5294,
+      "loss": 5199,
+      "draw": 769
+    }
+  },
+  "fide": 2253,
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1771870177
+    },
+    "lowest": {
+      "rating": 2483,
+      "date": 1762801104
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

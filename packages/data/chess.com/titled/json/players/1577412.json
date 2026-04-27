@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1577412.f43e81e2.200x200o.2b6a0b8cc943.jpeg",
+  "player_id": 1577412,
+  "@id": "https://api.chess.com/pub/player/aolcum",
+  "url": "https://www.chess.com/member/aolcum",
+  "name": "Ahmet Olcum",
+  "username": "aolcum",
+  "title": "FM",
+  "followers": 133,
+  "country": "https://api.chess.com/pub/country/TR",
+  "location": "Mersin",
+  "last_online": 1776419420,
+  "joined": 1225770738,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1401,
+      "date": 1641304203,
+      "rd": 244
+    },
+    "best": {
+      "rating": 1472,
+      "date": 1227727603,
+      "game": "https://www.chess.com/game/daily/11249383"
+    },
+    "record": {
+      "win": 6,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 58321,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2024,
+      "date": 1753830111,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1684176203,
+      "game": "https://www.chess.com/game/live/141261244054"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2306,
+      "date": 1731361754,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1731361490,
+      "game": "https://www.chess.com/game/live/125100001069"
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2472,
+      "date": 1776377704,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1776371126,
+      "game": "https://www.chess.com/game/live/122859896037"
+    },
+    "record": {
+      "win": 369,
+      "loss": 381,
+      "draw": 37
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1225770738
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1225770738
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 82,
+      "score": 79
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27057616.d5508d65.200x200o.16ce01b49683.jpeg",
+  "player_id": 27057616,
+  "@id": "https://api.chess.com/pub/player/zurability",
+  "url": "https://www.chess.com/member/Zurability",
+  "name": "Zurab Javakhadze",
+  "username": "zurability",
+  "title": "IM",
+  "followers": 1987,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Dallas",
+  "last_online": 1776534092,
+  "joined": 1457066672,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/imzurability",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/imzurability"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@zurability"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1066,
+      "date": 1771267104,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1457066672,
+      "game": "https://www.chess.com/game/daily/252860950"
+    },
+    "record": {
+      "win": 42,
+      "loss": 21,
+      "draw": 2,
+      "time_per_move": 122159,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2552,
+      "date": 1776188891,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1607812758,
+      "game": "https://www.chess.com/game/live/165128324316"
+    },
+    "record": {
+      "win": 184,
+      "loss": 52,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2777,
+      "date": 1775724501,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2958,
+      "date": 1706641194,
+      "game": "https://www.chess.com/game/live/100727094355"
+    },
+    "record": {
+      "win": 4625,
+      "loss": 3884,
+      "draw": 414
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2970,
+      "date": 1776450743,
+      "rd": 29
+    },
+    "best": {
+      "rating": 3019,
+      "date": 1774975549,
+      "game": "https://www.chess.com/game/live/144689365137"
+    },
+    "record": {
+      "win": 4719,
+      "loss": 3623,
+      "draw": 627
+    }
+  },
+  "fide": 2477,
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1759340211
+    },
+    "lowest": {
+      "rating": 2291,
+      "date": 1759340252
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

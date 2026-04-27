@@ -1,0 +1,107 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/170491435.708adc43.200x200o.c29bf68e6204.jpg",
+  "player_id": 170491435,
+  "@id": "https://api.chess.com/pub/player/jstopa4",
+  "url": "https://www.chess.com/member/jstopa4",
+  "name": "Jacek Stopa",
+  "username": "jstopa4",
+  "title": "GM",
+  "followers": 94,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "El Cerrito",
+  "last_online": 1776593373,
+  "joined": 1643229081,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2099,
+      "date": 1776597778,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2220,
+      "date": 1756814110,
+      "game": "https://www.chess.com/game/daily/852516630"
+    },
+    "record": {
+      "win": 239,
+      "loss": 72,
+      "draw": 48,
+      "time_per_move": 12057,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 843,
+      "date": 1743910164,
+      "rd": 316
+    },
+    "best": {
+      "rating": 843,
+      "date": 1743910163,
+      "game": "https://www.chess.com/game/daily/795901119"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12057,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1775908149,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1715188771,
+      "game": "https://www.chess.com/game/live/36967949401"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2900,
+      "date": 1774959117,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2900,
+      "date": 1774959117,
+      "game": "https://www.chess.com/game/live/123088886107"
+    },
+    "record": {
+      "win": 1554,
+      "loss": 1704,
+      "draw": 462
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1764804343
+    },
+    "lowest": {
+      "rating": 2054,
+      "date": 1760314787
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

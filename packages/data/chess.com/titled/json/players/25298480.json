@@ -1,0 +1,99 @@
+{
+  "player_id": 25298480,
+  "@id": "https://api.chess.com/pub/player/lanshou",
+  "url": "https://www.chess.com/member/Lanshou",
+  "name": "Qi b Chen",
+  "username": "lanshou",
+  "title": "IM",
+  "followers": 88,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1774687305,
+  "joined": 1448698079,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1597836401,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2351,
+      "date": 1657888466,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1657548617,
+      "game": "https://www.chess.com/game/live/51289279245"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2958,
+      "date": 1765522978,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2987,
+      "date": 1765521966,
+      "game": "https://www.chess.com/game/live/146567241112"
+    },
+    "record": {
+      "win": 1603,
+      "loss": 1277,
+      "draw": 208
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2678,
+      "date": 1750214361,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1580804060,
+      "game": "https://www.chess.com/game/live/44120691627"
+    },
+    "record": {
+      "win": 2549,
+      "loss": 2145,
+      "draw": 487
+    }
+  },
+  "fide": 2493,
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1448698079
+    },
+    "lowest": {
+      "rating": 2572,
+      "date": 1448698079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 81,
+      "score": 78
+    }
+  }
+}

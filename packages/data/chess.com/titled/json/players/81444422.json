@@ -1,0 +1,68 @@
+{
+  "player_id": 81444422,
+  "@id": "https://api.chess.com/pub/player/marta_gm",
+  "url": "https://www.chess.com/member/Marta_gm",
+  "name": "Marta Garcia",
+  "username": "marta_gm",
+  "title": "IM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1644336957,
+  "joined": 1591275632,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2040,
+      "date": 1642003983,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1591523132,
+      "game": "https://www.chess.com/game/live/4964931552"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2766,
+      "date": 1644365099,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1644338269,
+      "game": "https://www.chess.com/game/live/38076688301"
+    },
+    "record": {
+      "win": 41,
+      "loss": 18,
+      "draw": 7
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1591275632
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1591275632
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

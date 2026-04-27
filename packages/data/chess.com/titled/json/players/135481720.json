@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/135481720.39c04567.200x200o.1f687a14a3e7.png",
+  "player_id": 135481720,
+  "@id": "https://api.chess.com/pub/player/great_fischer",
+  "url": "https://www.chess.com/member/Great_Fischer",
+  "name": "Robert James Fischer",
+  "username": "great_fischer",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Saturn\ud83d\udc7d",
+  "last_online": 1763654523,
+  "joined": 1618504085,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1239,
+      "date": 1767169164,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1441,
+      "date": 1683144586,
+      "game": "https://www.chess.com/game/daily/507703217"
+    },
+    "record": {
+      "win": 46,
+      "loss": 40,
+      "draw": 4,
+      "time_per_move": 43225,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1833,
+      "date": 1746712768,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1875,
+      "date": 1731660160,
+      "game": "https://www.chess.com/game/live/48000561969"
+    },
+    "record": {
+      "win": 263,
+      "loss": 180,
+      "draw": 30
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2040,
+      "date": 1761512062,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2063,
+      "date": 1731356652,
+      "game": "https://www.chess.com/game/live/132952742279"
+    },
+    "record": {
+      "win": 1100,
+      "loss": 619,
+      "draw": 97
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2232,
+      "date": 1761510827,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1761510490,
+      "game": "https://www.chess.com/game/live/134948952947"
+    },
+    "record": {
+      "win": 427,
+      "loss": 265,
+      "draw": 48
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2400,
+      "date": 1618504085
+    },
+    "lowest": {
+      "rating": 2400,
+      "date": 1618504085
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 429382185,
+  "@id": "https://api.chess.com/pub/player/babyduck7",
+  "url": "https://www.chess.com/member/babyduck7",
+  "name": "Nguyen Vu Ky Anh",
+  "username": "babyduck7",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776589057,
+  "joined": 1739604446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2330,
+      "date": 1772785214,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1769466491,
+      "game": "https://www.chess.com/game/live/148452394464"
+    },
+    "record": {
+      "win": 32,
+      "loss": 10,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2583,
+      "date": 1773532582,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1773489020,
+      "game": "https://www.chess.com/game/live/165930062482"
+    },
+    "record": {
+      "win": 32,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2455,
+      "date": 1776400098,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1771392041,
+      "game": "https://www.chess.com/game/live/164242010130"
+    },
+    "record": {
+      "win": 117,
+      "loss": 86,
+      "draw": 10
+    }
+  },
+  "fide": 2204,
+  "tactics": {
+    "highest": {
+      "rating": 2513,
+      "date": 1769052646
+    },
+    "lowest": {
+      "rating": 1877,
+      "date": 1769052263
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

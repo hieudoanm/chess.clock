@@ -1,0 +1,85 @@
+{
+  "player_id": 81329512,
+  "@id": "https://api.chess.com/pub/player/random_mango",
+  "url": "https://www.chess.com/member/random_mango",
+  "name": "Advait Bagri",
+  "username": "random_mango",
+  "title": "CM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/SG",
+  "location": "Singapore",
+  "last_online": 1774935594,
+  "joined": 1591176280,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2036,
+      "date": 1606568331,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1596707285,
+      "game": "https://www.chess.com/game/live/5258489570"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2456,
+      "date": 1759594718,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1696481960,
+      "game": "https://www.chess.com/game/live/143612777166"
+    },
+    "record": {
+      "win": 247,
+      "loss": 248,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1758812011,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1592035498,
+      "game": "https://www.chess.com/game/live/122744689669"
+    },
+    "record": {
+      "win": 61,
+      "loss": 66,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2357,
+      "date": 1758158950
+    },
+    "lowest": {
+      "rating": 2284,
+      "date": 1758159147
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

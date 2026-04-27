@@ -1,0 +1,104 @@
+{
+  "player_id": 90455400,
+  "@id": "https://api.chess.com/pub/player/alchesschampion",
+  "url": "https://www.chess.com/member/ALCHESSCHAMPION",
+  "name": "Alvaro Torres Rebolledo",
+  "username": "alchesschampion",
+  "title": "FM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776598110,
+  "joined": 1599124919,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1391,
+      "date": 1773844100,
+      "rd": 215
+    },
+    "best": {
+      "rating": 1774,
+      "date": 1763755165,
+      "game": "https://www.chess.com/game/daily/888967253"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 151102,
+      "timeout_percent": 66
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2301,
+      "date": 1748614593,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2301,
+      "date": 1748614593,
+      "game": "https://www.chess.com/game/live/55264897761"
+    },
+    "record": {
+      "win": 24,
+      "loss": 22,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2659,
+      "date": 1776531294,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2688,
+      "date": 1769965284,
+      "game": "https://www.chess.com/game/live/165402610321"
+    },
+    "record": {
+      "win": 500,
+      "loss": 553,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2633,
+      "date": 1774791876,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2785,
+      "date": 1763391422,
+      "game": "https://www.chess.com/game/live/152363883129"
+    },
+    "record": {
+      "win": 850,
+      "loss": 860,
+      "draw": 164
+    }
+  },
+  "fide": 2309,
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1770392856
+    },
+    "lowest": {
+      "rating": 2114,
+      "date": 1774105170
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

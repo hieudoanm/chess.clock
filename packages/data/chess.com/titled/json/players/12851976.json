@@ -1,0 +1,83 @@
+{
+  "player_id": 12851976,
+  "@id": "https://api.chess.com/pub/player/kampkatten",
+  "url": "https://www.chess.com/member/Kampkatten",
+  "username": "kampkatten",
+  "title": "GM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1775157098,
+  "joined": 1374663019,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2591,
+      "date": 1597596008,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1597596008,
+      "game": "https://www.chess.com/game/live/5264678061"
+    },
+    "record": {
+      "win": 19,
+      "loss": 6,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2833,
+      "date": 1673136105,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2829,
+      "date": 1673051453,
+      "game": "https://www.chess.com/game/live/11715740517"
+    },
+    "record": {
+      "win": 92,
+      "loss": 46,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2854,
+      "date": 1718873294,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2854,
+      "date": 1710889506,
+      "game": "https://www.chess.com/game/live/104628037833"
+    },
+    "record": {
+      "win": 270,
+      "loss": 142,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2898,
+      "date": 1374663019
+    },
+    "lowest": {
+      "rating": 2898,
+      "date": 1374663019
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 58
+    }
+  }
+}

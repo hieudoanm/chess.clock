@@ -1,0 +1,67 @@
+{
+  "player_id": 169958897,
+  "@id": "https://api.chess.com/pub/player/igorbarbashin",
+  "url": "https://www.chess.com/member/Igorbarbashin",
+  "username": "igorbarbashin",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1676352878,
+  "joined": 1642871572,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1631,
+      "date": 1657981671,
+      "rd": 240
+    },
+    "best": {
+      "rating": 1631,
+      "date": 1657981671,
+      "game": "https://www.chess.com/game/live/51720004331"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2219,
+      "date": 1673370543,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1645549340,
+      "game": "https://www.chess.com/game/live/49562441495"
+    },
+    "record": {
+      "win": 40,
+      "loss": 96,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1642871572
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1642871572
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 23,
+      "score": 20
+    }
+  }
+}

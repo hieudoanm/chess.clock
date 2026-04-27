@@ -1,0 +1,67 @@
+{
+  "player_id": 53508396,
+  "@id": "https://api.chess.com/pub/player/chiari1",
+  "url": "https://www.chess.com/member/chiari1",
+  "username": "chiari1",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776535118,
+  "joined": 1545314271,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2286,
+      "date": 1650658426,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1627429513,
+      "game": "https://www.chess.com/game/live/21171009873"
+    },
+    "record": {
+      "win": 65,
+      "loss": 48,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2375,
+      "date": 1650543564,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1650543181,
+      "game": "https://www.chess.com/game/live/5407433087"
+    },
+    "record": {
+      "win": 275,
+      "loss": 181,
+      "draw": 30
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2467,
+      "date": 1760311399
+    },
+    "lowest": {
+      "rating": 2247,
+      "date": 1773417508
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

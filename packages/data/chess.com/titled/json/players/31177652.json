@@ -1,0 +1,118 @@
+{
+  "player_id": 31177652,
+  "@id": "https://api.chess.com/pub/player/npaipal",
+  "url": "https://www.chess.com/member/npaipal",
+  "name": "Nikolaos Poupalos",
+  "username": "npaipal",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776339561,
+  "joined": 1480177299,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1098,
+      "date": 1718892532,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1480177299,
+      "game": "https://www.chess.com/game/daily/202814442"
+    },
+    "record": {
+      "win": 14,
+      "loss": 14,
+      "draw": 1,
+      "time_per_move": 33542,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1132,
+      "date": 1537442337,
+      "rd": 261
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 33542,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1720956582,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1720956582,
+      "game": "https://www.chess.com/game/live/64270884557"
+    },
+    "record": {
+      "win": 484,
+      "loss": 333,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2177,
+      "date": 1723378101,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1720791482,
+      "game": "https://www.chess.com/game/live/74720693039"
+    },
+    "record": {
+      "win": 575,
+      "loss": 454,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2386,
+      "date": 1723355172,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1723059628,
+      "game": "https://www.chess.com/game/live/116702467377"
+    },
+    "record": {
+      "win": 335,
+      "loss": 292,
+      "draw": 42
+    }
+  },
+  "fide": 2309,
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1480177299
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1480177299
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

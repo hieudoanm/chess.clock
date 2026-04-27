@@ -1,0 +1,85 @@
+{
+  "player_id": 307145877,
+  "@id": "https://api.chess.com/pub/player/lofigrind",
+  "url": "https://www.chess.com/member/lofiGrind",
+  "username": "lofigrind",
+  "title": "NM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/PW",
+  "last_online": 1776339630,
+  "joined": 1692549913,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1680,
+      "date": 1730799370,
+      "rd": 280
+    },
+    "best": {
+      "rating": 1680,
+      "date": 1698038997,
+      "game": "https://www.chess.com/game/daily/575817861"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 2171,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2676,
+      "date": 1700424224,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2782,
+      "date": 1697567358,
+      "game": "https://www.chess.com/game/live/92027379157"
+    },
+    "record": {
+      "win": 1091,
+      "loss": 678,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2799,
+      "date": 1700280650,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2818,
+      "date": 1698285329,
+      "game": "https://www.chess.com/game/live/91409317107"
+    },
+    "record": {
+      "win": 406,
+      "loss": 248,
+      "draw": 49
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2430,
+      "date": 1692549913
+    },
+    "lowest": {
+      "rating": 2430,
+      "date": 1692549913
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

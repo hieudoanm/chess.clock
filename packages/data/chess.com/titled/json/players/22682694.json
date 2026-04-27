@@ -1,0 +1,85 @@
+{
+  "player_id": 22682694,
+  "@id": "https://api.chess.com/pub/player/mikerahal",
+  "url": "https://www.chess.com/member/mikerahal",
+  "name": "Michael Rahal",
+  "username": "mikerahal",
+  "title": "IM",
+  "followers": 581,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1775898833,
+  "joined": 1433444084,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2361,
+      "date": 1610651459,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1606775591,
+      "game": "https://www.chess.com/game/live/5786199297"
+    },
+    "record": {
+      "win": 17,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2250,
+      "date": 1769368934,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1766778087,
+      "game": "https://www.chess.com/game/live/147571619604"
+    },
+    "record": {
+      "win": 178,
+      "loss": 144,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1765278045,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2513,
+      "date": 1765278045,
+      "game": "https://www.chess.com/game/live/146121103520"
+    },
+    "record": {
+      "win": 182,
+      "loss": 99,
+      "draw": 34
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2649,
+      "date": 1761205102
+    },
+    "lowest": {
+      "rating": 2439,
+      "date": 1768349347
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 41
+    }
+  }
+}

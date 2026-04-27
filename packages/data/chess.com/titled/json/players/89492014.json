@@ -1,0 +1,85 @@
+{
+  "player_id": 89492014,
+  "@id": "https://api.chess.com/pub/player/horripile",
+  "url": "https://www.chess.com/member/horripile",
+  "name": "Richard Pile",
+  "username": "horripile",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776404880,
+  "joined": 1597967265,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2551,
+      "date": 1772395061,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2605,
+      "date": 1632598832,
+      "game": "https://www.chess.com/game/live/11215462515"
+    },
+    "record": {
+      "win": 18,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2453,
+      "date": 1671217869,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1635170592,
+      "game": "https://www.chess.com/game/live/13630386053"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2730,
+      "date": 1771434477,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1771434477,
+      "game": "https://www.chess.com/game/live/6091328516"
+    },
+    "record": {
+      "win": 333,
+      "loss": 203,
+      "draw": 46
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2446,
+      "date": 1772354521
+    },
+    "lowest": {
+      "rating": 2148,
+      "date": 1774279160
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

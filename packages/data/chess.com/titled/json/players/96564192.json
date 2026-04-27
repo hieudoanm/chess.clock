@@ -1,0 +1,85 @@
+{
+  "player_id": 96564192,
+  "@id": "https://api.chess.com/pub/player/jimbaba93",
+  "url": "https://www.chess.com/member/Jimbaba93",
+  "name": "Jimmy Lafosse",
+  "username": "jimbaba93",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776493835,
+  "joined": 1605260980,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2486,
+      "date": 1776463314,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1776462486,
+      "game": "https://www.chess.com/game/live/167359489304"
+    },
+    "record": {
+      "win": 108,
+      "loss": 51,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1776367871,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1748371230,
+      "game": "https://www.chess.com/game/live/138889756596"
+    },
+    "record": {
+      "win": 137,
+      "loss": 112,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2595,
+      "date": 1776346242,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2694,
+      "date": 1767193234,
+      "game": "https://www.chess.com/game/live/140438989286"
+    },
+    "record": {
+      "win": 1584,
+      "loss": 1329,
+      "draw": 193
+    }
+  },
+  "fide": 2173,
+  "tactics": {
+    "highest": {
+      "rating": 2211,
+      "date": 1763026614
+    },
+    "lowest": {
+      "rating": 2086,
+      "date": 1763115148
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

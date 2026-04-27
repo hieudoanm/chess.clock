@@ -1,0 +1,83 @@
+{
+  "player_id": 376004753,
+  "@id": "https://api.chess.com/pub/player/bigproblemsolving",
+  "url": "https://www.chess.com/member/Bigproblemsolving",
+  "username": "bigproblemsolving",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776262676,
+  "joined": 1721301167,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1749110590,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1749110590,
+      "game": "https://www.chess.com/game/live/124725533917"
+    },
+    "record": {
+      "win": 6,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1874,
+      "date": 1776252273,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2156,
+      "date": 1749126034,
+      "game": "https://www.chess.com/game/live/139240779264"
+    },
+    "record": {
+      "win": 1305,
+      "loss": 1180,
+      "draw": 126
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2004,
+      "date": 1739545306,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1739532762,
+      "game": "https://www.chess.com/game/live/133271361865"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2244,
+      "date": 1721301167
+    },
+    "lowest": {
+      "rating": 2244,
+      "date": 1721301167
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

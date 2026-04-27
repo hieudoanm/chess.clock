@@ -1,0 +1,104 @@
+{
+  "player_id": 48631488,
+  "@id": "https://api.chess.com/pub/player/imbetterthandre",
+  "url": "https://www.chess.com/member/ImBetterThanDre",
+  "name": "Richard Perry",
+  "username": "imbetterthandre",
+  "title": "NM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1617055234,
+  "joined": 1533877606,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2331,
+      "date": 1688137456,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1615168812,
+      "game": "https://www.chess.com/game/daily/308912858"
+    },
+    "record": {
+      "win": 34,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12027,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2086,
+      "date": 1616721128,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1616114045,
+      "game": "https://www.chess.com/game/live/6454322530"
+    },
+    "record": {
+      "win": 160,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2209,
+      "date": 1617295205,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1606373047,
+      "game": "https://www.chess.com/game/live/6217872423"
+    },
+    "record": {
+      "win": 3677,
+      "loss": 2260,
+      "draw": 261
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2255,
+      "date": 1616696425,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1606321973,
+      "game": "https://www.chess.com/game/live/5179771999"
+    },
+    "record": {
+      "win": 687,
+      "loss": 443,
+      "draw": 66
+    }
+  },
+  "fide": 2085,
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1533877606
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1533877606
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 13418156,
+  "@id": "https://api.chess.com/pub/player/miep2",
+  "url": "https://www.chess.com/member/miep2",
+  "name": "Dirk Floor",
+  "username": "miep2",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776531854,
+  "joined": 1378414152,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1793,
+      "date": 1684179210,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1793,
+      "date": 1448322199,
+      "game": "https://www.chess.com/game/daily/115173944"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 41434,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1684179211,
+      "rd": 254
+    },
+    "best": {
+      "rating": 1594,
+      "date": 1580818438,
+      "game": "https://www.chess.com/game/live/4465023072"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2196,
+      "date": 1589411917,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1524922873,
+      "game": "https://www.chess.com/game/live/2795228993"
+    },
+    "record": {
+      "win": 198,
+      "loss": 135,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2220,
+      "date": 1776252551,
+      "rd": 153
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1565977183,
+      "game": "https://www.chess.com/game/live/4111872957"
+    },
+    "record": {
+      "win": 18252,
+      "loss": 18029,
+      "draw": 3631
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2598,
+      "date": 1378414152
+    },
+    "lowest": {
+      "rating": 2598,
+      "date": 1378414152
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 25643846,
+  "@id": "https://api.chess.com/pub/player/konzip22",
+  "url": "https://www.chess.com/member/konzip22",
+  "name": "Jakub Borawski",
+  "username": "konzip22",
+  "title": "CM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776500427,
+  "joined": 1450479743,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1596,
+      "date": 1776337881,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1605,
+      "date": 1757698922,
+      "game": "https://www.chess.com/game/daily/834768820"
+    },
+    "record": {
+      "win": 22,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 25725,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2045,
+      "date": 1755088172,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1657915010,
+      "game": "https://www.chess.com/game/live/51652891405"
+    },
+    "record": {
+      "win": 23,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2413,
+      "date": 1761674754,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2464,
+      "date": 1696444090,
+      "game": "https://www.chess.com/game/live/38086852625"
+    },
+    "record": {
+      "win": 401,
+      "loss": 354,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2389,
+      "date": 1776370296,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1762452977,
+      "game": "https://www.chess.com/game/live/14497126569"
+    },
+    "record": {
+      "win": 2531,
+      "loss": 2332,
+      "draw": 358
+    }
+  },
+  "fide": 2222,
+  "tactics": {
+    "highest": {
+      "rating": 2398,
+      "date": 1450479743
+    },
+    "lowest": {
+      "rating": 2398,
+      "date": 1450479743
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

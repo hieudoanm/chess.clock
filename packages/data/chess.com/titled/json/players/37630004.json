@@ -1,0 +1,69 @@
+{
+  "player_id": 37630004,
+  "@id": "https://api.chess.com/pub/player/okriak",
+  "url": "https://www.chess.com/member/okriak",
+  "name": "Obolenskikh Dmitry",
+  "username": "okriak",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Irkutsk",
+  "last_online": 1776341437,
+  "joined": 1502116346,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1644565285,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1644565285,
+      "game": "https://www.chess.com/game/live/38304220601"
+    },
+    "record": {
+      "win": 95,
+      "loss": 50,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2761,
+      "date": 1712677165,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1588094113,
+      "game": "https://www.chess.com/game/live/4722215135"
+    },
+    "record": {
+      "win": 595,
+      "loss": 417,
+      "draw": 135
+    }
+  },
+  "fide": 2533,
+  "tactics": {
+    "highest": {
+      "rating": 1984,
+      "date": 1502116346
+    },
+    "lowest": {
+      "rating": 1984,
+      "date": 1502116346
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

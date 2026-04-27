@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/821741.58547f17.200x200o.dc052f4a82ba.png",
+  "player_id": 821741,
+  "@id": "https://api.chess.com/pub/player/jbj",
+  "url": "https://www.chess.com/member/jbj",
+  "name": "Jim Oglethorpe",
+  "username": "jbj",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1776489888,
+  "joined": 1199233730,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2132,
+      "date": 1708609243,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1549041601,
+      "game": "https://www.chess.com/game/daily/94916392"
+    },
+    "record": {
+      "win": 456,
+      "loss": 290,
+      "draw": 112,
+      "time_per_move": 24921,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1773417640,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1642055160,
+      "game": "https://www.chess.com/game/live/165896127810"
+    },
+    "record": {
+      "win": 14,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2560,
+      "date": 1734928038,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1640153974,
+      "game": "https://www.chess.com/game/live/35260593091"
+    },
+    "record": {
+      "win": 538,
+      "loss": 265,
+      "draw": 57
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2796,
+      "date": 1776056520,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2847,
+      "date": 1738816016,
+      "game": "https://www.chess.com/game/live/132554394509"
+    },
+    "record": {
+      "win": 1937,
+      "loss": 1547,
+      "draw": 419
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1773428124
+    },
+    "lowest": {
+      "rating": 2379,
+      "date": 1760067865
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

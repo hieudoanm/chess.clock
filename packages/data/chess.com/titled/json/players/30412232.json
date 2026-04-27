@@ -1,0 +1,103 @@
+{
+  "player_id": 30412232,
+  "@id": "https://api.chess.com/pub/player/sebsep",
+  "url": "https://www.chess.com/member/sebsep",
+  "name": "Sebastian Bauer",
+  "username": "sebsep",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1761414195,
+  "joined": 1476556748,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1686,
+      "date": 1721317794,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1709,
+      "date": 1518090455,
+      "game": "https://www.chess.com/game/daily/180819770"
+    },
+    "record": {
+      "win": 64,
+      "loss": 34,
+      "draw": 4,
+      "time_per_move": 12082,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1916,
+      "date": 1660154133,
+      "rd": 170
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1558423755,
+      "game": "https://www.chess.com/game/live/4750965864"
+    },
+    "record": {
+      "win": 22,
+      "loss": 21,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1711566646,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1661090295,
+      "game": "https://www.chess.com/game/live/54149425509"
+    },
+    "record": {
+      "win": 1381,
+      "loss": 941,
+      "draw": 132
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2532,
+      "date": 1748635101,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1710518409,
+      "game": "https://www.chess.com/game/live/105810714559"
+    },
+    "record": {
+      "win": 2404,
+      "loss": 2021,
+      "draw": 338
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2542,
+      "date": 1476556748
+    },
+    "lowest": {
+      "rating": 2542,
+      "date": 1476556748
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 93811108,
+  "@id": "https://api.chess.com/pub/player/tkchess_2008",
+  "url": "https://www.chess.com/member/TKchess_2008",
+  "username": "tkchess_2008",
+  "title": "CM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1775124886,
+  "joined": 1603524555,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2244,
+      "date": 1698154999,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1691058319,
+      "game": "https://www.chess.com/game/live/84796465067"
+    },
+    "record": {
+      "win": 433,
+      "loss": 237,
+      "draw": 60
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2411,
+      "date": 1773288223,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2447,
+      "date": 1769255865,
+      "game": "https://www.chess.com/game/live/148422216458"
+    },
+    "record": {
+      "win": 66,
+      "loss": 55,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1770383533,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1634275166,
+      "game": "https://www.chess.com/game/live/112197606813"
+    },
+    "record": {
+      "win": 198,
+      "loss": 190,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1769168646
+    },
+    "lowest": {
+      "rating": 2282,
+      "date": 1770986368
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

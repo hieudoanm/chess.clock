@@ -1,0 +1,103 @@
+{
+  "player_id": 308227313,
+  "@id": "https://api.chess.com/pub/player/chempionbg",
+  "url": "https://www.chess.com/member/ChempionBg",
+  "name": "Gara Balajaev",
+  "username": "chempionbg",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1776578112,
+  "joined": 1692993786,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1737711431,
+      "rd": 350
+    },
+    "record": {
+      "win": 4,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 135036,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2323,
+      "date": 1723722258,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2398,
+      "date": 1711824575,
+      "game": "https://www.chess.com/game/live/92343184915"
+    },
+    "record": {
+      "win": 174,
+      "loss": 44,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1676,
+      "date": 1720260306,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1710847361,
+      "game": "https://www.chess.com/game/live/95358069853"
+    },
+    "record": {
+      "win": 26,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2219,
+      "date": 1771873328,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1709656254,
+      "game": "https://www.chess.com/game/live/97092713641"
+    },
+    "record": {
+      "win": 441,
+      "loss": 307,
+      "draw": 41
+    }
+  },
+  "fide": 2404,
+  "tactics": {
+    "highest": {
+      "rating": 2411,
+      "date": 1771865768
+    },
+    "lowest": {
+      "rating": 2305,
+      "date": 1760216249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    },
+    "daily": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

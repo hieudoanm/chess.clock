@@ -1,0 +1,174 @@
+[
+  {
+    "url": "https://www.chess.com/game/daily/61553724",
+    "pgn": "[Event \"Smith-Morra Gambit - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2012.11.27\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"qua-si-modo\"]\n[Result \"0-1\"]\n[SetUp \"1\"]\n[FEN \"rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 1 3\"]\n[Tournament \"https://www.chess.com/tournament/smith-morra-gambit5\"]\n[CurrentPosition \"r1bqkbnr/pp1p1ppp/2n1p3/8/2B1P3/2N5/PP3PPP/R1BQK1NR w KQkq - 1 6\"]\n[Timezone \"UTC\"]\n[UTCDate \"2012.11.27\"]\n[UTCTime \"02:02:27\"]\n[WhiteElo \"1571\"]\n[BlackElo \"1579\"]\n[TimeControl \"1/259200\"]\n[Termination \"qua-si-modo won on time\"]\n[StartTime \"02:02:27\"]\n[EndDate \"2012.12.05\"]\n[EndTime \"23:32:05\"]\n[Link \"https://www.chess.com/game/daily/61553724\"]\n\n3... dxc3 4. Nxc3 Nc6 5. Bc4 e6 0-1\n",
+    "time_control": "1/259200",
+    "end_time": 1354750325,
+    "rated": true,
+    "tcn": "Bsbs5QfA0S",
+    "uuid": "7e2a1fea-3836-11e2-82d4-00000001000b",
+    "initial_setup": "rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 1 3",
+    "fen": "r1bqkbnr/pp1p1ppp/2n1p3/8/2B1P3/2N5/PP3PPP/R1BQK1NR w KQkq - 1 6",
+    "start_time": 1353981747,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1571,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1579,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/qua-si-modo",
+      "username": "qua-si-modo",
+      "uuid": "d4daefec-2b65-11e1-8035-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/smith-morra-gambit5"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/61512996",
+    "pgn": "[Event \"You will all lose to me - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2012.11.26\"]\n[Round \"-\"]\n[White \"justin3189\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[SetUp \"1\"]\n[FEN \"rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6\"]\n[Tournament \"https://www.chess.com/tournament/you-will-all-lose-to-me\"]\n[CurrentPosition \"rnb1k2r/pp1p1ppp/4p3/4P3/3N4/2qB4/P1P1KPPP/R2Q3R b kq - 2 11\"]\n[Timezone \"UTC\"]\n[UTCDate \"2012.11.26\"]\n[UTCTime \"06:02:11\"]\n[WhiteElo \"1442\"]\n[BlackElo \"1561\"]\n[TimeControl \"1/259200\"]\n[Termination \"justin3189 won on time\"]\n[StartTime \"06:02:11\"]\n[EndDate \"2012.12.07\"]\n[EndTime \"03:02:14\"]\n[Link \"https://www.chess.com/game/daily/61512996\"]\n\n6... Nd5 7. Bd2 Bxc3 8. Bxc3 Nxc3 9. bxc3 Qc7 10. Bd3 Qxc3+ 11. Ke2 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1354849334,
+    "rated": true,
+    "tcn": "TJclzslsJsjs7YftYsem",
+    "uuid": "d1489650-378e-11e2-83e4-00000001000b",
+    "initial_setup": "rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6",
+    "fen": "rnb1k2r/pp1p1ppp/4p3/4P3/3N4/2qB4/P1P1KPPP/R2Q3R b kq - 2 11",
+    "start_time": 1353909731,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1442,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/justin3189",
+      "username": "justin3189",
+      "uuid": "b3ee51ea-30e6-11e0-800a-000000000000"
+    },
+    "black": {
+      "rating": 1561,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/you-will-all-lose-to-me"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/61253360",
+    "pgn": "[Event \"Army of Brotherhood  - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2012.11.20\"]\n[Round \"-\"]\n[White \"Logical_Chess\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/army-of-brotherhood6\"]\n[CurrentPosition \"r1bq1rk1/ppp1bpp1/4pn1p/8/3P4/3B1N2/PPPB1PPP/R2Q1RK1 b - - 2 10\"]\n[Timezone \"UTC\"]\n[ECO \"C10\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Normal-Variation-2...d5-3.Nc3\"]\n[UTCDate \"2012.11.20\"]\n[UTCTime \"14:32:24\"]\n[WhiteElo \"1720\"]\n[BlackElo \"1557\"]\n[TimeControl \"1/259200\"]\n[Termination \"Logical_Chess won on time\"]\n[StartTime \"14:32:24\"]\n[EndDate \"2012.12.11\"]\n[EndTime \"01:32:14\"]\n[Link \"https://www.chess.com/game/daily/61253360\"]\n\n1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Bd3 O-O 8. O-O h6 9. Nxf6+ Nxf6 10. Bd2 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1355189534,
+    "rated": true,
+    "tcn": "mC0SbsZJlBJCsC5Zgv!TcM90ft8!eg3VCTZTMl",
+    "uuid": "199324b2-331f-11e2-8168-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bq1rk1/ppp1bpp1/4pn1p/8/3P4/3B1N2/PPPB1PPP/R2Q1RK1 b - - 2 10",
+    "start_time": 1353421944,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1720,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/logical_chess",
+      "username": "Logical_Chess",
+      "uuid": "2de27ab2-5d71-11de-8050-000000000000"
+    },
+    "black": {
+      "rating": 1557,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/army-of-brotherhood6"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/59524672",
+    "pgn": "[Event \"The Neverending Tournament - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2012.10.11\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"srimech\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/the-neverending-tournament\"]\n[CurrentPosition \"2rq1rk1/pb2bppp/1p2p3/8/3PBB2/5N2/P3QPPP/2RR2K1 b - - 1 18\"]\n[Timezone \"UTC\"]\n[ECO \"D10\"]\n[ECOUrl \"https://www.chess.com/openings/Slav-Defense-3.Nc3-Nf6\"]\n[UTCDate \"2012.10.11\"]\n[UTCTime \"04:55:44\"]\n[WhiteElo \"1564\"]\n[BlackElo \"1555\"]\n[TimeControl \"1/1209600\"]\n[Termination \"penguingm1 won by resignation\"]\n[StartTime \"04:55:44\"]\n[EndDate \"2012.12.13\"]\n[EndTime \"09:36:45\"]\n[Link \"https://www.chess.com/game/daily/59524672\"]\n\n1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Be7 6. Bd3 dxc4 7. Bxc4 O-O 8. O-O b6 9. Qe2 Bb7 10. Rd1 Nd5 11. e4 Nxc3 12. bxc3 c5 13. Bf4 Nd7 14. Rac1 Nf6 15. Bd3 Rc8 16. Bb1 cxd4 17. cxd4 Nxe4 18. Bxe4 1-0\n",
+    "time_control": "1/1209600",
+    "end_time": 1355391405,
+    "rated": true,
+    "tcn": "lBZJkAYQbs!Tgv0Smu90ftJAtA8!egXPdm6XfdTJuCJsjsQIcD5ZacZTAt46tbIBsBTCbC",
+    "uuid": "e9d7dd28-135f-11e2-82a0-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "2rq1rk1/pb2bppp/1p2p3/8/3PBB2/5N2/P3QPPP/2RR2K1 b - - 1 18",
+    "start_time": 1349931344,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1564,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1555,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/srimech",
+      "username": "srimech",
+      "uuid": "a021d270-026a-11e2-8028-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/the-neverending-tournament"
+  },
+  {
+    "url": "https://www.chess.com/game/live/418420307",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2012.12.20\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"KevinTie\"]\n[Result \"1-0\"]\n[CurrentPosition \"4r2k/ppq1r1pp/2nb1p2/2pN4/5P2/1P2PQP1/PBP3KP/3R1R2 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"A00\"]\n[ECOUrl \"https://www.chess.com/openings/Van-t-Kruijs-Opening-1...c5\"]\n[UTCDate \"2012.12.20\"]\n[UTCTime \"00:04:06\"]\n[WhiteElo \"2085\"]\n[BlackElo \"2064\"]\n[TimeControl \"60\"]\n[Termination \"penguingm1 won by resignation\"]\n[StartTime \"00:04:06\"]\n[EndDate \"2012.12.20\"]\n[EndTime \"00:04:47\"]\n[Link \"https://www.chess.com/game/live/418420307\"]\n\n1. e3 {[%clk 0:01:00]} 1... c5 {[%clk 0:01:00]} 2. d3 {[%clk 0:00:59.9]} 2... d5 {[%clk 0:00:58.7]} 3. Ne2 {[%clk 0:00:59.8]} 3... e5 {[%clk 0:00:58.3]} 4. Nd2 {[%clk 0:00:59.7]} 4... Nc6 {[%clk 0:00:58]} 5. Rb1 {[%clk 0:00:59.6]} 5... Be6 {[%clk 0:00:57.7]} 6. b3 {[%clk 0:00:58.6]} 6... Nf6 {[%clk 0:00:57.5]} 7. Bb2 {[%clk 0:00:58.2]} 7... Bd6 {[%clk 0:00:57.2]} 8. g3 {[%clk 0:00:57.8]} 8... O-O {[%clk 0:00:56.9]} 9. Bg2 {[%clk 0:00:57.7]} 9... Qd7 {[%clk 0:00:56.6]} 10. O-O {[%clk 0:00:57.6]} 10... Bh3 {[%clk 0:00:56.1]} 11. f4 {[%clk 0:00:57.5]} 11... Bxg2 {[%clk 0:00:54]} 12. Kxg2 {[%clk 0:00:57.4]} 12... e4 {[%clk 0:00:53.9]} 13. dxe4 {[%clk 0:00:56.5]} 13... Nxe4 {[%clk 0:00:53.8]} 14. Nxe4 {[%clk 0:00:55.5]} 14... dxe4 {[%clk 0:00:53.7]} 15. Qd5 {[%clk 0:00:54.5]} 15... Rad8 {[%clk 0:00:52.8]} 16. Rbd1 {[%clk 0:00:52.2]} 16... Qc7 {[%clk 0:00:52.3]} 17. Qg5 {[%clk 0:00:51.7]} 17... f6 {[%clk 0:00:49.8]} 18. Qd5+ {[%clk 0:00:51]} 18... Kh8 {[%clk 0:00:48.5]} 19. Qxe4 {[%clk 0:00:50.6]} 19... Rfe8 {[%clk 0:00:47.2]} 20. Qf3 {[%clk 0:00:50.2]} 20... Re7 {[%clk 0:00:44.9]} 21. Nc3 {[%clk 0:00:49.6]} 21... Rde8 {[%clk 0:00:44.2]} 22. Nd5 {[%clk 0:00:49.2]} 1-0\n",
+    "time_control": "60",
+    "end_time": 1355961887,
+    "rated": true,
+    "tcn": "muYIltZJgm0Kbl5Qab6Sjr!Tcj9Row8!fo7ZegSxnDxogoKCtCTClCJCdJ47bdZYJM1TMJ!?JC98Cv80ms78sJ",
+    "uuid": "3e7f209e-f5fe-11dd-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "4r2k/ppq1r1pp/2nb1p2/2pN4/5P2/1P2PQP1/PBP3KP/3R1R2 b - -",
+    "time_class": "bullet",
+    "rules": "chess",
+    "white": {
+      "rating": 2085,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 2064,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/kevintie",
+      "username": "KevinTie",
+      "uuid": "5a451cd2-1125-11df-8002-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/daily/60220806",
+    "pgn": "[Event \"The Neverending Tournament - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2012.10.27\"]\n[Round \"-\"]\n[White \"InvincibleForce\"]\n[Black \"penguingm1\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/the-neverending-tournament\"]\n[CurrentPosition \"r3r1k1/pp1q1pp1/2p2n1p/3b2N1/3P4/3B3R/PPP2PPP/5RK1 w - - 1 18\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Stonewall-Attack\"]\n[UTCDate \"2012.10.27\"]\n[UTCTime \"23:34:41\"]\n[WhiteElo \"1211\"]\n[BlackElo \"1566\"]\n[TimeControl \"1/1209600\"]\n[Termination \"penguingm1 won by resignation\"]\n[StartTime \"23:34:41\"]\n[EndDate \"2012.12.27\"]\n[EndTime \"18:03:52\"]\n[Link \"https://www.chess.com/game/daily/60220806\"]\n\n1. d4 d5 2. e3 Nf6 3. Bd3 Bg4 4. Nf3 e6 5. Nbd2 Nbd7 6. e4 dxe4 7. Nxe4 Be7 8. O-O O-O 9. Bg5 c6 10. Nxf6+ Bxf6 11. Qe2 Bxg5 12. Qe4 Nf6 13. Qxe6 Bxe6 14. Nxg5 Bd5 15. Rae1 Qd7 16. Re3 Rfe8 17. Rh3 h6 0-1\n",
+    "time_control": "1/1209600",
+    "end_time": 1356631432,
+    "rated": true,
+    "tcn": "lBZJmu!Tft6Egv0Sbl5ZuCJClC90eg8!cMYQCT0TdmTMmCZTCSESvMSJae7Zeu98ux3V",
+    "uuid": "e1392ed8-208e-11e2-8326-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3r1k1/pp1q1pp1/2p2n1p/3b2N1/3P4/3B3R/PPP2PPP/5RK1 w - - 1 18",
+    "start_time": 1351380881,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1211,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/invincibleforce",
+      "username": "InvincibleForce",
+      "uuid": "33cde2a4-0c46-11e2-804e-000000000000"
+    },
+    "black": {
+      "rating": 1566,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/the-neverending-tournament"
+  }
+]

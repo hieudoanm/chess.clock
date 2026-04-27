@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51342592.6c15ca56.200x200o.635636e37b41.jpeg",
+  "player_id": 51342592,
+  "@id": "https://api.chess.com/pub/player/benchgm",
+  "url": "https://www.chess.com/member/BenchGM",
+  "name": "Bence Papp",
+  "username": "benchgm",
+  "title": "FM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Kiskunhalas",
+  "last_online": 1775840535,
+  "joined": 1541020358,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2165,
+      "date": 1687017871,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1687017871,
+      "game": "https://www.chess.com/game/daily/496431431"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 79455,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1760625831,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1733945761,
+      "game": "https://www.chess.com/game/live/127683689239"
+    },
+    "record": {
+      "win": 9,
+      "loss": 22,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1984,
+      "date": 1587059705,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1995,
+      "date": 1582106833,
+      "game": "https://www.chess.com/game/live/4513593760"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2403,
+      "date": 1740501723,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1739318713,
+      "game": "https://www.chess.com/game/live/78009779267"
+    },
+    "record": {
+      "win": 552,
+      "loss": 534,
+      "draw": 75
+    }
+  },
+  "fide": 2296,
+  "tactics": {
+    "highest": {
+      "rating": 2393,
+      "date": 1541020358
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1541020358
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

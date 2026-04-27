@@ -1,0 +1,63 @@
+{
+  "player_id": 66822750,
+  "@id": "https://api.chess.com/pub/player/olsbom",
+  "url": "https://www.chess.com/member/Olsbom",
+  "name": "Anders Olsson",
+  "username": "olsbom",
+  "title": "IM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776548207,
+  "joined": 1571396413,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1978,
+      "date": 1689148628,
+      "rd": 297
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2432,
+      "date": 1776548196,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2588,
+      "date": 1764054682,
+      "game": "https://www.chess.com/game/live/140516236832"
+    },
+    "record": {
+      "win": 6278,
+      "loss": 3980,
+      "draw": 566
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1775489275
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1775490165
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "player_id": 489635295,
+  "@id": "https://api.chess.com/pub/player/friedgambit_08",
+  "url": "https://www.chess.com/member/FriedGambit_08",
+  "name": "Alexander Zhu",
+  "username": "friedgambit_08",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776557904,
+  "joined": 1759710925,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1133,
+      "date": 1776557895,
+      "rd": 321
+    },
+    "best": {
+      "rating": 1620,
+      "date": 1772312556,
+      "game": "https://www.chess.com/game/daily/915924607"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 47529,
+      "timeout_percent": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2457,
+      "date": 1771105329,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1760759834,
+      "game": "https://www.chess.com/game/live/144424632008"
+    },
+    "record": {
+      "win": 7,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2370,
+      "date": 1767324017,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1767324017,
+      "game": "https://www.chess.com/game/live/161636222525"
+    },
+    "record": {
+      "win": 58,
+      "loss": 36,
+      "draw": 2
+    }
+  },
+  "fide": 2065,
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1774119346
+    },
+    "lowest": {
+      "rating": 682,
+      "date": 1760585812
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

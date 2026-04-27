@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27622908.2dfcd5bd.200x200o.8f48a8d5f249.jpg",
+  "player_id": 27622908,
+  "@id": "https://api.chess.com/pub/player/heinza9",
+  "url": "https://www.chess.com/member/Heinza9",
+  "name": "Heinz Georg",
+  "username": "heinza9",
+  "title": "CM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Kamen",
+  "last_online": 1760219774,
+  "joined": 1459967290,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2010,
+      "date": 1734600516,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1688219460,
+      "game": "https://www.chess.com/game/daily/527802017"
+    },
+    "record": {
+      "win": 54,
+      "loss": 12,
+      "draw": 3,
+      "time_per_move": 13936,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2331,
+      "date": 1696558557,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1647128506,
+      "game": "https://www.chess.com/game/live/88645279095"
+    },
+    "record": {
+      "win": 173,
+      "loss": 79,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2335,
+      "date": 1739318820,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1732665046,
+      "game": "https://www.chess.com/game/live/108229342087"
+    },
+    "record": {
+      "win": 1560,
+      "loss": 1341,
+      "draw": 198
+    }
+  },
+  "fide": 2170,
+  "tactics": {
+    "highest": {
+      "rating": 2474,
+      "date": 1459967290
+    },
+    "lowest": {
+      "rating": 2474,
+      "date": 1459967290
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 43
+    }
+  }
+}

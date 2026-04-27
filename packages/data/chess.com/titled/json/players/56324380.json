@@ -1,0 +1,67 @@
+{
+  "player_id": 56324380,
+  "@id": "https://api.chess.com/pub/player/pinpinall",
+  "url": "https://www.chess.com/member/PinPinAll",
+  "name": "Pablo Insa Alfonso",
+  "username": "pinpinall",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/KN",
+  "last_online": 1742328273,
+  "joined": 1548075863,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2878,
+      "date": 1737315812,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2938,
+      "date": 1713699538,
+      "game": "https://www.chess.com/game/live/128794451033"
+    },
+    "record": {
+      "win": 288,
+      "loss": 191,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2822,
+      "date": 1742328091,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2922,
+      "date": 1738705984,
+      "game": "https://www.chess.com/game/live/132008398779"
+    },
+    "record": {
+      "win": 1491,
+      "loss": 1241,
+      "draw": 220
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2613,
+      "date": 1548075863
+    },
+    "lowest": {
+      "rating": 2613,
+      "date": 1548075863
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

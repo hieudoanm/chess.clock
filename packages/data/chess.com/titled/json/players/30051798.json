@@ -1,0 +1,123 @@
+{
+  "player_id": 30051798,
+  "@id": "https://api.chess.com/pub/player/skills94",
+  "url": "https://www.chess.com/member/skills94",
+  "name": "Craig Bornheim",
+  "username": "skills94",
+  "title": "CM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776453586,
+  "joined": 1474553052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1814,
+      "date": 1584520107,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2043,
+      "date": 1541013018,
+      "game": "https://www.chess.com/game/daily/205715080"
+    },
+    "record": {
+      "win": 46,
+      "loss": 13,
+      "draw": 7,
+      "time_per_move": 36029,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1812,
+      "date": 1523169938,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1861,
+      "date": 1518879642,
+      "game": "https://www.chess.com/game/daily/185998706"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 36029,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2257,
+      "date": 1773491152,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2318,
+      "date": 1612808712,
+      "game": "https://www.chess.com/game/live/6492652328"
+    },
+    "record": {
+      "win": 87,
+      "loss": 29,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2294,
+      "date": 1773856990,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1758193722,
+      "game": "https://www.chess.com/game/live/96202971387"
+    },
+    "record": {
+      "win": 1831,
+      "loss": 1535,
+      "draw": 137
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2372,
+      "date": 1776453573,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1766497850,
+      "game": "https://www.chess.com/game/live/146832006126"
+    },
+    "record": {
+      "win": 645,
+      "loss": 459,
+      "draw": 80
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1766772221
+    },
+    "lowest": {
+      "rating": 2318,
+      "date": 1760811474
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

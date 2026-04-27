@@ -1,0 +1,102 @@
+{
+  "player_id": 336512545,
+  "@id": "https://api.chess.com/pub/player/melenita_ua",
+  "url": "https://www.chess.com/member/melenita_ua",
+  "username": "melenita_ua",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776002151,
+  "joined": 1704288636,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 656,
+      "date": 1769445027,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1080,
+      "date": 1739720303,
+      "game": "https://www.chess.com/game/daily/773708341"
+    },
+    "record": {
+      "win": 11,
+      "loss": 23,
+      "draw": 1,
+      "time_per_move": 6939,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2336,
+      "date": 1775202469,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1771055349,
+      "game": "https://www.chess.com/game/live/164064970398"
+    },
+    "record": {
+      "win": 404,
+      "loss": 210,
+      "draw": 35
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2298,
+      "date": 1760264757,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1757184686,
+      "game": "https://www.chess.com/game/live/142770276842"
+    },
+    "record": {
+      "win": 342,
+      "loss": 273,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2570,
+      "date": 1776165876,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1766333224,
+      "game": "https://www.chess.com/game/live/146716834928"
+    },
+    "record": {
+      "win": 416,
+      "loss": 316,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2212,
+      "date": 1774623002
+    },
+    "lowest": {
+      "rating": 2003,
+      "date": 1773516463
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

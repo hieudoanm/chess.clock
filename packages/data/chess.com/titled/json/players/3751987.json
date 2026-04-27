@@ -1,0 +1,103 @@
+{
+  "player_id": 3751987,
+  "@id": "https://api.chess.com/pub/player/jamengrand",
+  "url": "https://www.chess.com/member/jamengrand",
+  "name": "Julien Dubreuil",
+  "username": "jamengrand",
+  "title": "FM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776597361,
+  "joined": 1280185256,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1525,
+      "date": 1726388895,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1525,
+      "date": 1694793106,
+      "game": "https://www.chess.com/game/daily/95156756"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 69934,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2048,
+      "date": 1768842021,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1681745224,
+      "game": "https://www.chess.com/game/live/144873423438"
+    },
+    "record": {
+      "win": 4,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2358,
+      "date": 1771271186,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1695075251,
+      "game": "https://www.chess.com/game/live/140776666264"
+    },
+    "record": {
+      "win": 404,
+      "loss": 380,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2436,
+      "date": 1776565691,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2596,
+      "date": 1773925574,
+      "game": "https://www.chess.com/game/live/133658348587"
+    },
+    "record": {
+      "win": 15034,
+      "loss": 14767,
+      "draw": 1478
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1759048729
+    },
+    "lowest": {
+      "rating": 2316,
+      "date": 1762874890
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

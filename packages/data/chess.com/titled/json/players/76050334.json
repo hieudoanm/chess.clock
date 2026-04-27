@@ -1,0 +1,81 @@
+{
+  "player_id": 76050334,
+  "@id": "https://api.chess.com/pub/player/elamier",
+  "url": "https://www.chess.com/member/elamier",
+  "name": "elamier fathy",
+  "username": "elamier",
+  "title": "FM",
+  "followers": 117,
+  "country": "https://api.chess.com/pub/country/EC",
+  "location": "mansoura",
+  "last_online": 1776543461,
+  "joined": 1586349592,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1613924050,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1613553550,
+      "game": "https://www.chess.com/game/live/7662186319"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2370,
+      "date": 1776296296,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1776296296,
+      "game": "https://www.chess.com/game/live/167368512400"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2368,
+      "date": 1776562428,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1748556812,
+      "game": "https://www.chess.com/game/live/148132999971"
+    },
+    "record": {
+      "win": 2485,
+      "loss": 2845,
+      "draw": 585
+    }
+  },
+  "fide": 2307,
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1764407282
+    },
+    "lowest": {
+      "rating": 1984,
+      "date": 1764407380
+    }
+  },
+  "puzzle_rush": {}
+}

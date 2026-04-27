@@ -1,0 +1,80 @@
+{
+  "player_id": 48306758,
+  "@id": "https://api.chess.com/pub/player/sdfjsdfnjsdjf",
+  "url": "https://www.chess.com/member/sdfjsdfnjsdjf",
+  "username": "sdfjsdfnjsdjf",
+  "title": "IM",
+  "followers": 52,
+  "country": "https://api.chess.com/pub/country/VU",
+  "last_online": 1574298865,
+  "joined": 1532922921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2269,
+      "date": 1643359642,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1571037477,
+      "game": "https://www.chess.com/game/daily/231902042"
+    },
+    "record": {
+      "win": 155,
+      "loss": 18,
+      "draw": 16,
+      "time_per_move": 78945,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2346,
+      "date": 1551556012,
+      "rd": 239
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1551556012,
+      "game": "https://www.chess.com/game/live/3502355025"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2213,
+      "date": 1557590962,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1533434244,
+      "game": "https://www.chess.com/game/live/2984887434"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "fide": 2423,
+  "tactics": {
+    "highest": {
+      "rating": 2639,
+      "date": 1532922921
+    },
+    "lowest": {
+      "rating": 2639,
+      "date": 1532922921
+    }
+  },
+  "puzzle_rush": {}
+}

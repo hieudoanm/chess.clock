@@ -1,0 +1,78 @@
+{
+  "player_id": 440506563,
+  "@id": "https://api.chess.com/pub/player/passportplease",
+  "url": "https://www.chess.com/member/PassportPlease",
+  "username": "passportplease",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776556325,
+  "joined": 1743204115,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2233,
+      "date": 1759845298,
+      "rd": 48
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2452,
+      "date": 1772336328,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1750256219,
+      "game": "https://www.chess.com/game/live/165351732398"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2702,
+      "date": 1775585517,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2804,
+      "date": 1769647690,
+      "game": "https://www.chess.com/game/live/139672974542"
+    },
+    "record": {
+      "win": 619,
+      "loss": 664,
+      "draw": 129
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2486,
+      "date": 1743204115
+    },
+    "lowest": {
+      "rating": 2486,
+      "date": 1743204115
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

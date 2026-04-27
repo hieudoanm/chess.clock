@@ -1,0 +1,104 @@
+{
+  "player_id": 41758726,
+  "@id": "https://api.chess.com/pub/player/gbg10",
+  "url": "https://www.chess.com/member/GBG10",
+  "name": "\u0411\u043e\u0433\u0434\u0430\u043d",
+  "username": "gbg10",
+  "title": "FM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776590390,
+  "joined": 1514455376,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1541,
+      "date": 1736755484,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1601,
+      "date": 1592195403,
+      "game": "https://www.chess.com/game/daily/257534640"
+    },
+    "record": {
+      "win": 23,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 37569,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2060,
+      "date": 1773398490,
+      "rd": 261
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1587906256,
+      "game": "https://www.chess.com/game/live/5044246737"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2489,
+      "date": 1773397581,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2608,
+      "date": 1712950266,
+      "game": "https://www.chess.com/game/live/114965870519"
+    },
+    "record": {
+      "win": 346,
+      "loss": 344,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1776590232,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2670,
+      "date": 1774707458,
+      "game": "https://www.chess.com/game/live/99854632039"
+    },
+    "record": {
+      "win": 4429,
+      "loss": 4714,
+      "draw": 745
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1514455376
+    },
+    "lowest": {
+      "rating": 2590,
+      "date": 1514455376
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

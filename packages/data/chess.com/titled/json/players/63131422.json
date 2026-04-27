@@ -1,0 +1,67 @@
+{
+  "player_id": 63131422,
+  "@id": "https://api.chess.com/pub/player/klan1",
+  "url": "https://www.chess.com/member/KLan1",
+  "name": "Konstantin Landa",
+  "username": "klan1",
+  "title": "GM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/AE",
+  "location": "Sharjah",
+  "last_online": 1604818146,
+  "joined": 1562700407,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2572,
+      "date": 1585095471,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1584307135,
+      "game": "https://www.chess.com/game/live/4465966682"
+    },
+    "record": {
+      "win": 136,
+      "loss": 76,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2514,
+      "date": 1590998406,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1590517566,
+      "game": "https://www.chess.com/game/live/4828528719"
+    },
+    "record": {
+      "win": 98,
+      "loss": 21,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2582,
+      "date": 1562700407
+    },
+    "lowest": {
+      "rating": 2582,
+      "date": 1562700407
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

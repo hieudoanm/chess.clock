@@ -1,0 +1,79 @@
+{
+  "player_id": 120004586,
+  "@id": "https://api.chess.com/pub/player/dpardos",
+  "url": "https://www.chess.com/member/DPardoS",
+  "username": "dpardos",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1694360608,
+  "joined": 1612967052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2265,
+      "date": 1613845507,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1613755312,
+      "game": "https://www.chess.com/game/live/7577575959"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2236,
+      "date": 1613746090,
+      "rd": 249
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2453,
+      "date": 1694082645,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1655544620,
+      "game": "https://www.chess.com/game/live/48292777533"
+    },
+    "record": {
+      "win": 67,
+      "loss": 35,
+      "draw": 9
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2819,
+      "date": 1612967052
+    },
+    "lowest": {
+      "rating": 2819,
+      "date": 1612967052
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

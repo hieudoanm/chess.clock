@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/76495850.6c6cc0d6.200x200o.6c2e6791b5f7.jpg",
+  "player_id": 76495850,
+  "@id": "https://api.chess.com/pub/player/danylabagrov",
+  "url": "https://www.chess.com/member/DanylaBagrov",
+  "name": "Vlad Lymar",
+  "username": "danylabagrov",
+  "title": "FM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Odessa",
+  "last_online": 1776592106,
+  "joined": 1586712781,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1854,
+      "date": 1774366533,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 168799,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2496,
+      "date": 1759147939,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1758210069,
+      "game": "https://www.chess.com/game/live/140422511776"
+    },
+    "record": {
+      "win": 76,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2763,
+      "date": 1766682728,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2955,
+      "date": 1750425987,
+      "game": "https://www.chess.com/game/live/150886095137"
+    },
+    "record": {
+      "win": 978,
+      "loss": 915,
+      "draw": 131
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2766,
+      "date": 1774545152,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2820,
+      "date": 1771805556,
+      "game": "https://www.chess.com/game/live/163412223343"
+    },
+    "record": {
+      "win": 1005,
+      "loss": 866,
+      "draw": 147
+    }
+  },
+  "fide": 2365,
+  "tactics": {
+    "highest": {
+      "rating": 2591,
+      "date": 1760001160
+    },
+    "lowest": {
+      "rating": 2483,
+      "date": 1758968411
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

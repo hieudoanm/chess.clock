@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32139924.6ddb3855.200x200o.f0f61ad2705c.jpeg",
+  "player_id": 32139924,
+  "@id": "https://api.chess.com/pub/player/mr_dynamic",
+  "url": "https://www.chess.com/member/Mr_Dynamic",
+  "name": "Wouter Spoelman",
+  "username": "mr_dynamic",
+  "title": "GM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1772637489,
+  "joined": 1483560575,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1979,
+      "date": 1717230526,
+      "rd": 179
+    },
+    "best": {
+      "rating": 1979,
+      "date": 1685693466,
+      "game": "https://www.chess.com/game/daily/212563620"
+    },
+    "record": {
+      "win": 124,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 33023,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2432,
+      "date": 1758976373,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1518034627,
+      "game": "https://www.chess.com/game/live/6252481542"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2427,
+      "date": 1610802790,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1610802790,
+      "game": "https://www.chess.com/game/live/3257695879"
+    },
+    "record": {
+      "win": 35,
+      "loss": 16,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1762525083,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1585898835,
+      "game": "https://www.chess.com/game/live/25816241407"
+    },
+    "record": {
+      "win": 72,
+      "loss": 54,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2602,
+      "date": 1756022063
+    },
+    "lowest": {
+      "rating": 1143,
+      "date": 1756580547
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

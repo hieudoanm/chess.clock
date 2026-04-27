@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38010752.e5bb1002.200x200o.17e7e8600057.jpeg",
+  "player_id": 38010752,
+  "@id": "https://api.chess.com/pub/player/nakajo",
+  "url": "https://www.chess.com/member/nakajo",
+  "name": "Mateus Nakajo de Mendon\u00e7a",
+  "username": "nakajo",
+  "title": "FM",
+  "followers": 68,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776390989,
+  "joined": 1503362562,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2402,
+      "date": 1643621307,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1611697655,
+      "game": "https://www.chess.com/game/daily/298667060"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 10906,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2641,
+      "date": 1775949797,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1775420345,
+      "game": "https://www.chess.com/game/live/145484759974"
+    },
+    "record": {
+      "win": 84,
+      "loss": 31,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2653,
+      "date": 1775258840,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1699839045,
+      "game": "https://www.chess.com/game/live/71087851203"
+    },
+    "record": {
+      "win": 557,
+      "loss": 505,
+      "draw": 72
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2735,
+      "date": 1776390926,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2789,
+      "date": 1775256590,
+      "game": "https://www.chess.com/game/live/43116549565"
+    },
+    "record": {
+      "win": 2826,
+      "loss": 2775,
+      "draw": 502
+    }
+  },
+  "fide": 2410,
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1503362562
+    },
+    "lowest": {
+      "rating": 2454,
+      "date": 1503362562
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

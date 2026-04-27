@@ -1,0 +1,84 @@
+{
+  "player_id": 32772098,
+  "@id": "https://api.chess.com/pub/player/ditkin25",
+  "url": "https://www.chess.com/member/ditkin25",
+  "name": "David Itkin",
+  "username": "ditkin25",
+  "title": "NM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776377067,
+  "joined": 1485718940,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1516120672,
+      "rd": 134
+    },
+    "best": {
+      "rating": 1999,
+      "date": 1502991978,
+      "game": "https://www.chess.com/game/live/2262886099"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2703,
+      "date": 1769960374,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1769549140,
+      "game": "https://www.chess.com/game/live/2871310880"
+    },
+    "record": {
+      "win": 4057,
+      "loss": 3486,
+      "draw": 509
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2614,
+      "date": 1761123872,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1757773814,
+      "game": "https://www.chess.com/game/live/10198930245"
+    },
+    "record": {
+      "win": 2237,
+      "loss": 1942,
+      "draw": 348
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2492,
+      "date": 1758235210
+    },
+    "lowest": {
+      "rating": 2154,
+      "date": 1762968238
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

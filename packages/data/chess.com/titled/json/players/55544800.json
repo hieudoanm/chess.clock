@@ -1,0 +1,84 @@
+{
+  "player_id": 55544800,
+  "@id": "https://api.chess.com/pub/player/shield12",
+  "url": "https://www.chess.com/member/Shield12",
+  "name": "Shamsiddin Vokhidov",
+  "username": "shield12",
+  "title": "GM",
+  "followers": 1149,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1776577879,
+  "joined": 1546667730,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2616,
+      "date": 1773860935,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2696,
+      "date": 1598175516,
+      "game": "https://www.chess.com/game/live/77562905667"
+    },
+    "record": {
+      "win": 171,
+      "loss": 105,
+      "draw": 97
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3051,
+      "date": 1768401825,
+      "rd": 44
+    },
+    "best": {
+      "rating": 3051,
+      "date": 1768401825,
+      "game": "https://www.chess.com/game/live/10955333291"
+    },
+    "record": {
+      "win": 659,
+      "loss": 379,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3132,
+      "date": 1773770536,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3152,
+      "date": 1768825624,
+      "game": "https://www.chess.com/game/live/167648416639"
+    },
+    "record": {
+      "win": 3170,
+      "loss": 1921,
+      "draw": 739
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2688,
+      "date": 1772524473
+    },
+    "lowest": {
+      "rating": 2470,
+      "date": 1768634535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

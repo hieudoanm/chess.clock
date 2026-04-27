@@ -1,0 +1,66 @@
+{
+  "player_id": 17094064,
+  "@id": "https://api.chess.com/pub/player/abc_sir",
+  "url": "https://www.chess.com/member/abc_sir",
+  "username": "abc_sir",
+  "title": "WIM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776516530,
+  "joined": 1398716300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1367,
+      "date": 1635846266,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1367,
+      "date": 1635846266,
+      "game": "https://www.chess.com/game/live/29584842747"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2078,
+      "date": 1617726494,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1571786626,
+      "game": "https://www.chess.com/game/live/4838765376"
+    },
+    "record": {
+      "win": 77,
+      "loss": 79,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2418,
+      "date": 1398716300
+    },
+    "lowest": {
+      "rating": 2418,
+      "date": 1398716300
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

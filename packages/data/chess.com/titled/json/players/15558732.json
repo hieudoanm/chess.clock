@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15558732.57956434.200x200o.5c2c333df21c.png",
+  "player_id": 15558732,
+  "@id": "https://api.chess.com/pub/player/gmrafpig",
+  "url": "https://www.chess.com/member/GMRafpig",
+  "name": "Rafael Leitao",
+  "username": "gmrafpig",
+  "title": "GM",
+  "followers": 10149,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776548396,
+  "joined": 1389631977,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/c/rafaelleitaogm"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1256,
+      "date": 1695942314,
+      "rd": 339
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 409615,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2632,
+      "date": 1775308043,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1601159497,
+      "game": "https://www.chess.com/game/live/145354008222"
+    },
+    "record": {
+      "win": 83,
+      "loss": 23,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1771023540,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2711,
+      "date": 1684200887,
+      "game": "https://www.chess.com/game/live/77943721839"
+    },
+    "record": {
+      "win": 126,
+      "loss": 94,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2931,
+      "date": 1773968426,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2968,
+      "date": 1770069614,
+      "game": "https://www.chess.com/game/live/147261356144"
+    },
+    "record": {
+      "win": 1072,
+      "loss": 654,
+      "draw": 273
+    }
+  },
+  "fide": 2592,
+  "tactics": {
+    "highest": {
+      "rating": 2675,
+      "date": 1389631977
+    },
+    "lowest": {
+      "rating": 2675,
+      "date": 1389631977
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "player_id": 22876998,
+  "@id": "https://api.chess.com/pub/player/schachschnecke",
+  "url": "https://www.chess.com/member/Schachschnecke",
+  "username": "schachschnecke",
+  "title": "GM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1661568850,
+  "joined": 1434652316,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2243,
+      "date": 1605819386,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1605683835,
+      "game": "https://www.chess.com/game/live/5778506533"
+    },
+    "record": {
+      "win": 47,
+      "loss": 17,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2605,
+      "date": 1653194790,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1636392389,
+      "game": "https://www.chess.com/game/live/12119644311"
+    },
+    "record": {
+      "win": 17807,
+      "loss": 14489,
+      "draw": 1853
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1965,
+      "date": 1434652316
+    },
+    "lowest": {
+      "rating": 1965,
+      "date": 1434652316
+    }
+  },
+  "puzzle_rush": {}
+}

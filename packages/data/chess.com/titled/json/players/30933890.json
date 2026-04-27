@@ -1,0 +1,122 @@
+{
+    "player_id": 30933890,
+    "@id": "https://api.chess.com/pub/player/sari07",
+    "url": "https://www.chess.com/member/sari07",
+    "name": "Yasin Sar\u0131",
+    "username": "sari07",
+    "title": "FM",
+    "followers": 33,
+    "country": "https://api.chess.com/pub/country/TR",
+    "last_online": 1741615277,
+    "joined": 1479245818,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Elite",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1490,
+            "date": 1542713570,
+            "rd": 215
+        },
+        "best": {
+            "rating": 1490,
+            "date": 1542713570,
+            "game": "https://www.chess.com/game/daily/201665142"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 1,
+            "time_per_move": 95764,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1524,
+            "date": 1533754495,
+            "rd": 264
+        },
+        "best": {
+            "rating": 1524,
+            "date": 1533754495,
+            "game": "https://www.chess.com/game/daily/196317526"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 95764,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2111,
+            "date": 1622984005,
+            "rd": 339
+        },
+        "best": {
+            "rating": 2111,
+            "date": 1622984005,
+            "game": "https://www.chess.com/game/live/16719388305"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2426,
+            "date": 1589828458,
+            "rd": 102
+        },
+        "best": {
+            "rating": 2331,
+            "date": 1589826152,
+            "game": "https://www.chess.com/game/live/4874048378"
+        },
+        "record": {
+            "win": 69,
+            "loss": 31,
+            "draw": 6
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2453,
+            "date": 1740524702,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2523,
+            "date": 1690922195,
+            "game": "https://www.chess.com/game/live/130609890493"
+        },
+        "record": {
+            "win": 1607,
+            "loss": 1522,
+            "draw": 230
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3194,
+            "date": 1736812125
+        },
+        "lowest": {
+            "rating": 1559,
+            "date": 1479246020
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 66,
+            "score": 63
+        }
+    }
+}

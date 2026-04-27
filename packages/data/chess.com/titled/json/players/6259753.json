@@ -1,0 +1,85 @@
+{
+  "player_id": 6259753,
+  "@id": "https://api.chess.com/pub/player/jasrom",
+  "url": "https://www.chess.com/member/jasrom",
+  "name": "Jasper Rom",
+  "username": "jasrom",
+  "title": "NM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1775828600,
+  "joined": 1323177600,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2398,
+      "date": 1640126517,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1463194358,
+      "game": "https://www.chess.com/game/live/5514062355"
+    },
+    "record": {
+      "win": 137,
+      "loss": 36,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2442,
+      "date": 1721926566,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1721838047,
+      "game": "https://www.chess.com/game/live/18719442323"
+    },
+    "record": {
+      "win": 411,
+      "loss": 260,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2492,
+      "date": 1751994527,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1679415439,
+      "game": "https://www.chess.com/game/live/49562441281"
+    },
+    "record": {
+      "win": 1595,
+      "loss": 1125,
+      "draw": 152
+    }
+  },
+  "fide": 2202,
+  "tactics": {
+    "highest": {
+      "rating": 2616,
+      "date": 1323177600
+    },
+    "lowest": {
+      "rating": 2616,
+      "date": 1323177600
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

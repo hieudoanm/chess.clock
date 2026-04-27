@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2077514.1d395149.200x200o.608597312551.jpeg",
+  "player_id": 2077514,
+  "@id": "https://api.chess.com/pub/player/viennarocket",
+  "url": "https://www.chess.com/member/ViennaRocket",
+  "name": "Hartmuth Beck",
+  "username": "viennarocket",
+  "title": "FM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Vienna",
+  "last_online": 1776588168,
+  "joined": 1249480947,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2337,
+      "date": 1617352086,
+      "rd": 299
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1387263726,
+      "game": "https://www.chess.com/game/daily/53295716"
+    },
+    "record": {
+      "win": 27,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 16860,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2431,
+      "date": 1663863024,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1663273584,
+      "game": "https://www.chess.com/game/live/56997476289"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2251,
+      "date": 1638166605,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1615964556,
+      "game": "https://www.chess.com/game/live/572455764"
+    },
+    "record": {
+      "win": 8,
+      "loss": 25,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2444,
+      "date": 1776584061,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1694323986,
+      "game": "https://www.chess.com/game/live/32596761637"
+    },
+    "record": {
+      "win": 21682,
+      "loss": 20967,
+      "draw": 3755
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2153,
+      "date": 1765762577
+    },
+    "lowest": {
+      "rating": 2065,
+      "date": 1765762739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

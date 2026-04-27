@@ -1,0 +1,66 @@
+{
+  "player_id": 75860664,
+  "@id": "https://api.chess.com/pub/player/apachesvd",
+  "url": "https://www.chess.com/member/ApacheSVD",
+  "username": "apachesvd",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776308655,
+  "joined": 1586184852,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2511,
+      "date": 1657106622,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2623,
+      "date": 1601668192,
+      "game": "https://www.chess.com/game/live/6007300327"
+    },
+    "record": {
+      "win": 669,
+      "loss": 703,
+      "draw": 99
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1664315582,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2592,
+      "date": 1644523038,
+      "game": "https://www.chess.com/game/live/58051279369"
+    },
+    "record": {
+      "win": 620,
+      "loss": 654,
+      "draw": 143
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2466,
+      "date": 1586184852
+    },
+    "lowest": {
+      "rating": 2466,
+      "date": 1586184852
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

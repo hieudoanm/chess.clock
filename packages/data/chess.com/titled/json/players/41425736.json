@@ -1,0 +1,83 @@
+{
+  "player_id": 41425736,
+  "@id": "https://api.chess.com/pub/player/yudinetz",
+  "url": "https://www.chess.com/member/yudinetz",
+  "name": "Evgueny Fedorov",
+  "username": "yudinetz",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1719601950,
+  "joined": 1513540041,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1698422914,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 21,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1788,
+      "date": 1590435052,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2015,
+      "date": 1590430179,
+      "game": "https://www.chess.com/game/live/4906560267"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2564,
+      "date": 1702068997,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1702068997,
+      "game": "https://www.chess.com/game/live/23803631061"
+    },
+    "record": {
+      "win": 1644,
+      "loss": 1558,
+      "draw": 220
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2532,
+      "date": 1513540041
+    },
+    "lowest": {
+      "rating": 2532,
+      "date": 1513540041
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "player_id": 4003928,
+  "@id": "https://api.chess.com/pub/player/nutflush",
+  "url": "https://www.chess.com/member/Nutflush",
+  "name": "Paul A G Dargan",
+  "username": "nutflush",
+  "title": "CM",
+  "followers": 103,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776595421,
+  "joined": 1284996649,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2079,
+      "date": 1776545323,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1473967646,
+      "game": "https://www.chess.com/game/daily/109569716"
+    },
+    "record": {
+      "win": 150,
+      "loss": 34,
+      "draw": 64,
+      "time_per_move": 76954,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1204,
+      "date": 1366823913,
+      "rd": 279
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 76954,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1646258009,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1646258009,
+      "game": "https://www.chess.com/game/live/21838881413"
+    },
+    "record": {
+      "win": 23,
+      "loss": 7,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1861,
+      "date": 1495483103,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1359282872,
+      "game": "https://www.chess.com/game/live/442772470"
+    },
+    "record": {
+      "win": 27,
+      "loss": 28,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2096,
+      "date": 1776595312,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2238,
+      "date": 1704321837,
+      "game": "https://www.chess.com/game/live/97953689313"
+    },
+    "record": {
+      "win": 1494,
+      "loss": 1406,
+      "draw": 235
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1767736470
+    },
+    "lowest": {
+      "rating": 2029,
+      "date": 1767737824
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 32
+    }
+  }
+}

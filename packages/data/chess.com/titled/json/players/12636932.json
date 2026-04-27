@@ -1,0 +1,104 @@
+{
+  "player_id": 12636932,
+  "@id": "https://api.chess.com/pub/player/teo2000",
+  "url": "https://www.chess.com/member/Teo2000",
+  "name": "Teo Tomulic",
+  "username": "teo2000",
+  "title": "FM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1774658332,
+  "joined": 1373309504,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1740706285,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1473198908,
+      "game": "https://www.chess.com/game/daily/145084142"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 13515,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2392,
+      "date": 1771616442,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1681667857,
+      "game": "https://www.chess.com/game/live/133051146853"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2629,
+      "date": 1770860459,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1606055765,
+      "game": "https://www.chess.com/game/live/5798694256"
+    },
+    "record": {
+      "win": 1518,
+      "loss": 1003,
+      "draw": 176
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2244,
+      "date": 1770490573,
+      "rd": 155
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1596142223,
+      "game": "https://www.chess.com/game/live/5611035788"
+    },
+    "record": {
+      "win": 559,
+      "loss": 285,
+      "draw": 59
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1771254401
+    },
+    "lowest": {
+      "rating": 2095,
+      "date": 1770646961
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

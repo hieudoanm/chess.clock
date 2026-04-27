@@ -1,0 +1,83 @@
+{
+  "player_id": 172521787,
+  "@id": "https://api.chess.com/pub/player/coachpoker",
+  "url": "https://www.chess.com/member/Coachpoker",
+  "username": "coachpoker",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1684853207,
+  "joined": 1644340059,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2446,
+      "date": 1682968069,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1676317641,
+      "game": "https://www.chess.com/game/live/51895246695"
+    },
+    "record": {
+      "win": 104,
+      "loss": 46,
+      "draw": 48
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2659,
+      "date": 1687444860,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2676,
+      "date": 1680544570,
+      "game": "https://www.chess.com/game/live/64422016829"
+    },
+    "record": {
+      "win": 307,
+      "loss": 326,
+      "draw": 86
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2781,
+      "date": 1684863006,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2828,
+      "date": 1679418382,
+      "game": "https://www.chess.com/game/live/78596528163"
+    },
+    "record": {
+      "win": 1405,
+      "loss": 1154,
+      "draw": 671
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2294,
+      "date": 1644340059
+    },
+    "lowest": {
+      "rating": 2294,
+      "date": 1644340059
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

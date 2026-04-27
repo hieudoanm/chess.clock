@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2534106.a23fc73f.200x200o.9619bd05677b.jpeg",
+  "player_id": 2534106,
+  "@id": "https://api.chess.com/pub/player/alexanderl",
+  "url": "https://www.chess.com/member/AlexanderL",
+  "name": "Aleksandr Lenderman",
+  "username": "alexanderl",
+  "title": "GM",
+  "followers": 3069,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1776514131,
+  "joined": 1265635556,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmlenderman",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmlenderman"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2617,
+      "date": 1771249863,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1523792412,
+      "game": "https://www.chess.com/game/daily/64971770"
+    },
+    "record": {
+      "win": 178,
+      "loss": 32,
+      "draw": 41,
+      "time_per_move": 16177,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2614,
+      "date": 1761879650,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1600572897,
+      "game": "https://www.chess.com/game/live/6583366931"
+    },
+    "record": {
+      "win": 183,
+      "loss": 38,
+      "draw": 65
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2752,
+      "date": 1609615262,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1533586703,
+      "game": "https://www.chess.com/game/live/2988639125"
+    },
+    "record": {
+      "win": 558,
+      "loss": 220,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2913,
+      "date": 1735521533,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2997,
+      "date": 1676996260,
+      "game": "https://www.chess.com/game/live/77991179157"
+    },
+    "record": {
+      "win": 1835,
+      "loss": 558,
+      "draw": 368
+    }
+  },
+  "fide": 2706,
+  "tactics": {
+    "highest": {
+      "rating": 2742,
+      "date": 1761853495
+    },
+    "lowest": {
+      "rating": 2685,
+      "date": 1761855071
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

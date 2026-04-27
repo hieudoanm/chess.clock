@@ -1,0 +1,123 @@
+{
+  "player_id": 23902310,
+  "@id": "https://api.chess.com/pub/player/yuki_chess123",
+  "url": "https://www.chess.com/member/yuki_chess123",
+  "name": "zbigniew wieczorek",
+  "username": "yuki_chess123",
+  "title": "FM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Racib\u00f3rz",
+  "last_online": 1776593449,
+  "joined": 1441003185,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2108,
+      "date": 1776517572,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1589414222,
+      "game": "https://www.chess.com/game/daily/259706560"
+    },
+    "record": {
+      "win": 255,
+      "loss": 99,
+      "draw": 113,
+      "time_per_move": 6494,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1859,
+      "date": 1696536931,
+      "rd": 81
+    },
+    "best": {
+      "rating": 1865,
+      "date": 1696280336,
+      "game": "https://www.chess.com/game/daily/396787697"
+    },
+    "record": {
+      "win": 165,
+      "loss": 47,
+      "draw": 28,
+      "time_per_move": 6494,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2299,
+      "date": 1774186323,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2455,
+      "date": 1762850788,
+      "game": "https://www.chess.com/game/live/143745576402"
+    },
+    "record": {
+      "win": 1773,
+      "loss": 968,
+      "draw": 253
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2152,
+      "date": 1770161517,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2381,
+      "date": 1635676026,
+      "game": "https://www.chess.com/game/live/36839987863"
+    },
+    "record": {
+      "win": 5598,
+      "loss": 4728,
+      "draw": 328
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2449,
+      "date": 1776593436,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1774041985,
+      "game": "https://www.chess.com/game/live/95557210579"
+    },
+    "record": {
+      "win": 13822,
+      "loss": 11149,
+      "draw": 1570
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2324,
+      "date": 1756862249
+    },
+    "lowest": {
+      "rating": 2059,
+      "date": 1775331016
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 41
+    }
+  }
+}

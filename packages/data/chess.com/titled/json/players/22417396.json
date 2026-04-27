@@ -1,0 +1,94 @@
+{
+  "player_id": 22417396,
+  "@id": "https://api.chess.com/pub/player/harry_rakkel",
+  "url": "https://www.chess.com/member/Harry_Rakkel",
+  "name": "Krzysztof Jakubowski",
+  "username": "harry_rakkel",
+  "title": "GM",
+  "followers": 68,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Warszawa",
+  "last_online": 1768951878,
+  "joined": 1431803781,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1672738101,
+      "rd": 350
+    },
+    "record": {
+      "win": 8,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 17201,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2341,
+      "date": 1715201249,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1590777157,
+      "game": "https://www.chess.com/game/live/108931837783"
+    },
+    "record": {
+      "win": 13,
+      "loss": 19,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1639504546,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1600760441,
+      "game": "https://www.chess.com/game/live/6128948754"
+    },
+    "record": {
+      "win": 68,
+      "loss": 38,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2805,
+      "date": 1756818581,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2805,
+      "date": 1756818581,
+      "game": "https://www.chess.com/game/live/118532864097"
+    },
+    "record": {
+      "win": 1456,
+      "loss": 1014,
+      "draw": 217
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1431803781
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1431803781
+    }
+  },
+  "puzzle_rush": {}
+}

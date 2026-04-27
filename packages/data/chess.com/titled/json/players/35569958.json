@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35569958.286df4e9.200x200o.6ff97a6455d4.png",
+  "player_id": 35569958,
+  "@id": "https://api.chess.com/pub/player/sergeykarjakin",
+  "url": "https://www.chess.com/member/SergeyKarjakin",
+  "name": "Sergey Karjakin",
+  "username": "sergeykarjakin",
+  "title": "GM",
+  "followers": 3631,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1641463637,
+  "joined": 1494941060,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2735,
+      "date": 1634310237,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1633966353,
+      "game": "https://www.chess.com/game/live/27703157857"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2969,
+      "date": 1608403017,
+      "rd": 76
+    },
+    "best": {
+      "rating": 3245,
+      "date": 1603652795,
+      "game": "https://www.chess.com/game/live/5634369430"
+    },
+    "record": {
+      "win": 31,
+      "loss": 33,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3023,
+      "date": 1614879837,
+      "rd": 75
+    },
+    "best": {
+      "rating": 3023,
+      "date": 1603825621,
+      "game": "https://www.chess.com/game/live/4708969451"
+    },
+    "record": {
+      "win": 228,
+      "loss": 65,
+      "draw": 68
+    }
+  },
+  "fide": 2780,
+  "tactics": {
+    "highest": {
+      "rating": 2349,
+      "date": 1494941060
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1494941060
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

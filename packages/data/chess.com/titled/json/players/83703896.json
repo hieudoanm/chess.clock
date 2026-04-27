@@ -1,0 +1,67 @@
+{
+  "player_id": 83703896,
+  "@id": "https://api.chess.com/pub/player/josemourinho2020",
+  "url": "https://www.chess.com/member/josemourinho2020",
+  "name": "Benjamin Arvola Notkevich",
+  "username": "josemourinho2020",
+  "title": "GM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1634647621,
+  "joined": 1592756042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1630766287,
+      "rd": 205
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1630589212,
+      "game": "https://www.chess.com/game/live/24327099485"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2572,
+      "date": 1634673376,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2707,
+      "date": 1613917615,
+      "game": "https://www.chess.com/game/live/25811390543"
+    },
+    "record": {
+      "win": 151,
+      "loss": 100,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1592756042
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1592756042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

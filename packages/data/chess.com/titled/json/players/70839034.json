@@ -1,0 +1,105 @@
+{
+  "player_id": 70839034,
+  "@id": "https://api.chess.com/pub/player/ash15k",
+  "url": "https://www.chess.com/member/Ash15K",
+  "name": "Ashwath Kaushik",
+  "username": "ash15k",
+  "title": "FM",
+  "followers": 99,
+  "country": "https://api.chess.com/pub/country/SL",
+  "location": "Kenema",
+  "last_online": 1776510379,
+  "joined": 1579178636,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 904,
+      "date": 1759325977,
+      "rd": 262
+    },
+    "best": {
+      "rating": 904,
+      "date": 1683986946,
+      "game": "https://www.chess.com/game/daily/426064577"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 551750,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2228,
+      "date": 1726847427,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2236,
+      "date": 1702114578,
+      "game": "https://www.chess.com/game/live/87268161465"
+    },
+    "record": {
+      "win": 291,
+      "loss": 199,
+      "draw": 35
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1760804593,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1760803785,
+      "game": "https://www.chess.com/game/live/155117204119"
+    },
+    "record": {
+      "win": 1476,
+      "loss": 1623,
+      "draw": 91
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2552,
+      "date": 1771775782,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1760277517,
+      "game": "https://www.chess.com/game/live/154588598421"
+    },
+    "record": {
+      "win": 821,
+      "loss": 740,
+      "draw": 64
+    }
+  },
+  "fide": 2041,
+  "tactics": {
+    "highest": {
+      "rating": 2828,
+      "date": 1760154075
+    },
+    "lowest": {
+      "rating": 2734,
+      "date": 1768993644
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

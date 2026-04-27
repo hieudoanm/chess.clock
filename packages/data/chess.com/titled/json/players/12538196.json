@@ -1,0 +1,85 @@
+{
+  "player_id": 12538196,
+  "@id": "https://api.chess.com/pub/player/senn71",
+  "url": "https://www.chess.com/member/Senn71",
+  "name": "Martin Fierz",
+  "username": "senn71",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1760820492,
+  "joined": 1372606671,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1301,
+      "date": 1610211291,
+      "rd": 279
+    },
+    "best": {
+      "rating": 1301,
+      "date": 1610211291,
+      "game": "https://www.chess.com/game/live/6187386098"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2235,
+      "date": 1758476487,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1756495674,
+      "game": "https://www.chess.com/game/live/142491658332"
+    },
+    "record": {
+      "win": 94,
+      "loss": 62,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2448,
+      "date": 1751921301,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1751921301,
+      "game": "https://www.chess.com/game/live/113674237573"
+    },
+    "record": {
+      "win": 2125,
+      "loss": 1854,
+      "draw": 252
+    }
+  },
+  "fide": 2347,
+  "tactics": {
+    "highest": {
+      "rating": 2488,
+      "date": 1372606671
+    },
+    "lowest": {
+      "rating": 2488,
+      "date": 1372606671
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

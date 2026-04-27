@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/60040872.cf8e42ed.200x200o.3d1950238ab2.png",
+  "player_id": 60040872,
+  "@id": "https://api.chess.com/pub/player/ruchess27",
+  "url": "https://www.chess.com/member/Ruchess27",
+  "name": "Rucha Pujari",
+  "username": "ruchess27",
+  "title": "WIM",
+  "followers": 2409,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "India",
+  "last_online": 1776597512,
+  "joined": 1555770308,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/ruchess27",
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/ruchess27"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2253,
+      "date": 1775832751,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1775832751,
+      "game": "https://www.chess.com/game/live/165541209820"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1776521079,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1774284541,
+      "game": "https://www.chess.com/game/live/120675640149"
+    },
+    "record": {
+      "win": 211,
+      "loss": 141,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1776589705,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1776427123,
+      "game": "https://www.chess.com/game/live/76782248293"
+    },
+    "record": {
+      "win": 426,
+      "loss": 289,
+      "draw": 60
+    }
+  },
+  "fide": 2244,
+  "tactics": {
+    "highest": {
+      "rating": 2716,
+      "date": 1555770308
+    },
+    "lowest": {
+      "rating": 2716,
+      "date": 1555770308
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 100,
+      "score": 97
+    }
+  }
+}

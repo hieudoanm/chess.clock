@@ -1,0 +1,86 @@
+{
+  "player_id": 176986827,
+  "@id": "https://api.chess.com/pub/player/petr577",
+  "url": "https://www.chess.com/member/petr577",
+  "name": "Jan Petr",
+  "username": "petr577",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776594906,
+  "joined": 1647553154,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1761123263,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1647553154,
+      "game": "https://www.chess.com/game/daily/877734077"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12724,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2314,
+      "date": 1736686513,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1736686513,
+      "game": "https://www.chess.com/game/live/125610594129"
+    },
+    "record": {
+      "win": 34,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2617,
+      "date": 1776271391,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2710,
+      "date": 1771190848,
+      "game": "https://www.chess.com/game/live/117322247005"
+    },
+    "record": {
+      "win": 2347,
+      "loss": 2226,
+      "draw": 245
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2849,
+      "date": 1770380465
+    },
+    "lowest": {
+      "rating": 2738,
+      "date": 1769081467
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 129839962,
+  "@id": "https://api.chess.com/pub/player/queen_2007",
+  "url": "https://www.chess.com/member/Queen_2007",
+  "username": "queen_2007",
+  "title": "WCM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1772355875,
+  "joined": 1616404827,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2344,
+      "date": 1758260166,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1644741474,
+      "game": "https://www.chess.com/game/live/38479493973"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2170,
+      "date": 1731935145,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1716642842,
+      "game": "https://www.chess.com/game/live/110381556039"
+    },
+    "record": {
+      "win": 44,
+      "loss": 34,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2128,
+      "date": 1710751681,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2306,
+      "date": 1616420245,
+      "game": "https://www.chess.com/game/live/11111040747"
+    },
+    "record": {
+      "win": 9,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1760696609
+    },
+    "lowest": {
+      "rating": 2144,
+      "date": 1760714123
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

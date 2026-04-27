@@ -1,0 +1,85 @@
+{
+  "player_id": 444905353,
+  "@id": "https://api.chess.com/pub/player/kz_champ_gm",
+  "url": "https://www.chess.com/member/KZ_Champ_GM",
+  "name": "Alimzhan Zhauynbay",
+  "username": "kz_champ_gm",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/CD",
+  "last_online": 1776267685,
+  "joined": 1744730566,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2123,
+      "date": 1747591857,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1747591856,
+      "game": "https://www.chess.com/game/live/141904844163"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2481,
+      "date": 1775925162,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1747496326,
+      "game": "https://www.chess.com/game/live/161775430771"
+    },
+    "record": {
+      "win": 80,
+      "loss": 130,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2716,
+      "date": 1775662685,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2724,
+      "date": 1775662346,
+      "game": "https://www.chess.com/game/live/161423828135"
+    },
+    "record": {
+      "win": 231,
+      "loss": 207,
+      "draw": 45
+    }
+  },
+  "fide": 2077,
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1756198009
+    },
+    "lowest": {
+      "rating": 2371,
+      "date": 1768395924
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

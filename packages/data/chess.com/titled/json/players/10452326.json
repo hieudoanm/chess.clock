@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10452326.8edea891.200x200o.6c3b56e422c3.jpeg",
+  "player_id": 10452326,
+  "@id": "https://api.chess.com/pub/player/pinkito",
+  "url": "https://www.chess.com/member/Pinkito",
+  "name": "Pinkito Pinkito",
+  "username": "pinkito",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Linares",
+  "last_online": 1776593807,
+  "joined": 1358369147,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2327,
+      "date": 1705511109,
+      "rd": 308
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1422916576,
+      "game": "https://www.chess.com/game/daily/89551504"
+    },
+    "record": {
+      "win": 130,
+      "loss": 6,
+      "draw": 60,
+      "time_per_move": 12752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2069,
+      "date": 1652628077,
+      "rd": 261
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2420,
+      "date": 1776592658,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1636799823,
+      "game": "https://www.chess.com/game/live/28835437123"
+    },
+    "record": {
+      "win": 482,
+      "loss": 353,
+      "draw": 132
+    }
+  },
+  "fide": 2219,
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1775743887
+    },
+    "lowest": {
+      "rating": 2277,
+      "date": 1769774545
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

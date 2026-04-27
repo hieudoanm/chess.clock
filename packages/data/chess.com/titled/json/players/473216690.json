@@ -1,0 +1,61 @@
+{
+  "player_id": 473216690,
+  "@id": "https://api.chess.com/pub/player/solidpositions",
+  "url": "https://www.chess.com/member/SolidPositions",
+  "username": "solidpositions",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776181655,
+  "joined": 1754762646,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1926,
+      "date": 1768465604,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1773193077,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1761189313,
+      "game": "https://www.chess.com/game/live/165384752662"
+    },
+    "record": {
+      "win": 611,
+      "loss": 687,
+      "draw": 106
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2072,
+      "date": 1761009426
+    },
+    "lowest": {
+      "rating": 1103,
+      "date": 1761009375
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

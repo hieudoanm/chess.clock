@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19729828.f2291882.200x200o.a877748be271.jpg",
+  "player_id": 19729828,
+  "@id": "https://api.chess.com/pub/player/gen-gutman",
+  "url": "https://www.chess.com/member/Gen-Gutman",
+  "name": "Gennadii Gutman",
+  "username": "gen-gutman",
+  "title": "GM",
+  "followers": 143,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Dnipro",
+  "last_online": 1776585832,
+  "joined": 1416047830,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1699,
+      "date": 1754163269,
+      "rd": 202
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1416047830,
+      "game": "https://www.chess.com/game/daily/210990492"
+    },
+    "record": {
+      "win": 38,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 8470,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1144,
+      "date": 1776084990,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1617106321,
+      "game": "https://www.chess.com/game/live/10928813027"
+    },
+    "record": {
+      "win": 27,
+      "loss": 42,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2608,
+      "date": 1776552372,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1755948313,
+      "game": "https://www.chess.com/game/live/165603444958"
+    },
+    "record": {
+      "win": 14050,
+      "loss": 9863,
+      "draw": 1053
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2490,
+      "date": 1775751738,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1567371123,
+      "game": "https://www.chess.com/game/live/1622289894"
+    },
+    "record": {
+      "win": 607,
+      "loss": 585,
+      "draw": 89
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2289,
+      "date": 1756727181
+    },
+    "lowest": {
+      "rating": 1866,
+      "date": 1774006622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 86,
+      "score": 83
+    }
+  }
+}

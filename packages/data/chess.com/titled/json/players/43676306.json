@@ -1,0 +1,67 @@
+{
+  "player_id": 43676306,
+  "@id": "https://api.chess.com/pub/player/alenaku",
+  "url": "https://www.chess.com/member/AlenaKu",
+  "username": "alenaku",
+  "title": "WFM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1710707942,
+  "joined": 1519503678,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2013,
+      "date": 1531927155,
+      "rd": 41
+    },
+    "best": {
+      "rating": 1891,
+      "date": 1530391780,
+      "game": "https://www.chess.com/game/live/2899737499"
+    },
+    "record": {
+      "win": 61,
+      "loss": 43,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2093,
+      "date": 1691673646,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1527164629,
+      "game": "https://www.chess.com/game/live/3243912196"
+    },
+    "record": {
+      "win": 504,
+      "loss": 384,
+      "draw": 64
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2173,
+      "date": 1519503678
+    },
+    "lowest": {
+      "rating": 2173,
+      "date": 1519503678
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

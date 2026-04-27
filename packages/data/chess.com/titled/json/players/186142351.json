@@ -1,0 +1,72 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/186142351.6d2755cf.200x200o.3f86c1e79bfe.jpeg",
+  "player_id": 186142351,
+  "@id": "https://api.chess.com/pub/player/ga_r",
+  "url": "https://www.chess.com/member/Ga_R",
+  "name": "Ruslan Gadzhiev",
+  "username": "ga_r",
+  "title": "FM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776597924,
+  "joined": 1654610077,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2553,
+      "date": 1688344523,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1684503540,
+      "game": "https://www.chess.com/game/live/76857625805"
+    },
+    "record": {
+      "win": 381,
+      "loss": 554,
+      "draw": 135
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2974,
+      "date": 1776597455,
+      "rd": 23
+    },
+    "best": {
+      "rating": 3121,
+      "date": 1775119784,
+      "game": "https://www.chess.com/game/live/170493648327"
+    },
+    "record": {
+      "win": 4491,
+      "loss": 4108,
+      "draw": 951
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2907,
+      "date": 1774678464
+    },
+    "lowest": {
+      "rating": 2598,
+      "date": 1757221976
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 59
+    },
+    "daily": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

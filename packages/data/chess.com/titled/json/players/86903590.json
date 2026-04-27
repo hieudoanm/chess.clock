@@ -1,0 +1,78 @@
+{
+  "player_id": 86903590,
+  "@id": "https://api.chess.com/pub/player/mapleaff",
+  "url": "https://www.chess.com/member/mapleaff",
+  "username": "mapleaff",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1725427039,
+  "joined": 1594977310,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2071,
+      "date": 1637261400,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2224,
+      "date": 1704739237,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1636014758,
+      "game": "https://www.chess.com/game/live/5250076882"
+    },
+    "record": {
+      "win": 39,
+      "loss": 34,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2399,
+      "date": 1725383366,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1596561494,
+      "game": "https://www.chess.com/game/live/5812908549"
+    },
+    "record": {
+      "win": 335,
+      "loss": 460,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2239,
+      "date": 1594977310
+    },
+    "lowest": {
+      "rating": 2239,
+      "date": 1594977310
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

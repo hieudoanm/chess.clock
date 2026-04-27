@@ -1,0 +1,108 @@
+{
+  "player_id": 15172836,
+  "@id": "https://api.chess.com/pub/player/nick12772",
+  "url": "https://www.chess.com/member/Nick12772",
+  "name": "Nicholas Figorito",
+  "username": "nick12772",
+  "title": "NM",
+  "followers": 424,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776596564,
+  "joined": 1387758849,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1779,
+      "date": 1732786105,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1790,
+      "date": 1493583656,
+      "game": "https://www.chess.com/game/daily/163757004"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 7636,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2374,
+      "date": 1774197147,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1606689497,
+      "game": "https://www.chess.com/game/live/5850965226"
+    },
+    "record": {
+      "win": 112,
+      "loss": 17,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2441,
+      "date": 1770483705,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2548,
+      "date": 1737824501,
+      "game": "https://www.chess.com/game/live/143632813945"
+    },
+    "record": {
+      "win": 428,
+      "loss": 433,
+      "draw": 73
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2658,
+      "date": 1776509328,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2680,
+      "date": 1770294972,
+      "game": "https://www.chess.com/game/live/165033518106"
+    },
+    "record": {
+      "win": 25383,
+      "loss": 20011,
+      "draw": 6067
+    }
+  },
+  "fide": 2201,
+  "tactics": {
+    "highest": {
+      "rating": 2689,
+      "date": 1756435809
+    },
+    "lowest": {
+      "rating": 2502,
+      "date": 1756753412
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    },
+    "daily": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

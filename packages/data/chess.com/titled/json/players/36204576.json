@@ -1,0 +1,80 @@
+{
+  "player_id": 36204576,
+  "@id": "https://api.chess.com/pub/player/valepaza",
+  "url": "https://www.chess.com/member/valepaza",
+  "name": "Valentina Jorquera Cabello",
+  "username": "valepaza",
+  "title": "WIM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776456831,
+  "joined": 1497108263,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1919,
+      "date": 1727446829,
+      "rd": 201
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2006,
+      "date": 1776456793,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1715721250,
+      "game": "https://www.chess.com/game/live/143169499886"
+    },
+    "record": {
+      "win": 1087,
+      "loss": 976,
+      "draw": 96
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2101,
+      "date": 1742332594,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1497110594,
+      "game": "https://www.chess.com/game/live/127586478029"
+    },
+    "record": {
+      "win": 109,
+      "loss": 99,
+      "draw": 11
+    }
+  },
+  "fide": 1919,
+  "tactics": {
+    "highest": {
+      "rating": 1894,
+      "date": 1762197529
+    },
+    "lowest": {
+      "rating": 1711,
+      "date": 1768654582
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 15
+    }
+  }
+}

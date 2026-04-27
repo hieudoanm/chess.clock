@@ -1,0 +1,67 @@
+{
+  "player_id": 5627066,
+  "@id": "https://api.chess.com/pub/player/martinzumsande",
+  "url": "https://www.chess.com/member/MartinZumsande",
+  "name": "Martin Zumsande",
+  "username": "martinzumsande",
+  "title": "IM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1774449893,
+  "joined": 1313520022,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2579,
+      "date": 1754190554,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1754190355,
+      "game": "https://www.chess.com/game/live/141421012490"
+    },
+    "record": {
+      "win": 63,
+      "loss": 19,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2620,
+      "date": 1754190772,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1753940763,
+      "game": "https://www.chess.com/game/live/4183390317"
+    },
+    "record": {
+      "win": 263,
+      "loss": 172,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2262,
+      "date": 1313520022
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1313520022
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

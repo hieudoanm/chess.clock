@@ -1,0 +1,104 @@
+{
+  "player_id": 192556823,
+  "@id": "https://api.chess.com/pub/player/freegirll",
+  "url": "https://www.chess.com/member/FreeGirll",
+  "name": "Arya Aydogan",
+  "username": "freegirll",
+  "title": "WCM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776598152,
+  "joined": 1659868387,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1577,
+      "date": 1773758777,
+      "rd": 122
+    },
+    "best": {
+      "rating": 1577,
+      "date": 1729833640,
+      "game": "https://www.chess.com/game/daily/550501409"
+    },
+    "record": {
+      "win": 31,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 76959,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2120,
+      "date": 1768940088,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1704800475,
+      "game": "https://www.chess.com/game/live/98789153705"
+    },
+    "record": {
+      "win": 293,
+      "loss": 86,
+      "draw": 33
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2281,
+      "date": 1757181557,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2281,
+      "date": 1757181557,
+      "game": "https://www.chess.com/game/live/127332036763"
+    },
+    "record": {
+      "win": 241,
+      "loss": 124,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2087,
+      "date": 1776598108,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1775589722,
+      "game": "https://www.chess.com/game/live/159958044857"
+    },
+    "record": {
+      "win": 386,
+      "loss": 111,
+      "draw": 24
+    }
+  },
+  "fide": 1830,
+  "tactics": {
+    "highest": {
+      "rating": 2503,
+      "date": 1771872942
+    },
+    "lowest": {
+      "rating": 2420,
+      "date": 1771872874
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5325122.9b28f7f6.200x200o.24ce4260089d.jpeg",
+  "player_id": 5325122,
+  "@id": "https://api.chess.com/pub/player/preempted",
+  "url": "https://www.chess.com/member/Preempted",
+  "name": "John Bick",
+  "username": "preempted",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1771302954,
+  "joined": 1308847843,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1612,
+      "date": 1705191296,
+      "rd": 279
+    },
+    "best": {
+      "rating": 1612,
+      "date": 1529966444,
+      "game": "https://www.chess.com/game/daily/192822010"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 45783,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1746,
+      "date": 1607018596,
+      "rd": 235
+    },
+    "best": {
+      "rating": 2081,
+      "date": 1441336984,
+      "game": "https://www.chess.com/game/live/1269298731"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2419,
+      "date": 1726186325,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1714927870,
+      "game": "https://www.chess.com/game/live/108595813157"
+    },
+    "record": {
+      "win": 174,
+      "loss": 84,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2569,
+      "date": 1308847843
+    },
+    "lowest": {
+      "rating": 2569,
+      "date": 1308847843
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

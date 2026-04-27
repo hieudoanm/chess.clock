@@ -1,0 +1,100 @@
+{
+  "player_id": 22863602,
+  "@id": "https://api.chess.com/pub/player/xuyinglun",
+  "url": "https://www.chess.com/member/XuYinglun",
+  "name": "Yinglun Xu",
+  "username": "xuyinglun",
+  "title": "GM",
+  "followers": 112,
+  "country": "https://api.chess.com/pub/country/CN",
+  "location": "Beijing",
+  "last_online": 1774149922,
+  "joined": 1434565024,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1726820913,
+      "rd": 215
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 39194,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2527,
+      "date": 1678735158,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1654359249,
+      "game": "https://www.chess.com/game/live/72472566271"
+    },
+    "record": {
+      "win": 14,
+      "loss": 13,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2865,
+      "date": 1743938861,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2820,
+      "date": 1737985392,
+      "game": "https://www.chess.com/game/live/131724065893"
+    },
+    "record": {
+      "win": 550,
+      "loss": 424,
+      "draw": 65
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2936,
+      "date": 1759676839,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2977,
+      "date": 1756732973,
+      "game": "https://www.chess.com/game/live/143230316962"
+    },
+    "record": {
+      "win": 1222,
+      "loss": 815,
+      "draw": 310
+    }
+  },
+  "fide": 2554,
+  "tactics": {
+    "highest": {
+      "rating": 2787,
+      "date": 1434565024
+    },
+    "lowest": {
+      "rating": 2787,
+      "date": 1434565024
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 54
+    }
+  }
+}

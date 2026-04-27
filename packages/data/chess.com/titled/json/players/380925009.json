@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/380925009.8e1a7613.200x200o.a881068b5b00.jpg",
+  "player_id": 380925009,
+  "@id": "https://api.chess.com/pub/player/luttysloth",
+  "url": "https://www.chess.com/member/LuttySloth",
+  "username": "luttysloth",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/XO",
+  "last_online": 1776292085,
+  "joined": 1723627375,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1726581497,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2374,
+      "date": 1752757858,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1736253863,
+      "game": "https://www.chess.com/game/live/129998365307"
+    },
+    "record": {
+      "win": 12,
+      "loss": 11,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2603,
+      "date": 1776292051,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2727,
+      "date": 1770752650,
+      "game": "https://www.chess.com/game/live/132300634697"
+    },
+    "record": {
+      "win": 405,
+      "loss": 423,
+      "draw": 59
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2557,
+      "date": 1756975951
+    },
+    "lowest": {
+      "rating": 2326,
+      "date": 1770300027
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

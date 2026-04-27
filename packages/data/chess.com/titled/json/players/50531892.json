@@ -1,0 +1,84 @@
+{
+  "player_id": 50531892,
+  "@id": "https://api.chess.com/pub/player/legendaryscar",
+  "url": "https://www.chess.com/member/LegendaryScar",
+  "name": "Barry Allen",
+  "username": "legendaryscar",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776599777,
+  "joined": 1539003792,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1751116628,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1751116628,
+      "game": "https://www.chess.com/game/live/140101384294"
+    },
+    "record": {
+      "win": 159,
+      "loss": 97,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2594,
+      "date": 1776599589,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1774809112,
+      "game": "https://www.chess.com/game/live/142099399968"
+    },
+    "record": {
+      "win": 1518,
+      "loss": 1242,
+      "draw": 185
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2612,
+      "date": 1775299776,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2724,
+      "date": 1756404981,
+      "game": "https://www.chess.com/game/live/140032926244"
+    },
+    "record": {
+      "win": 1059,
+      "loss": 907,
+      "draw": 150
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2626,
+      "date": 1775558924
+    },
+    "lowest": {
+      "rating": 2386,
+      "date": 1766310881
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

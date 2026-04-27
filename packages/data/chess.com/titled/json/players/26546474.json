@@ -1,0 +1,103 @@
+{
+  "player_id": 26546474,
+  "@id": "https://api.chess.com/pub/player/junhaopro",
+  "url": "https://www.chess.com/member/junhaopro",
+  "name": "Jun Hao Tan",
+  "username": "junhaopro",
+  "title": "CM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "last_online": 1776533443,
+  "joined": 1454738296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1661,
+      "date": 1718699325,
+      "rd": 196
+    },
+    "best": {
+      "rating": 1723,
+      "date": 1458385876,
+      "game": "https://www.chess.com/game/daily/228804708"
+    },
+    "record": {
+      "win": 21,
+      "loss": 31,
+      "draw": 2,
+      "time_per_move": 17713,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2367,
+      "date": 1766582206,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1710234664,
+      "game": "https://www.chess.com/game/live/84272926057"
+    },
+    "record": {
+      "win": 125,
+      "loss": 63,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2380,
+      "date": 1775797389,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1663739221,
+      "game": "https://www.chess.com/game/live/58429784757"
+    },
+    "record": {
+      "win": 1166,
+      "loss": 640,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2293,
+      "date": 1775790707,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1711459749,
+      "game": "https://www.chess.com/game/live/106413980795"
+    },
+    "record": {
+      "win": 2930,
+      "loss": 2314,
+      "draw": 391
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2580,
+      "date": 1757767259
+    },
+    "lowest": {
+      "rating": 2042,
+      "date": 1776487026
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

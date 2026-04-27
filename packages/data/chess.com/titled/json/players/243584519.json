@@ -1,0 +1,66 @@
+{
+  "player_id": 243584519,
+  "@id": "https://api.chess.com/pub/player/blindov",
+  "url": "https://www.chess.com/member/Blindov",
+  "username": "blindov",
+  "title": "IM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776589328,
+  "joined": 1676058464,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2787,
+      "date": 1776156620,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2964,
+      "date": 1754953584,
+      "game": "https://www.chess.com/game/live/123027640873"
+    },
+    "record": {
+      "win": 1138,
+      "loss": 1054,
+      "draw": 142
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2789,
+      "date": 1776589321,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2950,
+      "date": 1763588288,
+      "game": "https://www.chess.com/game/live/140473896084"
+    },
+    "record": {
+      "win": 2483,
+      "loss": 2244,
+      "draw": 454
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2752,
+      "date": 1766610564
+    },
+    "lowest": {
+      "rating": 2671,
+      "date": 1760018361
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

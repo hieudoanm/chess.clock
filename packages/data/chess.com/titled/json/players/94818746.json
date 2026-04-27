@@ -1,0 +1,79 @@
+{
+  "player_id": 94818746,
+  "@id": "https://api.chess.com/pub/player/zavgorodniy_sergiy",
+  "url": "https://www.chess.com/member/Zavgorodniy_Sergiy",
+  "name": "Sergiy Zavgorodniy",
+  "username": "zavgorodniy_sergiy",
+  "title": "IM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1775582336,
+  "joined": 1604330870,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2158,
+      "date": 1675274612,
+      "rd": 176
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2434,
+      "date": 1704570065,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1619021761,
+      "game": "https://www.chess.com/game/live/98306198249"
+    },
+    "record": {
+      "win": 163,
+      "loss": 210,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2693,
+      "date": 1775582330,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2819,
+      "date": 1770215895,
+      "game": "https://www.chess.com/game/live/101584997483"
+    },
+    "record": {
+      "win": 1398,
+      "loss": 1309,
+      "draw": 289
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2252,
+      "date": 1604330870
+    },
+    "lowest": {
+      "rating": 2252,
+      "date": 1604330870
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

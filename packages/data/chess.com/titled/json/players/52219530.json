@@ -1,0 +1,99 @@
+{
+  "player_id": 52219530,
+  "@id": "https://api.chess.com/pub/player/varacalli",
+  "url": "https://www.chess.com/member/varacalli",
+  "name": "Francisco Varacalli",
+  "username": "varacalli",
+  "title": "IM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "C.A.B.A",
+  "last_online": 1776553521,
+  "joined": 1542939896,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1581650496,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 8115,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2247,
+      "date": 1598204086,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1597512539,
+      "game": "https://www.chess.com/game/live/5302129394"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2617,
+      "date": 1776551857,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1732066599,
+      "game": "https://www.chess.com/game/live/116640041275"
+    },
+    "record": {
+      "win": 2356,
+      "loss": 2148,
+      "draw": 442
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2647,
+      "date": 1776553468,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2710,
+      "date": 1774983357,
+      "game": "https://www.chess.com/game/live/5349370811"
+    },
+    "record": {
+      "win": 1439,
+      "loss": 1356,
+      "draw": 286
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2545,
+      "date": 1765395962
+    },
+    "lowest": {
+      "rating": 2545,
+      "date": 1765395962
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

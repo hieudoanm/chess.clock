@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10597586.a9af4e9b.200x200o.a2a7f3dcd148.png",
+  "player_id": 10597586,
+  "@id": "https://api.chess.com/pub/player/lovinski",
+  "url": "https://www.chess.com/member/Lovinski",
+  "name": "Marcos Vinicius Torsani",
+  "username": "lovinski",
+  "title": "FM",
+  "followers": 641,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776548822,
+  "joined": 1359304517,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2273,
+      "date": 1687163293,
+      "rd": 204
+    },
+    "best": {
+      "rating": 2273,
+      "date": 1606135322,
+      "game": "https://www.chess.com/game/daily/256691666"
+    },
+    "record": {
+      "win": 33,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 18530,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1816,
+      "date": 1644272623,
+      "rd": 181
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1445238000,
+      "game": "https://www.chess.com/game/live/4898725505"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2423,
+      "date": 1660516942,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2508,
+      "date": 1629834316,
+      "game": "https://www.chess.com/game/live/24517869011"
+    },
+    "record": {
+      "win": 1266,
+      "loss": 1025,
+      "draw": 185
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2423,
+      "date": 1684883352,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1639869197,
+      "game": "https://www.chess.com/game/live/27193315683"
+    },
+    "record": {
+      "win": 4609,
+      "loss": 3748,
+      "draw": 675
+    }
+  },
+  "fide": 2253,
+  "tactics": {
+    "highest": {
+      "rating": 2720,
+      "date": 1760141567
+    },
+    "lowest": {
+      "rating": 2683,
+      "date": 1760141114
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

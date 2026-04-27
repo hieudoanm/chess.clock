@@ -1,0 +1,83 @@
+{
+  "player_id": 404129301,
+  "@id": "https://api.chess.com/pub/player/sigmaturtle2011",
+  "url": "https://www.chess.com/member/Sigmaturtle2011",
+  "username": "sigmaturtle2011",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1775443690,
+  "joined": 1732262677,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2374,
+      "date": 1771230586,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2387,
+      "date": 1750513584,
+      "game": "https://www.chess.com/game/live/143922439646"
+    },
+    "record": {
+      "win": 93,
+      "loss": 74,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2427,
+      "date": 1774421472,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1765890110,
+      "game": "https://www.chess.com/game/live/146786844150"
+    },
+    "record": {
+      "win": 384,
+      "loss": 418,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2382,
+      "date": 1774423725,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1750081741,
+      "game": "https://www.chess.com/game/live/139657342122"
+    },
+    "record": {
+      "win": 211,
+      "loss": 264,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2361,
+      "date": 1765531185
+    },
+    "lowest": {
+      "rating": 2127,
+      "date": 1758344064
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31516676.5a085e0e.200x200o.a05752f019b9.jpeg",
+  "player_id": 31516676,
+  "@id": "https://api.chess.com/pub/player/sahajgrover",
+  "url": "https://www.chess.com/member/SahajGrover",
+  "name": "Sahaj Grover",
+  "username": "sahajgrover",
+  "title": "GM",
+  "followers": 728,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776583231,
+  "joined": 1481349818,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1853,
+      "date": 1704528366,
+      "rd": 315
+    },
+    "best": {
+      "rating": 1853,
+      "date": 1549554005,
+      "game": "https://www.chess.com/game/daily/204350854"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 102382,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1752343139,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1586803364,
+      "game": "https://www.chess.com/game/live/146642600975"
+    },
+    "record": {
+      "win": 16,
+      "loss": 13,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2943,
+      "date": 1769723291,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2956,
+      "date": 1761057147,
+      "game": "https://www.chess.com/game/live/144794848264"
+    },
+    "record": {
+      "win": 1809,
+      "loss": 1603,
+      "draw": 172
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2802,
+      "date": 1776452794,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2881,
+      "date": 1749574742,
+      "game": "https://www.chess.com/game/live/154507605349"
+    },
+    "record": {
+      "win": 818,
+      "loss": 552,
+      "draw": 114
+    }
+  },
+  "fide": 2515,
+  "tactics": {
+    "highest": {
+      "rating": 2680,
+      "date": 1774440745
+    },
+    "lowest": {
+      "rating": 2354,
+      "date": 1772583317
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

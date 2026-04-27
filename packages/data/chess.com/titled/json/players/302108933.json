@@ -1,0 +1,103 @@
+{
+  "player_id": 302108933,
+  "@id": "https://api.chess.com/pub/player/gm_smith_morra",
+  "url": "https://www.chess.com/member/GM_Smith_Morra",
+  "username": "gm_smith_morra",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776502637,
+  "joined": 1690368762,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1018,
+      "date": 1776502602,
+      "rd": 347
+    },
+    "best": {
+      "rating": 1018,
+      "date": 1775988003,
+      "game": "https://www.chess.com/game/daily/956848143"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19254,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2211,
+      "date": 1775940694,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1775940694,
+      "game": "https://www.chess.com/game/live/167180654748"
+    },
+    "record": {
+      "win": 8,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2189,
+      "date": 1775938694,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2189,
+      "date": 1775938694,
+      "game": "https://www.chess.com/game/live/84633296209"
+    },
+    "record": {
+      "win": 35,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2231,
+      "date": 1776022194,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1776018919,
+      "game": "https://www.chess.com/game/live/167179317604"
+    },
+    "record": {
+      "win": 82,
+      "loss": 18,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2294,
+      "date": 1775898662
+    },
+    "lowest": {
+      "rating": 2294,
+      "date": 1775898662
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

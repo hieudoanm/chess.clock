@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72744400.d7bbdc9b.200x200o.62b49fee2eb2.jpeg",
+  "player_id": 72744400,
+  "@id": "https://api.chess.com/pub/player/homelesssteven",
+  "url": "https://www.chess.com/member/HomelessSteven",
+  "name": "Chess Master",
+  "username": "homelesssteven",
+  "title": "FM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1631789384,
+  "joined": 1582771558,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2235,
+      "date": 1633703741,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2246,
+      "date": 1629151583,
+      "game": "https://www.chess.com/game/live/22890069649"
+    },
+    "record": {
+      "win": 33,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2703,
+      "date": 1628894159,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1628892677,
+      "game": "https://www.chess.com/game/live/17968327081"
+    },
+    "record": {
+      "win": 722,
+      "loss": 353,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1631646415,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1621134112,
+      "game": "https://www.chess.com/game/live/18811871667"
+    },
+    "record": {
+      "win": 743,
+      "loss": 294,
+      "draw": 82
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1582771558
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1582771558
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

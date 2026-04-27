@@ -1,0 +1,74 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/29503822.ca33f348.200x200o.872cf1cf1136.jpeg",
+  "player_id": 29503822,
+  "@id": "https://api.chess.com/pub/player/nastya_rakhmangulova",
+  "url": "https://www.chess.com/member/Nastya_Rakhmangulova",
+  "name": "Anastasiya Rakhmangulova",
+  "username": "nastya_rakhmangulova",
+  "title": "WGM",
+  "followers": 237,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1769354041,
+  "joined": 1471345356,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nastya_rakhmangulova",
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nastya_rakhmangulova"
+    }
+  ],
+  "chess_bullet": {
+    "last": {
+      "rating": 2398,
+      "date": 1594464267,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1586799928,
+      "game": "https://www.chess.com/game/live/4819683670"
+    },
+    "record": {
+      "win": 283,
+      "loss": 260,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2350,
+      "date": 1730058372,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2790,
+      "date": 1573328665,
+      "game": "https://www.chess.com/game/live/4171391221"
+    },
+    "record": {
+      "win": 1152,
+      "loss": 1080,
+      "draw": 231
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2512,
+      "date": 1471345356
+    },
+    "lowest": {
+      "rating": 2512,
+      "date": 1471345356
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

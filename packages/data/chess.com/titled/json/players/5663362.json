@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5663362.681e4f35.200x200o.ab3b4997a075.jpeg",
+  "player_id": 5663362,
+  "@id": "https://api.chess.com/pub/player/jjosu",
+  "url": "https://www.chess.com/member/jjosu",
+  "name": "Joshua Sheng",
+  "username": "jjosu",
+  "title": "GM",
+  "followers": 312,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1776393706,
+  "joined": 1314077782,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2019,
+      "date": 1641505711,
+      "rd": 340
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1557305892,
+      "game": "https://www.chess.com/game/daily/223025706"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 42709,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2608,
+      "date": 1762748596,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2905,
+      "date": 1609792982,
+      "game": "https://www.chess.com/game/live/6154280579"
+    },
+    "record": {
+      "win": 42,
+      "loss": 9,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2975,
+      "date": 1743047925,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2984,
+      "date": 1736205632,
+      "game": "https://www.chess.com/game/live/120694211623"
+    },
+    "record": {
+      "win": 2274,
+      "loss": 1220,
+      "draw": 157
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2962,
+      "date": 1769919074,
+      "rd": 37
+    },
+    "best": {
+      "rating": 3006,
+      "date": 1722559128,
+      "game": "https://www.chess.com/game/live/44597401677"
+    },
+    "record": {
+      "win": 2549,
+      "loss": 1148,
+      "draw": 268
+    }
+  },
+  "fide": 2492,
+  "tactics": {
+    "highest": {
+      "rating": 2641,
+      "date": 1314077782
+    },
+    "lowest": {
+      "rating": 2641,
+      "date": 1314077782
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

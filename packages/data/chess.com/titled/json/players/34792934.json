@@ -1,0 +1,107 @@
+{
+  "player_id": 34792934,
+  "@id": "https://api.chess.com/pub/player/trickertiger",
+  "url": "https://www.chess.com/member/TrickerTiger",
+  "username": "trickertiger",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776532859,
+  "joined": 1492256584,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1480,
+      "date": 1761913106,
+      "rd": 273
+    },
+    "best": {
+      "rating": 1480,
+      "date": 1492700410,
+      "game": "https://www.chess.com/game/daily/162812428"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 32726,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2577,
+      "date": 1770676397,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1769259642,
+      "game": "https://www.chess.com/game/live/117545937769"
+    },
+    "record": {
+      "win": 774,
+      "loss": 201,
+      "draw": 74
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2545,
+      "date": 1762289789,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1762289552,
+      "game": "https://www.chess.com/game/live/145122221706"
+    },
+    "record": {
+      "win": 921,
+      "loss": 700,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2804,
+      "date": 1776193383,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1768088561,
+      "game": "https://www.chess.com/game/live/148106904448"
+    },
+    "record": {
+      "win": 1253,
+      "loss": 835,
+      "draw": 146
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2502,
+      "date": 1772836836
+    },
+    "lowest": {
+      "rating": 2026,
+      "date": 1762039301
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    },
+    "daily": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "player_id": 48726880,
+  "@id": "https://api.chess.com/pub/player/tayson_7",
+  "url": "https://www.chess.com/member/Tayson_7",
+  "name": "Mukhammadali Abdurakhmonov",
+  "username": "tayson_7",
+  "title": "FM",
+  "followers": 79,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1632349831,
+  "joined": 1534154701,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1765,
+      "date": 1628584115,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1997,
+      "date": 1571401980,
+      "game": "https://www.chess.com/game/daily/239711488"
+    },
+    "record": {
+      "win": 14,
+      "loss": 7,
+      "draw": 1,
+      "time_per_move": 22864,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1638,
+      "date": 1577518802,
+      "rd": 250
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 22864,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2676,
+      "date": 1606064314,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1600621331,
+      "game": "https://www.chess.com/game/live/5472275077"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2769,
+      "date": 1632243149,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1631377381,
+      "game": "https://www.chess.com/game/live/25981881773"
+    },
+    "record": {
+      "win": 376,
+      "loss": 321,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2902,
+      "date": 1632155786,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2919,
+      "date": 1630863839,
+      "game": "https://www.chess.com/game/live/5010846640"
+    },
+    "record": {
+      "win": 2027,
+      "loss": 1903,
+      "draw": 479
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1534154701
+    },
+    "lowest": {
+      "rating": 2553,
+      "date": 1534154701
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

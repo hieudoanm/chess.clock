@@ -1,0 +1,85 @@
+{
+  "player_id": 91305592,
+  "@id": "https://api.chess.com/pub/player/ruprecht_der_knecht",
+  "url": "https://www.chess.com/member/Ruprecht_der_Knecht",
+  "name": "Andrej Dubkov",
+  "username": "ruprecht_der_knecht",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Mainz",
+  "last_online": 1776513096,
+  "joined": 1600209898,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2471,
+      "date": 1679486182,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1679485584,
+      "game": "https://www.chess.com/game/live/73224994473"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2471,
+      "date": 1679486605,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1679486387,
+      "game": "https://www.chess.com/game/live/73225506963"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2483,
+      "date": 1776513058,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1600783486,
+      "game": "https://www.chess.com/game/live/5456493577"
+    },
+    "record": {
+      "win": 439,
+      "loss": 498,
+      "draw": 129
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1779,
+      "date": 1600209898
+    },
+    "lowest": {
+      "rating": 1779,
+      "date": 1600209898
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

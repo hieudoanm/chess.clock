@@ -1,0 +1,104 @@
+{
+  "player_id": 19843602,
+  "@id": "https://api.chess.com/pub/player/benny_aizenberg",
+  "url": "https://www.chess.com/member/benny_aizenberg",
+  "name": "Benny Aizenberg",
+  "username": "benny_aizenberg",
+  "title": "IM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776514666,
+  "joined": 1416663180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1142,
+      "date": 1701983552,
+      "rd": 145
+    },
+    "best": {
+      "rating": 1333,
+      "date": 1506493837,
+      "game": "https://www.chess.com/game/daily/175031718"
+    },
+    "record": {
+      "win": 22,
+      "loss": 12,
+      "draw": 0,
+      "time_per_move": 16429,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1766866923,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1676913440,
+      "game": "https://www.chess.com/game/live/70651302665"
+    },
+    "record": {
+      "win": 46,
+      "loss": 19,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2375,
+      "date": 1702133227,
+      "rd": 217
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1672779047,
+      "game": "https://www.chess.com/game/live/3648371548"
+    },
+    "record": {
+      "win": 38,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2621,
+      "date": 1768160029,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2729,
+      "date": 1686090238,
+      "game": "https://www.chess.com/game/live/77405583643"
+    },
+    "record": {
+      "win": 704,
+      "loss": 544,
+      "draw": 71
+    }
+  },
+  "fide": 2375,
+  "tactics": {
+    "highest": {
+      "rating": 2743,
+      "date": 1416663180
+    },
+    "lowest": {
+      "rating": 2743,
+      "date": 1416663180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": 2131449,
+  "@id": "https://api.chess.com/pub/player/palosteden",
+  "url": "https://www.chess.com/member/palosteden",
+  "name": "Luis Sosa",
+  "username": "palosteden",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/PR",
+  "location": "Trani",
+  "last_online": 1630599451,
+  "joined": 1251647517,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1464326082,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 2723,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1785,
+      "date": 1537290712,
+      "rd": 90
+    },
+    "best": {
+      "rating": 1702,
+      "date": 1414998900,
+      "game": "https://www.chess.com/game/live/1008829543"
+    },
+    "record": {
+      "win": 257,
+      "loss": 232,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1994,
+      "date": 1620117103,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2022,
+      "date": 1619735465,
+      "game": "https://www.chess.com/game/live/1093028262"
+    },
+    "record": {
+      "win": 811,
+      "loss": 641,
+      "draw": 36
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1251647517
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1251647517
+    }
+  },
+  "puzzle_rush": {}
+}

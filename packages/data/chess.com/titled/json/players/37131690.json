@@ -1,0 +1,82 @@
+{
+  "player_id": 37131690,
+  "@id": "https://api.chess.com/pub/player/nhdoug",
+  "url": "https://www.chess.com/member/NHdoug",
+  "name": "Doug Grant",
+  "username": "nhdoug",
+  "title": "NM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New Hampshire",
+  "last_online": 1630433973,
+  "joined": 1500408921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2262,
+      "date": 1688150256,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1610677759,
+      "game": "https://www.chess.com/game/daily/319417706"
+    },
+    "record": {
+      "win": 63,
+      "loss": 12,
+      "draw": 13,
+      "time_per_move": 51492,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1617642820,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1610747143,
+      "game": "https://www.chess.com/game/live/6146270838"
+    },
+    "record": {
+      "win": 40,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1894,
+      "date": 1630461562,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2084,
+      "date": 1539302624,
+      "game": "https://www.chess.com/game/live/3136626437"
+    },
+    "record": {
+      "win": 213,
+      "loss": 198,
+      "draw": 30
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1500408921
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1500408921
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,59 @@
+{
+  "player_id": 13427204,
+  "@id": "https://api.chess.com/pub/player/superboemer",
+  "url": "https://www.chess.com/member/Superboemer",
+  "name": "Rene Hennipman",
+  "username": "superboemer",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Amsterdam",
+  "last_online": 1403411576,
+  "joined": 1378483527,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1706786994,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 162770,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1705,
+      "date": 1403438760,
+      "rd": 35
+    },
+    "best": {
+      "rating": 1995,
+      "date": 1390572326,
+      "game": "https://www.chess.com/game/live/721210268"
+    },
+    "record": {
+      "win": 310,
+      "loss": 223,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1378483527
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1378483527
+    }
+  },
+  "puzzle_rush": {}
+}

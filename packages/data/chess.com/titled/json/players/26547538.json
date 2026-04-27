@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26547538.956d776d.200x200o.d6f9e13fc6ec.jpeg",
+  "player_id": 26547538,
+  "@id": "https://api.chess.com/pub/player/sim06",
+  "url": "https://www.chess.com/member/sim06",
+  "name": "Simon Fule",
+  "username": "sim06",
+  "title": "FM",
+  "followers": 85,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Cegl&eacute;d",
+  "last_online": 1775988298,
+  "joined": 1454744809,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 680,
+      "date": 1732224758,
+      "rd": 282
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1454744809,
+      "game": "https://www.chess.com/game/daily/706362067"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 154593,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2124,
+      "date": 1756215878,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1609691732,
+      "game": "https://www.chess.com/game/live/5957199684"
+    },
+    "record": {
+      "win": 72,
+      "loss": 34,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1740157909,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1722508174,
+      "game": "https://www.chess.com/game/live/85603751277"
+    },
+    "record": {
+      "win": 1331,
+      "loss": 1003,
+      "draw": 141
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1771598836,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1669921998,
+      "game": "https://www.chess.com/game/live/86455262845"
+    },
+    "record": {
+      "win": 969,
+      "loss": 628,
+      "draw": 165
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2789,
+      "date": 1757418502
+    },
+    "lowest": {
+      "rating": 2789,
+      "date": 1757418502
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

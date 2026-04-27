@@ -1,0 +1,102 @@
+{
+  "player_id": 217863347,
+  "@id": "https://api.chess.com/pub/player/alamukeja",
+  "url": "https://www.chess.com/member/alamukeja",
+  "username": "alamukeja",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/MO",
+  "last_online": 1773426588,
+  "joined": 1672311345,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1476,
+      "date": 1755013461,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1762,
+      "date": 1687140189,
+      "game": "https://www.chess.com/game/daily/524030799"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 23967,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2378,
+      "date": 1742401252,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1676482960,
+      "game": "https://www.chess.com/game/live/70221732045"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2253,
+      "date": 1773426485,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1718652718,
+      "game": "https://www.chess.com/game/live/106332408531"
+    },
+    "record": {
+      "win": 206,
+      "loss": 227,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1771610965,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2649,
+      "date": 1691424506,
+      "game": "https://www.chess.com/game/live/84102011533"
+    },
+    "record": {
+      "win": 2055,
+      "loss": 1934,
+      "draw": 366
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2379,
+      "date": 1771612391
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1771612314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

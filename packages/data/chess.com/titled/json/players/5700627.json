@@ -1,0 +1,71 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5700627.5a80778a.200x200o.38349282e3b5.jpeg",
+  "player_id": 5700627,
+  "@id": "https://api.chess.com/pub/player/gmyaz",
+  "url": "https://www.chess.com/member/GMYAZ",
+  "name": "Yasser Seirawan",
+  "username": "gmyaz",
+  "title": "GM",
+  "followers": 1059,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Amsterdam",
+  "last_online": 1776570160,
+  "joined": 1314649452,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1704280158,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 49,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2783,
+      "date": 1745113118,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2783,
+      "date": 1697757669,
+      "game": "https://www.chess.com/game/live/2064731779"
+    },
+    "record": {
+      "win": 249,
+      "loss": 151,
+      "draw": 31
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2506,
+      "date": 1764653283
+    },
+    "lowest": {
+      "rating": 2506,
+      "date": 1764653283
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    },
+    "daily": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

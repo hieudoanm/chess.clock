@@ -1,0 +1,103 @@
+{
+  "player_id": 32987962,
+  "@id": "https://api.chess.com/pub/player/evhen_taranenko",
+  "url": "https://www.chess.com/member/Evhen_Taranenko",
+  "name": "Evgueniy Taranenko",
+  "username": "evhen_taranenko",
+  "title": "NM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1712279438,
+  "joined": 1486426553,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1928,
+      "date": 1712329250,
+      "rd": 254
+    },
+    "best": {
+      "rating": 1928,
+      "date": 1676915844,
+      "game": "https://www.chess.com/game/daily/465315073"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 358731,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1364,
+      "date": 1700678169,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2385,
+      "date": 1626374279,
+      "game": "https://www.chess.com/game/live/42022208253"
+    },
+    "record": {
+      "win": 22,
+      "loss": 57,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2067,
+      "date": 1697134313,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1613410981,
+      "game": "https://www.chess.com/game/live/36379865387"
+    },
+    "record": {
+      "win": 43,
+      "loss": 51,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2898,
+      "date": 1711799008,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2920,
+      "date": 1711093886,
+      "game": "https://www.chess.com/game/live/104832631027"
+    },
+    "record": {
+      "win": 1145,
+      "loss": 1067,
+      "draw": 287
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1536,
+      "date": 1486426553
+    },
+    "lowest": {
+      "rating": 1536,
+      "date": 1486426553
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 20,
+      "score": 17
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "player_id": 67468436,
+  "@id": "https://api.chess.com/pub/player/demyan7777",
+  "url": "https://www.chess.com/member/Demyan7777",
+  "name": "Oleg Verbytski",
+  "username": "demyan7777",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776596006,
+  "joined": 1572739671,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1537,
+      "date": 1762203291,
+      "rd": 115
+    },
+    "best": {
+      "rating": 1537,
+      "date": 1626963923,
+      "game": "https://www.chess.com/game/daily/329728116"
+    },
+    "record": {
+      "win": 16,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 32609,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1412,
+      "date": 1627482169,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1412,
+      "date": 1627482169,
+      "game": "https://www.chess.com/game/daily/323786802"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32609,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2092,
+      "date": 1762174268,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1910,
+      "date": 1759698422,
+      "game": "https://www.chess.com/game/live/7847751693"
+    },
+    "record": {
+      "win": 126,
+      "loss": 58,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2110,
+      "date": 1765057228,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2119,
+      "date": 1762284225,
+      "game": "https://www.chess.com/game/live/145077809684"
+    },
+    "record": {
+      "win": 37,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2473,
+      "date": 1776541639,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1775581867,
+      "game": "https://www.chess.com/game/live/159610052341"
+    },
+    "record": {
+      "win": 384,
+      "loss": 321,
+      "draw": 58
+    }
+  },
+  "fide": 2092,
+  "tactics": {
+    "highest": {
+      "rating": 2380,
+      "date": 1572739671
+    },
+    "lowest": {
+      "rating": 2380,
+      "date": 1572739671
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

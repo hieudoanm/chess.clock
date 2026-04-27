@@ -1,0 +1,83 @@
+{
+  "player_id": 19192946,
+  "@id": "https://api.chess.com/pub/player/sammalvuo",
+  "url": "https://www.chess.com/member/Sammalvuo",
+  "name": "Tapani Sammalvuo",
+  "username": "sammalvuo",
+  "title": "IM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/FI",
+  "location": "Vantaa",
+  "last_online": 1773939228,
+  "joined": 1412609468,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1706779702,
+      "rd": 183
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1412609468,
+      "game": "https://www.chess.com/game/daily/465629675"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 14221,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2380,
+      "date": 1771665769,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1727958939,
+      "game": "https://www.chess.com/game/live/164995251456"
+    },
+    "record": {
+      "win": 7,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2616,
+      "date": 1773679251,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1773679251,
+      "game": "https://www.chess.com/game/live/165456727792"
+    },
+    "record": {
+      "win": 234,
+      "loss": 88,
+      "draw": 20
+    }
+  },
+  "fide": 2370,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1412609468
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1412609468
+    }
+  },
+  "puzzle_rush": {}
+}

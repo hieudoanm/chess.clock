@@ -1,0 +1,85 @@
+{
+  "player_id": 22180522,
+  "@id": "https://api.chess.com/pub/player/mr_nimzo",
+  "url": "https://www.chess.com/member/Mr_Nimzo",
+  "name": "Sheikh Nasir Ahmed",
+  "username": "mr_nimzo",
+  "title": "FM",
+  "followers": 394,
+  "country": "https://api.chess.com/pub/country/BD",
+  "location": "Dhaka",
+  "last_online": 1776534016,
+  "joined": 1430351688,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1969,
+      "date": 1604146657,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1992,
+      "date": 1604142583,
+      "game": "https://www.chess.com/game/live/5663268287"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2512,
+      "date": 1743859965,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1591947588,
+      "game": "https://www.chess.com/game/live/4163337379"
+    },
+    "record": {
+      "win": 3140,
+      "loss": 3149,
+      "draw": 320
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2638,
+      "date": 1767503948,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1757689264,
+      "game": "https://www.chess.com/game/live/33674949809"
+    },
+    "record": {
+      "win": 5815,
+      "loss": 6238,
+      "draw": 791
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2687,
+      "date": 1766971698
+    },
+    "lowest": {
+      "rating": 2582,
+      "date": 1766879966
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

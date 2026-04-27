@@ -1,0 +1,102 @@
+{
+  "player_id": 13196132,
+  "@id": "https://api.chess.com/pub/player/achilleheel",
+  "url": "https://www.chess.com/member/AchilleHeel",
+  "username": "achilleheel",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776346822,
+  "joined": 1376862557,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1174,
+      "date": 1706785445,
+      "rd": 270
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1376862557,
+      "game": "https://www.chess.com/game/daily/442640543"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 48205,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 776,
+      "date": 1770920112,
+      "rd": 240
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1486220821,
+      "game": "https://www.chess.com/game/live/164598509710"
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2230,
+      "date": 1609972774,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1609972104,
+      "game": "https://www.chess.com/game/live/1944820872"
+    },
+    "record": {
+      "win": 31,
+      "loss": 24,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1775683236,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1729677806,
+      "game": "https://www.chess.com/game/live/4977834483"
+    },
+    "record": {
+      "win": 2811,
+      "loss": 1776,
+      "draw": 470
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2788,
+      "date": 1767913077
+    },
+    "lowest": {
+      "rating": 2707,
+      "date": 1757109505
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

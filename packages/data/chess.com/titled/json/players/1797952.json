@@ -1,0 +1,97 @@
+{
+  "player_id": 1797952,
+  "@id": "https://api.chess.com/pub/player/philofive",
+  "url": "https://www.chess.com/member/Philofive",
+  "username": "philofive",
+  "title": "FM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1752829908,
+  "joined": 1235996654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2209,
+      "date": 1701965657,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1395664015,
+      "game": "https://www.chess.com/game/daily/85659584"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 27698,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1543873740,
+      "rd": 197
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1543873740,
+      "game": "https://www.chess.com/game/live/3265274076"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2489,
+      "date": 1513752497,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2446,
+      "date": 1376574266,
+      "game": "https://www.chess.com/game/live/943929917"
+    },
+    "record": {
+      "win": 4051,
+      "loss": 1603,
+      "draw": 306
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2331,
+      "date": 1557473105,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1497172641,
+      "game": "https://www.chess.com/game/live/2032979082"
+    },
+    "record": {
+      "win": 9723,
+      "loss": 5263,
+      "draw": 1610
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2330,
+      "date": 1235996654
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1235996654
+    }
+  },
+  "puzzle_rush": {}
+}

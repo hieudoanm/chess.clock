@@ -1,0 +1,99 @@
+{
+  "player_id": 8540836,
+  "@id": "https://api.chess.com/pub/player/mengjane",
+  "url": "https://www.chess.com/member/mengjane",
+  "name": "Mengjie Qiu",
+  "username": "mengjane",
+  "title": "WIM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/CN",
+  "location": "Hangzhou",
+  "last_online": 1773235979,
+  "joined": 1344932266,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1067,
+      "date": 1594186116,
+      "rd": 248
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 18885,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1749132644,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2153,
+      "date": 1749127122,
+      "game": "https://www.chess.com/game/live/139241265342"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1593728258,
+      "rd": 152
+    },
+    "best": {
+      "rating": 2173,
+      "date": 1531337128,
+      "game": "https://www.chess.com/game/live/2933651958"
+    },
+    "record": {
+      "win": 20,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2366,
+      "date": 1749147679,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1749044761,
+      "game": "https://www.chess.com/game/live/139208434922"
+    },
+    "record": {
+      "win": 171,
+      "loss": 120,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2177,
+      "date": 1344932266
+    },
+    "lowest": {
+      "rating": 2177,
+      "date": 1344932266
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

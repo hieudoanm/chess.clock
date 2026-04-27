@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49629512.db0d2430.200x200o.1786ecae50e5.jpeg",
+  "player_id": 49629512,
+  "@id": "https://api.chess.com/pub/player/lemayvega",
+  "url": "https://www.chess.com/member/lemayvega",
+  "username": "lemayvega",
+  "title": "FM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/CU",
+  "last_online": 1773780280,
+  "joined": 1536636345,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2386,
+      "date": 1740191262,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1692405902,
+      "game": "https://www.chess.com/game/live/86150306065"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2304,
+      "date": 1770331270,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1752185480,
+      "game": "https://www.chess.com/game/live/140556332256"
+    },
+    "record": {
+      "win": 1130,
+      "loss": 899,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1761146175,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1668300856,
+      "game": "https://www.chess.com/game/live/62040600013"
+    },
+    "record": {
+      "win": 263,
+      "loss": 184,
+      "draw": 38
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2225,
+      "date": 1536636345
+    },
+    "lowest": {
+      "rating": 2225,
+      "date": 1536636345
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 37073130,
+  "@id": "https://api.chess.com/pub/player/euwe1234",
+  "url": "https://www.chess.com/member/Euwe1234",
+  "username": "euwe1234",
+  "title": "IM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776341463,
+  "joined": 1500206023,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1189,
+      "date": 1698157245,
+      "rd": 255
+    },
+    "best": {
+      "rating": 1400,
+      "date": 1500553208,
+      "game": "https://www.chess.com/game/daily/394550621"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 21411,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2475,
+      "date": 1650863175,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1649174101,
+      "game": "https://www.chess.com/game/live/42549566015"
+    },
+    "record": {
+      "win": 56,
+      "loss": 11,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1649155385,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2587,
+      "date": 1642612297,
+      "game": "https://www.chess.com/game/live/36351035763"
+    },
+    "record": {
+      "win": 74,
+      "loss": 32,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2338,
+      "date": 1649086498,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1606850709,
+      "game": "https://www.chess.com/game/live/5813050302"
+    },
+    "record": {
+      "win": 160,
+      "loss": 97,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1977,
+      "date": 1500206023
+    },
+    "lowest": {
+      "rating": 1977,
+      "date": 1500206023
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

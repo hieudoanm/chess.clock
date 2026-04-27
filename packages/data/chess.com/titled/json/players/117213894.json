@@ -1,0 +1,85 @@
+{
+  "player_id": 117213894,
+  "@id": "https://api.chess.com/pub/player/timothy-xie",
+  "url": "https://www.chess.com/member/Timothy-Xie",
+  "name": "Timothy Xie",
+  "username": "timothy-xie",
+  "title": "NM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776559043,
+  "joined": 1612050322,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2102,
+      "date": 1776100859,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1773414626,
+      "game": "https://www.chess.com/game/live/165642482028"
+    },
+    "record": {
+      "win": 20,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2533,
+      "date": 1776364537,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1749753260,
+      "game": "https://www.chess.com/game/live/144066614439"
+    },
+    "record": {
+      "win": 436,
+      "loss": 341,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2619,
+      "date": 1776353734,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1748360294,
+      "game": "https://www.chess.com/game/live/142673417949"
+    },
+    "record": {
+      "win": 13,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "fide": 2006,
+  "tactics": {
+    "highest": {
+      "rating": 2577,
+      "date": 1755991604
+    },
+    "lowest": {
+      "rating": 2390,
+      "date": 1761150963
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+    "player_id": 28159330,
+    "@id": "https://api.chess.com/pub/player/ebijo",
+    "url": "https://www.chess.com/member/ebijo",
+    "name": "irakli janiashvili",
+    "username": "ebijo",
+    "title": "FM",
+    "followers": 11,
+    "country": "https://api.chess.com/pub/country/GE",
+    "last_online": 1693517616,
+    "joined": 1463083270,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2460,
+            "date": 1589391587,
+            "rd": 38
+        },
+        "best": {
+            "rating": 2355,
+            "date": 1587631162,
+            "game": "https://www.chess.com/game/live/4759777067"
+        },
+        "record": {
+            "win": 73,
+            "loss": 61,
+            "draw": 9
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2415,
+            "date": 1693520137,
+            "rd": 73
+        },
+        "best": {
+            "rating": 2556,
+            "date": 1642782902,
+            "game": "https://www.chess.com/game/live/5450129751"
+        },
+        "record": {
+            "win": 775,
+            "loss": 790,
+            "draw": 114
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2923,
+            "date": 1618068080
+        },
+        "lowest": {
+            "rating": 1211,
+            "date": 1509705118
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 40,
+            "score": 38
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 62925986,
+  "@id": "https://api.chess.com/pub/player/g3god",
+  "url": "https://www.chess.com/member/g3god",
+  "name": "Sasikiran Krishnan",
+  "username": "g3god",
+  "title": "GM",
+  "followers": 409,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776550214,
+  "joined": 1562150230,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2736,
+      "date": 1776381024,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2829,
+      "date": 1602841140,
+      "game": "https://www.chess.com/game/live/147691801454"
+    },
+    "record": {
+      "win": 69,
+      "loss": 41,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2783,
+      "date": 1776549488,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1764653265,
+      "game": "https://www.chess.com/game/live/131071790217"
+    },
+    "record": {
+      "win": 2702,
+      "loss": 2866,
+      "draw": 367
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3069,
+      "date": 1776550021,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3093,
+      "date": 1774561098,
+      "game": "https://www.chess.com/game/live/167479319806"
+    },
+    "record": {
+      "win": 3378,
+      "loss": 3297,
+      "draw": 980
+    }
+  },
+  "fide": 2552,
+  "tactics": {
+    "highest": {
+      "rating": 2747,
+      "date": 1562150230
+    },
+    "lowest": {
+      "rating": 2747,
+      "date": 1562150230
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

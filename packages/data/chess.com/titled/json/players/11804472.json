@@ -1,0 +1,79 @@
+{
+  "player_id": 11804472,
+  "@id": "https://api.chess.com/pub/player/fmpr",
+  "url": "https://www.chess.com/member/fmpr",
+  "username": "fmpr",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CH",
+  "location": "Gen&egrave;ve",
+  "last_online": 1598304554,
+  "joined": 1368004529,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1971,
+      "date": 1516874405,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1971,
+      "date": 1516874405,
+      "game": "https://www.chess.com/game/live/1928312416"
+    },
+    "record": {
+      "win": 47,
+      "loss": 18,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2051,
+      "date": 1592637792,
+      "rd": 26
+    },
+    "best": {
+      "rating": 1908,
+      "date": 1592585485,
+      "game": "https://www.chess.com/game/live/4994732923"
+    },
+    "record": {
+      "win": 155,
+      "loss": 77,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2220,
+      "date": 1528791510,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1416289348,
+      "game": "https://www.chess.com/game/live/1485751715"
+    },
+    "record": {
+      "win": 10243,
+      "loss": 7220,
+      "draw": 1385
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2424,
+      "date": 1368004529
+    },
+    "lowest": {
+      "rating": 2424,
+      "date": 1368004529
+    }
+  },
+  "puzzle_rush": {}
+}

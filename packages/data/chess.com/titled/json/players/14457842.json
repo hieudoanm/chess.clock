@@ -1,0 +1,85 @@
+{
+  "player_id": 14457842,
+  "@id": "https://api.chess.com/pub/player/akretchetov",
+  "url": "https://www.chess.com/member/akretchetov",
+  "name": "Alexandre Kretchetov",
+  "username": "akretchetov",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "San Diego",
+  "last_online": 1772645791,
+  "joined": 1384736433,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2582,
+      "date": 1687526816,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1684486823,
+      "game": "https://www.chess.com/game/live/78231627825"
+    },
+    "record": {
+      "win": 18,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2243,
+      "date": 1686486365,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1684196029,
+      "game": "https://www.chess.com/game/live/78211849009"
+    },
+    "record": {
+      "win": 22,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2531,
+      "date": 1772645784,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1686327931,
+      "game": "https://www.chess.com/game/live/65917394163"
+    },
+    "record": {
+      "win": 2551,
+      "loss": 1865,
+      "draw": 544
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2543,
+      "date": 1757572241
+    },
+    "lowest": {
+      "rating": 2162,
+      "date": 1757573835
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 1,
+      "score": 0
+    }
+  }
+}

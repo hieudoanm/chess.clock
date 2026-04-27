@@ -1,0 +1,67 @@
+{
+  "player_id": 31713416,
+  "@id": "https://api.chess.com/pub/player/elpera",
+  "url": "https://www.chess.com/member/elpera",
+  "name": "Victor Ramirez Medina",
+  "username": "elpera",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/XA",
+  "last_online": 1776589507,
+  "joined": 1482095297,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2454,
+      "date": 1776553473,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1667339092,
+      "game": "https://www.chess.com/game/live/61077012569"
+    },
+    "record": {
+      "win": 518,
+      "loss": 614,
+      "draw": 55
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2653,
+      "date": 1766282454,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2665,
+      "date": 1694581714,
+      "game": "https://www.chess.com/game/live/62564953897"
+    },
+    "record": {
+      "win": 1922,
+      "loss": 1915,
+      "draw": 278
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2648,
+      "date": 1772119236
+    },
+    "lowest": {
+      "rating": 2570,
+      "date": 1772118590
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

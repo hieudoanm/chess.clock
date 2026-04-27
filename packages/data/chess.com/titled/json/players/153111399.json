@@ -1,0 +1,103 @@
+{
+  "player_id": 153111399,
+  "@id": "https://api.chess.com/pub/player/drevo7",
+  "url": "https://www.chess.com/member/drevo7",
+  "username": "drevo7",
+  "title": "WFM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776156651,
+  "joined": 1630497891,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1659,
+      "date": 1755762630,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1659,
+      "date": 1755762630,
+      "game": "https://www.chess.com/game/daily/838279006"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 146742,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2029,
+      "date": 1761036290,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2029,
+      "date": 1761036290,
+      "game": "https://www.chess.com/game/live/144546705922"
+    },
+    "record": {
+      "win": 12,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1900,
+      "date": 1734539348,
+      "rd": 80
+    },
+    "best": {
+      "rating": 1804,
+      "date": 1719475226,
+      "game": "https://www.chess.com/game/live/71235976445"
+    },
+    "record": {
+      "win": 38,
+      "loss": 38,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2069,
+      "date": 1771095532,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1763478905,
+      "game": "https://www.chess.com/game/live/145663916020"
+    },
+    "record": {
+      "win": 120,
+      "loss": 80,
+      "draw": 13
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2338,
+      "date": 1766403138
+    },
+    "lowest": {
+      "rating": 2288,
+      "date": 1766403175
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

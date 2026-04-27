@@ -1,0 +1,67 @@
+{
+  "player_id": 234560611,
+  "@id": "https://api.chess.com/pub/player/roughage",
+  "url": "https://www.chess.com/member/roughage",
+  "username": "roughage",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776568689,
+  "joined": 1674947789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2819,
+      "date": 1771978992,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2865,
+      "date": 1675305600,
+      "game": "https://www.chess.com/game/live/122863446535"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2493,
+      "date": 1728737961,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2617,
+      "date": 1675119980,
+      "game": "https://www.chess.com/game/live/70040277899"
+    },
+    "record": {
+      "win": 328,
+      "loss": 361,
+      "draw": 61
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2329,
+      "date": 1674947789
+    },
+    "lowest": {
+      "rating": 2329,
+      "date": 1674947789
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 19,
+      "score": 16
+    }
+  }
+}

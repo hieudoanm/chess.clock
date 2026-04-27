@@ -1,0 +1,103 @@
+{
+  "player_id": 38264456,
+  "@id": "https://api.chess.com/pub/player/paparama_1917",
+  "url": "https://www.chess.com/member/Paparama_1917",
+  "username": "paparama_1917",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776531032,
+  "joined": 1504197056,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1963,
+      "date": 1714053732,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1963,
+      "date": 1671667720,
+      "game": "https://www.chess.com/game/daily/437454119"
+    },
+    "record": {
+      "win": 25,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 28752,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1398,
+      "date": 1679641089,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1613212275,
+      "game": "https://www.chess.com/game/live/8847950429"
+    },
+    "record": {
+      "win": 3,
+      "loss": 11,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2615,
+      "date": 1653314891,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1650529950,
+      "game": "https://www.chess.com/game/live/3428984251"
+    },
+    "record": {
+      "win": 1307,
+      "loss": 841,
+      "draw": 133
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2695,
+      "date": 1734692907,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1575564171,
+      "game": "https://www.chess.com/game/live/3193867440"
+    },
+    "record": {
+      "win": 1019,
+      "loss": 817,
+      "draw": 231
+    }
+  },
+  "fide": 2319,
+  "tactics": {
+    "highest": {
+      "rating": 2328,
+      "date": 1771393406
+    },
+    "lowest": {
+      "rating": 2191,
+      "date": 1758193785
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

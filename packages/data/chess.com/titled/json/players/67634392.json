@@ -1,0 +1,122 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/67634392.002da493.200x200o.f301bfe8204b.jpeg",
+  "player_id": 67634392,
+  "@id": "https://api.chess.com/pub/player/maltense",
+  "url": "https://www.chess.com/member/maltense",
+  "username": "maltense",
+  "title": "WCM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776593000,
+  "joined": 1573070135,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1410,
+      "date": 1775762546,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1477,
+      "date": 1765469414,
+      "game": "https://www.chess.com/game/daily/863422633"
+    },
+    "record": {
+      "win": 47,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 31450,
+      "timeout_percent": 100
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 545,
+      "date": 1756222589,
+      "rd": 264
+    },
+    "best": {
+      "rating": 800,
+      "date": 1573070135,
+      "game": "https://www.chess.com/game/daily/849737604"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 31450,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2261,
+      "date": 1770913806,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1766495574,
+      "game": "https://www.chess.com/game/live/147075619254"
+    },
+    "record": {
+      "win": 264,
+      "loss": 134,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2289,
+      "date": 1776592603,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1776012842,
+      "game": "https://www.chess.com/game/live/165363048746"
+    },
+    "record": {
+      "win": 4441,
+      "loss": 3944,
+      "draw": 339
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2237,
+      "date": 1773675729,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1767635576,
+      "game": "https://www.chess.com/game/live/145903055292"
+    },
+    "record": {
+      "win": 430,
+      "loss": 276,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1755865984
+    },
+    "lowest": {
+      "rating": 2031,
+      "date": 1772903943
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

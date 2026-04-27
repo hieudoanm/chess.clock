@@ -1,0 +1,69 @@
+{
+  "player_id": 2178221,
+  "@id": "https://api.chess.com/pub/player/topce",
+  "url": "https://www.chess.com/member/topce",
+  "name": "Slobodan Filipovic",
+  "username": "topce",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/ME",
+  "location": "Podgorica",
+  "last_online": 1776455471,
+  "joined": 1253557290,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2515,
+      "date": 1741952652,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1730476074,
+      "game": "https://www.chess.com/game/live/122493885855"
+    },
+    "record": {
+      "win": 6392,
+      "loss": 7466,
+      "draw": 517
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2502,
+      "date": 1764748245,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1699999503,
+      "game": "https://www.chess.com/game/live/93111758699"
+    },
+    "record": {
+      "win": 6415,
+      "loss": 7269,
+      "draw": 864
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2388,
+      "date": 1761510820
+    },
+    "lowest": {
+      "rating": 2045,
+      "date": 1761538883
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 2860172,
+  "@id": "https://api.chess.com/pub/player/wanyaland",
+  "url": "https://www.chess.com/member/wanyaland",
+  "name": "Harold Wanyama",
+  "username": "wanyaland",
+  "title": "FM",
+  "followers": 311,
+  "country": "https://api.chess.com/pub/country/UG",
+  "last_online": 1776589927,
+  "joined": 1274802031,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1121,
+      "date": 1759854713,
+      "rd": 315
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1274802031,
+      "game": "https://www.chess.com/game/daily/649556207"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 115948,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2135,
+      "date": 1774367371,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1596191757,
+      "game": "https://www.chess.com/game/live/954407054"
+    },
+    "record": {
+      "win": 13,
+      "loss": 11,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1596182259,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1372154828,
+      "game": "https://www.chess.com/game/live/801371680"
+    },
+    "record": {
+      "win": 4,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2461,
+      "date": 1776589915,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2695,
+      "date": 1775578323,
+      "game": "https://www.chess.com/game/live/158402851963"
+    },
+    "record": {
+      "win": 7213,
+      "loss": 7019,
+      "draw": 680
+    }
+  },
+  "fide": 2265,
+  "tactics": {
+    "highest": {
+      "rating": 2378,
+      "date": 1772565859
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1775334488
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

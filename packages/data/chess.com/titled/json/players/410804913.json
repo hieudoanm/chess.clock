@@ -1,0 +1,104 @@
+{
+  "player_id": 410804913,
+  "@id": "https://api.chess.com/pub/player/swisshazy",
+  "url": "https://www.chess.com/member/SwissHazy",
+  "name": "Benedict Hasenohr",
+  "username": "swisshazy",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776491568,
+  "joined": 1734642718,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1602,
+      "date": 1775663022,
+      "rd": 348
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1773560115,
+      "game": "https://www.chess.com/game/daily/823721800"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2750,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2107,
+      "date": 1775542616,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1734956716,
+      "game": "https://www.chess.com/game/live/128692995609"
+    },
+    "record": {
+      "win": 26,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2299,
+      "date": 1771412123,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1735307658,
+      "game": "https://www.chess.com/game/live/129046367689"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2459,
+      "date": 1774729392,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1740077230,
+      "game": "https://www.chess.com/game/live/165300345840"
+    },
+    "record": {
+      "win": 144,
+      "loss": 101,
+      "draw": 16
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2808,
+      "date": 1776080008
+    },
+    "lowest": {
+      "rating": 2518,
+      "date": 1766926290
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

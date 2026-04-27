@@ -1,0 +1,85 @@
+{
+  "player_id": 167019315,
+  "@id": "https://api.chess.com/pub/player/noahritzerveld",
+  "url": "https://www.chess.com/member/NoahRitzerveld",
+  "name": "Noah Ritzerveld",
+  "username": "noahritzerveld",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776088658,
+  "joined": 1640956454,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1730644139,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1730641383,
+      "game": "https://www.chess.com/game/live/36590991341"
+    },
+    "record": {
+      "win": 14,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2092,
+      "date": 1762597943,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1762596780,
+      "game": "https://www.chess.com/game/live/85477797645"
+    },
+    "record": {
+      "win": 117,
+      "loss": 66,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2247,
+      "date": 1762598900,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1734101911,
+      "game": "https://www.chess.com/game/live/93369686495"
+    },
+    "record": {
+      "win": 43,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2370,
+      "date": 1759256411
+    },
+    "lowest": {
+      "rating": 2370,
+      "date": 1759256411
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

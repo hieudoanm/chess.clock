@@ -1,0 +1,84 @@
+{
+  "player_id": 75058908,
+  "@id": "https://api.chess.com/pub/player/corfuinchess",
+  "url": "https://www.chess.com/member/CorfuInChess",
+  "username": "corfuinchess",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776597868,
+  "joined": 1585569462,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2005,
+      "date": 1709969528,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1590169391,
+      "game": "https://www.chess.com/game/live/4896882528"
+    },
+    "record": {
+      "win": 6,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1591010575,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1876,
+      "date": 1588359311,
+      "game": "https://www.chess.com/game/live/4797815805"
+    },
+    "record": {
+      "win": 10,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2347,
+      "date": 1720942026,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1703588772,
+      "game": "https://www.chess.com/game/live/5295394022"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1946,
+      "date": 1585569462
+    },
+    "lowest": {
+      "rating": 1946,
+      "date": 1585569462
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 2611315,
+  "@id": "https://api.chess.com/pub/player/scottt",
+  "url": "https://www.chess.com/member/ScottT",
+  "name": "Scott Treiman",
+  "username": "scottt",
+  "title": "NM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775274660,
+  "joined": 1267829092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1702676262,
+      "rd": 186
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1280703018,
+      "game": "https://www.chess.com/game/daily/31161797"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 128831,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2500,
+      "date": 1395645410,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1386542292,
+      "game": "https://www.chess.com/game/live/666990924"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1395645410,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1389924446,
+      "game": "https://www.chess.com/game/live/701455082"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2000,
+      "date": 1395645410,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1380858580,
+      "game": "https://www.chess.com/game/live/291638673"
+    },
+    "record": {
+      "win": 44,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2289,
+      "date": 1267829092
+    },
+    "lowest": {
+      "rating": 2289,
+      "date": 1267829092
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

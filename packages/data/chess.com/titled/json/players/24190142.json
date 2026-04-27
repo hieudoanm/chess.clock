@@ -1,0 +1,68 @@
+{
+  "player_id": 24190142,
+  "@id": "https://api.chess.com/pub/player/martinfrolik",
+  "url": "https://www.chess.com/member/martinfrolik",
+  "name": "Martin Frolik",
+  "username": "martinfrolik",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1770481110,
+  "joined": 1442691495,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2335,
+      "date": 1632688672,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1614543429,
+      "game": "https://www.chess.com/game/live/8281494781"
+    },
+    "record": {
+      "win": 10,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2232,
+      "date": 1765661448,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1760726437,
+      "game": "https://www.chess.com/game/live/8100346383"
+    },
+    "record": {
+      "win": 784,
+      "loss": 638,
+      "draw": 182
+    }
+  },
+  "fide": 2164,
+  "tactics": {
+    "highest": {
+      "rating": 2250,
+      "date": 1442691495
+    },
+    "lowest": {
+      "rating": 2250,
+      "date": 1442691495
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

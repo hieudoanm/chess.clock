@@ -1,0 +1,98 @@
+{
+  "player_id": 188737227,
+  "@id": "https://api.chess.com/pub/player/abc_xyz4744",
+  "url": "https://www.chess.com/member/abc_xyz4744",
+  "name": "Sankalp Kukreja",
+  "username": "abc_xyz4744",
+  "title": "CM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776425206,
+  "joined": 1656772079,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1470,
+      "date": 1744551495,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1128550,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1899,
+      "date": 1680070940,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1673377061,
+      "game": "https://www.chess.com/game/live/51387077171"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1776425198,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2707,
+      "date": 1766846128,
+      "game": "https://www.chess.com/game/live/147155054566"
+    },
+    "record": {
+      "win": 3621,
+      "loss": 3158,
+      "draw": 424
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2441,
+      "date": 1776256808,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1669134375,
+      "game": "https://www.chess.com/game/live/62872885845"
+    },
+    "record": {
+      "win": 99,
+      "loss": 102,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2236,
+      "date": 1656772079
+    },
+    "lowest": {
+      "rating": 2236,
+      "date": 1656772079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

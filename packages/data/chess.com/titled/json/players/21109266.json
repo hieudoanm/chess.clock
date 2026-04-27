@@ -1,0 +1,85 @@
+{
+  "player_id": 21109266,
+  "@id": "https://api.chess.com/pub/player/pnepaul",
+  "url": "https://www.chess.com/member/PNEPaul",
+  "name": "Paul Burke",
+  "username": "pnepaul",
+  "title": "NM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Vancouver",
+  "last_online": 1776548893,
+  "joined": 1424034474,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1369,
+      "date": 1519082769,
+      "rd": 229
+    },
+    "best": {
+      "rating": 1432,
+      "date": 1519079207,
+      "game": "https://www.chess.com/game/live/2627769283"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1800,
+      "date": 1775770058,
+      "rd": 21
+    },
+    "best": {
+      "rating": 1928,
+      "date": 1775159808,
+      "game": "https://www.chess.com/game/live/112563075381"
+    },
+    "record": {
+      "win": 17455,
+      "loss": 15410,
+      "draw": 1617
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2035,
+      "date": 1776548872,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1579906998,
+      "game": "https://www.chess.com/game/live/41721667525"
+    },
+    "record": {
+      "win": 25869,
+      "loss": 24382,
+      "draw": 3293
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2259,
+      "date": 1424034474
+    },
+    "lowest": {
+      "rating": 2259,
+      "date": 1424034474
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 1,
+      "score": 0
+    }
+  }
+}

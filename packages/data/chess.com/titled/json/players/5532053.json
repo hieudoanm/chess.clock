@@ -1,0 +1,123 @@
+{
+  "player_id": 5532053,
+  "@id": "https://api.chess.com/pub/player/blitzcopter",
+  "url": "https://www.chess.com/member/blitzcopter",
+  "name": "Beilin Li",
+  "username": "blitzcopter",
+  "title": "NM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776021933,
+  "joined": 1312084248,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1775,
+      "date": 1740734891,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1473738915,
+      "game": "https://www.chess.com/game/daily/145412246"
+    },
+    "record": {
+      "win": 181,
+      "loss": 103,
+      "draw": 17,
+      "time_per_move": 89967,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1581,
+      "date": 1460750109,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1581,
+      "date": 1460750109,
+      "game": "https://www.chess.com/game/daily/130670216"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 89967,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1815,
+      "date": 1685164298,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1990,
+      "date": 1443113752,
+      "game": "https://www.chess.com/game/live/1102488033"
+    },
+    "record": {
+      "win": 97,
+      "loss": 85,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2305,
+      "date": 1741821513,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1734732564,
+      "game": "https://www.chess.com/game/live/128471554621"
+    },
+    "record": {
+      "win": 24553,
+      "loss": 21619,
+      "draw": 2358
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2334,
+      "date": 1761839871,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1485038917,
+      "game": "https://www.chess.com/game/live/122491545475"
+    },
+    "record": {
+      "win": 5865,
+      "loss": 5581,
+      "draw": 789
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2295,
+      "date": 1312084248
+    },
+    "lowest": {
+      "rating": 2295,
+      "date": 1312084248
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

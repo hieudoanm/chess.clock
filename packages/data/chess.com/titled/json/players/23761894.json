@@ -1,0 +1,105 @@
+{
+  "player_id": 23761894,
+  "@id": "https://api.chess.com/pub/player/zen-22",
+  "url": "https://www.chess.com/member/ZEN-22",
+  "name": "kamran SHIRAZI",
+  "username": "zen-22",
+  "title": "IM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Dieppe",
+  "last_online": 1739113631,
+  "joined": 1440156954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1728,
+      "date": 1462671551,
+      "rd": 338
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1457642776,
+      "game": "https://www.chess.com/game/daily/130243734"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 29656,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2421,
+      "date": 1590865418,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1590769367,
+      "game": "https://www.chess.com/game/live/4925454614"
+    },
+    "record": {
+      "win": 7,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2039,
+      "date": 1624117889,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1457226214,
+      "game": "https://www.chess.com/game/live/1496064499"
+    },
+    "record": {
+      "win": 46762,
+      "loss": 37911,
+      "draw": 2450
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2540,
+      "date": 1645570696,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1601368402,
+      "game": "https://www.chess.com/game/live/30220827481"
+    },
+    "record": {
+      "win": 9165,
+      "loss": 7453,
+      "draw": 1011
+    }
+  },
+  "fide": 2311,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1440156954
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1440156954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

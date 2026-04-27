@@ -1,0 +1,103 @@
+{
+  "player_id": 86817190,
+  "@id": "https://api.chess.com/pub/player/riddhi_07",
+  "url": "https://www.chess.com/member/riddhi_07",
+  "name": "Riddhi Patel",
+  "username": "riddhi_07",
+  "title": "WCM",
+  "followers": 96,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776593870,
+  "joined": 1594883153,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 945,
+      "date": 1762181521,
+      "rd": 145
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1594883153,
+      "game": "https://www.chess.com/game/daily/366925485"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 174208,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1776344274,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1776344274,
+      "game": "https://www.chess.com/game/live/167389553744"
+    },
+    "record": {
+      "win": 26,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2059,
+      "date": 1776593858,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1748948535,
+      "game": "https://www.chess.com/game/live/51701390669"
+    },
+    "record": {
+      "win": 721,
+      "loss": 635,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1990,
+      "date": 1776318238,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1733230812,
+      "game": "https://www.chess.com/game/live/6354640176"
+    },
+    "record": {
+      "win": 152,
+      "loss": 175,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2131,
+      "date": 1763180987
+    },
+    "lowest": {
+      "rating": 1901,
+      "date": 1760150681
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

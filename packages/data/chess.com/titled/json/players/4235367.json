@@ -1,0 +1,81 @@
+{
+  "player_id": 4235367,
+  "@id": "https://api.chess.com/pub/player/perodjetlic",
+  "url": "https://www.chess.com/member/perodjetlic",
+  "username": "perodjetlic",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776555356,
+  "joined": 1289420509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1289429154
+    },
+    "best": {
+      "rating": 1617,
+      "date": 1289429154,
+      "game": "https://www.chess.com/game/live/66476765"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2200,
+      "date": 1607171469
+    },
+    "best": {
+      "rating": 2046,
+      "date": 1478994099,
+      "game": "https://www.chess.com/game/live/1811195962"
+    },
+    "record": {
+      "win": 836,
+      "loss": 787,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2170,
+      "date": 1776555347,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1759441109,
+      "game": "https://www.chess.com/game/live/128750575043"
+    },
+    "record": {
+      "win": 12431,
+      "loss": 11142,
+      "draw": 1186
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2186,
+      "date": 1289420509
+    },
+    "lowest": {
+      "rating": 2186,
+      "date": 1289420509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

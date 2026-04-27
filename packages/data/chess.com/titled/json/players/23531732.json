@@ -1,0 +1,119 @@
+{
+  "player_id": 23531732,
+  "@id": "https://api.chess.com/pub/player/kopeisk81",
+  "url": "https://www.chess.com/member/kopeisk81",
+  "name": "Yulia Movsesian",
+  "username": "kopeisk81",
+  "title": "WGM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "location": "Prague",
+  "last_online": 1776509884,
+  "joined": 1438709868,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 768,
+      "date": 1743484499,
+      "rd": 266
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1438709868,
+      "game": "https://www.chess.com/game/daily/463212009"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13361,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1743484499,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13361,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2109,
+      "date": 1766330949,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1598189326,
+      "game": "https://www.chess.com/game/live/5338708028"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2259,
+      "date": 1592936383,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2302,
+      "date": 1592928562,
+      "game": "https://www.chess.com/game/live/5045921201"
+    },
+    "record": {
+      "win": 9,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2357,
+      "date": 1766330486,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1588500264,
+      "game": "https://www.chess.com/game/live/4804733035"
+    },
+    "record": {
+      "win": 152,
+      "loss": 50,
+      "draw": 10
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2307,
+      "date": 1438709868
+    },
+    "lowest": {
+      "rating": 2307,
+      "date": 1438709868
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

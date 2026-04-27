@@ -1,0 +1,122 @@
+{
+  "player_id": 58866306,
+  "@id": "https://api.chess.com/pub/player/lia_maria",
+  "url": "https://www.chess.com/member/Lia_Maria",
+  "name": "Lia-Alexandra Maria",
+  "username": "lia_maria",
+  "title": "WFM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Brasov",
+  "last_online": 1776539315,
+  "joined": 1553285458,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1408,
+      "date": 1744717228,
+      "rd": 261
+    },
+    "best": {
+      "rating": 1408,
+      "date": 1744717228,
+      "game": "https://www.chess.com/game/daily/793869113"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 69418,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1582720732,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 69418,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2101,
+      "date": 1770839591
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1770837932,
+      "game": "https://www.chess.com/game/live/26757037353"
+    },
+    "record": {
+      "win": 25,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2183,
+      "date": 1763470625,
+      "rd": 149
+    },
+    "best": {
+      "rating": 2183,
+      "date": 1763470625,
+      "game": "https://www.chess.com/game/live/145659395372"
+    },
+    "record": {
+      "win": 308,
+      "loss": 303,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2258,
+      "date": 1774206797,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1774118935,
+      "game": "https://www.chess.com/game/live/128441667885"
+    },
+    "record": {
+      "win": 533,
+      "loss": 484,
+      "draw": 45
+    }
+  },
+  "fide": 2101,
+  "tactics": {
+    "highest": {
+      "rating": 2560,
+      "date": 1771918622
+    },
+    "lowest": {
+      "rating": 2281,
+      "date": 1776518800
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    },
+    "daily": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

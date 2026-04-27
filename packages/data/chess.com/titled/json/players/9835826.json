@@ -1,0 +1,84 @@
+{
+  "player_id": 9835826,
+  "@id": "https://api.chess.com/pub/player/butterfly",
+  "url": "https://www.chess.com/member/Butterfly",
+  "name": "Bhakti Kulkarni",
+  "username": "butterfly",
+  "title": "IM",
+  "followers": 308,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1771307682,
+  "joined": 1354258018,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2182,
+      "date": 1634488931,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2461,
+      "date": 1589541889,
+      "game": "https://www.chess.com/game/live/4858979743"
+    },
+    "record": {
+      "win": 16,
+      "loss": 16,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2376,
+      "date": 1623006707,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1622385027,
+      "game": "https://www.chess.com/game/live/16122891027"
+    },
+    "record": {
+      "win": 21,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2469,
+      "date": 1723825046,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1653390404,
+      "game": "https://www.chess.com/game/live/4717006722"
+    },
+    "record": {
+      "win": 185,
+      "loss": 120,
+      "draw": 39
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2467,
+      "date": 1354258018
+    },
+    "lowest": {
+      "rating": 2467,
+      "date": 1354258018
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

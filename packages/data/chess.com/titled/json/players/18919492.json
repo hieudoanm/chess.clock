@@ -1,0 +1,116 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18919492.ec2333e9.200x200o.396712134cad.jpg",
+  "player_id": 18919492,
+  "@id": "https://api.chess.com/pub/player/fortitudine",
+  "url": "https://www.chess.com/member/Fortitudine",
+  "name": "Wellington Albuquerque Jr.",
+  "username": "fortitudine",
+  "title": "NM",
+  "followers": 3414,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Fortaleza",
+  "last_online": 1776576438,
+  "joined": 1410837584,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nmfortitudine",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nmfortitudine"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@fortitudine"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2270,
+      "date": 1746433702,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2270,
+      "date": 1714812768,
+      "game": "https://www.chess.com/game/daily/493482361"
+    },
+    "record": {
+      "win": 51,
+      "loss": 2,
+      "draw": 5,
+      "time_per_move": 201380,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2275,
+      "date": 1707180426,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1679328390,
+      "game": "https://www.chess.com/game/live/73063530275"
+    },
+    "record": {
+      "win": 47,
+      "loss": 21,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1775612374,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1734838394,
+      "game": "https://www.chess.com/game/live/5575654609"
+    },
+    "record": {
+      "win": 2474,
+      "loss": 1720,
+      "draw": 155
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2352,
+      "date": 1774140889,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1701216201,
+      "game": "https://www.chess.com/game/live/6354740383"
+    },
+    "record": {
+      "win": 710,
+      "loss": 676,
+      "draw": 140
+    }
+  },
+  "fide": 2219,
+  "tactics": {
+    "highest": {
+      "rating": 2654,
+      "date": 1769117571
+    },
+    "lowest": {
+      "rating": 2253,
+      "date": 1761089402
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 109,
+      "score": 106
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 27138918,
+  "@id": "https://api.chess.com/pub/player/7madman",
+  "url": "https://www.chess.com/member/7Madman",
+  "name": "Pascal Barzen",
+  "username": "7madman",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776332384,
+  "joined": 1457482870,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1709210237,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2706,
+      "date": 1773847717,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2854,
+      "date": 1639500725,
+      "game": "https://www.chess.com/game/live/3229153681"
+    },
+    "record": {
+      "win": 1717,
+      "loss": 1204,
+      "draw": 157
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1773847259,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1603135884,
+      "game": "https://www.chess.com/game/live/5849677414"
+    },
+    "record": {
+      "win": 881,
+      "loss": 599,
+      "draw": 137
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2076,
+      "date": 1457482870
+    },
+    "lowest": {
+      "rating": 2076,
+      "date": 1457482870
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

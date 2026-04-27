@@ -1,0 +1,124 @@
+{
+  "player_id": 14272338,
+  "@id": "https://api.chess.com/pub/player/emesebalogh",
+  "url": "https://www.chess.com/member/EmeseBalogh",
+  "name": "Emese Medvegyne Balogh",
+  "username": "emesebalogh",
+  "title": "WFM",
+  "followers": 132,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Budapest",
+  "last_online": 1774987192,
+  "joined": 1384001838,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1769,
+      "date": 1735521444,
+      "rd": 155
+    },
+    "best": {
+      "rating": 1952,
+      "date": 1450619198,
+      "game": "https://www.chess.com/game/daily/129358480"
+    },
+    "record": {
+      "win": 88,
+      "loss": 65,
+      "draw": 20,
+      "time_per_move": 32336,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1485,
+      "date": 1461568306,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1631,
+      "date": 1454692308,
+      "game": "https://www.chess.com/game/daily/128321814"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 32336,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1814,
+      "date": 1608484118,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2077,
+      "date": 1521399331,
+      "game": "https://www.chess.com/game/live/6014118935"
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2156,
+      "date": 1586946878,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1500580803,
+      "game": "https://www.chess.com/game/live/2214896607"
+    },
+    "record": {
+      "win": 3598,
+      "loss": 3173,
+      "draw": 217
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2091,
+      "date": 1771745422,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2108,
+      "date": 1519246730,
+      "game": "https://www.chess.com/game/live/1940248561"
+    },
+    "record": {
+      "win": 288,
+      "loss": 276,
+      "draw": 31
+    }
+  },
+  "fide": 2031,
+  "tactics": {
+    "highest": {
+      "rating": 2289,
+      "date": 1384001838
+    },
+    "lowest": {
+      "rating": 2289,
+      "date": 1384001838
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

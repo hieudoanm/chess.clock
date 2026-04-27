@@ -1,0 +1,83 @@
+{
+  "player_id": 57021978,
+  "@id": "https://api.chess.com/pub/player/mrvjk",
+  "url": "https://www.chess.com/member/MrVjk",
+  "username": "mrvjk",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1715379918,
+  "joined": 1549474219,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1713281622,
+      "rd": 326
+    },
+    "best": {
+      "rating": 1824,
+      "date": 1619557635,
+      "game": "https://www.chess.com/game/live/13291876339"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2513,
+      "date": 1700086091,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1698959327,
+      "game": "https://www.chess.com/game/live/93570543591"
+    },
+    "record": {
+      "win": 138,
+      "loss": 87,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2400,
+      "date": 1713281622,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1619561846,
+      "game": "https://www.chess.com/game/live/30654519297"
+    },
+    "record": {
+      "win": 138,
+      "loss": 126,
+      "draw": 27
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2161,
+      "date": 1549474219
+    },
+    "lowest": {
+      "rating": 2161,
+      "date": 1549474219
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

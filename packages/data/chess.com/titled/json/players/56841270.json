@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56841270.181a05da.200x200o.ad9a78f313bb.png",
+  "player_id": 56841270,
+  "@id": "https://api.chess.com/pub/player/jflup",
+  "url": "https://www.chess.com/member/jflup",
+  "name": "Jordi Fluvia Poyatos",
+  "username": "jflup",
+  "title": "IM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1773576263,
+  "joined": 1549099805,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jflup",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jflup"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1761121427,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1759043670,
+      "game": "https://www.chess.com/game/daily/868625153"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 26228,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2007,
+      "date": 1715622141,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1715622141,
+      "game": "https://www.chess.com/game/live/109360329709"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1635761198,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1635760319,
+      "game": "https://www.chess.com/game/live/29499001239"
+    },
+    "record": {
+      "win": 170,
+      "loss": 60,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2304,
+      "date": 1762465927,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2575,
+      "date": 1570805462,
+      "game": "https://www.chess.com/game/live/3696266170"
+    },
+    "record": {
+      "win": 724,
+      "loss": 455,
+      "draw": 77
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1549099805
+    },
+    "lowest": {
+      "rating": 2604,
+      "date": 1549099805
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "player_id": 13393560,
+  "@id": "https://api.chess.com/pub/player/c-25",
+  "url": "https://www.chess.com/member/C-25",
+  "username": "c-25",
+  "title": "GM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776265175,
+  "joined": 1378267844,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2299,
+      "date": 1592596878,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2193,
+      "date": 1549140118,
+      "game": "https://www.chess.com/game/live/3285413244"
+    },
+    "record": {
+      "win": 27,
+      "loss": 17,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2453,
+      "date": 1640080955,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2503,
+      "date": 1611859950,
+      "game": "https://www.chess.com/game/live/6376495682"
+    },
+    "record": {
+      "win": 268,
+      "loss": 210,
+      "draw": 41
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2344,
+      "date": 1378267844
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1378267844
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 56230258,
+  "@id": "https://api.chess.com/pub/player/neathanp",
+  "url": "https://www.chess.com/member/NeathanP",
+  "name": "Neathan Peter",
+  "username": "neathanp",
+  "title": "CM",
+  "followers": 116,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776511748,
+  "joined": 1547893751,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1122,
+      "date": 1759307332,
+      "rd": 240
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 313,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2064,
+      "date": 1742943526,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2051,
+      "date": 1716582381,
+      "game": "https://www.chess.com/game/live/112180185873"
+    },
+    "record": {
+      "win": 60,
+      "loss": 32,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2303,
+      "date": 1776105180,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2332,
+      "date": 1756216900,
+      "game": "https://www.chess.com/game/live/142357111782"
+    },
+    "record": {
+      "win": 144,
+      "loss": 69,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2129,
+      "date": 1776511720,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1755636980,
+      "game": "https://www.chess.com/game/live/133032536041"
+    },
+    "record": {
+      "win": 50,
+      "loss": 37,
+      "draw": 3
+    }
+  },
+  "fide": 1973,
+  "tactics": {
+    "highest": {
+      "rating": 2008,
+      "date": 1771081853
+    },
+    "lowest": {
+      "rating": 1951,
+      "date": 1771081750
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 475100114,
+  "@id": "https://api.chess.com/pub/player/catalanconquistador",
+  "url": "https://www.chess.com/member/CatalanConquistador",
+  "username": "catalanconquistador",
+  "title": "FM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776278633,
+  "joined": 1755386712,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2321,
+      "date": 1775077502,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1766107479,
+      "game": "https://www.chess.com/game/live/146895261958"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2752,
+      "date": 1776249123,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2820,
+      "date": 1776170061,
+      "game": "https://www.chess.com/game/live/166771335688"
+    },
+    "record": {
+      "win": 2559,
+      "loss": 2138,
+      "draw": 381
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1776044781,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1773445060,
+      "game": "https://www.chess.com/game/live/165695222880"
+    },
+    "record": {
+      "win": 1013,
+      "loss": 854,
+      "draw": 224
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2351,
+      "date": 1771407685
+    },
+    "lowest": {
+      "rating": 1053,
+      "date": 1755638233
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

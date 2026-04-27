@@ -1,0 +1,83 @@
+{
+  "player_id": 412563159,
+  "@id": "https://api.chess.com/pub/player/kingbaiano",
+  "url": "https://www.chess.com/member/KingBaiano",
+  "username": "kingbaiano",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/ID",
+  "last_online": 1776530947,
+  "joined": 1735173847,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2161,
+      "date": 1774895515,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1747531001,
+      "game": "https://www.chess.com/game/live/146490263246"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1776479627,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1751451714,
+      "game": "https://www.chess.com/game/live/165175332492"
+    },
+    "record": {
+      "win": 51,
+      "loss": 48,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2428,
+      "date": 1776387475,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1766543969,
+      "game": "https://www.chess.com/game/live/139687495406"
+    },
+    "record": {
+      "win": 596,
+      "loss": 662,
+      "draw": 93
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1103,
+      "date": 1775014727
+    },
+    "lowest": {
+      "rating": 1103,
+      "date": 1775014727
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

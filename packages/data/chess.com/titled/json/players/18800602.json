@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18800602.e26b721f.200x200o.e738019a328a.jpeg",
+  "player_id": 18800602,
+  "@id": "https://api.chess.com/pub/player/123lt",
+  "url": "https://www.chess.com/member/123lt",
+  "name": "Tingjie Lei",
+  "username": "123lt",
+  "title": "GM",
+  "followers": 247,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1754923571,
+  "joined": 1410059361,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2477,
+      "date": 1659712585,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1659099506,
+      "game": "https://www.chess.com/game/live/53103644193"
+    },
+    "record": {
+      "win": 34,
+      "loss": 14,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2709,
+      "date": 1754926299,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2824,
+      "date": 1624889877,
+      "game": "https://www.chess.com/game/live/17850165657"
+    },
+    "record": {
+      "win": 256,
+      "loss": 199,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2715,
+      "date": 1754924784,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2803,
+      "date": 1692718771,
+      "game": "https://www.chess.com/game/live/5253547679"
+    },
+    "record": {
+      "win": 756,
+      "loss": 695,
+      "draw": 143
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2537,
+      "date": 1410059361
+    },
+    "lowest": {
+      "rating": 2537,
+      "date": 1410059361
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 320828185,
+  "@id": "https://api.chess.com/pub/player/iamnotyourpuppet",
+  "url": "https://www.chess.com/member/Iamnotyourpuppet",
+  "username": "iamnotyourpuppet",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1768320565,
+  "joined": 1697824244,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2227,
+      "date": 1763589670,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1763589670,
+      "game": "https://www.chess.com/game/live/97786790523"
+    },
+    "record": {
+      "win": 45,
+      "loss": 24,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2189,
+      "date": 1763652593,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1763652466,
+      "game": "https://www.chess.com/game/live/125779176379"
+    },
+    "record": {
+      "win": 31,
+      "loss": 20,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1759764968,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2110,
+      "date": 1717430274,
+      "game": "https://www.chess.com/game/live/111169221347"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2205,
+      "date": 1763586044
+    },
+    "lowest": {
+      "rating": 1733,
+      "date": 1759576963
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

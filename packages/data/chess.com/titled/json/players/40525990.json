@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40525990.53443832.200x200o.cb45cd16eb8a.jpg",
+  "player_id": 40525990,
+  "@id": "https://api.chess.com/pub/player/arthurkogan",
+  "url": "https://www.chess.com/member/arthurkogan",
+  "name": "Arthur Kogan",
+  "username": "arthurkogan",
+  "title": "GM",
+  "followers": 136,
+  "country": "https://api.chess.com/pub/country/KN",
+  "last_online": 1776538980,
+  "joined": 1511098082,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1768125485,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1699306359,
+      "game": "https://www.chess.com/game/daily/560250077"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 155920,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1777,
+      "date": 1776520845,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1720625409,
+      "game": "https://www.chess.com/game/live/164106577906"
+    },
+    "record": {
+      "win": 36,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2559,
+      "date": 1776018681,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1772391424,
+      "game": "https://www.chess.com/game/live/167220602474"
+    },
+    "record": {
+      "win": 149,
+      "loss": 150,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2771,
+      "date": 1776467250,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2882,
+      "date": 1764939261,
+      "game": "https://www.chess.com/game/live/146282771698"
+    },
+    "record": {
+      "win": 1799,
+      "loss": 1929,
+      "draw": 255
+    }
+  },
+  "fide": 2500,
+  "tactics": {
+    "highest": {
+      "rating": 2689,
+      "date": 1761843530
+    },
+    "lowest": {
+      "rating": 2538,
+      "date": 1770731939
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

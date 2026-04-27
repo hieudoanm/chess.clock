@@ -1,0 +1,98 @@
+{
+  "player_id": 62708584,
+  "@id": "https://api.chess.com/pub/player/igor_bitensky",
+  "url": "https://www.chess.com/member/Igor_Bitensky",
+  "name": "Igor Bitensky",
+  "username": "igor_bitensky",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1755786820,
+  "joined": 1561566053,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1763836693,
+      "rd": 327
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 28013,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2035,
+      "date": 1626508020,
+      "rd": 207
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1602054398,
+      "game": "https://www.chess.com/game/live/11779408579"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2415,
+      "date": 1589908795,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1565366156,
+      "game": "https://www.chess.com/game/live/3934284352"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2315,
+      "date": 1602010494,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1586973223,
+      "game": "https://www.chess.com/game/live/4726301115"
+    },
+    "record": {
+      "win": 48,
+      "loss": 33,
+      "draw": 5
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1561566053
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1561566053
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

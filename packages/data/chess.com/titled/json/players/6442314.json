@@ -1,0 +1,122 @@
+{
+  "player_id": 6442314,
+  "@id": "https://api.chess.com/pub/player/zbigas",
+  "url": "https://www.chess.com/member/Zbigas",
+  "name": "Audrius Macenis",
+  "username": "zbigas",
+  "title": "NM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776555345,
+  "joined": 1325707734,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2238,
+      "date": 1734917314,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1423299424,
+      "game": "https://www.chess.com/game/daily/97928472"
+    },
+    "record": {
+      "win": 51,
+      "loss": 10,
+      "draw": 9,
+      "time_per_move": 18646,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1932,
+      "date": 1425007933,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2081,
+      "date": 1420876931,
+      "game": "https://www.chess.com/game/daily/99974818"
+    },
+    "record": {
+      "win": 37,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 18646,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2097,
+      "date": 1736742686,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2097,
+      "date": 1736742686,
+      "game": "https://www.chess.com/game/live/130286995055"
+    },
+    "record": {
+      "win": 16,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2402,
+      "date": 1776447297,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1671770076,
+      "game": "https://www.chess.com/game/live/103877398111"
+    },
+    "record": {
+      "win": 2645,
+      "loss": 1925,
+      "draw": 231
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2456,
+      "date": 1776555337,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1736519587,
+      "game": "https://www.chess.com/game/live/130106405621"
+    },
+    "record": {
+      "win": 998,
+      "loss": 745,
+      "draw": 173
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2277,
+      "date": 1775060289
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1775061333
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

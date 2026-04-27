@@ -1,0 +1,86 @@
+{
+  "player_id": 30164894,
+  "@id": "https://api.chess.com/pub/player/red5060",
+  "url": "https://www.chess.com/member/Red5060",
+  "username": "red5060",
+  "title": "NM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776529537,
+  "joined": 1475206722,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1796,
+      "date": 1769781879,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1796,
+      "date": 1710519023,
+      "game": "https://www.chess.com/game/daily/633722557"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2556,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2266,
+      "date": 1769399251,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1750129035,
+      "game": "https://www.chess.com/game/live/145051123966"
+    },
+    "record": {
+      "win": 50,
+      "loss": 13,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2490,
+      "date": 1776529211,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1763400594,
+      "game": "https://www.chess.com/game/live/145557762888"
+    },
+    "record": {
+      "win": 452,
+      "loss": 325,
+      "draw": 55
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2660,
+      "date": 1772419118
+    },
+    "lowest": {
+      "rating": 2156,
+      "date": 1759733715
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

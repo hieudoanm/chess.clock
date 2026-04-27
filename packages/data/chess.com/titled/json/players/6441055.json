@@ -1,0 +1,123 @@
+{
+  "player_id": 6441055,
+  "@id": "https://api.chess.com/pub/player/pluusje",
+  "url": "https://www.chess.com/member/Pluusje",
+  "name": "Noud Lentjes",
+  "username": "pluusje",
+  "title": "FM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Nijmegen",
+  "last_online": 1776585582,
+  "joined": 1325690517,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1589,
+      "date": 1598257687,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2129,
+      "date": 1369570996,
+      "game": "https://www.chess.com/game/daily/69914966"
+    },
+    "record": {
+      "win": 42,
+      "loss": 37,
+      "draw": 4,
+      "time_per_move": 20372,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1509,
+      "date": 1569285604,
+      "rd": 245
+    },
+    "best": {
+      "rating": 1509,
+      "date": 1446300485,
+      "game": "https://www.chess.com/game/daily/70049972"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 20372,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1038,
+      "date": 1612899163,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2399,
+      "date": 1775992713,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1467731895,
+      "game": "https://www.chess.com/game/live/1641165865"
+    },
+    "record": {
+      "win": 982,
+      "loss": 677,
+      "draw": 66
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2257,
+      "date": 1776525468,
+      "rd": 196
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1499783693,
+      "game": "https://www.chess.com/game/live/1642131185"
+    },
+    "record": {
+      "win": 655,
+      "loss": 475,
+      "draw": 68
+    }
+  },
+  "fide": 2301,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1325690517
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1325690517
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    },
+    "daily": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

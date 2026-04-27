@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28862730.413ee065.200x200o.89fd05325cf4.jpeg",
+  "player_id": 28862730,
+  "@id": "https://api.chess.com/pub/player/mravecuk",
+  "url": "https://www.chess.com/member/mravecuk",
+  "name": "Michal Novotny",
+  "username": "mravecuk",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1775634109,
+  "joined": 1467306409,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2056,
+      "date": 1665862704,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2138,
+      "date": 1665333812,
+      "game": "https://www.chess.com/game/live/15452519419"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2156,
+      "date": 1668280248,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2286,
+      "date": 1630865311,
+      "game": "https://www.chess.com/game/live/5505889918"
+    },
+    "record": {
+      "win": 20,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2035,
+      "date": 1730223679,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1590141634,
+      "game": "https://www.chess.com/game/live/4837526656"
+    },
+    "record": {
+      "win": 372,
+      "loss": 231,
+      "draw": 47
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1854,
+      "date": 1467306409
+    },
+    "lowest": {
+      "rating": 1854,
+      "date": 1467306409
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

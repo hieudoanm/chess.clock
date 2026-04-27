@@ -1,0 +1,102 @@
+{
+  "player_id": 62641926,
+  "@id": "https://api.chess.com/pub/player/iamvoltu",
+  "url": "https://www.chess.com/member/iamvoltu",
+  "username": "iamvoltu",
+  "title": "FM",
+  "followers": 70,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776112798,
+  "joined": 1561397535,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1814,
+      "date": 1775134841,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1814,
+      "date": 1675877735,
+      "game": "https://www.chess.com/game/daily/273371344"
+    },
+    "record": {
+      "win": 49,
+      "loss": 16,
+      "draw": 8,
+      "time_per_move": 15996,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2092,
+      "date": 1775146547,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1775146259,
+      "game": "https://www.chess.com/game/live/18805868999"
+    },
+    "record": {
+      "win": 143,
+      "loss": 97,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2143,
+      "date": 1776037427,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1675199282,
+      "game": "https://www.chess.com/game/live/141437063764"
+    },
+    "record": {
+      "win": 2579,
+      "loss": 2727,
+      "draw": 323
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2100,
+      "date": 1773852845,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2166,
+      "date": 1721157452,
+      "game": "https://www.chess.com/game/live/69914098081"
+    },
+    "record": {
+      "win": 733,
+      "loss": 643,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2399,
+      "date": 1561397535
+    },
+    "lowest": {
+      "rating": 2399,
+      "date": 1561397535
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 64
+    }
+  }
+}

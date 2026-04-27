@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20816554.706b3af4.200x200o.4dba333eed16.jpg",
+  "player_id": 20816554,
+  "@id": "https://api.chess.com/pub/player/amiralfio",
+  "url": "https://www.chess.com/member/amiralfio",
+  "name": "Yovann Gatineau",
+  "username": "amiralfio",
+  "title": "IM",
+  "followers": 107,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Paris",
+  "last_online": 1776506755,
+  "joined": 1422358296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1021,
+      "date": 1735284885,
+      "rd": 292
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1422358296,
+      "game": "https://www.chess.com/game/daily/185816044"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 30998,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2215,
+      "date": 1758093748,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1668984054,
+      "game": "https://www.chess.com/game/live/38401449745"
+    },
+    "record": {
+      "win": 17,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2522,
+      "date": 1755079452,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1609097220,
+      "game": "https://www.chess.com/game/live/4566677228"
+    },
+    "record": {
+      "win": 1802,
+      "loss": 1292,
+      "draw": 226
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2786,
+      "date": 1776506748,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2863,
+      "date": 1769506633,
+      "game": "https://www.chess.com/game/live/150552495747"
+    },
+    "record": {
+      "win": 2512,
+      "loss": 1893,
+      "draw": 409
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2861,
+      "date": 1771255743
+    },
+    "lowest": {
+      "rating": 2655,
+      "date": 1763658678
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5973148.707fa24a.200x200o.864e8e5805fc.jpeg",
+  "player_id": 5973148,
+  "@id": "https://api.chess.com/pub/player/lokander",
+  "url": "https://www.chess.com/member/lokander",
+  "name": "Martin Lokander",
+  "username": "lokander",
+  "title": "IM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Stockholm",
+  "last_online": 1658666602,
+  "joined": 1318923959,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2611,
+      "date": 1656633546,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1656633546,
+      "game": "https://www.chess.com/game/live/50371753167"
+    },
+    "record": {
+      "win": 62,
+      "loss": 17,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2000,
+      "date": 1430531305,
+      "rd": 217
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1318925291,
+      "game": "https://www.chess.com/game/live/192155184"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1318923959
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1318923959
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

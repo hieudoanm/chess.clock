@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4411389.a5265342.200x200o.6b56681fe1ef.jpeg",
+  "player_id": 4411389,
+  "@id": "https://api.chess.com/pub/player/nau64",
+  "url": "https://www.chess.com/member/nau64",
+  "name": "Jose Riverol",
+  "username": "nau64",
+  "title": "FM",
+  "followers": 2866,
+  "country": "https://api.chess.com/pub/country/UY",
+  "location": "Montevideo",
+  "last_online": 1776557110,
+  "joined": 1292690922,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nau64ajedrez",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nau64ajedrez"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2346,
+      "date": 1768780913,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1759709001,
+      "game": "https://www.chess.com/game/live/7534327889"
+    },
+    "record": {
+      "win": 116,
+      "loss": 35,
+      "draw": 30
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2161,
+      "date": 1776035319,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1627243667,
+      "game": "https://www.chess.com/game/live/52845671477"
+    },
+    "record": {
+      "win": 2669,
+      "loss": 633,
+      "draw": 140
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2183,
+      "date": 1776353204,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1616983718,
+      "game": "https://www.chess.com/game/live/4059290081"
+    },
+    "record": {
+      "win": 943,
+      "loss": 394,
+      "draw": 124
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2628,
+      "date": 1756849231
+    },
+    "lowest": {
+      "rating": 2443,
+      "date": 1772482521
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

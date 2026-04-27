@@ -1,0 +1,95 @@
+{
+  "player_id": 5421489,
+  "@id": "https://api.chess.com/pub/player/mastervince2244",
+  "url": "https://www.chess.com/member/MasterVince2244",
+  "name": "Vincent Rancour",
+  "username": "mastervince2244",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "St Louis Park, MN",
+  "last_online": 1776524032,
+  "joined": 1310373389,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1754491091,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 404040,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1804,
+      "date": 1635638647,
+      "rd": 176
+    },
+    "best": {
+      "rating": 1898,
+      "date": 1600212154,
+      "game": "https://www.chess.com/game/live/6369903858"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1482,
+      "date": 1756011087,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1843,
+      "date": 1756011087,
+      "game": "https://www.chess.com/game/live/178664394"
+    },
+    "record": {
+      "win": 8,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1415,
+      "date": 1776524022,
+      "rd": 28
+    },
+    "best": {
+      "rating": 1985,
+      "date": 1574992996,
+      "game": "https://www.chess.com/game/live/58491589291"
+    },
+    "record": {
+      "win": 8703,
+      "loss": 8430,
+      "draw": 1196
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2196,
+      "date": 1757022925
+    },
+    "lowest": {
+      "rating": 2016,
+      "date": 1757022947
+    }
+  },
+  "puzzle_rush": {}
+}

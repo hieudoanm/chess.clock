@@ -1,0 +1,83 @@
+{
+  "player_id": 161584325,
+  "@id": "https://api.chess.com/pub/player/braveasaclown",
+  "url": "https://www.chess.com/member/BraveAsaClown",
+  "username": "braveasaclown",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776582443,
+  "joined": 1637096436,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2319,
+      "date": 1757692401,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1639619436,
+      "game": "https://www.chess.com/game/live/142385816486"
+    },
+    "record": {
+      "win": 35,
+      "loss": 21,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2328,
+      "date": 1750259511,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1641051896,
+      "game": "https://www.chess.com/game/live/35416718811"
+    },
+    "record": {
+      "win": 131,
+      "loss": 55,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2688,
+      "date": 1776582109,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1773748448,
+      "game": "https://www.chess.com/game/live/165999226142"
+    },
+    "record": {
+      "win": 823,
+      "loss": 685,
+      "draw": 131
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2100,
+      "date": 1637096436
+    },
+    "lowest": {
+      "rating": 2100,
+      "date": 1637096436
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

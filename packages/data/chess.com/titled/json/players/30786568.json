@@ -1,0 +1,79 @@
+{
+  "player_id": 30786568,
+  "@id": "https://api.chess.com/pub/player/monarchsf",
+  "url": "https://www.chess.com/member/monarchSF",
+  "username": "monarchsf",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1743403738,
+  "joined": 1478501672,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2129,
+      "date": 1630240550,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2076,
+      "date": 1660049524,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1659721134,
+      "game": "https://www.chess.com/game/live/5025404424"
+    },
+    "record": {
+      "win": 55,
+      "loss": 48,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2285,
+      "date": 1673089964,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1565619739,
+      "game": "https://www.chess.com/game/live/3941537324"
+    },
+    "record": {
+      "win": 483,
+      "loss": 396,
+      "draw": 70
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2293,
+      "date": 1478501672
+    },
+    "lowest": {
+      "rating": 2293,
+      "date": 1478501672
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

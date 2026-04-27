@@ -1,0 +1,105 @@
+{
+  "player_id": 14092034,
+  "@id": "https://api.chess.com/pub/player/mouniouboun",
+  "url": "https://www.chess.com/member/mouniouboun",
+  "name": "guillaume philippe",
+  "username": "mouniouboun",
+  "title": "IM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Marseille",
+  "last_online": 1690200427,
+  "joined": 1382986522,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1390,
+      "date": 1692347298,
+      "rd": 199
+    },
+    "best": {
+      "rating": 1536,
+      "date": 1498908524,
+      "game": "https://www.chess.com/game/daily/169063422"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 59,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2068,
+      "date": 1690064659,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2381,
+      "date": 1645611894,
+      "game": "https://www.chess.com/game/live/39350916841"
+    },
+    "record": {
+      "win": 31,
+      "loss": 31,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2530,
+      "date": 1690150004,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1690052826,
+      "game": "https://www.chess.com/game/live/83791310563"
+    },
+    "record": {
+      "win": 23,
+      "loss": 18,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2689,
+      "date": 1690067720,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2697,
+      "date": 1690067332,
+      "game": "https://www.chess.com/game/live/82247547075"
+    },
+    "record": {
+      "win": 569,
+      "loss": 360,
+      "draw": 48
+    }
+  },
+  "fide": 2354,
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1382986522
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1382986522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+    "player_id": 151208049,
+    "@id": "https://api.chess.com/pub/player/unclejambit",
+    "url": "https://www.chess.com/member/unclejambit",
+    "name": "A.A AL",
+    "username": "unclejambit",
+    "title": "GM",
+    "followers": 100,
+    "country": "https://api.chess.com/pub/country/QA",
+    "last_online": 1669524085,
+    "joined": 1629035996,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2638,
+            "date": 1677839656,
+            "rd": 37
+        },
+        "best": {
+            "rating": 2702,
+            "date": 1647292505,
+            "game": "https://www.chess.com/game/live/57178107065"
+        },
+        "record": {
+            "win": 1088,
+            "loss": 489,
+            "draw": 196
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2624,
+            "date": 1653081107,
+            "rd": 61
+        },
+        "best": {
+            "rating": 2648,
+            "date": 1653080504,
+            "game": "https://www.chess.com/game/live/39219583739"
+        },
+        "record": {
+            "win": 129,
+            "loss": 33,
+            "draw": 5
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2630,
+            "date": 1647287124,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1645298534,
+            "game": "https://www.chess.com/game/live/38444076167"
+        },
+        "record": {
+            "win": 200,
+            "loss": 77,
+            "draw": 9
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 800,
+            "date": 1629035996
+        },
+        "lowest": {
+            "rating": 800,
+            "date": 1629035996
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 67,
+            "score": 64
+        }
+    }
+}

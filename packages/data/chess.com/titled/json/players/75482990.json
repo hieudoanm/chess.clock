@@ -1,0 +1,103 @@
+{
+  "player_id": 75482990,
+  "@id": "https://api.chess.com/pub/player/vvg2",
+  "url": "https://www.chess.com/member/vvg2",
+  "name": "Sai Varshith Chilukuri",
+  "username": "vvg2",
+  "title": "FM",
+  "followers": 76,
+  "country": "https://api.chess.com/pub/country/TL",
+  "last_online": 1776443002,
+  "joined": 1585881885,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1580,
+      "date": 1760650691,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1913,
+      "date": 1603961868,
+      "game": "https://www.chess.com/game/daily/266989842"
+    },
+    "record": {
+      "win": 121,
+      "loss": 64,
+      "draw": 15,
+      "time_per_move": 22141,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2042,
+      "date": 1765534072,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2064,
+      "date": 1608126869,
+      "game": "https://www.chess.com/game/live/5564007177"
+    },
+    "record": {
+      "win": 52,
+      "loss": 54,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1776247325,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1771686285,
+      "game": "https://www.chess.com/game/live/165009577752"
+    },
+    "record": {
+      "win": 381,
+      "loss": 168,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2428,
+      "date": 1775143708,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1774537253,
+      "game": "https://www.chess.com/game/live/5316076421"
+    },
+    "record": {
+      "win": 227,
+      "loss": 178,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2390,
+      "date": 1774612013
+    },
+    "lowest": {
+      "rating": 2251,
+      "date": 1756560081
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 18150266,
+  "@id": "https://api.chess.com/pub/player/evgche",
+  "url": "https://www.chess.com/member/EvgChe",
+  "name": "Evgueni Chevelevitch",
+  "username": "evgche",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Hamburg",
+  "last_online": 1776528589,
+  "joined": 1405859711,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1389,
+      "date": 1600960921,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1389,
+      "date": 1600960921,
+      "game": "https://www.chess.com/game/live/5491381303"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2406,
+      "date": 1769269714,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1756137363,
+      "game": "https://www.chess.com/game/live/15777920637"
+    },
+    "record": {
+      "win": 6890,
+      "loss": 1677,
+      "draw": 193
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2763,
+      "date": 1757967107
+    },
+    "lowest": {
+      "rating": 2613,
+      "date": 1769270423
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 28
+    }
+  }
+}

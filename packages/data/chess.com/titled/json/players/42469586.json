@@ -1,0 +1,90 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42469586.3997f4f9.200x200o.04bc4c1c2cdc.jpg",
+  "player_id": 42469586,
+  "@id": "https://api.chess.com/pub/player/dtchess",
+  "url": "https://www.chess.com/member/DTChess",
+  "name": "Dejan Tasev",
+  "username": "dtchess",
+  "title": "FM",
+  "followers": 3381,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Belgrade",
+  "last_online": 1776593276,
+  "joined": 1516363703,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2488,
+      "date": 1762449661,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1703795366,
+      "game": "https://www.chess.com/game/live/97540297763"
+    },
+    "record": {
+      "win": 344,
+      "loss": 188,
+      "draw": 85
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2702,
+      "date": 1765268165,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2732,
+      "date": 1607606541,
+      "game": "https://www.chess.com/game/live/36017371665"
+    },
+    "record": {
+      "win": 968,
+      "loss": 718,
+      "draw": 112
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2702,
+      "date": 1776465212,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2840,
+      "date": 1774906904,
+      "game": "https://www.chess.com/game/live/88874555233"
+    },
+    "record": {
+      "win": 6548,
+      "loss": 6253,
+      "draw": 1186
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1768100002
+    },
+    "lowest": {
+      "rating": 2006,
+      "date": 1769529174
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    },
+    "daily": {
+      "total_attempts": 44,
+      "score": 42
+    }
+  }
+}

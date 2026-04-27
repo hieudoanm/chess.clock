@@ -1,0 +1,82 @@
+{
+  "player_id": 4505910,
+  "@id": "https://api.chess.com/pub/player/israeliking",
+  "url": "https://www.chess.com/member/israeliking",
+  "name": "Daniel Mousseri",
+  "username": "israeliking",
+  "title": "NM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Tarzana",
+  "last_online": 1776468048,
+  "joined": 1294202783,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 703,
+      "date": 1703900598,
+      "rd": 273
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 635614,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2569,
+      "date": 1741312204,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1730793249,
+      "game": "https://www.chess.com/game/live/121852174717"
+    },
+    "record": {
+      "win": 1475,
+      "loss": 1159,
+      "draw": 161
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1764217449,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2577,
+      "date": 1752094013,
+      "game": "https://www.chess.com/game/live/146009243832"
+    },
+    "record": {
+      "win": 1361,
+      "loss": 1071,
+      "draw": 223
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2544,
+      "date": 1294202783
+    },
+    "lowest": {
+      "rating": 2544,
+      "date": 1294202783
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

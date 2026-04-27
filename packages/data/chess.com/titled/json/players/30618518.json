@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30618518.411fea1f.200x200o.381955e37907.jpg",
+  "player_id": 30618518,
+  "@id": "https://api.chess.com/pub/player/crocodiledand",
+  "url": "https://www.chess.com/member/CrocodileDanD",
+  "name": "Dan Drori",
+  "username": "crocodiledand",
+  "title": "FM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Tel Aviv",
+  "last_online": 1776554111,
+  "joined": 1477597599,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1721,
+      "date": 1760250253,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1477597599,
+      "game": "https://www.chess.com/game/daily/575774757"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 14804,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1750774528,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1969,
+      "date": 1625988983,
+      "game": "https://www.chess.com/game/live/19727486633"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2080,
+      "date": 1775400701,
+      "rd": 236
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2393,
+      "date": 1776554039,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2461,
+      "date": 1774366544,
+      "game": "https://www.chess.com/game/live/35497066587"
+    },
+    "record": {
+      "win": 8411,
+      "loss": 8038,
+      "draw": 640
+    }
+  },
+  "fide": 2240,
+  "tactics": {
+    "highest": {
+      "rating": 2335,
+      "date": 1771345328
+    },
+    "lowest": {
+      "rating": 2140,
+      "date": 1771345384
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

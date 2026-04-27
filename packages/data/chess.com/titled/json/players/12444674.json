@@ -1,0 +1,100 @@
+{
+  "player_id": 12444674,
+  "@id": "https://api.chess.com/pub/player/stefanodinn",
+  "url": "https://www.chess.com/member/stefanodinn",
+  "name": "Stefano D'Innocente",
+  "username": "stefanodinn",
+  "title": "FM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Pescara",
+  "last_online": 1689366251,
+  "joined": 1372008569,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1505,
+      "date": 1567499305,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1372008569,
+      "game": "https://www.chess.com/game/daily/198171882"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 116341,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2496,
+      "date": 1374003478,
+      "rd": 217
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1373993467,
+      "game": "https://www.chess.com/game/live/558552270"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1855,
+      "date": 1493850730,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2133,
+      "date": 1375550401,
+      "game": "https://www.chess.com/game/live/576430961"
+    },
+    "record": {
+      "win": 72,
+      "loss": 45,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2127,
+      "date": 1689350632,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1524316281,
+      "game": "https://www.chess.com/game/live/1940248536"
+    },
+    "record": {
+      "win": 3034,
+      "loss": 1594,
+      "draw": 360
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2206,
+      "date": 1372008569
+    },
+    "lowest": {
+      "rating": 2206,
+      "date": 1372008569
+    }
+  },
+  "puzzle_rush": {}
+}

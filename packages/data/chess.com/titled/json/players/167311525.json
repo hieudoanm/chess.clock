@@ -1,0 +1,67 @@
+{
+  "player_id": 167311525,
+  "@id": "https://api.chess.com/pub/player/just_lucky_1",
+  "url": "https://www.chess.com/member/Just_Lucky_1",
+  "name": "Roman Kuzmin",
+  "username": "just_lucky_1",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775799104,
+  "joined": 1641151851,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2724,
+      "date": 1763454844,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2760,
+      "date": 1761559228,
+      "game": "https://www.chess.com/game/live/86814614267"
+    },
+    "record": {
+      "win": 633,
+      "loss": 477,
+      "draw": 66
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2674,
+      "date": 1774960740,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2726,
+      "date": 1758090213,
+      "game": "https://www.chess.com/game/live/127002016825"
+    },
+    "record": {
+      "win": 342,
+      "loss": 363,
+      "draw": 48
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2779,
+      "date": 1767547938
+    },
+    "lowest": {
+      "rating": 2617,
+      "date": 1756057620
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

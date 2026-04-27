@@ -1,0 +1,118 @@
+{
+  "player_id": 198111073,
+  "@id": "https://api.chess.com/pub/player/aaron080803",
+  "url": "https://www.chess.com/member/Aaron080803",
+  "name": "Aaron Alonso Garcia",
+  "username": "aaron080803",
+  "title": "IM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776591356,
+  "joined": 1663716074,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1790,
+      "date": 1776590634,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1981,
+      "date": 1748732886,
+      "game": "https://www.chess.com/game/daily/918226681"
+    },
+    "record": {
+      "win": 40,
+      "loss": 8,
+      "draw": 1,
+      "time_per_move": 12768,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1659,
+      "date": 1764237193,
+      "rd": 310
+    },
+    "best": {
+      "rating": 1659,
+      "date": 1764237193,
+      "game": "https://www.chess.com/game/daily/886870045"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12768,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1774296777,
+      "rd": 49
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2546,
+      "date": 1769829168,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1729674486,
+      "game": "https://www.chess.com/game/live/140693449644"
+    },
+    "record": {
+      "win": 31,
+      "loss": 26,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2813,
+      "date": 1776352441,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2841,
+      "date": 1776192001,
+      "game": "https://www.chess.com/game/live/162808026787"
+    },
+    "record": {
+      "win": 1397,
+      "loss": 1000,
+      "draw": 278
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2494,
+      "date": 1774364188
+    },
+    "lowest": {
+      "rating": 471,
+      "date": 1773492231
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

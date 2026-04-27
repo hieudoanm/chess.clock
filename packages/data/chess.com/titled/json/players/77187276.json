@@ -1,0 +1,104 @@
+{
+  "player_id": 77187276,
+  "@id": "https://api.chess.com/pub/player/huragan007",
+  "url": "https://www.chess.com/member/Huragan007",
+  "name": "Piotr Kejna",
+  "username": "huragan007",
+  "title": "FM",
+  "followers": 110,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776594355,
+  "joined": 1587298795,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1874,
+      "date": 1729758587,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1668193032,
+      "game": "https://www.chess.com/game/daily/446134007"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 384749,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2319,
+      "date": 1695726244,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1680603296,
+      "game": "https://www.chess.com/game/live/74450622375"
+    },
+    "record": {
+      "win": 61,
+      "loss": 25,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2702,
+      "date": 1761062788,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2846,
+      "date": 1734974308,
+      "game": "https://www.chess.com/game/live/131498961285"
+    },
+    "record": {
+      "win": 1917,
+      "loss": 1920,
+      "draw": 258
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2688,
+      "date": 1773738547,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2696,
+      "date": 1739211145,
+      "game": "https://www.chess.com/game/live/130006248183"
+    },
+    "record": {
+      "win": 984,
+      "loss": 792,
+      "draw": 181
+    }
+  },
+  "fide": 2318,
+  "tactics": {
+    "highest": {
+      "rating": 2829,
+      "date": 1772145863
+    },
+    "lowest": {
+      "rating": 2174,
+      "date": 1768601781
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 69
+    }
+  }
+}

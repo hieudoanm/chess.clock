@@ -1,0 +1,83 @@
+{
+  "player_id": 82826676,
+  "@id": "https://api.chess.com/pub/player/subbi64",
+  "url": "https://www.chess.com/member/Subbi64",
+  "username": "subbi64",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IS",
+  "last_online": 1776341130,
+  "joined": 1592255168,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2216,
+      "date": 1610542875,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1610542875,
+      "game": "https://www.chess.com/game/live/6223274395"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2426,
+      "date": 1616670030,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1605184600,
+      "game": "https://www.chess.com/game/live/6343241401"
+    },
+    "record": {
+      "win": 412,
+      "loss": 251,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1714038254,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2485,
+      "date": 1597686318,
+      "game": "https://www.chess.com/game/live/5357438690"
+    },
+    "record": {
+      "win": 712,
+      "loss": 634,
+      "draw": 82
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1564,
+      "date": 1592255168
+    },
+    "lowest": {
+      "rating": 1564,
+      "date": 1592255168
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

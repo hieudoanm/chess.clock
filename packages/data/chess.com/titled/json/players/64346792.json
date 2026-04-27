@@ -1,0 +1,84 @@
+{
+  "player_id": 64346792,
+  "@id": "https://api.chess.com/pub/player/wjeun",
+  "url": "https://www.chess.com/member/wjeun",
+  "name": "Antoine Cassam-Chenai",
+  "username": "wjeun",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776552507,
+  "joined": 1565897155,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1776090489,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1776090243,
+      "game": "https://www.chess.com/game/live/125863701427"
+    },
+    "record": {
+      "win": 26,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2724,
+      "date": 1776361341,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2797,
+      "date": 1751379413,
+      "game": "https://www.chess.com/game/live/140606603170"
+    },
+    "record": {
+      "win": 376,
+      "loss": 228,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2585,
+      "date": 1775852699,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2640,
+      "date": 1748708291,
+      "game": "https://www.chess.com/game/live/154511205711"
+    },
+    "record": {
+      "win": 287,
+      "loss": 191,
+      "draw": 34
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2497,
+      "date": 1758981605
+    },
+    "lowest": {
+      "rating": 2257,
+      "date": 1775841830
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

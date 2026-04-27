@@ -1,0 +1,104 @@
+{
+  "player_id": 214564917,
+  "@id": "https://api.chess.com/pub/player/zano2023",
+  "url": "https://www.chess.com/member/zano2023",
+  "name": "Jean-Christophe Martine",
+  "username": "zano2023",
+  "title": "CM",
+  "followers": 110,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776598449,
+  "joined": 1671471468,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1399,
+      "date": 1771943009,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1606,
+      "date": 1738070691,
+      "game": "https://www.chess.com/game/daily/732926301"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 102254,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2114,
+      "date": 1756299574,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1713470299,
+      "game": "https://www.chess.com/game/live/107209230053"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2203,
+      "date": 1776593254,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1776593254,
+      "game": "https://www.chess.com/game/live/80749882527"
+    },
+    "record": {
+      "win": 132,
+      "loss": 122,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2264,
+      "date": 1776564077,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1769273828,
+      "game": "https://www.chess.com/game/live/108253866369"
+    },
+    "record": {
+      "win": 5736,
+      "loss": 6828,
+      "draw": 1032
+    }
+  },
+  "fide": 1827,
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1765269551
+    },
+    "lowest": {
+      "rating": 2229,
+      "date": 1765271147
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

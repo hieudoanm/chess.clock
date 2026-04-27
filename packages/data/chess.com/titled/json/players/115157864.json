@@ -1,0 +1,65 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/115157864.18cf4ace.200x200o.1dc27a4643e5.png",
+  "player_id": 115157864,
+  "@id": "https://api.chess.com/pub/player/itshere",
+  "url": "https://www.chess.com/member/Itshere",
+  "name": "Glenn Bady",
+  "username": "itshere",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Philadelphia",
+  "last_online": 1775162358,
+  "joined": 1611432779,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2159,
+      "date": 1750680036,
+      "rd": 302
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2159,
+      "date": 1750680036,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1665567295,
+      "game": "https://www.chess.com/game/live/59305790357"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "fide": 2159,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1611432779
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1611432779
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

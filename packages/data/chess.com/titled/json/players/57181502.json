@@ -1,0 +1,130 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57181502.7f7cbc6e.200x200o.9cfe6266efac.jpeg",
+  "player_id": 57181502,
+  "@id": "https://api.chess.com/pub/player/niranjannavalgund",
+  "url": "https://www.chess.com/member/NiranjanNavalgund",
+  "name": "Niranjan Navalgund",
+  "username": "niranjannavalgund",
+  "title": "FM",
+  "followers": 2583,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Bharat",
+  "last_online": 1776576419,
+  "joined": 1549797768,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessophile",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessophile"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1699,
+      "date": 1775775435,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2121,
+      "date": 1617813591,
+      "game": "https://www.chess.com/game/daily/274023442"
+    },
+    "record": {
+      "win": 44,
+      "loss": 26,
+      "draw": 4,
+      "time_per_move": 78340,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1880,
+      "date": 1632425066,
+      "rd": 217
+    },
+    "best": {
+      "rating": 1880,
+      "date": 1632425066,
+      "game": "https://www.chess.com/game/daily/341179807"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 78340,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2249,
+      "date": 1739726277,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1606442877,
+      "game": "https://www.chess.com/game/live/133460372921"
+    },
+    "record": {
+      "win": 19,
+      "loss": 27,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2531,
+      "date": 1776379348,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1776012566,
+      "game": "https://www.chess.com/game/live/10945572305"
+    },
+    "record": {
+      "win": 619,
+      "loss": 419,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2595,
+      "date": 1763659377,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1763656958,
+      "game": "https://www.chess.com/game/live/157967854927"
+    },
+    "record": {
+      "win": 838,
+      "loss": 743,
+      "draw": 140
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2270,
+      "date": 1755966767
+    },
+    "lowest": {
+      "rating": 2231,
+      "date": 1759898258
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

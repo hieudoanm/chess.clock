@@ -1,0 +1,127 @@
+{
+  "player_id": 13668038,
+  "@id": "https://api.chess.com/pub/player/clydehillkid",
+  "url": "https://www.chess.com/member/ClydeHillKid",
+  "name": "Joseph Levine",
+  "username": "clydehillkid",
+  "title": "IM",
+  "followers": 175,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Washington",
+  "last_online": 1776575179,
+  "joined": 1380169798,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2039,
+      "date": 1773246461,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2108,
+      "date": 1641957602,
+      "game": "https://www.chess.com/game/daily/280536758"
+    },
+    "record": {
+      "win": 256,
+      "loss": 92,
+      "draw": 30,
+      "time_per_move": 13745,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 635,
+      "date": 1682567608,
+      "rd": 239
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1380169798,
+      "game": "https://www.chess.com/game/daily/498766659"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13745,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2702,
+      "date": 1776533212,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1774395017,
+      "game": "https://www.chess.com/game/live/163987774602"
+    },
+    "record": {
+      "win": 787,
+      "loss": 489,
+      "draw": 96
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2868,
+      "date": 1776477588,
+      "rd": 23
+    },
+    "best": {
+      "rating": 3014,
+      "date": 1768000536,
+      "game": "https://www.chess.com/game/live/133210737319"
+    },
+    "record": {
+      "win": 12296,
+      "loss": 11123,
+      "draw": 1796
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2809,
+      "date": 1776523945,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2945,
+      "date": 1775328238,
+      "game": "https://www.chess.com/game/live/143630292472"
+    },
+    "record": {
+      "win": 6142,
+      "loss": 5712,
+      "draw": 1082
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2448,
+      "date": 1755813756
+    },
+    "lowest": {
+      "rating": 2277,
+      "date": 1759384275
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    },
+    "daily": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 6068771,
+  "@id": "https://api.chess.com/pub/player/ulysees",
+  "url": "https://www.chess.com/member/ulysees",
+  "name": "Swayangsu Satyapragyan",
+  "username": "ulysees",
+  "title": "IM",
+  "followers": 307,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Bhubaneswar",
+  "last_online": 1776578897,
+  "joined": 1320474633,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1317,
+      "date": 1748004196,
+      "rd": 290
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1320474633,
+      "game": "https://www.chess.com/game/daily/679706665"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 34467,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2442,
+      "date": 1768146839,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1594448968,
+      "game": "https://www.chess.com/game/live/51900092271"
+    },
+    "record": {
+      "win": 36,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1711701067,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1603205093,
+      "game": "https://www.chess.com/game/live/5489126165"
+    },
+    "record": {
+      "win": 10,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2614,
+      "date": 1755017231,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2635,
+      "date": 1669647354,
+      "game": "https://www.chess.com/game/live/54356416343"
+    },
+    "record": {
+      "win": 271,
+      "loss": 118,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2052,
+      "date": 1757947125
+    },
+    "lowest": {
+      "rating": 1604,
+      "date": 1775371756
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

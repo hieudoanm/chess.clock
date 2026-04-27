@@ -1,0 +1,85 @@
+{
+  "player_id": 81536882,
+  "@id": "https://api.chess.com/pub/player/ginestaclase",
+  "url": "https://www.chess.com/member/GinestaClase",
+  "name": "Olga Lucia Ginesta Caballero",
+  "username": "ginestaclase",
+  "title": "WFM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/CU",
+  "last_online": 1776538795,
+  "joined": 1591351818,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 836,
+      "date": 1776472767,
+      "rd": 175
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1591351818,
+      "game": "https://www.chess.com/game/daily/275004290"
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 1060,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2046,
+      "date": 1776472767
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1592928409,
+      "game": "https://www.chess.com/game/live/5045658163"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2046,
+      "date": 1670184754
+    },
+    "best": {
+      "rating": 1491,
+      "date": 1670184033,
+      "game": "https://www.chess.com/game/live/63922796371"
+    },
+    "record": {
+      "win": 11,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2046,
+      "date": 1591351818
+    },
+    "lowest": {
+      "rating": 2046,
+      "date": 1591351818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 26
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42724264.e7e23d4e.200x200o.c3bf706fe927.jpg",
+  "player_id": 42724264,
+  "@id": "https://api.chess.com/pub/player/adrianapalao",
+  "url": "https://www.chess.com/member/AdrianaPalao",
+  "name": "Adriana Palao",
+  "username": "adrianapalao",
+  "title": "WCM",
+  "followers": 445,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Valencia",
+  "last_online": 1776443721,
+  "joined": 1517014298,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/adrianapalao",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/adrianapalao"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@adrianapalao"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1751880922,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1911,
+      "date": 1756143879,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1681339285,
+      "game": "https://www.chess.com/game/live/124569509701"
+    },
+    "record": {
+      "win": 29,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2197,
+      "date": 1756197113,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1756172009,
+      "game": "https://www.chess.com/game/live/142337822836"
+    },
+    "record": {
+      "win": 177,
+      "loss": 119,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2136,
+      "date": 1770961010,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1758965038,
+      "game": "https://www.chess.com/game/live/87665559697"
+    },
+    "record": {
+      "win": 226,
+      "loss": 205,
+      "draw": 32
+    }
+  },
+  "fide": 2014,
+  "tactics": {
+    "highest": {
+      "rating": 2403,
+      "date": 1755847471
+    },
+    "lowest": {
+      "rating": 2186,
+      "date": 1770464686
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

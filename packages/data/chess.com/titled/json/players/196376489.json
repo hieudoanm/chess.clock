@@ -1,0 +1,65 @@
+{
+  "player_id": 196376489,
+  "@id": "https://api.chess.com/pub/player/merinasian",
+  "url": "https://www.chess.com/member/merinasian",
+  "name": "Rafael Merino Garc\u00eda",
+  "username": "merinasian",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Madrid",
+  "last_online": 1773054616,
+  "joined": 1662633190,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1056,
+      "date": 1775903925,
+      "rd": 340
+    },
+    "best": {
+      "rating": 1607,
+      "date": 1765141477,
+      "game": "https://www.chess.com/game/daily/895966275"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 97904,
+      "timeout_percent": 100
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2444,
+      "date": 1773054604,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1753117366,
+      "game": "https://www.chess.com/game/live/85872086051"
+    },
+    "record": {
+      "win": 6269,
+      "loss": 5569,
+      "draw": 825
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1765499043
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1765499075
+    }
+  },
+  "puzzle_rush": {}
+}

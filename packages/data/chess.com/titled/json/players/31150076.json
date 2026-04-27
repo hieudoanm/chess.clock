@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31150076.011b5445.200x200o.cbc7eb738c8f.jpg",
+  "player_id": 31150076,
+  "@id": "https://api.chess.com/pub/player/lukas2010",
+  "url": "https://www.chess.com/member/Lukas2010",
+  "name": "Lukas Dotzer",
+  "username": "lukas2010",
+  "title": "IM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Vienna",
+  "last_online": 1776502933,
+  "joined": 1480081354,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1774875075,
+      "rd": 311
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 181494,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2258,
+      "date": 1774549764,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1774549764,
+      "game": "https://www.chess.com/game/live/128552549297"
+    },
+    "record": {
+      "win": 457,
+      "loss": 232,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3001,
+      "date": 1773948697,
+      "rd": 39
+    },
+    "best": {
+      "rating": 3001,
+      "date": 1773948697,
+      "game": "https://www.chess.com/game/live/164108343498"
+    },
+    "record": {
+      "win": 518,
+      "loss": 216,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1774614558,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1764769826,
+      "game": "https://www.chess.com/game/live/73758785477"
+    },
+    "record": {
+      "win": 413,
+      "loss": 117,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2937,
+      "date": 1770401842
+    },
+    "lowest": {
+      "rating": 2521,
+      "date": 1759431980
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

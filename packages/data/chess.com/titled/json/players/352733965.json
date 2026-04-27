@@ -1,0 +1,69 @@
+{
+  "player_id": 352733965,
+  "@id": "https://api.chess.com/pub/player/kyiv-volvo",
+  "url": "https://www.chess.com/member/kyiv-volvo",
+  "name": "Oleksandr Yevchenko",
+  "username": "kyiv-volvo",
+  "title": "CM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "Kyiv",
+  "last_online": 1773693026,
+  "joined": 1711232745,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2225,
+      "date": 1751138758,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2653,
+      "date": 1738429938,
+      "game": "https://www.chess.com/game/live/132774662903"
+    },
+    "record": {
+      "win": 121,
+      "loss": 289,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2386,
+      "date": 1759517779,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1747778879,
+      "game": "https://www.chess.com/game/live/147000798299"
+    },
+    "record": {
+      "win": 449,
+      "loss": 639,
+      "draw": 101
+    }
+  },
+  "fide": 2276,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1711232745
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1711232745
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 32
+    }
+  }
+}

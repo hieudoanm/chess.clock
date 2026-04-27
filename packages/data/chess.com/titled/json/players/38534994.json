@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/38534994.39fe0b16.200x200o.6ca5098733e7.jpeg",
+  "player_id": 38534994,
+  "@id": "https://api.chess.com/pub/player/olfer",
+  "url": "https://www.chess.com/member/olfer",
+  "name": "Ferenc Olah",
+  "username": "olfer",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "novi sad",
+  "last_online": 1776584101,
+  "joined": 1505081447,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1536,
+      "date": 1744705723,
+      "rd": 92
+    },
+    "best": {
+      "rating": 1536,
+      "date": 1713083637,
+      "game": "https://www.chess.com/game/daily/496490513"
+    },
+    "record": {
+      "win": 27,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 2763,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2347,
+      "date": 1772222764,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1772222764,
+      "game": "https://www.chess.com/game/live/165296215744"
+    },
+    "record": {
+      "win": 49,
+      "loss": 23,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2410,
+      "date": 1607857625,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1607857350,
+      "game": "https://www.chess.com/game/live/4906165972"
+    },
+    "record": {
+      "win": 117,
+      "loss": 99,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2241,
+      "date": 1772226508,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1695313091,
+      "game": "https://www.chess.com/game/live/103450848805"
+    },
+    "record": {
+      "win": 1748,
+      "loss": 1365,
+      "draw": 184
+    }
+  },
+  "fide": 2308,
+  "tactics": {
+    "highest": {
+      "rating": 2728,
+      "date": 1757280311
+    },
+    "lowest": {
+      "rating": 2572,
+      "date": 1767973281
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    },
+    "daily": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

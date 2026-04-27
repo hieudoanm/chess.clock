@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/175914621.6f370bde.200x200o.708806394fe5.png",
+  "player_id": 175914621,
+  "@id": "https://api.chess.com/pub/player/chesstar",
+  "url": "https://www.chess.com/member/Chesstar",
+  "name": "Jaivardhan Raj",
+  "username": "chesstar",
+  "title": "CM",
+  "followers": 129,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Mumbai",
+  "last_online": 1776356758,
+  "joined": 1646801542,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1704,
+      "date": 1776328287,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1688556345,
+      "game": "https://www.chess.com/game/daily/539323349"
+    },
+    "record": {
+      "win": 40,
+      "loss": 12,
+      "draw": 0,
+      "time_per_move": 31037,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2172,
+      "date": 1765423870,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2293,
+      "date": 1655268688,
+      "game": "https://www.chess.com/game/live/48853758077"
+    },
+    "record": {
+      "win": 208,
+      "loss": 250,
+      "draw": 75
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2017,
+      "date": 1764909530,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1726476673,
+      "game": "https://www.chess.com/game/live/120071412627"
+    },
+    "record": {
+      "win": 555,
+      "loss": 580,
+      "draw": 55
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2193,
+      "date": 1745145250,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2236,
+      "date": 1686674767,
+      "game": "https://www.chess.com/game/live/78593602497"
+    },
+    "record": {
+      "win": 577,
+      "loss": 702,
+      "draw": 110
+    }
+  },
+  "fide": 1981,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1646801542
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1646801542
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9979756.105230d9.200x200o.79bad3afda0b.jpg",
+  "player_id": 9979756,
+  "@id": "https://api.chess.com/pub/player/bluepict",
+  "url": "https://www.chess.com/member/Bluepict",
+  "name": "Iain Swan",
+  "username": "bluepict",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/XS",
+  "last_online": 1776587178,
+  "joined": 1355250763,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 2241,
+      "date": 1674062712,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1664634406,
+      "game": "https://www.chess.com/game/daily/407847063"
+    },
+    "record": {
+      "win": 128,
+      "loss": 2,
+      "draw": 4,
+      "time_per_move": 75088,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1602,
+      "date": 1749228751,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1786,
+      "date": 1370381122,
+      "rd": 61
+    },
+    "best": {
+      "rating": 1733,
+      "date": 1360439105,
+      "game": "https://www.chess.com/game/live/423696068"
+    },
+    "record": {
+      "win": 111,
+      "loss": 64,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2277,
+      "date": 1715270717,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1715270717,
+      "game": "https://www.chess.com/game/live/72653452019"
+    },
+    "record": {
+      "win": 153,
+      "loss": 72,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2936,
+      "date": 1776458904
+    },
+    "lowest": {
+      "rating": 2623,
+      "date": 1759767933
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

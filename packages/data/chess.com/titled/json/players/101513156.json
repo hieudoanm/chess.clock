@@ -1,0 +1,57 @@
+{
+  "player_id": 101513156,
+  "@id": "https://api.chess.com/pub/player/schondeln",
+  "url": "https://www.chess.com/member/schondeln",
+  "name": "Marcel Beulen",
+  "username": "schondeln",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1770756288,
+  "joined": 1607034037,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2229,
+      "date": 1740438927,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2506,
+      "date": 1768932768,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1768930263,
+      "game": "https://www.chess.com/game/live/134263747263"
+    },
+    "record": {
+      "win": 365,
+      "loss": 435,
+      "draw": 111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1607034037
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1607034037
+    }
+  },
+  "puzzle_rush": {}
+}

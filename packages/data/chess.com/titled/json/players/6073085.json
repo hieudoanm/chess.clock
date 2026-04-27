@@ -1,0 +1,103 @@
+{
+  "player_id": 6073085,
+  "@id": "https://api.chess.com/pub/player/mijuarez",
+  "url": "https://www.chess.com/member/MIJUAREZ",
+  "name": "Carlos A. Juarez Flores",
+  "username": "mijuarez",
+  "title": "IM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/GT",
+  "last_online": 1776462546,
+  "joined": 1320530739,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 998,
+      "date": 1753364645,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1320530739,
+      "game": "https://www.chess.com/game/daily/275912202"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 20051,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2284,
+      "date": 1703629429,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1611421320,
+      "game": "https://www.chess.com/game/live/24340944207"
+    },
+    "record": {
+      "win": 49,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2536,
+      "date": 1774454922,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1757621970,
+      "game": "https://www.chess.com/game/live/100969465601"
+    },
+    "record": {
+      "win": 108,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2510,
+      "date": 1769526493,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2554,
+      "date": 1755121564,
+      "game": "https://www.chess.com/game/live/100975434117"
+    },
+    "record": {
+      "win": 646,
+      "loss": 137,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2432,
+      "date": 1762806354
+    },
+    "lowest": {
+      "rating": 2322,
+      "date": 1775518892
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

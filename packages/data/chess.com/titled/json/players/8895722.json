@@ -1,0 +1,104 @@
+{
+  "player_id": 8895722,
+  "@id": "https://api.chess.com/pub/player/guillejr",
+  "url": "https://www.chess.com/member/guillejr",
+  "name": "Gui Ribero",
+  "username": "guillejr",
+  "title": "CM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/CO",
+  "location": "Bogota",
+  "last_online": 1776460174,
+  "joined": 1347572761,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 783,
+      "date": 1747676088,
+      "rd": 245
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1347572761,
+      "game": "https://www.chess.com/game/daily/808430930"
+    },
+    "record": {
+      "win": 7,
+      "loss": 20,
+      "draw": 0,
+      "time_per_move": 29969,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1789,
+      "date": 1711849745,
+      "rd": 190
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1618273250,
+      "game": "https://www.chess.com/game/live/35304384457"
+    },
+    "record": {
+      "win": 49,
+      "loss": 51,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1977,
+      "date": 1776460166,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1750021543,
+      "game": "https://www.chess.com/game/live/139707059628"
+    },
+    "record": {
+      "win": 1797,
+      "loss": 1673,
+      "draw": 120
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1777,
+      "date": 1753826697,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1624139787,
+      "game": "https://www.chess.com/game/live/17868145185"
+    },
+    "record": {
+      "win": 1202,
+      "loss": 1165,
+      "draw": 91
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2127,
+      "date": 1765724427
+    },
+    "lowest": {
+      "rating": 2113,
+      "date": 1765724396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

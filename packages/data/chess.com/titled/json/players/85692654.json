@@ -1,0 +1,104 @@
+{
+  "player_id": 85692654,
+  "@id": "https://api.chess.com/pub/player/szmm19",
+  "url": "https://www.chess.com/member/SzMM19",
+  "name": "Marton Mihaly Szabo",
+  "username": "szmm19",
+  "title": "FM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776569793,
+  "joined": 1593886686,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1260,
+      "date": 1776492650,
+      "rd": 211
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1704277875,
+      "game": "https://www.chess.com/game/daily/901675753"
+    },
+    "record": {
+      "win": 12,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 51046,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2566,
+      "date": 1776445227,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1776247213,
+      "game": "https://www.chess.com/game/live/141636522400"
+    },
+    "record": {
+      "win": 176,
+      "loss": 49,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2853,
+      "date": 1776516675,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2936,
+      "date": 1774650017,
+      "game": "https://www.chess.com/game/live/110498542497"
+    },
+    "record": {
+      "win": 8972,
+      "loss": 5456,
+      "draw": 1144
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2842,
+      "date": 1776569711,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2892,
+      "date": 1750274919,
+      "game": "https://www.chess.com/game/live/20713265915"
+    },
+    "record": {
+      "win": 3885,
+      "loss": 3247,
+      "draw": 937
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2754,
+      "date": 1767000087
+    },
+    "lowest": {
+      "rating": 2581,
+      "date": 1756910653
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

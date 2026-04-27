@@ -1,0 +1,81 @@
+{
+  "player_id": 19378360,
+  "@id": "https://api.chess.com/pub/player/admirale",
+  "url": "https://www.chess.com/member/AdmiralE",
+  "name": "Admiral E",
+  "username": "admirale",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/BE",
+  "location": "Leuven",
+  "last_online": 1578920526,
+  "joined": 1413805677,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2096,
+      "date": 1503995295,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1442675612,
+      "game": "https://www.chess.com/game/daily/115619774"
+    },
+    "record": {
+      "win": 31,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 41124,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2593,
+      "date": 1578951095,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1522002809,
+      "game": "https://www.chess.com/game/live/2701140579"
+    },
+    "record": {
+      "win": 96,
+      "loss": 96,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2621,
+      "date": 1578942606,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2622,
+      "date": 1576920601,
+      "game": "https://www.chess.com/game/live/4386194486"
+    },
+    "record": {
+      "win": 331,
+      "loss": 251,
+      "draw": 51
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2322,
+      "date": 1413805677
+    },
+    "lowest": {
+      "rating": 2322,
+      "date": 1413805677
+    }
+  },
+  "puzzle_rush": {}
+}

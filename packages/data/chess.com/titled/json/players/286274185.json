@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/286274185.b5bb91c4.200x200o.41ca5ec46c40.png",
+  "player_id": 286274185,
+  "@id": "https://api.chess.com/pub/player/chesssharkz",
+  "url": "https://www.chess.com/member/ChessSharkz",
+  "name": "Kayden Troff",
+  "username": "chesssharkz",
+  "title": "GM",
+  "followers": 4501,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776542881,
+  "joined": 1684341535,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chesssharkz",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chesssharkz"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2589,
+      "date": 1763001950,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1706162249,
+      "game": "https://www.chess.com/game/live/117663029331"
+    },
+    "record": {
+      "win": 34,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3031,
+      "date": 1776542574,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3128,
+      "date": 1763227962,
+      "game": "https://www.chess.com/game/live/170846429395"
+    },
+    "record": {
+      "win": 3320,
+      "loss": 1865,
+      "draw": 309
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3004,
+      "date": 1776376563,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3073,
+      "date": 1769879598,
+      "game": "https://www.chess.com/game/live/123351698373"
+    },
+    "record": {
+      "win": 2401,
+      "loss": 1523,
+      "draw": 347
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2968,
+      "date": 1760463472
+    },
+    "lowest": {
+      "rating": 2935,
+      "date": 1760466384
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 86,
+      "score": 83
+    }
+  }
+}

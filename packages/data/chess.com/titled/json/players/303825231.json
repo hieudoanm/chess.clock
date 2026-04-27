@@ -1,0 +1,80 @@
+{
+  "player_id": 303825231,
+  "@id": "https://api.chess.com/pub/player/chess151004",
+  "url": "https://www.chess.com/member/Chess151004",
+  "name": "Rindhiya V",
+  "username": "chess151004",
+  "title": "WFM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1774625237,
+  "joined": 1691155544,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2075,
+      "date": 1762531536,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1911,
+      "date": 1760257664,
+      "game": "https://www.chess.com/game/live/144194569224"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2229,
+      "date": 1764603979,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2229,
+      "date": 1764603979,
+      "game": "https://www.chess.com/game/live/145388549288"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2111,
+      "date": 1764613465,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2111,
+      "date": 1764613465,
+      "game": "https://www.chess.com/game/live/146191684098"
+    },
+    "record": {
+      "win": 20,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "fide": 2075,
+  "tactics": {
+    "highest": {
+      "rating": 1824,
+      "date": 1774451122
+    },
+    "lowest": {
+      "rating": 1046,
+      "date": 1763472550
+    }
+  },
+  "puzzle_rush": {}
+}

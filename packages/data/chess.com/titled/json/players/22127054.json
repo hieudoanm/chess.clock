@@ -1,0 +1,95 @@
+{
+  "player_id": 22127054,
+  "@id": "https://api.chess.com/pub/player/jopebouzy",
+  "url": "https://www.chess.com/member/jopebouzy",
+  "name": "Jorge Arias",
+  "username": "jopebouzy",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/UY",
+  "location": "Montevideo",
+  "last_online": 1776573153,
+  "joined": 1430001090,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1725878285,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 55,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1749,
+      "date": 1747006916,
+      "rd": 232
+    },
+    "best": {
+      "rating": 1081,
+      "date": 1636237708,
+      "game": "https://www.chess.com/game/live/29976506877"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1151,
+      "date": 1726984467,
+      "rd": 192
+    },
+    "best": {
+      "rating": 1306,
+      "date": 1662590848,
+      "game": "https://www.chess.com/game/live/4799014303"
+    },
+    "record": {
+      "win": 5,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2177,
+      "date": 1776573139,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1774652367,
+      "game": "https://www.chess.com/game/live/66316805263"
+    },
+    "record": {
+      "win": 4800,
+      "loss": 4367,
+      "draw": 606
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1776,
+      "date": 1430001090
+    },
+    "lowest": {
+      "rating": 1776,
+      "date": 1430001090
+    }
+  },
+  "puzzle_rush": {}
+}

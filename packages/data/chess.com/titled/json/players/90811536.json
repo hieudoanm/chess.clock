@@ -1,0 +1,106 @@
+{
+  "player_id": 90811536,
+  "@id": "https://api.chess.com/pub/player/el-pansas",
+  "url": "https://www.chess.com/member/El-Pansas",
+  "username": "el-pansas",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776552347,
+  "joined": 1599580527,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1668,
+      "date": 1721224895,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1671,
+      "date": 1613465460,
+      "game": "https://www.chess.com/game/daily/306854574"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 3,
+      "time_per_move": 30221,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1768595473,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1768595473,
+      "game": "https://www.chess.com/game/live/148100287502"
+    },
+    "record": {
+      "win": 32,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1766531384,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2686,
+      "date": 1755299631,
+      "game": "https://www.chess.com/game/live/142096683096"
+    },
+    "record": {
+      "win": 569,
+      "loss": 477,
+      "draw": 77
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2686,
+      "date": 1776524413,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1776279282,
+      "game": "https://www.chess.com/game/live/147798462028"
+    },
+    "record": {
+      "win": 825,
+      "loss": 777,
+      "draw": 90
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2472,
+      "date": 1763851921
+    },
+    "lowest": {
+      "rating": 2208,
+      "date": 1763757605
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    },
+    "daily": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

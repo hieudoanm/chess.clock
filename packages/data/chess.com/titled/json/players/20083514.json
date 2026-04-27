@@ -1,0 +1,103 @@
+{
+    "player_id": 20083514,
+    "@id": "https://api.chess.com/pub/player/lionelmessifcb",
+    "url": "https://www.chess.com/member/LionelMessiFCB",
+    "name": "Mahadevan Mrithyunjay",
+    "username": "lionelmessifcb",
+    "title": "CM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/IN",
+    "last_online": 1741344044,
+    "joined": 1418040311,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1623,
+            "date": 1705310425,
+            "rd": 213
+        },
+        "best": {
+            "rating": 1623,
+            "date": 1575884816,
+            "game": "https://www.chess.com/game/daily/243219724"
+        },
+        "record": {
+            "win": 3,
+            "loss": 3,
+            "draw": 0,
+            "time_per_move": 51522,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1805,
+            "date": 1657442724,
+            "rd": 129
+        },
+        "best": {
+            "rating": 1885,
+            "date": 1593778950,
+            "game": "https://www.chess.com/game/live/5239150663"
+        },
+        "record": {
+            "win": 813,
+            "loss": 730,
+            "draw": 77
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2510,
+            "date": 1734805739,
+            "rd": 36
+        },
+        "best": {
+            "rating": 2544,
+            "date": 1734804554,
+            "game": "https://www.chess.com/game/live/128540662407"
+        },
+        "record": {
+            "win": 574,
+            "loss": 531,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2601,
+            "date": 1727800187,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2610,
+            "date": 1727795121,
+            "game": "https://www.chess.com/game/live/119114450473"
+        },
+        "record": {
+            "win": 2773,
+            "loss": 2241,
+            "draw": 204
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3593,
+            "date": 1725194703
+        },
+        "lowest": {
+            "rating": 951,
+            "date": 1435399926
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 47,
+            "score": 44
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4284304.1f27145a.200x200o.cdfafde3fc4e.png",
+  "player_id": 4284304,
+  "@id": "https://api.chess.com/pub/player/bulletmercenary",
+  "url": "https://www.chess.com/member/BulletMercenary",
+  "name": "Kevin Chung",
+  "username": "bulletmercenary",
+  "title": "NM",
+  "followers": 317,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1775250822,
+  "joined": 1290352493,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/bulletmercenary",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/bulletmercenary"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2017,
+      "date": 1671729629,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2264,
+      "date": 1640662812,
+      "game": "https://www.chess.com/game/live/36211746379"
+    },
+    "record": {
+      "win": 481,
+      "loss": 66,
+      "draw": 39
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2545,
+      "date": 1769014611,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1433018617,
+      "game": "https://www.chess.com/game/live/35963944435"
+    },
+    "record": {
+      "win": 3841,
+      "loss": 2367,
+      "draw": 502
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2370,
+      "date": 1773095743,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1630544408,
+      "game": "https://www.chess.com/game/live/7845252011"
+    },
+    "record": {
+      "win": 1177,
+      "loss": 675,
+      "draw": 156
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2274,
+      "date": 1290352493
+    },
+    "lowest": {
+      "rating": 2274,
+      "date": 1290352493
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 88,
+      "score": 85
+    }
+  }
+}

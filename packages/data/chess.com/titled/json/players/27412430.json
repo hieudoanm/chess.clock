@@ -1,0 +1,82 @@
+{
+  "player_id": 27412430,
+  "@id": "https://api.chess.com/pub/player/jlauri",
+  "url": "https://www.chess.com/member/jlauri",
+  "name": "Josef Lauri",
+  "username": "jlauri",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/MT",
+  "location": "St Julians",
+  "last_online": 1774352279,
+  "joined": 1458856298,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2035,
+      "date": 1742585924,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2035,
+      "date": 1607010920,
+      "game": "https://www.chess.com/game/daily/282542640"
+    },
+    "record": {
+      "win": 24,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28451,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1788,
+      "date": 1712332357,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1591382493,
+      "game": "https://www.chess.com/game/live/5026692179"
+    },
+    "record": {
+      "win": 25,
+      "loss": 22,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2100,
+      "date": 1591259875,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2100,
+      "date": 1591258632,
+      "game": "https://www.chess.com/game/live/4420182722"
+    },
+    "record": {
+      "win": 43,
+      "loss": 47,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1458856298
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1458856298
+    }
+  },
+  "puzzle_rush": {}
+}

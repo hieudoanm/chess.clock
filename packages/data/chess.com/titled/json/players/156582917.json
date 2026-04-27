@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/156582917.5b0b91ee.200x200o.3b32bc789967.jpeg",
+  "player_id": 156582917,
+  "@id": "https://api.chess.com/pub/player/oneeyedguest",
+  "url": "https://www.chess.com/member/OneEyedGuest",
+  "username": "oneeyedguest",
+  "title": "FM",
+  "followers": 165,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775045758,
+  "joined": 1633109251,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2412,
+      "date": 1659719536,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2521,
+      "date": 1657293513,
+      "game": "https://www.chess.com/game/live/52766480701"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2462,
+      "date": 1713888694,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1709665807,
+      "game": "https://www.chess.com/game/live/106236519179"
+    },
+    "record": {
+      "win": 4374,
+      "loss": 4178,
+      "draw": 540
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1774537881,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1738352302,
+      "game": "https://www.chess.com/game/live/127300838569"
+    },
+    "record": {
+      "win": 7896,
+      "loss": 7035,
+      "draw": 1381
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2540,
+      "date": 1633109251
+    },
+    "lowest": {
+      "rating": 2540,
+      "date": 1633109251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

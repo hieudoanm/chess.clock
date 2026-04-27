@@ -1,0 +1,97 @@
+{
+  "player_id": 21304516,
+  "@id": "https://api.chess.com/pub/player/camilaavelino",
+  "url": "https://www.chess.com/member/camilaavelino",
+  "name": "Camila Avelino",
+  "username": "camilaavelino",
+  "title": "WFM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/PT",
+  "location": "lisboa",
+  "last_online": 1775915010,
+  "joined": 1425127029,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1739757033,
+      "rd": 290
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 88,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1900,
+      "date": 1743783659
+    },
+    "best": {
+      "rating": 1792,
+      "date": 1658613274,
+      "game": "https://www.chess.com/game/live/4892508150"
+    },
+    "record": {
+      "win": 19,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1900,
+      "date": 1677162110
+    },
+    "best": {
+      "rating": 1881,
+      "date": 1664364836,
+      "game": "https://www.chess.com/game/live/4966809673"
+    },
+    "record": {
+      "win": 123,
+      "loss": 106,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2090,
+      "date": 1775420223,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1763748841,
+      "game": "https://www.chess.com/game/live/164030380714"
+    },
+    "record": {
+      "win": 299,
+      "loss": 237,
+      "draw": 13
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2377,
+      "date": 1757264157
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1757189475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 44976492,
+  "@id": "https://api.chess.com/pub/player/tictacfm",
+  "url": "https://www.chess.com/member/TicTacFM",
+  "username": "tictacfm",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776493993,
+  "joined": 1522867545,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2272,
+      "date": 1624647316,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1614533974,
+      "game": "https://www.chess.com/game/live/13109499019"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2706,
+      "date": 1607125874,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1607125874,
+      "game": "https://www.chess.com/game/live/5888786648"
+    },
+    "record": {
+      "win": 136,
+      "loss": 113,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1734992724,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1661001181,
+      "game": "https://www.chess.com/game/live/54144559803"
+    },
+    "record": {
+      "win": 619,
+      "loss": 587,
+      "draw": 137
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1522867545
+    },
+    "lowest": {
+      "rating": 2452,
+      "date": 1522867545
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

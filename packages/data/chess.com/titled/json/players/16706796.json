@@ -1,0 +1,104 @@
+{
+  "player_id": 16706796,
+  "@id": "https://api.chess.com/pub/player/gmcyborek",
+  "url": "https://www.chess.com/member/gmcyborek",
+  "name": "Lukasz Cyborowski",
+  "username": "gmcyborek",
+  "title": "GM",
+  "followers": 219,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Legnica",
+  "last_online": 1776413839,
+  "joined": 1396348303,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1462471416,
+      "rd": 350
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1396348303,
+      "game": "https://www.chess.com/game/daily/111432428"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 22,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1745,
+      "date": 1726157841,
+      "rd": 329
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1421395200,
+      "game": "https://www.chess.com/game/live/2418603900"
+    },
+    "record": {
+      "win": 11,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2614,
+      "date": 1538332360,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1502538190,
+      "game": "https://www.chess.com/game/live/1733999901"
+    },
+    "record": {
+      "win": 3335,
+      "loss": 2192,
+      "draw": 270
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2745,
+      "date": 1658238571,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1658238571,
+      "game": "https://www.chess.com/game/live/3025420015"
+    },
+    "record": {
+      "win": 2117,
+      "loss": 1255,
+      "draw": 347
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1396348303
+    },
+    "lowest": {
+      "rating": 2493,
+      "date": 1396348303
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

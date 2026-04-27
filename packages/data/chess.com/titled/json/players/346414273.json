@@ -1,0 +1,71 @@
+{
+  "player_id": 346414273,
+  "@id": "https://api.chess.com/pub/player/drm_champ3",
+  "url": "https://www.chess.com/member/DRM_CHAMP3",
+  "name": "DR",
+  "username": "drm_champ3",
+  "title": "FM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776595805,
+  "joined": 1708424436,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2879,
+      "date": 1776594759,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2893,
+      "date": 1776310307,
+      "game": "https://www.chess.com/game/live/167329287014"
+    },
+    "record": {
+      "win": 738,
+      "loss": 615,
+      "draw": 60
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2898,
+      "date": 1776309589,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2940,
+      "date": 1765640145,
+      "game": "https://www.chess.com/game/live/146665296422"
+    },
+    "record": {
+      "win": 467,
+      "loss": 526,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2696,
+      "date": 1757581044
+    },
+    "lowest": {
+      "rating": 2610,
+      "date": 1755564734
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

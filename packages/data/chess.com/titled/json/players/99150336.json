@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/99150336.0ca1f734.200x200o.d45a351ede5e.jpg",
+  "player_id": 99150336,
+  "@id": "https://api.chess.com/pub/player/nikavolkov",
+  "url": "https://www.chess.com/member/NikaVolkov",
+  "name": "Nika Volkov",
+  "username": "nikavolkov",
+  "title": "CM",
+  "followers": 708,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776583291,
+  "joined": 1606244506,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2020,
+      "date": 1776314856,
+      "rd": 347
+    },
+    "best": {
+      "rating": 2020,
+      "date": 1776314855,
+      "game": "https://www.chess.com/game/daily/424632103"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 42585,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2192,
+      "date": 1772638058,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1771086325,
+      "game": "https://www.chess.com/game/live/25007408961"
+    },
+    "record": {
+      "win": 8,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3065,
+      "date": 1776535137,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3114,
+      "date": 1776529529,
+      "game": "https://www.chess.com/game/live/142420815763"
+    },
+    "record": {
+      "win": 4952,
+      "loss": 3833,
+      "draw": 541
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2866,
+      "date": 1776374418,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2878,
+      "date": 1776372766,
+      "game": "https://www.chess.com/game/live/170061044349"
+    },
+    "record": {
+      "win": 254,
+      "loss": 187,
+      "draw": 29
+    }
+  },
+  "fide": 2206,
+  "tactics": {
+    "highest": {
+      "rating": 2576,
+      "date": 1764521461
+    },
+    "lowest": {
+      "rating": 2378,
+      "date": 1770216883
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

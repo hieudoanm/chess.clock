@@ -1,0 +1,98 @@
+{
+  "player_id": 86277594,
+  "@id": "https://api.chess.com/pub/player/chessgm3000_bw",
+  "url": "https://www.chess.com/member/ChessGM3000_bw",
+  "name": "Naledi Marape",
+  "username": "chessgm3000_bw",
+  "title": "WFM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/BW",
+  "last_online": 1775012830,
+  "joined": 1594325759,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1240,
+      "date": 1755391850,
+      "rd": 322
+    },
+    "best": {
+      "rating": 1240,
+      "date": 1755391850,
+      "game": "https://www.chess.com/game/daily/785598105"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 108130,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1869,
+      "date": 1773595917,
+      "rd": 91
+    },
+    "best": {
+      "rating": 1917,
+      "date": 1773595540,
+      "game": "https://www.chess.com/game/live/165986682306"
+    },
+    "record": {
+      "win": 19,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1333,
+      "date": 1773592757,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1766,
+      "date": 1772688871,
+      "rd": 94
+    },
+    "best": {
+      "rating": 1792,
+      "date": 1772688527,
+      "game": "https://www.chess.com/game/live/165528073660"
+    },
+    "record": {
+      "win": 40,
+      "loss": 29,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1861,
+      "date": 1594325759
+    },
+    "lowest": {
+      "rating": 1861,
+      "date": 1594325759
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 19
+    }
+  }
+}

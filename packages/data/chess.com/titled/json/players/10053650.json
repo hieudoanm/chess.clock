@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10053650.86a44213.200x200o.4079135cbcea.jpeg",
+  "player_id": 10053650,
+  "@id": "https://api.chess.com/pub/player/kempsy",
+  "url": "https://www.chess.com/member/Kempsy",
+  "name": "Robin van Kampen",
+  "username": "kempsy",
+  "title": "GM",
+  "followers": 390,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776128038,
+  "joined": 1355764723,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1806,
+      "date": 1580420402,
+      "rd": 326
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1355764723,
+      "game": "https://www.chess.com/game/daily/154173880"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 129508,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2660,
+      "date": 1634834255,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1616768305,
+      "game": "https://www.chess.com/game/live/10506486937"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3000,
+      "date": 1771811949,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3000,
+      "date": 1771811949,
+      "game": "https://www.chess.com/game/live/89674833979"
+    },
+    "record": {
+      "win": 1077,
+      "loss": 669,
+      "draw": 111
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3003,
+      "date": 1763308721,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3003,
+      "date": 1763308721,
+      "game": "https://www.chess.com/game/live/25995019835"
+    },
+    "record": {
+      "win": 3084,
+      "loss": 2283,
+      "draw": 695
+    }
+  },
+  "fide": 2658,
+  "tactics": {
+    "highest": {
+      "rating": 2332,
+      "date": 1355764723
+    },
+    "lowest": {
+      "rating": 2332,
+      "date": 1355764723
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

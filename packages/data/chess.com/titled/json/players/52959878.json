@@ -1,0 +1,87 @@
+{
+  "player_id": 52959878,
+  "@id": "https://api.chess.com/pub/player/unikman",
+  "url": "https://www.chess.com/member/unikman",
+  "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u0435\u0440\u0435\u043b\u044b\u0433\u0438\u043d",
+  "username": "unikman",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776452259,
+  "joined": 1544276134,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2016,
+      "date": 1775371047,
+      "rd": 344
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1775371047,
+      "game": "https://www.chess.com/game/daily/888977589"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 67848,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2227,
+      "date": 1776097640,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2227,
+      "date": 1763395476,
+      "game": "https://www.chess.com/game/live/117461995285"
+    },
+    "record": {
+      "win": 14,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2423,
+      "date": 1774735402,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1748294322,
+      "game": "https://www.chess.com/game/live/150553096189"
+    },
+    "record": {
+      "win": 261,
+      "loss": 198,
+      "draw": 39
+    }
+  },
+  "fide": 2227,
+  "tactics": {
+    "highest": {
+      "rating": 1584,
+      "date": 1776085068
+    },
+    "lowest": {
+      "rating": 1497,
+      "date": 1776426104
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

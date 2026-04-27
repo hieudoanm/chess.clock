@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5336566.46829df1.200x200o.a812e87a8ec5.jpeg",
+  "player_id": 5336566,
+  "@id": "https://api.chess.com/pub/player/paulkoris",
+  "url": "https://www.chess.com/member/PaulKoris",
+  "name": "Joris Kokje",
+  "username": "paulkoris",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Utrecht",
+  "last_online": 1776257050,
+  "joined": 1309024357,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1670342491,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 128164,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2292,
+      "date": 1678801507,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1648288051,
+      "game": "https://www.chess.com/game/live/59680281011"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2378,
+      "date": 1677584150,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1654954231,
+      "game": "https://www.chess.com/game/live/48849525429"
+    },
+    "record": {
+      "win": 90,
+      "loss": 87,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2561,
+      "date": 1776257034,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1776256658,
+      "game": "https://www.chess.com/game/live/49750752733"
+    },
+    "record": {
+      "win": 1567,
+      "loss": 1206,
+      "draw": 237
+    }
+  },
+  "fide": 2274,
+  "tactics": {
+    "highest": {
+      "rating": 2468,
+      "date": 1773764574
+    },
+    "lowest": {
+      "rating": 2295,
+      "date": 1773764186
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 4839587,
+  "@id": "https://api.chess.com/pub/player/edgalbraith",
+  "url": "https://www.chess.com/member/EdGalbraith",
+  "name": "Anthony Hughes",
+  "username": "edgalbraith",
+  "title": "CM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/XW",
+  "location": "London",
+  "last_online": 1776580595,
+  "joined": 1299881809,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2022,
+      "date": 1776023984,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1766741299,
+      "game": "https://www.chess.com/game/live/146472032836"
+    },
+    "record": {
+      "win": 46,
+      "loss": 37,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1389,
+      "date": 1617824854,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1455523200,
+      "game": "https://www.chess.com/game/live/11562250885"
+    },
+    "record": {
+      "win": 12,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1739,
+      "date": 1776443103,
+      "rd": 31
+    },
+    "best": {
+      "rating": 1937,
+      "date": 1764720998,
+      "game": "https://www.chess.com/game/live/20542224759"
+    },
+    "record": {
+      "win": 6160,
+      "loss": 5521,
+      "draw": 789
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1672,
+      "date": 1773245060
+    },
+    "lowest": {
+      "rating": 1596,
+      "date": 1773245096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

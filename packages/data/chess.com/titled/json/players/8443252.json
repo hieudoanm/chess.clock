@@ -1,0 +1,104 @@
+{
+  "player_id": 8443252,
+  "@id": "https://api.chess.com/pub/player/tandaleo",
+  "url": "https://www.chess.com/member/tandaleo",
+  "name": "Jan Marn",
+  "username": "tandaleo",
+  "title": "FM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/SI",
+  "location": "Ljubljana",
+  "last_online": 1774555046,
+  "joined": 1344176033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 645,
+      "date": 1725873088,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1344176033,
+      "game": "https://www.chess.com/game/daily/619811527"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1861,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1766252773,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1590425610,
+      "game": "https://www.chess.com/game/live/112980045477"
+    },
+    "record": {
+      "win": 155,
+      "loss": 114,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2539,
+      "date": 1723159995,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2557,
+      "date": 1723159752,
+      "game": "https://www.chess.com/game/live/116898017619"
+    },
+    "record": {
+      "win": 656,
+      "loss": 461,
+      "draw": 53
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2664,
+      "date": 1774554979,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1762552899,
+      "game": "https://www.chess.com/game/live/100975434369"
+    },
+    "record": {
+      "win": 1964,
+      "loss": 1732,
+      "draw": 323
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2512,
+      "date": 1757333192
+    },
+    "lowest": {
+      "rating": 2420,
+      "date": 1760002353
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

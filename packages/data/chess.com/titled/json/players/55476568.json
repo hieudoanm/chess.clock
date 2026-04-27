@@ -1,0 +1,69 @@
+{
+  "player_id": 55476568,
+  "@id": "https://api.chess.com/pub/player/alaoneagain",
+  "url": "https://www.chess.com/member/ALaOneAgain",
+  "name": "Laurie Delorme",
+  "username": "alaoneagain",
+  "title": "WIM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Marseille",
+  "last_online": 1772010775,
+  "joined": 1546535499,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2272,
+      "date": 1714201145,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1692966203,
+      "game": "https://www.chess.com/game/live/86704882671"
+    },
+    "record": {
+      "win": 7,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2369,
+      "date": 1761144043,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1692137861,
+      "game": "https://www.chess.com/game/live/85873917363"
+    },
+    "record": {
+      "win": 87,
+      "loss": 74,
+      "draw": 4
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2464,
+      "date": 1762380410
+    },
+    "lowest": {
+      "rating": 2325,
+      "date": 1764637641
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

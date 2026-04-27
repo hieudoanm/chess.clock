@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/297801067.6f8c4494.200x200o.c44f9e7470ae.jpg",
+  "player_id": 297801067,
+  "@id": "https://api.chess.com/pub/player/mikhailblr",
+  "url": "https://www.chess.com/member/MikhailBLR",
+  "name": "Mikhail Ginzburg",
+  "username": "mikhailblr",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/BY",
+  "location": "Minsk",
+  "last_online": 1776584418,
+  "joined": 1688471961,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1460,
+      "date": 1774133250,
+      "rd": 207
+    },
+    "best": {
+      "rating": 1605,
+      "date": 1698678759,
+      "game": "https://www.chess.com/game/daily/728012727"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 38288,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2211,
+      "date": 1725166995,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2424,
+      "date": 1776584407,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1776187948,
+      "game": "https://www.chess.com/game/live/146905401293"
+    },
+    "record": {
+      "win": 1545,
+      "loss": 1283,
+      "draw": 254
+    }
+  },
+  "fide": 2229,
+  "tactics": {
+    "highest": {
+      "rating": 2151,
+      "date": 1688471961
+    },
+    "lowest": {
+      "rating": 2151,
+      "date": 1688471961
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

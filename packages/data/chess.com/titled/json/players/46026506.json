@@ -1,0 +1,105 @@
+{
+  "player_id": 46026506,
+  "@id": "https://api.chess.com/pub/player/muifel",
+  "url": "https://www.chess.com/member/Muifel",
+  "name": "\u0418\u0432\u0430\u043d \u0411\u0430\u0431\u0438\u043a\u043e\u0432",
+  "username": "muifel",
+  "title": "FM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+  "last_online": 1776586824,
+  "joined": 1525868073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1647,
+      "date": 1765825179,
+      "rd": 143
+    },
+    "best": {
+      "rating": 1647,
+      "date": 1640894176,
+      "game": "https://www.chess.com/game/daily/373530001"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32288,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1984,
+      "date": 1640196423,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1606643085,
+      "game": "https://www.chess.com/game/live/5567662274"
+    },
+    "record": {
+      "win": 18,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2196,
+      "date": 1635669031,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1576597600,
+      "game": "https://www.chess.com/game/live/4309022209"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2506,
+      "date": 1751271809,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1700582805,
+      "game": "https://www.chess.com/game/live/94321378665"
+    },
+    "record": {
+      "win": 345,
+      "loss": 141,
+      "draw": 28
+    }
+  },
+  "fide": 2268,
+  "tactics": {
+    "highest": {
+      "rating": 2511,
+      "date": 1525868073
+    },
+    "lowest": {
+      "rating": 2511,
+      "date": 1525868073
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

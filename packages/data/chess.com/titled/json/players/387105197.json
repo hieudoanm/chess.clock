@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/387105197.b0bbd856.200x200o.74fe6f726de8.png",
+  "player_id": 387105197,
+  "@id": "https://api.chess.com/pub/player/polishforce3000",
+  "url": "https://www.chess.com/member/PolishForce3000",
+  "name": "Adam Giba\u0142a",
+  "username": "polishforce3000",
+  "title": "FM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776543139,
+  "joined": 1725875103,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1352,
+      "date": 1773517319,
+      "rd": 224
+    },
+    "best": {
+      "rating": 1352,
+      "date": 1773517318,
+      "game": "https://www.chess.com/game/daily/708052101"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 57116,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2274,
+      "date": 1774381349,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1752865828,
+      "game": "https://www.chess.com/game/live/147914231474"
+    },
+    "record": {
+      "win": 15,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2487,
+      "date": 1774449757,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1747334031,
+      "game": "https://www.chess.com/game/live/141646873683"
+    },
+    "record": {
+      "win": 30,
+      "loss": 32,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2670,
+      "date": 1774545743,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2777,
+      "date": 1760108506,
+      "game": "https://www.chess.com/game/live/152348284405"
+    },
+    "record": {
+      "win": 293,
+      "loss": 304,
+      "draw": 45
+    }
+  },
+  "fide": 2240,
+  "tactics": {
+    "highest": {
+      "rating": 2161,
+      "date": 1725875103
+    },
+    "lowest": {
+      "rating": 2161,
+      "date": 1725875103
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

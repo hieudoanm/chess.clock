@@ -1,0 +1,98 @@
+{
+  "player_id": 100283006,
+  "@id": "https://api.chess.com/pub/player/leivala",
+  "url": "https://www.chess.com/member/Leivala",
+  "name": "Gianmarco Leiva Rodriguez",
+  "username": "leivala",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AG",
+  "last_online": 1770644977,
+  "joined": 1606617522,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1799,
+      "date": 1670578805,
+      "rd": 286
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 452832,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1739,
+      "date": 1703995055,
+      "rd": 153
+    },
+    "best": {
+      "rating": 2060,
+      "date": 1648585121,
+      "game": "https://www.chess.com/game/live/97732772397"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2097,
+      "date": 1702589555,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1608402543,
+      "game": "https://www.chess.com/game/live/6007494220"
+    },
+    "record": {
+      "win": 87,
+      "loss": 93,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2001,
+      "date": 1713148496,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1648404108,
+      "game": "https://www.chess.com/game/live/95317136225"
+    },
+    "record": {
+      "win": 73,
+      "loss": 42,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1657,
+      "date": 1606617522
+    },
+    "lowest": {
+      "rating": 1657,
+      "date": 1606617522
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

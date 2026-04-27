@@ -1,0 +1,99 @@
+{
+  "player_id": 76182154,
+  "@id": "https://api.chess.com/pub/player/m_ezat",
+  "url": "https://www.chess.com/member/m_ezat",
+  "name": "Mohamed Ezat",
+  "username": "m_ezat",
+  "title": "IM",
+  "followers": 1174,
+  "country": "https://api.chess.com/pub/country/EG",
+  "last_online": 1776580490,
+  "joined": 1586457864,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1318,
+      "date": 1776579524,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1318,
+      "date": 1776542725,
+      "game": "https://www.chess.com/game/daily/751223799"
+    },
+    "record": {
+      "win": 31,
+      "loss": 28,
+      "draw": 8,
+      "time_per_move": 27155,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2291,
+      "date": 1741792154,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1654976026,
+      "game": "https://www.chess.com/game/live/104835062477"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2576,
+      "date": 1763938975,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1726527202,
+      "game": "https://www.chess.com/game/live/82398599439"
+    },
+    "record": {
+      "win": 77,
+      "loss": 64,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1776580343,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2838,
+      "date": 1763988035,
+      "game": "https://www.chess.com/game/live/168081618773"
+    },
+    "record": {
+      "win": 8896,
+      "loss": 7252,
+      "draw": 1363
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2525,
+      "date": 1760451266
+    },
+    "lowest": {
+      "rating": 2386,
+      "date": 1760451281
+    }
+  },
+  "puzzle_rush": {}
+}

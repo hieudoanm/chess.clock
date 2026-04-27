@@ -1,0 +1,103 @@
+{
+  "player_id": 12774886,
+  "@id": "https://api.chess.com/pub/player/loveumore",
+  "url": "https://www.chess.com/member/LoveUMore",
+  "name": "Jeffery Sarwer",
+  "username": "loveumore",
+  "title": "FM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776538271,
+  "joined": 1374250437,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1388,
+      "date": 1701539627,
+      "rd": 341
+    },
+    "best": {
+      "rating": 1388,
+      "date": 1505681810,
+      "game": "https://www.chess.com/game/daily/174125412"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18308,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2307,
+      "date": 1668067870,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1661986305,
+      "game": "https://www.chess.com/game/live/33577776907"
+    },
+    "record": {
+      "win": 46,
+      "loss": 22,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2253,
+      "date": 1606100651,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1606100651,
+      "game": "https://www.chess.com/game/live/840584455"
+    },
+    "record": {
+      "win": 81,
+      "loss": 62,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2581,
+      "date": 1776538261,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1774305256,
+      "game": "https://www.chess.com/game/live/123498592007"
+    },
+    "record": {
+      "win": 10936,
+      "loss": 8953,
+      "draw": 1954
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2369,
+      "date": 1757693551
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1756028504
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

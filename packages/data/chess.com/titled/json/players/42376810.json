@@ -1,0 +1,81 @@
+{
+  "player_id": 42376810,
+  "@id": "https://api.chess.com/pub/player/burgsvik",
+  "url": "https://www.chess.com/member/Burgsvik",
+  "name": "Bj\u00f6rn Andersson",
+  "username": "burgsvik",
+  "title": "FM",
+  "followers": 105,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Burgsvik",
+  "last_online": 1776599029,
+  "joined": 1516112734,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2276,
+      "date": 1774513238,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1748762854,
+      "game": "https://www.chess.com/game/live/139029127894"
+    },
+    "record": {
+      "win": 475,
+      "loss": 453,
+      "draw": 97
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2186,
+      "date": 1750708084,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2217,
+      "date": 1747556220,
+      "game": "https://www.chess.com/game/live/45855696111"
+    },
+    "record": {
+      "win": 529,
+      "loss": 153,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2436,
+      "date": 1776593745,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2532,
+      "date": 1775928450,
+      "game": "https://www.chess.com/game/live/154767403909"
+    },
+    "record": {
+      "win": 16078,
+      "loss": 15004,
+      "draw": 2017
+    }
+  },
+  "fide": 2157,
+  "tactics": {
+    "highest": {
+      "rating": 1559,
+      "date": 1516112734
+    },
+    "lowest": {
+      "rating": 1559,
+      "date": 1516112734
+    }
+  },
+  "puzzle_rush": {}
+}

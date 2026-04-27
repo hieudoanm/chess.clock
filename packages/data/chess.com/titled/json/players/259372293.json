@@ -1,0 +1,84 @@
+{
+  "player_id": 259372293,
+  "@id": "https://api.chess.com/pub/player/k2jw",
+  "url": "https://www.chess.com/member/K2JW",
+  "name": "Kevin Zhong",
+  "username": "k2jw",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776571757,
+  "joined": 1678421410,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2310,
+      "date": 1770920190,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1770906133,
+      "game": "https://www.chess.com/game/live/164587124006"
+    },
+    "record": {
+      "win": 15,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2654,
+      "date": 1775069253,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2727,
+      "date": 1767995155,
+      "game": "https://www.chess.com/game/live/145967987308"
+    },
+    "record": {
+      "win": 513,
+      "loss": 407,
+      "draw": 56
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2588,
+      "date": 1776377481,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2642,
+      "date": 1767237473,
+      "game": "https://www.chess.com/game/live/76196004327"
+    },
+    "record": {
+      "win": 295,
+      "loss": 262,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2694,
+      "date": 1763304003
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1760898823
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

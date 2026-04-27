@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6610376.eeb10a8b.200x200o.d2fce797976b.jpeg",
+  "player_id": 6610376,
+  "@id": "https://api.chess.com/pub/player/gmhess",
+  "url": "https://www.chess.com/member/GMHess",
+  "name": "Robert L. Hess",
+  "username": "gmhess",
+  "title": "GM",
+  "followers": 36540,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776529330,
+  "joined": 1328309744,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmhess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmhess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2354,
+      "date": 1624057694,
+      "rd": 293
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1558025523,
+      "game": "https://www.chess.com/game/daily/220624696"
+    },
+    "record": {
+      "win": 19,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 26753,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2450,
+      "date": 1709933941,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2664,
+      "date": 1590119645,
+      "game": "https://www.chess.com/game/live/47492476199"
+    },
+    "record": {
+      "win": 88,
+      "loss": 61,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2813,
+      "date": 1654844194,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1617303820,
+      "game": "https://www.chess.com/game/live/1466118233"
+    },
+    "record": {
+      "win": 5572,
+      "loss": 3023,
+      "draw": 451
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2876,
+      "date": 1728150155,
+      "rd": 35
+    },
+    "best": {
+      "rating": 3024,
+      "date": 1719800988,
+      "game": "https://www.chess.com/game/live/15187960929"
+    },
+    "record": {
+      "win": 11875,
+      "loss": 7631,
+      "draw": 1355
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2628,
+      "date": 1328309744
+    },
+    "lowest": {
+      "rating": 2628,
+      "date": 1328309744
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

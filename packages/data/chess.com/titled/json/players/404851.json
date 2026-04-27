@@ -1,0 +1,88 @@
+{
+  "player_id": 404851,
+  "@id": "https://api.chess.com/pub/player/timk131",
+  "url": "https://www.chess.com/member/timk131",
+  "name": "Timothy Kras",
+  "username": "timk131",
+  "title": "NM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago",
+  "last_online": 1776572906,
+  "joined": 1194748300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1325,
+      "date": 1776520312,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2147,
+      "date": 1381252689,
+      "game": "https://www.chess.com/game/daily/3116261"
+    },
+    "record": {
+      "win": 44,
+      "loss": 1,
+      "draw": 23,
+      "time_per_move": 10453,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2015,
+      "date": 1772682871,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2031,
+      "date": 1729714313,
+      "game": "https://www.chess.com/game/live/121226997021"
+    },
+    "record": {
+      "win": 37,
+      "loss": 10,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2000,
+      "date": 1726496574,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1377,
+      "date": 1380505752,
+      "game": "https://www.chess.com/game/live/1293371569"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "fide": 2131,
+  "tactics": {
+    "highest": {
+      "rating": 2585,
+      "date": 1774405137
+    },
+    "lowest": {
+      "rating": 2320,
+      "date": 1770684696
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 2,
+      "score": 2
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 29819304,
+  "@id": "https://api.chess.com/pub/player/mary-sanna",
+  "url": "https://www.chess.com/member/mary-sanna",
+  "name": "Mary Kiseljova",
+  "username": "mary-sanna",
+  "title": "WFM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776581079,
+  "joined": 1473230560,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2005,
+      "date": 1642711668,
+      "rd": 344
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1642711668,
+      "game": "https://www.chess.com/game/live/36449473005"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2145,
+      "date": 1746223152,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2151,
+      "date": 1737040543,
+      "game": "https://www.chess.com/game/live/130779073215"
+    },
+    "record": {
+      "win": 107,
+      "loss": 87,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2145,
+      "date": 1758981005,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1733851105,
+      "game": "https://www.chess.com/game/live/92503952829"
+    },
+    "record": {
+      "win": 980,
+      "loss": 1449,
+      "draw": 184
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2240,
+      "date": 1763059498
+    },
+    "lowest": {
+      "rating": 2144,
+      "date": 1763070491
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

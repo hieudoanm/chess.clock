@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26170170.05896ce8.200x200o.45cfc3435552.jpeg",
+  "player_id": 26170170,
+  "@id": "https://api.chess.com/pub/player/revisor",
+  "url": "https://www.chess.com/member/Revisor",
+  "name": "Alexey Korotylev",
+  "username": "revisor",
+  "title": "GM",
+  "followers": 160,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776536419,
+  "joined": 1452970340,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1615,
+      "date": 1775837752,
+      "rd": 225
+    },
+    "best": {
+      "rating": 1615,
+      "date": 1775837751,
+      "game": "https://www.chess.com/game/daily/181929108"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 257455,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2040,
+      "date": 1731003501,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2048,
+      "date": 1619004870,
+      "game": "https://www.chess.com/game/live/12743654241"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2887,
+      "date": 1776536410,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2933,
+      "date": 1775987462,
+      "game": "https://www.chess.com/game/live/165490347132"
+    },
+    "record": {
+      "win": 5836,
+      "loss": 534,
+      "draw": 202
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2911,
+      "date": 1771398835,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2948,
+      "date": 1605956725,
+      "game": "https://www.chess.com/game/live/26817040095"
+    },
+    "record": {
+      "win": 1118,
+      "loss": 576,
+      "draw": 173
+    }
+  },
+  "fide": 2575,
+  "tactics": {
+    "highest": {
+      "rating": 2592,
+      "date": 1765471938
+    },
+    "lowest": {
+      "rating": 2414,
+      "date": 1765470960
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

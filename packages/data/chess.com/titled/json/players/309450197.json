@@ -1,0 +1,87 @@
+{
+  "player_id": 309450197,
+  "@id": "https://api.chess.com/pub/player/aquilate",
+  "url": "https://www.chess.com/member/Aquilate",
+  "name": "Albert Postnikov",
+  "username": "aquilate",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1774282339,
+  "joined": 1693475514,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1382,
+      "date": 1757422972,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1382,
+      "date": 1741280765,
+      "game": "https://www.chess.com/game/daily/770081133"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 29538,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2578,
+      "date": 1774282330,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1774282186,
+      "game": "https://www.chess.com/game/live/166329696036"
+    },
+    "record": {
+      "win": 20,
+      "loss": 17,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2638,
+      "date": 1768320338,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1760455884,
+      "game": "https://www.chess.com/game/live/154169798089"
+    },
+    "record": {
+      "win": 189,
+      "loss": 129,
+      "draw": 34
+    }
+  },
+  "fide": 2140,
+  "tactics": {
+    "highest": {
+      "rating": 2472,
+      "date": 1757125718
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1764052369
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

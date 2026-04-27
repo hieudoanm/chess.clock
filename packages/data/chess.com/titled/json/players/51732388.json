@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51732388.74afdae6.200x200o.c9639ee80e66.jpeg",
+  "player_id": 51732388,
+  "@id": "https://api.chess.com/pub/player/plittl",
+  "url": "https://www.chess.com/member/plittl",
+  "name": "Paul Littlewood",
+  "username": "plittl",
+  "title": "IM",
+  "followers": 52,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "ST ALBANS",
+  "last_online": 1776460833,
+  "joined": 1541964689,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2201,
+      "date": 1751876932,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1720334789,
+      "game": "https://www.chess.com/game/daily/653003553"
+    },
+    "record": {
+      "win": 17,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 6980,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2156,
+      "date": 1774721846,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1591472832,
+      "game": "https://www.chess.com/game/live/111349287267"
+    },
+    "record": {
+      "win": 22,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2283,
+      "date": 1767126524,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1585754555,
+      "game": "https://www.chess.com/game/live/145871320256"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1774638847
+    },
+    "lowest": {
+      "rating": 1099,
+      "date": 1764255493
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

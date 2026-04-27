@@ -1,0 +1,68 @@
+{
+  "player_id": 86358872,
+  "@id": "https://api.chess.com/pub/player/monikastojkovska",
+  "url": "https://www.chess.com/member/MonikaStojkovska",
+  "name": "Monika Stojkovska",
+  "username": "monikastojkovska",
+  "title": "WFM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/MK",
+  "location": "Skopje",
+  "last_online": 1752416859,
+  "joined": 1594408955,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1680,
+      "date": 1613845198,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1597411902,
+      "game": "https://www.chess.com/game/live/5301427905"
+    },
+    "record": {
+      "win": 6,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1809,
+      "date": 1752417290,
+      "rd": 224
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1611776493,
+      "game": "https://www.chess.com/game/live/6366250681"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2113,
+      "date": 1594408955
+    },
+    "lowest": {
+      "rating": 2113,
+      "date": 1594408955
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

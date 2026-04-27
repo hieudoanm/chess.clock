@@ -1,0 +1,84 @@
+{
+  "player_id": 51393526,
+  "@id": "https://api.chess.com/pub/player/udysseus1",
+  "url": "https://www.chess.com/member/Udysseus1",
+  "username": "udysseus1",
+  "title": "GM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1641520595,
+  "joined": 1541159073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1400,
+      "date": 1591032807,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1482,
+      "date": 1583581144,
+      "game": "https://www.chess.com/game/live/4061253030"
+    },
+    "record": {
+      "win": 22,
+      "loss": 13,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1231,
+      "date": 1550169549,
+      "rd": 201
+    },
+    "best": {
+      "rating": 1081,
+      "date": 1550169549,
+      "game": "https://www.chess.com/game/live/3459379661"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2694,
+      "date": 1641561672,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2785,
+      "date": 1557759926,
+      "game": "https://www.chess.com/game/live/3694978108"
+    },
+    "record": {
+      "win": 1778,
+      "loss": 874,
+      "draw": 356
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2562,
+      "date": 1541159073
+    },
+    "lowest": {
+      "rating": 2562,
+      "date": 1541159073
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

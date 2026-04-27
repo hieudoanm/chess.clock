@@ -1,0 +1,63 @@
+{
+  "player_id": 372972139,
+  "@id": "https://api.chess.com/pub/player/rcc_2024",
+  "url": "https://www.chess.com/member/RCC_2024",
+  "name": "Yidong Chen",
+  "username": "rcc_2024",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776581241,
+  "joined": 1719880213,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1859,
+      "date": 1742660179,
+      "rd": 239
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2474,
+      "date": 1776374396,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1767722411,
+      "game": "https://www.chess.com/game/live/155997403789"
+    },
+    "record": {
+      "win": 256,
+      "loss": 323,
+      "draw": 64
+    }
+  },
+  "fide": 2254,
+  "tactics": {
+    "highest": {
+      "rating": 1741,
+      "date": 1776003799
+    },
+    "lowest": {
+      "rating": 728,
+      "date": 1757261538
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 6,
+      "score": 5
+    }
+  }
+}

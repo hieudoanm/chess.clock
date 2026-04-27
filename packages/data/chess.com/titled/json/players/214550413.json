@@ -1,0 +1,85 @@
+{
+  "player_id": 214550413,
+  "@id": "https://api.chess.com/pub/player/aleoda",
+  "url": "https://www.chess.com/member/aleoda",
+  "name": "Andre Leonardo Dauer",
+  "username": "aleoda",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776220830,
+  "joined": 1671468476,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2116,
+      "date": 1762036244,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1762035139,
+      "game": "https://www.chess.com/game/live/145005803452"
+    },
+    "record": {
+      "win": 7,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2189,
+      "date": 1773964190,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1732372083,
+      "game": "https://www.chess.com/game/live/155728003845"
+    },
+    "record": {
+      "win": 1027,
+      "loss": 1170,
+      "draw": 143
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2240,
+      "date": 1776220823,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1764207872,
+      "game": "https://www.chess.com/game/live/144503974353"
+    },
+    "record": {
+      "win": 3254,
+      "loss": 3000,
+      "draw": 458
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2189,
+      "date": 1671468476
+    },
+    "lowest": {
+      "rating": 2189,
+      "date": 1671468476
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 29
+    }
+  }
+}

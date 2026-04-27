@@ -1,0 +1,85 @@
+{
+  "player_id": 79873890,
+  "@id": "https://api.chess.com/pub/player/zhalmakhanov_ramazan",
+  "url": "https://www.chess.com/member/Zhalmakhanov_Ramazan",
+  "name": "Ramazan Zhalmakhanov",
+  "username": "zhalmakhanov_ramazan",
+  "title": "GM",
+  "followers": 206,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776335818,
+  "joined": 1589823986,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2258,
+      "date": 1741793228,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1601198107,
+      "game": "https://www.chess.com/game/live/5333562583"
+    },
+    "record": {
+      "win": 44,
+      "loss": 11,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2890,
+      "date": 1756982182,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2957,
+      "date": 1696094157,
+      "game": "https://www.chess.com/game/live/97252324469"
+    },
+    "record": {
+      "win": 108,
+      "loss": 50,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3057,
+      "date": 1776335661,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3095,
+      "date": 1775476818,
+      "game": "https://www.chess.com/game/live/145647446606"
+    },
+    "record": {
+      "win": 449,
+      "loss": 292,
+      "draw": 58
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2477,
+      "date": 1589823986
+    },
+    "lowest": {
+      "rating": 2477,
+      "date": 1589823986
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

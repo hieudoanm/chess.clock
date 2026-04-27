@@ -1,0 +1,67 @@
+{
+  "player_id": 34235266,
+  "@id": "https://api.chess.com/pub/player/gmmarcelkanarek",
+  "url": "https://www.chess.com/member/GMMarcelKanarek",
+  "name": "Marcel Kanarek",
+  "username": "gmmarcelkanarek",
+  "title": "GM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1774372585,
+  "joined": 1490394928,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2688,
+      "date": 1765566689,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2688,
+      "date": 1612099923,
+      "game": "https://www.chess.com/game/live/3834485791"
+    },
+    "record": {
+      "win": 38,
+      "loss": 15,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2583,
+      "date": 1765748652,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1556578239,
+      "game": "https://www.chess.com/game/live/5703447782"
+    },
+    "record": {
+      "win": 54,
+      "loss": 34,
+      "draw": 17
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2892,
+      "date": 1760091090
+    },
+    "lowest": {
+      "rating": 2783,
+      "date": 1760091178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

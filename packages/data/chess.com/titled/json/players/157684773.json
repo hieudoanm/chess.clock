@@ -1,0 +1,103 @@
+{
+  "player_id": 157684773,
+  "@id": "https://api.chess.com/pub/player/neseomrev",
+  "url": "https://www.chess.com/member/Neseomrev",
+  "name": "Jordan Vermoesen",
+  "username": "neseomrev",
+  "title": "CM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776536047,
+  "joined": 1633968683,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 978,
+      "date": 1775867597,
+      "rd": 338
+    },
+    "best": {
+      "rating": 978,
+      "date": 1712953442,
+      "game": "https://www.chess.com/game/daily/639043957"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 11015,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2456,
+      "date": 1776516956,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1756505936,
+      "game": "https://www.chess.com/game/live/145750469262"
+    },
+    "record": {
+      "win": 4757,
+      "loss": 5732,
+      "draw": 1208
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2156,
+      "date": 1775948741,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1749765410,
+      "game": "https://www.chess.com/game/live/138791603888"
+    },
+    "record": {
+      "win": 1312,
+      "loss": 1174,
+      "draw": 162
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1776199631,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1753032435,
+      "game": "https://www.chess.com/game/live/140913238782"
+    },
+    "record": {
+      "win": 1212,
+      "loss": 1195,
+      "draw": 188
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2446,
+      "date": 1769594920
+    },
+    "lowest": {
+      "rating": 2375,
+      "date": 1774688610
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

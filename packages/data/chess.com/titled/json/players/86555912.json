@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/86555912.25301301.200x200o.be2b3a7770e7.jpeg",
+  "player_id": 86555912,
+  "@id": "https://api.chess.com/pub/player/akirafm",
+  "url": "https://www.chess.com/member/akirafm",
+  "name": "Akira Watanabe",
+  "username": "akirafm",
+  "title": "FM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/JP",
+  "location": "Yamanashi, Tama, CDMX, Merida, New Haven",
+  "last_online": 1776597802,
+  "joined": 1594607178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2138,
+      "date": 1747124068,
+      "rd": 254
+    },
+    "best": {
+      "rating": 2138,
+      "date": 1735117784,
+      "game": "https://www.chess.com/game/daily/696875437"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 45826,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2154,
+      "date": 1775562950,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1596788964,
+      "game": "https://www.chess.com/game/live/5272362653"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1762663291,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1750782365,
+      "game": "https://www.chess.com/game/live/144505775381"
+    },
+    "record": {
+      "win": 31,
+      "loss": 48,
+      "draw": 8
+    }
+  },
+  "fide": 2229,
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1760089348
+    },
+    "lowest": {
+      "rating": 2348,
+      "date": 1775516694
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

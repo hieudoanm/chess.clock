@@ -1,0 +1,85 @@
+{
+  "player_id": 73851184,
+  "@id": "https://api.chess.com/pub/player/milly_s",
+  "url": "https://www.chess.com/member/Milly_S",
+  "name": "Milena Stagno",
+  "username": "milly_s",
+  "title": "WCM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/MT",
+  "last_online": 1776592959,
+  "joined": 1584613508,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1751,
+      "date": 1770308308,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1856,
+      "date": 1759134760,
+      "game": "https://www.chess.com/game/live/133277356041"
+    },
+    "record": {
+      "win": 149,
+      "loss": 120,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1958,
+      "date": 1776592194,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1753543823,
+      "game": "https://www.chess.com/game/live/145298826012"
+    },
+    "record": {
+      "win": 5996,
+      "loss": 6065,
+      "draw": 761
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1865,
+      "date": 1772549465,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2029,
+      "date": 1751792327,
+      "game": "https://www.chess.com/game/live/140385197692"
+    },
+    "record": {
+      "win": 744,
+      "loss": 709,
+      "draw": 114
+    }
+  },
+  "fide": 1766,
+  "tactics": {
+    "highest": {
+      "rating": 2031,
+      "date": 1762936693
+    },
+    "lowest": {
+      "rating": 1775,
+      "date": 1756040205
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

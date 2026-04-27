@@ -1,0 +1,123 @@
+{
+  "player_id": 43329218,
+  "@id": "https://api.chess.com/pub/player/thjop",
+  "url": "https://www.chess.com/member/Thjop",
+  "name": "Thore Perske",
+  "username": "thjop",
+  "title": "IM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776541719,
+  "joined": 1518603886,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1643,
+      "date": 1709026138,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1662056441,
+      "game": "https://www.chess.com/game/daily/434125087"
+    },
+    "record": {
+      "win": 11,
+      "loss": 5,
+      "draw": 5,
+      "time_per_move": 22675,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1787,
+      "date": 1673709378,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1518603886,
+      "game": "https://www.chess.com/game/daily/233382634"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 22675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2538,
+      "date": 1757411242,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1677519769,
+      "game": "https://www.chess.com/game/live/124540752845"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2808,
+      "date": 1732388281,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2823,
+      "date": 1732387986,
+      "game": "https://www.chess.com/game/live/126125987241"
+    },
+    "record": {
+      "win": 334,
+      "loss": 256,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2711,
+      "date": 1775829987,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2840,
+      "date": 1732486969,
+      "game": "https://www.chess.com/game/live/128191265115"
+    },
+    "record": {
+      "win": 2369,
+      "loss": 2100,
+      "draw": 574
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2598,
+      "date": 1769338574
+    },
+    "lowest": {
+      "rating": 2274,
+      "date": 1775731847
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

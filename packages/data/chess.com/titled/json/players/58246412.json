@@ -1,0 +1,68 @@
+{
+  "player_id": 58246412,
+  "@id": "https://api.chess.com/pub/player/mpcandelario",
+  "url": "https://www.chess.com/member/MPCandelario",
+  "name": "Manuel Perez Candelario",
+  "username": "mpcandelario",
+  "title": "GM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "M\u00e9rida",
+  "last_online": 1776555435,
+  "joined": 1552044439,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2436,
+      "date": 1631284757,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1631115586,
+      "game": "https://www.chess.com/game/live/5305514002"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2677,
+      "date": 1726180039,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2803,
+      "date": 1716115052,
+      "game": "https://www.chess.com/game/live/110584344515"
+    },
+    "record": {
+      "win": 391,
+      "loss": 356,
+      "draw": 75
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1552044439
+    },
+    "lowest": {
+      "rating": 2257,
+      "date": 1552044439
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

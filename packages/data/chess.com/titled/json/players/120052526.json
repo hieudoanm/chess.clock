@@ -1,0 +1,78 @@
+{
+  "player_id": 120052526,
+  "@id": "https://api.chess.com/pub/player/jamondejabugo1234",
+  "url": "https://www.chess.com/member/JamonDeJabugo1234",
+  "username": "jamondejabugo1234",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776595992,
+  "joined": 1612979015,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2386,
+      "date": 1754991450,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2319,
+      "date": 1776421453,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2527,
+      "date": 1717504414,
+      "game": "https://www.chess.com/game/live/111424815447"
+    },
+    "record": {
+      "win": 3303,
+      "loss": 2804,
+      "draw": 395
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2408,
+      "date": 1776420342,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1768519226,
+      "game": "https://www.chess.com/game/live/148024185490"
+    },
+    "record": {
+      "win": 1429,
+      "loss": 1193,
+      "draw": 213
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2611,
+      "date": 1776014997
+    },
+    "lowest": {
+      "rating": 2509,
+      "date": 1776014554
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

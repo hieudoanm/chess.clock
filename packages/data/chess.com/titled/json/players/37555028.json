@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37555028.aad08961.200x200o.09444d2601d5.jpg",
+  "player_id": 37555028,
+  "@id": "https://api.chess.com/pub/player/highchessfm",
+  "url": "https://www.chess.com/member/HighChessFM",
+  "name": "Boris Navrodskiy",
+  "username": "highchessfm",
+  "title": "FM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/GE",
+  "location": "Tbilisi",
+  "last_online": 1776596305,
+  "joined": 1501868191,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1806,
+      "date": 1776544396,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1806,
+      "date": 1776350606,
+      "game": "https://www.chess.com/game/daily/924714775"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 22702,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2176,
+      "date": 1768584501,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2224,
+      "date": 1611785733,
+      "game": "https://www.chess.com/game/live/6367660240"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2604,
+      "date": 1776184805,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1775577801,
+      "game": "https://www.chess.com/game/live/166904495600"
+    },
+    "record": {
+      "win": 1123,
+      "loss": 931,
+      "draw": 91
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2593,
+      "date": 1776443517,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2631,
+      "date": 1776104822,
+      "game": "https://www.chess.com/game/live/168683670625"
+    },
+    "record": {
+      "win": 1310,
+      "loss": 1080,
+      "draw": 119
+    }
+  },
+  "fide": 2172,
+  "tactics": {
+    "highest": {
+      "rating": 2759,
+      "date": 1761541797
+    },
+    "lowest": {
+      "rating": 2058,
+      "date": 1756290096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 10593298,
+  "@id": "https://api.chess.com/pub/player/joelkoda",
+  "url": "https://www.chess.com/member/Joelkoda",
+  "username": "joelkoda",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776275909,
+  "joined": 1359274143,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 916,
+      "date": 1705511941,
+      "rd": 344
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1359274143,
+      "game": "https://www.chess.com/game/daily/502126747"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 150629,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1455413763,
+      "rd": 296
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2227,
+      "date": 1678030828,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1555782740,
+      "game": "https://www.chess.com/game/live/4041703351"
+    },
+    "record": {
+      "win": 342,
+      "loss": 186,
+      "draw": 48
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2433,
+      "date": 1359274143
+    },
+    "lowest": {
+      "rating": 2433,
+      "date": 1359274143
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

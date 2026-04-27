@@ -1,0 +1,63 @@
+{
+  "player_id": 24170240,
+  "@id": "https://api.chess.com/pub/player/thingone11",
+  "url": "https://www.chess.com/member/thingone11",
+  "name": "Eric Cooke",
+  "username": "thingone11",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "florida",
+  "last_online": 1776478012,
+  "joined": 1442587727,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1965,
+      "date": 1658606042,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1613848803,
+      "game": "https://www.chess.com/game/live/6189519374"
+    },
+    "record": {
+      "win": 64,
+      "loss": 32,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2449,
+      "date": 1776449632,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1760976379,
+      "game": "https://www.chess.com/game/live/147930713910"
+    },
+    "record": {
+      "win": 10224,
+      "loss": 8247,
+      "draw": 1463
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2266,
+      "date": 1758570638
+    },
+    "lowest": {
+      "rating": 2070,
+      "date": 1773616856
+    }
+  },
+  "puzzle_rush": {}
+}

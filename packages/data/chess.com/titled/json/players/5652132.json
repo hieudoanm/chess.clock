@@ -1,0 +1,102 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5652132.b7df140d.200x200o.ddce6985249d.jpeg",
+  "player_id": 5652132,
+  "@id": "https://api.chess.com/pub/player/whiteoak",
+  "url": "https://www.chess.com/member/whiteoak",
+  "username": "whiteoak",
+  "title": "WIM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1680801708,
+  "joined": 1313903002,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1706799076,
+      "rd": 252
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1364449682,
+      "game": "https://www.chess.com/game/daily/67111796"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13661,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1913,
+      "date": 1550936228,
+      "rd": 241
+    },
+    "best": {
+      "rating": 2179,
+      "date": 1550932885,
+      "game": "https://www.chess.com/game/live/3482992010"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2325,
+      "date": 1582750286,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1582749221,
+      "game": "https://www.chess.com/game/live/4538347600"
+    },
+    "record": {
+      "win": 50,
+      "loss": 32,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2320,
+      "date": 1583619662,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2323,
+      "date": 1582692566,
+      "game": "https://www.chess.com/game/live/4532608778"
+    },
+    "record": {
+      "win": 29,
+      "loss": 19,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1313903002
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1313903002
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 4252485,
+  "@id": "https://api.chess.com/pub/player/wizardbar",
+  "url": "https://www.chess.com/member/wizardbar",
+  "username": "wizardbar",
+  "title": "IM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776484290,
+  "joined": 1289745910,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2185,
+      "date": 1765389731,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1609880282,
+      "game": "https://www.chess.com/game/live/143376912720"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2555,
+      "date": 1705874779,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1673914789,
+      "game": "https://www.chess.com/game/live/69372893727"
+    },
+    "record": {
+      "win": 655,
+      "loss": 457,
+      "draw": 90
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2620,
+      "date": 1765386693,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2653,
+      "date": 1697999743,
+      "game": "https://www.chess.com/game/live/38429027985"
+    },
+    "record": {
+      "win": 1002,
+      "loss": 670,
+      "draw": 110
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2956,
+      "date": 1289745910
+    },
+    "lowest": {
+      "rating": 2956,
+      "date": 1289745910
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

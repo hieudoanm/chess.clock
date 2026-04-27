@@ -1,0 +1,136 @@
+{
+  "player_id": 56923094,
+  "@id": "https://api.chess.com/pub/player/grouvilleknight",
+  "url": "https://www.chess.com/member/Grouvilleknight",
+  "name": "Graham Mooney",
+  "username": "grouvilleknight",
+  "title": "CM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/JE",
+  "location": "Grouville",
+  "last_online": 1776597219,
+  "joined": 1549276311,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1869,
+      "date": 1776597407,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1618265265,
+      "game": "https://www.chess.com/game/daily/317197938"
+    },
+    "record": {
+      "win": 1795,
+      "loss": 563,
+      "draw": 474,
+      "time_per_move": 5005,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 368,
+      "withdraw": 0,
+      "count": 4,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1573,
+      "date": 1604099619,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1586,
+      "date": 1603801587,
+      "game": "https://www.chess.com/game/daily/246018120"
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 4,
+      "time_per_move": 5005,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 368,
+      "withdraw": 0,
+      "count": 4,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1775,
+      "date": 1769807794,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2020,
+      "date": 1608232226,
+      "game": "https://www.chess.com/game/live/5991366788"
+    },
+    "record": {
+      "win": 230,
+      "loss": 139,
+      "draw": 34
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1217,
+      "date": 1739629307,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1566084772,
+      "game": "https://www.chess.com/game/live/3957006666"
+    },
+    "record": {
+      "win": 63,
+      "loss": 62,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1639,
+      "date": 1769367087,
+      "rd": 71
+    },
+    "best": {
+      "rating": 1983,
+      "date": 1558537206,
+      "game": "https://www.chess.com/game/live/3649960413"
+    },
+    "record": {
+      "win": 569,
+      "loss": 472,
+      "draw": 66
+    }
+  },
+  "fide": 1912,
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1549276311
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1549276311
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

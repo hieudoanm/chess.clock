@@ -1,0 +1,88 @@
+{
+  "player_id": 17739278,
+  "@id": "https://api.chess.com/pub/player/schwarzspringer",
+  "url": "https://www.chess.com/member/Schwarzspringer",
+  "name": "Carl Wagner",
+  "username": "schwarzspringer",
+  "title": "NM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Rancho Santa Fe, CA",
+  "last_online": 1504733314,
+  "joined": 1403112102,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2188,
+      "date": 1707847539,
+      "rd": 278
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1493011214,
+      "game": "https://www.chess.com/game/daily/110250842"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32261,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1900,
+      "date": 1427771544,
+      "rd": 298
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1731,
+      "date": 1462168025,
+      "rd": 337
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1918,
+      "date": 1502695857,
+      "rd": 73
+    },
+    "best": {
+      "rating": 1990,
+      "date": 1418448496,
+      "game": "https://www.chess.com/game/live/1588209855"
+    },
+    "record": {
+      "win": 934,
+      "loss": 678,
+      "draw": 99
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1403112102
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1403112102
+    }
+  },
+  "puzzle_rush": {}
+}

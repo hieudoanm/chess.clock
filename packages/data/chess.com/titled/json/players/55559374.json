@@ -1,0 +1,83 @@
+{
+  "player_id": 55559374,
+  "@id": "https://api.chess.com/pub/player/olakechu",
+  "url": "https://www.chess.com/member/Olakechu",
+  "username": "olakechu",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776581930,
+  "joined": 1546701776,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2180,
+      "date": 1766443481,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1766443481,
+      "game": "https://www.chess.com/game/live/147054245744"
+    },
+    "record": {
+      "win": 155,
+      "loss": 132,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2299,
+      "date": 1773603263,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1767409548,
+      "game": "https://www.chess.com/game/live/113459400849"
+    },
+    "record": {
+      "win": 305,
+      "loss": 192,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2505,
+      "date": 1776578839,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1776406302,
+      "game": "https://www.chess.com/game/live/144664755722"
+    },
+    "record": {
+      "win": 1276,
+      "loss": 954,
+      "draw": 186
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2574,
+      "date": 1760209210
+    },
+    "lowest": {
+      "rating": 2553,
+      "date": 1762492549
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

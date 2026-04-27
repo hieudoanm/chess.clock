@@ -1,0 +1,83 @@
+{
+  "player_id": 22961368,
+  "@id": "https://api.chess.com/pub/player/warlordx",
+  "url": "https://www.chess.com/member/WarlordX",
+  "username": "warlordx",
+  "title": "IM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776574383,
+  "joined": 1435169075,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2001,
+      "date": 1728340224,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1728340224,
+      "game": "https://www.chess.com/game/live/122078940523"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2649,
+      "date": 1776548193,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1763792979,
+      "game": "https://www.chess.com/game/live/145810567826"
+    },
+    "record": {
+      "win": 25320,
+      "loss": 20959,
+      "draw": 2336
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2730,
+      "date": 1776559246,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1766671045,
+      "game": "https://www.chess.com/game/live/34381151563"
+    },
+    "record": {
+      "win": 17322,
+      "loss": 14932,
+      "draw": 2472
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2318,
+      "date": 1761918298
+    },
+    "lowest": {
+      "rating": 2177,
+      "date": 1770843603
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 497905331,
+  "@id": "https://api.chess.com/pub/player/tavanincu",
+  "url": "https://www.chess.com/member/Tavanincu",
+  "username": "tavanincu",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776466601,
+  "joined": 1762209786,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2486,
+      "date": 1775765979,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1766307117,
+      "game": "https://www.chess.com/game/live/146957429688"
+    },
+    "record": {
+      "win": 118,
+      "loss": 66,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2412,
+      "date": 1775819249,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2438,
+      "date": 1766238651,
+      "game": "https://www.chess.com/game/live/146484415330"
+    },
+    "record": {
+      "win": 111,
+      "loss": 83,
+      "draw": 15
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2528,
+      "date": 1764635701
+    },
+    "lowest": {
+      "rating": 709,
+      "date": 1762760633
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

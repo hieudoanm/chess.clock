@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46350014.da7b5730.200x200o.ab339f8774d0.jpeg",
+  "player_id": 46350014,
+  "@id": "https://api.chess.com/pub/player/kacperpolok",
+  "url": "https://www.chess.com/member/KacperPolOK",
+  "name": "Kacper Polok",
+  "username": "kacperpolok",
+  "title": "FM",
+  "followers": 481,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776443936,
+  "joined": 1526816767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2009,
+      "date": 1652516912,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1578429133,
+      "game": "https://www.chess.com/game/daily/310273612"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 83861,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2290,
+      "date": 1705927643,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1604237048,
+      "game": "https://www.chess.com/game/live/10664891971"
+    },
+    "record": {
+      "win": 105,
+      "loss": 28,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2524,
+      "date": 1726181410,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2587,
+      "date": 1602971056,
+      "game": "https://www.chess.com/game/live/2973923760"
+    },
+    "record": {
+      "win": 1622,
+      "loss": 1456,
+      "draw": 152
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1760139820,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1581534891,
+      "game": "https://www.chess.com/game/live/4233975046"
+    },
+    "record": {
+      "win": 2657,
+      "loss": 1854,
+      "draw": 385
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2482,
+      "date": 1760635931
+    },
+    "lowest": {
+      "rating": 2384,
+      "date": 1760635959
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

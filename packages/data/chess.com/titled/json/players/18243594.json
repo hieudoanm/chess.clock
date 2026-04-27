@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18243594.8697730d.200x200o.c0a761945588.jpeg",
+  "player_id": 18243594,
+  "@id": "https://api.chess.com/pub/player/scim",
+  "url": "https://www.chess.com/member/SCIM",
+  "name": "Koen Leenhouts",
+  "username": "scim",
+  "title": "GM",
+  "followers": 141,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "IJzendijke",
+  "last_online": 1776546525,
+  "joined": 1406456952,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1309,
+      "date": 1773327387,
+      "rd": 239
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1406456952,
+      "game": "https://www.chess.com/game/daily/434691569"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 20664,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2345,
+      "date": 1622838568,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1622835063,
+      "game": "https://www.chess.com/game/live/8171673255"
+    },
+    "record": {
+      "win": 36,
+      "loss": 7,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2407,
+      "date": 1614619196,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2407,
+      "date": 1614619196,
+      "game": "https://www.chess.com/game/live/3612160875"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2661,
+      "date": 1773351839,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1766418363,
+      "game": "https://www.chess.com/game/live/71943899297"
+    },
+    "record": {
+      "win": 2461,
+      "loss": 2142,
+      "draw": 520
+    }
+  },
+  "fide": 2446,
+  "tactics": {
+    "highest": {
+      "rating": 2704,
+      "date": 1771357840
+    },
+    "lowest": {
+      "rating": 2532,
+      "date": 1771357868
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

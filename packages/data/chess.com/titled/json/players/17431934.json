@@ -1,0 +1,99 @@
+{
+  "player_id": 17431934,
+  "@id": "https://api.chess.com/pub/player/gerardap",
+  "url": "https://www.chess.com/member/GerardAp",
+  "name": "Gerard A\u00f1o",
+  "username": "gerardap",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XC",
+  "last_online": 1776341251,
+  "joined": 1401008255,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1014,
+      "date": 1764000222,
+      "rd": 253
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 168103,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2216,
+      "date": 1764000222,
+      "rd": 243
+    },
+    "best": {
+      "rating": 1845,
+      "date": 1591522614,
+      "game": "https://www.chess.com/game/live/143494548320"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2236,
+      "date": 1763901606,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1763655417,
+      "game": "https://www.chess.com/game/live/145713706854"
+    },
+    "record": {
+      "win": 101,
+      "loss": 35,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2216,
+      "date": 1764000222,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1690819878,
+      "game": "https://www.chess.com/game/live/84558261831"
+    },
+    "record": {
+      "win": 60,
+      "loss": 34,
+      "draw": 4
+    }
+  },
+  "fide": 2216,
+  "tactics": {
+    "highest": {
+      "rating": 2431,
+      "date": 1401008255
+    },
+    "lowest": {
+      "rating": 2431,
+      "date": 1401008255
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

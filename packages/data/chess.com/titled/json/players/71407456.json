@@ -1,0 +1,82 @@
+{
+  "player_id": 71407456,
+  "@id": "https://api.chess.com/pub/player/liamneves",
+  "url": "https://www.chess.com/member/liamneves",
+  "username": "liamneves",
+  "title": "NM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1775798291,
+  "joined": 1580240451,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1727359089
+    },
+    "best": {
+      "rating": 2018,
+      "date": 1696830539,
+      "game": "https://www.chess.com/game/live/11289912875"
+    },
+    "record": {
+      "win": 291,
+      "loss": 45,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2401,
+      "date": 1772645154,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2547,
+      "date": 1729910745,
+      "game": "https://www.chess.com/game/live/120258076883"
+    },
+    "record": {
+      "win": 483,
+      "loss": 307,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2382,
+      "date": 1767474273,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1726082853,
+      "game": "https://www.chess.com/game/live/122835252683"
+    },
+    "record": {
+      "win": 1148,
+      "loss": 847,
+      "draw": 130
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2456,
+      "date": 1769189923
+    },
+    "lowest": {
+      "rating": 2456,
+      "date": 1769189923
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

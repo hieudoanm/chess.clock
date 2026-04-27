@@ -1,0 +1,84 @@
+{
+  "player_id": 56134222,
+  "@id": "https://api.chess.com/pub/player/serena-maria",
+  "url": "https://www.chess.com/member/serena-maria",
+  "username": "serena-maria",
+  "title": "WIM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775191710,
+  "joined": 1547732914,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2250,
+      "date": 1596034406,
+      "rd": 195
+    },
+    "best": {
+      "rating": 1728,
+      "date": 1590400165,
+      "game": "https://www.chess.com/game/live/4904680356"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1596034406,
+      "rd": 125
+    },
+    "best": {
+      "rating": 1761,
+      "date": 1590736569,
+      "game": "https://www.chess.com/game/live/4922832883"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2320,
+      "date": 1701216220,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1608662540,
+      "game": "https://www.chess.com/game/live/6284055921"
+    },
+    "record": {
+      "win": 120,
+      "loss": 115,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1547732914
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1547732914
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

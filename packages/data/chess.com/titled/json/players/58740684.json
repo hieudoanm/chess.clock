@@ -1,0 +1,103 @@
+{
+  "player_id": 58740684,
+  "@id": "https://api.chess.com/pub/player/chessadvanceusa",
+  "url": "https://www.chess.com/member/ChessAdvanceUSA",
+  "name": "Bahadur Khodzhamkuliev",
+  "username": "chessadvanceusa",
+  "title": "NM",
+  "followers": 64,
+  "country": "https://api.chess.com/pub/country/TM",
+  "last_online": 1776564892,
+  "joined": 1553043585,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1560,
+      "date": 1743323358,
+      "rd": 102
+    },
+    "best": {
+      "rating": 1665,
+      "date": 1672488870,
+      "game": "https://www.chess.com/game/daily/455545281"
+    },
+    "record": {
+      "win": 13,
+      "loss": 6,
+      "draw": 4,
+      "time_per_move": 10875,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1154,
+      "date": 1748470609,
+      "rd": 226
+    },
+    "best": {
+      "rating": 1973,
+      "date": 1599847708,
+      "game": "https://www.chess.com/game/live/26015973719"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2461,
+      "date": 1761832297,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1737081977,
+      "game": "https://www.chess.com/game/live/53097581941"
+    },
+    "record": {
+      "win": 2603,
+      "loss": 2373,
+      "draw": 426
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2489,
+      "date": 1771950602,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1741107395,
+      "game": "https://www.chess.com/game/live/23563293945"
+    },
+    "record": {
+      "win": 1242,
+      "loss": 1072,
+      "draw": 426
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2416,
+      "date": 1761161019
+    },
+    "lowest": {
+      "rating": 2409,
+      "date": 1760136332
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 148695489,
+  "@id": "https://api.chess.com/pub/player/michall9",
+  "url": "https://www.chess.com/member/MichalL9",
+  "name": "Michal Lahav",
+  "username": "michall9",
+  "title": "WIM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776443435,
+  "joined": 1626961071,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2279,
+      "date": 1694976967,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1694883845,
+      "game": "https://www.chess.com/game/live/88708410393"
+    },
+    "record": {
+      "win": 22,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2229,
+      "date": 1772562269,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1740850475,
+      "game": "https://www.chess.com/game/live/134588953569"
+    },
+    "record": {
+      "win": 31,
+      "loss": 57,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2183,
+      "date": 1772563504,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1653579368,
+      "game": "https://www.chess.com/game/live/47317853951"
+    },
+    "record": {
+      "win": 127,
+      "loss": 146,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2229,
+      "date": 1774818508
+    },
+    "lowest": {
+      "rating": 2172,
+      "date": 1774818526
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

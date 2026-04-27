@@ -1,0 +1,85 @@
+{
+  "player_id": 25149448,
+  "@id": "https://api.chess.com/pub/player/vladyc",
+  "url": "https://www.chess.com/member/VladyC",
+  "name": "Vladimir-Alexandru Cnejev",
+  "username": "vladyc",
+  "title": "FM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Bucharest",
+  "last_online": 1776595375,
+  "joined": 1447960636,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2232,
+      "date": 1707985974,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2232,
+      "date": 1677508224,
+      "game": "https://www.chess.com/game/live/55540199703"
+    },
+    "record": {
+      "win": 44,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1768138160,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1766870257,
+      "game": "https://www.chess.com/game/live/59516379027"
+    },
+    "record": {
+      "win": 281,
+      "loss": 198,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2463,
+      "date": 1752007141,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2597,
+      "date": 1672765180,
+      "game": "https://www.chess.com/game/live/84058296033"
+    },
+    "record": {
+      "win": 329,
+      "loss": 206,
+      "draw": 61
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1447960636
+    },
+    "lowest": {
+      "rating": 2406,
+      "date": 1447960636
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

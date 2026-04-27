@@ -1,0 +1,84 @@
+{
+  "player_id": 45897858,
+  "@id": "https://api.chess.com/pub/player/jacknoahjack",
+  "url": "https://www.chess.com/member/jacknoahjack",
+  "username": "jacknoahjack",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776439659,
+  "joined": 1525461470,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2299,
+      "date": 1742393186,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1739954685,
+      "game": "https://www.chess.com/game/live/87301957753"
+    },
+    "record": {
+      "win": 227,
+      "loss": 91,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2504,
+      "date": 1774110903,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2519,
+      "date": 1747654798,
+      "game": "https://www.chess.com/game/live/128078947545"
+    },
+    "record": {
+      "win": 278,
+      "loss": 179,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2191,
+      "date": 1748336388,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1727452634,
+      "game": "https://www.chess.com/game/live/122198380701"
+    },
+    "record": {
+      "win": 87,
+      "loss": 60,
+      "draw": 11
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2579,
+      "date": 1772806109
+    },
+    "lowest": {
+      "rating": 2450,
+      "date": 1757359877
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

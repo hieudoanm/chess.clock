@@ -1,0 +1,86 @@
+{
+  "player_id": 10408310,
+  "@id": "https://api.chess.com/pub/player/arlil",
+  "url": "https://www.chess.com/member/arlil",
+  "name": "Vrej Ordian",
+  "username": "arlil",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/AM",
+  "location": "Yerevan",
+  "last_online": 1776600065,
+  "joined": 1358081093,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2221,
+      "date": 1764443514,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2451,
+      "date": 1608281993,
+      "game": "https://www.chess.com/game/live/138720021746"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1946,
+      "date": 1762699511,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1623842601,
+      "game": "https://www.chess.com/game/live/17581359837"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2412,
+      "date": 1776586540,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2484,
+      "date": 1770803419,
+      "game": "https://www.chess.com/game/live/56794228387"
+    },
+    "record": {
+      "win": 7656,
+      "loss": 6321,
+      "draw": 852
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2250,
+      "date": 1768743927
+    },
+    "lowest": {
+      "rating": 2161,
+      "date": 1769964349
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 8,
+      "score": 7
+    }
+  }
+}

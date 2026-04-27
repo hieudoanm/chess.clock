@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/423802219.09dcbeec.200x200o.e61166f7e9ed.jpg",
+  "player_id": 423802219,
+  "@id": "https://api.chess.com/pub/player/jll2006",
+  "url": "https://www.chess.com/member/JLL2006",
+  "name": "Justin Lee",
+  "username": "jll2006",
+  "title": "FM",
+  "followers": 162,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776527009,
+  "joined": 1737846320,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1688,
+      "date": 1776183358,
+      "rd": 296
+    },
+    "best": {
+      "rating": 1688,
+      "date": 1774754504,
+      "game": "https://www.chess.com/game/daily/943373037"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 89654,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2275,
+      "date": 1770954353,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1766440213,
+      "game": "https://www.chess.com/game/live/147480893760"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2806,
+      "date": 1776526048,
+      "rd": 24
+    },
+    "best": {
+      "rating": 3093,
+      "date": 1771462569,
+      "game": "https://www.chess.com/game/live/164890797478"
+    },
+    "record": {
+      "win": 2067,
+      "loss": 1883,
+      "draw": 322
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2667,
+      "date": 1776183807,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2931,
+      "date": 1771912732,
+      "game": "https://www.chess.com/game/live/165121059748"
+    },
+    "record": {
+      "win": 1748,
+      "loss": 1705,
+      "draw": 290
+    }
+  },
+  "fide": 2282,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1737846320
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1737846320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 76266206,
+  "@id": "https://api.chess.com/pub/player/scarabee43",
+  "url": "https://www.chess.com/member/scarabee43",
+  "name": "Marco Materia",
+  "username": "scarabee43",
+  "title": "IM",
+  "followers": 85,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776506049,
+  "joined": 1586530999,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2262,
+      "date": 1692114148,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2363,
+      "date": 1619800838,
+      "game": "https://www.chess.com/game/daily/325000522"
+    },
+    "record": {
+      "win": 24,
+      "loss": 9,
+      "draw": 14,
+      "time_per_move": 54400,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2681,
+      "date": 1776326168,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1774466070,
+      "game": "https://www.chess.com/game/live/168778473785"
+    },
+    "record": {
+      "win": 24,
+      "loss": 5,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2856,
+      "date": 1775508720,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2856,
+      "date": 1775508720,
+      "game": "https://www.chess.com/game/live/145026574487"
+    },
+    "record": {
+      "win": 104,
+      "loss": 27,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3047,
+      "date": 1776325503,
+      "rd": 45
+    },
+    "best": {
+      "rating": 3073,
+      "date": 1772728444,
+      "game": "https://www.chess.com/game/live/143883607837"
+    },
+    "record": {
+      "win": 897,
+      "loss": 414,
+      "draw": 161
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2970,
+      "date": 1767168656
+    },
+    "lowest": {
+      "rating": 2792,
+      "date": 1776353831
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 83,
+      "score": 80
+    }
+  }
+}

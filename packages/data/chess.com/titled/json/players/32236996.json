@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32236996.bde91ac5.200x200o.7446c94d303d.png",
+  "player_id": 32236996,
+  "@id": "https://api.chess.com/pub/player/zugazuando",
+  "url": "https://www.chess.com/member/Zugazuando",
+  "name": "Andre Diamant",
+  "username": "zugazuando",
+  "title": "GM",
+  "followers": 1179,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776523600,
+  "joined": 1483890316,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/cexequemate",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/cexequemate"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2365,
+      "date": 1775423092,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1549501453,
+      "game": "https://www.chess.com/game/live/3994268940"
+    },
+    "record": {
+      "win": 207,
+      "loss": 12,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1865,
+      "date": 1739492296,
+      "rd": 142
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1515451307,
+      "game": "https://www.chess.com/game/live/2539942369"
+    },
+    "record": {
+      "win": 111,
+      "loss": 39,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2773,
+      "date": 1774365389,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2781,
+      "date": 1772543542,
+      "game": "https://www.chess.com/game/live/2905321189"
+    },
+    "record": {
+      "win": 1165,
+      "loss": 508,
+      "draw": 151
+    }
+  },
+  "fide": 2491,
+  "tactics": {
+    "highest": {
+      "rating": 2699,
+      "date": 1767728790
+    },
+    "lowest": {
+      "rating": 1577,
+      "date": 1770084223
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

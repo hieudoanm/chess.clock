@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4519506.ecc310e0.200x200o.f860f1f53110.jpg",
+  "player_id": 4519506,
+  "@id": "https://api.chess.com/pub/player/jmb2010",
+  "url": "https://www.chess.com/member/JMB2010",
+  "name": "John Burke",
+  "username": "jmb2010",
+  "title": "GM",
+  "followers": 247,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New Jersey",
+  "last_online": 1776545085,
+  "joined": 1294442900,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2077,
+      "date": 1776117944,
+      "rd": 136
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1585251533,
+      "game": "https://www.chess.com/game/daily/263952866"
+    },
+    "record": {
+      "win": 2461,
+      "loss": 375,
+      "draw": 193,
+      "time_per_move": 57162,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2404,
+      "date": 1730331456,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1609803220,
+      "game": "https://www.chess.com/game/live/62122759991"
+    },
+    "record": {
+      "win": 22,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1775455078,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2922,
+      "date": 1563144190,
+      "game": "https://www.chess.com/game/live/3864157303"
+    },
+    "record": {
+      "win": 1172,
+      "loss": 513,
+      "draw": 107
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2815,
+      "date": 1668983725,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1668983725,
+      "game": "https://www.chess.com/game/live/62718014629"
+    },
+    "record": {
+      "win": 384,
+      "loss": 166,
+      "draw": 34
+    }
+  },
+  "fide": 2569,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1294442900
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1294442900
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 55
+    }
+  }
+}

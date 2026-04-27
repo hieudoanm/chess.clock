@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/68187854.4eb18fc1.200x200o.efb1466fc9a3.png",
+  "player_id": 68187854,
+  "@id": "https://api.chess.com/pub/player/rubenscezila",
+  "url": "https://www.chess.com/member/RubensCezila",
+  "name": "Rubens Cezila",
+  "username": "rubenscezila",
+  "title": "FM",
+  "followers": 402,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Washington, DC",
+  "last_online": 1631134271,
+  "joined": 1574172387,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chesszila",
+  "verified": false,
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chesszila"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 1878,
+      "date": 1600200133,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1585611156,
+      "game": "https://www.chess.com/game/live/5450621654"
+    },
+    "record": {
+      "win": 19,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2650,
+      "date": 1600810285,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1600810285,
+      "game": "https://www.chess.com/game/live/4347717605"
+    },
+    "record": {
+      "win": 250,
+      "loss": 173,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2480,
+      "date": 1611608705,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2659,
+      "date": 1577742047,
+      "game": "https://www.chess.com/game/live/5183568013"
+    },
+    "record": {
+      "win": 1170,
+      "loss": 866,
+      "draw": 195
+    }
+  },
+  "fide": 2314,
+  "tactics": {
+    "highest": {
+      "rating": 2595,
+      "date": 1574172387
+    },
+    "lowest": {
+      "rating": 2595,
+      "date": 1574172387
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

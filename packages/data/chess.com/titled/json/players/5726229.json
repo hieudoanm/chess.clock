@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/5726229.330d454a.200x200o.5061f0685565.png",
+  "player_id": 5726229,
+  "@id": "https://api.chess.com/pub/player/segatov",
+  "url": "https://www.chess.com/member/Segatov",
+  "name": "Pedro Henrique Pedruzzi Segato",
+  "username": "segatov",
+  "title": "NM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Curitiba",
+  "last_online": 1776357121,
+  "joined": 1315063777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1296,
+      "date": 1727277481,
+      "rd": 214
+    },
+    "best": {
+      "rating": 1523,
+      "date": 1358271953,
+      "game": "https://www.chess.com/game/daily/172813854"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 13778,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1727277481,
+      "rd": 130
+    },
+    "best": {
+      "rating": 1764,
+      "date": 1624931918,
+      "game": "https://www.chess.com/game/live/6012703257"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2224,
+      "date": 1773764094,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1763170817,
+      "game": "https://www.chess.com/game/live/145602911776"
+    },
+    "record": {
+      "win": 4073,
+      "loss": 3851,
+      "draw": 490
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2259,
+      "date": 1776357081,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2431,
+      "date": 1774664152,
+      "game": "https://www.chess.com/game/live/134842754601"
+    },
+    "record": {
+      "win": 11927,
+      "loss": 10812,
+      "draw": 1416
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2167,
+      "date": 1315063777
+    },
+    "lowest": {
+      "rating": 2167,
+      "date": 1315063777
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

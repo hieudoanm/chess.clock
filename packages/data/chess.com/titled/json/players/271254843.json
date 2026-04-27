@@ -1,0 +1,103 @@
+{
+    "player_id": 271254843,
+    "@id": "https://api.chess.com/pub/player/akylbek2021",
+    "url": "https://www.chess.com/member/Akylbek2021",
+    "name": "Azmat Daurimbetov",
+    "username": "akylbek2021",
+    "title": "FM",
+    "followers": 9,
+    "country": "https://api.chess.com/pub/country/NI",
+    "last_online": 1733490997,
+    "joined": 1680692368,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1332,
+            "date": 1728572264,
+            "rd": 197
+        },
+        "best": {
+            "rating": 1657,
+            "date": 1712640648,
+            "game": "https://www.chess.com/game/daily/638467629"
+        },
+        "record": {
+            "win": 2,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 175091,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2184,
+            "date": 1730046876,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2200,
+            "date": 1730046650,
+            "game": "https://www.chess.com/game/live/123785418855"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2402,
+            "date": 1732909424,
+            "rd": 41
+        },
+        "best": {
+            "rating": 2554,
+            "date": 1682505378,
+            "game": "https://www.chess.com/game/live/100121095341"
+        },
+        "record": {
+            "win": 444,
+            "loss": 531,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2503,
+            "date": 1733479144,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2557,
+            "date": 1728324045,
+            "game": "https://www.chess.com/game/live/81014435375"
+        },
+        "record": {
+            "win": 441,
+            "loss": 564,
+            "draw": 87
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3263,
+            "date": 1720975653
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680692368
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 53,
+            "score": 50
+        }
+    }
+}

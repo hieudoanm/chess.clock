@@ -1,0 +1,87 @@
+{
+  "player_id": 204091189,
+  "@id": "https://api.chess.com/pub/player/colossus9000",
+  "url": "https://www.chess.com/member/Colossus9000",
+  "username": "colossus9000",
+  "title": "IM",
+  "followers": 282,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776583336,
+  "joined": 1667211814,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2716,
+      "date": 1760854874,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2897,
+      "date": 1704900302,
+      "game": "https://www.chess.com/game/live/118337885943"
+    },
+    "record": {
+      "win": 26,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3203,
+      "date": 1775546631,
+      "rd": 50
+    },
+    "best": {
+      "rating": 3203,
+      "date": 1772188099,
+      "game": "https://www.chess.com/game/live/80283586673"
+    },
+    "record": {
+      "win": 2982,
+      "loss": 1775,
+      "draw": 364
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3075,
+      "date": 1775729611,
+      "rd": 42
+    },
+    "best": {
+      "rating": 3093,
+      "date": 1772120923,
+      "game": "https://www.chess.com/game/live/104821797547"
+    },
+    "record": {
+      "win": 749,
+      "loss": 556,
+      "draw": 165
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2868,
+      "date": 1775744381
+    },
+    "lowest": {
+      "rating": 2632,
+      "date": 1763610484
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    },
+    "daily": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 20598988,
+  "@id": "https://api.chess.com/pub/player/moltini",
+  "url": "https://www.chess.com/member/Moltini",
+  "name": "Christophe Gregoir",
+  "username": "moltini",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776523061,
+  "joined": 1421087715,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 395,
+      "date": 1742738293,
+      "rd": 344
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 2578,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2393,
+      "date": 1753645728,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1753645728,
+      "game": "https://www.chess.com/game/live/101855126413"
+    },
+    "record": {
+      "win": 18,
+      "loss": 2,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2596,
+      "date": 1774636718,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1736539600,
+      "game": "https://www.chess.com/game/live/130357847535"
+    },
+    "record": {
+      "win": 1583,
+      "loss": 1192,
+      "draw": 179
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2610,
+      "date": 1776523054,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1753124725,
+      "game": "https://www.chess.com/game/live/140478206198"
+    },
+    "record": {
+      "win": 1668,
+      "loss": 1259,
+      "draw": 364
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2317,
+      "date": 1421087715
+    },
+    "lowest": {
+      "rating": 2317,
+      "date": 1421087715
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

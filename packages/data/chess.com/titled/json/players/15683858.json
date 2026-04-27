@@ -1,0 +1,86 @@
+{
+  "player_id": 15683858,
+  "@id": "https://api.chess.com/pub/player/dvayntrub",
+  "url": "https://www.chess.com/member/dvayntrub",
+  "name": "Dmitry Vayntrub",
+  "username": "dvayntrub",
+  "title": "NM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "SF Bay Area",
+  "last_online": 1776596933,
+  "joined": 1390324446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2236,
+      "date": 1624746274,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1617481938,
+      "game": "https://www.chess.com/game/live/18426596525"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2021,
+      "date": 1776570480,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1740542746,
+      "game": "https://www.chess.com/game/live/167509880310"
+    },
+    "record": {
+      "win": 106,
+      "loss": 79,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2402,
+      "date": 1774929762,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2402,
+      "date": 1774929762,
+      "game": "https://www.chess.com/game/live/143914885316"
+    },
+    "record": {
+      "win": 3376,
+      "loss": 2579,
+      "draw": 477
+    }
+  },
+  "fide": 2222,
+  "tactics": {
+    "highest": {
+      "rating": 2345,
+      "date": 1755881814
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1774579586
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 6578983,
+  "@id": "https://api.chess.com/pub/player/soloctavian",
+  "url": "https://www.chess.com/member/Soloctavian",
+  "name": "Stein Aarland",
+  "username": "soloctavian",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Oslo",
+  "last_online": 1776594346,
+  "joined": 1327862528,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 823,
+      "date": 1729073550,
+      "rd": 254
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1327862528,
+      "game": "https://www.chess.com/game/daily/432255157"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1716,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2577,
+      "date": 1776594281,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2629,
+      "date": 1775050376,
+      "game": "https://www.chess.com/game/live/166717335360"
+    },
+    "record": {
+      "win": 536,
+      "loss": 478,
+      "draw": 100
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2620,
+      "date": 1775122232,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1723080676,
+      "game": "https://www.chess.com/game/live/116854795867"
+    },
+    "record": {
+      "win": 5166,
+      "loss": 5266,
+      "draw": 512
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2743,
+      "date": 1776538119,
+      "rd": 16
+    },
+    "best": {
+      "rating": 2784,
+      "date": 1762840095,
+      "game": "https://www.chess.com/game/live/139824448948"
+    },
+    "record": {
+      "win": 23278,
+      "loss": 23354,
+      "draw": 3626
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2815,
+      "date": 1769015025
+    },
+    "lowest": {
+      "rating": 2294,
+      "date": 1762702213
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

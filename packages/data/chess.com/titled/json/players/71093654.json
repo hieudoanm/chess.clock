@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/71093654.e3edb0a9.200x200o.18cd5851fb14.png",
+  "player_id": 71093654,
+  "@id": "https://api.chess.com/pub/player/hashtagchess",
+  "url": "https://www.chess.com/member/HashtagChess",
+  "name": "Rebecca Selkirk",
+  "username": "hashtagchess",
+  "title": "WCM",
+  "followers": 2240,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776285299,
+  "joined": 1579645586,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/hashtagchess",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/hashtagchess"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2005,
+      "date": 1776282278,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1688294429,
+      "game": "https://www.chess.com/game/live/78173076881"
+    },
+    "record": {
+      "win": 57,
+      "loss": 47,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1671,
+      "date": 1769966889,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2009,
+      "date": 1687080906,
+      "game": "https://www.chess.com/game/live/4476099605"
+    },
+    "record": {
+      "win": 501,
+      "loss": 485,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1828,
+      "date": 1776275790,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1633009144,
+      "game": "https://www.chess.com/game/live/5120215522"
+    },
+    "record": {
+      "win": 2001,
+      "loss": 1711,
+      "draw": 160
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2685,
+      "date": 1579645586
+    },
+    "lowest": {
+      "rating": 2685,
+      "date": 1579645586
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "player_id": 185761963,
+  "@id": "https://api.chess.com/pub/player/iamgrooter",
+  "url": "https://www.chess.com/member/IamGrooter",
+  "username": "iamgrooter",
+  "title": "GM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1744347298,
+  "joined": 1654277572,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1709895710,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 80033,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1709895710,
+      "rd": 210
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2832,
+      "date": 1718655390,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2910,
+      "date": 1714379333,
+      "game": "https://www.chess.com/game/live/102461467033"
+    },
+    "record": {
+      "win": 427,
+      "loss": 274,
+      "draw": 91
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1654277572
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1654277572
+    }
+  },
+  "puzzle_rush": {}
+}

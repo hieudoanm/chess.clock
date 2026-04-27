@@ -1,0 +1,99 @@
+{
+  "player_id": 149670315,
+  "@id": "https://api.chess.com/pub/player/anahishah",
+  "url": "https://www.chess.com/member/AnahiShah",
+  "name": "Anahi Rishit Shah",
+  "username": "anahishah",
+  "title": "WCM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/TZ",
+  "last_online": 1773318286,
+  "joined": 1627759245,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 756,
+      "date": 1773922932,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1172,
+      "date": 1752419877,
+      "game": "https://www.chess.com/game/daily/828552546"
+    },
+    "record": {
+      "win": 8,
+      "loss": 19,
+      "draw": 0,
+      "time_per_move": 35610,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1375,
+      "date": 1770143988,
+      "rd": 118
+    },
+    "best": {
+      "rating": 1666,
+      "date": 1750236376,
+      "game": "https://www.chess.com/game/live/139723373706"
+    },
+    "record": {
+      "win": 3,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1309,
+      "date": 1753385928,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1183,
+      "date": 1771677743,
+      "rd": 77
+    },
+    "best": {
+      "rating": 1331,
+      "date": 1767542321,
+      "game": "https://www.chess.com/game/live/141794477444"
+    },
+    "record": {
+      "win": 9,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1598,
+      "date": 1764395042
+    },
+    "lowest": {
+      "rating": 1506,
+      "date": 1755594452
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 10,
+      "score": 7
+    }
+  }
+}

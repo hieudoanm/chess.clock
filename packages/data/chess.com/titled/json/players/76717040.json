@@ -1,0 +1,67 @@
+{
+  "player_id": 76717040,
+  "@id": "https://api.chess.com/pub/player/gmmikhailkazakov",
+  "url": "https://www.chess.com/member/GMMikhailKazakov",
+  "name": "Mikhail Kazakov",
+  "username": "gmmikhailkazakov",
+  "title": "GM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1774961541,
+  "joined": 1586896299,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2091,
+      "date": 1695053923,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1600282675,
+      "game": "https://www.chess.com/game/live/5455360450"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1749571904,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1587815539,
+      "game": "https://www.chess.com/game/live/128816585351"
+    },
+    "record": {
+      "win": 169,
+      "loss": 171,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586896299
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586896299
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 13155742,
+  "@id": "https://api.chess.com/pub/player/gmpacman",
+  "url": "https://www.chess.com/member/gmpacman",
+  "username": "gmpacman",
+  "title": "GM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1498478956,
+  "joined": 1376586573,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1927,
+      "date": 1753715463,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1993,
+      "date": 1387312018,
+      "game": "https://www.chess.com/game/daily/75986312"
+    },
+    "record": {
+      "win": 10,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 29688,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1378835761,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1378835761,
+      "game": "https://www.chess.com/game/daily/75654190"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 29688,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2710,
+      "date": 1384974959,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1380820232,
+      "game": "https://www.chess.com/game/live/638880792"
+    },
+    "record": {
+      "win": 138,
+      "loss": 45,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2526,
+      "date": 1498505203,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1498505203,
+      "game": "https://www.chess.com/game/live/2174242974"
+    },
+    "record": {
+      "win": 159,
+      "loss": 58,
+      "draw": 18
+    }
+  },
+  "fide": 2550,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1376586573
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1376586573
+    }
+  },
+  "puzzle_rush": {}
+}

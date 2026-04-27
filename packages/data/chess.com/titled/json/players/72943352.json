@@ -1,0 +1,85 @@
+{
+  "player_id": 72943352,
+  "@id": "https://api.chess.com/pub/player/zverevlev",
+  "url": "https://www.chess.com/member/ZverevLev",
+  "name": "Lev Zverev",
+  "username": "zverevlev",
+  "title": "IM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1718817960,
+  "joined": 1583161616,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2371,
+      "date": 1649794950,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1636880274,
+      "game": "https://www.chess.com/game/live/4924804379"
+    },
+    "record": {
+      "win": 36,
+      "loss": 20,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2654,
+      "date": 1717500452,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1717500299,
+      "game": "https://www.chess.com/game/live/111238827135"
+    },
+    "record": {
+      "win": 122,
+      "loss": 69,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2776,
+      "date": 1718752303,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2779,
+      "date": 1718751414,
+      "game": "https://www.chess.com/game/live/112487475677"
+    },
+    "record": {
+      "win": 463,
+      "loss": 386,
+      "draw": 72
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2709,
+      "date": 1583161616
+    },
+    "lowest": {
+      "rating": 2709,
+      "date": 1583161616
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

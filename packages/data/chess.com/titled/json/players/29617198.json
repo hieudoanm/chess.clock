@@ -1,0 +1,62 @@
+{
+  "player_id": 29617198,
+  "@id": "https://api.chess.com/pub/player/youman2016",
+  "url": "https://www.chess.com/member/youman2016",
+  "name": "youman Thebest",
+  "username": "youman2016",
+  "title": "GM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1655566333,
+  "joined": 1472044706,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1200,
+      "date": 1600689401,
+      "rd": 349
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2909,
+      "date": 1655593091,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2913,
+      "date": 1581176913,
+      "game": "https://www.chess.com/game/live/4772712547"
+    },
+    "record": {
+      "win": 833,
+      "loss": 677,
+      "draw": 119
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2552,
+      "date": 1472044706
+    },
+    "lowest": {
+      "rating": 2552,
+      "date": 1472044706
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

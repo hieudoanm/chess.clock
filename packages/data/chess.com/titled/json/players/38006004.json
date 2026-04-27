@@ -1,0 +1,80 @@
+{
+  "player_id": 38006004,
+  "@id": "https://api.chess.com/pub/player/gkaru",
+  "url": "https://www.chess.com/member/GKARU",
+  "name": "Konstantin Garagulya",
+  "username": "gkaru",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1753199484,
+  "joined": 1503347281,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1692026638,
+      "rd": 283
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2115,
+      "date": 1738174060,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2324,
+      "date": 1643878123,
+      "game": "https://www.chess.com/game/live/37616403911"
+    },
+    "record": {
+      "win": 83,
+      "loss": 14,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1745335089,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1739291280,
+      "game": "https://www.chess.com/game/live/106413980971"
+    },
+    "record": {
+      "win": 186,
+      "loss": 203,
+      "draw": 21
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2066,
+      "date": 1503347281
+    },
+    "lowest": {
+      "rating": 2066,
+      "date": 1503347281
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

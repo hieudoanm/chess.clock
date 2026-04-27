@@ -1,0 +1,84 @@
+{
+  "player_id": 407599849,
+  "@id": "https://api.chess.com/pub/player/pinkapplechess",
+  "url": "https://www.chess.com/member/pinkapplechess",
+  "username": "pinkapplechess",
+  "title": "WCM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1776519862,
+  "joined": 1733576448,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2083,
+      "date": 1776510903,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1776080814,
+      "game": "https://www.chess.com/game/live/143622870074"
+    },
+    "record": {
+      "win": 152,
+      "loss": 53,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2095,
+      "date": 1776518149,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1760703318,
+      "game": "https://www.chess.com/game/live/144397860596"
+    },
+    "record": {
+      "win": 604,
+      "loss": 544,
+      "draw": 57
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2207,
+      "date": 1776096044,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1776095470,
+      "game": "https://www.chess.com/game/live/166814584398"
+    },
+    "record": {
+      "win": 12,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2080,
+      "date": 1776089666
+    },
+    "lowest": {
+      "rating": 1731,
+      "date": 1755788974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

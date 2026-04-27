@@ -1,0 +1,104 @@
+{
+  "player_id": 40511558,
+  "@id": "https://api.chess.com/pub/player/math54321",
+  "url": "https://www.chess.com/member/math54321",
+  "name": "Bobby Qian",
+  "username": "math54321",
+  "title": "CM",
+  "followers": 103,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776472315,
+  "joined": 1511050959,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1267,
+      "date": 1776472298,
+      "rd": 192
+    },
+    "best": {
+      "rating": 1267,
+      "date": 1753372480,
+      "game": "https://www.chess.com/game/daily/837883504"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 28106,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1853,
+      "date": 1755570044,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1992,
+      "date": 1697764452,
+      "game": "https://www.chess.com/game/live/37065073563"
+    },
+    "record": {
+      "win": 423,
+      "loss": 334,
+      "draw": 64
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1992,
+      "date": 1754770609,
+      "rd": 67
+    },
+    "best": {
+      "rating": 1992,
+      "date": 1754770540,
+      "game": "https://www.chess.com/game/live/67467818883"
+    },
+    "record": {
+      "win": 96,
+      "loss": 65,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2103,
+      "date": 1774828239,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1719498876,
+      "game": "https://www.chess.com/game/live/92027926287"
+    },
+    "record": {
+      "win": 201,
+      "loss": 136,
+      "draw": 16
+    }
+  },
+  "fide": 1992,
+  "tactics": {
+    "highest": {
+      "rating": 2712,
+      "date": 1774601123
+    },
+    "lowest": {
+      "rating": 2391,
+      "date": 1755568457
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

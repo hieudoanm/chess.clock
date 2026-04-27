@@ -1,0 +1,88 @@
+{
+  "player_id": 70202108,
+  "@id": "https://api.chess.com/pub/player/jkonnyu",
+  "url": "https://www.chess.com/member/jkonnyu",
+  "name": "J\u00e1nos K\u00f6nny\u0171",
+  "username": "jkonnyu",
+  "title": "IM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776190230,
+  "joined": 1577977929,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1519,
+      "date": 1768303305,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1735775504,
+      "game": "https://www.chess.com/game/daily/755044973"
+    },
+    "record": {
+      "win": 68,
+      "loss": 31,
+      "draw": 6,
+      "time_per_move": 17978,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2276,
+      "date": 1744856587,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1727683300,
+      "game": "https://www.chess.com/game/live/121384182369"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2292,
+      "date": 1756200953,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2329,
+      "date": 1577977929
+    },
+    "lowest": {
+      "rating": 2329,
+      "date": 1577977929
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

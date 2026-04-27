@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8641722.4d16d160.200x200o.57b237a2c902.jpg",
+  "player_id": 8641722,
+  "@id": "https://api.chess.com/pub/player/sacsacmate",
+  "url": "https://www.chess.com/member/SacSacMate",
+  "name": "Alexander Katz",
+  "username": "sacsacmate",
+  "title": "IM",
+  "followers": 318,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Los Angeles, California",
+  "last_online": 1776242546,
+  "joined": 1345685805,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/sacsaccheckmate",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/sacsaccheckmate"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1507,
+      "date": 1720816375,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1467718445,
+      "game": "https://www.chess.com/game/daily/116093714"
+    },
+    "record": {
+      "win": 197,
+      "loss": 78,
+      "draw": 24,
+      "time_per_move": 64128,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2544,
+      "date": 1747008339,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1676320713,
+      "game": "https://www.chess.com/game/live/70058685293"
+    },
+    "record": {
+      "win": 33,
+      "loss": 7,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2851,
+      "date": 1774206782,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2953,
+      "date": 1674280491,
+      "game": "https://www.chess.com/game/live/82362100791"
+    },
+    "record": {
+      "win": 748,
+      "loss": 633,
+      "draw": 93
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2744,
+      "date": 1774204093,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1739250397,
+      "game": "https://www.chess.com/game/live/132446457519"
+    },
+    "record": {
+      "win": 3637,
+      "loss": 2452,
+      "draw": 705
+    }
+  },
+  "fide": 2470,
+  "tactics": {
+    "highest": {
+      "rating": 2731,
+      "date": 1765612347
+    },
+    "lowest": {
+      "rating": 2685,
+      "date": 1765612622
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

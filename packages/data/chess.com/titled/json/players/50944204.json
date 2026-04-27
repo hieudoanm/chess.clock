@@ -1,0 +1,103 @@
+{
+  "player_id": 50944204,
+  "@id": "https://api.chess.com/pub/player/payyappat",
+  "url": "https://www.chess.com/member/Payyappat",
+  "name": "Sreyas Payyappat",
+  "username": "payyappat",
+  "title": "FM",
+  "followers": 107,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776586388,
+  "joined": 1540002319,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1435,
+      "date": 1762181855,
+      "rd": 106
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1577053421,
+      "game": "https://www.chess.com/game/daily/244118452"
+    },
+    "record": {
+      "win": 12,
+      "loss": 15,
+      "draw": 1,
+      "time_per_move": 17686,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2247,
+      "date": 1767903385,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1657882059,
+      "game": "https://www.chess.com/game/live/75482619817"
+    },
+    "record": {
+      "win": 206,
+      "loss": 143,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2608,
+      "date": 1752247256,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1750711521,
+      "game": "https://www.chess.com/game/live/82495354689"
+    },
+    "record": {
+      "win": 469,
+      "loss": 438,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2711,
+      "date": 1776374435,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1775766733,
+      "game": "https://www.chess.com/game/live/170060446405"
+    },
+    "record": {
+      "win": 999,
+      "loss": 856,
+      "draw": 84
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1766796678
+    },
+    "lowest": {
+      "rating": 2118,
+      "date": 1760729483
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

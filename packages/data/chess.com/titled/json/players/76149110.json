@@ -1,0 +1,80 @@
+{
+  "player_id": 76149110,
+  "@id": "https://api.chess.com/pub/player/rasand",
+  "url": "https://www.chess.com/member/RasaND",
+  "name": "Rasa Norinkeviciute",
+  "username": "rasand",
+  "title": "WFM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/LT",
+  "location": "Eastbourne",
+  "last_online": 1776061700,
+  "joined": 1586436796,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1855,
+      "date": 1630087215,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1592589770,
+      "game": "https://www.chess.com/game/live/19596035301"
+    },
+    "record": {
+      "win": 134,
+      "loss": 7,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1820,
+      "date": 1767129920,
+      "rd": 68
+    },
+    "best": {
+      "rating": 1958,
+      "date": 1594904527,
+      "game": "https://www.chess.com/game/live/5158273583"
+    },
+    "record": {
+      "win": 85,
+      "loss": 90,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2027,
+      "date": 1629660985,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2116,
+      "date": 1589636732,
+      "game": "https://www.chess.com/game/live/11895823019"
+    },
+    "record": {
+      "win": 59,
+      "loss": 50,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586436796
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586436796
+    }
+  },
+  "puzzle_rush": {}
+}

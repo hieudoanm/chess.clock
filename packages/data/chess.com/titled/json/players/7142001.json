@@ -1,0 +1,116 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7142001.5732747e.200x200o.e262823f4062.jpeg",
+  "player_id": 7142001,
+  "@id": "https://api.chess.com/pub/player/redbandit87",
+  "url": "https://www.chess.com/member/Redbandit87",
+  "name": "Ian Harris",
+  "username": "redbandit87",
+  "title": "NM",
+  "followers": 822,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "CT",
+  "last_online": 1776362739,
+  "joined": 1333197969,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/redbandit_chess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/redbandit_chess"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@redbanditchess-sf9lp"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1929,
+      "date": 1752695494,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1929,
+      "date": 1673706313,
+      "game": "https://www.chess.com/game/daily/95114490"
+    },
+    "record": {
+      "win": 27,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 28055,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2236,
+      "date": 1773692328,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1600539026,
+      "game": "https://www.chess.com/game/live/5836060082"
+    },
+    "record": {
+      "win": 171,
+      "loss": 64,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2496,
+      "date": 1776362702,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2655,
+      "date": 1769456531,
+      "game": "https://www.chess.com/game/live/109691576117"
+    },
+    "record": {
+      "win": 8978,
+      "loss": 6293,
+      "draw": 1037
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2494,
+      "date": 1776111184,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1582159223,
+      "game": "https://www.chess.com/game/live/48353454925"
+    },
+    "record": {
+      "win": 5119,
+      "loss": 3915,
+      "draw": 637
+    }
+  },
+  "fide": 2364,
+  "tactics": {
+    "highest": {
+      "rating": 2464,
+      "date": 1760022639
+    },
+    "lowest": {
+      "rating": 2341,
+      "date": 1774473649
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

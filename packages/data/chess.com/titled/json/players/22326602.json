@@ -1,0 +1,85 @@
+{
+  "player_id": 22326602,
+  "@id": "https://api.chess.com/pub/player/gm_dylan",
+  "url": "https://www.chess.com/member/gm_dylan",
+  "name": "dylan ian",
+  "username": "gm_dylan",
+  "title": "IM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/TH",
+  "location": "bangkok",
+  "last_online": 1775104168,
+  "joined": 1431246144,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1605,
+      "date": 1730992680,
+      "rd": 264
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1477214608,
+      "game": "https://www.chess.com/game/live/3930347586"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2531,
+      "date": 1501410912,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1471623493,
+      "game": "https://www.chess.com/game/live/1744651942"
+    },
+    "record": {
+      "win": 1811,
+      "loss": 1450,
+      "draw": 92
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2389,
+      "date": 1655553236,
+      "rd": 141
+    },
+    "best": {
+      "rating": 2523,
+      "date": 1512367295,
+      "game": "https://www.chess.com/game/live/2238617330"
+    },
+    "record": {
+      "win": 1866,
+      "loss": 1409,
+      "draw": 141
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2445,
+      "date": 1431246144
+    },
+    "lowest": {
+      "rating": 2445,
+      "date": 1431246144
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 36
+    }
+  }
+}

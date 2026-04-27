@@ -1,0 +1,58 @@
+{
+  "player_id": 95584588,
+  "@id": "https://api.chess.com/pub/player/pacerkos",
+  "url": "https://www.chess.com/member/pacerkos",
+  "name": "Igor Dorica",
+  "username": "pacerkos",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1776367019,
+  "joined": 1604777448,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2233,
+      "date": 1767974417,
+      "rd": 247
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2237,
+      "date": 1769717225,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1750708065,
+      "game": "https://www.chess.com/game/live/147420826932"
+    },
+    "record": {
+      "win": 1609,
+      "loss": 1118,
+      "draw": 172
+    }
+  },
+  "fide": 2233,
+  "tactics": {
+    "highest": {
+      "rating": 2233,
+      "date": 1604777448
+    },
+    "lowest": {
+      "rating": 2233,
+      "date": 1604777448
+    }
+  },
+  "puzzle_rush": {}
+}

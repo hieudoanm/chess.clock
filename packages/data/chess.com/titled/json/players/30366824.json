@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30366824.22d6b1f8.200x200o.bf8ce3f933fc.jpg",
+  "player_id": 30366824,
+  "@id": "https://api.chess.com/pub/player/gmwso",
+  "url": "https://www.chess.com/member/GMWSO",
+  "name": "Wesley So",
+  "username": "gmwso",
+  "title": "GM",
+  "followers": 10852,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776468862,
+  "joined": 1476324243,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2774,
+      "date": 1774466070,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2938,
+      "date": 1567214174,
+      "game": "https://www.chess.com/game/live/83091942821"
+    },
+    "record": {
+      "win": 177,
+      "loss": 63,
+      "draw": 176
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3140,
+      "date": 1763417566,
+      "rd": 47
+    },
+    "best": {
+      "rating": 3206,
+      "date": 1632155750,
+      "game": "https://www.chess.com/game/live/5927216153"
+    },
+    "record": {
+      "win": 962,
+      "loss": 456,
+      "draw": 187
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3249,
+      "date": 1776186770,
+      "rd": 36
+    },
+    "best": {
+      "rating": 3294,
+      "date": 1774619827,
+      "game": "https://www.chess.com/game/live/145635002730"
+    },
+    "record": {
+      "win": 2461,
+      "loss": 1044,
+      "draw": 767
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2867,
+      "date": 1476324243
+    },
+    "lowest": {
+      "rating": 2867,
+      "date": 1476324243
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

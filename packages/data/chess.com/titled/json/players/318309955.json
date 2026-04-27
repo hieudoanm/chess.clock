@@ -1,0 +1,84 @@
+{
+  "player_id": 318309955,
+  "@id": "https://api.chess.com/pub/player/the_wildoctopus",
+  "url": "https://www.chess.com/member/The_WildOctopus",
+  "username": "the_wildoctopus",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776498180,
+  "joined": 1696838314,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2075,
+      "date": 1750078648,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1703075131,
+      "game": "https://www.chess.com/game/live/96813007257"
+    },
+    "record": {
+      "win": 15,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1776006038,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2708,
+      "date": 1768567269,
+      "game": "https://www.chess.com/game/live/143321963044"
+    },
+    "record": {
+      "win": 420,
+      "loss": 286,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2712,
+      "date": 1776424797,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2823,
+      "date": 1774454309,
+      "game": "https://www.chess.com/game/live/164643167204"
+    },
+    "record": {
+      "win": 585,
+      "loss": 425,
+      "draw": 76
+    }
+  },
+  "fide": 2292,
+  "tactics": {
+    "highest": {
+      "rating": 2290,
+      "date": 1696838314
+    },
+    "lowest": {
+      "rating": 2290,
+      "date": 1696838314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

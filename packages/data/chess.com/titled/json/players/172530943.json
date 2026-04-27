@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/172530943.c5238d64.200x200o.c6416acd7d6e.jpeg",
+  "player_id": 172530943,
+  "@id": "https://api.chess.com/pub/player/wizardattack",
+  "url": "https://www.chess.com/member/wizardattack",
+  "name": "Alvaro",
+  "username": "wizardattack",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1766713681,
+  "joined": 1644344464,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2004,
+      "date": 1708746780,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1703134501,
+      "game": "https://www.chess.com/game/live/85154592437"
+    },
+    "record": {
+      "win": 47,
+      "loss": 36,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2117,
+      "date": 1766713822,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1657320384,
+      "game": "https://www.chess.com/game/live/51074390677"
+    },
+    "record": {
+      "win": 2834,
+      "loss": 2620,
+      "draw": 368
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2154,
+      "date": 1747036885,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1690265181,
+      "game": "https://www.chess.com/game/live/60932350817"
+    },
+    "record": {
+      "win": 171,
+      "loss": 113,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2225,
+      "date": 1644344464
+    },
+    "lowest": {
+      "rating": 2225,
+      "date": 1644344464
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 23
+    }
+  }
+}

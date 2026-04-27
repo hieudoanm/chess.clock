@@ -1,0 +1,79 @@
+{
+  "player_id": 33780744,
+  "@id": "https://api.chess.com/pub/player/murafa1",
+  "url": "https://www.chess.com/member/murafa1",
+  "username": "murafa1",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Hollywood",
+  "last_online": 1776571363,
+  "joined": 1488930711,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1760893165,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1736955532,
+      "game": "https://www.chess.com/game/live/105141583865"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2281,
+      "date": 1733933068,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1732112696,
+      "game": "https://www.chess.com/game/live/127604420311"
+    },
+    "record": {
+      "win": 1114,
+      "loss": 965,
+      "draw": 94
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2406,
+      "date": 1776571356,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2541,
+      "date": 1766931670,
+      "game": "https://www.chess.com/game/live/147263436936"
+    },
+    "record": {
+      "win": 4315,
+      "loss": 3780,
+      "draw": 665
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2135,
+      "date": 1755890128
+    },
+    "lowest": {
+      "rating": 1928,
+      "date": 1769916065
+    }
+  },
+  "puzzle_rush": {}
+}

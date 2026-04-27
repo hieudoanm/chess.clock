@@ -1,0 +1,67 @@
+{
+    "player_id": 35382020,
+    "@id": "https://api.chess.com/pub/player/l1m96",
+    "url": "https://www.chess.com/member/L1m96",
+    "name": "Evgenij Lesovoi",
+    "username": "l1m96",
+    "title": "FM",
+    "followers": 8,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1637362375,
+    "joined": 1494282785,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2716,
+            "date": 1632666517,
+            "rd": 86
+        },
+        "best": {
+            "rating": 2776,
+            "date": 1617302085,
+            "game": "https://www.chess.com/game/live/11039754287"
+        },
+        "record": {
+            "win": 426,
+            "loss": 353,
+            "draw": 47
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2543,
+            "date": 1615359676,
+            "rd": 55
+        },
+        "best": {
+            "rating": 2684,
+            "date": 1572553380,
+            "game": "https://www.chess.com/game/live/6578966051"
+        },
+        "record": {
+            "win": 367,
+            "loss": 274,
+            "draw": 40
+        }
+    },
+    "fide": 0,
+    "tactics": {
+        "highest": {
+            "rating": 1832,
+            "date": 1613078975
+        },
+        "lowest": {
+            "rating": 411,
+            "date": 1500977711
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

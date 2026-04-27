@@ -1,0 +1,85 @@
+{
+  "player_id": 374628285,
+  "@id": "https://api.chess.com/pub/player/username239759821",
+  "url": "https://www.chess.com/member/username239759821",
+  "name": "Adam Zielonka",
+  "username": "username239759821",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776578720,
+  "joined": 1720634758,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2312,
+      "date": 1769607718,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1751918032,
+      "game": "https://www.chess.com/game/live/140440875526"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2638,
+      "date": 1772667367,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2649,
+      "date": 1772667278,
+      "game": "https://www.chess.com/game/live/165520190900"
+    },
+    "record": {
+      "win": 39,
+      "loss": 25,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2800,
+      "date": 1776460860,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2845,
+      "date": 1752340568,
+      "game": "https://www.chess.com/game/live/141727266014"
+    },
+    "record": {
+      "win": 2076,
+      "loss": 1993,
+      "draw": 397
+    }
+  },
+  "fide": 2319,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1720634758
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1720634758
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 46
+    }
+  }
+}

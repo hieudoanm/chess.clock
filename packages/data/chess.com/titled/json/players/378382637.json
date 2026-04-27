@@ -1,0 +1,89 @@
+{
+  "player_id": 378382637,
+  "@id": "https://api.chess.com/pub/player/schlechter1874",
+  "url": "https://www.chess.com/member/Schlechter1874",
+  "username": "schlechter1874",
+  "title": "FM",
+  "followers": 155,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776526868,
+  "joined": 1722438921,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2160,
+      "date": 1776406726,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1773402353,
+      "game": "https://www.chess.com/game/daily/798657421"
+    },
+    "record": {
+      "win": 174,
+      "loss": 4,
+      "draw": 8,
+      "time_per_move": 29299,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2538,
+      "date": 1776267910,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2608,
+      "date": 1774291693,
+      "game": "https://www.chess.com/game/live/164827400472"
+    },
+    "record": {
+      "win": 1014,
+      "loss": 419,
+      "draw": 201
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2424,
+      "date": 1774632543,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2448,
+      "date": 1757341044,
+      "game": "https://www.chess.com/game/live/133312766183"
+    },
+    "record": {
+      "win": 397,
+      "loss": 273,
+      "draw": 96
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2593,
+      "date": 1769218428
+    },
+    "lowest": {
+      "rating": 2297,
+      "date": 1770888141
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    },
+    "daily": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

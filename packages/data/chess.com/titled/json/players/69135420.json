@@ -1,0 +1,68 @@
+{
+  "player_id": 69135420,
+  "@id": "https://api.chess.com/pub/player/zakharka",
+  "url": "https://www.chess.com/member/zakharka",
+  "name": "Vladimir Zakharov",
+  "username": "zakharka",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1765498682,
+  "joined": 1575984143,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1907,
+      "date": 1765498818,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2344,
+      "date": 1586954593,
+      "game": "https://www.chess.com/game/live/4758250879"
+    },
+    "record": {
+      "win": 751,
+      "loss": 634,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2208,
+      "date": 1747481378,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1586971774,
+      "game": "https://www.chess.com/game/live/4492602780"
+    },
+    "record": {
+      "win": 409,
+      "loss": 310,
+      "draw": 36
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2239,
+      "date": 1575984143
+    },
+    "lowest": {
+      "rating": 2239,
+      "date": 1575984143
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

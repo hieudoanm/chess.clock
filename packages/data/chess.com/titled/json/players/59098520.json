@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59098520.73c2d734.200x200o.987c31812529.jpeg",
+  "player_id": 59098520,
+  "@id": "https://api.chess.com/pub/player/kingroche",
+  "url": "https://www.chess.com/member/Kingroche",
+  "name": "Rogier van Arkel",
+  "username": "kingroche",
+  "title": "CM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Amsterdam",
+  "last_online": 1776598247,
+  "joined": 1553771534,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2003,
+      "date": 1771944349,
+      "rd": 347
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1608588111,
+      "game": "https://www.chess.com/game/daily/294734436"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8009,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2236,
+      "date": 1659696948,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1658837827,
+      "game": "https://www.chess.com/game/live/51311982859"
+    },
+    "record": {
+      "win": 36,
+      "loss": 14,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2604,
+      "date": 1776598238,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1772479777,
+      "game": "https://www.chess.com/game/live/167237895862"
+    },
+    "record": {
+      "win": 635,
+      "loss": 468,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2645,
+      "date": 1776562428,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1772561591,
+      "game": "https://www.chess.com/game/live/166873815819"
+    },
+    "record": {
+      "win": 5024,
+      "loss": 4166,
+      "draw": 603
+    }
+  },
+  "fide": 2224,
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1772003386
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1772003421
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 29
+    }
+  }
+}

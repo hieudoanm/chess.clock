@@ -1,0 +1,96 @@
+{
+  "player_id": 72124640,
+  "@id": "https://api.chess.com/pub/player/fmpadre",
+  "url": "https://www.chess.com/member/FMPadre",
+  "username": "fmpadre",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1775717940,
+  "joined": 1581589793,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1772713802,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 993,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2480,
+      "date": 1635632033,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1633025087,
+      "game": "https://www.chess.com/game/live/26762483019"
+    },
+    "record": {
+      "win": 16,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1745339280
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1623514023,
+      "game": "https://www.chess.com/game/live/17518447027"
+    },
+    "record": {
+      "win": 75,
+      "loss": 36,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2391,
+      "date": 1775496442,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2443,
+      "date": 1769934050,
+      "game": "https://www.chess.com/game/live/164915792068"
+    },
+    "record": {
+      "win": 408,
+      "loss": 281,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2460,
+      "date": 1761994902
+    },
+    "lowest": {
+      "rating": 2288,
+      "date": 1771156578
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

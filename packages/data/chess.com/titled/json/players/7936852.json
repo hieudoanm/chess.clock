@@ -1,0 +1,81 @@
+{
+  "player_id": 7936852,
+  "@id": "https://api.chess.com/pub/player/vplotkin",
+  "url": "https://www.chess.com/member/vplotkin",
+  "name": "Victor Plotkin",
+  "username": "vplotkin",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Thornhill",
+  "last_online": 1776588171,
+  "joined": 1340062611,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 726,
+      "date": 1624878686,
+      "rd": 161
+    },
+    "record": {
+      "win": 0,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1916,
+      "date": 1554912502,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1780,
+      "date": 1554911967,
+      "game": "https://www.chess.com/game/live/3606279561"
+    },
+    "record": {
+      "win": 15,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2534,
+      "date": 1776523703,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2638,
+      "date": 1770478321,
+      "game": "https://www.chess.com/game/live/63815417809"
+    },
+    "record": {
+      "win": 7604,
+      "loss": 7749,
+      "draw": 2401
+    }
+  },
+  "fide": 2301,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1340062611
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1340062611
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

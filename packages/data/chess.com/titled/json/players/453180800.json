@@ -1,0 +1,99 @@
+{
+  "player_id": 453180800,
+  "@id": "https://api.chess.com/pub/player/bacus79",
+  "url": "https://www.chess.com/member/Bacus79",
+  "name": "Dharim Bacus",
+  "username": "bacus79",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776583493,
+  "joined": 1747758689,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1750770769,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 44,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2155,
+      "date": 1768140990,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1758763186,
+      "game": "https://www.chess.com/game/live/147873880684"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2328,
+      "date": 1753458119,
+      "rd": 15
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1752025856,
+      "game": "https://www.chess.com/game/live/140724985014"
+    },
+    "record": {
+      "win": 648,
+      "loss": 740,
+      "draw": 56
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1776453645,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1760648726,
+      "game": "https://www.chess.com/game/live/153578798769"
+    },
+    "record": {
+      "win": 977,
+      "loss": 1069,
+      "draw": 101
+    }
+  },
+  "fide": 2131,
+  "tactics": {
+    "highest": {
+      "rating": 1652,
+      "date": 1760247157
+    },
+    "lowest": {
+      "rating": 1652,
+      "date": 1760247157
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

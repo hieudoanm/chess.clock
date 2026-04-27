@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42004422.8dd662b8.200x200o.bbcfcc4aad18.jpeg",
+  "player_id": 42004422,
+  "@id": "https://api.chess.com/pub/player/shadowjolteon",
+  "url": "https://www.chess.com/member/ShadowJolteon",
+  "name": "Caio Poeta",
+  "username": "shadowjolteon",
+  "title": "NM",
+  "followers": 448,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776596905,
+  "joined": 1515101093,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nmpoeta",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nmpoeta"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2044,
+      "date": 1773525103,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1673202782,
+      "game": "https://www.chess.com/game/daily/449311281"
+    },
+    "record": {
+      "win": 41,
+      "loss": 8,
+      "draw": 8,
+      "time_per_move": 45578,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2488,
+      "date": 1775264787,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2502,
+      "date": 1765664004,
+      "game": "https://www.chess.com/game/live/146681427062"
+    },
+    "record": {
+      "win": 53,
+      "loss": 29,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2523,
+      "date": 1776126097,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1776125776,
+      "game": "https://www.chess.com/game/live/34882269191"
+    },
+    "record": {
+      "win": 1025,
+      "loss": 1100,
+      "draw": 99
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1776382560,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1753127155,
+      "game": "https://www.chess.com/game/live/34736398393"
+    },
+    "record": {
+      "win": 4850,
+      "loss": 5045,
+      "draw": 678
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2810,
+      "date": 1766334546
+    },
+    "lowest": {
+      "rating": 2673,
+      "date": 1762775729
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "player_id": 77402508,
+  "@id": "https://api.chess.com/pub/player/diegomoreno2007",
+  "url": "https://www.chess.com/member/DiegoMoreno2007",
+  "name": "Diego Moreno Diepa",
+  "username": "diegomoreno2007",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/XA",
+  "location": "Islas Canarias",
+  "last_online": 1776597125,
+  "joined": 1587488808,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2257,
+      "date": 1757682820,
+      "rd": 76
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2627,
+      "date": 1776545044,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1772883625,
+      "game": "https://www.chess.com/game/live/165560945150"
+    },
+    "record": {
+      "win": 1851,
+      "loss": 1336,
+      "draw": 198
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2717,
+      "date": 1776597113,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2794,
+      "date": 1772562532,
+      "game": "https://www.chess.com/game/live/152954797163"
+    },
+    "record": {
+      "win": 2075,
+      "loss": 1632,
+      "draw": 294
+    }
+  },
+  "fide": 2257,
+  "tactics": {
+    "highest": {
+      "rating": 2443,
+      "date": 1774532242
+    },
+    "lowest": {
+      "rating": 1770,
+      "date": 1757972140
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

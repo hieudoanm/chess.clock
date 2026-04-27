@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/403757617.6811b65c.200x200o.24befd80c399.jpg",
+  "player_id": 403757617,
+  "@id": "https://api.chess.com/pub/player/purefmchess",
+  "url": "https://www.chess.com/member/PureFMchess",
+  "username": "purefmchess",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/TL",
+  "last_online": 1776580264,
+  "joined": 1732113667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2202,
+      "date": 1761577117,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1761576058,
+      "game": "https://www.chess.com/game/live/128634253211"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2322,
+      "date": 1761589277,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1734420438,
+      "game": "https://www.chess.com/game/live/128159357731"
+    },
+    "record": {
+      "win": 66,
+      "loss": 31,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2476,
+      "date": 1776377365,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1776376079,
+      "game": "https://www.chess.com/game/live/167410680032"
+    },
+    "record": {
+      "win": 120,
+      "loss": 107,
+      "draw": 23
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1732113667
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1732113667
+    }
+  },
+  "puzzle_rush": {}
+}

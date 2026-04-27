@@ -1,0 +1,104 @@
+{
+  "player_id": 30220244,
+  "@id": "https://api.chess.com/pub/player/piwan",
+  "url": "https://www.chess.com/member/PIwan",
+  "name": "Ivan Provotorov",
+  "username": "piwan",
+  "title": "IM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776588011,
+  "joined": 1475526879,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1941,
+      "date": 1597170732,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1941,
+      "date": 1567594711,
+      "game": "https://www.chess.com/game/daily/235703880"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8305,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2443,
+      "date": 1707047316,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1707037010,
+      "game": "https://www.chess.com/game/live/100724722483"
+    },
+    "record": {
+      "win": 22,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2485,
+      "date": 1726167139,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1708432634,
+      "game": "https://www.chess.com/game/live/102420672035"
+    },
+    "record": {
+      "win": 754,
+      "loss": 891,
+      "draw": 75
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2557,
+      "date": 1776587892,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2767,
+      "date": 1701937384,
+      "game": "https://www.chess.com/game/live/5283514010"
+    },
+    "record": {
+      "win": 1909,
+      "loss": 1999,
+      "draw": 235
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2920,
+      "date": 1756022671
+    },
+    "lowest": {
+      "rating": 2578,
+      "date": 1756025265
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

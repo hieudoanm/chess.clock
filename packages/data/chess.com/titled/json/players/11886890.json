@@ -1,0 +1,103 @@
+{
+  "player_id": 11886890,
+  "@id": "https://api.chess.com/pub/player/estebanniram",
+  "url": "https://www.chess.com/member/EstebanNiram",
+  "name": "Jose Esteban Marin Masis",
+  "username": "estebanniram",
+  "title": "CM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/CR",
+  "last_online": 1773080015,
+  "joined": 1368580759,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1377,
+      "date": 1714060174,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1435,
+      "date": 1518884417,
+      "game": "https://www.chess.com/game/daily/184881082"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 40053,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1821,
+      "date": 1685141263,
+      "rd": 210
+    },
+    "best": {
+      "rating": 1986,
+      "date": 1453089681,
+      "game": "https://www.chess.com/game/live/1018555091"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1667359800,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1614026151,
+      "game": "https://www.chess.com/game/live/7765275019"
+    },
+    "record": {
+      "win": 362,
+      "loss": 286,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2244,
+      "date": 1769452375,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1608062831,
+      "game": "https://www.chess.com/game/live/6503891096"
+    },
+    "record": {
+      "win": 886,
+      "loss": 991,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2346,
+      "date": 1368580759
+    },
+    "lowest": {
+      "rating": 2346,
+      "date": 1368580759
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/150199537.edcf6cad.200x200o.571b655e3ade.jpeg",
+  "player_id": 150199537,
+  "@id": "https://api.chess.com/pub/player/queladri",
+  "url": "https://www.chess.com/member/QueLadri",
+  "name": "Que Ladri",
+  "username": "queladri",
+  "title": "CM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1776546435,
+  "joined": 1628192819,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1659,
+      "date": 1776538369,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1659,
+      "date": 1668015003,
+      "game": "https://www.chess.com/game/daily/439783205"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37234,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1313,
+      "date": 1663013136,
+      "rd": 203
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2484,
+      "date": 1776499021,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2486,
+      "date": 1732988552,
+      "game": "https://www.chess.com/game/live/126725986623"
+    },
+    "record": {
+      "win": 44,
+      "loss": 33,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2537,
+      "date": 1776538848,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1768291432,
+      "game": "https://www.chess.com/game/live/147946924600"
+    },
+    "record": {
+      "win": 1212,
+      "loss": 1325,
+      "draw": 281
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2645,
+      "date": 1762021554
+    },
+    "lowest": {
+      "rating": 2286,
+      "date": 1762185237
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

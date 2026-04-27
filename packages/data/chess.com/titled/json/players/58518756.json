@@ -1,0 +1,69 @@
+{
+  "player_id": 58518756,
+  "@id": "https://api.chess.com/pub/player/alexieh",
+  "url": "https://www.chess.com/member/alexieh",
+  "username": "alexieh",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1775854975,
+  "joined": 1552583903,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1717,
+      "date": 1746027923,
+      "rd": 264
+    },
+    "best": {
+      "rating": 1940,
+      "date": 1592851330,
+      "game": "https://www.chess.com/game/daily/265443964"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 74534,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2529,
+      "date": 1726170652,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1726159433,
+      "game": "https://www.chess.com/game/live/4359580099"
+    },
+    "record": {
+      "win": 57,
+      "loss": 33,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2382,
+      "date": 1552583903
+    },
+    "lowest": {
+      "rating": 2382,
+      "date": 1552583903
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

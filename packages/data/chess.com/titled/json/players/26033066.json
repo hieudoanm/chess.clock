@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26033066.b5aa60f4.200x200o.9be65c5c9b50.jpeg",
+  "player_id": 26033066,
+  "@id": "https://api.chess.com/pub/player/mr_ruthless",
+  "url": "https://www.chess.com/member/Mr_ruthless",
+  "name": "Namitbir Singh Walia",
+  "username": "mr_ruthless",
+  "title": "IM",
+  "followers": 155,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776580012,
+  "joined": 1452327537,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/mr__ruthless",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/mr__ruthless"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 694,
+      "date": 1768236229,
+      "rd": 151
+    },
+    "best": {
+      "rating": 1505,
+      "date": 1642419005,
+      "game": "https://www.chess.com/game/daily/376551707"
+    },
+    "record": {
+      "win": 40,
+      "loss": 25,
+      "draw": 1,
+      "time_per_move": 16983,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2292,
+      "date": 1739732487,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1739732103,
+      "game": "https://www.chess.com/game/live/133469964215"
+    },
+    "record": {
+      "win": 61,
+      "loss": 37,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2500,
+      "date": 1768065765,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1737309643,
+      "game": "https://www.chess.com/game/live/132170393107"
+    },
+    "record": {
+      "win": 1475,
+      "loss": 1248,
+      "draw": 100
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2611,
+      "date": 1776579981,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2651,
+      "date": 1724847344,
+      "game": "https://www.chess.com/game/live/24427339339"
+    },
+    "record": {
+      "win": 3569,
+      "loss": 2826,
+      "draw": 412
+    }
+  },
+  "fide": 2335,
+  "tactics": {
+    "highest": {
+      "rating": 2582,
+      "date": 1763178248
+    },
+    "lowest": {
+      "rating": 2468,
+      "date": 1760780179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

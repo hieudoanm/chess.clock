@@ -1,0 +1,99 @@
+{
+  "player_id": 349969789,
+  "@id": "https://api.chess.com/pub/player/manuelermachenko",
+  "url": "https://www.chess.com/member/ManuelErmachenko",
+  "name": "Manuel Ermachenko",
+  "username": "manuelermachenko",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776339831,
+  "joined": 1710053757,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1751521276,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 4322,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2479,
+      "date": 1750949912,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1750949912,
+      "game": "https://www.chess.com/game/live/140030350698"
+    },
+    "record": {
+      "win": 51,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2755,
+      "date": 1751057508,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1750597941,
+      "game": "https://www.chess.com/game/live/140016664986"
+    },
+    "record": {
+      "win": 475,
+      "loss": 402,
+      "draw": 86
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2852,
+      "date": 1751306776,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2854,
+      "date": 1750849155,
+      "game": "https://www.chess.com/game/live/139689762516"
+    },
+    "record": {
+      "win": 130,
+      "loss": 65,
+      "draw": 18
+    }
+  },
+  "fide": 2247,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1710053757
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1710053757
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

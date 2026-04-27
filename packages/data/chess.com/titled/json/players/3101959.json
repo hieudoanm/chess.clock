@@ -1,0 +1,99 @@
+{
+  "player_id": 3101959,
+  "@id": "https://api.chess.com/pub/player/andrewsamuelson",
+  "url": "https://www.chess.com/member/AndrewSamuelson",
+  "name": "Andrew Samuelson",
+  "username": "andrewsamuelson",
+  "title": "FM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Virginia",
+  "last_online": 1776572127,
+  "joined": 1211784314,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1686922175,
+      "rd": 270
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1363996451,
+      "game": "https://www.chess.com/game/daily/37611076"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 4,
+      "time_per_move": 4424,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1755919636,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1624669136,
+      "game": "https://www.chess.com/game/live/50538538329"
+    },
+    "record": {
+      "win": 33,
+      "loss": 13,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1653446185,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1604980564,
+      "game": "https://www.chess.com/game/live/5754199588"
+    },
+    "record": {
+      "win": 718,
+      "loss": 501,
+      "draw": 94
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1737341681,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2557,
+      "date": 1656727689,
+      "game": "https://www.chess.com/game/live/63955155381"
+    },
+    "record": {
+      "win": 1090,
+      "loss": 767,
+      "draw": 199
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2230,
+      "date": 1211784314
+    },
+    "lowest": {
+      "rating": 2230,
+      "date": 1211784314
+    }
+  },
+  "puzzle_rush": {}
+}

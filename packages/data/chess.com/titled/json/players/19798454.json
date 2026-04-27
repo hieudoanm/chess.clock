@@ -1,0 +1,122 @@
+{
+  "player_id": 19798454,
+  "@id": "https://api.chess.com/pub/player/grugo64",
+  "url": "https://www.chess.com/member/Grugo64",
+  "name": "Heiko Kummerow",
+  "username": "grugo64",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1771237817,
+  "joined": 1416414594,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2042,
+      "date": 1708973702,
+      "rd": 159
+    },
+    "best": {
+      "rating": 2165,
+      "date": 1490888125,
+      "game": "https://www.chess.com/game/daily/172634742"
+    },
+    "record": {
+      "win": 4117,
+      "loss": 1295,
+      "draw": 851,
+      "time_per_move": 6802,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1593,
+      "date": 1483178793,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1593,
+      "date": 1483178793,
+      "game": "https://www.chess.com/game/daily/153448480"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 6802,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2327,
+      "date": 1684859949,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1682942341,
+      "game": "https://www.chess.com/game/live/77554991479"
+    },
+    "record": {
+      "win": 47,
+      "loss": 31,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1994,
+      "date": 1719911991,
+      "rd": 186
+    },
+    "best": {
+      "rating": 2103,
+      "date": 1719911827,
+      "game": "https://www.chess.com/game/live/3963109814"
+    },
+    "record": {
+      "win": 55,
+      "loss": 26,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2222,
+      "date": 1684739697,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1580316079,
+      "game": "https://www.chess.com/game/live/3991137523"
+    },
+    "record": {
+      "win": 525,
+      "loss": 384,
+      "draw": 38
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2691,
+      "date": 1758519878
+    },
+    "lowest": {
+      "rating": 2564,
+      "date": 1758520087
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

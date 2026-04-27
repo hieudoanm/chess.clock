@@ -1,0 +1,83 @@
+{
+  "player_id": 87094176,
+  "@id": "https://api.chess.com/pub/player/oliveratomchess",
+  "url": "https://www.chess.com/member/oliveratomchess",
+  "username": "oliveratomchess",
+  "title": "FM",
+  "followers": 86,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1775330236,
+  "joined": 1595183827,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2019,
+      "date": 1706472191,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1629407806,
+      "game": "https://www.chess.com/game/live/23236814975"
+    },
+    "record": {
+      "win": 57,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2477,
+      "date": 1766765988,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1737153710,
+      "game": "https://www.chess.com/game/live/133453752547"
+    },
+    "record": {
+      "win": 359,
+      "loss": 393,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2517,
+      "date": 1775329395,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2654,
+      "date": 1767899433,
+      "game": "https://www.chess.com/game/live/166856206916"
+    },
+    "record": {
+      "win": 1118,
+      "loss": 1220,
+      "draw": 193
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2568,
+      "date": 1773921496
+    },
+    "lowest": {
+      "rating": 1957,
+      "date": 1764636654
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

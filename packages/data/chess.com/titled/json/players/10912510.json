@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10912510.2dff38f0.200x200o.c9991b32d6b2.jpeg",
+  "player_id": 10912510,
+  "@id": "https://api.chess.com/pub/player/djengisvan",
+  "url": "https://www.chess.com/member/DjengisVan",
+  "name": "Harold van Dijk",
+  "username": "djengisvan",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Rotterdam",
+  "last_online": 1775655099,
+  "joined": 1361556714,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1855,
+      "date": 1611329610,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1478444724,
+      "game": "https://www.chess.com/game/daily/72874790"
+    },
+    "record": {
+      "win": 30,
+      "loss": 12,
+      "draw": 0,
+      "time_per_move": 51655,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2322,
+      "date": 1761748391,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1608386028,
+      "game": "https://www.chess.com/game/live/6544943436"
+    },
+    "record": {
+      "win": 15,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1229,
+      "date": 1676463511,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2138,
+      "date": 1461750146,
+      "game": "https://www.chess.com/game/live/1556062904"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2228,
+      "date": 1676463511,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2292,
+      "date": 1461515245,
+      "game": "https://www.chess.com/game/live/1645772350"
+    },
+    "record": {
+      "win": 349,
+      "loss": 218,
+      "draw": 35
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2052,
+      "date": 1774857527
+    },
+    "lowest": {
+      "rating": 1103,
+      "date": 1774856700
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

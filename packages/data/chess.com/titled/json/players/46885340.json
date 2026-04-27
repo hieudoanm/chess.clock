@@ -1,0 +1,80 @@
+{
+  "player_id": 46885340,
+  "@id": "https://api.chess.com/pub/player/today_good_day",
+  "url": "https://www.chess.com/member/today_good_day",
+  "name": "Vira Tarleva",
+  "username": "today_good_day",
+  "title": "WFM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776592821,
+  "joined": 1528370785,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1923,
+      "date": 1776158234,
+      "rd": 84
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2190,
+      "date": 1641725475,
+      "rd": 226
+    },
+    "best": {
+      "rating": 2190,
+      "date": 1641725475,
+      "game": "https://www.chess.com/game/live/35463446979"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1937,
+      "date": 1775634786,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1676537772,
+      "game": "https://www.chess.com/game/live/5501434450"
+    },
+    "record": {
+      "win": 156,
+      "loss": 129,
+      "draw": 35
+    }
+  },
+  "fide": 2030,
+  "tactics": {
+    "highest": {
+      "rating": 2514,
+      "date": 1771405266
+    },
+    "lowest": {
+      "rating": 2073,
+      "date": 1775283888
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

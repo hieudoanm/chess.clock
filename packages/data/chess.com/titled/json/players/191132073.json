@@ -1,0 +1,83 @@
+{
+  "player_id": 191132073,
+  "@id": "https://api.chess.com/pub/player/thedrunkmonkey7",
+  "url": "https://www.chess.com/member/TheDrunkMonkey7",
+  "username": "thedrunkmonkey7",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/BH",
+  "last_online": 1776543375,
+  "joined": 1658754406,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1738219505,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1730741984,
+      "game": "https://www.chess.com/game/live/124480121147"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2482,
+      "date": 1766958904,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1735559973,
+      "game": "https://www.chess.com/game/live/129985115101"
+    },
+    "record": {
+      "win": 105,
+      "loss": 100,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2540,
+      "date": 1771064836,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2668,
+      "date": 1749464840,
+      "game": "https://www.chess.com/game/live/82207288871"
+    },
+    "record": {
+      "win": 536,
+      "loss": 566,
+      "draw": 86
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2477,
+      "date": 1758538928
+    },
+    "lowest": {
+      "rating": 2371,
+      "date": 1766871544
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

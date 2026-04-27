@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/19980582.da15f7b4.200x200o.b6882a29d169.jpeg",
+  "player_id": 19980582,
+  "@id": "https://api.chess.com/pub/player/dmitry_ponomarev",
+  "url": "https://www.chess.com/member/Dmitry_Ponomarev",
+  "name": "Dmitry Ponomarev",
+  "username": "dmitry_ponomarev",
+  "title": "IM",
+  "followers": 93,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u041f\u0435\u043d\u0437\u0430",
+  "last_online": 1771950193,
+  "joined": 1417422010,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1885,
+      "date": 1605605296,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1417422010,
+      "game": "https://www.chess.com/game/daily/238414350"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28384,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1747751720,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1486578163,
+      "game": "https://www.chess.com/game/live/1975883794"
+    },
+    "record": {
+      "win": 36,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2101,
+      "date": 1767216932,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1554826850,
+      "game": "https://www.chess.com/game/live/3603651182"
+    },
+    "record": {
+      "win": 122,
+      "loss": 150,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2256,
+      "date": 1771950055,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2781,
+      "date": 1582383221,
+      "game": "https://www.chess.com/game/live/117303048593"
+    },
+    "record": {
+      "win": 545,
+      "loss": 692,
+      "draw": 119
+    }
+  },
+  "fide": 2417,
+  "tactics": {
+    "highest": {
+      "rating": 2128,
+      "date": 1759994289
+    },
+    "lowest": {
+      "rating": 2122,
+      "date": 1759994240
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

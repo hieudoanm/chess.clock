@@ -1,0 +1,102 @@
+{
+  "player_id": 131246548,
+  "@id": "https://api.chess.com/pub/player/rabbit-33",
+  "url": "https://www.chess.com/member/rabbit-33",
+  "username": "rabbit-33",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1753472623,
+  "joined": 1616768987,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1455,
+      "date": 1745397033,
+      "rd": 73
+    },
+    "best": {
+      "rating": 1618,
+      "date": 1694479755,
+      "game": "https://www.chess.com/game/daily/550585551"
+    },
+    "record": {
+      "win": 35,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 25124,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2086,
+      "date": 1716078606,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2086,
+      "date": 1716078606,
+      "game": "https://www.chess.com/game/live/74790874659"
+    },
+    "record": {
+      "win": 99,
+      "loss": 26,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2100,
+      "date": 1710157564,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1988,
+      "date": 1691792877,
+      "game": "https://www.chess.com/game/live/85531793237"
+    },
+    "record": {
+      "win": 19,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2529,
+      "date": 1726195240,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1721302983,
+      "game": "https://www.chess.com/game/live/119932808367"
+    },
+    "record": {
+      "win": 299,
+      "loss": 142,
+      "draw": 54
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2398,
+      "date": 1616768987
+    },
+    "lowest": {
+      "rating": 2398,
+      "date": 1616768987
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

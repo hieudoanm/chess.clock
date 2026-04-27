@@ -1,0 +1,85 @@
+{
+  "player_id": 380951373,
+  "@id": "https://api.chess.com/pub/player/mach1el",
+  "url": "https://www.chess.com/member/Mach1el",
+  "name": "Mikhail Spizharny",
+  "username": "mach1el",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776594155,
+  "joined": 1723637851,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2305,
+      "date": 1726850715,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1726845287,
+      "game": "https://www.chess.com/game/live/118154289543"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2781,
+      "date": 1731174408,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2781,
+      "date": 1731174408,
+      "game": "https://www.chess.com/game/live/118256974975"
+    },
+    "record": {
+      "win": 33,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2676,
+      "date": 1744558977,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2687,
+      "date": 1727539828,
+      "game": "https://www.chess.com/game/live/118514902351"
+    },
+    "record": {
+      "win": 116,
+      "loss": 55,
+      "draw": 14
+    }
+  },
+  "fide": 2328,
+  "tactics": {
+    "highest": {
+      "rating": 3004,
+      "date": 1761053073
+    },
+    "lowest": {
+      "rating": 2922,
+      "date": 1760623734
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 29545356,
+  "@id": "https://api.chess.com/pub/player/goldengolem",
+  "url": "https://www.chess.com/member/GoldenGolem",
+  "name": "Myo Naing",
+  "username": "goldengolem",
+  "title": "IM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/MM",
+  "location": "Yangon",
+  "last_online": 1624254989,
+  "joined": 1471604450,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2005,
+      "date": 1626424100,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2038,
+      "date": 1585365686,
+      "game": "https://www.chess.com/game/daily/241005326"
+    },
+    "record": {
+      "win": 21,
+      "loss": 6,
+      "draw": 4,
+      "time_per_move": 30189,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2463,
+      "date": 1624278906,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1623142391,
+      "game": "https://www.chess.com/game/live/16880691161"
+    },
+    "record": {
+      "win": 13,
+      "loss": 9,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2007,
+      "date": 1624281368,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1471695087,
+      "game": "https://www.chess.com/game/live/16734447069"
+    },
+    "record": {
+      "win": 2757,
+      "loss": 2928,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1624280860,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1624280860,
+      "game": "https://www.chess.com/game/live/8925371265"
+    },
+    "record": {
+      "win": 5119,
+      "loss": 5103,
+      "draw": 750
+    }
+  },
+  "fide": 2236,
+  "tactics": {
+    "highest": {
+      "rating": 2251,
+      "date": 1471604450
+    },
+    "lowest": {
+      "rating": 2251,
+      "date": 1471604450
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

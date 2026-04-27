@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6708647.a2d2f7f6.200x200o.9d7e585406a6.jpg",
+  "player_id": 6708647,
+  "@id": "https://api.chess.com/pub/player/ahappypawn",
+  "url": "https://www.chess.com/member/ahappypawn",
+  "name": "Jennifer Yu",
+  "username": "ahappypawn",
+  "title": "WGM",
+  "followers": 559,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1696822753,
+  "joined": 1329704642,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/imjenyu",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/imjenyu"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1690386547,
+      "rd": 273
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1396549972,
+      "game": "https://www.chess.com/game/daily/85534340"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75501,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2049,
+      "date": 1678995031,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1417988842,
+      "game": "https://www.chess.com/game/live/4997404622"
+    },
+    "record": {
+      "win": 22,
+      "loss": 25,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2482,
+      "date": 1691534162,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2618,
+      "date": 1613972187,
+      "game": "https://www.chess.com/game/live/3420144449"
+    },
+    "record": {
+      "win": 363,
+      "loss": 488,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2459,
+      "date": 1693019883,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1622732561,
+      "game": "https://www.chess.com/game/live/5037423524"
+    },
+    "record": {
+      "win": 501,
+      "loss": 550,
+      "draw": 58
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2575,
+      "date": 1329704642
+    },
+    "lowest": {
+      "rating": 2575,
+      "date": 1329704642
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

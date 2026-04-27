@@ -1,0 +1,84 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/154062603.1af090cc.200x200o.a89476710a6f.png",
+    "player_id": 154062603,
+    "@id": "https://api.chess.com/pub/player/rubinstein_student",
+    "url": "https://www.chess.com/member/Rubinstein_Student",
+    "username": "rubinstein_student",
+    "title": "FM",
+    "followers": 493,
+    "country": "https://api.chess.com/pub/country/DE",
+    "last_online": 1741695383,
+    "joined": 1631219296,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2282,
+            "date": 1660174495,
+            "rd": 216
+        },
+        "best": {
+            "rating": 2282,
+            "date": 1660174495,
+            "game": "https://www.chess.com/game/live/53911754759"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2529,
+            "date": 1700513312,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2695,
+            "date": 1633700656,
+            "game": "https://www.chess.com/game/live/33932418927"
+        },
+        "record": {
+            "win": 324,
+            "loss": 204,
+            "draw": 42
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2453,
+            "date": 1741044612,
+            "rd": 19
+        },
+        "best": {
+            "rating": 2911,
+            "date": 1703259772,
+            "game": "https://www.chess.com/game/live/117319822981"
+        },
+        "record": {
+            "win": 3646,
+            "loss": 3511,
+            "draw": 885
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1208,
+            "date": 1724046804
+        },
+        "lowest": {
+            "rating": 1200,
+            "date": 1632397803
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

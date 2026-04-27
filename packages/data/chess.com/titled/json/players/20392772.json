@@ -1,0 +1,102 @@
+{
+  "player_id": 20392772,
+  "@id": "https://api.chess.com/pub/player/chessczar11",
+  "url": "https://www.chess.com/member/chessczar11",
+  "username": "chessczar11",
+  "title": "FM",
+  "followers": 143,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774413514,
+  "joined": 1419881149,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1940,
+      "date": 1730190512,
+      "rd": 178
+    },
+    "best": {
+      "rating": 1940,
+      "date": 1698583365,
+      "game": "https://www.chess.com/game/daily/572173963"
+    },
+    "record": {
+      "win": 18,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 3386,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2305,
+      "date": 1753512306,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1681616907,
+      "game": "https://www.chess.com/game/live/14705830495"
+    },
+    "record": {
+      "win": 222,
+      "loss": 58,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2014,
+      "date": 1770924725,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1486774650,
+      "game": "https://www.chess.com/game/live/164601728084"
+    },
+    "record": {
+      "win": 8218,
+      "loss": 5556,
+      "draw": 330
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2020,
+      "date": 1702069835,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1619654878,
+      "game": "https://www.chess.com/game/live/19246080737"
+    },
+    "record": {
+      "win": 1263,
+      "loss": 713,
+      "draw": 120
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2224,
+      "date": 1760423443
+    },
+    "lowest": {
+      "rating": 2224,
+      "date": 1760423443
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

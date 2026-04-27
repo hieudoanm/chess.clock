@@ -1,0 +1,84 @@
+{
+  "player_id": 443003105,
+  "@id": "https://api.chess.com/pub/player/xtfchess",
+  "url": "https://www.chess.com/member/XTFChess",
+  "username": "xtfchess",
+  "title": "CM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776171620,
+  "joined": 1744079216,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1771745158,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2130,
+      "date": 1771745158,
+      "game": "https://www.chess.com/game/live/144540738428"
+    },
+    "record": {
+      "win": 21,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2313,
+      "date": 1763167012,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2359,
+      "date": 1760257584,
+      "game": "https://www.chess.com/game/live/144188455160"
+    },
+    "record": {
+      "win": 10,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2620,
+      "date": 1776136375,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1767158183,
+      "game": "https://www.chess.com/game/live/147937488846"
+    },
+    "record": {
+      "win": 483,
+      "loss": 387,
+      "draw": 62
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1744079216
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1744079216
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

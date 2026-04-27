@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16938404.edc37b62.200x200o.404676e7dc47.webp",
+  "player_id": 16938404,
+  "@id": "https://api.chess.com/pub/player/wonderfultime",
+  "url": "https://www.chess.com/member/wonderfultime",
+  "name": "Tuan Minh Le",
+  "username": "wonderfultime",
+  "title": "GM",
+  "followers": 10775,
+  "country": "https://api.chess.com/pub/country/VN",
+  "location": "Ha Noi",
+  "last_online": 1776590182,
+  "joined": 1397724828,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmminhle",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmminhle"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1778,
+      "date": 1670171033,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1817,
+      "date": 1436580770,
+      "game": "https://www.chess.com/game/daily/113958818"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 44831,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2689,
+      "date": 1773684157,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1727366025,
+      "game": "https://www.chess.com/game/live/115141754077"
+    },
+    "record": {
+      "win": 163,
+      "loss": 78,
+      "draw": 95
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3239,
+      "date": 1776535097,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3357,
+      "date": 1607661257,
+      "game": "https://www.chess.com/game/live/5860350182"
+    },
+    "record": {
+      "win": 20475,
+      "loss": 16391,
+      "draw": 3010
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3156,
+      "date": 1776576271,
+      "rd": 28
+    },
+    "best": {
+      "rating": 3247,
+      "date": 1770135531,
+      "game": "https://www.chess.com/game/live/167258446496"
+    },
+    "record": {
+      "win": 12278,
+      "loss": 6760,
+      "draw": 2431
+    }
+  },
+  "fide": 2542,
+  "tactics": {
+    "highest": {
+      "rating": 2680,
+      "date": 1763392816
+    },
+    "lowest": {
+      "rating": 2474,
+      "date": 1766417552
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 84,
+      "score": 81
+    }
+  }
+}

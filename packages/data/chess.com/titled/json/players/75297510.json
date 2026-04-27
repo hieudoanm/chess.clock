@@ -1,0 +1,105 @@
+{
+  "player_id": 75297510,
+  "@id": "https://api.chess.com/pub/player/bacus2000",
+  "url": "https://www.chess.com/member/Bacus2000",
+  "name": "Fernando Pedr\u00f3",
+  "username": "bacus2000",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1619491322,
+  "joined": 1585746113,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2167,
+      "date": 1670949842,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1619145643,
+      "game": "https://www.chess.com/game/daily/314906578"
+    },
+    "record": {
+      "win": 60,
+      "loss": 35,
+      "draw": 3,
+      "time_per_move": 27124,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1825,
+      "date": 1619856605,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2129,
+      "date": 1617207604,
+      "game": "https://www.chess.com/game/daily/311863628"
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 27124,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2023,
+      "date": 1610798756,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2082,
+      "date": 1601000696,
+      "game": "https://www.chess.com/game/live/6056896447"
+    },
+    "record": {
+      "win": 39,
+      "loss": 17,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2005,
+      "date": 1610389130,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1609453243,
+      "game": "https://www.chess.com/game/live/5895003386"
+    },
+    "record": {
+      "win": 103,
+      "loss": 79,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2341,
+      "date": 1585746113
+    },
+    "lowest": {
+      "rating": 2341,
+      "date": 1585746113
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

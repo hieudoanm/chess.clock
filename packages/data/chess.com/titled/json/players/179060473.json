@@ -1,0 +1,66 @@
+{
+  "player_id": 179060473,
+  "@id": "https://api.chess.com/pub/player/jlg2413",
+  "url": "https://www.chess.com/member/JLG2413",
+  "username": "jlg2413",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1774131150,
+  "joined": 1648985110,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2642,
+      "date": 1706373241,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1698508880,
+      "game": "https://www.chess.com/game/live/99959506645"
+    },
+    "record": {
+      "win": 69,
+      "loss": 82,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2577,
+      "date": 1705197278,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2628,
+      "date": 1704039345,
+      "game": "https://www.chess.com/game/live/97861780075"
+    },
+    "record": {
+      "win": 54,
+      "loss": 49,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2155,
+      "date": 1756537534
+    },
+    "lowest": {
+      "rating": 1984,
+      "date": 1772226435
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

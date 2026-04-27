@@ -1,0 +1,71 @@
+{
+  "player_id": 30615316,
+  "@id": "https://api.chess.com/pub/player/ru_b9",
+  "url": "https://www.chess.com/member/RU_B9",
+  "username": "ru_b9",
+  "title": "NM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776538234,
+  "joined": 1477585209,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1525186408,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1919,
+      "date": 1521847058,
+      "game": "https://www.chess.com/game/live/2697213280"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1814,
+      "date": 1772055929,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1556756680,
+      "game": "https://www.chess.com/game/live/40597824777"
+    },
+    "record": {
+      "win": 3370,
+      "loss": 1414,
+      "draw": 114
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1757091505
+    },
+    "lowest": {
+      "rating": 2305,
+      "date": 1776536916
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    },
+    "daily": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

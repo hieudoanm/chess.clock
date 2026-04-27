@@ -1,0 +1,102 @@
+{
+  "player_id": 3956772,
+  "@id": "https://api.chess.com/pub/player/eenriquerivas",
+  "url": "https://www.chess.com/member/eenriquerivas",
+  "username": "eenriquerivas",
+  "title": "CM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/VE",
+  "last_online": 1775160866,
+  "joined": 1284125649,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 720,
+      "date": 1768576466,
+      "rd": 241
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1284125649,
+      "game": "https://www.chess.com/game/daily/190067526"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 16810,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2254,
+      "date": 1727672564,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2270,
+      "date": 1724633327,
+      "game": "https://www.chess.com/game/live/58337983543"
+    },
+    "record": {
+      "win": 55,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2115,
+      "date": 1726170055,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1726169752,
+      "game": "https://www.chess.com/game/live/3317431612"
+    },
+    "record": {
+      "win": 213,
+      "loss": 160,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1770673978,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1725910446,
+      "game": "https://www.chess.com/game/live/105298361111"
+    },
+    "record": {
+      "win": 618,
+      "loss": 514,
+      "draw": 96
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2227,
+      "date": 1284125649
+    },
+    "lowest": {
+      "rating": 2227,
+      "date": 1284125649
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

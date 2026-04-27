@@ -1,0 +1,80 @@
+{
+  "player_id": 15145998,
+  "@id": "https://api.chess.com/pub/player/190l",
+  "url": "https://www.chess.com/member/190l",
+  "username": "190l",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1683742057,
+  "joined": 1387637030,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1891,
+      "date": 1703378334,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1391709246,
+      "game": "https://www.chess.com/game/daily/85700762"
+    },
+    "record": {
+      "win": 81,
+      "loss": 83,
+      "draw": 5,
+      "time_per_move": 14001,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2091,
+      "date": 1682390451,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1489547215,
+      "game": "https://www.chess.com/game/live/2220306130"
+    },
+    "record": {
+      "win": 6426,
+      "loss": 6058,
+      "draw": 428
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2233,
+      "date": 1675735104,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1608696178,
+      "game": "https://www.chess.com/game/live/1070245799"
+    },
+    "record": {
+      "win": 3932,
+      "loss": 3881,
+      "draw": 456
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1387637030
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1387637030
+    }
+  },
+  "puzzle_rush": {}
+}

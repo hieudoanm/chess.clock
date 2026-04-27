@@ -1,0 +1,85 @@
+{
+    "player_id": 17894824,
+    "@id": "https://api.chess.com/pub/player/abykhovsky",
+    "url": "https://www.chess.com/member/abykhovsky",
+    "name": "Anatoly Bykhovsky",
+    "username": "abykhovsky",
+    "title": "GM",
+    "followers": 199,
+    "country": "https://api.chess.com/pub/country/US",
+    "location": "New York City",
+    "last_online": 1734093166,
+    "joined": 1404174563,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2499,
+            "date": 1586737668,
+            "rd": 348
+        },
+        "best": {
+            "rating": 2499,
+            "date": 1586737668,
+            "game": "https://www.chess.com/game/live/4714386586"
+        },
+        "record": {
+            "win": 3,
+            "loss": 0,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2902,
+            "date": 1734120531,
+            "rd": 18
+        },
+        "best": {
+            "rating": 2997,
+            "date": 1697918503,
+            "game": "https://www.chess.com/game/live/123627628431"
+        },
+        "record": {
+            "win": 12414,
+            "loss": 9624,
+            "draw": 1080
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2625,
+            "date": 1732034338,
+            "rd": 48
+        },
+        "best": {
+            "rating": 2899,
+            "date": 1654380290,
+            "game": "https://www.chess.com/game/live/119114450341"
+        },
+        "record": {
+            "win": 3405,
+            "loss": 3003,
+            "draw": 497
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3034,
+            "date": 1665413868
+        },
+        "lowest": {
+            "rating": 1807,
+            "date": 1408153251
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

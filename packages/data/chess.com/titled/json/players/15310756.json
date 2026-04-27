@@ -1,0 +1,103 @@
+{
+  "player_id": 15310756,
+  "@id": "https://api.chess.com/pub/player/deep_forest_dude",
+  "url": "https://www.chess.com/member/Deep_Forest_dude",
+  "name": "M",
+  "username": "deep_forest_dude",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1769352310,
+  "joined": 1388356997,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1248,
+      "date": 1766220632,
+      "rd": 212
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1388356997,
+      "game": "https://www.chess.com/game/daily/852675342"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11363,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2027,
+      "date": 1633184139,
+      "rd": 171
+    },
+    "best": {
+      "rating": 2118,
+      "date": 1612106124,
+      "game": "https://www.chess.com/game/live/6405294977"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2386,
+      "date": 1611801830,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1611801830,
+      "game": "https://www.chess.com/game/live/2868857059"
+    },
+    "record": {
+      "win": 119,
+      "loss": 36,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1757580057,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2725,
+      "date": 1641391414,
+      "game": "https://www.chess.com/game/live/35056221177"
+    },
+    "record": {
+      "win": 3190,
+      "loss": 2299,
+      "draw": 480
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1388356997
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1388356997
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

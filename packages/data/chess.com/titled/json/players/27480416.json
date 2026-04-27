@@ -1,0 +1,80 @@
+{
+  "player_id": 27480416,
+  "@id": "https://api.chess.com/pub/player/youwouldntguess",
+  "url": "https://www.chess.com/member/youwouldntguess",
+  "name": "Marc Duesterwald",
+  "username": "youwouldntguess",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776538936,
+  "joined": 1459190567,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2195,
+      "date": 1762270678,
+      "rd": 326
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2195,
+      "date": 1762270678,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1735496051,
+      "game": "https://www.chess.com/game/live/132238251181"
+    },
+    "record": {
+      "win": 726,
+      "loss": 796,
+      "draw": 78
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1776538925,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1776344454,
+      "game": "https://www.chess.com/game/live/98031096243"
+    },
+    "record": {
+      "win": 2086,
+      "loss": 2092,
+      "draw": 281
+    }
+  },
+  "fide": 2195,
+  "tactics": {
+    "highest": {
+      "rating": 2203,
+      "date": 1762461467
+    },
+    "lowest": {
+      "rating": 1901,
+      "date": 1771655537
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 19
+    }
+  }
+}

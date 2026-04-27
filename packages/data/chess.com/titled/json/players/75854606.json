@@ -1,0 +1,65 @@
+{
+  "player_id": 75854606,
+  "@id": "https://api.chess.com/pub/player/maximus_717",
+  "url": "https://www.chess.com/member/Maximus_717",
+  "username": "maximus_717",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1603622086,
+  "joined": 1586180823,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2660,
+      "date": 1602939642,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1602935976,
+      "game": "https://www.chess.com/game/live/5582103322"
+    },
+    "record": {
+      "win": 90,
+      "loss": 81,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2406,
+      "date": 1601125615,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1592114553,
+      "game": "https://www.chess.com/game/live/5333059012"
+    },
+    "record": {
+      "win": 90,
+      "loss": 52,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586180823
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586180823
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

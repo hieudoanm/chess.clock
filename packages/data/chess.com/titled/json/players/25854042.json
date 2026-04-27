@@ -1,0 +1,67 @@
+{
+  "player_id": 25854042,
+  "@id": "https://api.chess.com/pub/player/chessalow",
+  "url": "https://www.chess.com/member/chessalow",
+  "name": "Rustam Bunyatov",
+  "username": "chessalow",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1775384950,
+  "joined": 1451497602,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2174,
+      "date": 1768927577,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1692712553,
+      "game": "https://www.chess.com/game/live/1651569710"
+    },
+    "record": {
+      "win": 304,
+      "loss": 314,
+      "draw": 43
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2321,
+      "date": 1764886252,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1468063397,
+      "game": "https://www.chess.com/game/live/1645511178"
+    },
+    "record": {
+      "win": 833,
+      "loss": 891,
+      "draw": 205
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2340,
+      "date": 1766139227
+    },
+    "lowest": {
+      "rating": 1748,
+      "date": 1775384548
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

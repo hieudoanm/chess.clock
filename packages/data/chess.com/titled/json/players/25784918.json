@@ -1,0 +1,83 @@
+{
+  "player_id": 25784918,
+  "@id": "https://api.chess.com/pub/player/carnivorousfurball",
+  "url": "https://www.chess.com/member/CarnivorousFurball",
+  "username": "carnivorousfurball",
+  "title": "WCM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1768542733,
+  "joined": 1451181352,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1896,
+      "date": 1763516189,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1691214899,
+      "game": "https://www.chess.com/game/live/116526608141"
+    },
+    "record": {
+      "win": 370,
+      "loss": 399,
+      "draw": 45
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1872,
+      "date": 1766793796,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1725162162,
+      "game": "https://www.chess.com/game/live/147220682560"
+    },
+    "record": {
+      "win": 26,
+      "loss": 22,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1816,
+      "date": 1743229068,
+      "rd": 62
+    },
+    "best": {
+      "rating": 1992,
+      "date": 1688884238,
+      "game": "https://www.chess.com/game/live/97294164559"
+    },
+    "record": {
+      "win": 168,
+      "loss": 196,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2409,
+      "date": 1451181352
+    },
+    "lowest": {
+      "rating": 2409,
+      "date": 1451181352
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

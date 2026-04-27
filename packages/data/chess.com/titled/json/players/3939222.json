@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3939222.65f828c2.200x200o.4edd653da827.jpeg",
+  "player_id": 3939222,
+  "@id": "https://api.chess.com/pub/player/joejan",
+  "url": "https://www.chess.com/member/joejan",
+  "name": "Joran Aulin-Jansson",
+  "username": "joejan",
+  "title": "FM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Berger",
+  "last_online": 1775920875,
+  "joined": 1283807308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1586,
+      "date": 1703540776,
+      "rd": 329
+    },
+    "best": {
+      "rating": 1586,
+      "date": 1564324655,
+      "game": "https://www.chess.com/game/daily/217609448"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 61166,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1826,
+      "date": 1764952678,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1613677908,
+      "game": "https://www.chess.com/game/live/5491338982"
+    },
+    "record": {
+      "win": 22,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1965,
+      "date": 1602324177,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2029,
+      "date": 1601986172,
+      "game": "https://www.chess.com/game/live/3453044935"
+    },
+    "record": {
+      "win": 37,
+      "loss": 19,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2096,
+      "date": 1767993706,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2447,
+      "date": 1720458837,
+      "game": "https://www.chess.com/game/live/5316327524"
+    },
+    "record": {
+      "win": 2215,
+      "loss": 1700,
+      "draw": 245
+    }
+  },
+  "fide": 2210,
+  "tactics": {
+    "highest": {
+      "rating": 2430,
+      "date": 1760016887
+    },
+    "lowest": {
+      "rating": 2333,
+      "date": 1771706998
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

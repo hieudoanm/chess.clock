@@ -1,0 +1,105 @@
+{
+  "player_id": 125092152,
+  "@id": "https://api.chess.com/pub/player/bullhouse14",
+  "url": "https://www.chess.com/member/Bullhouse14",
+  "name": "Bhavik Ahuja",
+  "username": "bullhouse14",
+  "title": "CM",
+  "followers": 391,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Delhi",
+  "last_online": 1776544028,
+  "joined": 1614692452,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1789,
+      "date": 1761854422,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1789,
+      "date": 1744551495,
+      "game": "https://www.chess.com/game/daily/737278249"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 58064,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2468,
+      "date": 1736585829,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2484,
+      "date": 1702645593,
+      "game": "https://www.chess.com/game/live/95494803551"
+    },
+    "record": {
+      "win": 38,
+      "loss": 11,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2860,
+      "date": 1775958051,
+      "rd": 13
+    },
+    "best": {
+      "rating": 2871,
+      "date": 1772134303,
+      "game": "https://www.chess.com/game/live/164712553234"
+    },
+    "record": {
+      "win": 6519,
+      "loss": 6368,
+      "draw": 846
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2806,
+      "date": 1772490392,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1772490392,
+      "game": "https://www.chess.com/game/live/165073341428"
+    },
+    "record": {
+      "win": 1837,
+      "loss": 1703,
+      "draw": 310
+    }
+  },
+  "fide": 2118,
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1762486414
+    },
+    "lowest": {
+      "rating": 2530,
+      "date": 1762486367
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

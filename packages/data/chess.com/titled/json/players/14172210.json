@@ -1,0 +1,88 @@
+{
+  "player_id": 14172210,
+  "@id": "https://api.chess.com/pub/player/thomas_fiebig",
+  "url": "https://www.chess.com/member/Thomas_Fiebig",
+  "name": "Thomas Fiebig",
+  "username": "thomas_fiebig",
+  "title": "IM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Dortmund",
+  "last_online": 1775076872,
+  "joined": 1383464224,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2290,
+      "date": 1665044900,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1596534601,
+      "game": "https://www.chess.com/game/daily/86016220"
+    },
+    "record": {
+      "win": 695,
+      "loss": 262,
+      "draw": 244,
+      "time_per_move": 34891,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2560,
+      "date": 1563483747,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1534888937,
+      "game": "https://www.chess.com/game/live/3016467931"
+    },
+    "record": {
+      "win": 164,
+      "loss": 140,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2583,
+      "date": 1767292145,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1641344053,
+      "game": "https://www.chess.com/game/live/27514766271"
+    },
+    "record": {
+      "win": 3755,
+      "loss": 3084,
+      "draw": 960
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2581,
+      "date": 1759526621
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1756017823
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

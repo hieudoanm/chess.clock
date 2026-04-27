@@ -1,0 +1,51 @@
+{
+  "player_id": 44926142,
+  "@id": "https://api.chess.com/pub/player/a_morgunov",
+  "url": "https://www.chess.com/member/A_Morgunov",
+  "name": "Anatoly Morgunov",
+  "username": "a_morgunov",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776591197,
+  "joined": 1522742247,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_blitz": {
+    "last": {
+      "rating": 2561,
+      "date": 1776537967,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1775307726,
+      "game": "https://www.chess.com/game/live/166807741364"
+    },
+    "record": {
+      "win": 6620,
+      "loss": 6766,
+      "draw": 1866
+    }
+  },
+  "fide": 2336,
+  "tactics": {
+    "highest": {
+      "rating": 2209,
+      "date": 1522742247
+    },
+    "lowest": {
+      "rating": 2209,
+      "date": 1522742247
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

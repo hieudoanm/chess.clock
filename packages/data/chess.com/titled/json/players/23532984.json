@@ -1,0 +1,103 @@
+{
+  "player_id": 23532984,
+  "@id": "https://api.chess.com/pub/player/lena_geo",
+  "url": "https://www.chess.com/member/lena_geo",
+  "name": "Lena Georgescu",
+  "username": "lena_geo",
+  "title": "WGM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776320022,
+  "joined": 1438716334,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1885,
+      "date": 1756461731,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1885,
+      "date": 1461502820,
+      "game": "https://www.chess.com/game/daily/125451852"
+    },
+    "record": {
+      "win": 21,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 92043,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2276,
+      "date": 1771723446,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1597588570,
+      "game": "https://www.chess.com/game/live/5305517942"
+    },
+    "record": {
+      "win": 13,
+      "loss": 0,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1759963371,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1757712783,
+      "game": "https://www.chess.com/game/live/143748479458"
+    },
+    "record": {
+      "win": 2237,
+      "loss": 1811,
+      "draw": 148
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2048,
+      "date": 1732745031,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1517510671,
+      "game": "https://www.chess.com/game/live/2649260520"
+    },
+    "record": {
+      "win": 102,
+      "loss": 69,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2492,
+      "date": 1761313635
+    },
+    "lowest": {
+      "rating": 2139,
+      "date": 1761313698
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

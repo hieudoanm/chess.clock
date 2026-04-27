@@ -1,0 +1,83 @@
+{
+    "player_id": 146844725,
+    "@id": "https://api.chess.com/pub/player/aurachess12",
+    "url": "https://www.chess.com/member/aurachess12",
+    "username": "aurachess12",
+    "title": "CM",
+    "followers": 10,
+    "country": "https://api.chess.com/pub/country/TD",
+    "last_online": 1733946100,
+    "joined": 1625446612,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Bronze",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 1860,
+            "date": 1733095076,
+            "rd": 243
+        },
+        "best": {
+            "rating": 1943,
+            "date": 1630722859,
+            "game": "https://www.chess.com/game/live/24458487909"
+        },
+        "record": {
+            "win": 5,
+            "loss": 2,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2118,
+            "date": 1725499126,
+            "rd": 148
+        },
+        "best": {
+            "rating": 2243,
+            "date": 1629674788,
+            "game": "https://www.chess.com/game/live/114043177473"
+        },
+        "record": {
+            "win": 5,
+            "loss": 3,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2219,
+            "date": 1734021204,
+            "rd": 56
+        },
+        "best": {
+            "rating": 2401,
+            "date": 1629147876,
+            "game": "https://www.chess.com/game/live/24276479073"
+        },
+        "record": {
+            "win": 61,
+            "loss": 57,
+            "draw": 5
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1233,
+            "date": 1628816804
+        },
+        "lowest": {
+            "rating": 1210,
+            "date": 1628816780
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 22,
+            "score": 21
+        }
+    }
+}

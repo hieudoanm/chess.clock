@@ -1,0 +1,98 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/68265558.00eece1b.200x200o.7b25abead12a.jpeg",
+  "player_id": 68265558,
+  "@id": "https://api.chess.com/pub/player/chessrush123",
+  "url": "https://www.chess.com/member/chessrush123",
+  "username": "chessrush123",
+  "title": "IM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/XA",
+  "last_online": 1757380164,
+  "joined": 1574319180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1262,
+      "date": 1688085926,
+      "rd": 344
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 23833,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1727181632,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1727179856,
+      "game": "https://www.chess.com/game/live/120916871085"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2526,
+      "date": 1588163672,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2670,
+      "date": 1575562452,
+      "game": "https://www.chess.com/game/live/4763739106"
+    },
+    "record": {
+      "win": 48,
+      "loss": 56,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2803,
+      "date": 1588168793,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2889,
+      "date": 1587709506,
+      "game": "https://www.chess.com/game/live/4787175818"
+    },
+    "record": {
+      "win": 115,
+      "loss": 90,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2228,
+      "date": 1574319180
+    },
+    "lowest": {
+      "rating": 2228,
+      "date": 1574319180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

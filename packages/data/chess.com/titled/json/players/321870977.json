@@ -1,0 +1,66 @@
+{
+  "player_id": 321870977,
+  "@id": "https://api.chess.com/pub/player/topgeahr",
+  "url": "https://www.chess.com/member/TopGeahr",
+  "username": "topgeahr",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776217223,
+  "joined": 1698280389,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2901,
+      "date": 1775234468,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2901,
+      "date": 1731895539,
+      "game": "https://www.chess.com/game/live/117081015583"
+    },
+    "record": {
+      "win": 129,
+      "loss": 80,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2971,
+      "date": 1776107087,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2994,
+      "date": 1771724990,
+      "game": "https://www.chess.com/game/live/117348619437"
+    },
+    "record": {
+      "win": 1279,
+      "loss": 1164,
+      "draw": 202
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2803,
+      "date": 1767651413
+    },
+    "lowest": {
+      "rating": 2696,
+      "date": 1767650754
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/150910991.c78aa616.200x200o.402acca7e8d5.jpeg",
+  "player_id": 150910991,
+  "@id": "https://api.chess.com/pub/player/blitzblast1",
+  "url": "https://www.chess.com/member/BlitzBlast1",
+  "username": "blitzblast1",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/MY",
+  "last_online": 1776587008,
+  "joined": 1628784176,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1770,
+      "date": 1776586994,
+      "rd": 101
+    },
+    "best": {
+      "rating": 1789,
+      "date": 1776488686,
+      "game": "https://www.chess.com/game/daily/956958933"
+    },
+    "record": {
+      "win": 36,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 13246,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2481,
+      "date": 1775517739,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1769204893,
+      "game": "https://www.chess.com/game/live/147970370402"
+    },
+    "record": {
+      "win": 230,
+      "loss": 122,
+      "draw": 38
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2434,
+      "date": 1776551489,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2611,
+      "date": 1770755003,
+      "game": "https://www.chess.com/game/live/164348676222"
+    },
+    "record": {
+      "win": 620,
+      "loss": 491,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2551,
+      "date": 1776548797,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1770583271,
+      "game": "https://www.chess.com/game/live/165515287014"
+    },
+    "record": {
+      "win": 843,
+      "loss": 658,
+      "draw": 86
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1757728890
+    },
+    "lowest": {
+      "rating": 2152,
+      "date": 1774853536
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

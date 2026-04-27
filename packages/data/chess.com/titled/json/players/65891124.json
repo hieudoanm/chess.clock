@@ -1,0 +1,86 @@
+{
+  "player_id": 65891124,
+  "@id": "https://api.chess.com/pub/player/yy2324",
+  "url": "https://www.chess.com/member/yy2324",
+  "username": "yy2324",
+  "title": "NM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776463154,
+  "joined": 1569359143,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2054,
+      "date": 1654072160,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2288,
+      "date": 1622093403,
+      "game": "https://www.chess.com/game/daily/334910525"
+    },
+    "record": {
+      "win": 119,
+      "loss": 15,
+      "draw": 4,
+      "time_per_move": 7375,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2467,
+      "date": 1675019501,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1675019501,
+      "game": "https://www.chess.com/game/live/68758465089"
+    },
+    "record": {
+      "win": 147,
+      "loss": 119,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2581,
+      "date": 1589919315,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1578416815,
+      "game": "https://www.chess.com/game/live/4376821871"
+    },
+    "record": {
+      "win": 10,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 2816,
+      "date": 1775923459
+    },
+    "lowest": {
+      "rating": 2507,
+      "date": 1775922790
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

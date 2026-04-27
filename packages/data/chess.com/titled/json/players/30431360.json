@@ -1,0 +1,80 @@
+{
+  "player_id": 30431360,
+  "@id": "https://api.chess.com/pub/player/aldokhinivan",
+  "url": "https://www.chess.com/member/AldokhinIvan",
+  "name": "Ivan Aldokhin",
+  "username": "aldokhinivan",
+  "title": "IM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776508490,
+  "joined": 1476648129,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2129,
+      "date": 1752837895,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2635,
+      "date": 1757607399,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1631918162,
+      "game": "https://www.chess.com/game/live/81972113675"
+    },
+    "record": {
+      "win": 1767,
+      "loss": 1874,
+      "draw": 228
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2741,
+      "date": 1776441188,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2804,
+      "date": 1748814635,
+      "game": "https://www.chess.com/game/live/97950760763"
+    },
+    "record": {
+      "win": 4103,
+      "loss": 3664,
+      "draw": 525
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2166,
+      "date": 1476648129
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1476648129
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 39
+    }
+  }
+}

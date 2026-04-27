@@ -1,0 +1,103 @@
+{
+  "player_id": 16157394,
+  "@id": "https://api.chess.com/pub/player/manubibi",
+  "url": "https://www.chess.com/member/manubibi",
+  "name": "Manuel Bijaoui",
+  "username": "manubibi",
+  "title": "IM",
+  "followers": 635,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776597138,
+  "joined": 1393021951,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2214,
+      "date": 1772296302,
+      "rd": 329
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1772296301,
+      "game": "https://www.chess.com/game/daily/121757840"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13531,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2095,
+      "date": 1615748456,
+      "rd": 265
+    },
+    "best": {
+      "rating": 2095,
+      "date": 1615748456,
+      "game": "https://www.chess.com/game/live/9484540457"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2527,
+      "date": 1760798389,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1723419134,
+      "game": "https://www.chess.com/game/live/1522431708"
+    },
+    "record": {
+      "win": 4568,
+      "loss": 4348,
+      "draw": 527
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2734,
+      "date": 1776598390,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2816,
+      "date": 1772742972,
+      "game": "https://www.chess.com/game/live/165821358410"
+    },
+    "record": {
+      "win": 19857,
+      "loss": 15383,
+      "draw": 3211
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1761202858
+    },
+    "lowest": {
+      "rating": 2283,
+      "date": 1765625607
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

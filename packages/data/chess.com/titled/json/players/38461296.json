@@ -1,0 +1,84 @@
+{
+  "player_id": 38461296,
+  "@id": "https://api.chess.com/pub/player/danykopy",
+  "url": "https://www.chess.com/member/DanyKopy",
+  "name": "Daniel Kopylov",
+  "username": "danykopy",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776336560,
+  "joined": 1504815833,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2624,
+      "date": 1767879383,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1767879383,
+      "game": "https://www.chess.com/game/live/147242356204"
+    },
+    "record": {
+      "win": 264,
+      "loss": 48,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2604,
+      "date": 1732821957,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1730127386,
+      "game": "https://www.chess.com/game/live/123261633801"
+    },
+    "record": {
+      "win": 401,
+      "loss": 134,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2818,
+      "date": 1774081761,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2845,
+      "date": 1773822331,
+      "game": "https://www.chess.com/game/live/131819465131"
+    },
+    "record": {
+      "win": 649,
+      "loss": 418,
+      "draw": 114
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1758815343
+    },
+    "lowest": {
+      "rating": 2021,
+      "date": 1758122549
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

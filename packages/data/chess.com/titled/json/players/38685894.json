@@ -1,0 +1,83 @@
+{
+  "player_id": 38685894,
+  "@id": "https://api.chess.com/pub/player/d0wnpour",
+  "url": "https://www.chess.com/member/D0wnpour",
+  "username": "d0wnpour",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/MV",
+  "last_online": 1776129148,
+  "joined": 1505558640,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2360,
+      "date": 1597582060,
+      "rd": 183
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1597582060,
+      "game": "https://www.chess.com/game/live/4317006356"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2719,
+      "date": 1756164450,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1756164450,
+      "game": "https://www.chess.com/game/live/141283982080"
+    },
+    "record": {
+      "win": 371,
+      "loss": 257,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2767,
+      "date": 1756769121,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2767,
+      "date": 1756769121,
+      "game": "https://www.chess.com/game/live/4860186118"
+    },
+    "record": {
+      "win": 1127,
+      "loss": 914,
+      "draw": 150
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2603,
+      "date": 1755734407
+    },
+    "lowest": {
+      "rating": 2387,
+      "date": 1755733236
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

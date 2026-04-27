@@ -1,0 +1,85 @@
+{
+  "player_id": 6344270,
+  "@id": "https://api.chess.com/pub/player/gawk",
+  "url": "https://www.chess.com/member/gawk",
+  "name": "Jason Kenney",
+  "username": "gawk",
+  "title": "NM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "Vancouver",
+  "last_online": 1699770000,
+  "joined": 1324361614,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2106,
+      "date": 1621814767,
+      "rd": 170
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1621796500,
+      "game": "https://www.chess.com/game/live/15549764813"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2146,
+      "date": 1613552625,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1612169722,
+      "game": "https://www.chess.com/game/live/6413477696"
+    },
+    "record": {
+      "win": 1752,
+      "loss": 1431,
+      "draw": 63
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1621925224,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2229,
+      "date": 1608769120,
+      "game": "https://www.chess.com/game/live/776800832"
+    },
+    "record": {
+      "win": 4561,
+      "loss": 3556,
+      "draw": 244
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1324361614
+    },
+    "lowest": {
+      "rating": 2454,
+      "date": 1324361614
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

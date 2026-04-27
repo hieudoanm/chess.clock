@@ -1,0 +1,68 @@
+{
+  "player_id": 77524802,
+  "@id": "https://api.chess.com/pub/player/milos021",
+  "url": "https://www.chess.com/member/Milos021",
+  "name": "Milos Roganovic",
+  "username": "milos021",
+  "title": "GM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1759066017,
+  "joined": 1587597576,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2651,
+      "date": 1588472544,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1588008719,
+      "game": "https://www.chess.com/game/live/4801472619"
+    },
+    "record": {
+      "win": 214,
+      "loss": 133,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2823,
+      "date": 1759066386,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1587945721,
+      "game": "https://www.chess.com/game/live/4776512166"
+    },
+    "record": {
+      "win": 12,
+      "loss": 8,
+      "draw": 9
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1758797515
+    },
+    "lowest": {
+      "rating": 2263,
+      "date": 1758797793
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

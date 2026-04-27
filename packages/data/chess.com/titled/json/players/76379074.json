@@ -1,0 +1,85 @@
+{
+  "player_id": 76379074,
+  "@id": "https://api.chess.com/pub/player/thipsay",
+  "url": "https://www.chess.com/member/Thipsay",
+  "name": "Praveen Thipsay",
+  "username": "thipsay",
+  "title": "GM",
+  "followers": 576,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776598326,
+  "joined": 1586620885,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2102,
+      "date": 1726908613,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1610699298,
+      "game": "https://www.chess.com/game/live/120646224203"
+    },
+    "record": {
+      "win": 24,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1776598449,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1776598449,
+      "game": "https://www.chess.com/game/live/49019361677"
+    },
+    "record": {
+      "win": 19331,
+      "loss": 16425,
+      "draw": 1076
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2557,
+      "date": 1766124149,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1660413416,
+      "game": "https://www.chess.com/game/live/4818807091"
+    },
+    "record": {
+      "win": 141,
+      "loss": 105,
+      "draw": 32
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586620885
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586620885
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 27
+    }
+  }
+}

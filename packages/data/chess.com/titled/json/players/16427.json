@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16427.fe8221aa.200x200o.b87f1760f5c9.jpeg",
+  "player_id": 16427,
+  "@id": "https://api.chess.com/pub/player/attilaturzo",
+  "url": "https://www.chess.com/member/AttilaTurzo",
+  "name": "Attila Turzo",
+  "username": "attilaturzo",
+  "title": "IM",
+  "followers": 4356,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Solymar",
+  "last_online": 1776471764,
+  "joined": 1185921640,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/attilaturzo",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/attilaturzo"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1803,
+      "date": 1767479964,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2112,
+      "date": 1193933354,
+      "game": "https://www.chess.com/game/daily/47958659"
+    },
+    "record": {
+      "win": 57,
+      "loss": 34,
+      "draw": 5,
+      "time_per_move": 144164,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2269,
+      "date": 1740132538,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2338,
+      "date": 1659364238,
+      "game": "https://www.chess.com/game/live/53098149565"
+    },
+    "record": {
+      "win": 305,
+      "loss": 117,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2154,
+      "date": 1703005656,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2487,
+      "date": 1606082190,
+      "game": "https://www.chess.com/game/live/4124585044"
+    },
+    "record": {
+      "win": 235,
+      "loss": 171,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2528,
+      "date": 1773959098,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1556124513,
+      "game": "https://www.chess.com/game/live/3465024332"
+    },
+    "record": {
+      "win": 2036,
+      "loss": 1753,
+      "draw": 396
+    }
+  },
+  "fide": 2279,
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1185921640
+    },
+    "lowest": {
+      "rating": 2588,
+      "date": 1185921640
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

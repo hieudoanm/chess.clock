@@ -1,0 +1,105 @@
+{
+  "player_id": 30327578,
+  "@id": "https://api.chess.com/pub/player/drmegalord",
+  "url": "https://www.chess.com/member/DrMegaLord",
+  "name": "Vladimir Amirdzhanyan",
+  "username": "drmegalord",
+  "title": "CM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Saint-Louis",
+  "last_online": 1774384197,
+  "joined": 1476119577,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1633,
+      "date": 1716211622,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1843,
+      "date": 1617478741,
+      "game": "https://www.chess.com/game/daily/231518428"
+    },
+    "record": {
+      "win": 70,
+      "loss": 51,
+      "draw": 3,
+      "time_per_move": 39859,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2343,
+      "date": 1647435167,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1647435167,
+      "game": "https://www.chess.com/game/live/41173182809"
+    },
+    "record": {
+      "win": 938,
+      "loss": 575,
+      "draw": 78
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2123,
+      "date": 1716211623,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2120,
+      "date": 1633173358,
+      "game": "https://www.chess.com/game/live/26901076957"
+    },
+    "record": {
+      "win": 199,
+      "loss": 125,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1756224879,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1717832403,
+      "game": "https://www.chess.com/game/live/108413504303"
+    },
+    "record": {
+      "win": 1267,
+      "loss": 946,
+      "draw": 108
+    }
+  },
+  "fide": 2123,
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1756235129
+    },
+    "lowest": {
+      "rating": 2249,
+      "date": 1756235358
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

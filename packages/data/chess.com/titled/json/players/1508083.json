@@ -1,0 +1,88 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1508083.9ca28828.200x200o.b4bbca16c577.jpeg",
+  "player_id": 1508083,
+  "@id": "https://api.chess.com/pub/player/vancilla",
+  "url": "https://www.chess.com/member/vancilla",
+  "name": "Attila Vanczak",
+  "username": "vancilla",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/HU",
+  "location": "Miskolc",
+  "last_online": 1776584702,
+  "joined": 1221763318,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1629,
+      "date": 1765999704,
+      "rd": 254
+    },
+    "best": {
+      "rating": 1629,
+      "date": 1761775243,
+      "game": "https://www.chess.com/game/daily/863425889"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 55675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1857,
+      "date": 1751993526,
+      "rd": 128
+    },
+    "best": {
+      "rating": 1948,
+      "date": 1596652389,
+      "game": "https://www.chess.com/game/live/105221521179"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1361,
+      "date": 1770224252,
+      "rd": 75
+    },
+    "best": {
+      "rating": 1837,
+      "date": 1547850978,
+      "game": "https://www.chess.com/game/live/3387580593"
+    },
+    "record": {
+      "win": 201,
+      "loss": 188,
+      "draw": 37
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2326,
+      "date": 1761898206
+    },
+    "lowest": {
+      "rating": 2129,
+      "date": 1774863739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

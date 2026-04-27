@@ -1,0 +1,105 @@
+{
+  "player_id": 54463922,
+  "@id": "https://api.chess.com/pub/player/fitod",
+  "url": "https://www.chess.com/member/fitod",
+  "name": "Juan Pablo Demar\u00eda",
+  "username": "fitod",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Marcos Juarez",
+  "last_online": 1776533269,
+  "joined": 1545515371,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1759583041,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1759583041,
+      "game": "https://www.chess.com/game/daily/870300167"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8959,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2380,
+      "date": 1761346029,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1747443738,
+      "game": "https://www.chess.com/game/live/144533787560"
+    },
+    "record": {
+      "win": 50,
+      "loss": 20,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2516,
+      "date": 1776533262,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2572,
+      "date": 1774723983,
+      "game": "https://www.chess.com/game/live/168426650053"
+    },
+    "record": {
+      "win": 1015,
+      "loss": 1252,
+      "draw": 124
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2497,
+      "date": 1771165117,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2595,
+      "date": 1752008578,
+      "game": "https://www.chess.com/game/live/123975048769"
+    },
+    "record": {
+      "win": 675,
+      "loss": 572,
+      "draw": 90
+    }
+  },
+  "fide": 2215,
+  "tactics": {
+    "highest": {
+      "rating": 2458,
+      "date": 1759439356
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1763826402
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 37
+    }
+  }
+}

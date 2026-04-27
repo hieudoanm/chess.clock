@@ -1,0 +1,85 @@
+{
+  "player_id": 53466052,
+  "@id": "https://api.chess.com/pub/player/josgar05",
+  "url": "https://www.chess.com/member/Josgar05",
+  "name": "Jose Garcia Molina",
+  "username": "josgar05",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776440141,
+  "joined": 1545236346,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1723032020,
+      "rd": 241
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1684088607,
+      "game": "https://www.chess.com/game/live/4964931564"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2511,
+      "date": 1763318183,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1699387382,
+      "game": "https://www.chess.com/game/live/93127392523"
+    },
+    "record": {
+      "win": 87,
+      "loss": 87,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2470,
+      "date": 1768332029,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1750173427,
+      "game": "https://www.chess.com/game/live/109444314601"
+    },
+    "record": {
+      "win": 200,
+      "loss": 208,
+      "draw": 38
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2556,
+      "date": 1545236346
+    },
+    "lowest": {
+      "rating": 2556,
+      "date": 1545236346
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

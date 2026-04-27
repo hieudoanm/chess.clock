@@ -1,0 +1,84 @@
+{
+  "player_id": 79553762,
+  "@id": "https://api.chess.com/pub/player/dragon_dmitry",
+  "url": "https://www.chess.com/member/Dragon_Dmitry",
+  "name": "Dmitry Vyatkin",
+  "username": "dragon_dmitry",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1757157131,
+  "joined": 1589533301,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2592,
+      "date": 1731616958,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2592,
+      "date": 1731616958,
+      "game": "https://www.chess.com/game/live/106754427269"
+    },
+    "record": {
+      "win": 335,
+      "loss": 194,
+      "draw": 73
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1716476522,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1716476522,
+      "game": "https://www.chess.com/game/live/110215269273"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2445,
+      "date": 1737476271,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2864,
+      "date": 1590514400,
+      "game": "https://www.chess.com/game/live/25728640099"
+    },
+    "record": {
+      "win": 546,
+      "loss": 438,
+      "draw": 103
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1589533301
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1589533301
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

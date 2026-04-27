@@ -1,0 +1,69 @@
+{
+  "player_id": 343551109,
+  "@id": "https://api.chess.com/pub/player/hatsak7",
+  "url": "https://www.chess.com/member/hatsak7",
+  "name": "Haralambos Tsakiris",
+  "username": "hatsak7",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/GR",
+  "location": "London",
+  "last_online": 1776589729,
+  "joined": 1707180848,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2646,
+      "date": 1776588438,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1775562757,
+      "game": "https://www.chess.com/game/live/161773631439"
+    },
+    "record": {
+      "win": 2028,
+      "loss": 2336,
+      "draw": 338
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1776554090,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1776027721,
+      "game": "https://www.chess.com/game/live/149326111353"
+    },
+    "record": {
+      "win": 225,
+      "loss": 174,
+      "draw": 23
+    }
+  },
+  "fide": 2159,
+  "tactics": {
+    "highest": {
+      "rating": 2296,
+      "date": 1775573779
+    },
+    "lowest": {
+      "rating": 2205,
+      "date": 1755940358
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

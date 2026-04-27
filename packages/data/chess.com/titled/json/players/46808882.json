@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/46808882.3e4178ff.200x200o.87ff3d120662.jpg",
+  "player_id": 46808882,
+  "@id": "https://api.chess.com/pub/player/oliver_wartiovaara",
+  "url": "https://www.chess.com/member/Oliver_Wartiovaara",
+  "name": "Oliver Wartiovaara",
+  "username": "oliver_wartiovaara",
+  "title": "FM",
+  "followers": 220,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776541596,
+  "joined": 1528139907,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1601,
+      "date": 1772436067,
+      "rd": 324
+    },
+    "best": {
+      "rating": 1601,
+      "date": 1772436065,
+      "game": "https://www.chess.com/game/daily/935068863"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 14141,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2192,
+      "date": 1772196337,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1771683512,
+      "game": "https://www.chess.com/game/live/165003216164"
+    },
+    "record": {
+      "win": 32,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2688,
+      "date": 1776140691,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2840,
+      "date": 1771362519,
+      "game": "https://www.chess.com/game/live/165408616053"
+    },
+    "record": {
+      "win": 3241,
+      "loss": 2828,
+      "draw": 391
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2722,
+      "date": 1776422162,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2891,
+      "date": 1769448039,
+      "game": "https://www.chess.com/game/live/53283014895"
+    },
+    "record": {
+      "win": 9526,
+      "loss": 7685,
+      "draw": 1574
+    }
+  },
+  "fide": 2355,
+  "tactics": {
+    "highest": {
+      "rating": 2333,
+      "date": 1768549689
+    },
+    "lowest": {
+      "rating": 1974,
+      "date": 1768550033
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

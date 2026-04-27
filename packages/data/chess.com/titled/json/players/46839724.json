@@ -1,0 +1,84 @@
+{
+  "player_id": 46839724,
+  "@id": "https://api.chess.com/pub/player/vladimirdamjanovic",
+  "url": "https://www.chess.com/member/vladimirdamjanovic",
+  "name": "Vladimir Damjanovic",
+  "username": "vladimirdamjanovic",
+  "title": "FM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1636380406,
+  "joined": 1528230754,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2458,
+      "date": 1633011274,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1602686355,
+      "game": "https://www.chess.com/game/live/20458208333"
+    },
+    "record": {
+      "win": 124,
+      "loss": 29,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2579,
+      "date": 1640964685,
+      "rd": 15
+    },
+    "best": {
+      "rating": 2689,
+      "date": 1616151363,
+      "game": "https://www.chess.com/game/live/3575412653"
+    },
+    "record": {
+      "win": 5841,
+      "loss": 6684,
+      "draw": 964
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2659,
+      "date": 1636410001,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1558018519,
+      "game": "https://www.chess.com/game/live/3593557673"
+    },
+    "record": {
+      "win": 6664,
+      "loss": 6907,
+      "draw": 1332
+    }
+  },
+  "fide": 2390,
+  "tactics": {
+    "highest": {
+      "rating": 2683,
+      "date": 1528230754
+    },
+    "lowest": {
+      "rating": 2683,
+      "date": 1528230754
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

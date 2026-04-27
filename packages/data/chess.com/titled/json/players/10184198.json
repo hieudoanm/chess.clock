@@ -1,0 +1,105 @@
+{
+  "player_id": 10184198,
+  "@id": "https://api.chess.com/pub/player/noela1512",
+  "url": "https://www.chess.com/member/noela1512",
+  "name": "Noela Lomandong",
+  "username": "noela1512",
+  "title": "WFM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/MC",
+  "location": "Monaco ville",
+  "last_online": 1776359444,
+  "joined": 1356599736,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 969,
+      "date": 1596713446,
+      "rd": 263
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1356599736,
+      "game": "https://www.chess.com/game/daily/187264568"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 157,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1526,
+      "date": 1740835256,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1944,
+      "date": 1596789778,
+      "game": "https://www.chess.com/game/live/5263348710"
+    },
+    "record": {
+      "win": 22,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1773,
+      "date": 1776039644,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1602153453,
+      "game": "https://www.chess.com/game/live/5576977843"
+    },
+    "record": {
+      "win": 411,
+      "loss": 372,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2029,
+      "date": 1776221335,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1756494395,
+      "game": "https://www.chess.com/game/live/5581932005"
+    },
+    "record": {
+      "win": 336,
+      "loss": 297,
+      "draw": 45
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1681,
+      "date": 1356599736
+    },
+    "lowest": {
+      "rating": 1681,
+      "date": 1356599736
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

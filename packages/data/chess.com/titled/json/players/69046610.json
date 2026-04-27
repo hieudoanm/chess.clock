@@ -1,0 +1,84 @@
+{
+  "player_id": 69046610,
+  "@id": "https://api.chess.com/pub/player/joksijoksi",
+  "url": "https://www.chess.com/member/joksijoksi",
+  "name": "Jovana Srdanovic",
+  "username": "joksijoksi",
+  "title": "WIM",
+  "followers": 78,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776265398,
+  "joined": 1575817540,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2107,
+      "date": 1774193330,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1588093451,
+      "game": "https://www.chess.com/game/live/5301650851"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2422,
+      "date": 1743266003,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2552,
+      "date": 1704731961,
+      "game": "https://www.chess.com/game/live/98470666745"
+    },
+    "record": {
+      "win": 240,
+      "loss": 245,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2542,
+      "date": 1772821704,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1704661403,
+      "game": "https://www.chess.com/game/live/130630858763"
+    },
+    "record": {
+      "win": 1172,
+      "loss": 1035,
+      "draw": 195
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2388,
+      "date": 1766774812
+    },
+    "lowest": {
+      "rating": 2197,
+      "date": 1769684214
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

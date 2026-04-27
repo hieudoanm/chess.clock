@@ -1,0 +1,67 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/92274728.65da919d.200x200o.c571a37b8ecf.jpg",
+  "player_id": 92274728,
+  "@id": "https://api.chess.com/pub/player/crazy",
+  "url": "https://www.chess.com/member/crazy",
+  "username": "crazy",
+  "title": "GM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1726099267,
+  "joined": 1601500235,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2569,
+      "date": 1709700201,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1682305417,
+      "game": "https://www.chess.com/game/live/71101374917"
+    },
+    "record": {
+      "win": 27,
+      "loss": 3,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2369,
+      "date": 1677271788,
+      "rd": 199
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1601839833,
+      "game": "https://www.chess.com/game/live/5538238504"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2295,
+      "date": 1601500235
+    },
+    "lowest": {
+      "rating": 2295,
+      "date": 1601500235
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

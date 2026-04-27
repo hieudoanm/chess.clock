@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15671802.ae871a55.200x200o.e9db1df56a80.jpg",
+  "player_id": 15671802,
+  "@id": "https://api.chess.com/pub/player/alex_banzea",
+  "url": "https://www.chess.com/member/Alex_Banzea",
+  "name": "Alexandru-Bogdan Banzea",
+  "username": "alex_banzea",
+  "title": "IM",
+  "followers": 2282,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Bucharest, Romania",
+  "last_online": 1776503635,
+  "joined": 1390248438,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/alexbanzea",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/alexbanzea"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 543,
+      "date": 1707753515,
+      "rd": 238
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1390248438,
+      "game": "https://www.chess.com/game/daily/428462237"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 97628,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2044,
+      "date": 1766435882,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2128,
+      "date": 1663288605,
+      "game": "https://www.chess.com/game/live/55725804097"
+    },
+    "record": {
+      "win": 43,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2503,
+      "date": 1771323828,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2553,
+      "date": 1707063496,
+      "game": "https://www.chess.com/game/live/2088587915"
+    },
+    "record": {
+      "win": 205,
+      "loss": 149,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2479,
+      "date": 1774877412,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1691426080,
+      "game": "https://www.chess.com/game/live/160214251819"
+    },
+    "record": {
+      "win": 6845,
+      "loss": 5984,
+      "draw": 1057
+    }
+  },
+  "fide": 2405,
+  "tactics": {
+    "highest": {
+      "rating": 2618,
+      "date": 1760260037
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1760281944
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

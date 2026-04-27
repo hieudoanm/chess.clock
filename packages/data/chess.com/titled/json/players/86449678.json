@@ -1,0 +1,80 @@
+{
+  "player_id": 86449678,
+  "@id": "https://api.chess.com/pub/player/shay241202",
+  "url": "https://www.chess.com/member/Shay241202",
+  "name": "Shay Sivarajasingam",
+  "username": "shay241202",
+  "title": "WCM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/XW",
+  "location": "Wales",
+  "last_online": 1775858042,
+  "joined": 1594497509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1710,
+      "date": 1769618417,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1928,
+      "date": 1675284024,
+      "game": "https://www.chess.com/game/live/140222463668"
+    },
+    "record": {
+      "win": 44,
+      "loss": 41,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1362,
+      "date": 1770844991,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1768,
+      "date": 1697037033,
+      "game": "https://www.chess.com/game/live/140958563708"
+    },
+    "record": {
+      "win": 12,
+      "loss": 15,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1756,
+      "date": 1775858002,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1595777165,
+      "game": "https://www.chess.com/game/live/5207355630"
+    },
+    "record": {
+      "win": 164,
+      "loss": 151,
+      "draw": 38
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1727,
+      "date": 1594497509
+    },
+    "lowest": {
+      "rating": 1727,
+      "date": 1594497509
+    }
+  },
+  "puzzle_rush": {}
+}

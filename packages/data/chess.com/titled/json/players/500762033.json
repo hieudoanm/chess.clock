@@ -1,0 +1,67 @@
+{
+  "player_id": 500762033,
+  "@id": "https://api.chess.com/pub/player/fredericus_fertigus",
+  "url": "https://www.chess.com/member/Fredericus_Fertigus",
+  "username": "fredericus_fertigus",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775993252,
+  "joined": 1763059240,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2712,
+      "date": 1774540267,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1774540267,
+      "game": "https://www.chess.com/game/live/166462495058"
+    },
+    "record": {
+      "win": 111,
+      "loss": 70,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2665,
+      "date": 1775945338,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2795,
+      "date": 1764341984,
+      "game": "https://www.chess.com/game/live/148532351958"
+    },
+    "record": {
+      "win": 813,
+      "loss": 617,
+      "draw": 130
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2432,
+      "date": 1763916202
+    },
+    "lowest": {
+      "rating": 2059,
+      "date": 1763916576
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

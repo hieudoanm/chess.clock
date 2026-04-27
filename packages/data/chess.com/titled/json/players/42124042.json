@@ -1,0 +1,105 @@
+{
+  "player_id": 42124042,
+  "@id": "https://api.chess.com/pub/player/eightbyeightchess",
+  "url": "https://www.chess.com/member/eightbyeightchess",
+  "name": "Nitai Leve",
+  "username": "eightbyeightchess",
+  "title": "NM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1776544191,
+  "joined": 1515429085,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1904,
+      "date": 1714063375,
+      "rd": 261
+    },
+    "best": {
+      "rating": 1904,
+      "date": 1544283308,
+      "game": "https://www.chess.com/game/daily/209481246"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13981,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2341,
+      "date": 1691433931,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1586626057,
+      "game": "https://www.chess.com/game/live/4708030372"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2527,
+      "date": 1776361286,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1692646761,
+      "game": "https://www.chess.com/game/live/169634447385"
+    },
+    "record": {
+      "win": 2232,
+      "loss": 1998,
+      "draw": 253
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2547,
+      "date": 1776136145,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1765340474,
+      "game": "https://www.chess.com/game/live/4752510876"
+    },
+    "record": {
+      "win": 1808,
+      "loss": 1690,
+      "draw": 210
+    }
+  },
+  "fide": 2271,
+  "tactics": {
+    "highest": {
+      "rating": 2638,
+      "date": 1760110010
+    },
+    "lowest": {
+      "rating": 2321,
+      "date": 1760992251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

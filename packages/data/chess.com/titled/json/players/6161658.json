@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6161658.921992d1.200x200o.5c442dbca764.jpg",
+  "player_id": 6161658,
+  "@id": "https://api.chess.com/pub/player/mmmflatbread",
+  "url": "https://www.chess.com/member/mmmflatbread",
+  "name": "Mark Heimann",
+  "username": "mmmflatbread",
+  "title": "GM",
+  "followers": 477,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776577445,
+  "joined": 1321856439,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1073,
+      "date": 1768875133,
+      "rd": 163
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1321856439,
+      "game": "https://www.chess.com/game/daily/531483655"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 34181,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2033,
+      "date": 1769194122,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2747,
+      "date": 1685586141,
+      "game": "https://www.chess.com/game/live/142340410365"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2814,
+      "date": 1712552007,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2937,
+      "date": 1621082970,
+      "game": "https://www.chess.com/game/live/5764096111"
+    },
+    "record": {
+      "win": 10114,
+      "loss": 7308,
+      "draw": 1468
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2882,
+      "date": 1776557003,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2990,
+      "date": 1776124569,
+      "game": "https://www.chess.com/game/live/164028217084"
+    },
+    "record": {
+      "win": 10498,
+      "loss": 7293,
+      "draw": 2639
+    }
+  },
+  "fide": 2512,
+  "tactics": {
+    "highest": {
+      "rating": 2386,
+      "date": 1755719829
+    },
+    "lowest": {
+      "rating": 2069,
+      "date": 1759875168
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

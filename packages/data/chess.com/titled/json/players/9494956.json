@@ -1,0 +1,103 @@
+{
+  "player_id": 9494956,
+  "@id": "https://api.chess.com/pub/player/ykam78",
+  "url": "https://www.chess.com/member/ykam78",
+  "name": "Yannick Kambrath",
+  "username": "ykam78",
+  "title": "IM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776576672,
+  "joined": 1351895578,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 584,
+      "date": 1738010076,
+      "rd": 262
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1351895578,
+      "game": "https://www.chess.com/game/daily/551772293"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32123,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2402,
+      "date": 1749827330,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2530,
+      "date": 1609880471,
+      "game": "https://www.chess.com/game/live/6160455750"
+    },
+    "record": {
+      "win": 17,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2517,
+      "date": 1773547540,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2749,
+      "date": 1648956656,
+      "game": "https://www.chess.com/game/live/42878349097"
+    },
+    "record": {
+      "win": 5224,
+      "loss": 4413,
+      "draw": 666
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2761,
+      "date": 1776576648,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1770789329,
+      "game": "https://www.chess.com/game/live/167467638590"
+    },
+    "record": {
+      "win": 4448,
+      "loss": 3748,
+      "draw": 692
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2339,
+      "date": 1351895578
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1351895578
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 41
+    }
+  }
+}

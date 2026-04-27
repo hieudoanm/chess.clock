@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/220783495.cf62bd4e.200x200o.2623e6cad42f.jpg",
+  "player_id": 220783495,
+  "@id": "https://api.chess.com/pub/player/roseychess",
+  "url": "https://www.chess.com/member/RoseyChess",
+  "name": "Nicholas Rosenthal",
+  "username": "roseychess",
+  "title": "NM",
+  "followers": 1904,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776585163,
+  "joined": 1672950594,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nm_roseychess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nm_roseychess"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2444,
+      "date": 1775550821,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1692028088,
+      "game": "https://www.chess.com/game/live/148282363880"
+    },
+    "record": {
+      "win": 22,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2906,
+      "date": 1776485636,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2976,
+      "date": 1724665439,
+      "game": "https://www.chess.com/game/live/114625717677"
+    },
+    "record": {
+      "win": 10061,
+      "loss": 4680,
+      "draw": 853
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2810,
+      "date": 1776415434,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2828,
+      "date": 1775555219,
+      "game": "https://www.chess.com/game/live/110743930435"
+    },
+    "record": {
+      "win": 1136,
+      "loss": 670,
+      "draw": 137
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1765399596
+    },
+    "lowest": {
+      "rating": 864,
+      "date": 1765400872
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

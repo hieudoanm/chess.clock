@@ -1,0 +1,103 @@
+{
+  "player_id": 51756886,
+  "@id": "https://api.chess.com/pub/player/magionator",
+  "url": "https://www.chess.com/member/Magionator",
+  "name": "Magnus Mueller",
+  "username": "magionator",
+  "title": "CM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776479770,
+  "joined": 1542031387,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1696,
+      "date": 1759825733,
+      "rd": 304
+    },
+    "best": {
+      "rating": 1696,
+      "date": 1728242943,
+      "game": "https://www.chess.com/game/daily/577544551"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9648,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1892,
+      "date": 1770908194,
+      "rd": 113
+    },
+    "best": {
+      "rating": 1899,
+      "date": 1763475607,
+      "game": "https://www.chess.com/game/live/92925056157"
+    },
+    "record": {
+      "win": 21,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2164,
+      "date": 1754666065,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1754665722,
+      "game": "https://www.chess.com/game/live/141638707876"
+    },
+    "record": {
+      "win": 64,
+      "loss": 45,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2467,
+      "date": 1776479635,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2684,
+      "date": 1750952731,
+      "game": "https://www.chess.com/game/live/165266269406"
+    },
+    "record": {
+      "win": 4636,
+      "loss": 4090,
+      "draw": 833
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2215,
+      "date": 1542031387
+    },
+    "lowest": {
+      "rating": 2215,
+      "date": 1542031387
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

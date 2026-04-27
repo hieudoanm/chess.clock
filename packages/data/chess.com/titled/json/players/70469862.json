@@ -1,0 +1,85 @@
+{
+  "player_id": 70469862,
+  "@id": "https://api.chess.com/pub/player/reigningmvp",
+  "url": "https://www.chess.com/member/reigningmvp",
+  "name": "Fatih Baltic",
+  "username": "reigningmvp",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/PS",
+  "last_online": 1776359039,
+  "joined": 1578485183,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1754749822,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2287,
+      "date": 1617448767,
+      "game": "https://www.chess.com/game/live/11186634157"
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1736552621,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2577,
+      "date": 1736552524,
+      "game": "https://www.chess.com/game/live/120070203553"
+    },
+    "record": {
+      "win": 209,
+      "loss": 161,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1776285590,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2727,
+      "date": 1755900917,
+      "game": "https://www.chess.com/game/live/114906550595"
+    },
+    "record": {
+      "win": 276,
+      "loss": 251,
+      "draw": 50
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2327,
+      "date": 1578485183
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1578485183
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

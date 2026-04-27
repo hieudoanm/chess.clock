@@ -1,0 +1,81 @@
+{
+  "player_id": 23864740,
+  "@id": "https://api.chess.com/pub/player/micfel",
+  "url": "https://www.chess.com/member/micfel",
+  "name": "Bunmi Olape",
+  "username": "micfel",
+  "title": "IM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/NG",
+  "location": "Lagos",
+  "last_online": 1555589551,
+  "joined": 1440779341,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1351,
+      "date": 1531082406,
+      "rd": 334
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1440779341,
+      "game": "https://www.chess.com/game/daily/163769962"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 48277,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1511,
+      "date": 1513694602,
+      "rd": 173
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1446599809,
+      "game": "https://www.chess.com/game/live/1811108550"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2319,
+      "date": 1555615658,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1478227903,
+      "game": "https://www.chess.com/game/live/1792713921"
+    },
+    "record": {
+      "win": 3376,
+      "loss": 2958,
+      "draw": 432
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1440779341
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1440779341
+    }
+  },
+  "puzzle_rush": {}
+}

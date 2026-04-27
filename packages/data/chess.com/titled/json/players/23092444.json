@@ -1,0 +1,103 @@
+{
+  "player_id": 23092444,
+  "@id": "https://api.chess.com/pub/player/happyushindi",
+  "url": "https://www.chess.com/member/HappyUshindi",
+  "name": "Joyce Ndirangu",
+  "username": "happyushindi",
+  "title": "WFM",
+  "followers": 119,
+  "country": "https://api.chess.com/pub/country/KE",
+  "last_online": 1776591240,
+  "joined": 1436004021,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1228,
+      "date": 1759152317,
+      "rd": 165
+    },
+    "best": {
+      "rating": 1257,
+      "date": 1734984315,
+      "game": "https://www.chess.com/game/daily/728359401"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 29539,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1773744195,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1755005496,
+      "game": "https://www.chess.com/game/live/141722629306"
+    },
+    "record": {
+      "win": 441,
+      "loss": 439,
+      "draw": 68
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1484,
+      "date": 1773753976,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1773751292,
+      "game": "https://www.chess.com/game/live/166064548254"
+    },
+    "record": {
+      "win": 8,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1931,
+      "date": 1776504349,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1760675905,
+      "game": "https://www.chess.com/game/live/144490176143"
+    },
+    "record": {
+      "win": 1285,
+      "loss": 1404,
+      "draw": 89
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1976,
+      "date": 1765089163
+    },
+    "lowest": {
+      "rating": 1925,
+      "date": 1768238397
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

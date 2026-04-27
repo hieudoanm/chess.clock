@@ -1,0 +1,84 @@
+{
+  "player_id": 362373271,
+  "@id": "https://api.chess.com/pub/player/tveth0",
+  "url": "https://www.chess.com/member/tveth0",
+  "username": "tveth0",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1768496873,
+  "joined": 1715366450,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1732723305,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1744,
+      "date": 1721491637,
+      "game": "https://www.chess.com/game/live/115230484847"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2784,
+      "date": 1757696764,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2861,
+      "date": 1732641563,
+      "game": "https://www.chess.com/game/live/126382169211"
+    },
+    "record": {
+      "win": 146,
+      "loss": 117,
+      "draw": 21
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2357,
+      "date": 1768497664,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1768497504,
+      "game": "https://www.chess.com/game/live/148050996250"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1443,
+      "date": 1758042453
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1756377483
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

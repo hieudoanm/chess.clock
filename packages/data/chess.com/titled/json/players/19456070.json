@@ -1,0 +1,104 @@
+{
+  "player_id": 19456070,
+  "@id": "https://api.chess.com/pub/player/bassu1",
+  "url": "https://www.chess.com/member/BASSU1",
+  "name": "Om Kharola",
+  "username": "bassu1",
+  "title": "FM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "MUMBAI",
+  "last_online": 1567520558,
+  "joined": 1414298301,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1571,
+      "date": 1593764896,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1571,
+      "date": 1562165094,
+      "game": "https://www.chess.com/game/daily/229338136"
+    },
+    "record": {
+      "win": 34,
+      "loss": 5,
+      "draw": 3,
+      "time_per_move": 42952,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1818,
+      "date": 1564652811,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1967,
+      "date": 1534772750,
+      "game": "https://www.chess.com/game/live/2344441212"
+    },
+    "record": {
+      "win": 71,
+      "loss": 50,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2659,
+      "date": 1567518780,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1555506178,
+      "game": "https://www.chess.com/game/live/3767739669"
+    },
+    "record": {
+      "win": 3311,
+      "loss": 3158,
+      "draw": 323
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2588,
+      "date": 1567555207,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1567554862,
+      "game": "https://www.chess.com/game/live/4003086190"
+    },
+    "record": {
+      "win": 297,
+      "loss": 248,
+      "draw": 30
+    }
+  },
+  "fide": 2357,
+  "tactics": {
+    "highest": {
+      "rating": 2336,
+      "date": 1414298301
+    },
+    "lowest": {
+      "rating": 2336,
+      "date": 1414298301
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

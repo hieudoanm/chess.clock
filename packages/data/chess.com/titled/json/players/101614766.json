@@ -1,0 +1,80 @@
+{
+  "player_id": 101614766,
+  "@id": "https://api.chess.com/pub/player/qh02",
+  "url": "https://www.chess.com/member/QH02",
+  "name": "Qixiang Han",
+  "username": "qh02",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776274483,
+  "joined": 1607074091,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1776077128,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2308,
+      "date": 1674740740
+    },
+    "best": {
+      "rating": 1718,
+      "date": 1674740740,
+      "game": "https://www.chess.com/game/live/67790512651"
+    },
+    "record": {
+      "win": 42,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2308,
+      "date": 1697967487
+    },
+    "best": {
+      "rating": 1591,
+      "date": 1678010348,
+      "game": "https://www.chess.com/game/live/71748933915"
+    },
+    "record": {
+      "win": 6,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "fide": 2308,
+  "tactics": {
+    "highest": {
+      "rating": 2308,
+      "date": 1607074091
+    },
+    "lowest": {
+      "rating": 2308,
+      "date": 1607074091
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

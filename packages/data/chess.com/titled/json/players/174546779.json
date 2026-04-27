@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/174546779.7f59ca9e.200x200o.999ec64467aa.jpg",
+  "player_id": 174546779,
+  "@id": "https://api.chess.com/pub/player/aizrawjath",
+  "url": "https://www.chess.com/member/aizrawjath",
+  "username": "aizrawjath",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776531481,
+  "joined": 1645812227,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2272,
+      "date": 1649200998,
+      "rd": 194
+    },
+    "best": {
+      "rating": 2231,
+      "date": 1648914767,
+      "game": "https://www.chess.com/game/live/42652781275"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2647,
+      "date": 1769944706,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1648616068,
+      "game": "https://www.chess.com/game/live/42355131389"
+    },
+    "record": {
+      "win": 27,
+      "loss": 21,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1776424006,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1760640907,
+      "game": "https://www.chess.com/game/live/144398502920"
+    },
+    "record": {
+      "win": 1007,
+      "loss": 1001,
+      "draw": 145
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1769872773
+    },
+    "lowest": {
+      "rating": 2106,
+      "date": 1762194701
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

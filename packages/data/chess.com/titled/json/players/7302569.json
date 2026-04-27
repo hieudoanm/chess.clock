@@ -1,0 +1,84 @@
+{
+  "player_id": 7302569,
+  "@id": "https://api.chess.com/pub/player/bricolageur",
+  "url": "https://www.chess.com/member/bricolageur",
+  "username": "bricolageur",
+  "title": "IM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776598812,
+  "joined": 1334515770,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2428,
+      "date": 1687515623,
+      "rd": 195
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1687514628,
+      "game": "https://www.chess.com/game/live/81252769249"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2703,
+      "date": 1723926154,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2746,
+      "date": 1722991443,
+      "game": "https://www.chess.com/game/live/29183954963"
+    },
+    "record": {
+      "win": 160,
+      "loss": 83,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2714,
+      "date": 1776599838,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2726,
+      "date": 1733576379,
+      "game": "https://www.chess.com/game/live/123636629515"
+    },
+    "record": {
+      "win": 6355,
+      "loss": 7187,
+      "draw": 723
+    }
+  },
+  "fide": 2393,
+  "tactics": {
+    "highest": {
+      "rating": 2603,
+      "date": 1334515770
+    },
+    "lowest": {
+      "rating": 2603,
+      "date": 1334515770
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "player_id": 28046510,
+  "@id": "https://api.chess.com/pub/player/vartemiev",
+  "url": "https://www.chess.com/member/vartemiev",
+  "name": "Vladislav Artemiev",
+  "username": "vartemiev",
+  "title": "GM",
+  "followers": 335,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Omsk",
+  "last_online": 1672719682,
+  "joined": 1462397326,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2966,
+      "date": 1514659079,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2953,
+      "date": 1502891547,
+      "game": "https://www.chess.com/game/live/2259738110"
+    },
+    "record": {
+      "win": 2844,
+      "loss": 1373,
+      "draw": 180
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2722,
+      "date": 1515154386,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2808,
+      "date": 1502892096,
+      "game": "https://www.chess.com/game/live/1628493045"
+    },
+    "record": {
+      "win": 689,
+      "loss": 350,
+      "draw": 100
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1462397326
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1462397326
+    }
+  },
+  "puzzle_rush": {}
+}

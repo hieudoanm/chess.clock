@@ -1,0 +1,71 @@
+{
+  "player_id": 531261589,
+  "@id": "https://api.chess.com/pub/player/newplayer8926",
+  "url": "https://www.chess.com/member/NewPlayer8926",
+  "username": "newplayer8926",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/KI",
+  "last_online": 1776595492,
+  "joined": 1771249223,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2455,
+      "date": 1773777994,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1773777859,
+      "game": "https://www.chess.com/game/live/166080702762"
+    },
+    "record": {
+      "win": 7,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2693,
+      "date": 1776595461,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2730,
+      "date": 1776544486,
+      "game": "https://www.chess.com/game/live/167485628628"
+    },
+    "record": {
+      "win": 167,
+      "loss": 107,
+      "draw": 18
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2541,
+      "date": 1774254927
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1771249250
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    },
+    "daily": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

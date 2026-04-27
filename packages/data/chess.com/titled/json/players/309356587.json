@@ -1,0 +1,85 @@
+{
+  "player_id": 309356587,
+  "@id": "https://api.chess.com/pub/player/elbebiber",
+  "url": "https://www.chess.com/member/Elbebiber",
+  "name": "Dr. Joerg Teumer",
+  "username": "elbebiber",
+  "title": "CM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776580510,
+  "joined": 1693427914,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1696277530,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1696274710,
+      "game": "https://www.chess.com/game/live/90015510499"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1776580500,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2389,
+      "date": 1774112575,
+      "game": "https://www.chess.com/game/live/168426046469"
+    },
+    "record": {
+      "win": 6337,
+      "loss": 7233,
+      "draw": 1045
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2186,
+      "date": 1745271074,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2294,
+      "date": 1693682470,
+      "game": "https://www.chess.com/game/live/95559579779"
+    },
+    "record": {
+      "win": 205,
+      "loss": 256,
+      "draw": 70
+    }
+  },
+  "fide": 2148,
+  "tactics": {
+    "highest": {
+      "rating": 2066,
+      "date": 1768338810
+    },
+    "lowest": {
+      "rating": 1918,
+      "date": 1763404126
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

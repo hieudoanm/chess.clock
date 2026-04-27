@@ -1,0 +1,95 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/243966617.e8a2f039.200x200o.2b8a8e297c6c.png",
+  "player_id": 243966617,
+  "@id": "https://api.chess.com/pub/player/ph_academy",
+  "url": "https://www.chess.com/member/PH_Academy",
+  "name": "PowerHouse Chess",
+  "username": "ph_academy",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/SZ",
+  "last_online": 1775698402,
+  "joined": 1676114208,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1765490818,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1753942805,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1678129670,
+      "game": "https://www.chess.com/game/live/71852807799"
+    },
+    "record": {
+      "win": 55,
+      "loss": 53,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1800,
+      "date": 1753867923,
+      "rd": 50
+    },
+    "best": {
+      "rating": 1575,
+      "date": 1694279918,
+      "game": "https://www.chess.com/game/live/88016953587"
+    },
+    "record": {
+      "win": 42,
+      "loss": 30,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1509,
+      "date": 1773522914,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1834,
+      "date": 1685075594,
+      "game": "https://www.chess.com/game/live/78813676789"
+    },
+    "record": {
+      "win": 61,
+      "loss": 40,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1763,
+      "date": 1764135247
+    },
+    "lowest": {
+      "rating": 1049,
+      "date": 1757777923
+    }
+  },
+  "puzzle_rush": {}
+}

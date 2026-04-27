@@ -1,0 +1,83 @@
+{
+  "player_id": 417723711,
+  "@id": "https://api.chess.com/pub/player/afkbiki",
+  "url": "https://www.chess.com/member/Afkbiki",
+  "username": "afkbiki",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776595374,
+  "joined": 1736871220,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2182,
+      "date": 1775540896,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1737790131,
+      "game": "https://www.chess.com/game/live/166969441020"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2066,
+      "date": 1774594401,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1738607158,
+      "game": "https://www.chess.com/game/live/165177227184"
+    },
+    "record": {
+      "win": 2,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2270,
+      "date": 1776588211,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1776238075,
+      "game": "https://www.chess.com/game/live/148246098248"
+    },
+    "record": {
+      "win": 829,
+      "loss": 769,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1844,
+      "date": 1736871220
+    },
+    "lowest": {
+      "rating": 1844,
+      "date": 1736871220
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

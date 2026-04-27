@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/140173841.75527e6c.200x200o.500048302723.png",
+  "player_id": 140173841,
+  "@id": "https://api.chess.com/pub/player/vladimir_zakhartsov",
+  "url": "https://www.chess.com/member/Vladimir_Zakhartsov",
+  "name": "Vladimir Zakhartsov",
+  "username": "vladimir_zakhartsov",
+  "title": "GM",
+  "followers": 290,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776596460,
+  "joined": 1620938308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2508,
+      "date": 1727285349,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1682954429,
+      "game": "https://www.chess.com/game/live/76692214297"
+    },
+    "record": {
+      "win": 10,
+      "loss": 16,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2869,
+      "date": 1764238494,
+      "rd": 44
+    },
+    "best": {
+      "rating": 3048,
+      "date": 1688750966,
+      "game": "https://www.chess.com/game/live/146017488724"
+    },
+    "record": {
+      "win": 160,
+      "loss": 99,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3006,
+      "date": 1776596358,
+      "rd": 27
+    },
+    "best": {
+      "rating": 3172,
+      "date": 1770407679,
+      "game": "https://www.chess.com/game/live/163952280926"
+    },
+    "record": {
+      "win": 2811,
+      "loss": 1906,
+      "draw": 698
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2236,
+      "date": 1620938308
+    },
+    "lowest": {
+      "rating": 2236,
+      "date": 1620938308
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

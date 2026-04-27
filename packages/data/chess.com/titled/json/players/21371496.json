@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21371496.79aa01fd.200x200o.01d2c922a539.jpeg",
+  "player_id": 21371496,
+  "@id": "https://api.chess.com/pub/player/nimven",
+  "url": "https://www.chess.com/member/nimven",
+  "name": "Nastassia Belaya",
+  "username": "nimven",
+  "title": "WFM",
+  "followers": 88,
+  "country": "https://api.chess.com/pub/country/FI",
+  "location": "Imatra",
+  "last_online": 1776449825,
+  "joined": 1425502261,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1682,
+      "date": 1776449800,
+      "rd": 245
+    },
+    "best": {
+      "rating": 1777,
+      "date": 1623130311,
+      "game": "https://www.chess.com/game/daily/342914009"
+    },
+    "record": {
+      "win": 45,
+      "loss": 19,
+      "draw": 3,
+      "time_per_move": 32505,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2065,
+      "date": 1688893767,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2144,
+      "date": 1675241077,
+      "game": "https://www.chess.com/game/live/68124869255"
+    },
+    "record": {
+      "win": 60,
+      "loss": 42,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1703,
+      "date": 1735850545,
+      "rd": 95
+    },
+    "best": {
+      "rating": 1754,
+      "date": 1735413069,
+      "game": "https://www.chess.com/game/live/129147156251"
+    },
+    "record": {
+      "win": 58,
+      "loss": 45,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1798,
+      "date": 1743959989,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1977,
+      "date": 1668598944,
+      "game": "https://www.chess.com/game/live/67733554101"
+    },
+    "record": {
+      "win": 532,
+      "loss": 484,
+      "draw": 52
+    }
+  },
+  "fide": 2107,
+  "tactics": {
+    "highest": {
+      "rating": 2299,
+      "date": 1425502261
+    },
+    "lowest": {
+      "rating": 2299,
+      "date": 1425502261
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 9651504,
+  "@id": "https://api.chess.com/pub/player/chanchakman",
+  "url": "https://www.chess.com/member/chanchakman",
+  "name": "chak man chan",
+  "username": "chanchakman",
+  "title": "CM",
+  "followers": 239,
+  "country": "https://api.chess.com/pub/country/HK",
+  "location": "hong kong",
+  "last_online": 1776566206,
+  "joined": 1353002080,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 804,
+      "date": 1760261919,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1393,
+      "date": 1527152436,
+      "game": "https://www.chess.com/game/daily/180467058"
+    },
+    "record": {
+      "win": 24,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 63576,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2361,
+      "date": 1706352181,
+      "rd": 252
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1687520804,
+      "game": "https://www.chess.com/game/live/81258744521"
+    },
+    "record": {
+      "win": 20,
+      "loss": 22,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2124,
+      "date": 1776567838,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1776312868,
+      "game": "https://www.chess.com/game/live/3817924277"
+    },
+    "record": {
+      "win": 3945,
+      "loss": 3172,
+      "draw": 232
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2252,
+      "date": 1776496620,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2379,
+      "date": 1774309550,
+      "game": "https://www.chess.com/game/live/86450475049"
+    },
+    "record": {
+      "win": 13372,
+      "loss": 12152,
+      "draw": 958
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2340,
+      "date": 1763647589
+    },
+    "lowest": {
+      "rating": 2251,
+      "date": 1763647410
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 11393614,
+  "@id": "https://api.chess.com/pub/player/fmstan15",
+  "url": "https://www.chess.com/member/FMStan15",
+  "name": "Stanis\u0142aw Osiecki",
+  "username": "fmstan15",
+  "title": "FM",
+  "followers": 53,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Sochaczew",
+  "last_online": 1776494089,
+  "joined": 1365068185,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 847,
+      "date": 1732816364,
+      "rd": 341
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1365068185,
+      "game": "https://www.chess.com/game/daily/733511899"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 92533,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1849,
+      "date": 1734805848,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2068,
+      "date": 1682527381,
+      "game": "https://www.chess.com/game/live/20976673023"
+    },
+    "record": {
+      "win": 161,
+      "loss": 67,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1855,
+      "date": 1729335413,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2062,
+      "date": 1654941796,
+      "game": "https://www.chess.com/game/live/5755507913"
+    },
+    "record": {
+      "win": 404,
+      "loss": 243,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2113,
+      "date": 1775396631,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1751987806,
+      "game": "https://www.chess.com/game/live/148721314919"
+    },
+    "record": {
+      "win": 6504,
+      "loss": 4475,
+      "draw": 793
+    }
+  },
+  "fide": 2055,
+  "tactics": {
+    "highest": {
+      "rating": 2266,
+      "date": 1765269842
+    },
+    "lowest": {
+      "rating": 2079,
+      "date": 1763710755
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

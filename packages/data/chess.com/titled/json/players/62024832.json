@@ -1,0 +1,86 @@
+{
+  "player_id": 62024832,
+  "@id": "https://api.chess.com/pub/player/korsolainen",
+  "url": "https://www.chess.com/member/Korsolainen",
+  "name": "Petteri Paronen",
+  "username": "korsolainen",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/FI",
+  "location": "Vantaa",
+  "last_online": 1776450618,
+  "joined": 1559927985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1983,
+      "date": 1710200443,
+      "rd": 122
+    },
+    "best": {
+      "rating": 1956,
+      "date": 1660680873,
+      "game": "https://www.chess.com/game/live/54419378011"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1983,
+      "date": 1710200443,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1479,
+      "date": 1705779536,
+      "game": "https://www.chess.com/game/live/99518525633"
+    },
+    "record": {
+      "win": 48,
+      "loss": 30,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1983,
+      "date": 1710200443,
+      "rd": 127
+    },
+    "best": {
+      "rating": 1957,
+      "date": 1664817831,
+      "game": "https://www.chess.com/game/live/5842132644"
+    },
+    "record": {
+      "win": 52,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "fide": 1995,
+  "tactics": {
+    "highest": {
+      "rating": 2408,
+      "date": 1765048630
+    },
+    "lowest": {
+      "rating": 2264,
+      "date": 1765049429
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

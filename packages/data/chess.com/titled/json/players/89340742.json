@@ -1,0 +1,67 @@
+{
+  "player_id": 89340742,
+  "@id": "https://api.chess.com/pub/player/always_confused",
+  "url": "https://www.chess.com/member/always_confused",
+  "username": "always_confused",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1775134325,
+  "joined": 1597777723,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2346,
+      "date": 1626823934,
+      "rd": 248
+    },
+    "best": {
+      "rating": 2346,
+      "date": 1626823934,
+      "game": "https://www.chess.com/game/live/20562007841"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1775133715,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1775133715,
+      "game": "https://www.chess.com/game/live/51746998025"
+    },
+    "record": {
+      "win": 267,
+      "loss": 191,
+      "draw": 52
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2698,
+      "date": 1597777723
+    },
+    "lowest": {
+      "rating": 2698,
+      "date": 1597777723
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 50
+    }
+  }
+}

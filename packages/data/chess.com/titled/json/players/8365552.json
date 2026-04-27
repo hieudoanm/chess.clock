@@ -1,0 +1,105 @@
+{
+  "player_id": 8365552,
+  "@id": "https://api.chess.com/pub/player/kevinhappyface",
+  "url": "https://www.chess.com/member/kevinhappyface",
+  "name": "Kevin Cao",
+  "username": "kevinhappyface",
+  "title": "NM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "St. Louis",
+  "last_online": 1776287357,
+  "joined": 1343594154,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1766266941,
+      "rd": 350
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1343594154,
+      "game": "https://www.chess.com/game/daily/78870392"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 23848,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2369,
+      "date": 1682533622,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2369,
+      "date": 1682533622,
+      "game": "https://www.chess.com/game/live/37171265821"
+    },
+    "record": {
+      "win": 21,
+      "loss": 11,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2541,
+      "date": 1767058138,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1762452460,
+      "game": "https://www.chess.com/game/live/36824986715"
+    },
+    "record": {
+      "win": 2830,
+      "loss": 2171,
+      "draw": 268
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2238,
+      "date": 1760049036,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2487,
+      "date": 1731565215,
+      "game": "https://www.chess.com/game/live/51123617407"
+    },
+    "record": {
+      "win": 133,
+      "loss": 104,
+      "draw": 10
+    }
+  },
+  "fide": 2292,
+  "tactics": {
+    "highest": {
+      "rating": 2427,
+      "date": 1762215527
+    },
+    "lowest": {
+      "rating": 2085,
+      "date": 1762296776
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

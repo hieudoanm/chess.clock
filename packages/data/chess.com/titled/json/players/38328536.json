@@ -1,0 +1,84 @@
+{
+  "player_id": 38328536,
+  "@id": "https://api.chess.com/pub/player/nikolastheiss",
+  "url": "https://www.chess.com/member/NikolasTheiss",
+  "name": "Nikolas Theiss",
+  "username": "nikolastheiss",
+  "title": "NM",
+  "followers": 260,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1746925740,
+  "joined": 1504394260,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2181,
+      "date": 1659131946,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1657180390,
+      "game": "https://www.chess.com/game/live/50918367003"
+    },
+    "record": {
+      "win": 230,
+      "loss": 58,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2517,
+      "date": 1661478761,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1612300042,
+      "game": "https://www.chess.com/game/live/6391306425"
+    },
+    "record": {
+      "win": 3044,
+      "loss": 2749,
+      "draw": 348
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2478,
+      "date": 1701216113,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1701209245,
+      "game": "https://www.chess.com/game/live/54178169795"
+    },
+    "record": {
+      "win": 597,
+      "loss": 342,
+      "draw": 56
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2477,
+      "date": 1504394260
+    },
+    "lowest": {
+      "rating": 2477,
+      "date": 1504394260
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "player_id": 2810991,
+  "@id": "https://api.chess.com/pub/player/ralnsy",
+  "url": "https://www.chess.com/member/ralnsy",
+  "name": "Edward Rains",
+  "username": "ralnsy",
+  "title": "CM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "last_online": 1776587474,
+  "joined": 1273293785,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2046,
+      "date": 1714033691,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2046,
+      "date": 1682437109,
+      "game": "https://www.chess.com/game/daily/437969401"
+    },
+    "record": {
+      "win": 31,
+      "loss": 11,
+      "draw": 1,
+      "time_per_move": 22927,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1766,
+      "date": 1657002722,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1931,
+      "date": 1458188155,
+      "game": "https://www.chess.com/game/live/1507506376"
+    },
+    "record": {
+      "win": 57,
+      "loss": 21,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2251,
+      "date": 1458807452,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1458807452,
+      "game": "https://www.chess.com/game/live/1502274833"
+    },
+    "record": {
+      "win": 357,
+      "loss": 241,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2223,
+      "date": 1652847834,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2223,
+      "date": 1652847834,
+      "game": "https://www.chess.com/game/live/45904748799"
+    },
+    "record": {
+      "win": 1112,
+      "loss": 833,
+      "draw": 71
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2777,
+      "date": 1765525545
+    },
+    "lowest": {
+      "rating": 2518,
+      "date": 1755590016
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    },
+    "daily": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

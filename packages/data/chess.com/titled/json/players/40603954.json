@@ -1,0 +1,81 @@
+{
+  "player_id": 40603954,
+  "@id": "https://api.chess.com/pub/player/fightingdragon84",
+  "url": "https://www.chess.com/member/FightingDragon84",
+  "name": "Christian Koepke",
+  "username": "fightingdragon84",
+  "title": "IM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776553216,
+  "joined": 1511297818,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1602,
+      "date": 1710955597,
+      "rd": 310
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 42092,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1684168546,
+      "rd": 190
+    },
+    "best": {
+      "rating": 2498,
+      "date": 1684164211,
+      "game": "https://www.chess.com/game/live/77906548165"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2562,
+      "date": 1763248503,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1709911388,
+      "game": "https://www.chess.com/game/live/154608397317"
+    },
+    "record": {
+      "win": 1517,
+      "loss": 1461,
+      "draw": 219
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1511297818
+    },
+    "lowest": {
+      "rating": 2604,
+      "date": 1511297818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

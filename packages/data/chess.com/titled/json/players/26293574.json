@@ -1,0 +1,117 @@
+{
+  "player_id": 26293574,
+  "@id": "https://api.chess.com/pub/player/smshk35",
+  "url": "https://www.chess.com/member/smshk35",
+  "username": "smshk35",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1768681610,
+  "joined": 1453557016,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1473,
+      "date": 1707241056,
+      "rd": 50
+    },
+    "best": {
+      "rating": 1571,
+      "date": 1514950548,
+      "game": "https://www.chess.com/game/daily/155597284"
+    },
+    "record": {
+      "win": 93,
+      "loss": 114,
+      "draw": 5,
+      "time_per_move": 28560,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1228,
+      "date": 1470584733,
+      "rd": 223
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 28560,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2202,
+      "date": 1738778174,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2294,
+      "date": 1586618305,
+      "game": "https://www.chess.com/game/live/4707104341"
+    },
+    "record": {
+      "win": 253,
+      "loss": 199,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1725557691,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1629039338,
+      "game": "https://www.chess.com/game/live/22345284685"
+    },
+    "record": {
+      "win": 1831,
+      "loss": 1882,
+      "draw": 246
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2528,
+      "date": 1763982880,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2583,
+      "date": 1637778312,
+      "game": "https://www.chess.com/game/live/5764651182"
+    },
+    "record": {
+      "win": 4241,
+      "loss": 4611,
+      "draw": 676
+    }
+  },
+  "fide": 1234,
+  "tactics": {
+    "highest": {
+      "rating": 2389,
+      "date": 1453557016
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1453557016
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

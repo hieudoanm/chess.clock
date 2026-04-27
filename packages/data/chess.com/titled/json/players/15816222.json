@@ -1,0 +1,104 @@
+{
+  "player_id": 15816222,
+  "@id": "https://api.chess.com/pub/player/boryboy",
+  "url": "https://www.chess.com/member/Boryboy",
+  "name": "Borya Ider",
+  "username": "boryboy",
+  "title": "IM",
+  "followers": 137,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776449234,
+  "joined": 1391036065,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1480,
+      "date": 1644830893,
+      "rd": 217
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1391036065,
+      "game": "https://www.chess.com/game/daily/234961678"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 72686,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1796,
+      "date": 1612519677,
+      "rd": 338
+    },
+    "best": {
+      "rating": 2010,
+      "date": 1612519403,
+      "game": "https://www.chess.com/game/live/6456935435"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2914,
+      "date": 1767647282,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2959,
+      "date": 1737162505,
+      "game": "https://www.chess.com/game/live/1636115087"
+    },
+    "record": {
+      "win": 2982,
+      "loss": 3461,
+      "draw": 458
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2915,
+      "date": 1776449228,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2924,
+      "date": 1776444931,
+      "game": "https://www.chess.com/game/live/167432588426"
+    },
+    "record": {
+      "win": 1123,
+      "loss": 985,
+      "draw": 201
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2724,
+      "date": 1762076523
+    },
+    "lowest": {
+      "rating": 2542,
+      "date": 1773337278
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

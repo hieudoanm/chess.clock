@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3765395.58891e0b.200x200o.4d1a3e59c347.jpeg",
+  "player_id": 3765395,
+  "@id": "https://api.chess.com/pub/player/playablecharacter",
+  "url": "https://www.chess.com/member/playablecharacter",
+  "name": "Ethan Bashkansky",
+  "username": "playablecharacter",
+  "title": "NM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1774904634,
+  "joined": 1280465203,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1858,
+      "date": 1722500893,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1858,
+      "date": 1624582804,
+      "game": "https://www.chess.com/game/daily/340922731"
+    },
+    "record": {
+      "win": 35,
+      "loss": 15,
+      "draw": 1,
+      "time_per_move": 16788,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1670720728,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1639681797,
+      "game": "https://www.chess.com/game/live/9294944963"
+    },
+    "record": {
+      "win": 225,
+      "loss": 205,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1689935193,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1679684542,
+      "game": "https://www.chess.com/game/live/75841191017"
+    },
+    "record": {
+      "win": 5750,
+      "loss": 5807,
+      "draw": 846
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1768692765,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1768629399,
+      "game": "https://www.chess.com/game/live/122765056707"
+    },
+    "record": {
+      "win": 4880,
+      "loss": 4891,
+      "draw": 770
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2405,
+      "date": 1280465203
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1280465203
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

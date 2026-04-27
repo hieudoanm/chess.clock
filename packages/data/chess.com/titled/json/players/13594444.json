@@ -1,0 +1,126 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13594444.4189bd33.200x200o.5b28e9ea96c4.jpeg",
+  "player_id": 13594444,
+  "@id": "https://api.chess.com/pub/player/david_arutinian",
+  "url": "https://www.chess.com/member/David_Arutinian",
+  "name": "David Arutinian",
+  "username": "david_arutinian",
+  "title": "GM",
+  "followers": 2578,
+  "country": "https://api.chess.com/pub/country/GE",
+  "location": "Tbilisi",
+  "last_online": 1776497726,
+  "joined": 1379661651,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/gmarutinian",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/gmarutinian"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 703,
+      "date": 1761831514,
+      "rd": 349
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 16294,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1008,
+      "date": 1561469752,
+      "rd": 296
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1379661651,
+      "game": "https://www.chess.com/game/daily/230189818"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 16294,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2413,
+      "date": 1775199887,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1657081119,
+      "game": "https://www.chess.com/game/live/46762221609"
+    },
+    "record": {
+      "win": 58,
+      "loss": 12,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2931,
+      "date": 1776060799,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2944,
+      "date": 1747978127,
+      "game": "https://www.chess.com/game/live/83740151959"
+    },
+    "record": {
+      "win": 1557,
+      "loss": 922,
+      "draw": 208
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2931,
+      "date": 1776413004,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2957,
+      "date": 1741322104,
+      "game": "https://www.chess.com/game/live/63570558243"
+    },
+    "record": {
+      "win": 2906,
+      "loss": 1584,
+      "draw": 659
+    }
+  },
+  "fide": 2549,
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1379661651
+    },
+    "lowest": {
+      "rating": 2571,
+      "date": 1379661651
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

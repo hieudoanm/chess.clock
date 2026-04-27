@@ -1,0 +1,83 @@
+{
+  "player_id": 112347014,
+  "@id": "https://api.chess.com/pub/player/micktory02",
+  "url": "https://www.chess.com/member/Micktory02",
+  "username": "micktory02",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1772974924,
+  "joined": 1610614531,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2196,
+      "date": 1711100903,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1644579536,
+      "game": "https://www.chess.com/game/live/38317432345"
+    },
+    "record": {
+      "win": 356,
+      "loss": 58,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2394,
+      "date": 1705683434,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2599,
+      "date": 1643140344,
+      "game": "https://www.chess.com/game/live/38699682155"
+    },
+    "record": {
+      "win": 875,
+      "loss": 314,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2464,
+      "date": 1714069413,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1644166159,
+      "game": "https://www.chess.com/game/live/37904999955"
+    },
+    "record": {
+      "win": 266,
+      "loss": 83,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2481,
+      "date": 1610614531
+    },
+    "lowest": {
+      "rating": 2481,
+      "date": 1610614531
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

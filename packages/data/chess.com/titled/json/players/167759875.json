@@ -1,0 +1,62 @@
+{
+  "player_id": 167759875,
+  "@id": "https://api.chess.com/pub/player/mangochessgo",
+  "url": "https://www.chess.com/member/mangochessgo",
+  "name": "Ameya Audi",
+  "username": "mangochessgo",
+  "title": "IM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776512360,
+  "joined": 1641447251,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2068,
+      "date": 1708526857,
+      "rd": 293
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1733247105,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2751,
+      "date": 1681475655,
+      "game": "https://www.chess.com/game/live/110649177677"
+    },
+    "record": {
+      "win": 39,
+      "loss": 31,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2441,
+      "date": 1641447251
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1641447251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

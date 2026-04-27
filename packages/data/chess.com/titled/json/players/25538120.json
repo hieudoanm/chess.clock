@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/25538120.c7c8a16d.200x200o.18ecb6d80c5f.jpeg",
+  "player_id": 25538120,
+  "@id": "https://api.chess.com/pub/player/anakuchava",
+  "url": "https://www.chess.com/member/AnaKuchava",
+  "name": "Ana Kuchava",
+  "username": "anakuchava",
+  "title": "WFM",
+  "followers": 1440,
+  "country": "https://api.chess.com/pub/country/GE",
+  "location": "Tbilisi",
+  "last_online": 1776540759,
+  "joined": 1449933034,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/wfmanakuchava",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/wfmanakuchava"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1595,
+      "date": 1776451850,
+      "rd": 163
+    },
+    "best": {
+      "rating": 1595,
+      "date": 1774974467,
+      "game": "https://www.chess.com/game/daily/792006185"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 3,
+      "time_per_move": 110732,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2348,
+      "date": 1776275586,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1683907376,
+      "game": "https://www.chess.com/game/live/51114644263"
+    },
+    "record": {
+      "win": 142,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2158,
+      "date": 1775326313,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2302,
+      "date": 1606252767,
+      "game": "https://www.chess.com/game/live/130965595055"
+    },
+    "record": {
+      "win": 755,
+      "loss": 1751,
+      "draw": 100
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2304,
+      "date": 1775243816,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2348,
+      "date": 1748967723,
+      "game": "https://www.chess.com/game/live/105208875313"
+    },
+    "record": {
+      "win": 705,
+      "loss": 935,
+      "draw": 147
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1449933034
+    },
+    "lowest": {
+      "rating": 2571,
+      "date": 1449933034
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

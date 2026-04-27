@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/37034246.b29a64ce.200x200o.307a587c1c4d.jpg",
+  "player_id": 37034246,
+  "@id": "https://api.chess.com/pub/player/ethanli-ny",
+  "url": "https://www.chess.com/member/EthanLi-NY",
+  "name": "Ethan Li",
+  "username": "ethanli-ny",
+  "title": "FM",
+  "followers": 71,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "NY",
+  "last_online": 1776523636,
+  "joined": 1500060999,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1568042404,
+      "rd": 350
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12783,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2235,
+      "date": 1776388242,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1609804689,
+      "game": "https://www.chess.com/game/live/167416138128"
+    },
+    "record": {
+      "win": 13,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2474,
+      "date": 1740949935,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1736731322,
+      "game": "https://www.chess.com/game/live/130470612347"
+    },
+    "record": {
+      "win": 647,
+      "loss": 412,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2489,
+      "date": 1772308454,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1578892813,
+      "game": "https://www.chess.com/game/live/4525898831"
+    },
+    "record": {
+      "win": 809,
+      "loss": 504,
+      "draw": 90
+    }
+  },
+  "fide": 2413,
+  "tactics": {
+    "highest": {
+      "rating": 2465,
+      "date": 1771804315
+    },
+    "lowest": {
+      "rating": 2348,
+      "date": 1771804839
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

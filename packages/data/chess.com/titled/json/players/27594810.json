@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/27594810.91fe7f89.200x200o.f818d8d44334.jpeg",
+  "player_id": 27594810,
+  "@id": "https://api.chess.com/pub/player/alex_stripunsky",
+  "url": "https://www.chess.com/member/Alex_Stripunsky",
+  "name": "Alex Stripunsky",
+  "username": "alex_stripunsky",
+  "title": "GM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Fair Lawn",
+  "last_online": 1727199482,
+  "joined": 1459803316,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1563,
+      "date": 1594240839,
+      "rd": 342
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1588204936,
+      "game": "https://www.chess.com/game/live/4789782372"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2691,
+      "date": 1595888033,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2750,
+      "date": 1578110336,
+      "game": "https://www.chess.com/game/live/4364561195"
+    },
+    "record": {
+      "win": 108,
+      "loss": 96,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2652,
+      "date": 1601755869,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2775,
+      "date": 1588650585,
+      "game": "https://www.chess.com/game/live/4726486677"
+    },
+    "record": {
+      "win": 227,
+      "loss": 139,
+      "draw": 47
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1459803316
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1459803316
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

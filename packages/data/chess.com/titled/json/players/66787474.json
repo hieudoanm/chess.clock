@@ -1,0 +1,84 @@
+{
+  "player_id": 66787474,
+  "@id": "https://api.chess.com/pub/player/nightingaleblade",
+  "url": "https://www.chess.com/member/nightingaleblade",
+  "username": "nightingaleblade",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776430849,
+  "joined": 1571322565,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2680,
+      "date": 1776430849,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2716,
+      "date": 1775255111,
+      "game": "https://www.chess.com/game/live/145594329134"
+    },
+    "record": {
+      "win": 354,
+      "loss": 67,
+      "draw": 37
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2357,
+      "date": 1748755721,
+      "rd": 205
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1748755721,
+      "game": "https://www.chess.com/game/live/139085336086"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2836,
+      "date": 1774246772,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1774246772,
+      "game": "https://www.chess.com/game/live/144028911720"
+    },
+    "record": {
+      "win": 167,
+      "loss": 108,
+      "draw": 27
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1167,
+      "date": 1768984825
+    },
+    "lowest": {
+      "rating": 1096,
+      "date": 1768984820
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 17,
+      "score": 17
+    }
+  }
+}

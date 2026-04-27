@@ -1,0 +1,65 @@
+{
+  "player_id": 79953894,
+  "@id": "https://api.chess.com/pub/player/forking_u",
+  "url": "https://www.chess.com/member/Forking_U",
+  "username": "forking_u",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776026468,
+  "joined": 1589899988,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1630766150,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1590778942,
+      "game": "https://www.chess.com/game/live/24416542537"
+    },
+    "record": {
+      "win": 6,
+      "loss": 11,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2213,
+      "date": 1591210077,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2407,
+      "date": 1590783300,
+      "game": "https://www.chess.com/game/live/4947504651"
+    },
+    "record": {
+      "win": 47,
+      "loss": 50,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2365,
+      "date": 1589899988
+    },
+    "lowest": {
+      "rating": 2365,
+      "date": 1589899988
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

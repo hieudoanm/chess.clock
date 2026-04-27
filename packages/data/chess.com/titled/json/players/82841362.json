@@ -1,0 +1,103 @@
+{
+  "player_id": 82841362,
+  "@id": "https://api.chess.com/pub/player/spacegirl987",
+  "url": "https://www.chess.com/member/spacegirl987",
+  "name": "Aksithi Eswaran",
+  "username": "spacegirl987",
+  "title": "WCM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776557111,
+  "joined": 1592263503,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1510,
+      "date": 1776539814,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1510,
+      "date": 1660166403,
+      "game": "https://www.chess.com/game/daily/282737816"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 78740,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2109,
+      "date": 1762303931,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1656109436,
+      "game": "https://www.chess.com/game/live/27476347827"
+    },
+    "record": {
+      "win": 17,
+      "loss": 12,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2214,
+      "date": 1776537918,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1776132317,
+      "game": "https://www.chess.com/game/live/164988659336"
+    },
+    "record": {
+      "win": 675,
+      "loss": 693,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2279,
+      "date": 1776557002,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1774240429,
+      "game": "https://www.chess.com/game/live/144487146466"
+    },
+    "record": {
+      "win": 223,
+      "loss": 294,
+      "draw": 32
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2313,
+      "date": 1770829884
+    },
+    "lowest": {
+      "rating": 2056,
+      "date": 1775232276
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

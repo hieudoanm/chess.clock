@@ -1,0 +1,67 @@
+{
+  "player_id": 37998986,
+  "@id": "https://api.chess.com/pub/player/bubar",
+  "url": "https://www.chess.com/member/Bubar",
+  "name": "Robert Fakhretdinov",
+  "username": "bubar",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776575251,
+  "joined": 1503328906,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2389,
+      "date": 1630478285,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1600424671,
+      "game": "https://www.chess.com/game/live/4039978613"
+    },
+    "record": {
+      "win": 2842,
+      "loss": 2848,
+      "draw": 286
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2372,
+      "date": 1628678838,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2524,
+      "date": 1565243477,
+      "game": "https://www.chess.com/game/live/5316076475"
+    },
+    "record": {
+      "win": 934,
+      "loss": 902,
+      "draw": 171
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2299,
+      "date": 1756941893
+    },
+    "lowest": {
+      "rating": 2120,
+      "date": 1775879886
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

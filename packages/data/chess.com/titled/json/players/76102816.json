@@ -1,0 +1,104 @@
+{
+    "player_id": 76102816,
+    "@id": "https://api.chess.com/pub/player/haragas",
+    "url": "https://www.chess.com/member/Haragas",
+    "name": "Diego Sashaki Haraguchi",
+    "username": "haragas",
+    "title": "NM",
+    "followers": 50,
+    "country": "https://api.chess.com/pub/country/BR",
+    "last_online": 1763757980,
+    "joined": 1586385662,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1866,
+            "date": 1742481524,
+            "rd": 187
+        },
+        "best": {
+            "rating": 1866,
+            "date": 1697560723,
+            "game": "https://www.chess.com/game/daily/554143469"
+        },
+        "record": {
+            "win": 2,
+            "loss": 2,
+            "draw": 0,
+            "time_per_move": 30739,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2391,
+            "date": 1759427552,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2442,
+            "date": 1690000409,
+            "game": "https://www.chess.com/game/live/143602638594"
+        },
+        "record": {
+            "win": 12,
+            "loss": 9,
+            "draw": 1
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2578,
+            "date": 1754072845,
+            "rd": 45
+        },
+        "best": {
+            "rating": 2631,
+            "date": 1654565551,
+            "game": "https://www.chess.com/game/live/82575641327"
+        },
+        "record": {
+            "win": 1972,
+            "loss": 1769,
+            "draw": 277
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2673,
+            "date": 1763757973,
+            "rd": 23
+        },
+        "best": {
+            "rating": 2807,
+            "date": 1740944228,
+            "game": "https://www.chess.com/game/live/129422608363"
+        },
+        "record": {
+            "win": 4900,
+            "loss": 4744,
+            "draw": 706
+        }
+    },
+    "fide": 2187,
+    "tactics": {
+        "highest": {
+            "rating": 2339,
+            "date": 1756043259
+        },
+        "lowest": {
+            "rating": 2262,
+            "date": 1762685558
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

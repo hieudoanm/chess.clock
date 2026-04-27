@@ -1,0 +1,83 @@
+{
+  "player_id": 135373008,
+  "@id": "https://api.chess.com/pub/player/outofaces",
+  "url": "https://www.chess.com/member/OutOfAces",
+  "username": "outofaces",
+  "title": "GM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776393305,
+  "joined": 1618459372,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2590,
+      "date": 1640918528,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1640918528,
+      "game": "https://www.chess.com/game/live/34656616825"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2371,
+      "date": 1739253177,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2740,
+      "date": 1618624439,
+      "game": "https://www.chess.com/game/live/17032927785"
+    },
+    "record": {
+      "win": 185,
+      "loss": 185,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2716,
+      "date": 1757795742,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2865,
+      "date": 1732425548,
+      "game": "https://www.chess.com/game/live/129420213297"
+    },
+    "record": {
+      "win": 7180,
+      "loss": 6877,
+      "draw": 2473
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1618459372
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1618459372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

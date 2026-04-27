@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/164802745.00b2752e.200x200o.b307bad19eae.jpg",
+  "player_id": 164802745,
+  "@id": "https://api.chess.com/pub/player/blitz",
+  "url": "https://www.chess.com/member/Blitz",
+  "name": "Noah Ward",
+  "username": "blitz",
+  "title": "NM",
+  "followers": 610,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1767133009,
+  "joined": 1639444484,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1866,
+      "date": 1743064318,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1694184665,
+      "game": "https://www.chess.com/game/daily/547872823"
+    },
+    "record": {
+      "win": 257,
+      "loss": 39,
+      "draw": 11,
+      "time_per_move": 75825,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2338,
+      "date": 1690305869,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2338,
+      "date": 1684197240,
+      "game": "https://www.chess.com/game/live/62837322791"
+    },
+    "record": {
+      "win": 282,
+      "loss": 167,
+      "draw": 55
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2483,
+      "date": 1720431214,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2756,
+      "date": 1687331314,
+      "game": "https://www.chess.com/game/live/74392262021"
+    },
+    "record": {
+      "win": 6781,
+      "loss": 6499,
+      "draw": 770
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1716935275,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1683845564,
+      "game": "https://www.chess.com/game/live/77500823083"
+    },
+    "record": {
+      "win": 1245,
+      "loss": 1132,
+      "draw": 157
+    }
+  },
+  "fide": 2319,
+  "tactics": {
+    "highest": {
+      "rating": 2630,
+      "date": 1766990239
+    },
+    "lowest": {
+      "rating": 2261,
+      "date": 1766991854
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

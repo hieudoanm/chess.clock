@@ -1,0 +1,85 @@
+{
+  "player_id": 85868750,
+  "@id": "https://api.chess.com/pub/player/rat20005",
+  "url": "https://www.chess.com/member/RAT20005",
+  "name": "Ricardo Aragon",
+  "username": "rat20005",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/GT",
+  "last_online": 1774044534,
+  "joined": 1593999285,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1899,
+      "date": 1663610293,
+      "rd": 106
+    },
+    "best": {
+      "rating": 1981,
+      "date": 1605301380,
+      "game": "https://www.chess.com/game/live/5734950375"
+    },
+    "record": {
+      "win": 156,
+      "loss": 68,
+      "draw": 31
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1742,
+      "date": 1708089154,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1833,
+      "date": 1670141921,
+      "game": "https://www.chess.com/game/live/63880175027"
+    },
+    "record": {
+      "win": 61,
+      "loss": 49,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2107,
+      "date": 1720797200,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2107,
+      "date": 1720797200,
+      "game": "https://www.chess.com/game/live/9408932777"
+    },
+    "record": {
+      "win": 80,
+      "loss": 37,
+      "draw": 14
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2394,
+      "date": 1593999285
+    },
+    "lowest": {
+      "rating": 2394,
+      "date": 1593999285
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

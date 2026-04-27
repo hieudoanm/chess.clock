@@ -1,0 +1,124 @@
+{
+  "player_id": 45758762,
+  "@id": "https://api.chess.com/pub/player/chessguy_789",
+  "url": "https://www.chess.com/member/chessguy_789",
+  "name": "Kyle Yiwen Wang",
+  "username": "chessguy_789",
+  "title": "NM",
+  "followers": 153,
+  "country": "https://api.chess.com/pub/country/TV",
+  "location": "Earth",
+  "last_online": 1776574678,
+  "joined": 1525055143,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1764,
+      "date": 1763044699,
+      "rd": 156
+    },
+    "best": {
+      "rating": 1764,
+      "date": 1760298513,
+      "game": "https://www.chess.com/game/daily/248596812"
+    },
+    "record": {
+      "win": 229,
+      "loss": 95,
+      "draw": 29,
+      "time_per_move": 24437,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 754,
+      "date": 1580258272,
+      "rd": 170
+    },
+    "best": {
+      "rating": 862,
+      "date": 1532448121,
+      "game": "https://www.chess.com/game/daily/235020524"
+    },
+    "record": {
+      "win": 3,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 24437,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2072,
+      "date": 1776548074,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1667587444,
+      "game": "https://www.chess.com/game/live/21774580365"
+    },
+    "record": {
+      "win": 191,
+      "loss": 89,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2572,
+      "date": 1776480149,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2834,
+      "date": 1772043121,
+      "game": "https://www.chess.com/game/live/165472056900"
+    },
+    "record": {
+      "win": 3729,
+      "loss": 3168,
+      "draw": 476
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2559,
+      "date": 1776480893,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1768429308,
+      "game": "https://www.chess.com/game/live/145478236436"
+    },
+    "record": {
+      "win": 947,
+      "loss": 713,
+      "draw": 87
+    }
+  },
+  "fide": 2045,
+  "tactics": {
+    "highest": {
+      "rating": 2444,
+      "date": 1759780563
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1761264166
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

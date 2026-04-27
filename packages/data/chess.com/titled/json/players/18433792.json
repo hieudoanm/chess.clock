@@ -1,0 +1,80 @@
+{
+  "player_id": 18433792,
+  "@id": "https://api.chess.com/pub/player/wonderknight64",
+  "url": "https://www.chess.com/member/wonderknight64",
+  "name": "Asad Rahman",
+  "username": "wonderknight64",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1775149535,
+  "joined": 1407678502,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1742158457,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2106,
+      "date": 1768071604,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1755363875,
+      "game": "https://www.chess.com/game/live/162382627287"
+    },
+    "record": {
+      "win": 3604,
+      "loss": 3933,
+      "draw": 154
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2180,
+      "date": 1756058153,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2198,
+      "date": 1534462090,
+      "game": "https://www.chess.com/game/live/144485975249"
+    },
+    "record": {
+      "win": 4027,
+      "loss": 3396,
+      "draw": 391
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2231,
+      "date": 1772566011
+    },
+    "lowest": {
+      "rating": 2076,
+      "date": 1775148790
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

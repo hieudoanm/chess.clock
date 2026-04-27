@@ -1,0 +1,97 @@
+{
+  "player_id": 92148474,
+  "@id": "https://api.chess.com/pub/player/purepower12",
+  "url": "https://www.chess.com/member/purepower12",
+  "username": "purepower12",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1773084185,
+  "joined": 1601322321,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1759767111,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 421440,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2345,
+      "date": 1739033288,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1700210136,
+      "game": "https://www.chess.com/game/live/93547119355"
+    },
+    "record": {
+      "win": 502,
+      "loss": 351,
+      "draw": 70
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1757080907,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1735989228,
+      "game": "https://www.chess.com/game/live/132067299755"
+    },
+    "record": {
+      "win": 426,
+      "loss": 262,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2713,
+      "date": 1772912363,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2744,
+      "date": 1733497298,
+      "game": "https://www.chess.com/game/live/129905354707"
+    },
+    "record": {
+      "win": 523,
+      "loss": 391,
+      "draw": 79
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2706,
+      "date": 1757178230
+    },
+    "lowest": {
+      "rating": 2555,
+      "date": 1757079367
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

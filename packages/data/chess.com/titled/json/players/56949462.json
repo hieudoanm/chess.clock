@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/56949462.dd4ac91a.200x200o.c068e4592382.jpeg",
+  "player_id": 56949462,
+  "@id": "https://api.chess.com/pub/player/denishevm",
+  "url": "https://www.chess.com/member/DenishevM",
+  "name": "Marat Denishev",
+  "username": "denishevm",
+  "title": "FM",
+  "followers": 184,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776537627,
+  "joined": 1549320840,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1870,
+      "date": 1751185730,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1870,
+      "date": 1719563491,
+      "game": "https://www.chess.com/game/daily/595464219"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 41480,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1759339576,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1759240999,
+      "game": "https://www.chess.com/game/live/143688251680"
+    },
+    "record": {
+      "win": 9,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1776537627,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1762259029,
+      "game": "https://www.chess.com/game/live/4009293533"
+    },
+    "record": {
+      "win": 9684,
+      "loss": 7550,
+      "draw": 1350
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2865,
+      "date": 1774943498,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2878,
+      "date": 1770226243,
+      "game": "https://www.chess.com/game/live/127585859665"
+    },
+    "record": {
+      "win": 3140,
+      "loss": 2354,
+      "draw": 528
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2477,
+      "date": 1759241565
+    },
+    "lowest": {
+      "rating": 2421,
+      "date": 1755715812
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

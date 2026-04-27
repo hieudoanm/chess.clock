@@ -1,0 +1,83 @@
+{
+  "player_id": 314959501,
+  "@id": "https://api.chess.com/pub/player/anonymouscupiddust",
+  "url": "https://www.chess.com/member/AnonymousCupidDust",
+  "username": "anonymouscupiddust",
+  "title": "NM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1766571501,
+  "joined": 1695506966,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2470,
+      "date": 1761162473,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1703158016,
+      "game": "https://www.chess.com/game/live/119450441029"
+    },
+    "record": {
+      "win": 22,
+      "loss": 15,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2161,
+      "date": 1727565641,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1699824751,
+      "game": "https://www.chess.com/game/live/120835194601"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2362,
+      "date": 1763364371,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1760015611,
+      "game": "https://www.chess.com/game/live/144087237574"
+    },
+    "record": {
+      "win": 874,
+      "loss": 795,
+      "draw": 92
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1760562146
+    },
+    "lowest": {
+      "rating": 2291,
+      "date": 1760562207
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

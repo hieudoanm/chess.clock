@@ -1,0 +1,105 @@
+{
+  "player_id": 4536787,
+  "@id": "https://api.chess.com/pub/player/richardshtivelband",
+  "url": "https://www.chess.com/member/RichardShtivelband",
+  "name": "Richard Shtivelband",
+  "username": "richardshtivelband",
+  "title": "NM",
+  "followers": 688,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Denver, Colorado",
+  "last_online": 1775941382,
+  "joined": 1294719954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1502,
+      "date": 1770310017,
+      "rd": 140
+    },
+    "best": {
+      "rating": 1516,
+      "date": 1758062807,
+      "game": "https://www.chess.com/game/daily/278195226"
+    },
+    "record": {
+      "win": 20,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 7908,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2314,
+      "date": 1775749856,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2477,
+      "date": 1694981652,
+      "game": "https://www.chess.com/game/live/53983743453"
+    },
+    "record": {
+      "win": 109,
+      "loss": 35,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2082,
+      "date": 1774970338,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1707604707,
+      "game": "https://www.chess.com/game/live/17382797881"
+    },
+    "record": {
+      "win": 944,
+      "loss": 537,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 418,
+      "date": 1775941382,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1755123390,
+      "game": "https://www.chess.com/game/live/131214679557"
+    },
+    "record": {
+      "win": 18686,
+      "loss": 15486,
+      "draw": 2478
+    }
+  },
+  "fide": 2249,
+  "tactics": {
+    "highest": {
+      "rating": 2355,
+      "date": 1294719954
+    },
+    "lowest": {
+      "rating": 2355,
+      "date": 1294719954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

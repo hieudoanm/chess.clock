@@ -1,0 +1,91 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/425242777.d1650d41.200x200o.08d5c5ee44fe.jpg",
+  "player_id": 425242777,
+  "@id": "https://api.chess.com/pub/player/hannahsaycestreams",
+  "url": "https://www.chess.com/member/HannahSayceStreams",
+  "name": "Hannah Sayce",
+  "username": "hannahsaycestreams",
+  "title": "WCM",
+  "followers": 1306,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776551099,
+  "joined": 1738308813,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/hannahsayce",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/hannahsayce"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2240,
+      "date": 1776381135,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1750585218,
+      "game": "https://www.chess.com/game/live/143638868304"
+    },
+    "record": {
+      "win": 171,
+      "loss": 198,
+      "draw": 40
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2444,
+      "date": 1776547420,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1773088556,
+      "game": "https://www.chess.com/game/live/145304694560"
+    },
+    "record": {
+      "win": 2659,
+      "loss": 3057,
+      "draw": 334
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2298,
+      "date": 1776281941,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2640,
+      "date": 1739231937,
+      "game": "https://www.chess.com/game/live/165053990155"
+    },
+    "record": {
+      "win": 592,
+      "loss": 766,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2265,
+      "date": 1775783299
+    },
+    "lowest": {
+      "rating": 1997,
+      "date": 1760520719
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

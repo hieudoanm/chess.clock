@@ -1,0 +1,83 @@
+{
+  "player_id": 376266965,
+  "@id": "https://api.chess.com/pub/player/quazimodon",
+  "url": "https://www.chess.com/member/Quazimodon",
+  "username": "quazimodon",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/ZW",
+  "last_online": 1776425740,
+  "joined": 1721420033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1760179425,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2311,
+      "date": 1760179425,
+      "game": "https://www.chess.com/game/live/144161067038"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2740,
+      "date": 1758970070,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2774,
+      "date": 1750585604,
+      "game": "https://www.chess.com/game/live/139311655328"
+    },
+    "record": {
+      "win": 60,
+      "loss": 31,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1775207052,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1775206815,
+      "game": "https://www.chess.com/game/live/166798733340"
+    },
+    "record": {
+      "win": 45,
+      "loss": 14,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1851,
+      "date": 1762298752
+    },
+    "lowest": {
+      "rating": 1473,
+      "date": 1765356879
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

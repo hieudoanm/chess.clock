@@ -1,0 +1,104 @@
+{
+  "player_id": 62056728,
+  "@id": "https://api.chess.com/pub/player/alea_iac-ta_est",
+  "url": "https://www.chess.com/member/Alea_iac-ta_est",
+  "name": "Ruben Lutz",
+  "username": "alea_iac-ta_est",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776538210,
+  "joined": 1560007232,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 993,
+      "date": 1740562174,
+      "rd": 165
+    },
+    "best": {
+      "rating": 993,
+      "date": 1708970235,
+      "game": "https://www.chess.com/game/daily/589805881"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5965,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2401,
+      "date": 1725993708,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1693222961,
+      "game": "https://www.chess.com/game/live/51970803357"
+    },
+    "record": {
+      "win": 380,
+      "loss": 210,
+      "draw": 49
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2311,
+      "date": 1715776536,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2183,
+      "date": 1698314992,
+      "game": "https://www.chess.com/game/live/89990326427"
+    },
+    "record": {
+      "win": 1038,
+      "loss": 734,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2278,
+      "date": 1775330985,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2428,
+      "date": 1733641662,
+      "game": "https://www.chess.com/game/live/142982130078"
+    },
+    "record": {
+      "win": 1180,
+      "loss": 815,
+      "draw": 140
+    }
+  },
+  "fide": 2311,
+  "tactics": {
+    "highest": {
+      "rating": 2940,
+      "date": 1758918029
+    },
+    "lowest": {
+      "rating": 2609,
+      "date": 1776019803
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

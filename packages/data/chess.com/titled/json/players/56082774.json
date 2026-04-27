@@ -1,0 +1,79 @@
+{
+  "player_id": 56082774,
+  "@id": "https://api.chess.com/pub/player/jcm960",
+  "url": "https://www.chess.com/member/JCM960",
+  "name": "Jean-Claude Moingt",
+  "username": "jcm960",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776082381,
+  "joined": 1547631653,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2330,
+      "date": 1768489389,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1731445586,
+      "game": "https://www.chess.com/game/live/123701496673"
+    },
+    "record": {
+      "win": 206,
+      "loss": 86,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1893,
+      "date": 1701371236,
+      "rd": 174
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2290,
+      "date": 1769099955,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2295,
+      "date": 1768749196,
+      "game": "https://www.chess.com/game/live/4303578185"
+    },
+    "record": {
+      "win": 457,
+      "loss": 305,
+      "draw": 64
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1547631653
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1547631653
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/74021968.4e461f30.200x200o.22513bd1df9a.jpeg",
+  "player_id": 74021968,
+  "@id": "https://api.chess.com/pub/player/speshka",
+  "url": "https://www.chess.com/member/Speshka",
+  "name": "Anna Shukhman",
+  "username": "speshka",
+  "title": "WGM",
+  "followers": 199,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776596430,
+  "joined": 1584779258,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1659530944,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2182,
+      "date": 1659529851,
+      "game": "https://www.chess.com/game/live/52640410021"
+    },
+    "record": {
+      "win": 16,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2638,
+      "date": 1774012497,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1771075131,
+      "game": "https://www.chess.com/game/live/165847942062"
+    },
+    "record": {
+      "win": 200,
+      "loss": 96,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2761,
+      "date": 1776432101,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2821,
+      "date": 1748969172,
+      "game": "https://www.chess.com/game/live/168077419177"
+    },
+    "record": {
+      "win": 856,
+      "loss": 629,
+      "draw": 175
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2856,
+      "date": 1772198793
+    },
+    "lowest": {
+      "rating": 2391,
+      "date": 1767620084
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "player_id": 444674383,
+  "@id": "https://api.chess.com/pub/player/liverpool_444",
+  "url": "https://www.chess.com/member/Liverpool_444",
+  "username": "liverpool_444",
+  "title": "IM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1755619782,
+  "joined": 1744646234,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2366,
+      "date": 1744975060,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2572,
+      "date": 1755626631,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2615,
+      "date": 1755159396,
+      "game": "https://www.chess.com/game/live/141827820076"
+    },
+    "record": {
+      "win": 354,
+      "loss": 373,
+      "draw": 64
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1453,
+      "date": 1744646234
+    },
+    "lowest": {
+      "rating": 1453,
+      "date": 1744646234
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 33
+    }
+  }
+}

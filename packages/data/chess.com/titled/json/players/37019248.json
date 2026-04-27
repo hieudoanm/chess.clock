@@ -1,0 +1,98 @@
+{
+  "player_id": 37019248,
+  "@id": "https://api.chess.com/pub/player/fore_man",
+  "url": "https://www.chess.com/member/Fore_Man",
+  "name": "Pavel Kiselev",
+  "username": "fore_man",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1738870248,
+  "joined": 1500012859,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1704817910,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 251488,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2053,
+      "date": 1708365219,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1636466344,
+      "game": "https://www.chess.com/game/live/65365186319"
+    },
+    "record": {
+      "win": 9,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2223,
+      "date": 1729756578,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2301,
+      "date": 1720011290,
+      "game": "https://www.chess.com/game/live/92253770651"
+    },
+    "record": {
+      "win": 139,
+      "loss": 269,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2332,
+      "date": 1726611303,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1703009143,
+      "game": "https://www.chess.com/game/live/115514351451"
+    },
+    "record": {
+      "win": 654,
+      "loss": 706,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1500012859
+    },
+    "lowest": {
+      "rating": 2407,
+      "date": 1500012859
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

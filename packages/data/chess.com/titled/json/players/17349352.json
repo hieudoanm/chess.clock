@@ -1,0 +1,125 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17349352.0efeb545.200x200o.853d997f0b98.jpeg",
+  "player_id": 17349352,
+  "@id": "https://api.chess.com/pub/player/svmind",
+  "url": "https://www.chess.com/member/svmind",
+  "name": "Michael Wang",
+  "username": "svmind",
+  "title": "NM",
+  "followers": 48,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "California",
+  "last_online": 1747803538,
+  "joined": 1400430507,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1797,
+      "date": 1613254901,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2123,
+      "date": 1438015640,
+      "game": "https://www.chess.com/game/daily/130691402"
+    },
+    "record": {
+      "win": 119,
+      "loss": 90,
+      "draw": 43,
+      "time_per_move": 24666,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1795,
+      "date": 1457024703,
+      "rd": 89
+    },
+    "best": {
+      "rating": 1880,
+      "date": 1452102510,
+      "game": "https://www.chess.com/game/daily/128555210"
+    },
+    "record": {
+      "win": 18,
+      "loss": 8,
+      "draw": 4,
+      "time_per_move": 24666,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2156,
+      "date": 1612142290,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1410754542,
+      "game": "https://www.chess.com/game/live/6398840950"
+    },
+    "record": {
+      "win": 13,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2312,
+      "date": 1605247617,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1605143741,
+      "game": "https://www.chess.com/game/live/5728731675"
+    },
+    "record": {
+      "win": 14,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2321,
+      "date": 1723069238,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1706955152,
+      "game": "https://www.chess.com/game/live/4646480920"
+    },
+    "record": {
+      "win": 237,
+      "loss": 183,
+      "draw": 32
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1400430507
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1400430507
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

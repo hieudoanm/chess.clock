@@ -1,0 +1,105 @@
+{
+  "player_id": 20131550,
+  "@id": "https://api.chess.com/pub/player/gomeschess02",
+  "url": "https://www.chess.com/member/gomeschess02",
+  "name": "Ganesh Murugappan",
+  "username": "gomeschess02",
+  "title": "NM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Georgia",
+  "last_online": 1776470888,
+  "joined": 1418336296,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1706653821,
+      "rd": 343
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1418336296,
+      "game": "https://www.chess.com/game/daily/266507962"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 30935,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2167,
+      "date": 1767333891,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2172,
+      "date": 1700536688,
+      "game": "https://www.chess.com/game/live/72923126665"
+    },
+    "record": {
+      "win": 41,
+      "loss": 24,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1943,
+      "date": 1773617270,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2180,
+      "date": 1671319325,
+      "game": "https://www.chess.com/game/live/65058046829"
+    },
+    "record": {
+      "win": 651,
+      "loss": 487,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2078,
+      "date": 1773617125,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1697319339,
+      "game": "https://www.chess.com/game/live/101925813313"
+    },
+    "record": {
+      "win": 545,
+      "loss": 462,
+      "draw": 48
+    }
+  },
+  "fide": 2157,
+  "tactics": {
+    "highest": {
+      "rating": 2555,
+      "date": 1418336296
+    },
+    "lowest": {
+      "rating": 2555,
+      "date": 1418336296
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

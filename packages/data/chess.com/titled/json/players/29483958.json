@@ -1,0 +1,84 @@
+{
+  "player_id": 29483958,
+  "@id": "https://api.chess.com/pub/player/guenplen",
+  "url": "https://www.chess.com/member/Guenplen",
+  "name": "Boris Grachev",
+  "username": "guenplen",
+  "title": "GM",
+  "followers": 113,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775296035,
+  "joined": 1471218816,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2578,
+      "date": 1590865408,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1590861587,
+      "game": "https://www.chess.com/game/live/4929517187"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2981,
+      "date": 1598988195,
+      "rd": 60
+    },
+    "best": {
+      "rating": 3013,
+      "date": 1554319177,
+      "game": "https://www.chess.com/game/live/3649981046"
+    },
+    "record": {
+      "win": 753,
+      "loss": 378,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2959,
+      "date": 1681204008,
+      "rd": 121
+    },
+    "best": {
+      "rating": 3003,
+      "date": 1568762238,
+      "game": "https://www.chess.com/game/live/4945113148"
+    },
+    "record": {
+      "win": 1146,
+      "loss": 513,
+      "draw": 254
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2760,
+      "date": 1471218816
+    },
+    "lowest": {
+      "rating": 2760,
+      "date": 1471218816
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

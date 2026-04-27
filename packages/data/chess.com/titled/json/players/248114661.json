@@ -1,0 +1,84 @@
+{
+  "player_id": 248114661,
+  "@id": "https://api.chess.com/pub/player/amhalm",
+  "url": "https://www.chess.com/member/AmHalm",
+  "username": "amhalm",
+  "title": "NM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776557541,
+  "joined": 1676664877,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1720296931,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1720295590,
+      "game": "https://www.chess.com/game/live/77669473497"
+    },
+    "record": {
+      "win": 181,
+      "loss": 32,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1701261345,
+      "rd": 27
+    },
+    "best": {
+      "rating": 1933,
+      "date": 1679690848,
+      "game": "https://www.chess.com/game/live/73429871743"
+    },
+    "record": {
+      "win": 298,
+      "loss": 277,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1911,
+      "date": 1775511834,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2058,
+      "date": 1755532129,
+      "game": "https://www.chess.com/game/live/77396065249"
+    },
+    "record": {
+      "win": 807,
+      "loss": 717,
+      "draw": 134
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2449,
+      "date": 1758606507
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1762723506
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

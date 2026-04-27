@@ -1,0 +1,66 @@
+{
+  "player_id": 416493871,
+  "@id": "https://api.chess.com/pub/player/mrbrown6424",
+  "url": "https://www.chess.com/member/MrBrown6424",
+  "username": "mrbrown6424",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776549386,
+  "joined": 1736463199,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2706,
+      "date": 1775678813,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1775678676,
+      "game": "https://www.chess.com/game/live/166431306912"
+    },
+    "record": {
+      "win": 184,
+      "loss": 159,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2666,
+      "date": 1776549378,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2795,
+      "date": 1750611335,
+      "game": "https://www.chess.com/game/live/165368431028"
+    },
+    "record": {
+      "win": 450,
+      "loss": 418,
+      "draw": 96
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2406,
+      "date": 1755687611
+    },
+    "lowest": {
+      "rating": 2202,
+      "date": 1771462456
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

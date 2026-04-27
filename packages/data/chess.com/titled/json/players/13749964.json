@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13749964.202bf29f.200x200o.4e3688ff012a.jpeg",
+  "player_id": 13749964,
+  "@id": "https://api.chess.com/pub/player/mrhenriksson",
+  "url": "https://www.chess.com/member/MrHenriksson",
+  "name": "Johan Henriksson",
+  "username": "mrhenriksson",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Stockholm",
+  "last_online": 1776548765,
+  "joined": 1380741292,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2472,
+      "date": 1595924900,
+      "rd": 236
+    },
+    "best": {
+      "rating": 2472,
+      "date": 1564332987,
+      "game": "https://www.chess.com/game/daily/123581190"
+    },
+    "record": {
+      "win": 85,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 8166,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2454,
+      "date": 1427108848,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2454,
+      "date": 1427108848,
+      "game": "https://www.chess.com/game/live/1088225580"
+    },
+    "record": {
+      "win": 20,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2107,
+      "date": 1774173951,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1772685048,
+      "game": "https://www.chess.com/game/live/133126760619"
+    },
+    "record": {
+      "win": 180,
+      "loss": 106,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2450,
+      "date": 1776398394,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2496,
+      "date": 1753006016,
+      "game": "https://www.chess.com/game/live/91741714501"
+    },
+    "record": {
+      "win": 11111,
+      "loss": 7848,
+      "draw": 1996
+    }
+  },
+  "fide": 2286,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1380741292
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1380741292
+    }
+  },
+  "puzzle_rush": {}
+}

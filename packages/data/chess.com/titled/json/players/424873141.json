@@ -1,0 +1,79 @@
+{
+  "player_id": 424873141,
+  "@id": "https://api.chess.com/pub/player/jano",
+  "url": "https://www.chess.com/member/Jano",
+  "name": "Irakli Janiashvili",
+  "username": "jano",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1772910287,
+  "joined": 1738180318,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2173,
+      "date": 1738186368
+    },
+    "best": {
+      "rating": 2010,
+      "date": 1738186368,
+      "game": "https://www.chess.com/game/live/131924397159"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2527,
+      "date": 1738529719,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1738186869,
+      "game": "https://www.chess.com/game/live/132267016045"
+    },
+    "record": {
+      "win": 10,
+      "loss": 16,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2461,
+      "date": 1772910274,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2565,
+      "date": 1770588337,
+      "game": "https://www.chess.com/game/live/143184498376"
+    },
+    "record": {
+      "win": 136,
+      "loss": 125,
+      "draw": 16
+    }
+  },
+  "fide": 2173,
+  "tactics": {
+    "highest": {
+      "rating": 1992,
+      "date": 1757156879
+    },
+    "lowest": {
+      "rating": 1712,
+      "date": 1757156583
+    }
+  },
+  "puzzle_rush": {}
+}

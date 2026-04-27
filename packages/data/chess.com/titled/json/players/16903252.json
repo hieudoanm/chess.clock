@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16903252.14604527.200x200o.f1eb0e4e9937.jpeg",
+  "player_id": 16903252,
+  "@id": "https://api.chess.com/pub/player/sergey_kasparov",
+  "url": "https://www.chess.com/member/Sergey_Kasparov",
+  "name": "Sergey Kasparov",
+  "username": "sergey_kasparov",
+  "title": "GM",
+  "followers": 670,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Mogilev",
+  "last_online": 1740661718,
+  "joined": 1397509085,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 672,
+      "date": 1740938339,
+      "rd": 260
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1397509085,
+      "game": "https://www.chess.com/game/daily/710538787"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 5773,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2538,
+      "date": 1600353209,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1599738437,
+      "game": "https://www.chess.com/game/live/4604298404"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2445,
+      "date": 1702063196,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2445,
+      "date": 1702063196,
+      "game": "https://www.chess.com/game/live/95801736379"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2666,
+      "date": 1739543110,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1653079506,
+      "game": "https://www.chess.com/game/live/6029228358"
+    },
+    "record": {
+      "win": 1204,
+      "loss": 1271,
+      "draw": 474
+    }
+  },
+  "fide": 2465,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1397509085
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1397509085
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

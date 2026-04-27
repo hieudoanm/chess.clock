@@ -1,0 +1,113 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2741513.0e35b5c6.200x200o.c8602e4cd296.jpeg",
+  "player_id": 2741513,
+  "@id": "https://api.chess.com/pub/player/vb84",
+  "url": "https://www.chess.com/member/VB84",
+  "name": "Vladimir Belov",
+  "username": "vb84",
+  "title": "GM",
+  "followers": 190,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776492096,
+  "joined": 1271937775,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/belovchess",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/belovchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2084,
+      "date": 1591913231,
+      "rd": 205
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1278744892,
+      "game": "https://www.chess.com/game/daily/31238026"
+    },
+    "record": {
+      "win": 11,
+      "loss": 6,
+      "draw": 1,
+      "time_per_move": 57230,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1413,
+      "date": 1403170471,
+      "rd": 276
+    },
+    "best": {
+      "rating": 1413,
+      "date": 1403170471,
+      "game": "https://www.chess.com/game/daily/91742618"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 57230,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2704,
+      "date": 1774170680,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2839,
+      "date": 1613497926,
+      "game": "https://www.chess.com/game/live/35070642803"
+    },
+    "record": {
+      "win": 190,
+      "loss": 100,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2812,
+      "date": 1763982178,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2812,
+      "date": 1763982178,
+      "game": "https://www.chess.com/game/live/54404451653"
+    },
+    "record": {
+      "win": 247,
+      "loss": 118,
+      "draw": 42
+    }
+  },
+  "fide": 2598,
+  "tactics": {
+    "highest": {
+      "rating": 2478,
+      "date": 1271937775
+    },
+    "lowest": {
+      "rating": 2478,
+      "date": 1271937775
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

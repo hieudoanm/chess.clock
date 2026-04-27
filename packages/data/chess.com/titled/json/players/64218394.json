@@ -1,0 +1,67 @@
+{
+  "player_id": 64218394,
+  "@id": "https://api.chess.com/pub/player/denextworldchamp",
+  "url": "https://www.chess.com/member/denextworldchamp",
+  "name": "Ariel Erenberg",
+  "username": "denextworldchamp",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1730101061,
+  "joined": 1565606014,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2549,
+      "date": 1730101540,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1634902523,
+      "game": "https://www.chess.com/game/live/123840030585"
+    },
+    "record": {
+      "win": 33,
+      "loss": 26,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2727,
+      "date": 1719854567,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2858,
+      "date": 1658790364,
+      "game": "https://www.chess.com/game/live/81910835151"
+    },
+    "record": {
+      "win": 932,
+      "loss": 838,
+      "draw": 128
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2534,
+      "date": 1565606014
+    },
+    "lowest": {
+      "rating": 2534,
+      "date": 1565606014
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 1,
+      "score": 0
+    }
+  }
+}

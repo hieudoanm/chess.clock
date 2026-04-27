@@ -1,0 +1,104 @@
+{
+  "player_id": 33953888,
+  "@id": "https://api.chess.com/pub/player/pezyr",
+  "url": "https://www.chess.com/member/Pezyr",
+  "name": "Petar Kova\u010d",
+  "username": "pezyr",
+  "title": "FM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1769939793,
+  "joined": 1489489863,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1077,
+      "date": 1758716573,
+      "rd": 279
+    },
+    "best": {
+      "rating": 1077,
+      "date": 1736487870,
+      "game": "https://www.chess.com/game/daily/753641057"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12744,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2529,
+      "date": 1761946583,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1761946583,
+      "game": "https://www.chess.com/game/live/98904830777"
+    },
+    "record": {
+      "win": 24,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2760,
+      "date": 1766065514,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2806,
+      "date": 1765465020,
+      "game": "https://www.chess.com/game/live/146587814564"
+    },
+    "record": {
+      "win": 189,
+      "loss": 77,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2644,
+      "date": 1769940388,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1750948043,
+      "game": "https://www.chess.com/game/live/140025233184"
+    },
+    "record": {
+      "win": 3106,
+      "loss": 2371,
+      "draw": 348
+    }
+  },
+  "fide": 2259,
+  "tactics": {
+    "highest": {
+      "rating": 2691,
+      "date": 1759073803
+    },
+    "lowest": {
+      "rating": 2669,
+      "date": 1755601262
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 11694562,
+  "@id": "https://api.chess.com/pub/player/chesschronicles123",
+  "url": "https://www.chess.com/member/ChessChronicles123",
+  "username": "chesschronicles123",
+  "title": "CM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1770695360,
+  "joined": 1367208537,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1377,
+      "date": 1770695331,
+      "rd": 232
+    },
+    "best": {
+      "rating": 1704,
+      "date": 1429663788,
+      "game": "https://www.chess.com/game/live/545916702"
+    },
+    "record": {
+      "win": 92,
+      "loss": 94,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2113,
+      "date": 1742079808,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1738591135,
+      "game": "https://www.chess.com/game/live/132330037043"
+    },
+    "record": {
+      "win": 326,
+      "loss": 219,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2188,
+      "date": 1764609337,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2234,
+      "date": 1749528731,
+      "game": "https://www.chess.com/game/live/140752270964"
+    },
+    "record": {
+      "win": 1951,
+      "loss": 1797,
+      "draw": 199
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2419,
+      "date": 1367208537
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1367208537
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

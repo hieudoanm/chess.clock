@@ -1,0 +1,111 @@
+{
+  "player_id": 34769966,
+  "@id": "https://api.chess.com/pub/player/fclitras",
+  "url": "https://www.chess.com/member/FCLitras",
+  "name": "Juras Mickevicius",
+  "username": "fclitras",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/LT",
+  "location": "Vilnius",
+  "last_online": 1776594767,
+  "joined": 1492179500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1828,
+      "date": 1776585479,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1660291205,
+      "game": "https://www.chess.com/game/daily/417863407"
+    },
+    "record": {
+      "win": 304,
+      "loss": 44,
+      "draw": 32,
+      "time_per_move": 18071,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 3
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2295,
+      "date": 1735734499,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2298,
+      "date": 1613322690,
+      "game": "https://www.chess.com/game/live/4929517243"
+    },
+    "record": {
+      "win": 26,
+      "loss": 9,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2386,
+      "date": 1735232451,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1728065122,
+      "game": "https://www.chess.com/game/live/121802977931"
+    },
+    "record": {
+      "win": 33,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2519,
+      "date": 1767552703,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1703592857,
+      "game": "https://www.chess.com/game/live/128977403975"
+    },
+    "record": {
+      "win": 2459,
+      "loss": 1668,
+      "draw": 470
+    }
+  },
+  "fide": 2295,
+  "tactics": {
+    "highest": {
+      "rating": 2345,
+      "date": 1492179500
+    },
+    "lowest": {
+      "rating": 2345,
+      "date": 1492179500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

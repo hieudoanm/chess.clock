@@ -1,0 +1,80 @@
+{
+  "player_id": 19350308,
+  "@id": "https://api.chess.com/pub/player/mhebden",
+  "url": "https://www.chess.com/member/mhebden",
+  "name": "Mark L Hebden",
+  "username": "mhebden",
+  "title": "GM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Leicester",
+  "last_online": 1759580903,
+  "joined": 1413621996,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2061,
+      "date": 1628280712,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1608586221,
+      "game": "https://www.chess.com/game/live/5924625176"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2445,
+      "date": 1443174646,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1442748508,
+      "game": "https://www.chess.com/game/live/1277057494"
+    },
+    "record": {
+      "win": 89,
+      "loss": 46,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2497,
+      "date": 1727744669,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1589033631,
+      "game": "https://www.chess.com/game/live/42309007669"
+    },
+    "record": {
+      "win": 649,
+      "loss": 205,
+      "draw": 62
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1413621996
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1413621996
+    }
+  },
+  "puzzle_rush": {}
+}

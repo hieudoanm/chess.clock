@@ -1,0 +1,85 @@
+{
+  "player_id": 27041590,
+  "@id": "https://api.chess.com/pub/player/shaheus",
+  "url": "https://www.chess.com/member/shaheus",
+  "name": "Alexey Lizlov",
+  "username": "shaheus",
+  "title": "FM",
+  "followers": 84,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1696203395,
+  "joined": 1456982922,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1647878183,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1606240434,
+      "game": "https://www.chess.com/game/live/6315545522"
+    },
+    "record": {
+      "win": 302,
+      "loss": 142,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2037,
+      "date": 1609652312,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1608212270,
+      "game": "https://www.chess.com/game/live/5988949838"
+    },
+    "record": {
+      "win": 668,
+      "loss": 605,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2231,
+      "date": 1672829429,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2460,
+      "date": 1614106557,
+      "game": "https://www.chess.com/game/live/6354639888"
+    },
+    "record": {
+      "win": 10850,
+      "loss": 9575,
+      "draw": 1076
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2332,
+      "date": 1456982922
+    },
+    "lowest": {
+      "rating": 2332,
+      "date": 1456982922
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

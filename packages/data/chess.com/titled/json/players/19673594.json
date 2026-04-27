@@ -1,0 +1,88 @@
+{
+  "player_id": 19673594,
+  "@id": "https://api.chess.com/pub/player/sergivila",
+  "url": "https://www.chess.com/member/sergivila",
+  "name": "Sergi Mingarro Carceller",
+  "username": "sergivila",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Vila-real",
+  "last_online": 1755619926,
+  "joined": 1415722111,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 899,
+      "date": 1746389998,
+      "rd": 138
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1415722111,
+      "game": "https://www.chess.com/game/daily/767618143"
+    },
+    "record": {
+      "win": 12,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5477,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2485,
+      "date": 1749258909,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1600535123,
+      "game": "https://www.chess.com/game/live/46636197183"
+    },
+    "record": {
+      "win": 43,
+      "loss": 38,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2475,
+      "date": 1755620263,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1751803989,
+      "game": "https://www.chess.com/game/live/5283514049"
+    },
+    "record": {
+      "win": 1402,
+      "loss": 1169,
+      "draw": 142
+    }
+  },
+  "fide": 2361,
+  "tactics": {
+    "highest": {
+      "rating": 2456,
+      "date": 1415722111
+    },
+    "lowest": {
+      "rating": 2456,
+      "date": 1415722111
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

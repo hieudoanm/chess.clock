@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/3764413.714cd587.200x200o.a0901ef27558.jpeg",
+  "player_id": 3764413,
+  "@id": "https://api.chess.com/pub/player/crush",
+  "url": "https://www.chess.com/member/crush",
+  "username": "crush",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/EU",
+  "last_online": 1776338582,
+  "joined": 1280442876,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1711378204,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1296655434,
+      "game": "https://www.chess.com/game/daily/41287235"
+    },
+    "record": {
+      "win": 110,
+      "loss": 91,
+      "draw": 16,
+      "time_per_move": 6425,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2042,
+      "date": 1694811667,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2174,
+      "date": 1647824644,
+      "game": "https://www.chess.com/game/live/48977383661"
+    },
+    "record": {
+      "win": 14,
+      "loss": 4,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1366,
+      "date": 1688227439,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1389513600,
+      "game": "https://www.chess.com/game/live/48919192595"
+    },
+    "record": {
+      "win": 111,
+      "loss": 101,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1421,
+      "date": 1695508245,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2159,
+      "date": 1655181062,
+      "game": "https://www.chess.com/game/live/49147145999"
+    },
+    "record": {
+      "win": 39,
+      "loss": 52,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1870,
+      "date": 1280442876
+    },
+    "lowest": {
+      "rating": 1870,
+      "date": 1280442876
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 15
+    }
+  }
+}

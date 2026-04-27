@@ -1,0 +1,87 @@
+{
+  "player_id": 46144828,
+  "@id": "https://api.chess.com/pub/player/xeih",
+  "url": "https://www.chess.com/member/XeiH",
+  "name": "Alexis Herrera",
+  "username": "xeih",
+  "title": "NM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776520657,
+  "joined": 1526215174,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1879,
+      "date": 1737624549,
+      "rd": 122
+    },
+    "best": {
+      "rating": 1920,
+      "date": 1559082048,
+      "game": "https://www.chess.com/game/daily/195618278"
+    },
+    "record": {
+      "win": 18,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 3744,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2172,
+      "date": 1711086732,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2172,
+      "date": 1711085199,
+      "game": "https://www.chess.com/game/live/3893766459"
+    },
+    "record": {
+      "win": 54,
+      "loss": 34,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2506,
+      "date": 1775213649,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2506,
+      "date": 1775213649,
+      "game": "https://www.chess.com/game/live/89881814525"
+    },
+    "record": {
+      "win": 1602,
+      "loss": 1594,
+      "draw": 255
+    }
+  },
+  "fide": 2104,
+  "tactics": {
+    "highest": {
+      "rating": 2426,
+      "date": 1526215174
+    },
+    "lowest": {
+      "rating": 2426,
+      "date": 1526215174
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "player_id": 6124742,
+  "@id": "https://api.chess.com/pub/player/grandmasta23",
+  "url": "https://www.chess.com/member/Grandmasta23",
+  "name": "Bryson Gregory",
+  "username": "grandmasta23",
+  "title": "NM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Phoenix",
+  "last_online": 1776498343,
+  "joined": 1321312675,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1964,
+      "date": 1776498332,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2061,
+      "date": 1649314939,
+      "game": "https://www.chess.com/game/daily/56203556"
+    },
+    "record": {
+      "win": 385,
+      "loss": 169,
+      "draw": 16,
+      "time_per_move": 42762,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1787,
+      "date": 1687380902,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1836,
+      "date": 1676488876,
+      "game": "https://www.chess.com/game/daily/367948281"
+    },
+    "record": {
+      "win": 33,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 42762,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2003,
+      "date": 1611174378,
+      "rd": 237
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1611174378,
+      "game": "https://www.chess.com/game/live/1089022477"
+    },
+    "record": {
+      "win": 203,
+      "loss": 134,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1954,
+      "date": 1758850466,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1617901670,
+      "game": "https://www.chess.com/game/live/3151296050"
+    },
+    "record": {
+      "win": 2007,
+      "loss": 1541,
+      "draw": 124
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1911,
+      "date": 1775782104,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1584413553,
+      "game": "https://www.chess.com/game/live/3911405632"
+    },
+    "record": {
+      "win": 1962,
+      "loss": 1411,
+      "draw": 124
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1776458678
+    },
+    "lowest": {
+      "rating": 2347,
+      "date": 1776458678
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

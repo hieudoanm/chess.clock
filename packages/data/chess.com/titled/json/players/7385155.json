@@ -1,0 +1,105 @@
+{
+  "player_id": 7385155,
+  "@id": "https://api.chess.com/pub/player/ondoko",
+  "url": "https://www.chess.com/member/ondoko",
+  "name": "Martin Ondrus",
+  "username": "ondoko",
+  "title": "FM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/SK",
+  "location": "Prague, Czech Republic",
+  "last_online": 1776592069,
+  "joined": 1335215035,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1854,
+      "date": 1760463491,
+      "rd": 80
+    },
+    "best": {
+      "rating": 1855,
+      "date": 1598091003,
+      "game": "https://www.chess.com/game/daily/275108572"
+    },
+    "record": {
+      "win": 108,
+      "loss": 9,
+      "draw": 6,
+      "time_per_move": 2947,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1682,
+      "date": 1338375817,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1701,
+      "date": 1337706355,
+      "game": "https://www.chess.com/game/live/300667556"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2212,
+      "date": 1761327445,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1520951256,
+      "game": "https://www.chess.com/game/live/2678717388"
+    },
+    "record": {
+      "win": 1511,
+      "loss": 1186,
+      "draw": 72
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2385,
+      "date": 1776592058,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1763673408,
+      "game": "https://www.chess.com/game/live/164268551616"
+    },
+    "record": {
+      "win": 8760,
+      "loss": 7627,
+      "draw": 749
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2354,
+      "date": 1756912733
+    },
+    "lowest": {
+      "rating": 2204,
+      "date": 1769892399
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

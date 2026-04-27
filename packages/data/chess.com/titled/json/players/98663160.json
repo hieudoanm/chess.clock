@@ -1,0 +1,81 @@
+{
+  "player_id": 98663160,
+  "@id": "https://api.chess.com/pub/player/ybruned",
+  "url": "https://www.chess.com/member/ybruned",
+  "name": "Yvain Bruned",
+  "username": "ybruned",
+  "title": "FM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Nancy",
+  "last_online": 1775747080,
+  "joined": 1606081466,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1794,
+      "date": 1622058970,
+      "rd": 310
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2517,
+      "date": 1767793733,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1766072421,
+      "game": "https://www.chess.com/game/live/129149578621"
+    },
+    "record": {
+      "win": 4629,
+      "loss": 4820,
+      "draw": 831
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2458,
+      "date": 1775746956,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1702134878,
+      "game": "https://www.chess.com/game/live/28142448691"
+    },
+    "record": {
+      "win": 428,
+      "loss": 361,
+      "draw": 145
+    }
+  },
+  "fide": 2286,
+  "tactics": {
+    "highest": {
+      "rating": 1726,
+      "date": 1606081466
+    },
+    "lowest": {
+      "rating": 1726,
+      "date": 1606081466
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

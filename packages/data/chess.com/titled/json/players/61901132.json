@@ -1,0 +1,101 @@
+{
+  "player_id": 61901132,
+  "@id": "https://api.chess.com/pub/player/pgrj",
+  "url": "https://www.chess.com/member/pgrj",
+  "username": "pgrj",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776339009,
+  "joined": 1559650977,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 757,
+      "date": 1671355734,
+      "rd": 128
+    },
+    "best": {
+      "rating": 1400,
+      "date": 1559650977,
+      "game": "https://www.chess.com/game/daily/371852723"
+    },
+    "record": {
+      "win": 4,
+      "loss": 13,
+      "draw": 0,
+      "time_per_move": 24795,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2095,
+      "date": 1639743382,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2095,
+      "date": 1639740818,
+      "game": "https://www.chess.com/game/live/32387389357"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1292,
+      "date": 1638620691,
+      "rd": 144
+    },
+    "best": {
+      "rating": 1702,
+      "date": 1638619737,
+      "game": "https://www.chess.com/game/live/32358601871"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1564,
+      "date": 1639333110,
+      "rd": 176
+    },
+    "best": {
+      "rating": 1564,
+      "date": 1639333110,
+      "game": "https://www.chess.com/game/live/33071450035"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2350,
+      "date": 1559650977
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1559650977
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

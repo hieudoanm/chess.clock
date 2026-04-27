@@ -1,0 +1,84 @@
+{
+  "player_id": 53987982,
+  "@id": "https://api.chess.com/pub/player/babuto",
+  "url": "https://www.chess.com/member/Babuto",
+  "username": "babuto",
+  "title": "IM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/ER",
+  "last_online": 1776572784,
+  "joined": 1545390828,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2501,
+      "date": 1758701243,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1758007462,
+      "game": "https://www.chess.com/game/live/142794600558"
+    },
+    "record": {
+      "win": 25,
+      "loss": 16,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2786,
+      "date": 1572685472,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1572685472,
+      "game": "https://www.chess.com/game/live/3453402375"
+    },
+    "record": {
+      "win": 984,
+      "loss": 1074,
+      "draw": 118
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2467,
+      "date": 1776514044,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2729,
+      "date": 1699626899,
+      "game": "https://www.chess.com/game/live/93364151319"
+    },
+    "record": {
+      "win": 4439,
+      "loss": 5496,
+      "draw": 639
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2789,
+      "date": 1755788268
+    },
+    "lowest": {
+      "rating": 2684,
+      "date": 1767255156
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

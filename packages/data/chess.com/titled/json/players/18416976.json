@@ -1,0 +1,107 @@
+{
+  "player_id": 18416976,
+  "@id": "https://api.chess.com/pub/player/mountthief",
+  "url": "https://www.chess.com/member/MountThief",
+  "name": "Fabian Baenziger",
+  "username": "mountthief",
+  "title": "IM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776588560,
+  "joined": 1407579152,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1572,
+      "date": 1708939705,
+      "rd": 66
+    },
+    "best": {
+      "rating": 1836,
+      "date": 1460214327,
+      "game": "https://www.chess.com/game/daily/129939036"
+    },
+    "record": {
+      "win": 25,
+      "loss": 27,
+      "draw": 4,
+      "time_per_move": 21750,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2241,
+      "date": 1771066111,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2241,
+      "date": 1639148978,
+      "game": "https://www.chess.com/game/live/24495711047"
+    },
+    "record": {
+      "win": 28,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2760,
+      "date": 1776418616,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1762536482,
+      "game": "https://www.chess.com/game/live/139259465188"
+    },
+    "record": {
+      "win": 556,
+      "loss": 379,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2900,
+      "date": 1758118515,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2914,
+      "date": 1754643581,
+      "game": "https://www.chess.com/game/live/107687537375"
+    },
+    "record": {
+      "win": 3542,
+      "loss": 2594,
+      "draw": 640
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2681,
+      "date": 1776239862
+    },
+    "lowest": {
+      "rating": 2572,
+      "date": 1755798234
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 86,
+      "score": 83
+    },
+    "daily": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

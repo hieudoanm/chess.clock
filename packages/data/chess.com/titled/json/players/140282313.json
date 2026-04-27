@@ -1,0 +1,92 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/140282313.21e723db.200x200o.5814d926addb.jpeg",
+  "player_id": 140282313,
+  "@id": "https://api.chess.com/pub/player/ajedrezjulben",
+  "url": "https://www.chess.com/member/AjedrezJulben",
+  "name": "Julio Benedetti",
+  "username": "ajedrezjulben",
+  "title": "IM",
+  "followers": 365,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1776501745,
+  "joined": 1621007054,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/mijuliobenedetti",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/mijuliobenedetti"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 1971,
+      "date": 1728557499,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2474,
+      "date": 1692896138,
+      "game": "https://www.chess.com/game/live/122295568677"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2736,
+      "date": 1775848144,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2798,
+      "date": 1763023968,
+      "game": "https://www.chess.com/game/live/147513195786"
+    },
+    "record": {
+      "win": 213,
+      "loss": 230,
+      "draw": 42
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2595,
+      "date": 1774434984,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1683134223,
+      "game": "https://www.chess.com/game/live/85850506523"
+    },
+    "record": {
+      "win": 207,
+      "loss": 160,
+      "draw": 28
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2123,
+      "date": 1775761688
+    },
+    "lowest": {
+      "rating": 1941,
+      "date": 1756195925
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

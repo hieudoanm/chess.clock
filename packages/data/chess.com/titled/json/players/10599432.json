@@ -1,0 +1,123 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10599432.67a4a6a3.200x200o.dec78dd5fa95.jpg",
+  "player_id": 10599432,
+  "@id": "https://api.chess.com/pub/player/andante",
+  "url": "https://www.chess.com/member/andante",
+  "name": "Nelson Castaneda",
+  "username": "andante",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New Britain, CT",
+  "last_online": 1776337523,
+  "joined": 1359313240,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2137,
+      "date": 1705512035,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1394650472,
+      "game": "https://www.chess.com/game/daily/100459226"
+    },
+    "record": {
+      "win": 1106,
+      "loss": 601,
+      "draw": 204,
+      "time_per_move": 10582,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2049,
+      "date": 1526983512,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1385122246,
+      "game": "https://www.chess.com/game/daily/76666842"
+    },
+    "record": {
+      "win": 26,
+      "loss": 16,
+      "draw": 3,
+      "time_per_move": 10582,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1972,
+      "date": 1611121444,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1584748141,
+      "game": "https://www.chess.com/game/live/6093603912"
+    },
+    "record": {
+      "win": 64,
+      "loss": 14,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2207,
+      "date": 1514402932,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1420573224,
+      "game": "https://www.chess.com/game/live/1021546650"
+    },
+    "record": {
+      "win": 786,
+      "loss": 570,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2014,
+      "date": 1611086820,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1585701760,
+      "game": "https://www.chess.com/game/live/3341763412"
+    },
+    "record": {
+      "win": 2529,
+      "loss": 1822,
+      "draw": 179
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2478,
+      "date": 1359313240
+    },
+    "lowest": {
+      "rating": 2478,
+      "date": 1359313240
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 31,
+      "score": 28
+    }
+  }
+}

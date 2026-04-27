@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28520558.2437acda.200x200o.8660a10e3fb7.png",
+  "player_id": 28520558,
+  "@id": "https://api.chess.com/pub/player/gennady_kozlov",
+  "url": "https://www.chess.com/member/Gennady_Kozlov",
+  "name": "Gennady Kozlov",
+  "username": "gennady_kozlov",
+  "title": "FM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Moscow",
+  "last_online": 1776589423,
+  "joined": 1465232729,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1303,
+      "date": 1713815604,
+      "rd": 153
+    },
+    "best": {
+      "rating": 1303,
+      "date": 1541434643,
+      "game": "https://www.chess.com/game/daily/208091942"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3463,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 869,
+      "date": 1761891758,
+      "rd": 196
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1586018039,
+      "game": "https://www.chess.com/game/live/62266136105"
+    },
+    "record": {
+      "win": 5,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1745683552,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1716999875,
+      "game": "https://www.chess.com/game/live/110325142593"
+    },
+    "record": {
+      "win": 26,
+      "loss": 21,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2683,
+      "date": 1776589402,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1763036069,
+      "game": "https://www.chess.com/game/live/131841031927"
+    },
+    "record": {
+      "win": 845,
+      "loss": 741,
+      "draw": 156
+    }
+  },
+  "fide": 2412,
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1767905513
+    },
+    "lowest": {
+      "rating": 2460,
+      "date": 1767905540
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

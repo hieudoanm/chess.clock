@@ -1,0 +1,103 @@
+{
+  "player_id": 2144617,
+  "@id": "https://api.chess.com/pub/player/dhanushbharadwaj",
+  "url": "https://www.chess.com/member/dhanushbharadwaj",
+  "name": "Dhanush Bharadwaj",
+  "username": "dhanushbharadwaj",
+  "title": "FM",
+  "followers": 143,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1775588366,
+  "joined": 1252178332,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 946,
+      "date": 1702059476,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1252178332,
+      "game": "https://www.chess.com/game/daily/211074352"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2039,
+      "date": 1495222965,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2039,
+      "date": 1495222965,
+      "game": "https://www.chess.com/game/live/2109566662"
+    },
+    "record": {
+      "win": 10,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2760,
+      "date": 1764747914,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2807,
+      "date": 1711679878,
+      "game": "https://www.chess.com/game/live/123097863833"
+    },
+    "record": {
+      "win": 4276,
+      "loss": 3837,
+      "draw": 531
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2664,
+      "date": 1772587325,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1766448465,
+      "game": "https://www.chess.com/game/live/147022261204"
+    },
+    "record": {
+      "win": 3468,
+      "loss": 3012,
+      "draw": 620
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2341,
+      "date": 1766730944
+    },
+    "lowest": {
+      "rating": 2015,
+      "date": 1766449382
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

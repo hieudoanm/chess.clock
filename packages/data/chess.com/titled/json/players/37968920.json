@@ -1,0 +1,87 @@
+{
+  "player_id": 37968920,
+  "@id": "https://api.chess.com/pub/player/pekowitsch",
+  "url": "https://www.chess.com/member/pekowitsch",
+  "name": "Maurice Peek",
+  "username": "pekowitsch",
+  "title": "IM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1775924715,
+  "joined": 1503229444,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2017,
+      "date": 1755006713,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2017,
+      "date": 1728844413,
+      "game": "https://www.chess.com/game/daily/712749701"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11723,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2686,
+      "date": 1775924241,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1760809826,
+      "game": "https://www.chess.com/game/live/159354450751"
+    },
+    "record": {
+      "win": 433,
+      "loss": 451,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2653,
+      "date": 1775590531,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2778,
+      "date": 1767129909,
+      "game": "https://www.chess.com/game/live/156001600945"
+    },
+    "record": {
+      "win": 280,
+      "loss": 237,
+      "draw": 56
+    }
+  },
+  "fide": 2381,
+  "tactics": {
+    "highest": {
+      "rating": 1637,
+      "date": 1503229444
+    },
+    "lowest": {
+      "rating": 1637,
+      "date": 1503229444
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

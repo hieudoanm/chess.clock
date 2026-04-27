@@ -1,0 +1,84 @@
+{
+  "player_id": 73852826,
+  "@id": "https://api.chess.com/pub/player/przemyslawskalik",
+  "url": "https://www.chess.com/member/PrzemyslawSkalik",
+  "name": "Przemyslaw Skalik",
+  "username": "przemyslawskalik",
+  "title": "IM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776594598,
+  "joined": 1584615530,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2293,
+      "date": 1776595868,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1601571533,
+      "game": "https://www.chess.com/game/live/146346379480"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2259,
+      "date": 1623942745,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1621615204,
+      "game": "https://www.chess.com/game/live/15354186867"
+    },
+    "record": {
+      "win": 4,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2231,
+      "date": 1689452996,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2578,
+      "date": 1586971807,
+      "game": "https://www.chess.com/game/live/14492801441"
+    },
+    "record": {
+      "win": 85,
+      "loss": 97,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1584615530
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1584615530
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

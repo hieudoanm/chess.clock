@@ -1,0 +1,80 @@
+{
+  "player_id": 493981,
+  "@id": "https://api.chess.com/pub/player/zitelo",
+  "url": "https://www.chess.com/member/zitelo",
+  "username": "zitelo",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776565063,
+  "joined": 1195749394,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1735,
+      "date": 1701785409,
+      "rd": 343
+    },
+    "best": {
+      "rating": 1735,
+      "date": 1466366183,
+      "game": "https://www.chess.com/game/daily/134981130"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 98030,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2492,
+      "date": 1744350236,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1465458650,
+      "game": "https://www.chess.com/game/live/625552261"
+    },
+    "record": {
+      "win": 4310,
+      "loss": 3725,
+      "draw": 375
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2024,
+      "date": 1750900957,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1472052562,
+      "game": "https://www.chess.com/game/live/671119997"
+    },
+    "record": {
+      "win": 3248,
+      "loss": 2389,
+      "draw": 453
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2384,
+      "date": 1195749394
+    },
+    "lowest": {
+      "rating": 2384,
+      "date": 1195749394
+    }
+  },
+  "puzzle_rush": {}
+}

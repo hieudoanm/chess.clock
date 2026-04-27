@@ -1,0 +1,83 @@
+{
+  "player_id": 354863919,
+  "@id": "https://api.chess.com/pub/player/elcaballoperdido",
+  "url": "https://www.chess.com/member/elcaballoperdido",
+  "username": "elcaballoperdido",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/IS",
+  "last_online": 1776544490,
+  "joined": 1712168108,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2080,
+      "date": 1774362372,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1774362372,
+      "game": "https://www.chess.com/game/live/164500028408"
+    },
+    "record": {
+      "win": 16,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1908,
+      "date": 1774588333,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1720911100,
+      "game": "https://www.chess.com/game/live/132286834889"
+    },
+    "record": {
+      "win": 229,
+      "loss": 225,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2039,
+      "date": 1776467188,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1766022185,
+      "game": "https://www.chess.com/game/live/120598890827"
+    },
+    "record": {
+      "win": 1443,
+      "loss": 1291,
+      "draw": 177
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2289,
+      "date": 1772129880
+    },
+    "lowest": {
+      "rating": 1965,
+      "date": 1770113947
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 17,
+      "score": 14
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 4866549,
+  "@id": "https://api.chess.com/pub/player/jammydodger91",
+  "url": "https://www.chess.com/member/JammyDodger91",
+  "name": "James P Jackson",
+  "username": "jammydodger91",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1681643409,
+  "joined": 1300403440,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1362,
+      "date": 1704648604,
+      "rd": 345
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1300403440,
+      "game": "https://www.chess.com/game/daily/200796488"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 33632,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2288,
+      "date": 1681148294,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1681141355,
+      "game": "https://www.chess.com/game/live/74879465869"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2362,
+      "date": 1458780652,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1458780652,
+      "game": "https://www.chess.com/game/live/1511308265"
+    },
+    "record": {
+      "win": 76,
+      "loss": 47,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2507,
+      "date": 1677915097,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1585417206,
+      "game": "https://www.chess.com/game/live/58374672095"
+    },
+    "record": {
+      "win": 1979,
+      "loss": 1479,
+      "draw": 203
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1300403440
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1300403440
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 38
+    }
+  }
+}

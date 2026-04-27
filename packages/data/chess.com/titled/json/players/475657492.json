@@ -1,0 +1,67 @@
+{
+  "player_id": 475657492,
+  "@id": "https://api.chess.com/pub/player/gameon16",
+  "url": "https://www.chess.com/member/Gameon16",
+  "username": "gameon16",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/GL",
+  "last_online": 1776531148,
+  "joined": 1755580757,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2548,
+      "date": 1768119089,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2589,
+      "date": 1768055486,
+      "game": "https://www.chess.com/game/live/147819125484"
+    },
+    "record": {
+      "win": 21,
+      "loss": 15,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2683,
+      "date": 1775553629,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2755,
+      "date": 1764394985,
+      "game": "https://www.chess.com/game/live/146944388240"
+    },
+    "record": {
+      "win": 175,
+      "loss": 183,
+      "draw": 48
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1755580757
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1755580757
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

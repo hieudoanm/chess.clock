@@ -1,0 +1,79 @@
+{
+  "player_id": 78266842,
+  "@id": "https://api.chess.com/pub/player/estocastico",
+  "url": "https://www.chess.com/member/estocastico",
+  "name": "Luis Valenzuela Fuentealba",
+  "username": "estocastico",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CL",
+  "last_online": 1776337903,
+  "joined": 1588295405,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1597595612,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2415,
+      "date": 1596810422,
+      "game": "https://www.chess.com/game/live/5273372145"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2654,
+      "date": 1595195492,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1595195492,
+      "game": "https://www.chess.com/game/live/5060292006"
+    },
+    "record": {
+      "win": 217,
+      "loss": 142,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2419,
+      "date": 1591462802,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1589154356,
+      "game": "https://www.chess.com/game/live/4839074757"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1588295405
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1588295405
+    }
+  },
+  "puzzle_rush": {}
+}

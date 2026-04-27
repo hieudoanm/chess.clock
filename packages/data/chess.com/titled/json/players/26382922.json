@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/26382922.aa2fd26d.200x200o.bac54e199c41.jpg",
+  "player_id": 26382922,
+  "@id": "https://api.chess.com/pub/player/shuvalov",
+  "url": "https://www.chess.com/member/Shuvalov",
+  "name": "Evgenij Shuvalov",
+  "username": "shuvalov",
+  "title": "CM",
+  "followers": 424,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Moscow",
+  "last_online": 1776535241,
+  "joined": 1453968569,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 791,
+      "date": 1587926466,
+      "rd": 340
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 66185,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1649522413,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1600007737,
+      "game": "https://www.chess.com/game/live/5439786048"
+    },
+    "record": {
+      "win": 26,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2432,
+      "date": 1746182353,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1738431094,
+      "game": "https://www.chess.com/game/live/133384739529"
+    },
+    "record": {
+      "win": 237,
+      "loss": 150,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2757,
+      "date": 1776491343,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2857,
+      "date": 1764691736,
+      "game": "https://www.chess.com/game/live/144789593156"
+    },
+    "record": {
+      "win": 7087,
+      "loss": 6670,
+      "draw": 1550
+    }
+  },
+  "fide": 2150,
+  "tactics": {
+    "highest": {
+      "rating": 2338,
+      "date": 1453968569
+    },
+    "lowest": {
+      "rating": 2338,
+      "date": 1453968569
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

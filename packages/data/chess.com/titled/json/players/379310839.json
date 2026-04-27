@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/379310839.f6cd2b73.200x200o.02aceaa614ec.jpg",
+  "player_id": 379310839,
+  "@id": "https://api.chess.com/pub/player/turkage",
+  "url": "https://www.chess.com/member/turkage",
+  "username": "turkage",
+  "title": "FM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/JP",
+  "location": "Sumikko Gurashi",
+  "last_online": 1776572312,
+  "joined": 1722876341,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2158,
+      "date": 1769914233,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2158,
+      "date": 1769914233,
+      "game": "https://www.chess.com/game/live/164076426616"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2940,
+      "date": 1776549946,
+      "rd": 12
+    },
+    "best": {
+      "rating": 3087,
+      "date": 1774826042,
+      "game": "https://www.chess.com/game/live/146716189356"
+    },
+    "record": {
+      "win": 6779,
+      "loss": 6729,
+      "draw": 616
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2648,
+      "date": 1775960997,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1773946271,
+      "game": "https://www.chess.com/game/live/166165121870"
+    },
+    "record": {
+      "win": 171,
+      "loss": 156,
+      "draw": 22
+    }
+  },
+  "fide": 100,
+  "tactics": {
+    "highest": {
+      "rating": 2234,
+      "date": 1772767687
+    },
+    "lowest": {
+      "rating": 2106,
+      "date": 1772767724
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 16
+    }
+  }
+}

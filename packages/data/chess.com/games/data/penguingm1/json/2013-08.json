@@ -1,0 +1,376 @@
+[
+  {
+    "url": "https://www.chess.com/game/daily/71494151",
+    "pgn": "[Event \"you and i - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.06.16\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"olahf\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/you-and-i\"]\n[CurrentPosition \"1r4k1/2n1ppb1/p2p2p1/2pP4/2P1PP2/2N1BBpq/Pr1R4/2R1Q1K1 w - - 4 25\"]\n[Timezone \"UTC\"]\n[ECO \"E61\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Indian-Defense-3.Nc3-d6\"]\n[UTCDate \"2013.06.16\"]\n[UTCTime \"12:34:25\"]\n[WhiteElo \"1659\"]\n[BlackElo \"1819\"]\n[TimeControl \"1/259200\"]\n[Termination \"olahf won on time\"]\n[StartTime \"12:34:25\"]\n[EndDate \"2013.08.01\"]\n[EndTime \"07:02:05\"]\n[Link \"https://www.chess.com/game/daily/71494151\"]\n\n1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Nge2 c5 7. d5 Na6 8. Be3 Nc7 9. Qd2 Re8 10. Ng3 a6 11. Be2 Bd7 12. O-O b5 13. b3 h5 14. Rac1 Rb8 15. Rfd1 Qc8 16. h3 h4 17. Nh1 Nh5 18. f4 Ng3 19. Nxg3 hxg3 20. Qe1 Bxh3 21. gxh3 Qxh3 22. Bf3 bxc4 23. bxc4 Rb2 24. Rd2 Reb8 0-1\n",
+    "time_control": "1/259200",
+    "end_time": 1375340525,
+    "rated": true,
+    "tcn": "lB!TkAZRbs2UmC92nv8!gmYIBJ5OcuOYdl98mwWOfm6ZegXHjr3Nac45fd76pxNFwhTNvDNwhwFwleZxox6xmvHArA5jdl85",
+    "uuid": "1417073c-d681-11e2-8097-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "1r4k1/2n1ppb1/p2p2p1/2pP4/2P1PP2/2N1BBpq/Pr1R4/2R1Q1K1 w - - 4 25",
+    "start_time": 1371386065,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1819,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/olahf",
+      "username": "olahf",
+      "uuid": "e5134330-1394-11e0-8037-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/you-and-i"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73606428",
+    "pgn": "[Event \"Anglo American Chess Master's - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.07.30\"]\n[Round \"-\"]\n[White \"AncientAlienInnuendo\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/anglo-american\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"B00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening\"]\n[UTCDate \"2013.07.30\"]\n[UTCTime \"23:32:06\"]\n[WhiteElo \"1589\"]\n[BlackElo \"1659\"]\n[TimeControl \"1/259200\"]\n[Termination \"AncientAlienInnuendo won on time\"]\n[StartTime \"23:32:06\"]\n[EndDate \"2013.08.04\"]\n[EndTime \"00:32:12\"]\n[Link \"https://www.chess.com/game/daily/73606428\"]\n\n1. e4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1375576332,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "3edb1a3c-f970-11e2-81ac-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1",
+    "start_time": 1375227126,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1589,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/ancientalieninnuendo",
+      "username": "AncientAlienInnuendo",
+      "uuid": "9372dc60-db82-11df-803f-000000000000"
+    },
+    "black": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/anglo-american"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73603052",
+    "pgn": "[Event \"you and i - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.07.30\"]\n[Round \"-\"]\n[White \"arabianmate\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/you-and-i\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"B00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening\"]\n[UTCDate \"2013.07.30\"]\n[UTCTime \"22:02:07\"]\n[WhiteElo \"1894\"]\n[BlackElo \"1659\"]\n[TimeControl \"1/259200\"]\n[Termination \"arabianmate won on time\"]\n[StartTime \"22:02:07\"]\n[EndDate \"2013.08.04\"]\n[EndTime \"03:32:11\"]\n[Link \"https://www.chess.com/game/daily/73603052\"]\n\n1. e4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1375587131,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "accd149e-f963-11e2-8034-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1",
+    "start_time": 1375221727,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1894,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/arabianmate",
+      "username": "arabianmate",
+      "uuid": "21e102cc-044a-11de-801e-000000000000"
+    },
+    "black": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/you-and-i"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73623420",
+    "pgn": "[Event \"Anglo American Chess Master's - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.07.31\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"AlucardII\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/anglo-american\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n[Timezone \"UTC\"]\n[UTCDate \"2013.07.31\"]\n[UTCTime \"09:02:10\"]\n[WhiteElo \"1659\"]\n[BlackElo \"1943\"]\n[TimeControl \"1/259200\"]\n[Termination \"AlucardII won on time\"]\n[StartTime \"09:02:10\"]\n[EndDate \"2013.08.04\"]\n[EndTime \"09:32:07\"]\n[Link \"https://www.chess.com/game/daily/73623420\"]\n\n0-1\n",
+    "time_control": "1/259200",
+    "end_time": 1375608727,
+    "rated": true,
+    "uuid": "e20750e6-f9bf-11e2-81a4-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "start_time": 1375261330,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1943,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/alucardii",
+      "username": "AlucardII",
+      "uuid": "2197fa7e-af4c-11df-800e-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/anglo-american"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73660400",
+    "pgn": "[Event \"Anglo American Chess Master's - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.01\"]\n[Round \"-\"]\n[White \"tepo23\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/anglo-american\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"B00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening\"]\n[UTCDate \"2013.08.01\"]\n[UTCTime \"01:02:05\"]\n[WhiteElo \"1778\"]\n[BlackElo \"1659\"]\n[TimeControl \"1/259200\"]\n[Termination \"tepo23 won on time\"]\n[StartTime \"01:02:05\"]\n[EndDate \"2013.08.06\"]\n[EndTime \"14:32:14\"]\n[Link \"https://www.chess.com/game/daily/73660400\"]\n\n1. e4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1375799534,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "fb52e1d8-fa45-11e2-8190-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1",
+    "start_time": 1375318925,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1778,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/tepo23",
+      "username": "tepo23",
+      "uuid": "20682a0c-76f9-11de-8034-000000000000"
+    },
+    "black": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/anglo-american"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73671378",
+    "pgn": "[Event \"you and i - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.01\"]\n[Round \"-\"]\n[White \"olahf\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/you-and-i\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"A10\"]\n[ECOUrl \"https://www.chess.com/openings/English-Opening\"]\n[UTCDate \"2013.08.01\"]\n[UTCTime \"07:02:06\"]\n[WhiteElo \"1807\"]\n[BlackElo \"1659\"]\n[TimeControl \"1/259200\"]\n[Termination \"olahf won on time\"]\n[StartTime \"07:02:06\"]\n[EndDate \"2013.08.07\"]\n[EndTime \"00:02:10\"]\n[Link \"https://www.chess.com/game/daily/73671378\"]\n\n1. c4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1375833730,
+    "rated": true,
+    "tcn": "kA",
+    "uuid": "4685e8c6-fa78-11e2-817a-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 1 1",
+    "start_time": 1375340526,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1807,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/olahf",
+      "username": "olahf",
+      "uuid": "e5134330-1394-11e0-8037-000000000000"
+    },
+    "black": {
+      "rating": 1659,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/you-and-i"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/73053880",
+    "pgn": "[Event \"Anglo American Chess Master's - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.07.19\"]\n[Round \"-\"]\n[White \"scandium\"]\n[Black \"penguingm1\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/anglo-american\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n[Timezone \"UTC\"]\n[UTCDate \"2013.07.19\"]\n[UTCTime \"18:45:38\"]\n[WhiteElo \"1381\"]\n[BlackElo \"1659\"]\n[TimeControl \"1/259200\"]\n[Termination \"penguingm1 won on time\"]\n[StartTime \"18:45:38\"]\n[EndDate \"2013.08.09\"]\n[EndTime \"19:32:04\"]\n[Link \"https://www.chess.com/game/daily/73053880\"]\n\n0-1\n",
+    "time_control": "1/259200",
+    "end_time": 1376076724,
+    "rated": true,
+    "uuid": "67771aa2-f0a3-11e2-8370-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "start_time": 1374259538,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1381,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/scandium",
+      "username": "scandium",
+      "uuid": "a71544be-b75f-11e1-8032-000000000000"
+    },
+    "black": {
+      "rating": 1659,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/anglo-american"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/74115016",
+    "pgn": "[Event \"Anglo American Chess Master's - Round 2\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.09\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"scandium\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/anglo-american\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening\"]\n[UTCDate \"2013.08.09\"]\n[UTCTime \"19:32:04\"]\n[WhiteElo \"1659\"]\n[BlackElo \"1381\"]\n[TimeControl \"1/259200\"]\n[Termination \"penguingm1 won on time\"]\n[StartTime \"19:32:04\"]\n[EndDate \"2013.08.14\"]\n[EndTime \"18:02:18\"]\n[Link \"https://www.chess.com/game/daily/74115016\"]\n\n1. d4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1376503338,
+    "rated": true,
+    "tcn": "lB",
+    "uuid": "5eb9e11e-012a-11e3-8010-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 1 1",
+    "start_time": 1376076724,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1659,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 1381,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/scandium",
+      "username": "scandium",
+      "uuid": "a71544be-b75f-11e1-8032-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/anglo-american"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/71785426",
+    "pgn": "[Event \"The Neverending Tournament - Round 1\"]\n[Site \"Chess.com\"]\n[Date \"2013.06.22\"]\n[Round \"-\"]\n[White \"MattBuckley\"]\n[Black \"penguingm1\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/the-neverending-tournament\"]\n[CurrentPosition \"r3k2r/p2b2pp/1pq1pp2/2b5/4n3/6B1/PQP2PPP/1R1R2K1 w kq - 1 19\"]\n[Timezone \"UTC\"]\n[ECO \"C00\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Schlechter-Variation-3...dxe4-4.Bxe4\"]\n[UTCDate \"2013.06.22\"]\n[UTCTime \"16:32:17\"]\n[WhiteElo \"1660\"]\n[BlackElo \"1674\"]\n[TimeControl \"1/1209600\"]\n[Termination \"penguingm1 won by resignation\"]\n[StartTime \"16:32:17\"]\n[EndDate \"2013.08.20\"]\n[EndTime \"14:05:52\"]\n[Link \"https://www.chess.com/game/daily/71785426\"]\n\n1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nd7 5. Nf3 Ngf6 6. Nbd2 c5 7. O-O cxd4 8. Nxd4 Nc5 9. Nc6 Qc7 10. b4 Ncxe4 11. Nxe4 Nxe4 12. Bf4 Qxc6 13. b5 Qxb5 14. Rb1 Qc6 15. Qd4 Bd7 16. Rfd1 f6 17. Bg3 Bc5 18. Qb2 b6 0-1\n",
+    "time_control": "1/1209600",
+    "end_time": 1377007552,
+    "rated": true,
+    "tcn": "mC0SlBZJftJCtC5Zgv!TblYIegIBvBZIBQ7YjzIClCTCcDYQzHQHabHQdB6Zfd1TDw9IBjXP",
+    "uuid": "4d57f29a-db59-11e2-81aa-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r3k2r/p2b2pp/1pq1pp2/2b5/4n3/6B1/PQP2PPP/1R1R2K1 w kq - 1 19",
+    "start_time": 1371918737,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1660,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/mattbuckley",
+      "username": "MattBuckley",
+      "uuid": "fc1cd44c-e589-11e1-8044-000000000000"
+    },
+    "black": {
+      "rating": 1674,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/the-neverending-tournament"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/74730144",
+    "pgn": "[Event \"Gunfighters and Duelists - Round 3\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.22\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"jupiter200\"]\n[Result \"0-1\"]\n[Tournament \"https://www.chess.com/tournament/gunfighters-and-dualists\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1\"]\n[Timezone \"UTC\"]\n[UTCDate \"2013.08.22\"]\n[UTCTime \"15:47:15\"]\n[WhiteElo \"1674\"]\n[BlackElo \"2245\"]\n[TimeControl \"1/259200\"]\n[Termination \"jupiter200 won on time\"]\n[StartTime \"15:47:15\"]\n[EndDate \"2013.08.26\"]\n[EndTime \"16:32:06\"]\n[Link \"https://www.chess.com/game/daily/74730144\"]\n\n0-1\n",
+    "time_control": "1/259200",
+    "end_time": 1377534726,
+    "rated": true,
+    "uuid": "1e06aaa4-0b42-11e3-8090-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "start_time": 1377186435,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 1674,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 2245,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jupiter200",
+      "username": "jupiter200",
+      "uuid": "ccd70926-bef3-11e1-8060-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/gunfighters-and-dualists"
+  },
+  {
+    "url": "https://www.chess.com/game/daily/74917910",
+    "pgn": "[Event \"Gunfighters and Duelists - Round 3\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.26\"]\n[Round \"-\"]\n[White \"jupiter200\"]\n[Black \"penguingm1\"]\n[Result \"1-0\"]\n[Tournament \"https://www.chess.com/tournament/gunfighters-and-dualists\"]\n[CurrentPosition \"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1\"]\n[Timezone \"UTC\"]\n[ECO \"B00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening\"]\n[UTCDate \"2013.08.26\"]\n[UTCTime \"16:32:06\"]\n[WhiteElo \"2251\"]\n[BlackElo \"1674\"]\n[TimeControl \"1/259200\"]\n[Termination \"jupiter200 won on time\"]\n[StartTime \"16:32:06\"]\n[EndDate \"2013.08.30\"]\n[EndTime \"05:02:08\"]\n[Link \"https://www.chess.com/game/daily/74917910\"]\n\n1. e4 1-0\n",
+    "time_control": "1/259200",
+    "end_time": 1377838928,
+    "rated": true,
+    "tcn": "mC",
+    "uuid": "0ba3b572-0e6d-11e3-838e-00000001000b",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 1 1",
+    "start_time": 1377534726,
+    "time_class": "daily",
+    "rules": "chess",
+    "white": {
+      "rating": 2251,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/jupiter200",
+      "username": "jupiter200",
+      "uuid": "ccd70926-bef3-11e1-8060-000000000000"
+    },
+    "black": {
+      "rating": 1674,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "tournament": "https://api.chess.com/pub/tournament/gunfighters-and-dualists"
+  },
+  {
+    "url": "https://www.chess.com/game/live/590393648",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.30\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"anhasel\"]\n[Result \"1-0\"]\n[CurrentPosition \"5q1k/2p2N1p/8/1p6/5P2/3BP3/rQ2KP1P/6R1 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D08\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit-3.dxe5-d4-4.Nf3-Nc6\"]\n[UTCDate \"2013.08.30\"]\n[UTCTime \"21:51:12\"]\n[WhiteElo \"1324\"]\n[BlackElo \"969\"]\n[TimeControl \"600\"]\n[Termination \"penguingm1 won by checkmate\"]\n[StartTime \"21:51:12\"]\n[EndDate \"2013.08.30\"]\n[EndTime \"21:58:52\"]\n[Link \"https://www.chess.com/game/live/590393648\"]\n\n1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:10:00]} 2. c4 {[%clk 0:09:59.3]} 2... e5 {[%clk 0:09:45.8]} 3. dxe5 {[%clk 0:09:56.3]} 3... d4 {[%clk 0:09:13.3]} 4. Nf3 {[%clk 0:09:52.6]} 4... Nc6 {[%clk 0:08:39.5]} 5. Bf4 {[%clk 0:09:49.9]} 5... f6 {[%clk 0:08:17.6]} 6. exf6 {[%clk 0:09:47.4]} 6... Nxf6 {[%clk 0:08:00.2]} 7. Nbd2 {[%clk 0:09:46]} 7... Be6 {[%clk 0:07:37.1]} 8. g3 {[%clk 0:09:43]} 8... Bxc4 {[%clk 0:06:41.3]} 9. Nxc4 {[%clk 0:09:40.5]} 9... b5 {[%clk 0:06:27.8]} 10. Ncd2 {[%clk 0:09:38.8]} 10... Bd6 {[%clk 0:06:20.8]} 11. Rc1 {[%clk 0:09:32.2]} 11... O-O {[%clk 0:06:17.2]} 12. Rxc6 {[%clk 0:09:30.9]} 12... Bxf4 {[%clk 0:06:05.5]} 13. Qb3+ {[%clk 0:09:29.6]} 13... Kh8 {[%clk 0:05:58.7]} 14. gxf4 {[%clk 0:09:28.7]} 14... d3 {[%clk 0:05:36.9]} 15. e3 {[%clk 0:09:23.8]} 15... a5 {[%clk 0:05:24.9]} 16. Bxd3 {[%clk 0:09:22.7]} 16... a4 {[%clk 0:05:20.5]} 17. Qc2 {[%clk 0:09:22.3]} 17... a3 {[%clk 0:05:15.5]} 18. Ke2 {[%clk 0:09:21.9]} 18... axb2 {[%clk 0:05:11.1]} 19. Qxb2 {[%clk 0:09:21.8]} 19... Ng4 {[%clk 0:04:50.6]} 20. Rg1 {[%clk 0:09:19.3]} 20... Nf6 {[%clk 0:04:37.8]} 21. Ne4 {[%clk 0:09:17.1]} 21... Ra5 {[%clk 0:04:23]} 22. Ne5 {[%clk 0:08:47.8]} 22... Qa8 {[%clk 0:04:13.2]} 23. Nxf6 {[%clk 0:08:45.8]} 23... gxf6 {[%clk 0:04:09.7]} 24. Rxf6 {[%clk 0:08:44.8]} 24... Rxa2 {[%clk 0:04:04.9]} 25. Rxf8+ {[%clk 0:08:39.8]} 25... Qxf8 {[%clk 0:03:54.5]} 26. Nf7# {[%clk 0:08:39]} 1-0\n",
+    "time_control": "600",
+    "end_time": 1377899932,
+    "rated": true,
+    "accuracies": {
+      "white": 98.65518212384062,
+      "black": 41.66793620111917
+    },
+    "tcn": "lBZJkA0KBKJBgv5QcD1TKT!Tbl6SowSAlAXHAl9Rac8!cQRDdr!?wDBtmuWGftGyrkyqemqjkjTEhgETlC4GvK74CT2TQTGiT949K1",
+    "uuid": "a8cbeb80-57bf-11de-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5q1k/2p2N1p/8/1p6/5P2/3BP3/rQ2KP1P/6R1 b - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 1324,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 969,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/anhasel",
+      "username": "anhasel",
+      "uuid": "79ba2188-0b9b-11e3-8000-000000000000"
+    }
+  },
+  {
+    "url": "https://www.chess.com/game/live/590399101",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2013.08.30\"]\n[Round \"-\"]\n[White \"penguingm1\"]\n[Black \"anhasel\"]\n[Result \"1-0\"]\n[CurrentPosition \"3r4/pp2kppp/8/3p4/8/1P2K1P1/P4P2/3R4 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D20\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit-Accepted-Old-Variation-3...e5-4.Bxc4-exd4\"]\n[UTCDate \"2013.08.30\"]\n[UTCTime \"22:01:27\"]\n[WhiteElo \"1378\"]\n[BlackElo \"928\"]\n[TimeControl \"600\"]\n[Termination \"penguingm1 won on time\"]\n[StartTime \"22:01:27\"]\n[EndDate \"2013.08.30\"]\n[EndTime \"22:15:58\"]\n[Link \"https://www.chess.com/game/live/590399101\"]\n\n1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:10:00]} 2. c4 {[%clk 0:09:58.7]} 2... dxc4 {[%clk 0:09:47.3]} 3. e3 {[%clk 0:09:57.6]} 3... e5 {[%clk 0:09:16.1]} 4. Bxc4 {[%clk 0:09:51.2]} 4... exd4 {[%clk 0:08:52.6]} 5. Nf3 {[%clk 0:09:32.3]} 5... Nc6 {[%clk 0:08:33.1]} 6. exd4 {[%clk 0:09:30.4]} 6... Bb4+ {[%clk 0:08:09.1]} 7. Nc3 {[%clk 0:09:28.7]} 7... Nf6 {[%clk 0:07:46.3]} 8. O-O {[%clk 0:09:25.8]} 8... O-O {[%clk 0:07:28]} 9. Bg5 {[%clk 0:09:17.3]} 9... Bg4 {[%clk 0:06:45.6]} 10. Ne4 {[%clk 0:08:22.9]} 10... Be7 {[%clk 0:06:04.2]} 11. Bxf6 {[%clk 0:06:59.1]} 11... Bxf6 {[%clk 0:05:37.5]} 12. d5 {[%clk 0:06:58]} 12... Ne5 {[%clk 0:05:08.5]} 13. Be2 {[%clk 0:06:47.7]} 13... Nxf3+ {[%clk 0:04:38.4]} 14. Bxf3 {[%clk 0:06:47.6]} 14... Bxf3 {[%clk 0:04:20.7]} 15. Qxf3 {[%clk 0:06:47.5]} 15... Be5 {[%clk 0:03:54.6]} 16. Rad1 {[%clk 0:06:41.4]} 16... Re8 {[%clk 0:03:39.4]} 17. b3 {[%clk 0:06:34.4]} 17... Bxh2+ {[%clk 0:03:22.2]} 18. Kxh2 {[%clk 0:06:33.3]} 18... Qh4+ {[%clk 0:03:07.9]} 19. Kg1 {[%clk 0:06:32.6]} 19... Rxe4 {[%clk 0:02:51.3]} 20. g3 {[%clk 0:06:31.3]} 20... Qe7 {[%clk 0:02:31.5]} 21. Qc3 {[%clk 0:06:26]} 21... Qd6 {[%clk 0:02:19.9]} 22. Qd3 {[%clk 0:06:22.5]} 22... Re5 {[%clk 0:01:56.4]} 23. Rfe1 {[%clk 0:06:17.3]} 23... Rxe1+ {[%clk 0:01:40.6]} 24. Rxe1 {[%clk 0:06:16.4]} 24... c6 {[%clk 0:01:25.2]} 25. Rd1 {[%clk 0:06:12.5]} 25... Rd8 {[%clk 0:01:04.5]} 26. Qd4 {[%clk 0:05:53.1]} 26... Qxd5 {[%clk 0:00:51]} 27. Qxd5 {[%clk 0:05:47.7]} 27... cxd5 {[%clk 0:00:35.2]} 28. Kg2 {[%clk 0:05:44.9]} 28... Kf8 {[%clk 0:00:22]} 29. Kf3 {[%clk 0:05:44]} 29... Ke7 {[%clk 0:00:04.4]} 30. Ke3 {[%clk 0:05:43.9]} 1-0\n",
+    "time_control": "600",
+    "end_time": 1377900958,
+    "rated": true,
+    "tcn": "lBZJkAJAmu0KfAKBgv5QuB9zbs!Teg8!cM6EsCz0MT0TBJQKAmKvmvEvdvTKad98jrKpgp7Fpg8CowF0vs0RstCKfeKedeYQed47tBRJBJQJgo!9ov90vu",
+    "uuid": "7373ce02-57c0-11de-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "3r4/pp2kppp/8/3p4/8/1P2K1P1/P4P2/3R4 b - -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 1378,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/penguingm1",
+      "username": "penguingm1",
+      "uuid": "332537e0-d833-11e1-8022-000000000000"
+    },
+    "black": {
+      "rating": 928,
+      "result": "timeout",
+      "@id": "https://api.chess.com/pub/player/anhasel",
+      "username": "anhasel",
+      "uuid": "79ba2188-0b9b-11e3-8000-000000000000"
+    }
+  }
+]

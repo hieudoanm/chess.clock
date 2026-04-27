@@ -1,0 +1,66 @@
+{
+  "player_id": 414072353,
+  "@id": "https://api.chess.com/pub/player/cholmogorov",
+  "url": "https://www.chess.com/member/cholmogorov",
+  "username": "cholmogorov",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/TD",
+  "last_online": 1776596412,
+  "joined": 1735664370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2372,
+      "date": 1758816099,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1758815978,
+      "game": "https://www.chess.com/game/live/143549427924"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2490,
+      "date": 1776596348,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2551,
+      "date": 1749411714,
+      "game": "https://www.chess.com/game/live/132700831419"
+    },
+    "record": {
+      "win": 1276,
+      "loss": 1064,
+      "draw": 233
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2152,
+      "date": 1757344661
+    },
+    "lowest": {
+      "rating": 2152,
+      "date": 1757344661
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 30
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6265586.1a732832.200x200o.151e6edd0ee1.jpeg",
+  "player_id": 6265586,
+  "@id": "https://api.chess.com/pub/player/secretgm",
+  "url": "https://www.chess.com/member/SecretGM",
+  "name": "Big time GM",
+  "username": "secretgm",
+  "title": "GM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1769954854,
+  "joined": 1323262319,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 860,
+      "date": 1745262801,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1614872297,
+      "game": "https://www.chess.com/game/live/8767023113"
+    },
+    "record": {
+      "win": 244,
+      "loss": 258,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2801,
+      "date": 1756816642,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1756816642,
+      "game": "https://www.chess.com/game/live/142595548416"
+    },
+    "record": {
+      "win": 1754,
+      "loss": 1191,
+      "draw": 263
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1718,
+      "date": 1323262319
+    },
+    "lowest": {
+      "rating": 1718,
+      "date": 1323262319
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

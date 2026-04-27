@@ -1,0 +1,84 @@
+{
+  "player_id": 77385166,
+  "@id": "https://api.chess.com/pub/player/thesodabread",
+  "url": "https://www.chess.com/member/TheSodabread",
+  "name": "Peter Carroll",
+  "username": "thesodabread",
+  "title": "FM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/IE",
+  "last_online": 1775258517,
+  "joined": 1587477278,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1975,
+      "date": 1712943495,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2073,
+      "date": 1593279688,
+      "game": "https://www.chess.com/game/live/12335266343"
+    },
+    "record": {
+      "win": 26,
+      "loss": 14,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1768502527,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1762102238,
+      "game": "https://www.chess.com/game/live/5556625229"
+    },
+    "record": {
+      "win": 451,
+      "loss": 271,
+      "draw": 59
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2281,
+      "date": 1762277659,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1753803321,
+      "game": "https://www.chess.com/game/live/134848752299"
+    },
+    "record": {
+      "win": 222,
+      "loss": 227,
+      "draw": 37
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2362,
+      "date": 1587477278
+    },
+    "lowest": {
+      "rating": 2362,
+      "date": 1587477278
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

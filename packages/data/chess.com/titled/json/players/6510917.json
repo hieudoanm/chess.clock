@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6510917.678850bf.200x200o.67279a13eea2.jpeg",
+  "player_id": 6510917,
+  "@id": "https://api.chess.com/pub/player/cmfernandez",
+  "url": "https://www.chess.com/member/CMFernandez",
+  "name": "Felipe Fernandez",
+  "username": "cmfernandez",
+  "title": "CM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/CR",
+  "location": "Santa Ana, Costa Rica",
+  "last_online": 1748702259,
+  "joined": 1326770477,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1358,
+      "date": 1753259289,
+      "rd": 151
+    },
+    "best": {
+      "rating": 1724,
+      "date": 1553925739,
+      "game": "https://www.chess.com/game/daily/219207805"
+    },
+    "record": {
+      "win": 20,
+      "loss": 8,
+      "draw": 1,
+      "time_per_move": 56878,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2034,
+      "date": 1714715597,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1603557291,
+      "game": "https://www.chess.com/game/live/5507120348"
+    },
+    "record": {
+      "win": 32,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2213,
+      "date": 1606764558,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1606764558,
+      "game": "https://www.chess.com/game/live/5728927902"
+    },
+    "record": {
+      "win": 452,
+      "loss": 349,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2239,
+      "date": 1748703506,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2239,
+      "date": 1748703506,
+      "game": "https://www.chess.com/game/live/5651997887"
+    },
+    "record": {
+      "win": 1564,
+      "loss": 1496,
+      "draw": 191
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2397,
+      "date": 1326770477
+    },
+    "lowest": {
+      "rating": 2397,
+      "date": 1326770477
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

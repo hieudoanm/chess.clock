@@ -1,0 +1,103 @@
+{
+  "player_id": 49700170,
+  "@id": "https://api.chess.com/pub/player/davoz94",
+  "url": "https://www.chess.com/member/davoz94",
+  "name": "Alessandro Davi",
+  "username": "davoz94",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776593381,
+  "joined": 1536831276,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1478,
+      "date": 1776593335,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1478,
+      "date": 1652715004,
+      "game": "https://www.chess.com/game/daily/399810123"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 33737,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2017,
+      "date": 1719483609,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1610999851,
+      "game": "https://www.chess.com/game/live/6274969012"
+    },
+    "record": {
+      "win": 22,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2326,
+      "date": 1763882168,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1626119361,
+      "game": "https://www.chess.com/game/live/83184367799"
+    },
+    "record": {
+      "win": 2820,
+      "loss": 2192,
+      "draw": 280
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2362,
+      "date": 1770057416,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1558100734,
+      "game": "https://www.chess.com/game/live/3238245747"
+    },
+    "record": {
+      "win": 942,
+      "loss": 746,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1775681097
+    },
+    "lowest": {
+      "rating": 2143,
+      "date": 1775770659
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 38
+    }
+  }
+}

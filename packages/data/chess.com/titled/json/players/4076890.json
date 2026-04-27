@@ -1,0 +1,52 @@
+{
+  "player_id": 4076890,
+  "@id": "https://api.chess.com/pub/player/gmi",
+  "url": "https://www.chess.com/member/GMI",
+  "name": "Michael Gluzman",
+  "username": "gmi",
+  "title": "IM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/AU",
+  "location": "Melbourne",
+  "last_online": 1775294917,
+  "joined": 1286259046,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_blitz": {
+    "last": {
+      "rating": 2373,
+      "date": 1594118139,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1594116735,
+      "game": "https://www.chess.com/game/live/114008991"
+    },
+    "record": {
+      "win": 119,
+      "loss": 170,
+      "draw": 22
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2420,
+      "date": 1765576709
+    },
+    "lowest": {
+      "rating": 2291,
+      "date": 1757471843
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 25
+    }
+  }
+}

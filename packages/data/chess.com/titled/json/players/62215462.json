@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62215462.7c9a5bbd.200x200o.078385c88ef0.jpeg",
+  "player_id": 62215462,
+  "@id": "https://api.chess.com/pub/player/slavenok",
+  "url": "https://www.chess.com/member/slavenok",
+  "name": "Alexey Ponikarovsky",
+  "username": "slavenok",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1708466167,
+  "joined": 1560379269,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1603,
+      "date": 1706716561,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1603,
+      "date": 1644236177,
+      "game": "https://www.chess.com/game/daily/291769032"
+    },
+    "record": {
+      "win": 19,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 15948,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2254,
+      "date": 1643478357,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1643478357,
+      "game": "https://www.chess.com/game/live/5924367381"
+    },
+    "record": {
+      "win": 42,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2692,
+      "date": 1708424667,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1604064858,
+      "game": "https://www.chess.com/game/live/5860678973"
+    },
+    "record": {
+      "win": 911,
+      "loss": 868,
+      "draw": 120
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2753,
+      "date": 1708471761,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2807,
+      "date": 1570309676,
+      "game": "https://www.chess.com/game/live/5611035689"
+    },
+    "record": {
+      "win": 357,
+      "loss": 225,
+      "draw": 51
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1560379269
+    },
+    "lowest": {
+      "rating": 2599,
+      "date": 1560379269
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

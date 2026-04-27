@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/75620734.95028fa3.200x200o.07a2863b9220.jpg",
+  "player_id": 75620734,
+  "@id": "https://api.chess.com/pub/player/alik_h228",
+  "url": "https://www.chess.com/member/alik_h228",
+  "username": "alik_h228",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1749128233,
+  "joined": 1585998100,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1606974873
+    },
+    "best": {
+      "rating": 1641,
+      "date": 1599661624,
+      "game": "https://www.chess.com/game/live/5503775569"
+    },
+    "record": {
+      "win": 18,
+      "loss": 13,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2359,
+      "date": 1749051036,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1749050936,
+      "game": "https://www.chess.com/game/live/139210129462"
+    },
+    "record": {
+      "win": 55,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2487,
+      "date": 1749049529,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2512,
+      "date": 1749038945,
+      "game": "https://www.chess.com/game/live/139203470196"
+    },
+    "record": {
+      "win": 485,
+      "loss": 323,
+      "draw": 56
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2199,
+      "date": 1585998100
+    },
+    "lowest": {
+      "rating": 2199,
+      "date": 1585998100
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

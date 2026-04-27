@@ -1,0 +1,85 @@
+{
+  "player_id": 369559721,
+  "@id": "https://api.chess.com/pub/player/martinoksendal",
+  "url": "https://www.chess.com/member/MartinOksendal",
+  "name": "Martin Oksendal",
+  "username": "martinoksendal",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776592387,
+  "joined": 1718345527,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2249,
+      "date": 1741794531,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1739724068,
+      "game": "https://www.chess.com/game/live/133461577911"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2700,
+      "date": 1774021710,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2744,
+      "date": 1769859338,
+      "game": "https://www.chess.com/game/live/133381149211"
+    },
+    "record": {
+      "win": 307,
+      "loss": 243,
+      "draw": 65
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2709,
+      "date": 1776592373,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2886,
+      "date": 1770300878,
+      "game": "https://www.chess.com/game/live/164270817490"
+    },
+    "record": {
+      "win": 1882,
+      "loss": 1674,
+      "draw": 641
+    }
+  },
+  "fide": 2260,
+  "tactics": {
+    "highest": {
+      "rating": 2275,
+      "date": 1770644957
+    },
+    "lowest": {
+      "rating": 2125,
+      "date": 1770145875
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 49164612,
+  "@id": "https://api.chess.com/pub/player/u217-16-8",
+  "url": "https://www.chess.com/member/u217-16-8",
+  "username": "u217-16-8",
+  "title": "IM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775831006,
+  "joined": 1535373974,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2530,
+      "date": 1685197818,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2574,
+      "date": 1685196402,
+      "game": "https://www.chess.com/game/live/78935446413"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2938,
+      "date": 1722442341,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2948,
+      "date": 1722429055,
+      "game": "https://www.chess.com/game/live/90503388511"
+    },
+    "record": {
+      "win": 1343,
+      "loss": 266,
+      "draw": 71
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2738,
+      "date": 1722277981,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2817,
+      "date": 1685364442,
+      "game": "https://www.chess.com/game/live/79101150459"
+    },
+    "record": {
+      "win": 274,
+      "loss": 125,
+      "draw": 50
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2349,
+      "date": 1535373974
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1535373974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

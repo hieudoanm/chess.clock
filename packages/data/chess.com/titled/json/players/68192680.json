@@ -1,0 +1,84 @@
+{
+  "player_id": 68192680,
+  "@id": "https://api.chess.com/pub/player/dangerousplayer1st",
+  "url": "https://www.chess.com/member/DangerousPlayer1st",
+  "username": "dangerousplayer1st",
+  "title": "FM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/AZ",
+  "last_online": 1776341547,
+  "joined": 1574179319,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1803,
+      "date": 1643361285,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1942,
+      "date": 1578914619,
+      "game": "https://www.chess.com/game/daily/246404382"
+    },
+    "record": {
+      "win": 20,
+      "loss": 10,
+      "draw": 1,
+      "time_per_move": 68293,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3029,
+      "date": 1582892085,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3029,
+      "date": 1576021800,
+      "game": "https://www.chess.com/game/live/4319484890"
+    },
+    "record": {
+      "win": 247,
+      "loss": 279,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2894,
+      "date": 1584274087,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2894,
+      "date": 1584274087,
+      "game": "https://www.chess.com/game/live/4266950088"
+    },
+    "record": {
+      "win": 77,
+      "loss": 32,
+      "draw": 20
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1574179319
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1574179319
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

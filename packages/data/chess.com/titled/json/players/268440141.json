@@ -1,0 +1,84 @@
+{
+  "player_id": 268440141,
+  "@id": "https://api.chess.com/pub/player/kazmin_semyon",
+  "url": "https://www.chess.com/member/Kazmin_Semyon",
+  "name": "Semen Kazmin",
+  "username": "kazmin_semyon",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1775651165,
+  "joined": 1680113860,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1767000481,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1767000481,
+      "game": "https://www.chess.com/game/live/147295940162"
+    },
+    "record": {
+      "win": 15,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2818,
+      "date": 1774385396,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2827,
+      "date": 1774385261,
+      "game": "https://www.chess.com/game/live/166385235978"
+    },
+    "record": {
+      "win": 64,
+      "loss": 38,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2759,
+      "date": 1767385813,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1767385813,
+      "game": "https://www.chess.com/game/live/104599310901"
+    },
+    "record": {
+      "win": 140,
+      "loss": 105,
+      "draw": 18
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2657,
+      "date": 1680113860
+    },
+    "lowest": {
+      "rating": 2657,
+      "date": 1680113860
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

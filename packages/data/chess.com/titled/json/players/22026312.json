@@ -1,0 +1,103 @@
+{
+  "player_id": 22026312,
+  "@id": "https://api.chess.com/pub/player/warre",
+  "url": "https://www.chess.com/member/Warre",
+  "name": "Warre De Waele",
+  "username": "warre",
+  "title": "FM",
+  "followers": 116,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1776592050,
+  "joined": 1429378264,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1712,
+      "date": 1764408506,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1885,
+      "date": 1431898339,
+      "game": "https://www.chess.com/game/daily/111840110"
+    },
+    "record": {
+      "win": 52,
+      "loss": 22,
+      "draw": 4,
+      "time_per_move": 27567,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2395,
+      "date": 1756638849,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1596889958,
+      "game": "https://www.chess.com/game/live/5296044321"
+    },
+    "record": {
+      "win": 18,
+      "loss": 3,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2582,
+      "date": 1740474483,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2452,
+      "date": 1607983733,
+      "game": "https://www.chess.com/game/live/3569573102"
+    },
+    "record": {
+      "win": 572,
+      "loss": 512,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2703,
+      "date": 1776591655,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1760801364,
+      "game": "https://www.chess.com/game/live/144443151924"
+    },
+    "record": {
+      "win": 5023,
+      "loss": 4808,
+      "draw": 1187
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2308,
+      "date": 1763821313
+    },
+    "lowest": {
+      "rating": 2155,
+      "date": 1763821329
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 52
+    }
+  }
+}

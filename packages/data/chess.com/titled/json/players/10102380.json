@@ -1,0 +1,97 @@
+{
+  "player_id": 10102380,
+  "@id": "https://api.chess.com/pub/player/gau_truc_lon",
+  "url": "https://www.chess.com/member/Gau_truc_lon",
+  "username": "gau_truc_lon",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/VN",
+  "last_online": 1766981013,
+  "joined": 1356091558,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1746025649,
+      "rd": 255
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 58666,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2122,
+      "date": 1642498573,
+      "rd": 269
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1642498573,
+      "game": "https://www.chess.com/game/live/36237500977"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2374,
+      "date": 1597460711,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2273,
+      "date": 1565187677,
+      "game": "https://www.chess.com/game/live/3928614359"
+    },
+    "record": {
+      "win": 131,
+      "loss": 41,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2379,
+      "date": 1713017142,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2453,
+      "date": 1612437018,
+      "game": "https://www.chess.com/game/live/13573332533"
+    },
+    "record": {
+      "win": 1779,
+      "loss": 798,
+      "draw": 206
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2440,
+      "date": 1356091558
+    },
+    "lowest": {
+      "rating": 2440,
+      "date": 1356091558
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

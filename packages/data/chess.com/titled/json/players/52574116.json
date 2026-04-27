@@ -1,0 +1,68 @@
+{
+  "player_id": 52574116,
+  "@id": "https://api.chess.com/pub/player/msbff",
+  "url": "https://www.chess.com/member/Msbff",
+  "name": "Marian Bojchev",
+  "username": "msbff",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1767725120,
+  "joined": 1543590059,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1756065840,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2972,
+      "date": 1713783927,
+      "game": "https://www.chess.com/game/live/110214711441"
+    },
+    "record": {
+      "win": 550,
+      "loss": 587,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2533,
+      "date": 1642114053,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1585676679,
+      "game": "https://www.chess.com/game/live/3811671818"
+    },
+    "record": {
+      "win": 43,
+      "loss": 25,
+      "draw": 8
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2640,
+      "date": 1543590059
+    },
+    "lowest": {
+      "rating": 2640,
+      "date": 1543590059
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

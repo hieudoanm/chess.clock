@@ -1,0 +1,81 @@
+{
+  "player_id": 64287074,
+  "@id": "https://api.chess.com/pub/player/mariaforever",
+  "url": "https://www.chess.com/member/MariaForEver",
+  "name": "Patrice Verdier",
+  "username": "mariaforever",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1572082017,
+  "joined": 1565772362,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1483,
+      "date": 1724472764,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2018,
+      "date": 1568103603,
+      "game": "https://www.chess.com/game/daily/234694710"
+    },
+    "record": {
+      "win": 58,
+      "loss": 59,
+      "draw": 2,
+      "time_per_move": 23028,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1993,
+      "date": 1572025403,
+      "rd": 66
+    },
+    "best": {
+      "rating": 1861,
+      "date": 1571337671,
+      "game": "https://www.chess.com/game/live/4127163493"
+    },
+    "record": {
+      "win": 20,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2060,
+      "date": 1572095309,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2127,
+      "date": 1570471694,
+      "game": "https://www.chess.com/game/live/4012406284"
+    },
+    "record": {
+      "win": 62,
+      "loss": 36,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1565772362
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1565772362
+    }
+  },
+  "puzzle_rush": {}
+}

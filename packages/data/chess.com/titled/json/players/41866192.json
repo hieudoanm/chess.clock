@@ -1,0 +1,104 @@
+{
+  "player_id": 41866192,
+  "@id": "https://api.chess.com/pub/player/el_sporco",
+  "url": "https://www.chess.com/member/el_sporco",
+  "name": "Giorgio Belli",
+  "username": "el_sporco",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776588800,
+  "joined": 1514734058,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1745612396,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1745612396,
+      "game": "https://www.chess.com/game/daily/805802348"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 87,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2210,
+      "date": 1682019922,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2295,
+      "date": 1648756597,
+      "game": "https://www.chess.com/game/live/75758596165"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2412,
+      "date": 1776160174,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1763243697,
+      "game": "https://www.chess.com/game/live/123698430039"
+    },
+    "record": {
+      "win": 783,
+      "loss": 764,
+      "draw": 101
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1776465267,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2660,
+      "date": 1736881466,
+      "game": "https://www.chess.com/game/live/131840433017"
+    },
+    "record": {
+      "win": 4145,
+      "loss": 3886,
+      "draw": 843
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2311,
+      "date": 1768694607
+    },
+    "lowest": {
+      "rating": 2131,
+      "date": 1766311648
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

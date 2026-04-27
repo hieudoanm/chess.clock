@@ -1,0 +1,136 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45084226.f39b72ad.200x200o.fc12acf91ac6.png",
+  "player_id": 45084226,
+  "@id": "https://api.chess.com/pub/player/el008",
+  "url": "https://www.chess.com/member/el008",
+  "name": "Eric Liu",
+  "username": "el008",
+  "title": "IM",
+  "followers": 2527,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776472917,
+  "joined": 1523151783,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1700,
+      "date": 1776355661,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1957,
+      "date": 1754406680,
+      "game": "https://www.chess.com/game/daily/823915492"
+    },
+    "record": {
+      "win": 751,
+      "loss": 598,
+      "draw": 67,
+      "time_per_move": 31574,
+      "timeout_percent": 50
+    },
+    "tournament": {
+      "points": 461,
+      "withdraw": 20,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1795,
+      "date": 1773257103,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1916,
+      "date": 1755510397,
+      "game": "https://www.chess.com/game/daily/814615072"
+    },
+    "record": {
+      "win": 236,
+      "loss": 111,
+      "draw": 14,
+      "time_per_move": 31574,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 461,
+      "withdraw": 20,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2383,
+      "date": 1762140125,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1736624328,
+      "game": "https://www.chess.com/game/live/6237403015"
+    },
+    "record": {
+      "win": 251,
+      "loss": 172,
+      "draw": 62
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3038,
+      "date": 1774499613,
+      "rd": 39
+    },
+    "best": {
+      "rating": 3081,
+      "date": 1774132411,
+      "game": "https://www.chess.com/game/live/101517110715"
+    },
+    "record": {
+      "win": 3471,
+      "loss": 2854,
+      "draw": 350
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3013,
+      "date": 1776457317,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3042,
+      "date": 1774472868,
+      "game": "https://www.chess.com/game/live/166128720470"
+    },
+    "record": {
+      "win": 799,
+      "loss": 606,
+      "draw": 127
+    }
+  },
+  "fide": 2442,
+  "tactics": {
+    "highest": {
+      "rating": 2955,
+      "date": 1760044715
+    },
+    "lowest": {
+      "rating": 2576,
+      "date": 1760060764
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 192,
+      "score": 189
+    }
+  }
+}

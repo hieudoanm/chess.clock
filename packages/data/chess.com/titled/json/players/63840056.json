@@ -1,0 +1,104 @@
+{
+  "player_id": 63840056,
+  "@id": "https://api.chess.com/pub/player/jddg",
+  "url": "https://www.chess.com/member/JDDG",
+  "name": "Jesus Daniel Diaz Guerrero",
+  "username": "jddg",
+  "title": "CM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/MX",
+  "last_online": 1776394025,
+  "joined": 1564593605,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1255,
+      "date": 1723716209,
+      "rd": 96
+    },
+    "best": {
+      "rating": 1352,
+      "date": 1568073007,
+      "game": "https://www.chess.com/game/daily/235187496"
+    },
+    "record": {
+      "win": 21,
+      "loss": 9,
+      "draw": 2,
+      "time_per_move": 45446,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2067,
+      "date": 1741549030,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1739124871,
+      "game": "https://www.chess.com/game/live/132863326587"
+    },
+    "record": {
+      "win": 143,
+      "loss": 55,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1775862216,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1774720614,
+      "game": "https://www.chess.com/game/live/169033844007"
+    },
+    "record": {
+      "win": 163,
+      "loss": 123,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2577,
+      "date": 1776374458,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2581,
+      "date": 1773331516,
+      "game": "https://www.chess.com/game/live/170683844223"
+    },
+    "record": {
+      "win": 354,
+      "loss": 258,
+      "draw": 63
+    }
+  },
+  "fide": 2047,
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1769145634
+    },
+    "lowest": {
+      "rating": 2143,
+      "date": 1772226492
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

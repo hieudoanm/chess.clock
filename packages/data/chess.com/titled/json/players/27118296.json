@@ -1,0 +1,86 @@
+{
+  "player_id": 27118296,
+  "@id": "https://api.chess.com/pub/player/sewin16",
+  "url": "https://www.chess.com/member/sewin16",
+  "name": "Evgeny Sysolyatin",
+  "username": "sewin16",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Spb",
+  "last_online": 1774900530,
+  "joined": 1457376625,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2015,
+      "date": 1762714274,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2015,
+      "date": 1762714274,
+      "game": "https://www.chess.com/game/live/133042787203"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2543,
+      "date": 1589738843,
+      "rd": 217
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1589738676,
+      "game": "https://www.chess.com/game/live/4869738193"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2548,
+      "date": 1774900521,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2672,
+      "date": 1750604402,
+      "game": "https://www.chess.com/game/live/130368656663"
+    },
+    "record": {
+      "win": 3131,
+      "loss": 3170,
+      "draw": 801
+    }
+  },
+  "fide": 2271,
+  "tactics": {
+    "highest": {
+      "rating": 2470,
+      "date": 1756239576
+    },
+    "lowest": {
+      "rating": 2327,
+      "date": 1764254978
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

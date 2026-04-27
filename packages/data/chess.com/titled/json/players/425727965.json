@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/425727965.d9ef30b2.200x200o.dff98c903780.jpg",
+  "player_id": 425727965,
+  "@id": "https://api.chess.com/pub/player/chara",
+  "url": "https://www.chess.com/member/Chara",
+  "username": "chara",
+  "title": "NM",
+  "followers": 140,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1763771156,
+  "joined": 1738453408,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2118,
+      "date": 1761441211,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2125,
+      "date": 1760651679,
+      "game": "https://www.chess.com/game/live/144364018690"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2800,
+      "date": 1763090255,
+      "rd": 33
+    },
+    "record": {
+      "win": 83,
+      "loss": 41,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2666,
+      "date": 1763782484,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2856,
+      "date": 1752857609,
+      "game": "https://www.chess.com/game/live/139826333430"
+    },
+    "record": {
+      "win": 877,
+      "loss": 949,
+      "draw": 153
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2058,
+      "date": 1760845444
+    },
+    "lowest": {
+      "rating": 1759,
+      "date": 1757301855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 58
+    }
+  }
+}

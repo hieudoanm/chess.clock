@@ -1,0 +1,106 @@
+{
+  "player_id": 74196886,
+  "@id": "https://api.chess.com/pub/player/nanjibear",
+  "url": "https://www.chess.com/member/Nanjibear",
+  "username": "nanjibear",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776574775,
+  "joined": 1584911643,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1266,
+      "date": 1709654195,
+      "rd": 313
+    },
+    "best": {
+      "rating": 1266,
+      "date": 1610839713,
+      "game": "https://www.chess.com/game/daily/294780958"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 58212,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1709654195,
+      "rd": 171
+    },
+    "best": {
+      "rating": 1938,
+      "date": 1642875100,
+      "game": "https://www.chess.com/game/live/6006912610"
+    },
+    "record": {
+      "win": 29,
+      "loss": 18,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2111,
+      "date": 1776125208,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1773817261,
+      "game": "https://www.chess.com/game/live/166096792488"
+    },
+    "record": {
+      "win": 206,
+      "loss": 159,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1776565670,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1776565670,
+      "game": "https://www.chess.com/game/live/167508528568"
+    },
+    "record": {
+      "win": 83,
+      "loss": 54,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2213,
+      "date": 1761715436
+    },
+    "lowest": {
+      "rating": 2073,
+      "date": 1773261886
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 45
+    },
+    "daily": {
+      "total_attempts": 10,
+      "score": 9
+    }
+  }
+}

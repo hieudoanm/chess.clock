@@ -1,0 +1,87 @@
+{
+  "player_id": 55331514,
+  "@id": "https://api.chess.com/pub/player/losersgame",
+  "url": "https://www.chess.com/member/losersgame",
+  "name": "Samson Benen",
+  "username": "losersgame",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776533422,
+  "joined": 1546218652,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2276,
+      "date": 1776451644,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1776131635,
+      "game": "https://www.chess.com/game/daily/618681207"
+    },
+    "record": {
+      "win": 35,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 19575,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2468,
+      "date": 1660596204,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2637,
+      "date": 1620264923,
+      "game": "https://www.chess.com/game/live/13925485865"
+    },
+    "record": {
+      "win": 7,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2616,
+      "date": 1776533396,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1775741312,
+      "game": "https://www.chess.com/game/live/23135527079"
+    },
+    "record": {
+      "win": 1472,
+      "loss": 1104,
+      "draw": 238
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2782,
+      "date": 1758672488
+    },
+    "lowest": {
+      "rating": 2615,
+      "date": 1769132702
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

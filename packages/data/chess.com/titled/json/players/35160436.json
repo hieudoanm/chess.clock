@@ -1,0 +1,103 @@
+{
+  "player_id": 35160436,
+  "@id": "https://api.chess.com/pub/player/biowaffeln",
+  "url": "https://www.chess.com/member/biowaffeln",
+  "name": "Mark Kvetny",
+  "username": "biowaffeln",
+  "title": "IM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776441857,
+  "joined": 1493504614,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1775207555,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1765803577,
+      "game": "https://www.chess.com/game/daily/860781142"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7115,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2398,
+      "date": 1738409457
+    },
+    "best": {
+      "rating": 2090,
+      "date": 1731056963,
+      "game": "https://www.chess.com/game/live/18552591693"
+    },
+    "record": {
+      "win": 21,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2808,
+      "date": 1776440767,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2813,
+      "date": 1757680585,
+      "game": "https://www.chess.com/game/live/142809750814"
+    },
+    "record": {
+      "win": 312,
+      "loss": 170,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2958,
+      "date": 1776439062,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2958,
+      "date": 1776439062,
+      "game": "https://www.chess.com/game/live/166284620892"
+    },
+    "record": {
+      "win": 633,
+      "loss": 415,
+      "draw": 92
+    }
+  },
+  "fide": 2398,
+  "tactics": {
+    "highest": {
+      "rating": 2274,
+      "date": 1757845763
+    },
+    "lowest": {
+      "rating": 2072,
+      "date": 1774045973
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 43
+    }
+  }
+}

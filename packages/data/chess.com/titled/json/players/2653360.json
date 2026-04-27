@@ -1,0 +1,100 @@
+{
+  "player_id": 2653360,
+  "@id": "https://api.chess.com/pub/player/srijitpaul",
+  "url": "https://www.chess.com/member/srijitpaul",
+  "name": "Srijit Paul",
+  "username": "srijitpaul",
+  "title": "IM",
+  "followers": 69,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Kolkata",
+  "last_online": 1776592205,
+  "joined": 1269104498,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1768922597,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 3022,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2327,
+      "date": 1771670769,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1615212580,
+      "game": "https://www.chess.com/game/live/8951200269"
+    },
+    "record": {
+      "win": 19,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2312,
+      "date": 1768922784,
+      "rd": 323
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1616134288,
+      "game": "https://www.chess.com/game/live/115993361"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2620,
+      "date": 1726155928,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2697,
+      "date": 1693037815,
+      "game": "https://www.chess.com/game/live/87413517969"
+    },
+    "record": {
+      "win": 1636,
+      "loss": 1109,
+      "draw": 129
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2526,
+      "date": 1269104498
+    },
+    "lowest": {
+      "rating": 2526,
+      "date": 1269104498
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

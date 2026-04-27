@@ -1,0 +1,105 @@
+{
+  "player_id": 1835638,
+  "@id": "https://api.chess.com/pub/player/nefas",
+  "url": "https://www.chess.com/member/nefas",
+  "name": "Daniele Lapiccirella",
+  "username": "nefas",
+  "title": "NM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Ceriano Laghetto",
+  "last_online": 1776495531,
+  "joined": 1237828904,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 830,
+      "date": 1713515291,
+      "rd": 133
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1237828904,
+      "game": "https://www.chess.com/game/daily/495335365"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9343,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2047,
+      "date": 1724662283,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1640789247,
+      "game": "https://www.chess.com/game/live/34526379977"
+    },
+    "record": {
+      "win": 135,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2399,
+      "date": 1776495521,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1605376563,
+      "game": "https://www.chess.com/game/live/34964993485"
+    },
+    "record": {
+      "win": 2829,
+      "loss": 2524,
+      "draw": 373
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2238,
+      "date": 1684778049,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1606413028,
+      "game": "https://www.chess.com/game/live/34437548879"
+    },
+    "record": {
+      "win": 1026,
+      "loss": 882,
+      "draw": 173
+    }
+  },
+  "fide": 2123,
+  "tactics": {
+    "highest": {
+      "rating": 2542,
+      "date": 1772023788
+    },
+    "lowest": {
+      "rating": 2317,
+      "date": 1766509354
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 79,
+      "score": 76
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/22235094.4304ee00.200x200o.7d4f2a45ffc2.jpg",
+  "player_id": 22235094,
+  "@id": "https://api.chess.com/pub/player/thucanh",
+  "url": "https://www.chess.com/member/thucanh",
+  "name": "Le Hien Thuc",
+  "username": "thucanh",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/VN",
+  "location": "ho chi minh",
+  "last_online": 1776577864,
+  "joined": 1430668000,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1736772005,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 323758,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1646,
+      "date": 1775136783,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1935,
+      "date": 1689849637,
+      "game": "https://www.chess.com/game/live/145533897998"
+    },
+    "record": {
+      "win": 18,
+      "loss": 24,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1819,
+      "date": 1774023899,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2101,
+      "date": 1737540605,
+      "game": "https://www.chess.com/game/live/118243685315"
+    },
+    "record": {
+      "win": 75,
+      "loss": 56,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2148,
+      "date": 1775448052,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1555485906,
+      "game": "https://www.chess.com/game/live/3624052406"
+    },
+    "record": {
+      "win": 369,
+      "loss": 313,
+      "draw": 29
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1590,
+      "date": 1765542459
+    },
+    "lowest": {
+      "rating": 1335,
+      "date": 1768707026
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    },
+    "daily": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

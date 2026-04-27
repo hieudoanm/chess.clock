@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35172148.ba986bb9.200x200o.8fb497655df7.jpeg",
+  "player_id": 35172148,
+  "@id": "https://api.chess.com/pub/player/duratschok",
+  "url": "https://www.chess.com/member/Duratschok",
+  "name": "Johann Webersberger",
+  "username": "duratschok",
+  "title": "IM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Vienna",
+  "last_online": 1776337576,
+  "joined": 1493556086,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1875,
+      "date": 1671701307,
+      "rd": 316
+    },
+    "best": {
+      "rating": 1875,
+      "date": 1640088373,
+      "game": "https://www.chess.com/game/daily/373565395"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4353,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2263,
+      "date": 1586029015,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1586027208,
+      "game": "https://www.chess.com/game/live/4678663459"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2303,
+      "date": 1543357913,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1543357762,
+      "game": "https://www.chess.com/game/live/3249855543"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2512,
+      "date": 1586551981,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1585851314,
+      "game": "https://www.chess.com/game/live/3333720612"
+    },
+    "record": {
+      "win": 1072,
+      "loss": 887,
+      "draw": 295
+    }
+  },
+  "fide": 2379,
+  "tactics": {
+    "highest": {
+      "rating": 2471,
+      "date": 1493556086
+    },
+    "lowest": {
+      "rating": 2471,
+      "date": 1493556086
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

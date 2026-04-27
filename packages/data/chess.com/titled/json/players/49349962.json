@@ -1,0 +1,104 @@
+{
+  "player_id": 49349962,
+  "@id": "https://api.chess.com/pub/player/marekfizer",
+  "url": "https://www.chess.com/member/MarekFizer",
+  "name": "Marek Fizer",
+  "username": "marekfizer",
+  "title": "CM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1775226706,
+  "joined": 1535867676,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1385,
+      "date": 1734390824,
+      "rd": 180
+    },
+    "best": {
+      "rating": 1532,
+      "date": 1671388792,
+      "game": "https://www.chess.com/game/daily/450187919"
+    },
+    "record": {
+      "win": 14,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 55512,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1786,
+      "date": 1690114753,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1805,
+      "date": 1677072568,
+      "game": "https://www.chess.com/game/live/6041408061"
+    },
+    "record": {
+      "win": 77,
+      "loss": 56,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1710,
+      "date": 1687115620,
+      "rd": 79
+    },
+    "best": {
+      "rating": 1727,
+      "date": 1686491921,
+      "game": "https://www.chess.com/game/live/5942280932"
+    },
+    "record": {
+      "win": 47,
+      "loss": 26,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2383,
+      "date": 1750784726,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1750784045,
+      "game": "https://www.chess.com/game/live/128197146637"
+    },
+    "record": {
+      "win": 305,
+      "loss": 202,
+      "draw": 22
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2614,
+      "date": 1535867676
+    },
+    "lowest": {
+      "rating": 2614,
+      "date": 1535867676
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

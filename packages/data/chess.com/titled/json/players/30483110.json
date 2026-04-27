@@ -1,0 +1,103 @@
+{
+  "player_id": 30483110,
+  "@id": "https://api.chess.com/pub/player/malenacr",
+  "url": "https://www.chess.com/member/Malenacr",
+  "name": "Maria Rodriguez",
+  "username": "malenacr",
+  "title": "WIM",
+  "followers": 24,
+  "country": "https://api.chess.com/pub/country/CR",
+  "last_online": 1678906722,
+  "joined": 1476906776,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1463,
+      "date": 1635668903,
+      "rd": 344
+    },
+    "best": {
+      "rating": 1463,
+      "date": 1604097002,
+      "game": "https://www.chess.com/game/daily/148084146"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 20198,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1922,
+      "date": 1634509640,
+      "rd": 73
+    },
+    "best": {
+      "rating": 1988,
+      "date": 1611432052,
+      "game": "https://www.chess.com/game/live/6324791275"
+    },
+    "record": {
+      "win": 35,
+      "loss": 22,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2050,
+      "date": 1596867394,
+      "rd": 204
+    },
+    "best": {
+      "rating": 1599,
+      "date": 1554468362,
+      "game": "https://www.chess.com/game/live/3592399227"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1837,
+      "date": 1639496665,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1973,
+      "date": 1627156137,
+      "game": "https://www.chess.com/game/live/5548450701"
+    },
+    "record": {
+      "win": 36,
+      "loss": 28,
+      "draw": 3
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2292,
+      "date": 1476906776
+    },
+    "lowest": {
+      "rating": 2292,
+      "date": 1476906776
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

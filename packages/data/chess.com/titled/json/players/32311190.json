@@ -1,0 +1,62 @@
+{
+  "player_id": 32311190,
+  "@id": "https://api.chess.com/pub/player/egolav",
+  "url": "https://www.chess.com/member/egolav",
+  "name": "Egons Lavendelis",
+  "username": "egolav",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/LV",
+  "last_online": 1766842749,
+  "joined": 1484150918,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2303,
+      "date": 1631292029,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1631202167,
+      "game": "https://www.chess.com/game/live/24852130061"
+    },
+    "record": {
+      "win": 12,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1626013837,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1578738644,
+      "game": "https://www.chess.com/game/live/3787231008"
+    },
+    "record": {
+      "win": 286,
+      "loss": 215,
+      "draw": 57
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1484150918
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1484150918
+    }
+  },
+  "puzzle_rush": {}
+}

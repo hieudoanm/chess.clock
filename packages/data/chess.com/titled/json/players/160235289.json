@@ -1,0 +1,84 @@
+{
+  "player_id": 160235289,
+  "@id": "https://api.chess.com/pub/player/khbr4",
+  "url": "https://www.chess.com/member/KHBR4",
+  "name": "Alparslan Isik",
+  "username": "khbr4",
+  "title": "IM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776514029,
+  "joined": 1636018119,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2034,
+      "date": 1771171073,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1770566129,
+      "game": "https://www.chess.com/game/live/124657762327"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2777,
+      "date": 1776464013,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2909,
+      "date": 1692636525,
+      "game": "https://www.chess.com/game/live/71256542389"
+    },
+    "record": {
+      "win": 1325,
+      "loss": 1356,
+      "draw": 170
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2424,
+      "date": 1776345031,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1673863066,
+      "game": "https://www.chess.com/game/live/66576627867"
+    },
+    "record": {
+      "win": 843,
+      "loss": 917,
+      "draw": 169
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2749,
+      "date": 1773838181
+    },
+    "lowest": {
+      "rating": 2164,
+      "date": 1773838521
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

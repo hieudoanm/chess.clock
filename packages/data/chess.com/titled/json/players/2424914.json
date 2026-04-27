@@ -1,0 +1,99 @@
+{
+  "player_id": 2424914,
+  "@id": "https://api.chess.com/pub/player/billcoe",
+  "url": "https://www.chess.com/member/BillCoe",
+  "name": "William Coe",
+  "username": "billcoe",
+  "title": "NM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Huntersville, NC",
+  "last_online": 1776505327,
+  "joined": 1262223520,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2158,
+      "date": 1702672447,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1454668552,
+      "game": "https://www.chess.com/game/daily/116278446"
+    },
+    "record": {
+      "win": 27,
+      "loss": 10,
+      "draw": 11,
+      "time_per_move": 52954,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2138,
+      "date": 1774223022,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2138,
+      "date": 1774223022,
+      "game": "https://www.chess.com/game/live/166215675480"
+    },
+    "record": {
+      "win": 42,
+      "loss": 11,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1744,
+      "date": 1711663510,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1617497548,
+      "game": "https://www.chess.com/game/live/11235774693"
+    },
+    "record": {
+      "win": 175,
+      "loss": 147,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2293,
+      "date": 1774372049,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2325,
+      "date": 1774368442,
+      "game": "https://www.chess.com/game/live/168681867665"
+    },
+    "record": {
+      "win": 4687,
+      "loss": 5809,
+      "draw": 1013
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2328,
+      "date": 1771188722
+    },
+    "lowest": {
+      "rating": 2178,
+      "date": 1758933970
+    }
+  },
+  "puzzle_rush": {}
+}

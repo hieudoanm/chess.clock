@@ -1,0 +1,87 @@
+{
+  "player_id": 7497320,
+  "@id": "https://api.chess.com/pub/player/zbbesque",
+  "url": "https://www.chess.com/member/zbbesque",
+  "name": "Scott Low",
+  "username": "zbbesque",
+  "title": "NM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775927465,
+  "joined": 1336256223,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1411,
+      "date": 1738323232,
+      "rd": 215
+    },
+    "best": {
+      "rating": 1411,
+      "date": 1687225125,
+      "game": "https://www.chess.com/game/daily/516641919"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 306801,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2534,
+      "date": 1773796503,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1619319168,
+      "game": "https://www.chess.com/game/live/394833101"
+    },
+    "record": {
+      "win": 37,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2061,
+      "date": 1768022627,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1566739353,
+      "game": "https://www.chess.com/game/live/559468137"
+    },
+    "record": {
+      "win": 181,
+      "loss": 75,
+      "draw": 24
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1336256223
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1336256223
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

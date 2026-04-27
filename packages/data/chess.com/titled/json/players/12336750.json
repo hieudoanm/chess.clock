@@ -1,0 +1,100 @@
+{
+  "player_id": 12336750,
+  "@id": "https://api.chess.com/pub/player/digitopolis",
+  "url": "https://www.chess.com/member/Digitopolis",
+  "name": "Thomas Ulrich",
+  "username": "digitopolis",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago, IL",
+  "last_online": 1775829522,
+  "joined": 1371326487,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2181,
+      "date": 1723733631,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2181,
+      "date": 1397064678,
+      "game": "https://www.chess.com/game/daily/80548374"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75054,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2364,
+      "date": 1651115630,
+      "rd": 343
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1632932802,
+      "game": "https://www.chess.com/game/live/990927973"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1541296995,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1541296995,
+      "game": "https://www.chess.com/game/live/2439680084"
+    },
+    "record": {
+      "win": 4186,
+      "loss": 3406,
+      "draw": 321
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2356,
+      "date": 1621103015,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1506291352,
+      "game": "https://www.chess.com/game/live/1996321073"
+    },
+    "record": {
+      "win": 1603,
+      "loss": 1159,
+      "draw": 218
+    }
+  },
+  "fide": 2327,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1371326487
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1371326487
+    }
+  },
+  "puzzle_rush": {}
+}

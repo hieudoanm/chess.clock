@@ -1,0 +1,124 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28204958.ca430423.200x200o.a036b4053afb.jpeg",
+  "player_id": 28204958,
+  "@id": "https://api.chess.com/pub/player/alicewinns",
+  "url": "https://www.chess.com/member/alicewinns",
+  "name": "Alice Meier",
+  "username": "alicewinns",
+  "title": "WFM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Hamburg",
+  "last_online": 1776387212,
+  "joined": 1463343164,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1947,
+      "date": 1772982792,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1947,
+      "date": 1772982792,
+      "game": "https://www.chess.com/game/daily/504515849"
+    },
+    "record": {
+      "win": 38,
+      "loss": 5,
+      "draw": 10,
+      "time_per_move": 11728,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1844,
+      "date": 1683677559,
+      "rd": 118
+    },
+    "best": {
+      "rating": 1844,
+      "date": 1683677559,
+      "game": "https://www.chess.com/game/daily/504602751"
+    },
+    "record": {
+      "win": 12,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 11728,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2012,
+      "date": 1727264765,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1681066616,
+      "game": "https://www.chess.com/game/live/75333811235"
+    },
+    "record": {
+      "win": 84,
+      "loss": 39,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2001,
+      "date": 1776387181,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1630679876,
+      "game": "https://www.chess.com/game/live/3270332527"
+    },
+    "record": {
+      "win": 5765,
+      "loss": 5110,
+      "draw": 532
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2145,
+      "date": 1764630527,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2185,
+      "date": 1624542355,
+      "game": "https://www.chess.com/game/live/1789124725"
+    },
+    "record": {
+      "win": 1975,
+      "loss": 1792,
+      "draw": 237
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2288,
+      "date": 1764689470
+    },
+    "lowest": {
+      "rating": 1988,
+      "date": 1772313603
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

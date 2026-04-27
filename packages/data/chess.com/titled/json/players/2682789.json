@@ -1,0 +1,103 @@
+{
+  "player_id": 2682789,
+  "@id": "https://api.chess.com/pub/player/wongyc",
+  "url": "https://www.chess.com/member/wongyc",
+  "name": "YC Wong",
+  "username": "wongyc",
+  "title": "CM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/SG",
+  "last_online": 1776455087,
+  "joined": 1270122508,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1362,
+      "date": 1646731687,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1362,
+      "date": 1615118765,
+      "game": "https://www.chess.com/game/daily/272862610"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28947,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2160,
+      "date": 1616874615,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1616874615,
+      "game": "https://www.chess.com/game/live/8180651301"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2144,
+      "date": 1775739869,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1614913118,
+      "game": "https://www.chess.com/game/live/8651770143"
+    },
+    "record": {
+      "win": 179,
+      "loss": 118,
+      "draw": 14
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2226,
+      "date": 1775741303,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1525192574,
+      "game": "https://www.chess.com/game/live/2634211182"
+    },
+    "record": {
+      "win": 141,
+      "loss": 101,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2489,
+      "date": 1756068681
+    },
+    "lowest": {
+      "rating": 2248,
+      "date": 1775383872
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

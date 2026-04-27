@@ -1,0 +1,62 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20520762.97002866.200x200o.02d2df7aa87a.jpeg",
+  "player_id": 20520762,
+  "@id": "https://api.chess.com/pub/player/gmtopmoves",
+  "url": "https://www.chess.com/member/GMTopMoves",
+  "name": "Nick Pert",
+  "username": "gmtopmoves",
+  "title": "GM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776337537,
+  "joined": 1420628685,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2663,
+      "date": 1420654051,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1420650684,
+      "game": "https://www.chess.com/game/live/1022410968"
+    },
+    "record": {
+      "win": 11,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2610,
+      "date": 1468070950,
+      "rd": 223
+    },
+    "best": {
+      "rating": 2610,
+      "date": 1468070950,
+      "game": "https://www.chess.com/game/live/1577098219"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1420628685
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1420628685
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 151042289,
+  "@id": "https://api.chess.com/pub/player/imsosorryforyou",
+  "url": "https://www.chess.com/member/Imsosorryforyou",
+  "username": "imsosorryforyou",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/EU",
+  "last_online": 1764957136,
+  "joined": 1628886354,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1758637969,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2284,
+      "date": 1637775476,
+      "game": "https://www.chess.com/game/live/22955519561"
+    },
+    "record": {
+      "win": 97,
+      "loss": 63,
+      "draw": 42
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2403,
+      "date": 1644266237,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2447,
+      "date": 1632250470,
+      "game": "https://www.chess.com/game/live/26333413873"
+    },
+    "record": {
+      "win": 1498,
+      "loss": 1203,
+      "draw": 101
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2445,
+      "date": 1738527671,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1736173284,
+      "game": "https://www.chess.com/game/live/129998913147"
+    },
+    "record": {
+      "win": 575,
+      "loss": 460,
+      "draw": 44
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2559,
+      "date": 1758811308
+    },
+    "lowest": {
+      "rating": 1969,
+      "date": 1758808490
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

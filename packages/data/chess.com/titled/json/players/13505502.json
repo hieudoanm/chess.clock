@@ -1,0 +1,105 @@
+{
+  "player_id": 13505502,
+  "@id": "https://api.chess.com/pub/player/floplover",
+  "url": "https://www.chess.com/member/floplover",
+  "name": "Ignacio Gago",
+  "username": "floplover",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Madrid",
+  "last_online": 1776589904,
+  "joined": 1379032969,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1240,
+      "date": 1645272198,
+      "rd": 261
+    },
+    "best": {
+      "rating": 1240,
+      "date": 1645272198,
+      "game": "https://www.chess.com/game/daily/384979997"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2466,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1830,
+      "date": 1613924311,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1999,
+      "date": 1590425037,
+      "game": "https://www.chess.com/game/live/4906833395"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2208,
+      "date": 1747514420,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1701185406,
+      "game": "https://www.chess.com/game/live/6161908876"
+    },
+    "record": {
+      "win": 212,
+      "loss": 168,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2210,
+      "date": 1739827839,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1738626752,
+      "game": "https://www.chess.com/game/live/4558119648"
+    },
+    "record": {
+      "win": 1051,
+      "loss": 1049,
+      "draw": 157
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2472,
+      "date": 1756808041
+    },
+    "lowest": {
+      "rating": 2181,
+      "date": 1757498067
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

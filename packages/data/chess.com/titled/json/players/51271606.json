@@ -1,0 +1,104 @@
+{
+  "player_id": 51271606,
+  "@id": "https://api.chess.com/pub/player/fm_crow_fgm",
+  "url": "https://www.chess.com/member/FM_Crow_FGM",
+  "name": "Hector Jose Linares Orellana",
+  "username": "fm_crow_fgm",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776534402,
+  "joined": 1540840843,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 973,
+      "date": 1776431996,
+      "rd": 132
+    },
+    "best": {
+      "rating": 1339,
+      "date": 1706318915,
+      "game": "https://www.chess.com/game/daily/606292103"
+    },
+    "record": {
+      "win": 7,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 102872,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1756676706,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1756676706,
+      "game": "https://www.chess.com/game/live/142500332894"
+    },
+    "record": {
+      "win": 311,
+      "loss": 176,
+      "draw": 46
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2427,
+      "date": 1776375786,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1776206510,
+      "game": "https://www.chess.com/game/live/145021173471"
+    },
+    "record": {
+      "win": 271,
+      "loss": 239,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1774485943,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1774485943,
+      "game": "https://www.chess.com/game/live/158407045017"
+    },
+    "record": {
+      "win": 264,
+      "loss": 205,
+      "draw": 30
+    }
+  },
+  "fide": 2111,
+  "tactics": {
+    "highest": {
+      "rating": 2542,
+      "date": 1761103712
+    },
+    "lowest": {
+      "rating": 2457,
+      "date": 1756513475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32612412.062fb60b.200x200o.02539fc0bf9b.jpeg",
+  "player_id": 32612412,
+  "@id": "https://api.chess.com/pub/player/matbobula",
+  "url": "https://www.chess.com/member/MatBobula",
+  "name": "Mateusz Bobula",
+  "username": "matbobula",
+  "title": "IM",
+  "followers": 2185,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Krosno",
+  "last_online": 1776592704,
+  "joined": 1485186339,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/matbobula",
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/matbobula"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2041,
+      "date": 1775662518,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2052,
+      "date": 1588114152,
+      "game": "https://www.chess.com/game/daily/732022979"
+    },
+    "record": {
+      "win": 69,
+      "loss": 12,
+      "draw": 14,
+      "time_per_move": 13583,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2405,
+      "date": 1773851154,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1616150266,
+      "game": "https://www.chess.com/game/live/49469426069"
+    },
+    "record": {
+      "win": 207,
+      "loss": 94,
+      "draw": 48
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2441,
+      "date": 1766061289,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1607510037,
+      "game": "https://www.chess.com/game/live/3640386202"
+    },
+    "record": {
+      "win": 520,
+      "loss": 533,
+      "draw": 92
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2406,
+      "date": 1773441934,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1619780898,
+      "game": "https://www.chess.com/game/live/3518886731"
+    },
+    "record": {
+      "win": 1233,
+      "loss": 551,
+      "draw": 285
+    }
+  },
+  "fide": 2334,
+  "tactics": {
+    "highest": {
+      "rating": 2475,
+      "date": 1766406113
+    },
+    "lowest": {
+      "rating": 2339,
+      "date": 1766406268
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

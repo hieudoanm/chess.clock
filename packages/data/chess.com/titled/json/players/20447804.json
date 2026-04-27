@@ -1,0 +1,131 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20447804.cb7fdfab.200x200o.96167e1df619.jpeg",
+  "player_id": 20447804,
+  "@id": "https://api.chess.com/pub/player/mironius",
+  "url": "https://www.chess.com/member/mironius",
+  "name": "Evgenij Miroshnichenko",
+  "username": "mironius",
+  "title": "GM",
+  "followers": 411,
+  "country": "https://api.chess.com/pub/country/FM",
+  "location": "Moscow",
+  "last_online": 1648044890,
+  "joined": 1420211486,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/mironiusvulgaris",
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/mironiusvulgaris"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 2096,
+      "date": 1628584096,
+      "rd": 260
+    },
+    "best": {
+      "rating": 2096,
+      "date": 1597037964,
+      "game": "https://www.chess.com/game/daily/264271998"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37769,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1493545848,
+      "rd": 226
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1420211486,
+      "game": "https://www.chess.com/game/daily/163633102"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37769,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2482,
+      "date": 1595095087,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1551240012,
+      "game": "https://www.chess.com/game/live/5100141474"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2515,
+      "date": 1615717684,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2515,
+      "date": 1615717684,
+      "game": "https://www.chess.com/game/live/9456345529"
+    },
+    "record": {
+      "win": 107,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2559,
+      "date": 1648071391,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2737,
+      "date": 1546511475,
+      "game": "https://www.chess.com/game/live/2085107365"
+    },
+    "record": {
+      "win": 1356,
+      "loss": 405,
+      "draw": 193
+    }
+  },
+  "fide": 2604,
+  "tactics": {
+    "highest": {
+      "rating": 2731,
+      "date": 1420211486
+    },
+    "lowest": {
+      "rating": 2731,
+      "date": 1420211486
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 90,
+      "score": 87
+    }
+  }
+}

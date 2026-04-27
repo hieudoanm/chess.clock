@@ -1,0 +1,80 @@
+{
+  "player_id": 391294399,
+  "@id": "https://api.chess.com/pub/player/northbound30",
+  "url": "https://www.chess.com/member/NorthBound30",
+  "username": "northbound30",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775930857,
+  "joined": 1727283168,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1170,
+      "date": 1738975123,
+      "rd": 309
+    },
+    "best": {
+      "rating": 1625,
+      "date": 1733762716,
+      "game": "https://www.chess.com/game/daily/733869947"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 95142,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2630,
+      "date": 1760798540,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1731760219,
+      "game": "https://www.chess.com/game/live/125500724345"
+    },
+    "record": {
+      "win": 32,
+      "loss": 37,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2627,
+      "date": 1760904167,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1731869414,
+      "game": "https://www.chess.com/game/live/122672047467"
+    },
+    "record": {
+      "win": 389,
+      "loss": 467,
+      "draw": 226
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1727283168
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1727283168
+    }
+  },
+  "puzzle_rush": {}
+}

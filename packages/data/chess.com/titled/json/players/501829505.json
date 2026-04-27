@@ -1,0 +1,85 @@
+{
+  "player_id": 501829505,
+  "@id": "https://api.chess.com/pub/player/drobjed",
+  "url": "https://www.chess.com/member/drobjed",
+  "name": "Robin Duson",
+  "username": "drobjed",
+  "title": "WIM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776372985,
+  "joined": 1763385864,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2194,
+      "date": 1774787062,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1764367847,
+      "game": "https://www.chess.com/game/live/166584661622"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2259,
+      "date": 1765573205,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2319,
+      "date": 1765493740,
+      "game": "https://www.chess.com/game/live/146642323234"
+    },
+    "record": {
+      "win": 6,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2411,
+      "date": 1775764759,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1769373599,
+      "game": "https://www.chess.com/game/live/148403651242"
+    },
+    "record": {
+      "win": 242,
+      "loss": 148,
+      "draw": 17
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1768391605
+    },
+    "lowest": {
+      "rating": 2194,
+      "date": 1768391484
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

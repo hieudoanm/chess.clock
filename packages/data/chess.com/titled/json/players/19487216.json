@@ -1,0 +1,85 @@
+{
+  "player_id": 19487216,
+  "@id": "https://api.chess.com/pub/player/lestri",
+  "url": "https://www.chess.com/member/lestri",
+  "name": "Aleksa Strikovic",
+  "username": "lestri",
+  "title": "GM",
+  "followers": 95,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "A Coru\u00f1a",
+  "last_online": 1776074391,
+  "joined": 1414514587,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2343,
+      "date": 1768075922,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2492,
+      "date": 1614366983,
+      "game": "https://www.chess.com/game/live/18907010801"
+    },
+    "record": {
+      "win": 75,
+      "loss": 30,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2393,
+      "date": 1768072384,
+      "rd": 192
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1631990385,
+      "game": "https://www.chess.com/game/live/5630225467"
+    },
+    "record": {
+      "win": 62,
+      "loss": 26,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2661,
+      "date": 1768073547,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1638648690,
+      "game": "https://www.chess.com/game/live/32386842773"
+    },
+    "record": {
+      "win": 250,
+      "loss": 105,
+      "draw": 40
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2641,
+      "date": 1414514587
+    },
+    "lowest": {
+      "rating": 2641,
+      "date": 1414514587
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 22
+    }
+  }
+}

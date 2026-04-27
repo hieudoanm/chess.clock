@@ -1,0 +1,105 @@
+{
+  "player_id": 12541462,
+  "@id": "https://api.chess.com/pub/player/yuwono",
+  "url": "https://www.chess.com/member/Yuwono",
+  "name": "David Kjartansson",
+  "username": "yuwono",
+  "title": "IM",
+  "followers": 282,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Hverager\u00f0i",
+  "last_online": 1776339056,
+  "joined": 1372626180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2369,
+      "date": 1720513705,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2438,
+      "date": 1684573912,
+      "game": "https://www.chess.com/game/daily/387405559"
+    },
+    "record": {
+      "win": 585,
+      "loss": 435,
+      "draw": 162,
+      "time_per_move": 3601,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2552,
+      "date": 1687805660,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1687803893,
+      "game": "https://www.chess.com/game/live/57002319251"
+    },
+    "record": {
+      "win": 92,
+      "loss": 23,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2548,
+      "date": 1688647778,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1685659267,
+      "game": "https://www.chess.com/game/live/51540080815"
+    },
+    "record": {
+      "win": 3809,
+      "loss": 4520,
+      "draw": 487
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2652,
+      "date": 1687969727,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1660079183,
+      "game": "https://www.chess.com/game/live/50792476373"
+    },
+    "record": {
+      "win": 3822,
+      "loss": 3779,
+      "draw": 633
+    }
+  },
+  "fide": 2409,
+  "tactics": {
+    "highest": {
+      "rating": 2366,
+      "date": 1372626180
+    },
+    "lowest": {
+      "rating": 2366,
+      "date": 1372626180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

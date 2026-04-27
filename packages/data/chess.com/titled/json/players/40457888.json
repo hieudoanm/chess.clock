@@ -1,0 +1,68 @@
+{
+  "player_id": 40457888,
+  "@id": "https://api.chess.com/pub/player/sokolov_a_m",
+  "url": "https://www.chess.com/member/Sokolov_A_M",
+  "name": "Andrey M. Sokolov",
+  "username": "sokolov_a_m",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776015635,
+  "joined": 1510924311,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2158,
+      "date": 1652542098,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1647622361,
+      "game": "https://www.chess.com/game/live/46110562591"
+    },
+    "record": {
+      "win": 71,
+      "loss": 23,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1765902112,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2364,
+      "date": 1687427581,
+      "game": "https://www.chess.com/game/live/13889591955"
+    },
+    "record": {
+      "win": 886,
+      "loss": 583,
+      "draw": 102
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2599,
+      "date": 1774350182
+    },
+    "lowest": {
+      "rating": 2472,
+      "date": 1761556929
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

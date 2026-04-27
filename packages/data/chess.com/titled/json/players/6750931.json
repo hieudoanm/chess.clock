@@ -1,0 +1,105 @@
+{
+  "player_id": 6750931,
+  "@id": "https://api.chess.com/pub/player/microbear",
+  "url": "https://www.chess.com/member/microbear",
+  "name": "Eric Hon",
+  "username": "microbear",
+  "title": "NM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Fisherman's Warf",
+  "last_online": 1776559179,
+  "joined": 1330049391,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2045,
+      "date": 1767432495,
+      "rd": 201
+    },
+    "best": {
+      "rating": 2045,
+      "date": 1735851290,
+      "game": "https://www.chess.com/game/daily/85912656"
+    },
+    "record": {
+      "win": 47,
+      "loss": 14,
+      "draw": 2,
+      "time_per_move": 56136,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2135,
+      "date": 1761501546,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2357,
+      "date": 1662778839,
+      "game": "https://www.chess.com/game/live/12713176721"
+    },
+    "record": {
+      "win": 147,
+      "loss": 66,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2498,
+      "date": 1776559129,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1759173550,
+      "game": "https://www.chess.com/game/live/143716802660"
+    },
+    "record": {
+      "win": 20980,
+      "loss": 20311,
+      "draw": 2092
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2374,
+      "date": 1775325254,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1762607239,
+      "game": "https://www.chess.com/game/live/142671616371"
+    },
+    "record": {
+      "win": 1211,
+      "loss": 890,
+      "draw": 130
+    }
+  },
+  "fide": 1260,
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1330049391
+    },
+    "lowest": {
+      "rating": 2469,
+      "date": 1330049391
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

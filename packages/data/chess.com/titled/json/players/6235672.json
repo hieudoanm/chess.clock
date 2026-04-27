@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6235672.d2cbe4d0.200x200o.c1c8625e77aa.jpeg",
+  "player_id": 6235672,
+  "@id": "https://api.chess.com/pub/player/patzerplay",
+  "url": "https://www.chess.com/member/patzerplay",
+  "name": "Michael Auger",
+  "username": "patzerplay",
+  "title": "NM",
+  "followers": 52,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago",
+  "last_online": 1776565300,
+  "joined": 1322856287,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1945,
+      "date": 1705255085,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1378083729,
+      "game": "https://www.chess.com/game/daily/157887919"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 27919,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2078,
+      "date": 1738460187,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1738460187,
+      "game": "https://www.chess.com/game/live/132197408497"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2383,
+      "date": 1776565279,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1736876221,
+      "game": "https://www.chess.com/game/live/52356654061"
+    },
+    "record": {
+      "win": 1013,
+      "loss": 985,
+      "draw": 112
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1776467336,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2558,
+      "date": 1759854852,
+      "game": "https://www.chess.com/game/live/154167999537"
+    },
+    "record": {
+      "win": 312,
+      "loss": 252,
+      "draw": 28
+    }
+  },
+  "fide": 2264,
+  "tactics": {
+    "highest": {
+      "rating": 2710,
+      "date": 1765406583
+    },
+    "lowest": {
+      "rating": 2603,
+      "date": 1765406628
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

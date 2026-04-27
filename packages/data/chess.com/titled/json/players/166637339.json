@@ -1,0 +1,83 @@
+{
+  "player_id": 166637339,
+  "@id": "https://api.chess.com/pub/player/worse_than_tuka",
+  "url": "https://www.chess.com/member/Worse_Than_Tuka",
+  "username": "worse_than_tuka",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/MN",
+  "last_online": 1776598136,
+  "joined": 1640700302,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2327,
+      "date": 1744783663,
+      "rd": 46
+    },
+    "record": {
+      "win": 0,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2924,
+      "date": 1774760570,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2944,
+      "date": 1774352340,
+      "game": "https://www.chess.com/game/live/166199204638"
+    },
+    "record": {
+      "win": 259,
+      "loss": 180,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2913,
+      "date": 1776162391,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2913,
+      "date": 1776162391,
+      "game": "https://www.chess.com/game/live/141542143646"
+    },
+    "record": {
+      "win": 459,
+      "loss": 448,
+      "draw": 112
+    }
+  },
+  "fide": 1162,
+  "tactics": {
+    "highest": {
+      "rating": 3066,
+      "date": 1774073511
+    },
+    "lowest": {
+      "rating": 2799,
+      "date": 1755682896
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    },
+    "daily": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

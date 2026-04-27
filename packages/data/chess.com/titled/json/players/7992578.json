@@ -1,0 +1,104 @@
+{
+  "player_id": 7992578,
+  "@id": "https://api.chess.com/pub/player/zmeusor",
+  "url": "https://www.chess.com/member/Zmeusor",
+  "name": "Radu-Andrei Murgescu",
+  "username": "zmeusor",
+  "title": "NM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776555313,
+  "joined": 1340536745,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1021,
+      "date": 1775752903,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1340536745,
+      "game": "https://www.chess.com/game/daily/943807217"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 34943,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2311,
+      "date": 1775840951,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1765648042,
+      "game": "https://www.chess.com/game/live/144408114880"
+    },
+    "record": {
+      "win": 74,
+      "loss": 34,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2114,
+      "date": 1776388244,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2234,
+      "date": 1751045880,
+      "game": "https://www.chess.com/game/live/97098711747"
+    },
+    "record": {
+      "win": 1566,
+      "loss": 1419,
+      "draw": 117
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2151,
+      "date": 1776286315,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1748886826,
+      "game": "https://www.chess.com/game/live/4906056998"
+    },
+    "record": {
+      "win": 2735,
+      "loss": 2421,
+      "draw": 328
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2479,
+      "date": 1774231245
+    },
+    "lowest": {
+      "rating": 2201,
+      "date": 1768612514
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 67995914,
+  "@id": "https://api.chess.com/pub/player/nuestro64",
+  "url": "https://www.chess.com/member/NUESTRO64",
+  "name": "NATALIA SILVA",
+  "username": "nuestro64",
+  "title": "WCM",
+  "followers": 381,
+  "country": "https://api.chess.com/pub/country/UY",
+  "last_online": 1776413790,
+  "joined": 1573777203,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1687315093,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 27,
+      "draw": 0,
+      "time_per_move": 87914,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1583,
+      "date": 1776596396,
+      "rd": 70
+    },
+    "best": {
+      "rating": 1802,
+      "date": 1612924350,
+      "game": "https://www.chess.com/game/live/51279649059"
+    },
+    "record": {
+      "win": 135,
+      "loss": 104,
+      "draw": 19
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 749,
+      "date": 1776398919,
+      "rd": 35
+    },
+    "best": {
+      "rating": 1896,
+      "date": 1600221059,
+      "game": "https://www.chess.com/game/live/49602001503"
+    },
+    "record": {
+      "win": 3539,
+      "loss": 3753,
+      "draw": 131
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1292,
+      "date": 1776395634,
+      "rd": 25
+    },
+    "best": {
+      "rating": 1789,
+      "date": 1573788288,
+      "game": "https://www.chess.com/game/live/4606438546"
+    },
+    "record": {
+      "win": 4467,
+      "loss": 3341,
+      "draw": 321
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1865,
+      "date": 1775741961
+    },
+    "lowest": {
+      "rating": 1538,
+      "date": 1775721566
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

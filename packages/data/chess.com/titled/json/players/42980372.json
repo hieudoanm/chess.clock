@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/42980372.64e455ee.200x200o.28a851e12ce9.jpg",
+  "player_id": 42980372,
+  "@id": "https://api.chess.com/pub/player/kinga2008",
+  "url": "https://www.chess.com/member/kinga2008",
+  "name": "Simeon Todev",
+  "username": "kinga2008",
+  "title": "CM",
+  "followers": 297,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1776557907,
+  "joined": 1517695491,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1420,
+      "date": 1759652919,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1604,
+      "date": 1567880680,
+      "game": "https://www.chess.com/game/daily/230389618"
+    },
+    "record": {
+      "win": 12,
+      "loss": 37,
+      "draw": 2,
+      "time_per_move": 41626,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1786,
+      "date": 1765307918,
+      "rd": 183
+    },
+    "best": {
+      "rating": 1931,
+      "date": 1662943519,
+      "game": "https://www.chess.com/game/live/56574610441"
+    },
+    "record": {
+      "win": 52,
+      "loss": 48,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2668,
+      "date": 1776553749,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2859,
+      "date": 1766614957,
+      "game": "https://www.chess.com/game/live/144245775120"
+    },
+    "record": {
+      "win": 2456,
+      "loss": 2504,
+      "draw": 299
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2654,
+      "date": 1776548024,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2760,
+      "date": 1765020517,
+      "game": "https://www.chess.com/game/live/96160380899"
+    },
+    "record": {
+      "win": 8640,
+      "loss": 8173,
+      "draw": 1160
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1764022173
+    },
+    "lowest": {
+      "rating": 2428,
+      "date": 1764022251
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

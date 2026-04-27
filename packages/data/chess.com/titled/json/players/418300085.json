@@ -1,0 +1,78 @@
+{
+  "player_id": 418300085,
+  "@id": "https://api.chess.com/pub/player/fussy_kitten",
+  "url": "https://www.chess.com/member/Fussy_Kitten",
+  "username": "fussy_kitten",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776027451,
+  "joined": 1737052112,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2193,
+      "date": 1746306796,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2469,
+      "date": 1774904526,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1771013507,
+      "game": "https://www.chess.com/game/live/164153175228"
+    },
+    "record": {
+      "win": 67,
+      "loss": 59,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2653,
+      "date": 1776027443,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2708,
+      "date": 1775594040,
+      "game": "https://www.chess.com/game/live/146520424550"
+    },
+    "record": {
+      "win": 172,
+      "loss": 179,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2890,
+      "date": 1765014864
+    },
+    "lowest": {
+      "rating": 2388,
+      "date": 1757095581
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

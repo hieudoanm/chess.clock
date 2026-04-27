@@ -1,0 +1,103 @@
+{
+  "player_id": 29189618,
+  "@id": "https://api.chess.com/pub/player/alpsank",
+  "url": "https://www.chess.com/member/alpsank",
+  "name": "Sankalp Modwal",
+  "username": "alpsank",
+  "title": "NM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776562011,
+  "joined": 1469334139,
+  "status": "staff",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2037,
+      "date": 1776218670,
+      "rd": 261
+    },
+    "best": {
+      "rating": 2037,
+      "date": 1599551748,
+      "game": "https://www.chess.com/game/daily/259535010"
+    },
+    "record": {
+      "win": 44,
+      "loss": 10,
+      "draw": 1,
+      "time_per_move": 76147,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2241,
+      "date": 1615620034,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1610758172,
+      "game": "https://www.chess.com/game/live/7534315647"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2388,
+      "date": 1776307259,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2398,
+      "date": 1776048609,
+      "game": "https://www.chess.com/game/live/69575027567"
+    },
+    "record": {
+      "win": 1129,
+      "loss": 855,
+      "draw": 100
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2394,
+      "date": 1775310333,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1775310333,
+      "game": "https://www.chess.com/game/live/8931975907"
+    },
+    "record": {
+      "win": 387,
+      "loss": 286,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2718,
+      "date": 1767856857
+    },
+    "lowest": {
+      "rating": 2667,
+      "date": 1756191681
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "player_id": 80107214,
+  "@id": "https://api.chess.com/pub/player/newrules09",
+  "url": "https://www.chess.com/member/NewRules09",
+  "name": "NewRules09",
+  "username": "newrules09",
+  "title": "WFM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776456973,
+  "joined": 1590053821,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 396,
+      "date": 1764006873,
+      "rd": 345
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 122037,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2089,
+      "date": 1764006944,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2089,
+      "date": 1764006944,
+      "game": "https://www.chess.com/game/live/143610921730"
+    },
+    "record": {
+      "win": 449,
+      "loss": 405,
+      "draw": 87
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2053,
+      "date": 1774364554,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1774364554,
+      "game": "https://www.chess.com/game/live/124559942357"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2179,
+      "date": 1776262382,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2224,
+      "date": 1772191653,
+      "game": "https://www.chess.com/game/live/164950574404"
+    },
+    "record": {
+      "win": 787,
+      "loss": 697,
+      "draw": 120
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2097,
+      "date": 1756219774
+    },
+    "lowest": {
+      "rating": 1948,
+      "date": 1762364688
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

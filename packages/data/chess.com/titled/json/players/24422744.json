@@ -1,0 +1,103 @@
+{
+  "player_id": 24422744,
+  "@id": "https://api.chess.com/pub/player/uchenic",
+  "url": "https://www.chess.com/member/uchenic",
+  "name": "Grigoriy Morozov",
+  "username": "uchenic",
+  "title": "FM",
+  "followers": 39,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776540652,
+  "joined": 1443980915,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2384,
+      "date": 1765272506,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1659524955,
+      "game": "https://www.chess.com/game/daily/191641910"
+    },
+    "record": {
+      "win": 451,
+      "loss": 148,
+      "draw": 168,
+      "time_per_move": 30868,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1987,
+      "date": 1769048955,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2115,
+      "date": 1605588317,
+      "game": "https://www.chess.com/game/live/5634862173"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1606586934,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2639,
+      "date": 1606586934,
+      "game": "https://www.chess.com/game/live/5634596101"
+    },
+    "record": {
+      "win": 13,
+      "loss": 1,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2432,
+      "date": 1606588596,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1581274904,
+      "game": "https://www.chess.com/game/live/3816984174"
+    },
+    "record": {
+      "win": 134,
+      "loss": 74,
+      "draw": 36
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2688,
+      "date": 1763194094
+    },
+    "lowest": {
+      "rating": 2459,
+      "date": 1768786509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

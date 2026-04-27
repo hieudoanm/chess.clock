@@ -1,0 +1,81 @@
+{
+  "player_id": 529399627,
+  "@id": "https://api.chess.com/pub/player/cgoldwa",
+  "url": "https://www.chess.com/member/Cgoldwa",
+  "name": "Christian Goldwaser",
+  "username": "cgoldwa",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Nidea",
+  "last_online": 1776598963,
+  "joined": 1770845543,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2434,
+      "date": 1771455326,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2434,
+      "date": 1771453854,
+      "game": "https://www.chess.com/game/live/164887814920"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2437,
+      "date": 1776598958,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1771300841,
+      "game": "https://www.chess.com/game/live/166220624188"
+    },
+    "record": {
+      "win": 307,
+      "loss": 215,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2427,
+      "date": 1775005292,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1774862482,
+      "game": "https://www.chess.com/game/live/166622059706"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "fide": 2442,
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1771294876
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1770845564
+    }
+  },
+  "puzzle_rush": {}
+}

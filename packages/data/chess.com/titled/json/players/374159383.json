@@ -1,0 +1,61 @@
+{
+  "player_id": 374159383,
+  "@id": "https://api.chess.com/pub/player/simple_loop",
+  "url": "https://www.chess.com/member/simple_loop",
+  "username": "simple_loop",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1776536326,
+  "joined": 1720423347,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2204,
+      "date": 1732714116,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2224,
+      "date": 1732616719,
+      "game": "https://www.chess.com/game/live/126452955307"
+    },
+    "record": {
+      "win": 7,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2539,
+      "date": 1776489989,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1775389200,
+      "game": "https://www.chess.com/game/live/166886711886"
+    },
+    "record": {
+      "win": 1723,
+      "loss": 1397,
+      "draw": 281
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2197,
+      "date": 1760264147
+    },
+    "lowest": {
+      "rating": 2105,
+      "date": 1760264158
+    }
+  },
+  "puzzle_rush": {}
+}

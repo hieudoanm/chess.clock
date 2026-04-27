@@ -1,0 +1,85 @@
+{
+  "player_id": 58126510,
+  "@id": "https://api.chess.com/pub/player/varshi_chess",
+  "url": "https://www.chess.com/member/Varshi_chess",
+  "name": "Varshini V",
+  "username": "varshi_chess",
+  "title": "WGM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Chennai",
+  "last_online": 1772035223,
+  "joined": 1551801667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1988,
+      "date": 1736400613,
+      "rd": 319
+    },
+    "best": {
+      "rating": 2312,
+      "date": 1608011125,
+      "game": "https://www.chess.com/game/live/5970044379"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2109,
+      "date": 1766676743,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1649670012,
+      "game": "https://www.chess.com/game/live/16738021545"
+    },
+    "record": {
+      "win": 70,
+      "loss": 75,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2413,
+      "date": 1682612903,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1651594981,
+      "game": "https://www.chess.com/game/live/45332488037"
+    },
+    "record": {
+      "win": 81,
+      "loss": 66,
+      "draw": 13
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2076,
+      "date": 1551801667
+    },
+    "lowest": {
+      "rating": 2076,
+      "date": 1551801667
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

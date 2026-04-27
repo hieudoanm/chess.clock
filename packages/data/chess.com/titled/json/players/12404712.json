@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12404712.fc386ede.200x200o.e5afa90c3562.jpeg",
+  "player_id": 12404712,
+  "@id": "https://api.chess.com/pub/player/stasblednov",
+  "url": "https://www.chess.com/member/stasblednov",
+  "name": "Stas Blednov",
+  "username": "stasblednov",
+  "title": "IM",
+  "followers": 139,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776415978,
+  "joined": 1371752962,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1417,
+      "date": 1373564691,
+      "rd": 263
+    },
+    "best": {
+      "rating": 1417,
+      "date": 1373564691,
+      "game": "https://www.chess.com/game/daily/71702712"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 21987,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1764,
+      "date": 1730296146,
+      "rd": 198
+    },
+    "best": {
+      "rating": 1764,
+      "date": 1730296146,
+      "game": "https://www.chess.com/game/live/89234996451"
+    },
+    "record": {
+      "win": 33,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2477,
+      "date": 1776415691,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1774392469,
+      "game": "https://www.chess.com/game/live/165733168834"
+    },
+    "record": {
+      "win": 5460,
+      "loss": 2241,
+      "draw": 257
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2288,
+      "date": 1742156708,
+      "rd": 221
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1671305958,
+      "game": "https://www.chess.com/game/live/25380015043"
+    },
+    "record": {
+      "win": 391,
+      "loss": 128,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2707,
+      "date": 1758479294
+    },
+    "lowest": {
+      "rating": 2486,
+      "date": 1771843524
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

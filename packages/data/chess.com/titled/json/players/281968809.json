@@ -1,0 +1,84 @@
+{
+  "player_id": 281968809,
+  "@id": "https://api.chess.com/pub/player/chessevolve1",
+  "url": "https://www.chess.com/member/ChessEvolve1",
+  "name": "Leonardo Correa Braga Camara de Almeida Neves",
+  "username": "chessevolve1",
+  "title": "NM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776452476,
+  "joined": 1683134825,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2125,
+      "date": 1699810971
+    },
+    "best": {
+      "rating": 2223,
+      "date": 1686715137,
+      "game": "https://www.chess.com/game/live/80453478543"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2515,
+      "date": 1775411713,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1772648041,
+      "game": "https://www.chess.com/game/live/165508489648"
+    },
+    "record": {
+      "win": 342,
+      "loss": 173,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2492,
+      "date": 1770385787,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1767492149,
+      "game": "https://www.chess.com/game/live/147511402865"
+    },
+    "record": {
+      "win": 344,
+      "loss": 134,
+      "draw": 26
+    }
+  },
+  "fide": 2125,
+  "tactics": {
+    "highest": {
+      "rating": 1951,
+      "date": 1773271848
+    },
+    "lowest": {
+      "rating": 1594,
+      "date": 1764196435
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

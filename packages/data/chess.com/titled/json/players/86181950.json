@@ -1,0 +1,68 @@
+{
+  "player_id": 86181950,
+  "@id": "https://api.chess.com/pub/player/knights4base",
+  "url": "https://www.chess.com/member/Knights4base",
+  "name": "Vladimir Poley",
+  "username": "knights4base",
+  "title": "IM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1776339579,
+  "joined": 1594241611,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2492,
+      "date": 1677873820,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1664402379,
+      "game": "https://www.chess.com/game/live/57708587037"
+    },
+    "record": {
+      "win": 8,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2571,
+      "date": 1761602652,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1669934337,
+      "game": "https://www.chess.com/game/live/144810413438"
+    },
+    "record": {
+      "win": 43,
+      "loss": 10,
+      "draw": 4
+    }
+  },
+  "fide": 2310,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1594241611
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1594241611
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

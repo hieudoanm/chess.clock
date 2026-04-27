@@ -1,0 +1,80 @@
+{
+  "player_id": 386981269,
+  "@id": "https://api.chess.com/pub/player/lameduckwarrior",
+  "url": "https://www.chess.com/member/LameDuckWarrior",
+  "username": "lameduckwarrior",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776336976,
+  "joined": 1725820709,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2191,
+      "date": 1761386220,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1760095599,
+      "game": "https://www.chess.com/game/daily/832373060"
+    },
+    "record": {
+      "win": 43,
+      "loss": 5,
+      "draw": 4,
+      "time_per_move": 12512,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2312,
+      "date": 1741199885,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2423,
+      "date": 1750967445,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1735432321,
+      "game": "https://www.chess.com/game/live/129171156349"
+    },
+    "record": {
+      "win": 270,
+      "loss": 207,
+      "draw": 37
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2860,
+      "date": 1768304206
+    },
+    "lowest": {
+      "rating": 2713,
+      "date": 1761329402
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31163800.d41e59f1.200x200o.046bece8c7bf.jpg",
+  "player_id": 31163800,
+  "@id": "https://api.chess.com/pub/player/newyorkmouse",
+  "url": "https://www.chess.com/member/newyorkmouse",
+  "name": "Avi Kaplan",
+  "username": "newyorkmouse",
+  "title": "FM",
+  "followers": 281,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776572077,
+  "joined": 1480120213,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2050,
+      "date": 1751611129,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2134,
+      "date": 1632779307,
+      "game": "https://www.chess.com/game/daily/356517773"
+    },
+    "record": {
+      "win": 100,
+      "loss": 27,
+      "draw": 8,
+      "time_per_move": 25954,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2413,
+      "date": 1761770924,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2441,
+      "date": 1732654360,
+      "game": "https://www.chess.com/game/live/126389989959"
+    },
+    "record": {
+      "win": 74,
+      "loss": 22,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2904,
+      "date": 1776539571,
+      "rd": 22
+    },
+    "best": {
+      "rating": 3052,
+      "date": 1770579500,
+      "game": "https://www.chess.com/game/live/165698716886"
+    },
+    "record": {
+      "win": 11860,
+      "loss": 8317,
+      "draw": 1310
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2842,
+      "date": 1776538772,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2982,
+      "date": 1770925865,
+      "game": "https://www.chess.com/game/live/167032392352"
+    },
+    "record": {
+      "win": 3198,
+      "loss": 2489,
+      "draw": 460
+    }
+  },
+  "fide": 2372,
+  "tactics": {
+    "highest": {
+      "rating": 2411,
+      "date": 1760130684
+    },
+    "lowest": {
+      "rating": 2385,
+      "date": 1760130695
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

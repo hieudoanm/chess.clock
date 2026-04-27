@@ -1,0 +1,122 @@
+{
+    "player_id": 20166794,
+    "@id": "https://api.chess.com/pub/player/arnosack",
+    "url": "https://www.chess.com/member/ArnoSack",
+    "name": "Arno Sterck",
+    "username": "arnosack",
+    "title": "FM",
+    "followers": 21,
+    "country": "https://api.chess.com/pub/country/BE",
+    "last_online": 1738951132,
+    "joined": 1418555548,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1842,
+            "date": 1643360549,
+            "rd": 144
+        },
+        "best": {
+            "rating": 1842,
+            "date": 1585066741,
+            "game": "https://www.chess.com/game/daily/255240114"
+        },
+        "record": {
+            "win": 14,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8568,
+            "timeout_percent": 0
+        }
+    },
+    "chess960_daily": {
+        "last": {
+            "rating": 1200,
+            "date": 1586450126,
+            "rd": 254
+        },
+        "best": {
+            "rating": 1200,
+            "date": 1418555548,
+            "game": "https://www.chess.com/game/daily/256882308"
+        },
+        "record": {
+            "win": 2,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 8568,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2170,
+            "date": 1726858847,
+            "rd": 46
+        },
+        "best": {
+            "rating": 2250,
+            "date": 1587148825,
+            "game": "https://www.chess.com/game/live/120585017969"
+        },
+        "record": {
+            "win": 28,
+            "loss": 19,
+            "draw": 6
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2356,
+            "date": 1739288494,
+            "rd": 120
+        },
+        "best": {
+            "rating": 2482,
+            "date": 1673638390,
+            "game": "https://www.chess.com/game/live/92160129439"
+        },
+        "record": {
+            "win": 105,
+            "loss": 61,
+            "draw": 7
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2332,
+            "date": 1691505262,
+            "rd": 75
+        },
+        "best": {
+            "rating": 2432,
+            "date": 1689282126,
+            "game": "https://www.chess.com/game/live/75928995225"
+        },
+        "record": {
+            "win": 281,
+            "loss": 197,
+            "draw": 25
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2446,
+            "date": 1726174310
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1434181465
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 35
+        }
+    }
+}

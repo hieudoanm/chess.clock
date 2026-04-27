@@ -1,0 +1,100 @@
+{
+  "player_id": 26087752,
+  "@id": "https://api.chess.com/pub/player/schubakov",
+  "url": "https://www.chess.com/member/schubakov",
+  "name": "Sultan Chubakov",
+  "username": "schubakov",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/KG",
+  "location": "Bishkek",
+  "last_online": 1776499601,
+  "joined": 1452569962,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1774772906,
+      "rd": 188
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 295217,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2070,
+      "date": 1751106570,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2070,
+      "date": 1709289490,
+      "game": "https://www.chess.com/game/live/103027973327"
+    },
+    "record": {
+      "win": 23,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2295,
+      "date": 1773944706,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1724583206,
+      "game": "https://www.chess.com/game/live/103657334503"
+    },
+    "record": {
+      "win": 204,
+      "loss": 129,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2497,
+      "date": 1765903611,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1763483965,
+      "game": "https://www.chess.com/game/live/160214251913"
+    },
+    "record": {
+      "win": 832,
+      "loss": 597,
+      "draw": 103
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2550,
+      "date": 1768198712
+    },
+    "lowest": {
+      "rating": 2474,
+      "date": 1765258562
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

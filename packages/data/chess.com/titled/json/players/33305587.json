@@ -1,0 +1,121 @@
+{
+  "player_id": 33305587,
+  "@id": "https://api.chess.com/pub/player/sheru25",
+  "url": "https://www.chess.com/member/sheru25",
+  "username": "sheru25",
+  "title": "WFM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776410148,
+  "joined": 1487428500,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1690,
+      "date": 1771413044,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2016,
+      "date": 1510992988,
+      "game": "https://www.chess.com/game/daily/171052820"
+    },
+    "record": {
+      "win": 62,
+      "loss": 15,
+      "draw": 3,
+      "time_per_move": 97891,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1873,
+      "date": 1547958005,
+      "rd": 276
+    },
+    "best": {
+      "rating": 1873,
+      "date": 1547958005,
+      "game": "https://www.chess.com/game/daily/215023350"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 97891,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2013,
+      "date": 1758963479,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1758963479,
+      "game": "https://www.chess.com/game/live/139059660160"
+    },
+    "record": {
+      "win": 110,
+      "loss": 79,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2033,
+      "date": 1771930382,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2033,
+      "date": 1771930382,
+      "game": "https://www.chess.com/game/live/64836191825"
+    },
+    "record": {
+      "win": 98,
+      "loss": 74,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2154,
+      "date": 1765605847,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2195,
+      "date": 1748685756,
+      "game": "https://www.chess.com/game/live/139057212026"
+    },
+    "record": {
+      "win": 285,
+      "loss": 192,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2186,
+      "date": 1761780248
+    },
+    "lowest": {
+      "rating": 1997,
+      "date": 1772191399
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

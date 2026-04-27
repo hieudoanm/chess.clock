@@ -1,0 +1,63 @@
+{
+  "player_id": 406113473,
+  "@id": "https://api.chess.com/pub/player/nadiafawaz",
+  "url": "https://www.chess.com/member/nadiafawaz",
+  "name": "Nadia Fawaz",
+  "username": "nadiafawaz",
+  "title": "WFM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/LB",
+  "last_online": 1776205762,
+  "joined": 1732990341,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1715,
+      "date": 1754502961,
+      "rd": 303
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2252,
+      "date": 1755542376,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1738691512,
+      "game": "https://www.chess.com/game/live/127585259439"
+    },
+    "record": {
+      "win": 20,
+      "loss": 43,
+      "draw": 4
+    }
+  },
+  "fide": 1763,
+  "tactics": {
+    "highest": {
+      "rating": 2115,
+      "date": 1759047432
+    },
+    "lowest": {
+      "rating": 1860,
+      "date": 1759741974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

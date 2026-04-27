@@ -1,0 +1,64 @@
+{
+  "player_id": 12774304,
+  "@id": "https://api.chess.com/pub/player/richard_black",
+  "url": "https://www.chess.com/member/Richard_Black",
+  "name": "richard black",
+  "username": "richard_black",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/BM",
+  "location": "bermuda",
+  "last_online": 1771280126,
+  "joined": 1374247087,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1903,
+      "date": 1619033231,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1601403215,
+      "game": "https://www.chess.com/game/live/4666360001"
+    },
+    "record": {
+      "win": 97,
+      "loss": 24,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1820,
+      "date": 1769033815,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1585173203,
+      "game": "https://www.chess.com/game/live/6376860070"
+    },
+    "record": {
+      "win": 1849,
+      "loss": 1541,
+      "draw": 145
+    }
+  },
+  "fide": 2222,
+  "tactics": {
+    "highest": {
+      "rating": 2128,
+      "date": 1374247087
+    },
+    "lowest": {
+      "rating": 2128,
+      "date": 1374247087
+    }
+  },
+  "puzzle_rush": {}
+}

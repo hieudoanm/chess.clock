@@ -1,0 +1,112 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/32076054.caf6d9e8.200x200o.bbe6038e4707.jpg",
+  "player_id": 32076054,
+  "@id": "https://api.chess.com/pub/player/gmbenjaminfinegold",
+  "url": "https://www.chess.com/member/GMBenjaminFinegold",
+  "name": "Ben Finegold",
+  "username": "gmbenjaminfinegold",
+  "title": "GM",
+  "followers": 24174,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Roswell, GA",
+  "last_online": 1776561982,
+  "joined": 1483361577,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/itsbenandkaren",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/itsbenandkaren"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1988,
+      "date": 1776450782,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1558289310,
+      "game": "https://www.chess.com/game/daily/225464680"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 2634,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2475,
+      "date": 1772762115,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1700437949,
+      "game": "https://www.chess.com/game/live/94173764385"
+    },
+    "record": {
+      "win": 71,
+      "loss": 2,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2590,
+      "date": 1774401729,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2793,
+      "date": 1484209593,
+      "game": "https://www.chess.com/game/live/3145371114"
+    },
+    "record": {
+      "win": 5674,
+      "loss": 1320,
+      "draw": 266
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1776559883,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2830,
+      "date": 1643252182,
+      "game": "https://www.chess.com/game/live/127586476895"
+    },
+    "record": {
+      "win": 7994,
+      "loss": 1769,
+      "draw": 481
+    }
+  },
+  "fide": 2400,
+  "tactics": {
+    "highest": {
+      "rating": 2653,
+      "date": 1483361577
+    },
+    "lowest": {
+      "rating": 2653,
+      "date": 1483361577
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

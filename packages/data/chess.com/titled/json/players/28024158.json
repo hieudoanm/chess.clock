@@ -1,0 +1,104 @@
+{
+  "player_id": 28024158,
+  "@id": "https://api.chess.com/pub/player/jedipredator",
+  "url": "https://www.chess.com/member/jedipredator",
+  "name": "Aleksandar Danilovic",
+  "username": "jedipredator",
+  "title": "IM",
+  "followers": 169,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1776599529,
+  "joined": 1462268472,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1927,
+      "date": 1776153976,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1927,
+      "date": 1766659121,
+      "game": "https://www.chess.com/game/daily/426081995"
+    },
+    "record": {
+      "win": 25,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 32193,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1336,
+      "date": 1674584063,
+      "rd": 250
+    },
+    "best": {
+      "rating": 1336,
+      "date": 1674584063,
+      "game": "https://www.chess.com/game/live/68322828519"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2407,
+      "date": 1776598100,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2633,
+      "date": 1680638178,
+      "game": "https://www.chess.com/game/live/165291483766"
+    },
+    "record": {
+      "win": 594,
+      "loss": 503,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2578,
+      "date": 1776589296,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2723,
+      "date": 1661628149,
+      "game": "https://www.chess.com/game/live/3453063612"
+    },
+    "record": {
+      "win": 8022,
+      "loss": 6866,
+      "draw": 1222
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2349,
+      "date": 1462268472
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1462268472
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

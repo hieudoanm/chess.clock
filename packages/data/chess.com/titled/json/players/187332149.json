@@ -1,0 +1,85 @@
+{
+  "player_id": 187332149,
+  "@id": "https://api.chess.com/pub/player/mydream003",
+  "url": "https://www.chess.com/member/MyDream003",
+  "name": "Zou Chen",
+  "username": "mydream003",
+  "title": "IM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776337717,
+  "joined": 1655600451,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2124,
+      "date": 1748989811,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2124,
+      "date": 1748989811,
+      "game": "https://www.chess.com/game/live/123415797149"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2779,
+      "date": 1750667334,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1713693115,
+      "game": "https://www.chess.com/game/live/130960226991"
+    },
+    "record": {
+      "win": 205,
+      "loss": 124,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2863,
+      "date": 1761359630,
+      "rd": 45
+    },
+    "best": {
+      "rating": 3005,
+      "date": 1726456985,
+      "game": "https://www.chess.com/game/live/108232332141"
+    },
+    "record": {
+      "win": 2039,
+      "loss": 1165,
+      "draw": 544
+    }
+  },
+  "fide": 2443,
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1655600451
+    },
+    "lowest": {
+      "rating": 2454,
+      "date": 1655600451
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

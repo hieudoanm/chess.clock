@@ -1,0 +1,83 @@
+{
+  "player_id": 408231443,
+  "@id": "https://api.chess.com/pub/player/tplovetiramisu",
+  "url": "https://www.chess.com/member/TPlovetiramisu",
+  "username": "tplovetiramisu",
+  "title": "NM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/MN",
+  "last_online": 1776589123,
+  "joined": 1733829760,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1759506385,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1759506385,
+      "game": "https://www.chess.com/game/live/143859135090"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2654,
+      "date": 1776395128,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1759549277,
+      "game": "https://www.chess.com/game/live/143878025828"
+    },
+    "record": {
+      "win": 47,
+      "loss": 23,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2812,
+      "date": 1776556816,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2938,
+      "date": 1772692679,
+      "game": "https://www.chess.com/game/live/144387246976"
+    },
+    "record": {
+      "win": 4393,
+      "loss": 3600,
+      "draw": 635
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2323,
+      "date": 1761240589
+    },
+    "lowest": {
+      "rating": 2219,
+      "date": 1761240113
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

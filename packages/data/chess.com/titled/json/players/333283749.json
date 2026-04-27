@@ -1,0 +1,83 @@
+{
+  "player_id": 333283749,
+  "@id": "https://api.chess.com/pub/player/achalachess",
+  "url": "https://www.chess.com/member/Achalachess",
+  "username": "achalachess",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776530163,
+  "joined": 1702982188,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2318,
+      "date": 1776505647,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1703505585,
+      "game": "https://www.chess.com/game/live/167431399148"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2534,
+      "date": 1739126484,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1703151751,
+      "game": "https://www.chess.com/game/live/132578992889"
+    },
+    "record": {
+      "win": 14,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2798,
+      "date": 1776520623,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2834,
+      "date": 1776450997,
+      "game": "https://www.chess.com/game/live/138966695564"
+    },
+    "record": {
+      "win": 298,
+      "loss": 202,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2385,
+      "date": 1776422230
+    },
+    "lowest": {
+      "rating": 2310,
+      "date": 1776422471
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

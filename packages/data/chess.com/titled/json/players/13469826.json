@@ -1,0 +1,104 @@
+{
+  "player_id": 13469826,
+  "@id": "https://api.chess.com/pub/player/ganzy",
+  "url": "https://www.chess.com/member/ganzy",
+  "name": "Ganesh Kumarappan",
+  "username": "ganzy",
+  "title": "NM",
+  "followers": 183,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1776137612,
+  "joined": 1378776911,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1420,
+      "date": 1776433131,
+      "rd": 129
+    },
+    "best": {
+      "rating": 1700,
+      "date": 1525398608,
+      "game": "https://www.chess.com/game/daily/173361582"
+    },
+    "record": {
+      "win": 38,
+      "loss": 16,
+      "draw": 1,
+      "time_per_move": 109589,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2288,
+      "date": 1772844300,
+      "rd": 124
+    },
+    "best": {
+      "rating": 2376,
+      "date": 1704521879,
+      "game": "https://www.chess.com/game/live/48100846459"
+    },
+    "record": {
+      "win": 324,
+      "loss": 231,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2438,
+      "date": 1770903916,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2653,
+      "date": 1706257385,
+      "game": "https://www.chess.com/game/live/98231204277"
+    },
+    "record": {
+      "win": 3764,
+      "loss": 3423,
+      "draw": 279
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2113,
+      "date": 1774810773,
+      "rd": 56
+    },
+    "best": {
+      "rating": 2489,
+      "date": 1685598796,
+      "game": "https://www.chess.com/game/live/79337556683"
+    },
+    "record": {
+      "win": 2824,
+      "loss": 2554,
+      "draw": 206
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2435,
+      "date": 1760830110
+    },
+    "lowest": {
+      "rating": 2421,
+      "date": 1760830035
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

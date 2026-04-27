@@ -1,0 +1,104 @@
+{
+  "player_id": 27274320,
+  "@id": "https://api.chess.com/pub/player/pepita111",
+  "url": "https://www.chess.com/member/pepita111",
+  "name": "Maritza Valdes Hernandez",
+  "username": "pepita111",
+  "title": "WFM",
+  "followers": 111,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Phoenix",
+  "last_online": 1776575036,
+  "joined": 1458172938,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 546,
+      "date": 1594688402,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1458172938,
+      "game": "https://www.chess.com/game/daily/265849514"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19891,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2002,
+      "date": 1737764096,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1668644177,
+      "game": "https://www.chess.com/game/live/4743409632"
+    },
+    "record": {
+      "win": 32,
+      "loss": 19,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2189,
+      "date": 1775848047,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1772212920,
+      "game": "https://www.chess.com/game/live/165289657592"
+    },
+    "record": {
+      "win": 20513,
+      "loss": 21866,
+      "draw": 2639
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2174,
+      "date": 1776489858,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1549082679,
+      "game": "https://www.chess.com/game/live/64558959493"
+    },
+    "record": {
+      "win": 13954,
+      "loss": 13222,
+      "draw": 2137
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2617,
+      "date": 1776292921
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1761351006
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 36
+    }
+  }
+}

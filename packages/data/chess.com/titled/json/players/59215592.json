@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/59215592.083b05d3.200x200o.e09d84b8e52f.jpeg",
+  "player_id": 59215592,
+  "@id": "https://api.chess.com/pub/player/xtremchess",
+  "url": "https://www.chess.com/member/Xtremchess",
+  "username": "xtremchess",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1743522403,
+  "joined": 1553999311,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2093,
+      "date": 1685672117,
+      "rd": 256
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2154,
+      "date": 1715889946,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1715888092,
+      "game": "https://www.chess.com/game/live/109627856729"
+    },
+    "record": {
+      "win": 32,
+      "loss": 27,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2204,
+      "date": 1743179961,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2432,
+      "date": 1678120380,
+      "game": "https://www.chess.com/game/live/49050544645"
+    },
+    "record": {
+      "win": 67,
+      "loss": 79,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1553999311
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1553999311
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

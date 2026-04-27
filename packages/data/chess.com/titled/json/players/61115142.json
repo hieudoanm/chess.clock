@@ -1,0 +1,85 @@
+{
+  "player_id": 61115142,
+  "@id": "https://api.chess.com/pub/player/potap1923",
+  "url": "https://www.chess.com/member/potap1923",
+  "name": "Pavel Potapov",
+  "username": "potap1923",
+  "title": "GM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776337647,
+  "joined": 1558127321,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1122,
+      "date": 1690204719,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1122,
+      "date": 1690204719,
+      "game": "https://www.chess.com/game/live/83943093383"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2344,
+      "date": 1705246641,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2344,
+      "date": 1704548000,
+      "game": "https://www.chess.com/game/live/82819264243"
+    },
+    "record": {
+      "win": 43,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2420,
+      "date": 1702750281,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1702750281,
+      "game": "https://www.chess.com/game/live/96488925609"
+    },
+    "record": {
+      "win": 14,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "fide": 2492,
+  "tactics": {
+    "highest": {
+      "rating": 2575,
+      "date": 1558127321
+    },
+    "lowest": {
+      "rating": 2575,
+      "date": 1558127321
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

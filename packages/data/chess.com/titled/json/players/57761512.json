@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57761512.555cf844.200x200o.d292741f5a0b.jpeg",
+  "player_id": 57761512,
+  "@id": "https://api.chess.com/pub/player/vladpff",
+  "url": "https://www.chess.com/member/VladPff",
+  "name": "Vlad Petroff",
+  "username": "vladpff",
+  "title": "FM",
+  "followers": 79,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776171907,
+  "joined": 1551029889,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1344,
+      "date": 1736437632,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1344,
+      "date": 1629217705,
+      "game": "https://www.chess.com/game/daily/338855815"
+    },
+    "record": {
+      "win": 22,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 64804,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2090,
+      "date": 1736437633,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1779,
+      "date": 1629119900,
+      "game": "https://www.chess.com/game/live/10938367711"
+    },
+    "record": {
+      "win": 682,
+      "loss": 324,
+      "draw": 35
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2090,
+      "date": 1736437633,
+      "rd": 63
+    },
+    "best": {
+      "rating": 1547,
+      "date": 1625650009,
+      "game": "https://www.chess.com/game/live/11375094315"
+    },
+    "record": {
+      "win": 145,
+      "loss": 94,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2090,
+      "date": 1736437633,
+      "rd": 103
+    },
+    "best": {
+      "rating": 1613,
+      "date": 1646902401,
+      "game": "https://www.chess.com/game/live/21404961153"
+    },
+    "record": {
+      "win": 824,
+      "loss": 599,
+      "draw": 50
+    }
+  },
+  "fide": 2090,
+  "tactics": {
+    "highest": {
+      "rating": 2116,
+      "date": 1551029889
+    },
+    "lowest": {
+      "rating": 2116,
+      "date": 1551029889
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

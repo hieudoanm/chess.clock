@@ -1,0 +1,72 @@
+{
+  "player_id": 87799574,
+  "@id": "https://api.chess.com/pub/player/camperone73",
+  "url": "https://www.chess.com/member/Camperone73",
+  "name": "Ronald Campero",
+  "username": "camperone73",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/BO",
+  "location": "Santa Cruz de la Sierra",
+  "last_online": 1776349742,
+  "joined": 1595980003,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1771889552,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 100
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2285,
+      "date": 1736122674,
+      "rd": 115
+    },
+    "best": {
+      "rating": 2382,
+      "date": 1736122127,
+      "game": "https://www.chess.com/game/live/129860395397"
+    },
+    "record": {
+      "win": 38,
+      "loss": 18,
+      "draw": 2
+    }
+  },
+  "fide": 2082,
+  "tactics": {
+    "highest": {
+      "rating": 2027,
+      "date": 1776092028
+    },
+    "lowest": {
+      "rating": 2027,
+      "date": 1776092028
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

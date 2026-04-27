@@ -1,0 +1,83 @@
+{
+  "player_id": 13593898,
+  "@id": "https://api.chess.com/pub/player/epiksheep",
+  "url": "https://www.chess.com/member/Epiksheep",
+  "username": "epiksheep",
+  "title": "NM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776452597,
+  "joined": 1379656617,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2006,
+      "date": 1634860282,
+      "rd": 344
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1634860282,
+      "game": "https://www.chess.com/game/live/28597765509"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2117,
+      "date": 1705994165,
+      "rd": 193
+    },
+    "best": {
+      "rating": 2249,
+      "date": 1639250754,
+      "game": "https://www.chess.com/game/live/3329370836"
+    },
+    "record": {
+      "win": 890,
+      "loss": 752,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2225,
+      "date": 1776452509,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1594346121,
+      "game": "https://www.chess.com/game/live/3402858542"
+    },
+    "record": {
+      "win": 2708,
+      "loss": 2363,
+      "draw": 171
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1759017048
+    },
+    "lowest": {
+      "rating": 2168,
+      "date": 1774915388
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 41384152,
+  "@id": "https://api.chess.com/pub/player/kali03",
+  "url": "https://www.chess.com/member/kali03",
+  "username": "kali03",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776513250,
+  "joined": 1513427961,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess960_daily": {
+    "last": {
+      "rating": 1184,
+      "date": 1581708451,
+      "rd": 324
+    },
+    "best": {
+      "rating": 1184,
+      "date": 1581708451,
+      "game": "https://www.chess.com/game/daily/251235872"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2028,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2327,
+      "date": 1773427239,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2333,
+      "date": 1763213249,
+      "game": "https://www.chess.com/game/live/129939028747"
+    },
+    "record": {
+      "win": 61,
+      "loss": 24,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2267,
+      "date": 1763454719,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1755760193,
+      "game": "https://www.chess.com/game/live/128017855569"
+    },
+    "record": {
+      "win": 175,
+      "loss": 96,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2431,
+      "date": 1776512860,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1756228803,
+      "game": "https://www.chess.com/game/live/142431425130"
+    },
+    "record": {
+      "win": 1920,
+      "loss": 1967,
+      "draw": 228
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2518,
+      "date": 1774984096
+    },
+    "lowest": {
+      "rating": 2242,
+      "date": 1770120847
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 32
+    }
+  }
+}

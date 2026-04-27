@@ -1,0 +1,100 @@
+{
+  "player_id": 74264564,
+  "@id": "https://api.chess.com/pub/player/readyskate",
+  "url": "https://www.chess.com/member/ReadySkate",
+  "name": "Hamidreza Ebrahimi Herab",
+  "username": "readyskate",
+  "title": "FM",
+  "followers": 138,
+  "country": "https://api.chess.com/pub/country/IR",
+  "location": "Tabriz",
+  "last_online": 1763985080,
+  "joined": 1584978006,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1709049523,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2348,
+      "date": 1747589456,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1732710185,
+      "game": "https://www.chess.com/game/live/126448803761"
+    },
+    "record": {
+      "win": 71,
+      "loss": 28,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2771,
+      "date": 1761572916,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2952,
+      "date": 1740246449,
+      "game": "https://www.chess.com/game/live/133984749691"
+    },
+    "record": {
+      "win": 925,
+      "loss": 725,
+      "draw": 75
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3024,
+      "date": 1763987463,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3068,
+      "date": 1749541019,
+      "game": "https://www.chess.com/game/live/133976943601"
+    },
+    "record": {
+      "win": 4291,
+      "loss": 3491,
+      "draw": 660
+    }
+  },
+  "fide": 2331,
+  "tactics": {
+    "highest": {
+      "rating": 2456,
+      "date": 1759585048
+    },
+    "lowest": {
+      "rating": 2346,
+      "date": 1759585180
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

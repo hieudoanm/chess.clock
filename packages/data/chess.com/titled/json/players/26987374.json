@@ -1,0 +1,83 @@
+{
+  "player_id": 26987374,
+  "@id": "https://api.chess.com/pub/player/esapunov",
+  "url": "https://www.chess.com/member/esapunov",
+  "username": "esapunov",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775239179,
+  "joined": 1456697955,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1676,
+      "date": 1612105433,
+      "rd": 161
+    },
+    "best": {
+      "rating": 1676,
+      "date": 1612105433,
+      "game": "https://www.chess.com/game/live/6405713040"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1650132759,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1617473133,
+      "game": "https://www.chess.com/game/live/11210665905"
+    },
+    "record": {
+      "win": 94,
+      "loss": 19,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2736,
+      "date": 1655830948,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1606249339,
+      "game": "https://www.chess.com/game/live/48354060163"
+    },
+    "record": {
+      "win": 5733,
+      "loss": 4299,
+      "draw": 779
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 3052,
+      "date": 1456697955
+    },
+    "lowest": {
+      "rating": 3052,
+      "date": 1456697955
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 8253784,
+  "@id": "https://api.chess.com/pub/player/maximych26",
+  "url": "https://www.chess.com/member/maximych26",
+  "name": "Yevgeniy Gershov",
+  "username": "maximych26",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "United States",
+  "last_online": 1773843227,
+  "joined": 1342728399,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2036,
+      "date": 1611394663,
+      "rd": 318
+    },
+    "best": {
+      "rating": 2036,
+      "date": 1611394621,
+      "game": "https://www.chess.com/game/live/6320083744"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1435540333,
+      "rd": 258
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1373342455,
+      "game": "https://www.chess.com/game/live/553243019"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2507,
+      "date": 1773789369,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1773789369,
+      "game": "https://www.chess.com/game/live/4726301047"
+    },
+    "record": {
+      "win": 1141,
+      "loss": 1070,
+      "draw": 210
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2393,
+      "date": 1342728399
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1342728399
+    }
+  },
+  "puzzle_rush": {}
+}

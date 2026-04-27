@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6555034.daa84342.200x200o.e2c2bc25a058.jpg",
+  "player_id": 6555034,
+  "@id": "https://api.chess.com/pub/player/imrosen",
+  "url": "https://www.chess.com/member/IMRosen",
+  "name": "Eric Rosen",
+  "username": "imrosen",
+  "title": "IM",
+  "followers": 8375,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "St. Louis",
+  "last_online": 1776596609,
+  "joined": 1327467686,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1879,
+      "date": 1611856540,
+      "rd": 284
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1334336539,
+      "game": "https://www.chess.com/game/daily/49836443"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 35715,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2505,
+      "date": 1776053891,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1764210948,
+      "game": "https://www.chess.com/game/live/52515679595"
+    },
+    "record": {
+      "win": 119,
+      "loss": 58,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2778,
+      "date": 1773611322,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2880,
+      "date": 1653790934,
+      "game": "https://www.chess.com/game/live/68672727567"
+    },
+    "record": {
+      "win": 5092,
+      "loss": 3311,
+      "draw": 533
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2841,
+      "date": 1776397948,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2948,
+      "date": 1769530213,
+      "game": "https://www.chess.com/game/live/161615225589"
+    },
+    "record": {
+      "win": 4530,
+      "loss": 2933,
+      "draw": 629
+    }
+  },
+  "fide": 2450,
+  "tactics": {
+    "highest": {
+      "rating": 2063,
+      "date": 1327467686
+    },
+    "lowest": {
+      "rating": 2063,
+      "date": 1327467686
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

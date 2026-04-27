@@ -1,0 +1,86 @@
+{
+  "player_id": 2752826,
+  "@id": "https://api.chess.com/pub/player/sertas",
+  "url": "https://www.chess.com/member/sertas",
+  "name": "Theodor Lindbergh",
+  "username": "sertas",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "stockholm",
+  "last_online": 1770992811,
+  "joined": 1272111348,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2468,
+      "date": 1753123503,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2468,
+      "date": 1613661330,
+      "game": "https://www.chess.com/game/live/7399922605"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2134,
+      "date": 1561758667,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1560633386,
+      "game": "https://www.chess.com/game/live/2383252876"
+    },
+    "record": {
+      "win": 176,
+      "loss": 143,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1770905403,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1770905080,
+      "game": "https://www.chess.com/game/live/164550541766"
+    },
+    "record": {
+      "win": 4417,
+      "loss": 3748,
+      "draw": 307
+    }
+  },
+  "fide": 2217,
+  "tactics": {
+    "highest": {
+      "rating": 2298,
+      "date": 1272111348
+    },
+    "lowest": {
+      "rating": 2298,
+      "date": 1272111348
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

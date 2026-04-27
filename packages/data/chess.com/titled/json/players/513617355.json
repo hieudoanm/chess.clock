@@ -1,0 +1,85 @@
+{
+  "player_id": 513617355,
+  "@id": "https://api.chess.com/pub/player/rbeh",
+  "url": "https://www.chess.com/member/rbeh",
+  "name": "Ryan Beh",
+  "username": "rbeh",
+  "title": "NM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776574892,
+  "joined": 1766775945,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2008,
+      "date": 1774196177,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1773504590,
+      "game": "https://www.chess.com/game/live/165941013972"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2185,
+      "date": 1776574882,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1773441309,
+      "game": "https://www.chess.com/game/live/165912220470"
+    },
+    "record": {
+      "win": 270,
+      "loss": 211,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2102,
+      "date": 1775447754,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1773696049,
+      "game": "https://www.chess.com/game/live/168890666933"
+    },
+    "record": {
+      "win": 13,
+      "loss": 21,
+      "draw": 4
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2115,
+      "date": 1775069388
+    },
+    "lowest": {
+      "rating": 471,
+      "date": 1768250333
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

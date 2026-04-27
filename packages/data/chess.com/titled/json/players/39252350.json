@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39252350.bc364eaa.200x200o.4f63f22cd60b.jpeg",
+  "player_id": 39252350,
+  "@id": "https://api.chess.com/pub/player/andrey_dmitrienko",
+  "url": "https://www.chess.com/member/Andrey_Dmitrienko",
+  "name": "Andrei Dmitrienko",
+  "username": "andrey_dmitrienko",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Tomsk",
+  "last_online": 1775395040,
+  "joined": 1507383895,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1304,
+      "date": 1617784108,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1304,
+      "date": 1574611321,
+      "game": "https://www.chess.com/game/daily/241153936"
+    },
+    "record": {
+      "win": 7,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 30178,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1892,
+      "date": 1570953068,
+      "rd": 309
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2338,
+      "date": 1640186249,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1638373460,
+      "game": "https://www.chess.com/game/live/33555597309"
+    },
+    "record": {
+      "win": 655,
+      "loss": 497,
+      "draw": 144
+    }
+  },
+  "fide": 3000,
+  "tactics": {
+    "highest": {
+      "rating": 2264,
+      "date": 1768411160
+    },
+    "lowest": {
+      "rating": 2098,
+      "date": 1768410675
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 26,
+      "score": 23
+    }
+  }
+}

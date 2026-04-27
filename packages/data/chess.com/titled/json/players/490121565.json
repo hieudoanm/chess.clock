@@ -1,0 +1,85 @@
+{
+  "player_id": 490121565,
+  "@id": "https://api.chess.com/pub/player/witold_lechowski",
+  "url": "https://www.chess.com/member/Witold_lechowski",
+  "name": "Witek Lechowski",
+  "username": "witold_lechowski",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776529439,
+  "joined": 1759851137,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2337,
+      "date": 1769797007,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1769790749,
+      "game": "https://www.chess.com/game/live/164013739422"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2694,
+      "date": 1776529432,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2782,
+      "date": 1765715930,
+      "game": "https://www.chess.com/game/live/170842226031"
+    },
+    "record": {
+      "win": 522,
+      "loss": 509,
+      "draw": 123
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2580,
+      "date": 1775060518,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1761061420,
+      "game": "https://www.chess.com/game/live/156680629409"
+    },
+    "record": {
+      "win": 51,
+      "loss": 47,
+      "draw": 10
+    }
+  },
+  "fide": 2282,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1759851137
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1759851137
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

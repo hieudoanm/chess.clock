@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2006905.9253b46c.200x200o.113296fbe908.jpg",
+  "player_id": 2006905,
+  "@id": "https://api.chess.com/pub/player/basicbishop",
+  "url": "https://www.chess.com/member/BasicBishop",
+  "name": "Jonas Muller",
+  "username": "basicbishop",
+  "title": "CM",
+  "followers": 79,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776491360,
+  "joined": 1246501492,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2038,
+      "date": 1776155289,
+      "rd": 289
+    },
+    "best": {
+      "rating": 2038,
+      "date": 1744614443,
+      "game": "https://www.chess.com/game/daily/84450187"
+    },
+    "record": {
+      "win": 64,
+      "loss": 27,
+      "draw": 0,
+      "time_per_move": 77205,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2457,
+      "date": 1679554021,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1382814712,
+      "game": "https://www.chess.com/game/live/664578431"
+    },
+    "record": {
+      "win": 25,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2319,
+      "date": 1775345692,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1775342741,
+      "game": "https://www.chess.com/game/live/133452578701"
+    },
+    "record": {
+      "win": 438,
+      "loss": 376,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2384,
+      "date": 1776477519,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2461,
+      "date": 1734769221,
+      "game": "https://www.chess.com/game/live/4053871671"
+    },
+    "record": {
+      "win": 7851,
+      "loss": 6601,
+      "draw": 692
+    }
+  },
+  "fide": 2072,
+  "tactics": {
+    "highest": {
+      "rating": 2336,
+      "date": 1764293146
+    },
+    "lowest": {
+      "rating": 2303,
+      "date": 1764293539
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

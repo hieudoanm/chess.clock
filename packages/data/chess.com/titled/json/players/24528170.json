@@ -1,0 +1,131 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24528170.b4b587e6.200x200o.840eb56debed.jpeg",
+  "player_id": 24528170,
+  "@id": "https://api.chess.com/pub/player/dawidczerw",
+  "url": "https://www.chess.com/member/DawidCzerw",
+  "name": "Dawid Czerw",
+  "username": "dawidczerw",
+  "title": "IM",
+  "followers": 5768,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Lublin",
+  "last_online": 1776591298,
+  "joined": 1444579154,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/dawidczerw",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/dawidczerw"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1476,
+      "date": 1766260140,
+      "rd": 215
+    },
+    "best": {
+      "rating": 1873,
+      "date": 1545229996,
+      "game": "https://www.chess.com/game/daily/263052610"
+    },
+    "record": {
+      "win": 129,
+      "loss": 71,
+      "draw": 16,
+      "time_per_move": 89453,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 859,
+      "date": 1592739602,
+      "rd": 344
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1444579154,
+      "game": "https://www.chess.com/game/daily/261932928"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 89453,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2480,
+      "date": 1758916077,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1673701608,
+      "game": "https://www.chess.com/game/live/67439492719"
+    },
+    "record": {
+      "win": 427,
+      "loss": 130,
+      "draw": 52
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2563,
+      "date": 1775849136,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1752585655,
+      "game": "https://www.chess.com/game/live/98909152047"
+    },
+    "record": {
+      "win": 2469,
+      "loss": 2086,
+      "draw": 216
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2704,
+      "date": 1775848337,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2794,
+      "date": 1765883834,
+      "game": "https://www.chess.com/game/live/162637621459"
+    },
+    "record": {
+      "win": 6776,
+      "loss": 4830,
+      "draw": 876
+    }
+  },
+  "fide": 2401,
+  "tactics": {
+    "highest": {
+      "rating": 2690,
+      "date": 1756974106
+    },
+    "lowest": {
+      "rating": 2657,
+      "date": 1756974648
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

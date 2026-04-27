@@ -1,0 +1,82 @@
+{
+  "player_id": 78375000,
+  "@id": "https://api.chess.com/pub/player/chessboyp",
+  "url": "https://www.chess.com/member/ChessBoyP",
+  "username": "chessboyp",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/PE",
+  "last_online": 1776265008,
+  "joined": 1588408962,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1741886065
+    },
+    "best": {
+      "rating": 1909,
+      "date": 1637759335,
+      "game": "https://www.chess.com/game/live/35744889661"
+    },
+    "record": {
+      "win": 25,
+      "loss": 9,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2338,
+      "date": 1766339340,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1736184428,
+      "game": "https://www.chess.com/game/live/107895067197"
+    },
+    "record": {
+      "win": 151,
+      "loss": 100,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2610,
+      "date": 1773043041,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1772990623,
+      "game": "https://www.chess.com/game/live/145950654466"
+    },
+    "record": {
+      "win": 145,
+      "loss": 72,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2526,
+      "date": 1775488407
+    },
+    "lowest": {
+      "rating": 2526,
+      "date": 1775488407
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

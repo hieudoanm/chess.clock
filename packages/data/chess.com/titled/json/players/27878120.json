@@ -1,0 +1,103 @@
+{
+  "player_id": 27878120,
+  "@id": "https://api.chess.com/pub/player/jmpion",
+  "url": "https://www.chess.com/member/jmpion",
+  "name": "Jean Meunier-Pion",
+  "username": "jmpion",
+  "title": "CM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776582399,
+  "joined": 1461428589,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1466,
+      "date": 1760344106,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1466,
+      "date": 1728802658,
+      "game": "https://www.chess.com/game/daily/626038825"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 68137,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2210,
+      "date": 1732883638,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1681151801,
+      "game": "https://www.chess.com/game/live/41863834441"
+    },
+    "record": {
+      "win": 51,
+      "loss": 13,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2642,
+      "date": 1774272445,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2689,
+      "date": 1682039902,
+      "game": "https://www.chess.com/game/live/144476579346"
+    },
+    "record": {
+      "win": 116,
+      "loss": 96,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1776330681,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1770266652,
+      "game": "https://www.chess.com/game/live/74380993987"
+    },
+    "record": {
+      "win": 904,
+      "loss": 812,
+      "draw": 118
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2983,
+      "date": 1770200885
+    },
+    "lowest": {
+      "rating": 2505,
+      "date": 1755950469
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

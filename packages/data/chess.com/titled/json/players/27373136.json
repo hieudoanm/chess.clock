@@ -1,0 +1,100 @@
+{
+  "player_id": 27373136,
+  "@id": "https://api.chess.com/pub/player/vyotov",
+  "url": "https://www.chess.com/member/vyotov",
+  "name": "Valentin Iotov",
+  "username": "vyotov",
+  "title": "GM",
+  "followers": 123,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Plovdiv",
+  "last_online": 1769499198,
+  "joined": 1458668489,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1423,
+      "date": 1712305723,
+      "rd": 187
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1458668489,
+      "game": "https://www.chess.com/game/daily/155204232"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 21751,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2446,
+      "date": 1591022212,
+      "rd": 324
+    },
+    "best": {
+      "rating": 2226,
+      "date": 1589999680,
+      "game": "https://www.chess.com/game/live/4883538291"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1769499694,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2728,
+      "date": 1484284553,
+      "game": "https://www.chess.com/game/live/1525992489"
+    },
+    "record": {
+      "win": 997,
+      "loss": 892,
+      "draw": 153
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2558,
+      "date": 1753195643,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1637905933,
+      "game": "https://www.chess.com/game/live/31643991275"
+    },
+    "record": {
+      "win": 407,
+      "loss": 326,
+      "draw": 82
+    }
+  },
+  "fide": 2518,
+  "tactics": {
+    "highest": {
+      "rating": 2035,
+      "date": 1458668489
+    },
+    "lowest": {
+      "rating": 2035,
+      "date": 1458668489
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,121 @@
+{
+  "player_id": 73774162,
+  "@id": "https://api.chess.com/pub/player/paradise10",
+  "url": "https://www.chess.com/member/paradise10",
+  "username": "paradise10",
+  "title": "CM",
+  "followers": 238,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776339144,
+  "joined": 1584534338,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1349,
+      "date": 1662798551,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1517,
+      "date": 1593327003,
+      "game": "https://www.chess.com/game/daily/257333126"
+    },
+    "record": {
+      "win": 19,
+      "loss": 8,
+      "draw": 2,
+      "time_per_move": 33374,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 856,
+      "date": 1595734803,
+      "rd": 224
+    },
+    "best": {
+      "rating": 960,
+      "date": 1592373515,
+      "game": "https://www.chess.com/game/daily/266570640"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 33374,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1677250251,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1639671248,
+      "game": "https://www.chess.com/game/live/33409272475"
+    },
+    "record": {
+      "win": 6,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1677250390,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2764,
+      "date": 1585294931,
+      "game": "https://www.chess.com/game/live/53089154277"
+    },
+    "record": {
+      "win": 1045,
+      "loss": 1557,
+      "draw": 195
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2526,
+      "date": 1681667937,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2940,
+      "date": 1585160923,
+      "game": "https://www.chess.com/game/live/4665954337"
+    },
+    "record": {
+      "win": 551,
+      "loss": 748,
+      "draw": 141
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2551,
+      "date": 1584534338
+    },
+    "lowest": {
+      "rating": 2551,
+      "date": 1584534338
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

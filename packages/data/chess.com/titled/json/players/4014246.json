@@ -1,0 +1,135 @@
+{
+  "player_id": 4014246,
+  "@id": "https://api.chess.com/pub/player/chesselephant",
+  "url": "https://www.chess.com/member/chesselephant",
+  "name": "Daniel Yedidia",
+  "username": "chesselephant",
+  "title": "NM",
+  "followers": 95,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776532230,
+  "joined": 1285188609,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1364,
+      "date": 1768514912,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1839,
+      "date": 1605421919,
+      "game": "https://www.chess.com/game/daily/114463324"
+    },
+    "record": {
+      "win": 572,
+      "loss": 833,
+      "draw": 37,
+      "time_per_move": 39123,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1539,
+      "date": 1468582022,
+      "rd": 219
+    },
+    "best": {
+      "rating": 1539,
+      "date": 1468582022,
+      "game": "https://www.chess.com/game/daily/137746508"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 39123,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2366,
+      "date": 1648772338,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1640317925,
+      "game": "https://www.chess.com/game/live/4929187722"
+    },
+    "record": {
+      "win": 14,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2702,
+      "date": 1776532222,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1651347828,
+      "game": "https://www.chess.com/game/live/115231788927"
+    },
+    "record": {
+      "win": 13088,
+      "loss": 8994,
+      "draw": 1568
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2617,
+      "date": 1763695032,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1651983958,
+      "game": "https://www.chess.com/game/live/4680030801"
+    },
+    "record": {
+      "win": 2199,
+      "loss": 1251,
+      "draw": 286
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2757,
+      "date": 1285188609
+    },
+    "lowest": {
+      "rating": 2757,
+      "date": 1285188609
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 82,
+      "score": 79
+    }
+  }
+}

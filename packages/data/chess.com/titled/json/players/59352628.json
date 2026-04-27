@@ -1,0 +1,84 @@
+{
+  "player_id": 59352628,
+  "@id": "https://api.chess.com/pub/player/lionchessclub",
+  "url": "https://www.chess.com/member/LionChessClub",
+  "name": "Esat Baglan",
+  "username": "lionchessclub",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776464374,
+  "joined": 1554300433,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1685965208,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1619479563,
+      "game": "https://www.chess.com/game/live/13628506625"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2652,
+      "date": 1752387185,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2768,
+      "date": 1698795611,
+      "game": "https://www.chess.com/game/live/78455454713"
+    },
+    "record": {
+      "win": 507,
+      "loss": 429,
+      "draw": 44
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2711,
+      "date": 1776464366,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2881,
+      "date": 1760615221,
+      "game": "https://www.chess.com/game/live/143676560756"
+    },
+    "record": {
+      "win": 1981,
+      "loss": 2037,
+      "draw": 427
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1756549624
+    },
+    "lowest": {
+      "rating": 2363,
+      "date": 1766399502
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

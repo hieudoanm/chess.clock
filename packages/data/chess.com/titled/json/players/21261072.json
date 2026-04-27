@@ -1,0 +1,96 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/21261072.f754bfbe.200x200o.fba6423ad54f.jpg",
+  "player_id": 21261072,
+  "@id": "https://api.chess.com/pub/player/fandorine",
+  "url": "https://www.chess.com/member/Fandorine",
+  "name": "Maksim Chigaev",
+  "username": "fandorine",
+  "title": "GM",
+  "followers": 556,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776373292,
+  "joined": 1424876411,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/fandorine96",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/fandorine96"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@fandorine96"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2583,
+      "date": 1773681681,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2770,
+      "date": 1589583187,
+      "game": "https://www.chess.com/game/live/72471075345"
+    },
+    "record": {
+      "win": 89,
+      "loss": 64,
+      "draw": 64
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2866,
+      "date": 1774997383,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3054,
+      "date": 1688756516,
+      "game": "https://www.chess.com/game/live/68669716189"
+    },
+    "record": {
+      "win": 505,
+      "loss": 363,
+      "draw": 81
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3077,
+      "date": 1756247800,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3077,
+      "date": 1756247800,
+      "game": "https://www.chess.com/game/live/122766876787"
+    },
+    "record": {
+      "win": 3282,
+      "loss": 1524,
+      "draw": 706
+    }
+  },
+  "fide": 2648,
+  "tactics": {
+    "highest": {
+      "rating": 2648,
+      "date": 1424876411
+    },
+    "lowest": {
+      "rating": 2648,
+      "date": 1424876411
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

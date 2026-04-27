@@ -1,0 +1,78 @@
+{
+  "player_id": 44539100,
+  "@id": "https://api.chess.com/pub/player/krasavchik2002",
+  "url": "https://www.chess.com/member/KRASAVCHIK2002",
+  "name": "Ilja Semjonovs",
+  "username": "krasavchik2002",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/LV",
+  "last_online": 1580829108,
+  "joined": 1521738793,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1754,
+      "date": 1564314032,
+      "rd": 201
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2466,
+      "date": 1579860071,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1571906391,
+      "game": "https://www.chess.com/game/live/3415701923"
+    },
+    "record": {
+      "win": 933,
+      "loss": 750,
+      "draw": 116
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2522,
+      "date": 1580852607,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1579348314,
+      "game": "https://www.chess.com/game/live/4466510390"
+    },
+    "record": {
+      "win": 512,
+      "loss": 468,
+      "draw": 73
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2376,
+      "date": 1521738793
+    },
+    "lowest": {
+      "rating": 2376,
+      "date": 1521738793
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

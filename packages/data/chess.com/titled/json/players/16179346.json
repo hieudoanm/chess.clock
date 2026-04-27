@@ -1,0 +1,116 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16179346.347ed33d.200x200o.fb7d3882a51b.png",
+  "player_id": 16179346,
+  "@id": "https://api.chess.com/pub/player/parthenope",
+  "url": "https://www.chess.com/member/Parthenope",
+  "name": "Maria De Rosa",
+  "username": "parthenope",
+  "title": "WFM",
+  "followers": 1652,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Napoli",
+  "last_online": 1776237414,
+  "joined": 1393153579,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/parthenopechess",
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/parthenopechess"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@parthenopechess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1559,
+      "date": 1673095622,
+      "rd": 198
+    },
+    "best": {
+      "rating": 2043,
+      "date": 1583197887,
+      "game": "https://www.chess.com/game/daily/236236058"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 198794,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1303,
+      "date": 1685273278,
+      "rd": 233
+    },
+    "best": {
+      "rating": 1303,
+      "date": 1685273278,
+      "game": "https://www.chess.com/game/live/43260620883"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1608,
+      "date": 1649508862,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1742,
+      "date": 1611183376,
+      "game": "https://www.chess.com/game/live/4040965982"
+    },
+    "record": {
+      "win": 91,
+      "loss": 59,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1829,
+      "date": 1649526329,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1864,
+      "date": 1556050168,
+      "game": "https://www.chess.com/game/live/4802275305"
+    },
+    "record": {
+      "win": 182,
+      "loss": 107,
+      "draw": 9
+    }
+  },
+  "fide": 2161,
+  "tactics": {
+    "highest": {
+      "rating": 2407,
+      "date": 1757477605
+    },
+    "lowest": {
+      "rating": 2205,
+      "date": 1757478167
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

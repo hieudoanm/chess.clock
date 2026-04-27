@@ -1,0 +1,86 @@
+{
+  "player_id": 40180682,
+  "@id": "https://api.chess.com/pub/player/superstructure",
+  "url": "https://www.chess.com/member/superstructure",
+  "username": "superstructure",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776153328,
+  "joined": 1510174766,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2002,
+      "date": 1721316770,
+      "rd": 347
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1720352927,
+      "game": "https://www.chess.com/game/daily/672718657"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 21672,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2558,
+      "date": 1585076428,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1585076265,
+      "game": "https://www.chess.com/game/live/4632916836"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2585,
+      "date": 1770985527,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1770985527,
+      "game": "https://www.chess.com/game/live/4558310387"
+    },
+    "record": {
+      "win": 317,
+      "loss": 165,
+      "draw": 49
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2165,
+      "date": 1510174766
+    },
+    "lowest": {
+      "rating": 2165,
+      "date": 1510174766
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "player_id": 52198328,
+  "@id": "https://api.chess.com/pub/player/gmforgacs",
+  "url": "https://www.chess.com/member/GMForgacs",
+  "name": "Attila Jr. Forgacs",
+  "username": "gmforgacs",
+  "title": "FM",
+  "followers": 109,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776185405,
+  "joined": 1542904873,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1737,
+      "date": 1745156720,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1820,
+      "date": 1680245503,
+      "game": "https://www.chess.com/game/daily/490176653"
+    },
+    "record": {
+      "win": 159,
+      "loss": 30,
+      "draw": 2,
+      "time_per_move": 220429,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 254,
+      "date": 1745156720,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 220429,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2408,
+      "date": 1765652433,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1765649452,
+      "game": "https://www.chess.com/game/live/131484617475"
+    },
+    "record": {
+      "win": 223,
+      "loss": 127,
+      "draw": 32
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2517,
+      "date": 1775334427,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1775332007,
+      "game": "https://www.chess.com/game/live/88019942705"
+    },
+    "record": {
+      "win": 1818,
+      "loss": 1843,
+      "draw": 282
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2606,
+      "date": 1760531320,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1760531320,
+      "game": "https://www.chess.com/game/live/88291277199"
+    },
+    "record": {
+      "win": 3112,
+      "loss": 3134,
+      "draw": 530
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2586,
+      "date": 1763839683
+    },
+    "lowest": {
+      "rating": 2335,
+      "date": 1772717140
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

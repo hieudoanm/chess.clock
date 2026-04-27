@@ -1,0 +1,105 @@
+{
+  "player_id": 164518135,
+  "@id": "https://api.chess.com/pub/player/wohen2",
+  "url": "https://www.chess.com/member/wohen2",
+  "name": "Cohen Young",
+  "username": "wohen2",
+  "title": "CM",
+  "followers": 69,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "location": "Wellington",
+  "last_online": 1776595954,
+  "joined": 1639295601,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1948,
+      "date": 1762129277,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2025,
+      "date": 1666589843,
+      "game": "https://www.chess.com/game/daily/824228106"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 93942,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2374,
+      "date": 1762250126,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2414,
+      "date": 1759233227,
+      "game": "https://www.chess.com/game/live/143003064354"
+    },
+    "record": {
+      "win": 519,
+      "loss": 358,
+      "draw": 64
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2107,
+      "date": 1773167093,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1749899831,
+      "game": "https://www.chess.com/game/live/144104223376"
+    },
+    "record": {
+      "win": 71,
+      "loss": 60,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2447,
+      "date": 1776595895,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2487,
+      "date": 1774766176,
+      "game": "https://www.chess.com/game/live/150556095545"
+    },
+    "record": {
+      "win": 1443,
+      "loss": 1285,
+      "draw": 159
+    }
+  },
+  "fide": 2062,
+  "tactics": {
+    "highest": {
+      "rating": 2221,
+      "date": 1774147817
+    },
+    "lowest": {
+      "rating": 2021,
+      "date": 1766382413
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/169166443.c4bc9ffa.200x200o.4159d8e095b7.jpg",
+  "player_id": 169166443,
+  "@id": "https://api.chess.com/pub/player/valentin_baidetskyi",
+  "url": "https://www.chess.com/member/Valentin_Baidetskyi",
+  "name": "Valentin Baidetskyi",
+  "username": "valentin_baidetskyi",
+  "title": "IM",
+  "followers": 121,
+  "country": "https://api.chess.com/pub/country/AT",
+  "location": "Vienna",
+  "last_online": 1775057338,
+  "joined": 1642349814,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2021,
+      "date": 1767266414,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2021,
+      "date": 1753441777,
+      "game": "https://www.chess.com/game/daily/440465749"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 70589,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2105,
+      "date": 1753457159,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1753457159,
+      "game": "https://www.chess.com/game/live/141097437700"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2921,
+      "date": 1768482237,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3023,
+      "date": 1763755496,
+      "game": "https://www.chess.com/game/live/143181949022"
+    },
+    "record": {
+      "win": 1092,
+      "loss": 505,
+      "draw": 130
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3042,
+      "date": 1775047509,
+      "rd": 37
+    },
+    "best": {
+      "rating": 3053,
+      "date": 1775036570,
+      "game": "https://www.chess.com/game/live/139730979940"
+    },
+    "record": {
+      "win": 935,
+      "loss": 832,
+      "draw": 200
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2502,
+      "date": 1762440292
+    },
+    "lowest": {
+      "rating": 2382,
+      "date": 1755682977
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

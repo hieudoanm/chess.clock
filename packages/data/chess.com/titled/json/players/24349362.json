@@ -1,0 +1,105 @@
+{
+  "player_id": 24349362,
+  "@id": "https://api.chess.com/pub/player/alex_zapata",
+  "url": "https://www.chess.com/member/alex_zapata",
+  "name": "Alex Zapata",
+  "username": "alex_zapata",
+  "title": "NM",
+  "followers": 160,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1776552506,
+  "joined": 1443572518,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 827,
+      "date": 1772629164,
+      "rd": 183
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1443572518,
+      "game": "https://www.chess.com/game/daily/929361513"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4226,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2225,
+      "date": 1764248247,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1607098566,
+      "game": "https://www.chess.com/game/live/5885928802"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2422,
+      "date": 1762024285,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1616978545,
+      "game": "https://www.chess.com/game/live/96414052183"
+    },
+    "record": {
+      "win": 13720,
+      "loss": 11355,
+      "draw": 1259
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2446,
+      "date": 1776552473,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2566,
+      "date": 1773096590,
+      "game": "https://www.chess.com/game/live/165597738968"
+    },
+    "record": {
+      "win": 19990,
+      "loss": 17346,
+      "draw": 2512
+    }
+  },
+  "fide": 2226,
+  "tactics": {
+    "highest": {
+      "rating": 2399,
+      "date": 1766022984
+    },
+    "lowest": {
+      "rating": 2109,
+      "date": 1774947298
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 32
+    }
+  }
+}

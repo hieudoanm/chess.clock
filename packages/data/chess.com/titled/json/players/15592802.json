@@ -1,0 +1,81 @@
+{
+    "player_id": 15592802,
+    "@id": "https://api.chess.com/pub/player/kerukinetik",
+    "url": "https://www.chess.com/member/KeruKinetik",
+    "name": "Keith Ruxton",
+    "username": "kerukinetik",
+    "title": "FM",
+    "followers": 7,
+    "country": "https://api.chess.com/pub/country/XS",
+    "last_online": 1738141616,
+    "joined": 1389815253,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 248,
+            "date": 1716402238,
+            "rd": 288
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 403,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2222,
+            "date": 1414095531,
+            "rd": 154
+        },
+        "best": {
+            "rating": 2150,
+            "date": 1414094677,
+            "game": "https://www.chess.com/game/live/949325603"
+        },
+        "record": {
+            "win": 9,
+            "loss": 2,
+            "draw": 0
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2498,
+            "date": 1726157378,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2507,
+            "date": 1726156813,
+            "game": "https://www.chess.com/game/live/110473953843"
+        },
+        "record": {
+            "win": 1045,
+            "loss": 533,
+            "draw": 104
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2851,
+            "date": 1392321426
+        },
+        "lowest": {
+            "rating": 2200,
+            "date": 1390466207
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 37,
+            "score": 36
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 434514691,
+  "@id": "https://api.chess.com/pub/player/k_iron_man",
+  "url": "https://www.chess.com/member/k_iron_man",
+  "username": "k_iron_man",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IR",
+  "last_online": 1776340400,
+  "joined": 1741183750,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2592,
+      "date": 1758019403,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1757791584,
+      "game": "https://www.chess.com/game/live/142695634426"
+    },
+    "record": {
+      "win": 35,
+      "loss": 23,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1757964311,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1749673767,
+      "game": "https://www.chess.com/game/live/139486402668"
+    },
+    "record": {
+      "win": 69,
+      "loss": 60,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2315,
+      "date": 1741183750
+    },
+    "lowest": {
+      "rating": 2315,
+      "date": 1741183750
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

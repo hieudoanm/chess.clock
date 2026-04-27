@@ -1,0 +1,85 @@
+{
+  "player_id": 341886071,
+  "@id": "https://api.chess.com/pub/player/worriedegg",
+  "url": "https://www.chess.com/member/WorriedEgg",
+  "name": "Aaron Jacobson",
+  "username": "worriedegg",
+  "title": "IM",
+  "followers": 143,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776598596,
+  "joined": 1706492475,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2417,
+      "date": 1748817460,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2417,
+      "date": 1748817460,
+      "game": "https://www.chess.com/game/live/131410799765"
+    },
+    "record": {
+      "win": 12,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3144,
+      "date": 1776594463,
+      "rd": 14
+    },
+    "best": {
+      "rating": 3343,
+      "date": 1776554364,
+      "game": "https://www.chess.com/game/live/147267155870"
+    },
+    "record": {
+      "win": 5799,
+      "loss": 3163,
+      "draw": 407
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2821,
+      "date": 1776598990,
+      "rd": 19
+    },
+    "best": {
+      "rating": 3091,
+      "date": 1760631759,
+      "game": "https://www.chess.com/game/live/144298532466"
+    },
+    "record": {
+      "win": 2619,
+      "loss": 2630,
+      "draw": 603
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1706492475
+    },
+    "lowest": {
+      "rating": 2461,
+      "date": 1706492475
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

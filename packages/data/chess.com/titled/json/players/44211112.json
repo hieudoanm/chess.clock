@@ -1,0 +1,124 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/44211112.252b3d05.200x200o.3a70fb6973ca.jpg",
+  "player_id": 44211112,
+  "@id": "https://api.chess.com/pub/player/athlblue",
+  "url": "https://www.chess.com/member/athlblue",
+  "name": "Steve Wongso",
+  "username": "athlblue",
+  "title": "NM",
+  "followers": 574,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776545343,
+  "joined": 1520891902,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1749842020,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1797,
+      "date": 1592243325,
+      "game": "https://www.chess.com/game/daily/256760310"
+    },
+    "record": {
+      "win": 225,
+      "loss": 108,
+      "draw": 11,
+      "time_per_move": 49833,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1524,
+      "date": 1578724722,
+      "rd": 191
+    },
+    "best": {
+      "rating": 1602,
+      "date": 1578720398,
+      "game": "https://www.chess.com/game/daily/246109438"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 49833,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1730597919,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1711821407,
+      "game": "https://www.chess.com/game/live/104433094599"
+    },
+    "record": {
+      "win": 1063,
+      "loss": 658,
+      "draw": 102
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2650,
+      "date": 1776479722,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2669,
+      "date": 1774720686,
+      "game": "https://www.chess.com/game/live/144014685794"
+    },
+    "record": {
+      "win": 4249,
+      "loss": 3677,
+      "draw": 271
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2516,
+      "date": 1763914214,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1763914214,
+      "game": "https://www.chess.com/game/live/94412536635"
+    },
+    "record": {
+      "win": 1554,
+      "loss": 987,
+      "draw": 108
+    }
+  },
+  "fide": 3000,
+  "tactics": {
+    "highest": {
+      "rating": 2633,
+      "date": 1771899182
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1771900079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

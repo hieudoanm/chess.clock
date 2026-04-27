@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/57070720.e9036ba3.200x200o.f0bcd0851e12.jpg",
+  "player_id": 57070720,
+  "@id": "https://api.chess.com/pub/player/djakovenko",
+  "url": "https://www.chess.com/member/DJakovenko",
+  "name": "Dmitry Jakovenko",
+  "username": "djakovenko",
+  "title": "GM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776341136,
+  "joined": 1549568443,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 910,
+      "date": 1702406566,
+      "rd": 146
+    },
+    "record": {
+      "win": 4,
+      "loss": 27,
+      "draw": 0,
+      "time_per_move": 49977,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2612,
+      "date": 1683635635,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2938,
+      "date": 1613834605,
+      "game": "https://www.chess.com/game/live/6588348335"
+    },
+    "record": {
+      "win": 30,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2256,
+      "date": 1683822150,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2648,
+      "date": 1613482716,
+      "game": "https://www.chess.com/game/live/77377510421"
+    },
+    "record": {
+      "win": 25,
+      "loss": 7,
+      "draw": 4
+    }
+  },
+  "fide": 2684,
+  "tactics": {
+    "highest": {
+      "rating": 2344,
+      "date": 1549568443
+    },
+    "lowest": {
+      "rating": 2344,
+      "date": 1549568443
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "player_id": 357532165,
+  "@id": "https://api.chess.com/pub/player/lightspeedflyer",
+  "url": "https://www.chess.com/member/lightspeedflyer",
+  "username": "lightspeedflyer",
+  "title": "WFM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/AR",
+  "last_online": 1776479778,
+  "joined": 1713282119,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2392,
+      "date": 1776012647,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1775702342,
+      "game": "https://www.chess.com/game/live/167053751374"
+    },
+    "record": {
+      "win": 492,
+      "loss": 288,
+      "draw": 111
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2223,
+      "date": 1762831730,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2277,
+      "date": 1762305969,
+      "game": "https://www.chess.com/game/live/121919328431"
+    },
+    "record": {
+      "win": 208,
+      "loss": 133,
+      "draw": 33
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2477,
+      "date": 1776117251
+    },
+    "lowest": {
+      "rating": 2324,
+      "date": 1776117625
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

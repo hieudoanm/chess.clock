@@ -1,0 +1,108 @@
+{
+  "player_id": 296690227,
+  "@id": "https://api.chess.com/pub/player/gm-2024-gm",
+  "url": "https://www.chess.com/member/GM-2024-GM",
+  "name": "Vladimir Pozdeev",
+  "username": "gm-2024-gm",
+  "title": "CM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776581081,
+  "joined": 1688024308,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2205,
+      "date": 1752840400,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2219,
+      "date": 1750217051,
+      "game": "https://www.chess.com/game/daily/788022975"
+    },
+    "record": {
+      "win": 85,
+      "loss": 43,
+      "draw": 37,
+      "time_per_move": 8963,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2203,
+      "date": 1728809472,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1720605040,
+      "game": "https://www.chess.com/game/live/114343205771"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1965,
+      "date": 1756007652,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2274,
+      "date": 1734197402,
+      "game": "https://www.chess.com/game/live/133984159249"
+    },
+    "record": {
+      "win": 277,
+      "loss": 489,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2190,
+      "date": 1745939785,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1718730358,
+      "game": "https://www.chess.com/game/live/112461682777"
+    },
+    "record": {
+      "win": 56,
+      "loss": 91,
+      "draw": 9
+    }
+  },
+  "fide": 2195,
+  "tactics": {
+    "highest": {
+      "rating": 2587,
+      "date": 1760499681
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1761105852
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    },
+    "daily": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

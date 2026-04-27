@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10471150.91797596.200x200o.7a4eb69410e6.jpg",
+  "player_id": 10471150,
+  "@id": "https://api.chess.com/pub/player/sungho",
+  "url": "https://www.chess.com/member/Sungho",
+  "name": "Sung Ho Yim",
+  "username": "sungho",
+  "title": "FM",
+  "followers": 256,
+  "country": "https://api.chess.com/pub/country/KR",
+  "last_online": 1776588442,
+  "joined": 1358496832,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1799,
+      "date": 1772711168,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2202,
+      "date": 1365055996,
+      "game": "https://www.chess.com/game/daily/67781098"
+    },
+    "record": {
+      "win": 6,
+      "loss": 13,
+      "draw": 5,
+      "time_per_move": 7321,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2473,
+      "date": 1775318150,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1750397302,
+      "game": "https://www.chess.com/game/live/144662869584"
+    },
+    "record": {
+      "win": 81,
+      "loss": 35,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2900,
+      "date": 1747889327,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2915,
+      "date": 1747632796,
+      "game": "https://www.chess.com/game/live/122505847361"
+    },
+    "record": {
+      "win": 933,
+      "loss": 599,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2922,
+      "date": 1775977267,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2959,
+      "date": 1774944539,
+      "game": "https://www.chess.com/game/live/166840236178"
+    },
+    "record": {
+      "win": 1009,
+      "loss": 868,
+      "draw": 144
+    }
+  },
+  "fide": 2285,
+  "tactics": {
+    "highest": {
+      "rating": 2548,
+      "date": 1358496832
+    },
+    "lowest": {
+      "rating": 2548,
+      "date": 1358496832
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

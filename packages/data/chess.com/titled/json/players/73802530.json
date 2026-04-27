@@ -1,0 +1,84 @@
+{
+  "player_id": 73802530,
+  "@id": "https://api.chess.com/pub/player/fischerkasparow",
+  "url": "https://www.chess.com/member/FischerKasparow",
+  "name": "Pawel Flis",
+  "username": "fischerkasparow",
+  "title": "CM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776162327,
+  "joined": 1584556539,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2079,
+      "date": 1772058390,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2093,
+      "date": 1772055491,
+      "game": "https://www.chess.com/game/live/162129425453"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1728,
+      "date": 1608238440,
+      "rd": 105
+    },
+    "best": {
+      "rating": 1877,
+      "date": 1585228446,
+      "game": "https://www.chess.com/game/live/4639803827"
+    },
+    "record": {
+      "win": 12,
+      "loss": 12,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2249,
+      "date": 1747760580,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1747759986,
+      "game": "https://www.chess.com/game/live/37470105265"
+    },
+    "record": {
+      "win": 431,
+      "loss": 637,
+      "draw": 79
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2217,
+      "date": 1759758817
+    },
+    "lowest": {
+      "rating": 1832,
+      "date": 1759926085
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 19
+    }
+  }
+}

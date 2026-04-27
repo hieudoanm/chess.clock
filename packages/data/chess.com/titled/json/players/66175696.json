@@ -1,0 +1,85 @@
+{
+  "player_id": 66175696,
+  "@id": "https://api.chess.com/pub/player/arnash_bauyrzhan",
+  "url": "https://www.chess.com/member/arnash_bauyrzhan",
+  "name": "Arnash Bauyrzhan",
+  "username": "arnash_bauyrzhan",
+  "title": "WFM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1776340496,
+  "joined": 1569986179,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2029,
+      "date": 1702308778,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1841,
+      "date": 1586106958,
+      "game": "https://www.chess.com/game/live/4682744091"
+    },
+    "record": {
+      "win": 11,
+      "loss": 7,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2215,
+      "date": 1765795740,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2286,
+      "date": 1707559246,
+      "game": "https://www.chess.com/game/live/139310113992"
+    },
+    "record": {
+      "win": 430,
+      "loss": 433,
+      "draw": 59
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2305,
+      "date": 1774616659,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1747317648,
+      "game": "https://www.chess.com/game/live/4651633920"
+    },
+    "record": {
+      "win": 1267,
+      "loss": 1307,
+      "draw": 206
+    }
+  },
+  "fide": 2029,
+  "tactics": {
+    "highest": {
+      "rating": 2500,
+      "date": 1771483168
+    },
+    "lowest": {
+      "rating": 2323,
+      "date": 1762884534
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

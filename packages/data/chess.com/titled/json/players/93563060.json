@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/93563060.c4221d1d.200x200o.00bb24f6483b.jpg",
+  "player_id": 93563060,
+  "@id": "https://api.chess.com/pub/player/larina_maria",
+  "url": "https://www.chess.com/member/Larina_Maria",
+  "name": "Maria Larina",
+  "username": "larina_maria",
+  "title": "WFM",
+  "followers": 2061,
+  "country": "https://api.chess.com/pub/country/CY",
+  "location": "Limassol",
+  "last_online": 1776136629,
+  "joined": 1603260877,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/marypokerchess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/marypokerchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1123,
+      "date": 1739794727,
+      "rd": 283
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 5055,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1823,
+      "date": 1735309996,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2034,
+      "date": 1649695744,
+      "game": "https://www.chess.com/game/live/94743514979"
+    },
+    "record": {
+      "win": 9,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2133,
+      "date": 1735669538,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1618102012,
+      "game": "https://www.chess.com/game/live/78952925691"
+    },
+    "record": {
+      "win": 569,
+      "loss": 2072,
+      "draw": 93
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2328,
+      "date": 1774471263,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1715699765,
+      "game": "https://www.chess.com/game/live/109438317817"
+    },
+    "record": {
+      "win": 1861,
+      "loss": 2201,
+      "draw": 347
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2356,
+      "date": 1603260877
+    },
+    "lowest": {
+      "rating": 2356,
+      "date": 1603260877
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

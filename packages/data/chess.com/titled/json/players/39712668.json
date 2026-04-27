@@ -1,0 +1,109 @@
+{
+  "player_id": 39712668,
+  "@id": "https://api.chess.com/pub/player/mwamba1409",
+  "url": "https://www.chess.com/member/Mwamba1409",
+  "name": "Daniel Jere",
+  "username": "mwamba1409",
+  "title": "IM",
+  "followers": 371,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "USA",
+  "last_online": 1776550226,
+  "joined": 1508808242,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1951,
+      "date": 1776538885,
+      "rd": 296
+    },
+    "best": {
+      "rating": 1951,
+      "date": 1763230465,
+      "game": "https://www.chess.com/game/daily/521154913"
+    },
+    "record": {
+      "win": 15,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 14934,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2241,
+      "date": 1765409348,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1695354456,
+      "game": "https://www.chess.com/game/live/89092903171"
+    },
+    "record": {
+      "win": 60,
+      "loss": 12,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1742912121,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1644020888,
+      "game": "https://www.chess.com/game/live/43989918053"
+    },
+    "record": {
+      "win": 10479,
+      "loss": 8225,
+      "draw": 770
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2826,
+      "date": 1776539215,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2847,
+      "date": 1751377613,
+      "game": "https://www.chess.com/game/live/44337009355"
+    },
+    "record": {
+      "win": 2270,
+      "loss": 1564,
+      "draw": 383
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2484,
+      "date": 1761862491
+    },
+    "lowest": {
+      "rating": 2330,
+      "date": 1775094746
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    },
+    "daily": {
+      "total_attempts": 17,
+      "score": 14
+    }
+  }
+}

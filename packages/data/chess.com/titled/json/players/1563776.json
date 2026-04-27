@@ -1,0 +1,105 @@
+{
+  "player_id": 1563776,
+  "@id": "https://api.chess.com/pub/player/ashchess",
+  "url": "https://www.chess.com/member/ASHCHESS",
+  "name": "Ashvin Sivakumar",
+  "username": "ashchess",
+  "title": "FM",
+  "followers": 96,
+  "country": "https://api.chess.com/pub/country/SG",
+  "location": "Singapore",
+  "last_online": 1776196825,
+  "joined": 1225070498,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1763,
+      "date": 1776196634,
+      "rd": 325
+    },
+    "best": {
+      "rating": 1763,
+      "date": 1769994230,
+      "game": "https://www.chess.com/game/daily/58680868"
+    },
+    "record": {
+      "win": 22,
+      "loss": 32,
+      "draw": 0,
+      "time_per_move": 54987,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1755892735,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1682714690,
+      "game": "https://www.chess.com/game/live/76452571651"
+    },
+    "record": {
+      "win": 48,
+      "loss": 19,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2660,
+      "date": 1776196816,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1760817578,
+      "game": "https://www.chess.com/game/live/164072762896"
+    },
+    "record": {
+      "win": 9673,
+      "loss": 7251,
+      "draw": 1150
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2509,
+      "date": 1775415770,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2621,
+      "date": 1770530024,
+      "game": "https://www.chess.com/game/live/34775456007"
+    },
+    "record": {
+      "win": 836,
+      "loss": 547,
+      "draw": 111
+    }
+  },
+  "fide": 2285,
+  "tactics": {
+    "highest": {
+      "rating": 2245,
+      "date": 1767409355
+    },
+    "lowest": {
+      "rating": 2111,
+      "date": 1771045820
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

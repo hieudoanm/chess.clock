@@ -1,0 +1,99 @@
+{
+  "player_id": 25945628,
+  "@id": "https://api.chess.com/pub/player/cthulhuuu",
+  "url": "https://www.chess.com/member/cthulhuuu",
+  "name": "Michal Mazurkiewicz",
+  "username": "cthulhuuu",
+  "title": "CM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776515870,
+  "joined": 1451928425,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1182,
+      "date": 1698165389,
+      "rd": 334
+    },
+    "record": {
+      "win": 0,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 26906,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2031,
+      "date": 1754426378,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2031,
+      "date": 1670255018,
+      "game": "https://www.chess.com/game/live/6501004756"
+    },
+    "record": {
+      "win": 16,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2308,
+      "date": 1670442253,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1602196925,
+      "game": "https://www.chess.com/game/live/5655528351"
+    },
+    "record": {
+      "win": 2455,
+      "loss": 1886,
+      "draw": 210
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2517,
+      "date": 1776515820,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2597,
+      "date": 1760819736,
+      "game": "https://www.chess.com/game/live/60540142703"
+    },
+    "record": {
+      "win": 9379,
+      "loss": 8025,
+      "draw": 1083
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2555,
+      "date": 1761175172
+    },
+    "lowest": {
+      "rating": 2334,
+      "date": 1773417351
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

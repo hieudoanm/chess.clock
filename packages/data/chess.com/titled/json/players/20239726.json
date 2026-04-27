@@ -1,0 +1,104 @@
+{
+  "player_id": 20239726,
+  "@id": "https://api.chess.com/pub/player/sniper_boy",
+  "url": "https://www.chess.com/member/Sniper_Boy",
+  "name": "Mirai Aoshima",
+  "username": "sniper_boy",
+  "title": "FM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/JP",
+  "location": "Tokyo",
+  "last_online": 1757503073,
+  "joined": 1419004456,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1277,
+      "date": 1630011477,
+      "rd": 202
+    },
+    "best": {
+      "rating": 1277,
+      "date": 1553874008,
+      "game": "https://www.chess.com/game/daily/214915170"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75750,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2288,
+      "date": 1673772699,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2536,
+      "date": 1630060708,
+      "game": "https://www.chess.com/game/live/6329342993"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2411,
+      "date": 1564066680,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1546344167,
+      "game": "https://www.chess.com/game/live/2176965966"
+    },
+    "record": {
+      "win": 313,
+      "loss": 196,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1755263241,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1726592800,
+      "game": "https://www.chess.com/game/live/120331249973"
+    },
+    "record": {
+      "win": 672,
+      "loss": 492,
+      "draw": 80
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2504,
+      "date": 1419004456
+    },
+    "lowest": {
+      "rating": 2504,
+      "date": 1419004456
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

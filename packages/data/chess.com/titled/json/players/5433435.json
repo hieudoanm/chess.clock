@@ -1,0 +1,98 @@
+{
+  "player_id": 5433435,
+  "@id": "https://api.chess.com/pub/player/nab_c",
+  "url": "https://www.chess.com/member/Nab_c",
+  "name": "Sanket Chakravarty",
+  "username": "nab_c",
+  "title": "IM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776546043,
+  "joined": 1310568626,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1741875405,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 34,
+      "draw": 0,
+      "time_per_move": 79380,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2326,
+      "date": 1736777620
+    },
+    "best": {
+      "rating": 1848,
+      "date": 1433483503,
+      "game": "https://www.chess.com/game/live/1174712481"
+    },
+    "record": {
+      "win": 87,
+      "loss": 78,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2537,
+      "date": 1771606633,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1762710992,
+      "game": "https://www.chess.com/game/live/145312592830"
+    },
+    "record": {
+      "win": 347,
+      "loss": 285,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2650,
+      "date": 1776538964,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2674,
+      "date": 1764699144,
+      "game": "https://www.chess.com/game/live/157795055059"
+    },
+    "record": {
+      "win": 1158,
+      "loss": 1035,
+      "draw": 181
+    }
+  },
+  "fide": 2326,
+  "tactics": {
+    "highest": {
+      "rating": 2571,
+      "date": 1758443511
+    },
+    "lowest": {
+      "rating": 2516,
+      "date": 1758815135
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

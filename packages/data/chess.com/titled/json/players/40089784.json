@@ -1,0 +1,83 @@
+{
+  "player_id": 40089784,
+  "@id": "https://api.chess.com/pub/player/tmnunn",
+  "url": "https://www.chess.com/member/tmnunn",
+  "username": "tmnunn",
+  "title": "NM",
+  "followers": 63,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776261413,
+  "joined": 1509911509,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1645065169,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1540063001,
+      "game": "https://www.chess.com/game/live/2460039622"
+    },
+    "record": {
+      "win": 14,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2568,
+      "date": 1741470709,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1543490257,
+      "game": "https://www.chess.com/game/live/3253531381"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2470,
+      "date": 1741468889,
+      "rd": 145
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1737902231,
+      "game": "https://www.chess.com/game/live/4708163207"
+    },
+    "record": {
+      "win": 293,
+      "loss": 194,
+      "draw": 23
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1509911509
+    },
+    "lowest": {
+      "rating": 2452,
+      "date": 1509911509
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

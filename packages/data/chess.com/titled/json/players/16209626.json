@@ -1,0 +1,69 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16209626.3679769a.200x200o.b418a647deec.jpeg",
+  "player_id": 16209626,
+  "@id": "https://api.chess.com/pub/player/gmizeta",
+  "url": "https://www.chess.com/member/GMIzeta",
+  "name": "Felix Izeta",
+  "username": "gmizeta",
+  "title": "GM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/XE",
+  "location": "London",
+  "last_online": 1676647455,
+  "joined": 1393342144,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2067,
+      "date": 1630240861,
+      "rd": 293
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1593386335,
+      "game": "https://www.chess.com/game/live/4952804391"
+    },
+    "record": {
+      "win": 19,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2360,
+      "date": 1671926170,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1671926170,
+      "game": "https://www.chess.com/game/live/740316298"
+    },
+    "record": {
+      "win": 78,
+      "loss": 30,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1393342144
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1393342144
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 30
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "player_id": 484109979,
+  "@id": "https://api.chess.com/pub/player/roberto-salgado",
+  "url": "https://www.chess.com/member/Roberto-Salgado",
+  "name": "Roberto Salgado",
+  "username": "roberto-salgado",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Florida",
+  "last_online": 1776557672,
+  "joined": 1758075530,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1776211579,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1769978579,
+      "game": "https://www.chess.com/game/live/164661351100"
+    },
+    "record": {
+      "win": 6,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2451,
+      "date": 1776557620,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1776556390,
+      "game": "https://www.chess.com/game/live/167496901296"
+    },
+    "record": {
+      "win": 144,
+      "loss": 131,
+      "draw": 23
+    }
+  },
+  "fide": 2150,
+  "tactics": {
+    "highest": {
+      "rating": 1527,
+      "date": 1776268954
+    },
+    "lowest": {
+      "rating": 813,
+      "date": 1759272974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

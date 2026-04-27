@@ -1,0 +1,107 @@
+{
+  "player_id": 71571506,
+  "@id": "https://api.chess.com/pub/player/lvc7912",
+  "url": "https://www.chess.com/member/LVC7912",
+  "name": "Vicky Qian",
+  "username": "lvc7912",
+  "title": "WCM",
+  "followers": 193,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776567561,
+  "joined": 1580550483,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1102,
+      "date": 1776427731,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1260,
+      "date": 1741417651,
+      "game": "https://www.chess.com/game/daily/720265365"
+    },
+    "record": {
+      "win": 14,
+      "loss": 10,
+      "draw": 2,
+      "time_per_move": 92455,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1793,
+      "date": 1750844669,
+      "rd": 93
+    },
+    "best": {
+      "rating": 1793,
+      "date": 1739093001,
+      "game": "https://www.chess.com/game/live/132108643935"
+    },
+    "record": {
+      "win": 606,
+      "loss": 292,
+      "draw": 58
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1590,
+      "date": 1759980859,
+      "rd": 80
+    },
+    "best": {
+      "rating": 1630,
+      "date": 1738135331,
+      "game": "https://www.chess.com/game/live/131843349343"
+    },
+    "record": {
+      "win": 155,
+      "loss": 134,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1642,
+      "date": 1763619069,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1646,
+      "date": 1724967036,
+      "game": "https://www.chess.com/game/live/4849555281"
+    },
+    "record": {
+      "win": 185,
+      "loss": 178,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2035,
+      "date": 1772319331
+    },
+    "lowest": {
+      "rating": 1707,
+      "date": 1759872525
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    },
+    "daily": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

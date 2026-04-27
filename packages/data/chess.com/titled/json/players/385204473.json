@@ -1,0 +1,83 @@
+{
+  "player_id": 385204473,
+  "@id": "https://api.chess.com/pub/player/seductiveprincess",
+  "url": "https://www.chess.com/member/seductiveprincess",
+  "username": "seductiveprincess",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776594651,
+  "joined": 1725457420,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1774895995,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1774895078,
+      "game": "https://www.chess.com/game/live/122070007891"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2507,
+      "date": 1771319967,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1729369669,
+      "game": "https://www.chess.com/game/live/130103420911"
+    },
+    "record": {
+      "win": 50,
+      "loss": 57,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2687,
+      "date": 1776587639,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2802,
+      "date": 1776029300,
+      "game": "https://www.chess.com/game/live/147952862566"
+    },
+    "record": {
+      "win": 2729,
+      "loss": 3030,
+      "draw": 542
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2732,
+      "date": 1775315412
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1755861709
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

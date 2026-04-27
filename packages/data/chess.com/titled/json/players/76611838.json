@@ -1,0 +1,84 @@
+{
+  "player_id": 76611838,
+  "@id": "https://api.chess.com/pub/player/qashashvilialexandre",
+  "url": "https://www.chess.com/member/QashashviliAlexandre",
+  "name": "Alexandre Qashashvili",
+  "username": "qashashvilialexandre",
+  "title": "GM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/GE",
+  "last_online": 1775817651,
+  "joined": 1586806073,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1959,
+      "date": 1608988165,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1590171714,
+      "game": "https://www.chess.com/game/live/6061922042"
+    },
+    "record": {
+      "win": 9,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2373,
+      "date": 1770112238,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2472,
+      "date": 1767938137,
+      "game": "https://www.chess.com/game/live/46176554261"
+    },
+    "record": {
+      "win": 779,
+      "loss": 476,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1746696670,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1673972515,
+      "game": "https://www.chess.com/game/live/59850680607"
+    },
+    "record": {
+      "win": 345,
+      "loss": 344,
+      "draw": 129
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2433,
+      "date": 1764938515
+    },
+    "lowest": {
+      "rating": 2304,
+      "date": 1760776785
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 116,
+      "score": 113
+    }
+  }
+}

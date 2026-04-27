@@ -1,0 +1,78 @@
+{
+  "player_id": 410164681,
+  "@id": "https://api.chess.com/pub/player/iomshark",
+  "url": "https://www.chess.com/member/IOMshark",
+  "username": "iomshark",
+  "title": "IM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/IM",
+  "last_online": 1753582861,
+  "joined": 1734455300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2130,
+      "date": 1753466592,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1734558615,
+      "game": "https://www.chess.com/game/live/128296813239"
+    },
+    "record": {
+      "win": 9,
+      "loss": 11,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2516,
+      "date": 1753583523,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2625,
+      "date": 1734601705,
+      "game": "https://www.chess.com/game/live/129432191683"
+    },
+    "record": {
+      "win": 713,
+      "loss": 344,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2375,
+      "date": 1753469770,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2652,
+      "date": 1734597628,
+      "game": "https://www.chess.com/game/live/130825234369"
+    },
+    "record": {
+      "win": 330,
+      "loss": 183,
+      "draw": 76
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1734455300
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1734455300
+    }
+  },
+  "puzzle_rush": {}
+}

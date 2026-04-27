@@ -1,0 +1,86 @@
+{
+    "player_id": 55399748,
+    "@id": "https://api.chess.com/pub/player/yamm22",
+    "url": "https://www.chess.com/member/yamm22",
+    "name": "Mark Yasser",
+    "username": "yamm22",
+    "title": "FM",
+    "followers": 42,
+    "country": "https://api.chess.com/pub/country/EG",
+    "location": "cairo",
+    "last_online": 1734176660,
+    "joined": 1546373049,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2052,
+            "date": 1654432070,
+            "rd": 248
+        },
+        "best": {
+            "rating": 2205,
+            "date": 1552337903,
+            "game": "https://www.chess.com/game/live/3526848465"
+        },
+        "record": {
+            "win": 1,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2235,
+            "date": 1731012611,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2498,
+            "date": 1607962725,
+            "game": "https://www.chess.com/game/live/5965160413"
+        },
+        "record": {
+            "win": 37,
+            "loss": 61,
+            "draw": 1
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2388,
+            "date": 1734177138,
+            "rd": 30
+        },
+        "best": {
+            "rating": 2529,
+            "date": 1722543820,
+            "game": "https://www.chess.com/game/live/115645091605"
+        },
+        "record": {
+            "win": 3220,
+            "loss": 4034,
+            "draw": 567
+        }
+    },
+    "fide": 2140,
+    "tactics": {
+        "highest": {
+            "rating": 2623,
+            "date": 1670583125
+        },
+        "lowest": {
+            "rating": 1996,
+            "date": 1642821434
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 38,
+            "score": 37
+        }
+    }
+}

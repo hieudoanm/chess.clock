@@ -1,0 +1,80 @@
+{
+  "player_id": 56777244,
+  "@id": "https://api.chess.com/pub/player/etlouis",
+  "url": "https://www.chess.com/member/ETlouis",
+  "name": "Luisa Fernanda Diaz Meneses",
+  "username": "etlouis",
+  "title": "WFM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776339844,
+  "joined": 1548963938,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1601767262,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 27,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1612,
+      "date": 1605038319,
+      "rd": 155
+    },
+    "best": {
+      "rating": 1817,
+      "date": 1600216466,
+      "game": "https://www.chess.com/game/live/5451840981"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1600,
+      "date": 1601767259,
+      "rd": 78
+    },
+    "best": {
+      "rating": 1760,
+      "date": 1551713237,
+      "game": "https://www.chess.com/game/live/3472277686"
+    },
+    "record": {
+      "win": 75,
+      "loss": 58,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2159,
+      "date": 1548963938
+    },
+    "lowest": {
+      "rating": 2159,
+      "date": 1548963938
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

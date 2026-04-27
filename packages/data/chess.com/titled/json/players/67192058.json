@@ -1,0 +1,61 @@
+{
+  "player_id": 67192058,
+  "@id": "https://api.chess.com/pub/player/morlinkov",
+  "url": "https://www.chess.com/member/MOrlinkov",
+  "username": "morlinkov",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1627726833,
+  "joined": 1572180168,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2251,
+      "date": 1627750582,
+      "rd": 86
+    },
+    "best": {
+      "rating": 2275,
+      "date": 1625333122,
+      "game": "https://www.chess.com/game/live/20886087033"
+    },
+    "record": {
+      "win": 78,
+      "loss": 21,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2209,
+      "date": 1627752603,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1625263396,
+      "game": "https://www.chess.com/game/live/19009557161"
+    },
+    "record": {
+      "win": 145,
+      "loss": 56,
+      "draw": 12
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1704,
+      "date": 1572180168
+    },
+    "lowest": {
+      "rating": 1704,
+      "date": 1572180168
+    }
+  },
+  "puzzle_rush": {}
+}

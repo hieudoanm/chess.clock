@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30897676.48e8ea79.200x200o.f002f7225476.jpeg",
+  "player_id": 30897676,
+  "@id": "https://api.chess.com/pub/player/andrewdgreen",
+  "url": "https://www.chess.com/member/AndrewDGreen",
+  "name": "Andrew Green",
+  "username": "andrewdgreen",
+  "title": "CM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/XS",
+  "location": "Edinburgh",
+  "last_online": 1776596861,
+  "joined": 1479072233,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1401,
+      "date": 1772278753,
+      "rd": 183
+    },
+    "best": {
+      "rating": 1932,
+      "date": 1543776178,
+      "game": "https://www.chess.com/game/daily/284367148"
+    },
+    "record": {
+      "win": 17,
+      "loss": 4,
+      "draw": 3,
+      "time_per_move": 147284,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1824,
+      "date": 1768574615,
+      "rd": 173
+    },
+    "best": {
+      "rating": 1918,
+      "date": 1590432480,
+      "game": "https://www.chess.com/game/live/4906695403"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1907,
+      "date": 1707041100,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1577400505,
+      "game": "https://www.chess.com/game/live/4522239284"
+    },
+    "record": {
+      "win": 101,
+      "loss": 72,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2313,
+      "date": 1774519271,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1628615724,
+      "game": "https://www.chess.com/game/live/5010945428"
+    },
+    "record": {
+      "win": 216,
+      "loss": 250,
+      "draw": 31
+    }
+  },
+  "fide": 2215,
+  "tactics": {
+    "highest": {
+      "rating": 2350,
+      "date": 1479072233
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1479072233
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

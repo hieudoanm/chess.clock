@@ -1,0 +1,100 @@
+{
+  "player_id": 74340632,
+  "@id": "https://api.chess.com/pub/player/shivenkhosla",
+  "url": "https://www.chess.com/member/shivenkhosla",
+  "name": "Shiven Khosla",
+  "username": "shivenkhosla",
+  "title": "IM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Mumbai",
+  "last_online": 1772538548,
+  "joined": 1585039667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1709010009,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 35,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2355,
+      "date": 1738354817,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2355,
+      "date": 1667733725,
+      "game": "https://www.chess.com/game/live/48713922751"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2341,
+      "date": 1712605138,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1632329117,
+      "game": "https://www.chess.com/game/live/38228711635"
+    },
+    "record": {
+      "win": 29,
+      "loss": 17,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2355,
+      "date": 1766658706,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1659371044,
+      "game": "https://www.chess.com/game/live/48794927977"
+    },
+    "record": {
+      "win": 139,
+      "loss": 110,
+      "draw": 18
+    }
+  },
+  "fide": 2356,
+  "tactics": {
+    "highest": {
+      "rating": 2485,
+      "date": 1585039667
+    },
+    "lowest": {
+      "rating": 2485,
+      "date": 1585039667
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4123023.00544082.200x200o.cdc7bd99f032.png",
+  "player_id": 4123023,
+  "@id": "https://api.chess.com/pub/player/gmtodorov",
+  "url": "https://www.chess.com/member/gmtodorov",
+  "name": "todor todorov",
+  "username": "gmtodorov",
+  "title": "GM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "france",
+  "last_online": 1774989982,
+  "joined": 1287166577,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1772463144,
+      "rd": 350
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24378,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1611,
+      "date": 1751745160,
+      "rd": 215
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1419148800,
+      "game": "https://www.chess.com/game/live/146055797799"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1510,
+      "date": 1597251817,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2249,
+      "date": 1437060964,
+      "game": "https://www.chess.com/game/live/1217477153"
+    },
+    "record": {
+      "win": 24,
+      "loss": 15,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1796,
+      "date": 1752598160,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1468163192,
+      "game": "https://www.chess.com/game/live/1008261959"
+    },
+    "record": {
+      "win": 419,
+      "loss": 290,
+      "draw": 44
+    }
+  },
+  "fide": 2482,
+  "tactics": {
+    "highest": {
+      "rating": 2631,
+      "date": 1287166577
+    },
+    "lowest": {
+      "rating": 2631,
+      "date": 1287166577
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

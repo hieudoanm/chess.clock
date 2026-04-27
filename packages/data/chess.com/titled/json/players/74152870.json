@@ -1,0 +1,104 @@
+{
+  "player_id": 74152870,
+  "@id": "https://api.chess.com/pub/player/ca8chess",
+  "url": "https://www.chess.com/member/ca8chess",
+  "name": "Clementia Adeline",
+  "username": "ca8chess",
+  "title": "WCM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/LU",
+  "last_online": 1772698042,
+  "joined": 1584887876,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1542,
+      "date": 1762183364,
+      "rd": 51
+    },
+    "best": {
+      "rating": 1587,
+      "date": 1601888193,
+      "game": "https://www.chess.com/game/daily/276973260"
+    },
+    "record": {
+      "win": 66,
+      "loss": 35,
+      "draw": 6,
+      "time_per_move": 8115,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1919,
+      "date": 1724665110,
+      "rd": 39
+    },
+    "best": {
+      "rating": 1988,
+      "date": 1622544189,
+      "game": "https://www.chess.com/game/live/15766499817"
+    },
+    "record": {
+      "win": 89,
+      "loss": 39,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2242,
+      "date": 1744432504,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2066,
+      "date": 1623133446,
+      "game": "https://www.chess.com/game/live/5470628181"
+    },
+    "record": {
+      "win": 1685,
+      "loss": 1513,
+      "draw": 160
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2289,
+      "date": 1746199806,
+      "rd": 51
+    },
+    "best": {
+      "rating": 1907,
+      "date": 1597049600,
+      "game": "https://www.chess.com/game/live/5290955665"
+    },
+    "record": {
+      "win": 592,
+      "loss": 512,
+      "draw": 61
+    }
+  },
+  "fide": 1774,
+  "tactics": {
+    "highest": {
+      "rating": 1810,
+      "date": 1584887876
+    },
+    "lowest": {
+      "rating": 1810,
+      "date": 1584887876
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

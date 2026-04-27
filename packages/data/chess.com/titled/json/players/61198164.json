@@ -1,0 +1,66 @@
+{
+  "player_id": 61198164,
+  "@id": "https://api.chess.com/pub/player/myfitnesspal",
+  "url": "https://www.chess.com/member/MyFitnessPal",
+  "username": "myfitnesspal",
+  "title": "GM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/TZ",
+  "last_online": 1760805219,
+  "joined": 1558323204,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 3191,
+      "date": 1759892418,
+      "rd": 44
+    },
+    "best": {
+      "rating": 3371,
+      "date": 1650962194,
+      "game": "https://www.chess.com/game/live/143719540802"
+    },
+    "record": {
+      "win": 327,
+      "loss": 135,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2971,
+      "date": 1760731773,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3083,
+      "date": 1585130693,
+      "game": "https://www.chess.com/game/live/4181474105"
+    },
+    "record": {
+      "win": 118,
+      "loss": 76,
+      "draw": 13
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1558323204
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1558323204
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

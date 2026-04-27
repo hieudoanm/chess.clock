@@ -1,0 +1,69 @@
+{
+  "player_id": 19594024,
+  "@id": "https://api.chess.com/pub/player/hanoirocks",
+  "url": "https://www.chess.com/member/HanoiRocks",
+  "name": "Jukka Johansson",
+  "username": "hanoirocks",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/FI",
+  "location": "Helsinki",
+  "last_online": 1776442356,
+  "joined": 1415224113,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2209,
+      "date": 1703204239,
+      "rd": 304
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1703204239,
+      "game": "https://www.chess.com/game/live/96943152767"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2162,
+      "date": 1674666378,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2163,
+      "date": 1673203285,
+      "game": "https://www.chess.com/game/live/66739802993"
+    },
+    "record": {
+      "win": 50,
+      "loss": 27,
+      "draw": 9
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2449,
+      "date": 1415224113
+    },
+    "lowest": {
+      "rating": 2449,
+      "date": 1415224113
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 28
+    }
+  }
+}

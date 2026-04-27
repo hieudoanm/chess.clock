@@ -1,0 +1,85 @@
+{
+  "player_id": 14962714,
+  "@id": "https://api.chess.com/pub/player/ly4o",
+  "url": "https://www.chess.com/member/ly4o",
+  "name": "Lachezar Yordanov",
+  "username": "ly4o",
+  "title": "FM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "varna",
+  "last_online": 1776363685,
+  "joined": 1386700659,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2116,
+      "date": 1768076362,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2125,
+      "date": 1768075900,
+      "game": "https://www.chess.com/game/live/8106182739"
+    },
+    "record": {
+      "win": 49,
+      "loss": 20,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2830,
+      "date": 1771880782,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1768245010,
+      "game": "https://www.chess.com/game/live/108598889321"
+    },
+    "record": {
+      "win": 591,
+      "loss": 406,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2711,
+      "date": 1768073829,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2711,
+      "date": 1768073829,
+      "game": "https://www.chess.com/game/live/3314834883"
+    },
+    "record": {
+      "win": 325,
+      "loss": 230,
+      "draw": 47
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2712,
+      "date": 1775647116
+    },
+    "lowest": {
+      "rating": 2375,
+      "date": 1773070320
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 54
+    }
+  }
+}

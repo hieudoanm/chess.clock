@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/159992261.b3f61e12.200x200o.f5acc72f099f.png",
+  "player_id": 159992261,
+  "@id": "https://api.chess.com/pub/player/illustradochess",
+  "url": "https://www.chess.com/member/Illustradochess",
+  "name": "Jonathan Jota",
+  "username": "illustradochess",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/PH",
+  "last_online": 1776590752,
+  "joined": 1635814832,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1611,
+      "date": 1743638302,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2069,
+      "date": 1637566076,
+      "game": "https://www.chess.com/game/daily/369703565"
+    },
+    "record": {
+      "win": 14,
+      "loss": 12,
+      "draw": 3,
+      "time_per_move": 4839,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2153,
+      "date": 1776258260,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1661854658,
+      "game": "https://www.chess.com/game/live/89553000113"
+    },
+    "record": {
+      "win": 43,
+      "loss": 24,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2540,
+      "date": 1775793869,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1767880307,
+      "game": "https://www.chess.com/game/live/166900738560"
+    },
+    "record": {
+      "win": 325,
+      "loss": 278,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2647,
+      "date": 1776508000,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1776478732,
+      "game": "https://www.chess.com/game/live/167464033192"
+    },
+    "record": {
+      "win": 2258,
+      "loss": 1898,
+      "draw": 223
+    }
+  },
+  "fide": 2144,
+  "tactics": {
+    "highest": {
+      "rating": 2597,
+      "date": 1767661212
+    },
+    "lowest": {
+      "rating": 2351,
+      "date": 1759239809
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

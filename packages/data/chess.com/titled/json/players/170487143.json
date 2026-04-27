@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/170487143.084537fa.200x200o.ac7f5d4a3824.jpg",
+  "player_id": 170487143,
+  "@id": "https://api.chess.com/pub/player/trollpig",
+  "url": "https://www.chess.com/member/TrollPig",
+  "username": "trollpig",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776339179,
+  "joined": 1643227028,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1808,
+      "date": 1770633311,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1643227028,
+      "game": "https://www.chess.com/game/daily/401594793"
+    },
+    "record": {
+      "win": 36,
+      "loss": 7,
+      "draw": 1,
+      "time_per_move": 40964,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2234,
+      "date": 1738010641,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2237,
+      "date": 1675006346,
+      "game": "https://www.chess.com/game/live/75483073093"
+    },
+    "record": {
+      "win": 782,
+      "loss": 681,
+      "draw": 110
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2321,
+      "date": 1741250733,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2222,
+      "date": 1736954365,
+      "game": "https://www.chess.com/game/live/102288219621"
+    },
+    "record": {
+      "win": 171,
+      "loss": 128,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2754,
+      "date": 1775913694,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1768067079,
+      "game": "https://www.chess.com/game/live/147840390330"
+    },
+    "record": {
+      "win": 2138,
+      "loss": 1776,
+      "draw": 294
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2736,
+      "date": 1765563175
+    },
+    "lowest": {
+      "rating": 2472,
+      "date": 1763808399
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

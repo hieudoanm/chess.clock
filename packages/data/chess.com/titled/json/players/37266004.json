@@ -1,0 +1,104 @@
+{
+  "player_id": 37266004,
+  "@id": "https://api.chess.com/pub/player/toivok3",
+  "url": "https://www.chess.com/member/ToivoK3",
+  "name": "Toivo Kein\u00e4nen",
+  "username": "toivok3",
+  "title": "IM",
+  "followers": 302,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776599810,
+  "joined": 1500882011,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 546,
+      "date": 1734145007,
+      "rd": 290
+    },
+    "best": {
+      "rating": 800,
+      "date": 1500882011,
+      "game": "https://www.chess.com/game/daily/429040075"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 210199,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2461,
+      "date": 1771692386,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1771669112,
+      "game": "https://www.chess.com/game/live/88788157993"
+    },
+    "record": {
+      "win": 30,
+      "loss": 10,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3028,
+      "date": 1774118802,
+      "rd": 35
+    },
+    "best": {
+      "rating": 3154,
+      "date": 1736010127,
+      "game": "https://www.chess.com/game/live/5861381364"
+    },
+    "record": {
+      "win": 3411,
+      "loss": 2044,
+      "draw": 414
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3107,
+      "date": 1771671022,
+      "rd": 26
+    },
+    "best": {
+      "rating": 3131,
+      "date": 1770245736,
+      "game": "https://www.chess.com/game/live/4652010962"
+    },
+    "record": {
+      "win": 749,
+      "loss": 513,
+      "draw": 200
+    }
+  },
+  "fide": 2475,
+  "tactics": {
+    "highest": {
+      "rating": 2023,
+      "date": 1500882011
+    },
+    "lowest": {
+      "rating": 2023,
+      "date": 1500882011
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

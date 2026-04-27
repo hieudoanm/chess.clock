@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28583276.401697ff.200x200o.152b758db93a.jpg",
+  "player_id": 28583276,
+  "@id": "https://api.chess.com/pub/player/alexandrabotez",
+  "url": "https://www.chess.com/member/AlexandraBotez",
+  "name": "Alexandra Botez",
+  "username": "alexandrabotez",
+  "title": "WFM",
+  "followers": 74819,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1776453470,
+  "joined": 1465620232,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/botezlive",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/botezlive"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2320,
+      "date": 1758828334,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1758825893,
+      "game": "https://www.chess.com/game/live/9236200987"
+    },
+    "record": {
+      "win": 15,
+      "loss": 4,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2271,
+      "date": 1762397684,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1697582956,
+      "game": "https://www.chess.com/game/live/8279150241"
+    },
+    "record": {
+      "win": 5279,
+      "loss": 6828,
+      "draw": 719
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2253,
+      "date": 1776370354,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2411,
+      "date": 1697481809,
+      "game": "https://www.chess.com/game/live/4659879382"
+    },
+    "record": {
+      "win": 3175,
+      "loss": 3435,
+      "draw": 434
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2441,
+      "date": 1465620232
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1465620232
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

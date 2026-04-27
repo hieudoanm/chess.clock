@@ -1,0 +1,84 @@
+{
+  "player_id": 57720422,
+  "@id": "https://api.chess.com/pub/player/uselessduffer",
+  "url": "https://www.chess.com/member/uselessduffer",
+  "name": "Thomas Hinks-Edwards",
+  "username": "uselessduffer",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776021841,
+  "joined": 1550941628,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2182,
+      "date": 1732043788,
+      "rd": 78
+    },
+    "best": {
+      "rating": 2182,
+      "date": 1670266235,
+      "game": "https://www.chess.com/game/live/25470147959"
+    },
+    "record": {
+      "win": 40,
+      "loss": 11,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2329,
+      "date": 1751058071,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2429,
+      "date": 1669403023,
+      "game": "https://www.chess.com/game/live/63141700577"
+    },
+    "record": {
+      "win": 216,
+      "loss": 135,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2503,
+      "date": 1754336873,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2545,
+      "date": 1661547649,
+      "game": "https://www.chess.com/game/live/42655181883"
+    },
+    "record": {
+      "win": 469,
+      "loss": 259,
+      "draw": 45
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2035,
+      "date": 1550941628
+    },
+    "lowest": {
+      "rating": 2035,
+      "date": 1550941628
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

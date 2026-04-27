@@ -1,0 +1,84 @@
+{
+  "player_id": 22775950,
+  "@id": "https://api.chess.com/pub/player/grzechu96",
+  "url": "https://www.chess.com/member/grzechu96",
+  "name": "Grzegorz Nasuta",
+  "username": "grzechu96",
+  "title": "GM",
+  "followers": 105,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776452967,
+  "joined": 1434014821,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2507,
+      "date": 1774290296,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2590,
+      "date": 1654966933,
+      "game": "https://www.chess.com/game/live/80322688555"
+    },
+    "record": {
+      "win": 46,
+      "loss": 53,
+      "draw": 32
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1770842798,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2666,
+      "date": 1679393849,
+      "game": "https://www.chess.com/game/live/164558412664"
+    },
+    "record": {
+      "win": 77,
+      "loss": 25,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2715,
+      "date": 1775757699,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2851,
+      "date": 1765928140,
+      "game": "https://www.chess.com/game/live/99786771065"
+    },
+    "record": {
+      "win": 1140,
+      "loss": 817,
+      "draw": 180
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2683,
+      "date": 1772047871
+    },
+    "lowest": {
+      "rating": 2625,
+      "date": 1772047410
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

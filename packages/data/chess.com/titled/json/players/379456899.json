@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/379456899.3e066f95.200x200o.faa90d858643.jpg",
+  "player_id": 379456899,
+  "@id": "https://api.chess.com/pub/player/gw_pabst",
+  "url": "https://www.chess.com/member/GW_Pabst",
+  "name": "Georg Wilhelm Pabst",
+  "username": "gw_pabst",
+  "title": "NM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1775400388,
+  "joined": 1722950584,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2572,
+      "date": 1770745799,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1770584617,
+      "game": "https://www.chess.com/game/live/142445815864"
+    },
+    "record": {
+      "win": 248,
+      "loss": 93,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2576,
+      "date": 1771266085,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2719,
+      "date": 1756761930,
+      "game": "https://www.chess.com/game/live/142536966690"
+    },
+    "record": {
+      "win": 1358,
+      "loss": 1101,
+      "draw": 146
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2513,
+      "date": 1775336242,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2665,
+      "date": 1769439476,
+      "game": "https://www.chess.com/game/live/148396551162"
+    },
+    "record": {
+      "win": 1517,
+      "loss": 1243,
+      "draw": 134
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1722950584
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1722950584
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

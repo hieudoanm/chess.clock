@@ -1,0 +1,99 @@
+{
+  "player_id": 336554583,
+  "@id": "https://api.chess.com/pub/player/futurerise",
+  "url": "https://www.chess.com/member/FutureRise",
+  "name": "Ruzgar Odabasi",
+  "username": "futurerise",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776597751,
+  "joined": 1704301359,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1095,
+      "date": 1770571552,
+      "rd": 257
+    },
+    "record": {
+      "win": 6,
+      "loss": 11,
+      "draw": 0,
+      "time_per_move": 84260,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1728071753,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1708972305,
+      "game": "https://www.chess.com/game/live/99338097447"
+    },
+    "record": {
+      "win": 97,
+      "loss": 55,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2647,
+      "date": 1775322949,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1773345627,
+      "game": "https://www.chess.com/game/live/165819326694"
+    },
+    "record": {
+      "win": 191,
+      "loss": 173,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2419,
+      "date": 1772380131,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1750778220,
+      "game": "https://www.chess.com/game/live/145091373875"
+    },
+    "record": {
+      "win": 32,
+      "loss": 51,
+      "draw": 3
+    }
+  },
+  "fide": 2170,
+  "tactics": {
+    "highest": {
+      "rating": 2572,
+      "date": 1769250007
+    },
+    "lowest": {
+      "rating": 2063,
+      "date": 1769633738
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

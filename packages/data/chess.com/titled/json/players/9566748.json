@@ -1,0 +1,67 @@
+{
+  "player_id": 9566748,
+  "@id": "https://api.chess.com/pub/player/helpmat",
+  "url": "https://www.chess.com/member/Helpmat",
+  "name": "Joost Michielsen",
+  "username": "helpmat",
+  "title": "IM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776598803,
+  "joined": 1352409649,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2248,
+      "date": 1689716771,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2261,
+      "date": 1685727384,
+      "game": "https://www.chess.com/game/live/79466001467"
+    },
+    "record": {
+      "win": 47,
+      "loss": 16,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2546,
+      "date": 1776598786,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2721,
+      "date": 1763498010,
+      "game": "https://www.chess.com/game/live/145441219896"
+    },
+    "record": {
+      "win": 3934,
+      "loss": 3134,
+      "draw": 539
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2745,
+      "date": 1756060430
+    },
+    "lowest": {
+      "rating": 2542,
+      "date": 1759073866
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

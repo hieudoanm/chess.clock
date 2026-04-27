@@ -1,0 +1,61 @@
+{
+  "player_id": 76457780,
+  "@id": "https://api.chess.com/pub/player/yuri202062",
+  "url": "https://www.chess.com/member/Yuri202062",
+  "name": "Yuri Yakovich",
+  "username": "yuri202062",
+  "title": "GM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1768679008,
+  "joined": 1586687979,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2181,
+      "date": 1609259994,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1590769506,
+      "game": "https://www.chess.com/game/live/4929646819"
+    },
+    "record": {
+      "win": 5,
+      "loss": 6,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2429,
+      "date": 1609265831,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1586972494,
+      "game": "https://www.chess.com/game/live/5010796244"
+    },
+    "record": {
+      "win": 33,
+      "loss": 37,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1586687979
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1586687979
+    }
+  },
+  "puzzle_rush": {}
+}

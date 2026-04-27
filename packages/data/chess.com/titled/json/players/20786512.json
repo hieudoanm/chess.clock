@@ -1,0 +1,83 @@
+{
+  "player_id": 20786512,
+  "@id": "https://api.chess.com/pub/player/ohajek96",
+  "url": "https://www.chess.com/member/ohajek96",
+  "name": "Oskar Hajek",
+  "username": "ohajek96",
+  "title": "CM",
+  "followers": 75,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1773118540,
+  "joined": 1422183672,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1730,
+      "date": 1612711836,
+      "rd": 148
+    },
+    "best": {
+      "rating": 1804,
+      "date": 1587317845,
+      "game": "https://www.chess.com/game/live/4743654154"
+    },
+    "record": {
+      "win": 7,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2874,
+      "date": 1650298112,
+      "rd": 15
+    },
+    "best": {
+      "rating": 2874,
+      "date": 1650298112,
+      "game": "https://www.chess.com/game/live/31504897537"
+    },
+    "record": {
+      "win": 9797,
+      "loss": 7062,
+      "draw": 1013
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2636,
+      "date": 1722959823,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1722959823,
+      "game": "https://www.chess.com/game/live/5918536133"
+    },
+    "record": {
+      "win": 1303,
+      "loss": 1334,
+      "draw": 244
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2650,
+      "date": 1422183672
+    },
+    "lowest": {
+      "rating": 2650,
+      "date": 1422183672
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

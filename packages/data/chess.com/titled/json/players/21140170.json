@@ -1,0 +1,105 @@
+{
+  "player_id": 21140170,
+  "@id": "https://api.chess.com/pub/player/thymathgeek",
+  "url": "https://www.chess.com/member/thymathgeek",
+  "name": "Daniel Kostovetsky",
+  "username": "thymathgeek",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York",
+  "last_online": 1774790748,
+  "joined": 1424205139,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1697,
+      "date": 1749198504,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1591191102,
+      "game": "https://www.chess.com/game/daily/260885434"
+    },
+    "record": {
+      "win": 49,
+      "loss": 5,
+      "draw": 2,
+      "time_per_move": 43917,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2187,
+      "date": 1613787930,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1613787930,
+      "game": "https://www.chess.com/game/live/7525356937"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1818,
+      "date": 1620569481,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2117,
+      "date": 1611096784,
+      "game": "https://www.chess.com/game/live/12157729809"
+    },
+    "record": {
+      "win": 60,
+      "loss": 49,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1847,
+      "date": 1739036159,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1495205398,
+      "game": "https://www.chess.com/game/live/1639677489"
+    },
+    "record": {
+      "win": 492,
+      "loss": 406,
+      "draw": 62
+    }
+  },
+  "fide": 2203,
+  "tactics": {
+    "highest": {
+      "rating": 2205,
+      "date": 1424205139
+    },
+    "lowest": {
+      "rating": 2205,
+      "date": 1424205139
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

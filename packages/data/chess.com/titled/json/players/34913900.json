@@ -1,0 +1,85 @@
+{
+  "player_id": 34913900,
+  "@id": "https://api.chess.com/pub/player/gm-2023",
+  "url": "https://www.chess.com/member/GM-2023",
+  "name": "Alexander Abramov",
+  "username": "gm-2023",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1722965938,
+  "joined": 1492664911,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1528,
+      "date": 1707596162,
+      "rd": 237
+    },
+    "best": {
+      "rating": 1528,
+      "date": 1707596162,
+      "game": "https://www.chess.com/game/live/101334672667"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1529,
+      "date": 1719228622,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2079,
+      "date": 1696097251,
+      "game": "https://www.chess.com/game/live/89834486971"
+    },
+    "record": {
+      "win": 26,
+      "loss": 175,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1700,
+      "date": 1722968229,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2187,
+      "date": 1573638309,
+      "game": "https://www.chess.com/game/live/38679854709"
+    },
+    "record": {
+      "win": 93,
+      "loss": 146,
+      "draw": 5
+    }
+  },
+  "fide": 2189,
+  "tactics": {
+    "highest": {
+      "rating": 2135,
+      "date": 1492664911
+    },
+    "lowest": {
+      "rating": 2135,
+      "date": 1492664911
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

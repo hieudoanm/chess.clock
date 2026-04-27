@@ -1,0 +1,105 @@
+{
+  "player_id": 32677726,
+  "@id": "https://api.chess.com/pub/player/tartody",
+  "url": "https://www.chess.com/member/Tartody",
+  "name": "David Lari\u00f1o Nieto",
+  "username": "tartody",
+  "title": "GM",
+  "followers": 426,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Esteiro",
+  "last_online": 1776582549,
+  "joined": 1485410824,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1806,
+      "date": 1774980795,
+      "rd": 342
+    },
+    "best": {
+      "rating": 1806,
+      "date": 1774980795,
+      "game": "https://www.chess.com/game/daily/945524685"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8342,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2237,
+      "date": 1758764635,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1678731018,
+      "game": "https://www.chess.com/game/live/72467457791"
+    },
+    "record": {
+      "win": 11,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2633,
+      "date": 1774999556,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1643760645,
+      "game": "https://www.chess.com/game/live/37499393911"
+    },
+    "record": {
+      "win": 37,
+      "loss": 11,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2718,
+      "date": 1773851890,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1621447638,
+      "game": "https://www.chess.com/game/live/123976254847"
+    },
+    "record": {
+      "win": 443,
+      "loss": 285,
+      "draw": 58
+    }
+  },
+  "fide": 2489,
+  "tactics": {
+    "highest": {
+      "rating": 2548,
+      "date": 1485410824
+    },
+    "lowest": {
+      "rating": 2548,
+      "date": 1485410824
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

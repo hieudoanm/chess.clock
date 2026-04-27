@@ -1,0 +1,83 @@
+{
+  "player_id": 147340917,
+  "@id": "https://api.chess.com/pub/player/0708gang",
+  "url": "https://www.chess.com/member/0708gang",
+  "username": "0708gang",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1773429425,
+  "joined": 1625857806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1769796807,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1769620805,
+      "game": "https://www.chess.com/game/live/75816809123"
+    },
+    "record": {
+      "win": 27,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2442,
+      "date": 1724715609,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2476,
+      "date": 1724713919,
+      "game": "https://www.chess.com/game/live/35591762623"
+    },
+    "record": {
+      "win": 302,
+      "loss": 138,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2524,
+      "date": 1769800336,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1769799940,
+      "game": "https://www.chess.com/game/live/164020079114"
+    },
+    "record": {
+      "win": 234,
+      "loss": 94,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1542,
+      "date": 1764324896
+    },
+    "lowest": {
+      "rating": 1372,
+      "date": 1761806741
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

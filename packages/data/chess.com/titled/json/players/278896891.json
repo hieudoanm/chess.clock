@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/278896891.e1f20cf3.200x200o.b5a3f55c57b8.jpg",
+  "player_id": 278896891,
+  "@id": "https://api.chess.com/pub/player/gao",
+  "url": "https://www.chess.com/member/GAO",
+  "name": "Raymond Gao",
+  "username": "gao",
+  "title": "NM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776569969,
+  "joined": 1682380750,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1876,
+      "date": 1772214549,
+      "rd": 311
+    },
+    "best": {
+      "rating": 1876,
+      "date": 1769660621,
+      "game": "https://www.chess.com/game/daily/921789025"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 13268,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2304,
+      "date": 1776459915,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1767160093,
+      "game": "https://www.chess.com/game/live/167411616730"
+    },
+    "record": {
+      "win": 107,
+      "loss": 37,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1776376341,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2692,
+      "date": 1770975652,
+      "game": "https://www.chess.com/game/live/164623154138"
+    },
+    "record": {
+      "win": 1066,
+      "loss": 1047,
+      "draw": 150
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1776569904,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1763792972,
+      "game": "https://www.chess.com/game/live/114297644525"
+    },
+    "record": {
+      "win": 3018,
+      "loss": 2670,
+      "draw": 577
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2561,
+      "date": 1762481462
+    },
+    "lowest": {
+      "rating": 2443,
+      "date": 1762481643
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

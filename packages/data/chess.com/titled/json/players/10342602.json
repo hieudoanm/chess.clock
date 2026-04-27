@@ -1,0 +1,105 @@
+{
+  "player_id": 10342602,
+  "@id": "https://api.chess.com/pub/player/cansun",
+  "url": "https://www.chess.com/member/cansun",
+  "name": "Can Alp Cansun",
+  "username": "cansun",
+  "title": "NM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/TR",
+  "location": "bursa",
+  "last_online": 1776585714,
+  "joined": 1357630465,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1234,
+      "date": 1591011480,
+      "rd": 229
+    },
+    "best": {
+      "rating": 1234,
+      "date": 1448296362,
+      "game": "https://www.chess.com/game/daily/122813166"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 25,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2475,
+      "date": 1752261875,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1705950086,
+      "game": "https://www.chess.com/game/live/99687101609"
+    },
+    "record": {
+      "win": 29,
+      "loss": 17,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2680,
+      "date": 1765193410,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2711,
+      "date": 1729375197,
+      "game": "https://www.chess.com/game/live/146456994110"
+    },
+    "record": {
+      "win": 183,
+      "loss": 177,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2589,
+      "date": 1776536764,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1765107084,
+      "game": "https://www.chess.com/game/live/142747364390"
+    },
+    "record": {
+      "win": 8274,
+      "loss": 8279,
+      "draw": 957
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2333,
+      "date": 1357630465
+    },
+    "lowest": {
+      "rating": 2333,
+      "date": 1357630465
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

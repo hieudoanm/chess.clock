@@ -1,0 +1,86 @@
+{
+  "player_id": 11301268,
+  "@id": "https://api.chess.com/pub/player/allanstig",
+  "url": "https://www.chess.com/member/AllanStig",
+  "name": "Allan Stig Rasmussen",
+  "username": "allanstig",
+  "title": "GM",
+  "followers": 123,
+  "country": "https://api.chess.com/pub/country/DK",
+  "location": "Randers",
+  "last_online": 1776593590,
+  "joined": 1364422646,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2495,
+      "date": 1755110012,
+      "rd": 214
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1639688080,
+      "game": "https://www.chess.com/game/live/4711583237"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2680,
+      "date": 1763511946,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2826,
+      "date": 1648380972,
+      "game": "https://www.chess.com/game/live/99879157045"
+    },
+    "record": {
+      "win": 1367,
+      "loss": 1059,
+      "draw": 97
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2621,
+      "date": 1768610146,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1640140442,
+      "game": "https://www.chess.com/game/live/95292538935"
+    },
+    "record": {
+      "win": 784,
+      "loss": 622,
+      "draw": 75
+    }
+  },
+  "fide": 2550,
+  "tactics": {
+    "highest": {
+      "rating": 2808,
+      "date": 1364422646
+    },
+    "lowest": {
+      "rating": 2808,
+      "date": 1364422646
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

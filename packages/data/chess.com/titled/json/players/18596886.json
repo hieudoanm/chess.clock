@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18596886.30446c61.200x200o.ce20a41ceb0c.jpeg",
+  "player_id": 18596886,
+  "@id": "https://api.chess.com/pub/player/haigiong",
+  "url": "https://www.chess.com/member/HaiGiong",
+  "name": "Nguyen Van Hai",
+  "username": "haigiong",
+  "title": "IM",
+  "followers": 196,
+  "country": "https://api.chess.com/pub/country/VN",
+  "location": "Ha Noi",
+  "last_online": 1776517728,
+  "joined": 1408693172,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1708281556,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 85035,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1923,
+      "date": 1774708702,
+      "rd": 234
+    },
+    "best": {
+      "rating": 2041,
+      "date": 1584797406,
+      "game": "https://www.chess.com/game/live/4619872901"
+    },
+    "record": {
+      "win": 18,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2710,
+      "date": 1772180370,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2732,
+      "date": 1772180127,
+      "game": "https://www.chess.com/game/live/163996730966"
+    },
+    "record": {
+      "win": 365,
+      "loss": 238,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2698,
+      "date": 1772791302,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2716,
+      "date": 1771049727,
+      "game": "https://www.chess.com/game/live/146945775616"
+    },
+    "record": {
+      "win": 1562,
+      "loss": 1040,
+      "draw": 193
+    }
+  },
+  "fide": 2352,
+  "tactics": {
+    "highest": {
+      "rating": 2423,
+      "date": 1761213372
+    },
+    "lowest": {
+      "rating": 2423,
+      "date": 1761213372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 40
+    }
+  }
+}

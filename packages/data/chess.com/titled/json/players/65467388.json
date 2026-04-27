@@ -1,0 +1,119 @@
+{
+  "player_id": 65467388,
+  "@id": "https://api.chess.com/pub/player/chenxiaoyuer",
+  "url": "https://www.chess.com/member/chenxiaoyuer",
+  "name": "Ryo Chen",
+  "username": "chenxiaoyuer",
+  "title": "IM",
+  "followers": 847,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Earth",
+  "last_online": 1776556380,
+  "joined": 1568401519,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1145,
+      "date": 1774352321,
+      "rd": 128
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1610552957,
+      "game": "https://www.chess.com/game/daily/298090264"
+    },
+    "record": {
+      "win": 63,
+      "loss": 94,
+      "draw": 0,
+      "time_per_move": 40568,
+      "timeout_percent": 50
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1774352321,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 40568,
+      "timeout_percent": 100
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2337,
+      "date": 1776385387,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2513,
+      "date": 1609622233,
+      "game": "https://www.chess.com/game/live/10695388251"
+    },
+    "record": {
+      "win": 72,
+      "loss": 43,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2890,
+      "date": 1776385246,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3028,
+      "date": 1761054327,
+      "game": "https://www.chess.com/game/live/114625740183"
+    },
+    "record": {
+      "win": 3438,
+      "loss": 2298,
+      "draw": 523
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2974,
+      "date": 1776504267,
+      "rd": 37
+    },
+    "best": {
+      "rating": 3159,
+      "date": 1771401952,
+      "game": "https://www.chess.com/game/live/152349486405"
+    },
+    "record": {
+      "win": 2957,
+      "loss": 1824,
+      "draw": 680
+    }
+  },
+  "fide": 2399,
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1768738942
+    },
+    "lowest": {
+      "rating": 2373,
+      "date": 1759202248
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 253683209,
+  "@id": "https://api.chess.com/pub/player/su1704",
+  "url": "https://www.chess.com/member/SU1704",
+  "name": "Sergei Shipov",
+  "username": "su1704",
+  "title": "GM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/RS",
+  "last_online": 1773695001,
+  "joined": 1677506281,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2580,
+      "date": 1725113742,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2634,
+      "date": 1723678775,
+      "game": "https://www.chess.com/game/live/117417603841"
+    },
+    "record": {
+      "win": 3,
+      "loss": 7,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2753,
+      "date": 1757101047,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2753,
+      "date": 1757101047,
+      "game": "https://www.chess.com/game/live/119769002477"
+    },
+    "record": {
+      "win": 63,
+      "loss": 24,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1677506281
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1677506281
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

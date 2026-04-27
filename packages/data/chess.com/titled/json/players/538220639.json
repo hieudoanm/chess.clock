@@ -1,0 +1,84 @@
+{
+  "player_id": 538220639,
+  "@id": "https://api.chess.com/pub/player/dragon-of-war",
+  "url": "https://www.chess.com/member/Dragon-of-war",
+  "username": "dragon-of-war",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1775691949,
+  "joined": 1773024156,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2316,
+      "date": 1774093786,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1774093786,
+      "game": "https://www.chess.com/game/live/166236041932"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2391,
+      "date": 1775593248,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2473,
+      "date": 1773841122,
+      "game": "https://www.chess.com/game/live/166109169594"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1775414067,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1775170720,
+      "game": "https://www.chess.com/game/live/166412119208"
+    },
+    "record": {
+      "win": 129,
+      "loss": 85,
+      "draw": 16
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2300,
+      "date": 1774108028
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1773024191
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 20,
+      "score": 17
+    }
+  }
+}

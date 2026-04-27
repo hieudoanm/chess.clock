@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/72928528.bde1d226.200x200o.a6db74af6a8e.jpeg",
+  "player_id": 72928528,
+  "@id": "https://api.chess.com/pub/player/jamesbond",
+  "url": "https://www.chess.com/member/JamesBond",
+  "username": "jamesbond",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1762697692,
+  "joined": 1583128342,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2005,
+      "date": 1739706675,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1739706675,
+      "game": "https://www.chess.com/game/live/133444754703"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2510,
+      "date": 1753523119,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2534,
+      "date": 1753522537,
+      "game": "https://www.chess.com/game/live/147836605345"
+    },
+    "record": {
+      "win": 8,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2485,
+      "date": 1758960169,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1750482628,
+      "game": "https://www.chess.com/game/live/139829729306"
+    },
+    "record": {
+      "win": 64,
+      "loss": 49,
+      "draw": 7
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1583128342
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1583128342
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 376239367,
+  "@id": "https://api.chess.com/pub/player/abc13524",
+  "url": "https://www.chess.com/member/abc13524",
+  "name": "Esther Jou",
+  "username": "abc13524",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775690760,
+  "joined": 1721408777,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2051,
+      "date": 1767804548,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2076,
+      "date": 1730061062,
+      "game": "https://www.chess.com/game/live/139582928088"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2331,
+      "date": 1775690752,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1760851879,
+      "game": "https://www.chess.com/game/live/144465044564"
+    },
+    "record": {
+      "win": 431,
+      "loss": 317,
+      "draw": 33
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2299,
+      "date": 1774724258,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2323,
+      "date": 1774722975,
+      "game": "https://www.chess.com/game/live/143631955314"
+    },
+    "record": {
+      "win": 65,
+      "loss": 66,
+      "draw": 4
+    }
+  },
+  "fide": 2069,
+  "tactics": {
+    "highest": {
+      "rating": 1455,
+      "date": 1765117556
+    },
+    "lowest": {
+      "rating": 558,
+      "date": 1765117362
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

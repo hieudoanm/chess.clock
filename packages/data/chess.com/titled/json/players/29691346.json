@@ -1,0 +1,123 @@
+{
+  "player_id": 29691346,
+  "@id": "https://api.chess.com/pub/player/kulik2007",
+  "url": "https://www.chess.com/member/kulik2007",
+  "name": "Nicolas Kulik",
+  "username": "kulik2007",
+  "title": "NM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/UY",
+  "last_online": 1776458004,
+  "joined": 1472480277,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1205,
+      "date": 1774244547,
+      "rd": 136
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1604141006,
+      "game": "https://www.chess.com/game/daily/280229672"
+    },
+    "record": {
+      "win": 509,
+      "loss": 458,
+      "draw": 77,
+      "time_per_move": 85543,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1183,
+      "date": 1747325035,
+      "rd": 238
+    },
+    "best": {
+      "rating": 1424,
+      "date": 1609107002,
+      "game": "https://www.chess.com/game/daily/265834142"
+    },
+    "record": {
+      "win": 38,
+      "loss": 30,
+      "draw": 2,
+      "time_per_move": 85543,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2408,
+      "date": 1776288421,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1776288421,
+      "game": "https://www.chess.com/game/live/167363800406"
+    },
+    "record": {
+      "win": 345,
+      "loss": 289,
+      "draw": 75
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2317,
+      "date": 1775953443,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1775331942,
+      "game": "https://www.chess.com/game/live/166612813933"
+    },
+    "record": {
+      "win": 852,
+      "loss": 783,
+      "draw": 89
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2464,
+      "date": 1776374470,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2491,
+      "date": 1776370273,
+      "game": "https://www.chess.com/game/live/152968001029"
+    },
+    "record": {
+      "win": 1870,
+      "loss": 1981,
+      "draw": 337
+    }
+  },
+  "fide": 777,
+  "tactics": {
+    "highest": {
+      "rating": 2503,
+      "date": 1755825362
+    },
+    "lowest": {
+      "rating": 2123,
+      "date": 1766884461
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

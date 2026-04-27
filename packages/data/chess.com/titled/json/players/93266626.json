@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/93266626.8acb3e16.200x200o.9d05ae1cd92a.jpeg",
+  "player_id": 93266626,
+  "@id": "https://api.chess.com/pub/player/carolsantosalmonte",
+  "url": "https://www.chess.com/member/carolsantosalmonte",
+  "name": "carol santos",
+  "username": "carolsantosalmonte",
+  "title": "WFM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/DO",
+  "last_online": 1775389061,
+  "joined": 1602866972,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 377,
+      "date": 1662640803,
+      "rd": 325
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 28769,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1241,
+      "date": 1694342212,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1241,
+      "date": 1694169298,
+      "game": "https://www.chess.com/game/live/87907752357"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1230,
+      "date": 1775389031,
+      "rd": 94
+    },
+    "best": {
+      "rating": 1574,
+      "date": 1608211425,
+      "game": "https://www.chess.com/game/live/5634672835"
+    },
+    "record": {
+      "win": 479,
+      "loss": 433,
+      "draw": 81
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1743,
+      "date": 1602866972
+    },
+    "lowest": {
+      "rating": 1743,
+      "date": 1602866972
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 28,
+      "score": 25
+    }
+  }
+}

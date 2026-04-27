@@ -1,0 +1,85 @@
+{
+  "player_id": 10551238,
+  "@id": "https://api.chess.com/pub/player/julianmchess",
+  "url": "https://www.chess.com/member/julianmchess",
+  "name": "Gyula Meszaros",
+  "username": "julianmchess",
+  "title": "IM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1774514894,
+  "joined": 1359022398,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2014,
+      "date": 1610662589,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2014,
+      "date": 1610662589,
+      "game": "https://www.chess.com/game/live/6237371822"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2003,
+      "date": 1657883609,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1657883609,
+      "game": "https://www.chess.com/game/live/51622200603"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2448,
+      "date": 1657797833,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1585581782,
+      "game": "https://www.chess.com/game/live/4654710453"
+    },
+    "record": {
+      "win": 931,
+      "loss": 954,
+      "draw": 112
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1359022398
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1359022398
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

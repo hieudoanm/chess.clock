@@ -1,0 +1,114 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/18220004.e981e94d.200x200o.ed0954a43f9b.jpg",
+  "player_id": 18220004,
+  "@id": "https://api.chess.com/pub/player/jessefebruary",
+  "url": "https://www.chess.com/member/JesseFebruary",
+  "name": "Jesse February",
+  "username": "jessefebruary",
+  "title": "WIM",
+  "followers": 4577,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "last_online": 1776495443,
+  "joined": 1406302907,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jesse_feb",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jesse_feb"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@jesse_feb"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 901,
+      "date": 1776533516,
+      "rd": 286
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1406302907,
+      "game": "https://www.chess.com/game/daily/464951645"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75618,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2120,
+      "date": 1776012581,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1755521544,
+      "game": "https://www.chess.com/game/live/141176421792"
+    },
+    "record": {
+      "win": 221,
+      "loss": 174,
+      "draw": 27
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2029,
+      "date": 1774878235,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2071,
+      "date": 1773951012,
+      "game": "https://www.chess.com/game/live/133984756831"
+    },
+    "record": {
+      "win": 402,
+      "loss": 366,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2031,
+      "date": 1771779049,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2109,
+      "date": 1698855770,
+      "game": "https://www.chess.com/game/live/30827402897"
+    },
+    "record": {
+      "win": 1480,
+      "loss": 1399,
+      "draw": 139
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1776439594
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1755731040
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

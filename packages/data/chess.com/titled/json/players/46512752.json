@@ -1,0 +1,72 @@
+{
+  "player_id": 46512752,
+  "@id": "https://api.chess.com/pub/player/basilsmash",
+  "url": "https://www.chess.com/member/BasilSmash",
+  "name": "Jonas Rosner",
+  "username": "basilsmash",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776540431,
+  "joined": 1527276654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2326,
+      "date": 1596972549,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1541365744,
+      "game": "https://www.chess.com/game/live/3590692663"
+    },
+    "record": {
+      "win": 56,
+      "loss": 63,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1756545894,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1754409315,
+      "game": "https://www.chess.com/game/live/119116162801"
+    },
+    "record": {
+      "win": 688,
+      "loss": 550,
+      "draw": 102
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2682,
+      "date": 1763645029
+    },
+    "lowest": {
+      "rating": 2531,
+      "date": 1763645201
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    },
+    "daily": {
+      "total_attempts": 39,
+      "score": 39
+    }
+  }
+}

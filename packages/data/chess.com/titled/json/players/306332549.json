@@ -1,0 +1,109 @@
+{
+  "player_id": 306332549,
+  "@id": "https://api.chess.com/pub/player/threemind",
+  "url": "https://www.chess.com/member/threemind",
+  "name": "Rodrigo Roman",
+  "username": "threemind",
+  "title": "CM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776185248,
+  "joined": 1692193956,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1549,
+      "date": 1770560937,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1773,
+      "date": 1696589457,
+      "game": "https://www.chess.com/game/daily/852249060"
+    },
+    "record": {
+      "win": 115,
+      "loss": 22,
+      "draw": 6,
+      "time_per_move": 30693,
+      "timeout_percent": 20
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2466,
+      "date": 1776185180,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2482,
+      "date": 1765706482,
+      "game": "https://www.chess.com/game/live/145621430026"
+    },
+    "record": {
+      "win": 216,
+      "loss": 148,
+      "draw": 72
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2222,
+      "date": 1774182499,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2665,
+      "date": 1692620897,
+      "game": "https://www.chess.com/game/live/86359783779"
+    },
+    "record": {
+      "win": 326,
+      "loss": 329,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2488,
+      "date": 1758192287,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2488,
+      "date": 1758190545,
+      "game": "https://www.chess.com/game/live/133633760099"
+    },
+    "record": {
+      "win": 919,
+      "loss": 858,
+      "draw": 130
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2267,
+      "date": 1757434524
+    },
+    "lowest": {
+      "rating": 2208,
+      "date": 1757434649
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

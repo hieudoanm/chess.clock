@@ -1,0 +1,100 @@
+{
+  "player_id": 47709688,
+  "@id": "https://api.chess.com/pub/player/cavallo_bianco123",
+  "url": "https://www.chess.com/member/cavallo_bianco123",
+  "name": "Enzo Tripodi",
+  "username": "cavallo_bianco123",
+  "title": "NM",
+  "followers": 27,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Torino",
+  "last_online": 1776410140,
+  "joined": 1531051688,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1774268745,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 6,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2170,
+      "date": 1774268855,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1726240625,
+      "game": "https://www.chess.com/game/live/4081534627"
+    },
+    "record": {
+      "win": 30,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1087,
+      "date": 1771362415,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2030,
+      "date": 1723561111,
+      "game": "https://www.chess.com/game/live/117320441785"
+    },
+    "record": {
+      "win": 12,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2432,
+      "date": 1776490052,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1775892824,
+      "game": "https://www.chess.com/game/live/117307221979"
+    },
+    "record": {
+      "win": 167,
+      "loss": 122,
+      "draw": 23
+    }
+  },
+  "fide": 2192,
+  "tactics": {
+    "highest": {
+      "rating": 1524,
+      "date": 1763198968
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1763198178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

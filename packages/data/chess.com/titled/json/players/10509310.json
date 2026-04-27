@@ -1,0 +1,105 @@
+{
+  "player_id": 10509310,
+  "@id": "https://api.chess.com/pub/player/robertoservat",
+  "url": "https://www.chess.com/member/robertoservat",
+  "name": "Roberto Servat",
+  "username": "robertoservat",
+  "title": "IM",
+  "followers": 72,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Santa Fe",
+  "last_online": 1776535067,
+  "joined": 1358733569,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1991,
+      "date": 1517995703,
+      "rd": 166
+    },
+    "best": {
+      "rating": 1991,
+      "date": 1470095372,
+      "game": "https://www.chess.com/game/daily/139003824"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 67518,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1624752435,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1624024031,
+      "game": "https://www.chess.com/game/live/17098321223"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2554,
+      "date": 1585932689,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2528,
+      "date": 1585927016,
+      "game": "https://www.chess.com/game/live/1763198352"
+    },
+    "record": {
+      "win": 275,
+      "loss": 199,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2658,
+      "date": 1767701525,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1767701525,
+      "game": "https://www.chess.com/game/live/1667887470"
+    },
+    "record": {
+      "win": 1946,
+      "loss": 1177,
+      "draw": 179
+    }
+  },
+  "fide": 2443,
+  "tactics": {
+    "highest": {
+      "rating": 2834,
+      "date": 1358733569
+    },
+    "lowest": {
+      "rating": 2834,
+      "date": 1358733569
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

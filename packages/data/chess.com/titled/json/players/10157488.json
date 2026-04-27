@@ -1,0 +1,84 @@
+{
+  "player_id": 10157488,
+  "@id": "https://api.chess.com/pub/player/merikard",
+  "url": "https://www.chess.com/member/Merikard",
+  "name": "Rikard Medancic",
+  "username": "merikard",
+  "title": "IM",
+  "followers": 157,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776435300,
+  "joined": 1356451795,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2193,
+      "date": 1768690822,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2234,
+      "date": 1711143304,
+      "game": "https://www.chess.com/game/live/104451084009"
+    },
+    "record": {
+      "win": 315,
+      "loss": 27,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2003,
+      "date": 1752184470,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1640405105,
+      "game": "https://www.chess.com/game/live/442739851"
+    },
+    "record": {
+      "win": 3376,
+      "loss": 4688,
+      "draw": 162
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2275,
+      "date": 1770751047,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2639,
+      "date": 1640040948,
+      "game": "https://www.chess.com/game/live/33790172629"
+    },
+    "record": {
+      "win": 645,
+      "loss": 498,
+      "draw": 76
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1356451795
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1356451795
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

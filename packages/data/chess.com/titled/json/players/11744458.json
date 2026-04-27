@@ -1,0 +1,104 @@
+{
+  "player_id": 11744458,
+  "@id": "https://api.chess.com/pub/player/robertfontaine",
+  "url": "https://www.chess.com/member/RobertFontaine",
+  "name": "Robert Fontaine",
+  "username": "robertfontaine",
+  "title": "GM",
+  "followers": 602,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1776450804,
+  "joined": 1367578702,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2104,
+      "date": 1773933414,
+      "rd": 232
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1731853499,
+      "game": "https://www.chess.com/game/daily/70139920"
+    },
+    "record": {
+      "win": 134,
+      "loss": 48,
+      "draw": 25,
+      "time_per_move": 7917,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2552,
+      "date": 1770550817,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1752306496,
+      "game": "https://www.chess.com/game/live/146619197505"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2637,
+      "date": 1770887321,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2690,
+      "date": 1674138634,
+      "game": "https://www.chess.com/game/live/109496424373"
+    },
+    "record": {
+      "win": 334,
+      "loss": 154,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2829,
+      "date": 1776450739,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2909,
+      "date": 1764077392,
+      "game": "https://www.chess.com/game/live/145902145232"
+    },
+    "record": {
+      "win": 5771,
+      "loss": 4315,
+      "draw": 994
+    }
+  },
+  "fide": 2565,
+  "tactics": {
+    "highest": {
+      "rating": 2152,
+      "date": 1757429174
+    },
+    "lowest": {
+      "rating": 2152,
+      "date": 1757429174
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

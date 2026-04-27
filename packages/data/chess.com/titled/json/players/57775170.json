@@ -1,0 +1,86 @@
+{
+  "player_id": 57775170,
+  "@id": "https://api.chess.com/pub/player/smalltownhero",
+  "url": "https://www.chess.com/member/SmallTownHero",
+  "username": "smalltownhero",
+  "title": "IM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776514278,
+  "joined": 1551054824,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2002,
+      "date": 1741426174,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1709888358,
+      "game": "https://www.chess.com/game/daily/615016077"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 29150,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2152,
+      "date": 1757179356,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2152,
+      "date": 1757179356,
+      "game": "https://www.chess.com/game/live/142799502692"
+    },
+    "record": {
+      "win": 25,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2650,
+      "date": 1776514240,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1750163545,
+      "game": "https://www.chess.com/game/live/142367248956"
+    },
+    "record": {
+      "win": 4141,
+      "loss": 4131,
+      "draw": 542
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2480,
+      "date": 1764574479
+    },
+    "lowest": {
+      "rating": 2181,
+      "date": 1755617555
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

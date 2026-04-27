@@ -1,0 +1,85 @@
+{
+  "player_id": 23626038,
+  "@id": "https://api.chess.com/pub/player/nikitakhoroshev",
+  "url": "https://www.chess.com/member/nikitakhoroshev",
+  "name": "Nikita Khoroshev",
+  "username": "nikitakhoroshev",
+  "title": "IM",
+  "followers": 105,
+  "country": "https://api.chess.com/pub/country/KG",
+  "last_online": 1775043539,
+  "joined": 1439310801,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1843,
+      "date": 1647709310,
+      "rd": 176
+    },
+    "best": {
+      "rating": 2191,
+      "date": 1589892281,
+      "game": "https://www.chess.com/game/live/4877578704"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2611,
+      "date": 1670350854,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1638995983,
+      "game": "https://www.chess.com/game/live/64089739505"
+    },
+    "record": {
+      "win": 147,
+      "loss": 47,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2747,
+      "date": 1773297646,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2924,
+      "date": 1728736246,
+      "game": "https://www.chess.com/game/live/122302762587"
+    },
+    "record": {
+      "win": 1776,
+      "loss": 1562,
+      "draw": 434
+    }
+  },
+  "fide": 2355,
+  "tactics": {
+    "highest": {
+      "rating": 2274,
+      "date": 1439310801
+    },
+    "lowest": {
+      "rating": 2274,
+      "date": 1439310801
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 44
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 83347119,
+  "@id": "https://api.chess.com/pub/player/rekcefhaon",
+  "url": "https://www.chess.com/member/RekcefHaon",
+  "username": "rekcefhaon",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CH",
+  "last_online": 1745171371,
+  "joined": 1592547058,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2222,
+      "date": 1630751862,
+      "rd": 191
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1630665170,
+      "game": "https://www.chess.com/game/live/24488507795"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2433,
+      "date": 1724679018,
+      "rd": 125
+    },
+    "best": {
+      "rating": 2571,
+      "date": 1605472181,
+      "game": "https://www.chess.com/game/live/5643043904"
+    },
+    "record": {
+      "win": 246,
+      "loss": 247,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2667,
+      "date": 1698688335,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2709,
+      "date": 1678804758,
+      "game": "https://www.chess.com/game/live/72541989351"
+    },
+    "record": {
+      "win": 153,
+      "loss": 119,
+      "draw": 27
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1592547058
+    },
+    "lowest": {
+      "rating": 2425,
+      "date": 1592547058
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

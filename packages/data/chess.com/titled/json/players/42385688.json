@@ -1,0 +1,83 @@
+{
+  "player_id": 42385688,
+  "@id": "https://api.chess.com/pub/player/regzryt",
+  "url": "https://www.chess.com/member/RegZryt",
+  "username": "regzryt",
+  "title": "IM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/SC",
+  "last_online": 1776505305,
+  "joined": 1516130480,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2390,
+      "date": 1696760324,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1597318759,
+      "game": "https://www.chess.com/game/live/5291547011"
+    },
+    "record": {
+      "win": 1,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2474,
+      "date": 1554408262,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1554396838,
+      "game": "https://www.chess.com/game/live/3587924344"
+    },
+    "record": {
+      "win": 58,
+      "loss": 43,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2647,
+      "date": 1765445503,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2829,
+      "date": 1716733981,
+      "game": "https://www.chess.com/game/live/110383963747"
+    },
+    "record": {
+      "win": 3010,
+      "loss": 2525,
+      "draw": 584
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2536,
+      "date": 1516130480
+    },
+    "lowest": {
+      "rating": 2536,
+      "date": 1516130480
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

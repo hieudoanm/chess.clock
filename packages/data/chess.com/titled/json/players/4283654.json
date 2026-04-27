@@ -1,0 +1,83 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4283654.1b021787.200x200o.ae79f2fd2f12.jpeg",
+  "player_id": 4283654,
+  "@id": "https://api.chess.com/pub/player/frappeboy",
+  "url": "https://www.chess.com/member/frappeboy",
+  "name": "Braden Bournival",
+  "username": "frappeboy",
+  "title": "FM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776425238,
+  "joined": 1290339361,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1722588140,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 39693,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2615,
+      "date": 1769224637,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2619,
+      "date": 1680819530,
+      "game": "https://www.chess.com/game/live/148409016270"
+    },
+    "record": {
+      "win": 698,
+      "loss": 248,
+      "draw": 52
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2659,
+      "date": 1775839579,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2675,
+      "date": 1774534439,
+      "game": "https://www.chess.com/game/live/166457886348"
+    },
+    "record": {
+      "win": 2526,
+      "loss": 1829,
+      "draw": 471
+    }
+  },
+  "fide": 648,
+  "tactics": {
+    "highest": {
+      "rating": 2594,
+      "date": 1764819297
+    },
+    "lowest": {
+      "rating": 2458,
+      "date": 1764530559
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

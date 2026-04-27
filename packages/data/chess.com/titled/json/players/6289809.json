@@ -1,0 +1,105 @@
+{
+  "player_id": 6289809,
+  "@id": "https://api.chess.com/pub/player/dogrem5",
+  "url": "https://www.chess.com/member/dogrem5",
+  "name": "Remy Rushbrooke",
+  "username": "dogrem5",
+  "title": "NM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1776524978,
+  "joined": 1323595299,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1336,
+      "date": 1728376101,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1722,
+      "date": 1495696206,
+      "game": "https://www.chess.com/game/daily/159587078"
+    },
+    "record": {
+      "win": 29,
+      "loss": 21,
+      "draw": 6,
+      "time_per_move": 41787,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2038,
+      "date": 1772566306,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1700767802,
+      "game": "https://www.chess.com/game/live/94505030087"
+    },
+    "record": {
+      "win": 103,
+      "loss": 91,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2059,
+      "date": 1773765246,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2221,
+      "date": 1734947397,
+      "game": "https://www.chess.com/game/live/62115602691"
+    },
+    "record": {
+      "win": 307,
+      "loss": 251,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2268,
+      "date": 1774967639,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2540,
+      "date": 1727717365,
+      "game": "https://www.chess.com/game/live/126399521423"
+    },
+    "record": {
+      "win": 4892,
+      "loss": 4882,
+      "draw": 519
+    }
+  },
+  "fide": 2049,
+  "tactics": {
+    "highest": {
+      "rating": 2490,
+      "date": 1774888982
+    },
+    "lowest": {
+      "rating": 2441,
+      "date": 1765901722
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

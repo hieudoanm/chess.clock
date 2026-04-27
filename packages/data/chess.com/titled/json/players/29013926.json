@@ -1,0 +1,84 @@
+{
+  "player_id": 29013926,
+  "@id": "https://api.chess.com/pub/player/longstom",
+  "url": "https://www.chess.com/member/Longstom",
+  "name": "Okan Bulgurlu",
+  "username": "longstom",
+  "title": "CM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776269113,
+  "joined": 1468221383,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2381,
+      "date": 1776185266,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2471,
+      "date": 1658658961,
+      "game": "https://www.chess.com/game/live/45752446031"
+    },
+    "record": {
+      "win": 32,
+      "loss": 28,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2262,
+      "date": 1775144349,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1654027692,
+      "game": "https://www.chess.com/game/live/5975931057"
+    },
+    "record": {
+      "win": 333,
+      "loss": 258,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2283,
+      "date": 1775197881,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2383,
+      "date": 1755635949,
+      "game": "https://www.chess.com/game/live/149947696029"
+    },
+    "record": {
+      "win": 1035,
+      "loss": 1021,
+      "draw": 107
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2244,
+      "date": 1766309295
+    },
+    "lowest": {
+      "rating": 2197,
+      "date": 1766309500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

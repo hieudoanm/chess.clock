@@ -1,0 +1,101 @@
+{
+  "player_id": 64184232,
+  "@id": "https://api.chess.com/pub/player/naicha",
+  "url": "https://www.chess.com/member/naicha",
+  "username": "naicha",
+  "title": "WCM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776595714,
+  "joined": 1565516710,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 232,
+      "date": 1776475783,
+      "rd": 267
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 238,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2235,
+      "date": 1775350315,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1774773776,
+      "game": "https://www.chess.com/game/live/166577985514"
+    },
+    "record": {
+      "win": 603,
+      "loss": 515,
+      "draw": 78
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1807,
+      "date": 1775989187,
+      "rd": 60
+    },
+    "best": {
+      "rating": 1874,
+      "date": 1763726427,
+      "game": "https://www.chess.com/game/live/166618802114"
+    },
+    "record": {
+      "win": 45,
+      "loss": 36,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1906,
+      "date": 1776583603,
+      "rd": 49
+    },
+    "best": {
+      "rating": 1934,
+      "date": 1770103114,
+      "game": "https://www.chess.com/game/live/134824750521"
+    },
+    "record": {
+      "win": 124,
+      "loss": 89,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2381,
+      "date": 1768643627
+    },
+    "lowest": {
+      "rating": 2278,
+      "date": 1775263961
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    },
+    "daily": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

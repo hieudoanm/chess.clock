@@ -1,0 +1,103 @@
+{
+  "player_id": 92927576,
+  "@id": "https://api.chess.com/pub/player/krujjster",
+  "url": "https://www.chess.com/member/krujjster",
+  "username": "krujjster",
+  "title": "IM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776571857,
+  "joined": 1602449621,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2027,
+      "date": 1746475755,
+      "rd": 235
+    },
+    "best": {
+      "rating": 2107,
+      "date": 1722610042,
+      "game": "https://www.chess.com/game/daily/653530509"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 61699,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2667,
+      "date": 1749503833,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1703908670,
+      "game": "https://www.chess.com/game/live/97637408993"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1776229132,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2804,
+      "date": 1774830250,
+      "game": "https://www.chess.com/game/live/164834367292"
+    },
+    "record": {
+      "win": 452,
+      "loss": 341,
+      "draw": 70
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2725,
+      "date": 1776487657,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2822,
+      "date": 1775889742,
+      "game": "https://www.chess.com/game/live/147946630794"
+    },
+    "record": {
+      "win": 4126,
+      "loss": 3684,
+      "draw": 857
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2398,
+      "date": 1771310119
+    },
+    "lowest": {
+      "rating": 2245,
+      "date": 1760559628
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

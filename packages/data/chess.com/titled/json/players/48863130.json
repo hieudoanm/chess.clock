@@ -1,0 +1,84 @@
+{
+  "player_id": 48863130,
+  "@id": "https://api.chess.com/pub/player/capkrnch",
+  "url": "https://www.chess.com/member/capkrnch",
+  "username": "capkrnch",
+  "title": "FM",
+  "followers": 34,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776546270,
+  "joined": 1534529303,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2451,
+      "date": 1774213322,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2578,
+      "date": 1600056804,
+      "game": "https://www.chess.com/game/live/147082129478"
+    },
+    "record": {
+      "win": 144,
+      "loss": 108,
+      "draw": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2150,
+      "date": 1776546084,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2361,
+      "date": 1597433195,
+      "game": "https://www.chess.com/game/live/110312539477"
+    },
+    "record": {
+      "win": 4640,
+      "loss": 3470,
+      "draw": 642
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2409,
+      "date": 1766362215,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2409,
+      "date": 1754777550,
+      "game": "https://www.chess.com/game/live/75403403539"
+    },
+    "record": {
+      "win": 5739,
+      "loss": 4248,
+      "draw": 1244
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1534529303
+    },
+    "lowest": {
+      "rating": 2495,
+      "date": 1534529303
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

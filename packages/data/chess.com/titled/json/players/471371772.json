@@ -1,0 +1,67 @@
+{
+  "player_id": 471371772,
+  "@id": "https://api.chess.com/pub/player/pwn2q",
+  "url": "https://www.chess.com/member/pwn2q",
+  "username": "pwn2q",
+  "title": "GM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/AT",
+  "last_online": 1776071407,
+  "joined": 1754177799,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2621,
+      "date": 1766454308,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1762649003,
+      "game": "https://www.chess.com/game/live/145436058754"
+    },
+    "record": {
+      "win": 110,
+      "loss": 109,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2580,
+      "date": 1776071398,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1776023307,
+      "game": "https://www.chess.com/game/live/166901256946"
+    },
+    "record": {
+      "win": 174,
+      "loss": 175,
+      "draw": 13
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1754177799
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1754177799
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

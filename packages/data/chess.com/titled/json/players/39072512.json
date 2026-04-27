@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/39072512.6f508a1c.200x200o.8177f89916d8.jpeg",
+  "player_id": 39072512,
+  "@id": "https://api.chess.com/pub/player/timurist",
+  "url": "https://www.chess.com/member/Timurist",
+  "name": "Timur Radionov",
+  "username": "timurist",
+  "title": "FM",
+  "followers": 41,
+  "country": "https://api.chess.com/pub/country/MT",
+  "last_online": 1776545204,
+  "joined": 1506799286,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1379,
+      "date": 1584865711,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1379,
+      "date": 1553273004,
+      "game": "https://www.chess.com/game/daily/220418538"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9297,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2473,
+      "date": 1775652472,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2478,
+      "date": 1671468452,
+      "game": "https://www.chess.com/game/live/65206847359"
+    },
+    "record": {
+      "win": 50,
+      "loss": 6,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2587,
+      "date": 1768376783,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2608,
+      "date": 1765897843,
+      "game": "https://www.chess.com/game/live/105918684989"
+    },
+    "record": {
+      "win": 670,
+      "loss": 496,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2493,
+      "date": 1775940362,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1763504733,
+      "game": "https://www.chess.com/game/live/148720113857"
+    },
+    "record": {
+      "win": 1946,
+      "loss": 1839,
+      "draw": 288
+    }
+  },
+  "fide": 2321,
+  "tactics": {
+    "highest": {
+      "rating": 2546,
+      "date": 1755942331
+    },
+    "lowest": {
+      "rating": 2262,
+      "date": 1762421844
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 57
+    }
+  }
+}

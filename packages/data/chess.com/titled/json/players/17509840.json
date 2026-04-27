@@ -1,0 +1,85 @@
+{
+  "player_id": 17509840,
+  "@id": "https://api.chess.com/pub/player/cosmosx",
+  "url": "https://www.chess.com/member/CosmosX",
+  "name": "Ridvan Sakir",
+  "username": "cosmosx",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776439719,
+  "joined": 1401530221,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2264,
+      "date": 1748012724,
+      "rd": 98
+    },
+    "best": {
+      "rating": 2264,
+      "date": 1616235949,
+      "game": "https://www.chess.com/game/live/4865599801"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1964,
+      "date": 1597085269,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1592248222,
+      "game": "https://www.chess.com/game/live/3558789900"
+    },
+    "record": {
+      "win": 38,
+      "loss": 14,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2329,
+      "date": 1758542161,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1547498224,
+      "game": "https://www.chess.com/game/live/5662500247"
+    },
+    "record": {
+      "win": 338,
+      "loss": 197,
+      "draw": 36
+    }
+  },
+  "fide": 2270,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1401530221
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1401530221
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

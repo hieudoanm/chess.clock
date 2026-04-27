@@ -1,0 +1,66 @@
+{
+  "player_id": 49175110,
+  "@id": "https://api.chess.com/pub/player/barcelona_guy",
+  "url": "https://www.chess.com/member/Barcelona_Guy",
+  "username": "barcelona_guy",
+  "title": "GM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1766825207,
+  "joined": 1535396063,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2724,
+      "date": 1764542245,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1764082210,
+      "game": "https://www.chess.com/game/live/5496644468"
+    },
+    "record": {
+      "win": 793,
+      "loss": 898,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2889,
+      "date": 1764008130,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1752072132,
+      "game": "https://www.chess.com/game/live/140359693950"
+    },
+    "record": {
+      "win": 931,
+      "loss": 945,
+      "draw": 235
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2590,
+      "date": 1762608580
+    },
+    "lowest": {
+      "rating": 2413,
+      "date": 1756035512
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

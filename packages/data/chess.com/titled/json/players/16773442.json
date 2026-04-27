@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/16773442.e0076f74.200x200o.63422e450671.jpg",
+  "player_id": 16773442,
+  "@id": "https://api.chess.com/pub/player/nathan_filgueiras",
+  "url": "https://www.chess.com/member/Nathan_Filgueiras",
+  "name": "Nathan Felipe Filgueiras",
+  "username": "nathan_filgueiras",
+  "title": "IM",
+  "followers": 1209,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Blumenau",
+  "last_online": 1776564537,
+  "joined": 1396727118,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1681,
+      "date": 1773359690,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1687,
+      "date": 1694614966,
+      "game": "https://www.chess.com/game/daily/363544099"
+    },
+    "record": {
+      "win": 53,
+      "loss": 11,
+      "draw": 2,
+      "time_per_move": 17610,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2249,
+      "date": 1776472056,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2345,
+      "date": 1618727475,
+      "game": "https://www.chess.com/game/live/12160056141"
+    },
+    "record": {
+      "win": 40,
+      "loss": 32,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2600,
+      "date": 1775183709,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2729,
+      "date": 1759795357,
+      "game": "https://www.chess.com/game/live/78946224523"
+    },
+    "record": {
+      "win": 3645,
+      "loss": 3825,
+      "draw": 536
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2651,
+      "date": 1775765361,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1771985393,
+      "game": "https://www.chess.com/game/live/73415628483"
+    },
+    "record": {
+      "win": 4401,
+      "loss": 4183,
+      "draw": 678
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2806,
+      "date": 1767728633
+    },
+    "lowest": {
+      "rating": 2644,
+      "date": 1756488498
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

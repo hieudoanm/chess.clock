@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6536415.379d6d82.200x200o.104b0ba33f5e.jpeg",
+  "player_id": 6536415,
+  "@id": "https://api.chess.com/pub/player/vcs",
+  "url": "https://www.chess.com/member/vcs",
+  "name": "Victor Shen",
+  "username": "vcs",
+  "title": "IM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1776300326,
+  "joined": 1327178895,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2210,
+      "date": 1705327438,
+      "rd": 343
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1683602456,
+      "game": "https://www.chess.com/game/daily/514581655"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 8086,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2408,
+      "date": 1616296063,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2408,
+      "date": 1605148677,
+      "game": "https://www.chess.com/game/live/10034479341"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2764,
+      "date": 1701313165,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2801,
+      "date": 1701135433,
+      "game": "https://www.chess.com/game/live/91327174779"
+    },
+    "record": {
+      "win": 1381,
+      "loss": 1060,
+      "draw": 194
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2808,
+      "date": 1751929778,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2883,
+      "date": 1694393334,
+      "game": "https://www.chess.com/game/live/120195626299"
+    },
+    "record": {
+      "win": 420,
+      "loss": 352,
+      "draw": 42
+    }
+  },
+  "fide": 2527,
+  "tactics": {
+    "highest": {
+      "rating": 2544,
+      "date": 1757834105
+    },
+    "lowest": {
+      "rating": 2366,
+      "date": 1760931312
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

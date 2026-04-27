@@ -1,0 +1,94 @@
+{
+  "player_id": 6978957,
+  "@id": "https://api.chess.com/pub/player/kbachler",
+  "url": "https://www.chess.com/member/KBachler",
+  "name": "Kevin Bachler",
+  "username": "kbachler",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1740703341,
+  "joined": 1331824583,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2214,
+      "date": 1584505706,
+      "rd": 208
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1340229052,
+      "game": "https://www.chess.com/game/daily/54081992"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12432,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1976,
+      "date": 1517277152,
+      "rd": 100
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2065,
+      "date": 1728357707,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1459534901,
+      "game": "https://www.chess.com/game/live/1710575533"
+    },
+    "record": {
+      "win": 38136,
+      "loss": 23073,
+      "draw": 1934
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1977,
+      "date": 1607046256,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1484804621,
+      "game": "https://www.chess.com/game/live/1407190069"
+    },
+    "record": {
+      "win": 4806,
+      "loss": 3158,
+      "draw": 431
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 2219,
+      "date": 1331824583
+    },
+    "lowest": {
+      "rating": 2219,
+      "date": 1331824583
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 210019262,
+  "@id": "https://api.chess.com/pub/player/hakimazzz",
+  "url": "https://www.chess.com/member/HakimaZZZ",
+  "username": "hakimazzz",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776374921,
+  "joined": 1670005388,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2327,
+      "date": 1746817854,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2276,
+      "date": 1712831993,
+      "game": "https://www.chess.com/game/live/106569984337"
+    },
+    "record": {
+      "win": 12,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2494,
+      "date": 1775058910,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2673,
+      "date": 1686749008,
+      "game": "https://www.chess.com/game/live/80487788039"
+    },
+    "record": {
+      "win": 3,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2638,
+      "date": 1776119100,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1773430440,
+      "game": "https://www.chess.com/game/live/165755819454"
+    },
+    "record": {
+      "win": 231,
+      "loss": 212,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2163,
+      "date": 1670005388
+    },
+    "lowest": {
+      "rating": 2163,
+      "date": 1670005388
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

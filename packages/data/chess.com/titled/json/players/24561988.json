@@ -1,0 +1,103 @@
+{
+  "player_id": 24561988,
+  "@id": "https://api.chess.com/pub/player/italymaster",
+  "url": "https://www.chess.com/member/ItalyMaster",
+  "name": "Marco Mascellani",
+  "username": "italymaster",
+  "title": "FM",
+  "followers": 68,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776595500,
+  "joined": 1444764623,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1651,
+      "date": 1712305717,
+      "rd": 220
+    },
+    "best": {
+      "rating": 1651,
+      "date": 1680697709,
+      "game": "https://www.chess.com/game/daily/138067306"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 52931,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2457,
+      "date": 1600197332,
+      "rd": 162
+    },
+    "best": {
+      "rating": 2457,
+      "date": 1600197332,
+      "game": "https://www.chess.com/game/live/5273563717"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2367,
+      "date": 1626760415,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2520,
+      "date": 1614508176,
+      "game": "https://www.chess.com/game/live/8195648697"
+    },
+    "record": {
+      "win": 1733,
+      "loss": 1329,
+      "draw": 200
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2534,
+      "date": 1771754201,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1661960513,
+      "game": "https://www.chess.com/game/live/105998458403"
+    },
+    "record": {
+      "win": 3974,
+      "loss": 3104,
+      "draw": 614
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2187,
+      "date": 1756540050
+    },
+    "lowest": {
+      "rating": 2130,
+      "date": 1756539685
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

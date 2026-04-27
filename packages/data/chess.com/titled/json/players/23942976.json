@@ -1,0 +1,79 @@
+{
+  "player_id": 23942976,
+  "@id": "https://api.chess.com/pub/player/checky2015",
+  "url": "https://www.chess.com/member/Checky2015",
+  "name": "Checky 2015",
+  "username": "checky2015",
+  "title": "GM",
+  "followers": 228,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1768157266,
+  "joined": 1441253186,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1691,
+      "date": 1595723857,
+      "rd": 313
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2939,
+      "date": 1536715025,
+      "rd": 168
+    },
+    "best": {
+      "rating": 2789,
+      "date": 1536715025,
+      "game": "https://www.chess.com/game/live/1537867482"
+    },
+    "record": {
+      "win": 89,
+      "loss": 22,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2920,
+      "date": 1687926850,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2952,
+      "date": 1639080793,
+      "game": "https://www.chess.com/game/live/75789704121"
+    },
+    "record": {
+      "win": 3455,
+      "loss": 1442,
+      "draw": 480
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2780,
+      "date": 1441253186
+    },
+    "lowest": {
+      "rating": 2780,
+      "date": 1441253186
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

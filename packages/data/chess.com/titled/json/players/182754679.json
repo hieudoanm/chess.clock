@@ -1,0 +1,79 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/182754679.6b3ea5bf.200x200o.940f37dcd8e5.png",
+  "player_id": 182754679,
+  "@id": "https://api.chess.com/pub/player/friederichgazel",
+  "url": "https://www.chess.com/member/FriederichGazel",
+  "username": "friederichgazel",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776381867,
+  "joined": 1651778342,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2453,
+      "date": 1776378398,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2507,
+      "date": 1775842176,
+      "game": "https://www.chess.com/game/live/167118289678"
+    },
+    "record": {
+      "win": 130,
+      "loss": 57,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2180,
+      "date": 1754685565,
+      "rd": 252
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2487,
+      "date": 1775651276,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1658982092,
+      "game": "https://www.chess.com/game/live/48480596905"
+    },
+    "record": {
+      "win": 1196,
+      "loss": 962,
+      "draw": 166
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1651778342
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1651778342
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

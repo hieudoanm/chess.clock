@@ -1,0 +1,100 @@
+{
+  "player_id": 13538006,
+  "@id": "https://api.chess.com/pub/player/profcalculus",
+  "url": "https://www.chess.com/member/ProfCalculus",
+  "name": "Charles de Villiers",
+  "username": "profcalculus",
+  "title": "FM",
+  "followers": 38,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "location": "South Africa",
+  "last_online": 1775125623,
+  "joined": 1379256621,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1336,
+      "date": 1739698105,
+      "rd": 190
+    },
+    "best": {
+      "rating": 1336,
+      "date": 1708085910,
+      "game": "https://www.chess.com/game/daily/572426091"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 41640,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1651,
+      "date": 1595094462,
+      "rd": 164
+    },
+    "best": {
+      "rating": 2085,
+      "date": 1586542538,
+      "game": "https://www.chess.com/game/live/4704135608"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2014,
+      "date": 1501424777,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2018,
+      "date": 1471771427,
+      "game": "https://www.chess.com/game/live/1698433718"
+    },
+    "record": {
+      "win": 24,
+      "loss": 32,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2175,
+      "date": 1775125572,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1763811847,
+      "game": "https://www.chess.com/game/live/145659174854"
+    },
+    "record": {
+      "win": 10168,
+      "loss": 7396,
+      "draw": 549
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2701,
+      "date": 1768205853
+    },
+    "lowest": {
+      "rating": 2393,
+      "date": 1762445679
+    }
+  },
+  "puzzle_rush": {}
+}

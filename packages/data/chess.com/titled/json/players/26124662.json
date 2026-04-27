@@ -1,0 +1,105 @@
+{
+  "player_id": 26124662,
+  "@id": "https://api.chess.com/pub/player/joshuacao",
+  "url": "https://www.chess.com/member/joshuacao",
+  "name": "Joshua Cao",
+  "username": "joshuacao",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Norcal",
+  "last_online": 1776560187,
+  "joined": 1452744683,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1447,
+      "date": 1758616102,
+      "rd": 167
+    },
+    "best": {
+      "rating": 1561,
+      "date": 1716931197,
+      "game": "https://www.chess.com/game/daily/555980415"
+    },
+    "record": {
+      "win": 10,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 11091,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2334,
+      "date": 1752450973,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1752450973,
+      "game": "https://www.chess.com/game/live/55901610763"
+    },
+    "record": {
+      "win": 119,
+      "loss": 55,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2172,
+      "date": 1776499497,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1762728938,
+      "game": "https://www.chess.com/game/live/74331092863"
+    },
+    "record": {
+      "win": 14891,
+      "loss": 13256,
+      "draw": 988
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2413,
+      "date": 1776275165,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2427,
+      "date": 1776241474,
+      "game": "https://www.chess.com/game/live/166008214688"
+    },
+    "record": {
+      "win": 1350,
+      "loss": 1074,
+      "draw": 149
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2563,
+      "date": 1761092077
+    },
+    "lowest": {
+      "rating": 2307,
+      "date": 1765484202
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

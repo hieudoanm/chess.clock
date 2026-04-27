@@ -1,0 +1,100 @@
+{
+  "player_id": 6602425,
+  "@id": "https://api.chess.com/pub/player/ercoleiaccone",
+  "url": "https://www.chess.com/member/ercoleiaccone",
+  "name": "Ernesto Iannaccone",
+  "username": "ercoleiaccone",
+  "title": "FM",
+  "followers": 185,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Roma",
+  "last_online": 1776594618,
+  "joined": 1328203493,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1165,
+      "date": 1683229557,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1328203493,
+      "game": "https://www.chess.com/game/daily/423772581"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5395,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2041,
+      "date": 1765171236,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2049,
+      "date": 1736014903,
+      "game": "https://www.chess.com/game/live/129753596275"
+    },
+    "record": {
+      "win": 21,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1627,
+      "date": 1701122084,
+      "rd": 237
+    },
+    "best": {
+      "rating": 1627,
+      "date": 1701122084,
+      "game": "https://www.chess.com/game/live/94861114275"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2377,
+      "date": 1776594596,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2591,
+      "date": 1765648346,
+      "game": "https://www.chess.com/game/live/71230011385"
+    },
+    "record": {
+      "win": 17246,
+      "loss": 13046,
+      "draw": 3788
+    }
+  },
+  "fide": 2375,
+  "tactics": {
+    "highest": {
+      "rating": 2333,
+      "date": 1773088435
+    },
+    "lowest": {
+      "rating": 2117,
+      "date": 1773088047
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 1599830,
+  "@id": "https://api.chess.com/pub/player/goldenspine",
+  "url": "https://www.chess.com/member/goldenspine",
+  "name": "Makaio Krienke",
+  "username": "goldenspine",
+  "title": "NM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776573158,
+  "joined": 1226811643,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2142,
+      "date": 1701963138,
+      "rd": 234
+    },
+    "best": {
+      "rating": 2142,
+      "date": 1548196581,
+      "game": "https://www.chess.com/game/daily/214106256"
+    },
+    "record": {
+      "win": 24,
+      "loss": 24,
+      "draw": 0,
+      "time_per_move": 10678,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2117,
+      "date": 1775708370,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1673586302,
+      "game": "https://www.chess.com/game/live/4962338166"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2327,
+      "date": 1776372644,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1626577687,
+      "game": "https://www.chess.com/game/live/75062702095"
+    },
+    "record": {
+      "win": 260,
+      "loss": 179,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2560,
+      "date": 1776296734,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1776225636,
+      "game": "https://www.chess.com/game/live/67111959449"
+    },
+    "record": {
+      "win": 826,
+      "loss": 701,
+      "draw": 86
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2403,
+      "date": 1226811643
+    },
+    "lowest": {
+      "rating": 2403,
+      "date": 1226811643
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

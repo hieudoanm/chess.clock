@@ -1,0 +1,80 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51918968.2d819152.200x200o.062e6601166b.jpeg",
+  "player_id": 51918968,
+  "@id": "https://api.chess.com/pub/player/krakenbeast",
+  "url": "https://www.chess.com/member/KrakenBeast",
+  "name": "Ioannis Ergazakis",
+  "username": "krakenbeast",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776596985,
+  "joined": 1542358405,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2219,
+      "date": 1589298832,
+      "rd": 275
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2419,
+      "date": 1588845999,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1547574901,
+      "game": "https://www.chess.com/game/live/3378958380"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2518,
+      "date": 1732055222,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2518,
+      "date": 1726174946,
+      "game": "https://www.chess.com/game/live/4500757200"
+    },
+    "record": {
+      "win": 334,
+      "loss": 324,
+      "draw": 95
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2368,
+      "date": 1542358405
+    },
+    "lowest": {
+      "rating": 2368,
+      "date": 1542358405
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 52
+    }
+  }
+}

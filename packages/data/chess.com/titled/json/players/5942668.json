@@ -1,0 +1,85 @@
+{
+  "player_id": 5942668,
+  "@id": "https://api.chess.com/pub/player/generalas",
+  "url": "https://www.chess.com/member/Generalas",
+  "name": "Antonios Hadzimanolis",
+  "username": "generalas",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/GR",
+  "location": "Thessaloniki",
+  "last_online": 1776449164,
+  "joined": 1318436371,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2259,
+      "date": 1749420166,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1599839115,
+      "game": "https://www.chess.com/game/live/74880891227"
+    },
+    "record": {
+      "win": 30,
+      "loss": 15,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2222,
+      "date": 1592127368,
+      "rd": 64
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1473196392,
+      "game": "https://www.chess.com/game/live/1602039206"
+    },
+    "record": {
+      "win": 203,
+      "loss": 85,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2484,
+      "date": 1685047836,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2646,
+      "date": 1681227607,
+      "game": "https://www.chess.com/game/live/74964884329"
+    },
+    "record": {
+      "win": 572,
+      "loss": 383,
+      "draw": 67
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2727,
+      "date": 1759613434
+    },
+    "lowest": {
+      "rating": 2604,
+      "date": 1759613739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30409510.b95591e5.200x200o.26c0e7dcc386.jpeg",
+  "player_id": 30409510,
+  "@id": "https://api.chess.com/pub/player/sjoerd893",
+  "url": "https://www.chess.com/member/sjoerd893",
+  "name": "Sjoerd van Roon",
+  "username": "sjoerd893",
+  "title": "FM",
+  "followers": 88,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1776544207,
+  "joined": 1476546802,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1454,
+      "date": 1737560270,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1850,
+      "date": 1704832591,
+      "game": "https://www.chess.com/game/daily/574404343"
+    },
+    "record": {
+      "win": 34,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 30351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2375,
+      "date": 1770029907,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1702896551,
+      "game": "https://www.chess.com/game/live/82371652203"
+    },
+    "record": {
+      "win": 71,
+      "loss": 12,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2542,
+      "date": 1751801971,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1738431759,
+      "game": "https://www.chess.com/game/live/132169274087"
+    },
+    "record": {
+      "win": 262,
+      "loss": 159,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2568,
+      "date": 1753179053,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1748981133,
+      "game": "https://www.chess.com/game/live/97950133131"
+    },
+    "record": {
+      "win": 1164,
+      "loss": 873,
+      "draw": 136
+    }
+  },
+  "fide": 2309,
+  "tactics": {
+    "highest": {
+      "rating": 2501,
+      "date": 1758795091
+    },
+    "lowest": {
+      "rating": 2254,
+      "date": 1767908304
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

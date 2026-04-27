@@ -1,0 +1,80 @@
+{
+  "player_id": 152817727,
+  "@id": "https://api.chess.com/pub/player/m-mar04",
+  "url": "https://www.chess.com/member/M-Mar04",
+  "name": "Mariam Mkrtchyan",
+  "username": "m-mar04",
+  "title": "WIM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/AM",
+  "last_online": 1649299045,
+  "joined": 1630267491,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2169,
+      "date": 1631269989,
+      "rd": 169
+    },
+    "best": {
+      "rating": 2169,
+      "date": 1631269989,
+      "game": "https://www.chess.com/game/live/25006910971"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2529,
+      "date": 1649327776,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2620,
+      "date": 1647360603,
+      "game": "https://www.chess.com/game/live/41099396247"
+    },
+    "record": {
+      "win": 1035,
+      "loss": 843,
+      "draw": 165
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1649199821,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1649199821,
+      "game": "https://www.chess.com/game/live/42934188131"
+    },
+    "record": {
+      "win": 56,
+      "loss": 32,
+      "draw": 16
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1630267491
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1630267491
+    }
+  },
+  "puzzle_rush": {}
+}

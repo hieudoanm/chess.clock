@@ -1,0 +1,123 @@
+{
+  "player_id": 151171473,
+  "@id": "https://api.chess.com/pub/player/max50001",
+  "url": "https://www.chess.com/member/Max50001",
+  "name": "Maxim Vasic",
+  "username": "max50001",
+  "title": "NM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1775884439,
+  "joined": 1629001446,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2135,
+      "date": 1763493580,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1739662506,
+      "game": "https://www.chess.com/game/daily/752795399"
+    },
+    "record": {
+      "win": 11,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 17637,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2056,
+      "date": 1763493580,
+      "rd": 158
+    },
+    "best": {
+      "rating": 2309,
+      "date": 1758061053,
+      "game": "https://www.chess.com/game/daily/859278818"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 17637,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2243,
+      "date": 1770335260,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2386,
+      "date": 1645569809,
+      "game": "https://www.chess.com/game/live/39307736979"
+    },
+    "record": {
+      "win": 19,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2290,
+      "date": 1663830098,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2479,
+      "date": 1629015767,
+      "game": "https://www.chess.com/game/live/40416554773"
+    },
+    "record": {
+      "win": 823,
+      "loss": 647,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1775884429,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1770329825,
+      "game": "https://www.chess.com/game/live/127004999247"
+    },
+    "record": {
+      "win": 3322,
+      "loss": 2293,
+      "draw": 358
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2578,
+      "date": 1764637172
+    },
+    "lowest": {
+      "rating": 2362,
+      "date": 1765492293
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

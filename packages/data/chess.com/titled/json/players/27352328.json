@@ -1,0 +1,109 @@
+{
+  "player_id": 27352328,
+  "@id": "https://api.chess.com/pub/player/aronyak1",
+  "url": "https://www.chess.com/member/Aronyak1",
+  "name": "Aronyak Ghosh",
+  "username": "aronyak1",
+  "title": "IM",
+  "followers": 339,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "Kolkata",
+  "last_online": 1776561052,
+  "joined": 1458568742,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1866,
+      "date": 1621326498,
+      "rd": 172
+    },
+    "best": {
+      "rating": 1866,
+      "date": 1589732835,
+      "game": "https://www.chess.com/game/daily/252659032"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 46909,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2529,
+      "date": 1765122894,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1765119982,
+      "game": "https://www.chess.com/game/live/70739722885"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2976,
+      "date": 1745474622,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2976,
+      "date": 1650386472,
+      "game": "https://www.chess.com/game/live/44124346357"
+    },
+    "record": {
+      "win": 2150,
+      "loss": 1504,
+      "draw": 263
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3007,
+      "date": 1772650803,
+      "rd": 42
+    },
+    "best": {
+      "rating": 3032,
+      "date": 1772650586,
+      "game": "https://www.chess.com/game/live/90351658257"
+    },
+    "record": {
+      "win": 1427,
+      "loss": 854,
+      "draw": 331
+    }
+  },
+  "fide": 2544,
+  "tactics": {
+    "highest": {
+      "rating": 2592,
+      "date": 1757914505
+    },
+    "lowest": {
+      "rating": 2535,
+      "date": 1757914373
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    },
+    "daily": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

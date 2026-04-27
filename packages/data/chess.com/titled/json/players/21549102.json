@@ -1,0 +1,106 @@
+{
+  "player_id": 21549102,
+  "@id": "https://api.chess.com/pub/player/midedu",
+  "url": "https://www.chess.com/member/midedu",
+  "name": "Dejan Djordjevic",
+  "username": "midedu",
+  "title": "FM",
+  "followers": 83,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Nis",
+  "last_online": 1776580131,
+  "joined": 1426544972,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1657,
+      "date": 1767463370,
+      "rd": 127
+    },
+    "best": {
+      "rating": 1670,
+      "date": 1587222085,
+      "game": "https://www.chess.com/game/daily/259901644"
+    },
+    "record": {
+      "win": 13,
+      "loss": 19,
+      "draw": 1,
+      "time_per_move": 9060,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2115,
+      "date": 1681086010,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1636836501,
+      "game": "https://www.chess.com/game/live/73522331631"
+    },
+    "record": {
+      "win": 12,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1928,
+      "date": 1776463526,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1595093166,
+      "game": "https://www.chess.com/game/live/126731944827"
+    },
+    "record": {
+      "win": 8050,
+      "loss": 4027,
+      "draw": 215
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2087,
+      "date": 1776554912,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1637614856,
+      "game": "https://www.chess.com/game/live/25724442465"
+    },
+    "record": {
+      "win": 13709,
+      "loss": 4065,
+      "draw": 497
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2233,
+      "date": 1771800966
+    },
+    "lowest": {
+      "rating": 2080,
+      "date": 1762712915
+    }
+  },
+  "puzzle_rush": {}
+}

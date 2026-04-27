@@ -1,0 +1,102 @@
+{
+    "player_id": 27542758,
+    "@id": "https://api.chess.com/pub/player/kingsman132",
+    "url": "https://www.chess.com/member/Kingsman132",
+    "name": "Alexander Zlatin",
+    "username": "kingsman132",
+    "title": "FM",
+    "followers": 61,
+    "country": "https://api.chess.com/pub/country/ZM",
+    "last_online": 1741583480,
+    "joined": 1459525631,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Crystal",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 400,
+            "date": 1735409507,
+            "rd": 350
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0,
+            "time_per_move": 2671,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 1769,
+            "date": 1627075895,
+            "rd": 117
+        },
+        "best": {
+            "rating": 1769,
+            "date": 1625404522,
+            "game": "https://www.chess.com/game/live/5615640951"
+        },
+        "record": {
+            "win": 21,
+            "loss": 4,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2519,
+            "date": 1741457521,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2613,
+            "date": 1735690884,
+            "game": "https://www.chess.com/game/live/133378744417"
+        },
+        "record": {
+            "win": 694,
+            "loss": 673,
+            "draw": 121
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2575,
+            "date": 1740688890,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2594,
+            "date": 1735933578,
+            "game": "https://www.chess.com/game/live/4726300912"
+        },
+        "record": {
+            "win": 324,
+            "loss": 253,
+            "draw": 48
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3736,
+            "date": 1739899273
+        },
+        "lowest": {
+            "rating": 1342,
+            "date": 1460114571
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 65,
+            "score": 62
+        },
+        "daily": {
+            "total_attempts": 45,
+            "score": 42
+        }
+    }
+}

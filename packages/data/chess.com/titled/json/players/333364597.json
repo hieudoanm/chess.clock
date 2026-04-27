@@ -1,0 +1,83 @@
+{
+  "player_id": 333364597,
+  "@id": "https://api.chess.com/pub/player/travelingwchess",
+  "url": "https://www.chess.com/member/travelingwchess",
+  "username": "travelingwchess",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1775591216,
+  "joined": 1703009613,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2192,
+      "date": 1718492765,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2208,
+      "date": 1718289445,
+      "game": "https://www.chess.com/game/live/107437929281"
+    },
+    "record": {
+      "win": 6,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2116,
+      "date": 1775161482,
+      "rd": 120
+    },
+    "best": {
+      "rating": 2250,
+      "date": 1718201969,
+      "game": "https://www.chess.com/game/live/112278597045"
+    },
+    "record": {
+      "win": 81,
+      "loss": 101,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2199,
+      "date": 1774959270,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1774819425,
+      "game": "https://www.chess.com/game/live/114875334427"
+    },
+    "record": {
+      "win": 24,
+      "loss": 34,
+      "draw": 8
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1703009613
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1703009613
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

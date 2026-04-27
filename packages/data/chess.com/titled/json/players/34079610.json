@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34079610.490b6c93.200x200o.ebd2921aef9b.jpeg",
+  "player_id": 34079610,
+  "@id": "https://api.chess.com/pub/player/liumar",
+  "url": "https://www.chess.com/member/liumar",
+  "username": "liumar",
+  "title": "FM",
+  "followers": 180,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Arizona",
+  "last_online": 1776542668,
+  "joined": 1489890300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1636,
+      "date": 1754337507,
+      "rd": 200
+    },
+    "best": {
+      "rating": 1835,
+      "date": 1610391359,
+      "game": "https://www.chess.com/game/daily/293020464"
+    },
+    "record": {
+      "win": 34,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 60734,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2123,
+      "date": 1756490420,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2170,
+      "date": 1691171821,
+      "game": "https://www.chess.com/game/live/122612069033"
+    },
+    "record": {
+      "win": 40,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2205,
+      "date": 1773632204,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2327,
+      "date": 1612997901,
+      "game": "https://www.chess.com/game/live/6517134975"
+    },
+    "record": {
+      "win": 461,
+      "loss": 463,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2288,
+      "date": 1776542657,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1729644371,
+      "game": "https://www.chess.com/game/live/117332987143"
+    },
+    "record": {
+      "win": 3446,
+      "loss": 3569,
+      "draw": 401
+    }
+  },
+  "fide": 2200,
+  "tactics": {
+    "highest": {
+      "rating": 2662,
+      "date": 1769887206
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1768772530
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

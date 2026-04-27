@@ -1,0 +1,114 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/105027728.1ee3a03d.200x200o.558b0359d99a.jpg",
+  "player_id": 105027728,
+  "@id": "https://api.chess.com/pub/player/switchontwitch",
+  "url": "https://www.chess.com/member/SwitchOnTwitch",
+  "name": "Yue Shen Zang",
+  "username": "switchontwitch",
+  "title": "FM",
+  "followers": 891,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776588985,
+  "joined": 1608211245,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/fmyue",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/fmyue"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@switchtactics5397"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 969,
+      "date": 1759265002,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1608211245,
+      "game": "https://www.chess.com/game/daily/328957880"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 87090,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2184,
+      "date": 1752251023,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1612492622,
+      "game": "https://www.chess.com/game/live/25118421295"
+    },
+    "record": {
+      "win": 148,
+      "loss": 23,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2072,
+      "date": 1776114141,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2273,
+      "date": 1615605075,
+      "game": "https://www.chess.com/game/live/9342926721"
+    },
+    "record": {
+      "win": 336,
+      "loss": 243,
+      "draw": 32
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2149,
+      "date": 1776114678,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1621025489,
+      "game": "https://www.chess.com/game/live/11226871987"
+    },
+    "record": {
+      "win": 829,
+      "loss": 520,
+      "draw": 79
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2490,
+      "date": 1608211245
+    },
+    "lowest": {
+      "rating": 2490,
+      "date": 1608211245
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

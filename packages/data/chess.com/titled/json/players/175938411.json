@@ -1,0 +1,84 @@
+{
+  "player_id": 175938411,
+  "@id": "https://api.chess.com/pub/player/gumgumstorm",
+  "url": "https://www.chess.com/member/GumGumStorm",
+  "username": "gumgumstorm",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776595368,
+  "joined": 1646822284,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2354,
+      "date": 1775899744,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1770131213,
+      "game": "https://www.chess.com/game/live/167130009140"
+    },
+    "record": {
+      "win": 800,
+      "loss": 525,
+      "draw": 106
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2438,
+      "date": 1775642247,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2477,
+      "date": 1763808479,
+      "game": "https://www.chess.com/game/live/148479624662"
+    },
+    "record": {
+      "win": 209,
+      "loss": 150,
+      "draw": 24
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2649,
+      "date": 1776587604,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1776429787,
+      "game": "https://www.chess.com/game/live/145046711976"
+    },
+    "record": {
+      "win": 975,
+      "loss": 848,
+      "draw": 170
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2548,
+      "date": 1774007020
+    },
+    "lowest": {
+      "rating": 2211,
+      "date": 1757691796
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

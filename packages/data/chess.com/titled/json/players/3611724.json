@@ -1,0 +1,103 @@
+{
+  "player_id": 3611724,
+  "@id": "https://api.chess.com/pub/player/natasharegan",
+  "url": "https://www.chess.com/member/NatashaRegan",
+  "name": "Natasha Regan",
+  "username": "natasharegan",
+  "title": "WIM",
+  "followers": 89,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776600050,
+  "joined": 1239644213,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1686,
+      "date": 1721333182,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1783,
+      "date": 1287006362,
+      "game": "https://www.chess.com/game/daily/42896161"
+    },
+    "record": {
+      "win": 5,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 75202,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1866,
+      "date": 1774608129,
+      "rd": 104
+    },
+    "best": {
+      "rating": 1901,
+      "date": 1772876331,
+      "game": "https://www.chess.com/game/live/165621614064"
+    },
+    "record": {
+      "win": 13,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1590,
+      "date": 1622458383,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1708,
+      "date": 1622217462,
+      "game": "https://www.chess.com/game/live/2304395819"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1826,
+      "date": 1776534684,
+      "rd": 160
+    },
+    "best": {
+      "rating": 1984,
+      "date": 1503957672,
+      "game": "https://www.chess.com/game/live/4801958120"
+    },
+    "record": {
+      "win": 217,
+      "loss": 118,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2062,
+      "date": 1239644213
+    },
+    "lowest": {
+      "rating": 2062,
+      "date": 1239644213
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "player_id": 219900187,
+  "@id": "https://api.chess.com/pub/player/bl00nder",
+  "url": "https://www.chess.com/member/bl00nder",
+  "name": "Phillip Humburg",
+  "username": "bl00nder",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775547652,
+  "joined": 1672784873,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1745272640,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2440,
+      "date": 1735148037,
+      "game": "https://www.chess.com/game/live/116439002023"
+    },
+    "record": {
+      "win": 151,
+      "loss": 126,
+      "draw": 28
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2525,
+      "date": 1746089305,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1713698367,
+      "game": "https://www.chess.com/game/live/130288874889"
+    },
+    "record": {
+      "win": 1540,
+      "loss": 1437,
+      "draw": 258
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2378,
+      "date": 1760950884
+    },
+    "lowest": {
+      "rating": 1990,
+      "date": 1760784324
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

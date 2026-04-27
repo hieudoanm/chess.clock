@@ -1,0 +1,68 @@
+{
+  "player_id": 40691600,
+  "@id": "https://api.chess.com/pub/player/isajevsky_anton",
+  "url": "https://www.chess.com/member/Isajevsky_Anton",
+  "name": "Anton Isajevsky",
+  "username": "isajevsky_anton",
+  "title": "FM",
+  "followers": 70,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1762924364,
+  "joined": 1511543000,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2675,
+      "date": 1687797754,
+      "rd": 172
+    },
+    "best": {
+      "rating": 2675,
+      "date": 1687797582,
+      "game": "https://www.chess.com/game/live/4855841311"
+    },
+    "record": {
+      "win": 83,
+      "loss": 41,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2626,
+      "date": 1752087613,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1735682933,
+      "game": "https://www.chess.com/game/live/133725540199"
+    },
+    "record": {
+      "win": 1856,
+      "loss": 1719,
+      "draw": 293
+    }
+  },
+  "fide": 2403,
+  "tactics": {
+    "highest": {
+      "rating": 1430,
+      "date": 1511543000
+    },
+    "lowest": {
+      "rating": 1430,
+      "date": 1511543000
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

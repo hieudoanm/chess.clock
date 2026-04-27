@@ -1,0 +1,103 @@
+{
+  "player_id": 23795724,
+  "@id": "https://api.chess.com/pub/player/sameermujumdar",
+  "url": "https://www.chess.com/member/SameerMujumdar",
+  "name": "Sameer Mujumdar",
+  "username": "sameermujumdar",
+  "title": "NM",
+  "followers": 353,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776488878,
+  "joined": 1440357405,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1466,
+      "date": 1776488853,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1841,
+      "date": 1674529914,
+      "game": "https://www.chess.com/game/daily/182949090"
+    },
+    "record": {
+      "win": 124,
+      "loss": 30,
+      "draw": 23,
+      "time_per_move": 35599,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2155,
+      "date": 1749777600,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1749777600,
+      "game": "https://www.chess.com/game/live/139010429506"
+    },
+    "record": {
+      "win": 49,
+      "loss": 24,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2606,
+      "date": 1776448360,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1771646730,
+      "game": "https://www.chess.com/game/live/165431930278"
+    },
+    "record": {
+      "win": 9672,
+      "loss": 10060,
+      "draw": 1110
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2633,
+      "date": 1776441390,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1765155617,
+      "game": "https://www.chess.com/game/live/107623407693"
+    },
+    "record": {
+      "win": 4719,
+      "loss": 4949,
+      "draw": 649
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2654,
+      "date": 1773544934
+    },
+    "lowest": {
+      "rating": 2416,
+      "date": 1756669297
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

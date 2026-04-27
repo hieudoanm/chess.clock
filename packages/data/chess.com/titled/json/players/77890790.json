@@ -1,0 +1,102 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/77890790.4bfb3a5b.200x200o.c7fb48de2f60.jpeg",
+  "player_id": 77890790,
+  "@id": "https://api.chess.com/pub/player/xaola",
+  "url": "https://www.chess.com/member/Xaola",
+  "username": "xaola",
+  "title": "FM",
+  "followers": 280,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776338277,
+  "joined": 1587930564,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1576,
+      "date": 1702544523,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1592305821,
+      "game": "https://www.chess.com/game/daily/266935886"
+    },
+    "record": {
+      "win": 8,
+      "loss": 13,
+      "draw": 1,
+      "time_per_move": 51069,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1628686467,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1592932581,
+      "game": "https://www.chess.com/game/live/5051662625"
+    },
+    "record": {
+      "win": 10,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3031,
+      "date": 1629143656,
+      "rd": 34
+    },
+    "best": {
+      "rating": 3197,
+      "date": 1599986958,
+      "game": "https://www.chess.com/game/live/5582818178"
+    },
+    "record": {
+      "win": 622,
+      "loss": 336,
+      "draw": 73
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2994,
+      "date": 1639500794,
+      "rd": 38
+    },
+    "best": {
+      "rating": 3012,
+      "date": 1638610277,
+      "game": "https://www.chess.com/game/live/32981972359"
+    },
+    "record": {
+      "win": 492,
+      "loss": 394,
+      "draw": 254
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1587930564
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1587930564
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 22,
+      "score": 19
+    }
+  }
+}

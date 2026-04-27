@@ -1,0 +1,85 @@
+{
+  "player_id": 450345564,
+  "@id": "https://api.chess.com/pub/player/nandish_08",
+  "url": "https://www.chess.com/member/Nandish_08",
+  "name": "Nandish V S",
+  "username": "nandish_08",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776581450,
+  "joined": 1746695254,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2251,
+      "date": 1775706573,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1755495166,
+      "game": "https://www.chess.com/game/live/167056269328"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2522,
+      "date": 1774334210,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2581,
+      "date": 1774087790,
+      "game": "https://www.chess.com/game/live/166232849364"
+    },
+    "record": {
+      "win": 30,
+      "loss": 22,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1776581440,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1776580108,
+      "game": "https://www.chess.com/game/live/149932094031"
+    },
+    "record": {
+      "win": 110,
+      "loss": 76,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2459,
+      "date": 1765159724
+    },
+    "lowest": {
+      "rating": 1995,
+      "date": 1755863464
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

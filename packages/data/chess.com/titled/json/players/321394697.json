@@ -1,0 +1,83 @@
+{
+  "player_id": 321394697,
+  "@id": "https://api.chess.com/pub/player/thegoatplayingchess10",
+  "url": "https://www.chess.com/member/TheGoatPlayingChess10",
+  "username": "thegoatplayingchess10",
+  "title": "FM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776533723,
+  "joined": 1698064592,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2207,
+      "date": 1758099237,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2207,
+      "date": 1758099237,
+      "game": "https://www.chess.com/game/live/143220682824"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2666,
+      "date": 1770985800,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1768578312,
+      "game": "https://www.chess.com/game/live/148089884224"
+    },
+    "record": {
+      "win": 107,
+      "loss": 84,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2814,
+      "date": 1776515582,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2880,
+      "date": 1767782201,
+      "game": "https://www.chess.com/game/live/144961891278"
+    },
+    "record": {
+      "win": 1164,
+      "loss": 1358,
+      "draw": 153
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2376,
+      "date": 1759143901
+    },
+    "lowest": {
+      "rating": 2128,
+      "date": 1773847260
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

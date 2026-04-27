@@ -1,0 +1,62 @@
+{
+  "player_id": 453752840,
+  "@id": "https://api.chess.com/pub/player/ka_acc",
+  "url": "https://www.chess.com/member/ka_acc",
+  "username": "ka_acc",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/JP",
+  "last_online": 1776340854,
+  "joined": 1747972971,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1760936595,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2108,
+      "date": 1760935444,
+      "game": "https://www.chess.com/game/live/144501852210"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2330,
+      "date": 1766240352,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2339,
+      "date": 1763704903,
+      "game": "https://www.chess.com/game/live/144046734538"
+    },
+    "record": {
+      "win": 297,
+      "loss": 341,
+      "draw": 52
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1747972971
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1747972971
+    }
+  },
+  "puzzle_rush": {}
+}

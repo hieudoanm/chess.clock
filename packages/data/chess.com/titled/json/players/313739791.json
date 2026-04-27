@@ -1,0 +1,84 @@
+{
+  "player_id": 313739791,
+  "@id": "https://api.chess.com/pub/player/mystery2007",
+  "url": "https://www.chess.com/member/Mystery2007",
+  "name": "Bertalan Szikszai",
+  "username": "mystery2007",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776355939,
+  "joined": 1695054562,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2289,
+      "date": 1774643935,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1753542424,
+      "game": "https://www.chess.com/game/live/97509581809"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2354,
+      "date": 1753964562,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1701274783,
+      "game": "https://www.chess.com/game/live/95013517903"
+    },
+    "record": {
+      "win": 63,
+      "loss": 41,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2628,
+      "date": 1776355922,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1761761079,
+      "game": "https://www.chess.com/game/live/149853496473"
+    },
+    "record": {
+      "win": 642,
+      "loss": 629,
+      "draw": 111
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1695054562
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1695054562
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

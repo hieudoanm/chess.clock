@@ -1,0 +1,66 @@
+{
+  "player_id": 77578420,
+  "@id": "https://api.chess.com/pub/player/yuliyashvayger1",
+  "url": "https://www.chess.com/member/YuliyaShvayger1",
+  "name": "Yuliya Shvayger",
+  "username": "yuliyashvayger1",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776339693,
+  "joined": 1587652776,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2196,
+      "date": 1631288488,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2303,
+      "date": 1630589421,
+      "game": "https://www.chess.com/game/live/24934955903"
+    },
+    "record": {
+      "win": 7,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2280,
+      "date": 1614117616,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1597238824,
+      "game": "https://www.chess.com/game/live/5290714097"
+    },
+    "record": {
+      "win": 30,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1587652776
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1587652776
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 328884927,
+  "@id": "https://api.chess.com/pub/player/vesapesa",
+  "url": "https://www.chess.com/member/Vesapesa",
+  "name": "Vesna Mihelic",
+  "username": "vesapesa",
+  "title": "WFM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/SI",
+  "last_online": 1774860478,
+  "joined": 1701107729,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1513,
+      "date": 1763544888,
+      "rd": 205
+    },
+    "best": {
+      "rating": 1600,
+      "date": 1701107729,
+      "game": "https://www.chess.com/game/daily/703192391"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 50466,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2168,
+      "date": 1732282846,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2168,
+      "date": 1708962206,
+      "game": "https://www.chess.com/game/live/102700220635"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2192,
+      "date": 1762974659,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1708515199,
+      "game": "https://www.chess.com/game/live/105047553169"
+    },
+    "record": {
+      "win": 39,
+      "loss": 17,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2225,
+      "date": 1727900357,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1702914034,
+      "game": "https://www.chess.com/game/live/102789114785"
+    },
+    "record": {
+      "win": 117,
+      "loss": 98,
+      "draw": 31
+    }
+  },
+  "fide": 2097,
+  "tactics": {
+    "highest": {
+      "rating": 2487,
+      "date": 1758561415
+    },
+    "lowest": {
+      "rating": 2264,
+      "date": 1773934249
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

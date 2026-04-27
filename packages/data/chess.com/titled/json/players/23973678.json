@@ -1,0 +1,124 @@
+{
+  "player_id": 23973678,
+  "@id": "https://api.chess.com/pub/player/sondremelaa",
+  "url": "https://www.chess.com/member/Sondremelaa",
+  "name": "Sondre Melaa",
+  "username": "sondremelaa",
+  "title": "FM",
+  "followers": 57,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Oslo",
+  "last_online": 1776524068,
+  "joined": 1441440307,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1481,
+      "date": 1771752502,
+      "rd": 103
+    },
+    "best": {
+      "rating": 1626,
+      "date": 1577974756,
+      "game": "https://www.chess.com/game/daily/167097588"
+    },
+    "record": {
+      "win": 78,
+      "loss": 28,
+      "draw": 7,
+      "time_per_move": 39682,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1422,
+      "date": 1470832702,
+      "rd": 268
+    },
+    "best": {
+      "rating": 1422,
+      "date": 1470832702,
+      "game": "https://www.chess.com/game/daily/140771448"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 39682,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2315,
+      "date": 1722576064,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1722575360,
+      "game": "https://www.chess.com/game/live/45171662105"
+    },
+    "record": {
+      "win": 57,
+      "loss": 20,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2824,
+      "date": 1776510000,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2834,
+      "date": 1776315388,
+      "game": "https://www.chess.com/game/live/131422805315"
+    },
+    "record": {
+      "win": 3328,
+      "loss": 2446,
+      "draw": 436
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2724,
+      "date": 1776478591,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2831,
+      "date": 1774223816,
+      "game": "https://www.chess.com/game/live/130026606485"
+    },
+    "record": {
+      "win": 9791,
+      "loss": 7135,
+      "draw": 1870
+    }
+  },
+  "fide": 2315,
+  "tactics": {
+    "highest": {
+      "rating": 2568,
+      "date": 1756843633
+    },
+    "lowest": {
+      "rating": 2475,
+      "date": 1775569637
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/363761871.15f37f81.200x200o.fee7561ce773.jpg",
+    "player_id": 363761871,
+    "@id": "https://api.chess.com/pub/player/dreadfuldreamer",
+    "url": "https://www.chess.com/member/DreadfulDreamer",
+    "name": "Tarzan",
+    "username": "dreadfuldreamer",
+    "title": "FM",
+    "followers": 3,
+    "country": "https://api.chess.com/pub/country/SC",
+    "last_online": 1741703490,
+    "joined": 1715952489,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1600,
+            "date": 1728719634,
+            "rd": 350
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 64,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2501,
+            "date": 1739189112,
+            "rd": 44
+        },
+        "best": {
+            "rating": 2501,
+            "date": 1739188642,
+            "game": "https://www.chess.com/game/live/125592523613"
+        },
+        "record": {
+            "win": 58,
+            "loss": 18,
+            "draw": 14
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2805,
+            "date": 1740984934,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2805,
+            "date": 1728641855,
+            "game": "https://www.chess.com/game/live/122380449723"
+        },
+        "record": {
+            "win": 144,
+            "loss": 84,
+            "draw": 13
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2850,
+            "date": 1741546019,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2835,
+            "date": 1732547837,
+            "game": "https://www.chess.com/game/live/124471797717"
+        },
+        "record": {
+            "win": 365,
+            "loss": 371,
+            "draw": 106
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 3805,
+            "date": 1738769809
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1715952489
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 58,
+            "score": 55
+        }
+    }
+}

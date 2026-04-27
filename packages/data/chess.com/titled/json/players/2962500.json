@@ -1,0 +1,86 @@
+{
+  "player_id": 2962500,
+  "@id": "https://api.chess.com/pub/player/matmaskinen",
+  "url": "https://www.chess.com/member/Matmaskinen",
+  "name": "Marie Frank",
+  "username": "matmaskinen",
+  "title": "WFM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/DK",
+  "last_online": 1776338615,
+  "joined": 1211783033,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1487,
+      "date": 1657528089,
+      "rd": 227
+    },
+    "best": {
+      "rating": 1487,
+      "date": 1625921769,
+      "game": "https://www.chess.com/game/daily/35029029"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 35582,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1640,
+      "date": 1620835044,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2007,
+      "date": 1586960352,
+      "game": "https://www.chess.com/game/live/14573856175"
+    },
+    "record": {
+      "win": 9,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1886,
+      "date": 1694029559,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2011,
+      "date": 1608469066,
+      "game": "https://www.chess.com/game/live/87508297859"
+    },
+    "record": {
+      "win": 36,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2034,
+      "date": 1211783033
+    },
+    "lowest": {
+      "rating": 2034,
+      "date": 1211783033
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

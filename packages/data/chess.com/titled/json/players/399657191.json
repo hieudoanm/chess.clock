@@ -1,0 +1,62 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/399657191.358445f8.200x200o.addfff5ec701.jpg",
+  "player_id": 399657191,
+  "@id": "https://api.chess.com/pub/player/gongochess",
+  "url": "https://www.chess.com/member/gongochess",
+  "name": "Maikel Gongora",
+  "username": "gongochess",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Miami FL",
+  "last_online": 1755445160,
+  "joined": 1730410817,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1734561503,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 545,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2389,
+      "date": 1744518699,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1731956079,
+      "game": "https://www.chess.com/game/live/125694581179"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "fide": 2423,
+  "tactics": {
+    "highest": {
+      "rating": 2243,
+      "date": 1730410817
+    },
+    "lowest": {
+      "rating": 2243,
+      "date": 1730410817
+    }
+  },
+  "puzzle_rush": {}
+}

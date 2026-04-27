@@ -1,0 +1,113 @@
+{
+  "player_id": 23866798,
+  "@id": "https://api.chess.com/pub/player/ivanooob",
+  "url": "https://www.chess.com/member/ivanooob",
+  "name": "Ivan Gil Biag",
+  "username": "ivanooob",
+  "title": "FM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/PH",
+  "location": "New York",
+  "last_online": 1776375580,
+  "joined": 1440789096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 946,
+      "date": 1736614284,
+      "rd": 290
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1440789096,
+      "game": "https://www.chess.com/game/daily/194682220"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 319675,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 254,
+      "date": 1736614284,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 319675,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1992,
+      "date": 1743289597,
+      "rd": 49
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2809,
+      "date": 1776359364,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2927,
+      "date": 1769015528,
+      "game": "https://www.chess.com/game/live/148319024154"
+    },
+    "record": {
+      "win": 3195,
+      "loss": 2927,
+      "draw": 339
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2697,
+      "date": 1772736453,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2705,
+      "date": 1772217711,
+      "game": "https://www.chess.com/game/live/165241422928"
+    },
+    "record": {
+      "win": 808,
+      "loss": 731,
+      "draw": 94
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2731,
+      "date": 1440789096
+    },
+    "lowest": {
+      "rating": 2731,
+      "date": 1440789096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 46
+    }
+  }
+}

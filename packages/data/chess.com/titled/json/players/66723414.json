@@ -1,0 +1,85 @@
+{
+  "player_id": 66723414,
+  "@id": "https://api.chess.com/pub/player/ukrop2019",
+  "url": "https://www.chess.com/member/Ukrop2019",
+  "name": "Alexander Prihodko",
+  "username": "ukrop2019",
+  "title": "FM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/UA",
+  "location": "\u041a\u0438\u0457\u0432",
+  "last_online": 1599648805,
+  "joined": 1571178544,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2390,
+      "date": 1598816699,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1598816699,
+      "game": "https://www.chess.com/game/live/5374194252"
+    },
+    "record": {
+      "win": 20,
+      "loss": 1,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2404,
+      "date": 1598810900,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1598280553,
+      "game": "https://www.chess.com/game/live/5373832559"
+    },
+    "record": {
+      "win": 56,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2390,
+      "date": 1599310486,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1598812433,
+      "game": "https://www.chess.com/game/live/4801285965"
+    },
+    "record": {
+      "win": 108,
+      "loss": 23,
+      "draw": 9
+    }
+  },
+  "fide": 2390,
+  "tactics": {
+    "highest": {
+      "rating": 2528,
+      "date": 1571178544
+    },
+    "lowest": {
+      "rating": 2528,
+      "date": 1571178544
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

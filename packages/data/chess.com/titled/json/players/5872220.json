@@ -1,0 +1,123 @@
+{
+  "player_id": 5872220,
+  "@id": "https://api.chess.com/pub/player/bmagnum2002",
+  "url": "https://www.chess.com/member/bmagnum2002",
+  "name": "Ben Magana",
+  "username": "bmagnum2002",
+  "title": "CM",
+  "followers": 212,
+  "country": "https://api.chess.com/pub/country/KE",
+  "location": "Chulaimbo",
+  "last_online": 1776192999,
+  "joined": 1317308236,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1871,
+      "date": 1486590009,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2098,
+      "date": 1436448983,
+      "game": "https://www.chess.com/game/daily/117844412"
+    },
+    "record": {
+      "win": 20,
+      "loss": 10,
+      "draw": 1,
+      "time_per_move": 93172,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1308,
+      "date": 1443534935,
+      "rd": 191
+    },
+    "best": {
+      "rating": 1458,
+      "date": 1437062078,
+      "game": "https://www.chess.com/game/daily/106789528"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 93172,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1923,
+      "date": 1776014127,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2046,
+      "date": 1628969986,
+      "game": "https://www.chess.com/game/live/170326849633"
+    },
+    "record": {
+      "win": 19,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1978,
+      "date": 1756622064,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1379078253,
+      "game": "https://www.chess.com/game/live/612772314"
+    },
+    "record": {
+      "win": 122,
+      "loss": 73,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2079,
+      "date": 1769367691,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2105,
+      "date": 1769365690,
+      "game": "https://www.chess.com/game/live/163678507839"
+    },
+    "record": {
+      "win": 5968,
+      "loss": 6134,
+      "draw": 744
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1795,
+      "date": 1767851746
+    },
+    "lowest": {
+      "rating": 1720,
+      "date": 1767851316
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 24,
+      "score": 21
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "player_id": 16811014,
+  "@id": "https://api.chess.com/pub/player/daesdo",
+  "url": "https://www.chess.com/member/DAESDO",
+  "name": "Daniel Dominguez",
+  "username": "daesdo",
+  "title": "FM",
+  "followers": 179,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Sanl\u00facar de Barrameda",
+  "last_online": 1776459304,
+  "joined": 1396958964,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1557,
+      "date": 1764007592,
+      "rd": 247
+    },
+    "best": {
+      "rating": 1557,
+      "date": 1555013198,
+      "game": "https://www.chess.com/game/daily/222714976"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 7612,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2900,
+      "date": 1774898426,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1766916885,
+      "game": "https://www.chess.com/game/live/165902303974"
+    },
+    "record": {
+      "win": 6817,
+      "loss": 6515,
+      "draw": 1075
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2765,
+      "date": 1776459010,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1759055210,
+      "game": "https://www.chess.com/game/live/61326029227"
+    },
+    "record": {
+      "win": 3835,
+      "loss": 3581,
+      "draw": 801
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2224,
+      "date": 1764349639
+    },
+    "lowest": {
+      "rating": 2031,
+      "date": 1765383705
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 39
+    }
+  }
+}

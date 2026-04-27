@@ -1,0 +1,103 @@
+{
+  "player_id": 79738142,
+  "@id": "https://api.chess.com/pub/player/chess123456s",
+  "url": "https://www.chess.com/member/chess123456s",
+  "name": "Shubh Laddha",
+  "username": "chess123456s",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776530091,
+  "joined": 1589701852,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1757,
+      "date": 1711689504,
+      "rd": 286
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1601356202,
+      "game": "https://www.chess.com/game/daily/280284958"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 13940,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2105,
+      "date": 1741795797,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2148,
+      "date": 1614442000,
+      "game": "https://www.chess.com/game/live/8180001131"
+    },
+    "record": {
+      "win": 10,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2769,
+      "date": 1776530077,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2897,
+      "date": 1768635818,
+      "game": "https://www.chess.com/game/live/101330475009"
+    },
+    "record": {
+      "win": 7239,
+      "loss": 6076,
+      "draw": 1134
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2649,
+      "date": 1775164909,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1760300435,
+      "game": "https://www.chess.com/game/live/81012190211"
+    },
+    "record": {
+      "win": 3418,
+      "loss": 3060,
+      "draw": 921
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2348,
+      "date": 1763016956
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1760445051
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

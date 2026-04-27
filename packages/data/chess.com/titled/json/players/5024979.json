@@ -1,0 +1,107 @@
+{
+  "player_id": 5024979,
+  "@id": "https://api.chess.com/pub/player/potpiedude",
+  "url": "https://www.chess.com/member/potpiedude",
+  "username": "potpiedude",
+  "title": "NM",
+  "followers": 55,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776567804,
+  "joined": 1303526007,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1466,
+      "date": 1758410665,
+      "rd": 145
+    },
+    "best": {
+      "rating": 1466,
+      "date": 1757324910,
+      "game": "https://www.chess.com/game/daily/688202991"
+    },
+    "record": {
+      "win": 21,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 17908,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2438,
+      "date": 1638565380,
+      "rd": 206
+    },
+    "best": {
+      "rating": 2564,
+      "date": 1628046681,
+      "game": "https://www.chess.com/game/live/21784788197"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2578,
+      "date": 1776567795,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2810,
+      "date": 1733873669,
+      "game": "https://www.chess.com/game/live/139932171766"
+    },
+    "record": {
+      "win": 24254,
+      "loss": 17185,
+      "draw": 1817
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2536,
+      "date": 1773727539,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1630265165,
+      "game": "https://www.chess.com/game/live/11644996269"
+    },
+    "record": {
+      "win": 1361,
+      "loss": 697,
+      "draw": 107
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2642,
+      "date": 1757408426
+    },
+    "lowest": {
+      "rating": 2305,
+      "date": 1764264925
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    },
+    "daily": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

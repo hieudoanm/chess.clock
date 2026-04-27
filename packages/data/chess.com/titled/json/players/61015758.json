@@ -1,0 +1,90 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/61015758.9e91ce91.200x200o.6d1520c39dcf.jpeg",
+  "player_id": 61015758,
+  "@id": "https://api.chess.com/pub/player/chessmood",
+  "url": "https://www.chess.com/member/ChessMood",
+  "username": "chessmood",
+  "title": "GM",
+  "followers": 978,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776521410,
+  "joined": 1557928372,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessmood",
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessmood"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2589,
+      "date": 1773579849,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1756705726,
+      "game": "https://www.chess.com/game/live/165975412508"
+    },
+    "record": {
+      "win": 21,
+      "loss": 2,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2353,
+      "date": 1690263743,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2353,
+      "date": 1654184837,
+      "game": "https://www.chess.com/game/live/47921442215"
+    },
+    "record": {
+      "win": 40,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2930,
+      "date": 1776521273,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3073,
+      "date": 1734119775,
+      "game": "https://www.chess.com/game/live/127833014565"
+    },
+    "record": {
+      "win": 1754,
+      "loss": 979,
+      "draw": 283
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1557928372
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1557928372
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

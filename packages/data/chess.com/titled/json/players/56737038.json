@@ -1,0 +1,85 @@
+{
+  "player_id": 56737038,
+  "@id": "https://api.chess.com/pub/player/mr65",
+  "url": "https://www.chess.com/member/mr65",
+  "name": "Jan Roebers",
+  "username": "mr65",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Amsterdam",
+  "last_online": 1771862781,
+  "joined": 1548880875,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1854,
+      "date": 1693819543,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1936,
+      "date": 1637405131,
+      "game": "https://www.chess.com/game/live/31143012559"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1868,
+      "date": 1753986567,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2389,
+      "date": 1617133187,
+      "game": "https://www.chess.com/game/live/10871927801"
+    },
+    "record": {
+      "win": 38,
+      "loss": 45,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2197,
+      "date": 1752596211,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1631642301,
+      "game": "https://www.chess.com/game/live/133028386949"
+    },
+    "record": {
+      "win": 558,
+      "loss": 803,
+      "draw": 169
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2069,
+      "date": 1548880875
+    },
+    "lowest": {
+      "rating": 2069,
+      "date": 1548880875
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

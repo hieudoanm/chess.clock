@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35232666.266a0d22.200x200o.0c2253222410.jpeg",
+  "player_id": 35232666,
+  "@id": "https://api.chess.com/pub/player/devonlaratt",
+  "url": "https://www.chess.com/member/devonlaratt",
+  "username": "devonlaratt",
+  "title": "GM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/CA",
+  "location": "The one and only",
+  "last_online": 1776557385,
+  "joined": 1493759976,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1443,
+      "date": 1742953099,
+      "rd": 154
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1493759976,
+      "game": "https://www.chess.com/game/daily/199187398"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 132014,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1650312917,
+      "rd": 329
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1650312316,
+      "game": "https://www.chess.com/game/live/44051087533"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2928,
+      "date": 1768481775,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2948,
+      "date": 1768427934,
+      "game": "https://www.chess.com/game/live/148018421372"
+    },
+    "record": {
+      "win": 140,
+      "loss": 59,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3002,
+      "date": 1775166345,
+      "rd": 48
+    },
+    "best": {
+      "rating": 3025,
+      "date": 1768479734,
+      "game": "https://www.chess.com/game/live/116690977029"
+    },
+    "record": {
+      "win": 1834,
+      "loss": 1310,
+      "draw": 512
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2780,
+      "date": 1765746824
+    },
+    "lowest": {
+      "rating": 2462,
+      "date": 1765746843
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "player_id": 4177617,
+  "@id": "https://api.chess.com/pub/player/cavschess2",
+  "url": "https://www.chess.com/member/cavschess2",
+  "name": "Craig Jones",
+  "username": "cavschess2",
+  "title": "NM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chapel Hill",
+  "last_online": 1776173899,
+  "joined": 1288278120,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2189,
+      "date": 1729460866,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1699216187,
+      "game": "https://www.chess.com/game/live/5875026897"
+    },
+    "record": {
+      "win": 76,
+      "loss": 26,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2167,
+      "date": 1772182931,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2271,
+      "date": 1712044643,
+      "game": "https://www.chess.com/game/live/164479444680"
+    },
+    "record": {
+      "win": 1130,
+      "loss": 1113,
+      "draw": 117
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2181,
+      "date": 1776173888,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1608101390,
+      "game": "https://www.chess.com/game/live/145727175526"
+    },
+    "record": {
+      "win": 986,
+      "loss": 892,
+      "draw": 130
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2479,
+      "date": 1759898929
+    },
+    "lowest": {
+      "rating": 2233,
+      "date": 1760827547
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

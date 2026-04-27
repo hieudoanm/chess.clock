@@ -1,0 +1,98 @@
+{
+  "player_id": 41925488,
+  "@id": "https://api.chess.com/pub/player/knjazj",
+  "url": "https://www.chess.com/member/Knjazj",
+  "name": "Sergey Dmitriev",
+  "username": "knjazj",
+  "title": "FM",
+  "followers": 89,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776592667,
+  "joined": 1514902631,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1771752516,
+      "rd": 350
+    },
+    "record": {
+      "win": 10,
+      "loss": 36,
+      "draw": 0,
+      "time_per_move": 0,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2190,
+      "date": 1776597474,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2258,
+      "date": 1768291634,
+      "game": "https://www.chess.com/game/live/147887883882"
+    },
+    "record": {
+      "win": 2961,
+      "loss": 3459,
+      "draw": 624
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1576,
+      "date": 1723399238,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1844,
+      "date": 1586098561,
+      "game": "https://www.chess.com/game/live/6026134845"
+    },
+    "record": {
+      "win": 22,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2026,
+      "date": 1774651592,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2164,
+      "date": 1641868462,
+      "game": "https://www.chess.com/game/live/78009779509"
+    },
+    "record": {
+      "win": 8331,
+      "loss": 9232,
+      "draw": 1417
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2382,
+      "date": 1763246507
+    },
+    "lowest": {
+      "rating": 1951,
+      "date": 1774023042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 24
+    }
+  }
+}

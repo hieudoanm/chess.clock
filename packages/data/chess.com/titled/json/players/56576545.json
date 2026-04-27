@@ -1,0 +1,79 @@
+{
+  "player_id": 56576545,
+  "@id": "https://api.chess.com/pub/player/aidnet",
+  "url": "https://www.chess.com/member/aidnet",
+  "name": "Robert Bator",
+  "username": "aidnet",
+  "title": "IM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/SE",
+  "last_online": 1760137635,
+  "joined": 1548551641,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2078,
+      "date": 1673395423,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2078,
+      "date": 1673395423,
+      "game": "https://www.chess.com/game/live/47746178495"
+    },
+    "record": {
+      "win": 20,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2417,
+      "date": 1566073619,
+      "rd": 122
+    },
+    "best": {
+      "rating": 2267,
+      "date": 1566073619,
+      "game": "https://www.chess.com/game/live/3956511934"
+    },
+    "record": {
+      "win": 16,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2664,
+      "date": 1675188993,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2693,
+      "date": 1570056604,
+      "game": "https://www.chess.com/game/live/67362026853"
+    },
+    "record": {
+      "win": 3402,
+      "loss": 3010,
+      "draw": 466
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2614,
+      "date": 1548551641
+    },
+    "lowest": {
+      "rating": 2614,
+      "date": 1548551641
+    }
+  },
+  "puzzle_rush": {}
+}

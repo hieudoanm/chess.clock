@@ -1,0 +1,105 @@
+{
+  "player_id": 40931028,
+  "@id": "https://api.chess.com/pub/player/hyxiom",
+  "url": "https://www.chess.com/member/Hyxiom",
+  "name": "Manuel Apicella",
+  "username": "hyxiom",
+  "title": "GM",
+  "followers": 87,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Grasse",
+  "last_online": 1776419941,
+  "joined": 1512214365,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1873,
+      "date": 1767864519,
+      "rd": 277
+    },
+    "best": {
+      "rating": 1873,
+      "date": 1736326801,
+      "game": "https://www.chess.com/game/daily/492116927"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 269781,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1988,
+      "date": 1711645545,
+      "rd": 267
+    },
+    "best": {
+      "rating": 1988,
+      "date": 1711643569,
+      "game": "https://www.chess.com/game/live/105381738983"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1619,
+      "date": 1633002726,
+      "rd": 197
+    },
+    "best": {
+      "rating": 1850,
+      "date": 1553719198,
+      "game": "https://www.chess.com/game/live/3569682214"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2115,
+      "date": 1718898427,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2374,
+      "date": 1544723969,
+      "game": "https://www.chess.com/game/live/3337771420"
+    },
+    "record": {
+      "win": 70,
+      "loss": 26,
+      "draw": 5
+    }
+  },
+  "fide": 2510,
+  "tactics": {
+    "highest": {
+      "rating": 2216,
+      "date": 1512214365
+    },
+    "lowest": {
+      "rating": 2216,
+      "date": 1512214365
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 40
+    }
+  }
+}

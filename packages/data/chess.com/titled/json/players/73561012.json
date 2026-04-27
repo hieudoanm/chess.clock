@@ -1,0 +1,85 @@
+{
+  "player_id": 73561012,
+  "@id": "https://api.chess.com/pub/player/chessma48",
+  "url": "https://www.chess.com/member/ChessMA48",
+  "name": "Alina Mihailova",
+  "username": "chessma48",
+  "title": "WFM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/MD",
+  "last_online": 1776441544,
+  "joined": 1584273521,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1992,
+      "date": 1773421749,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2012,
+      "date": 1631104157,
+      "game": "https://www.chess.com/game/live/4892280418"
+    },
+    "record": {
+      "win": 35,
+      "loss": 13,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2225,
+      "date": 1773607348,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2247,
+      "date": 1756463026,
+      "game": "https://www.chess.com/game/live/125864322219"
+    },
+    "record": {
+      "win": 136,
+      "loss": 102,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2227,
+      "date": 1742414675,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1713885511,
+      "game": "https://www.chess.com/game/live/107624018441"
+    },
+    "record": {
+      "win": 53,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "fide": 1987,
+  "tactics": {
+    "highest": {
+      "rating": 2341,
+      "date": 1584273521
+    },
+    "lowest": {
+      "rating": 2341,
+      "date": 1584273521
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

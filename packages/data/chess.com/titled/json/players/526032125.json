@@ -1,0 +1,87 @@
+{
+  "player_id": 526032125,
+  "@id": "https://api.chess.com/pub/player/randomoutplayer",
+  "url": "https://www.chess.com/member/RandomOutplayer",
+  "username": "randomoutplayer",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776591748,
+  "joined": 1770096827,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1770099649
+    },
+    "best": {
+      "rating": 1501,
+      "date": 1770097337,
+      "game": "https://www.chess.com/game/live/164167400456"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2264,
+      "date": 1776445772,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2313,
+      "date": 1772553333,
+      "game": "https://www.chess.com/game/live/165460028150"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2617,
+      "date": 1776451240,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2671,
+      "date": 1775928491,
+      "game": "https://www.chess.com/game/live/166425055706"
+    },
+    "record": {
+      "win": 409,
+      "loss": 261,
+      "draw": 30
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2298,
+      "date": 1773914825
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1770096828
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    },
+    "daily": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

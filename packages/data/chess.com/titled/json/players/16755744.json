@@ -1,0 +1,87 @@
+{
+  "player_id": 16755744,
+  "@id": "https://api.chess.com/pub/player/puzzle34",
+  "url": "https://www.chess.com/member/Puzzle34",
+  "name": "Jiri Tuma",
+  "username": "puzzle34",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776154516,
+  "joined": 1396631199,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2413,
+      "date": 1714061813,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1534024745,
+      "game": "https://www.chess.com/game/daily/190562082"
+    },
+    "record": {
+      "win": 210,
+      "loss": 44,
+      "draw": 8,
+      "time_per_move": 60788,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2122,
+      "date": 1542257326,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2144,
+      "date": 1541694890,
+      "game": "https://www.chess.com/game/daily/198414382"
+    },
+    "record": {
+      "win": 34,
+      "loss": 8,
+      "draw": 3,
+      "time_per_move": 60788,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2060,
+      "date": 1617147459,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1611531790,
+      "game": "https://www.chess.com/game/live/6358634918"
+    },
+    "record": {
+      "win": 5,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2475,
+      "date": 1396631199
+    },
+    "lowest": {
+      "rating": 2475,
+      "date": 1396631199
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

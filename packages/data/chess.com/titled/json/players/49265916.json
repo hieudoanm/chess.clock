@@ -1,0 +1,104 @@
+{
+  "player_id": 49265916,
+  "@id": "https://api.chess.com/pub/player/giantgoogachess",
+  "url": "https://www.chess.com/member/Giantgoogachess",
+  "name": "Gary Leschinsky",
+  "username": "giantgoogachess",
+  "title": "NM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776561478,
+  "joined": 1535640558,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1733,
+      "date": 1707557325,
+      "rd": 142
+    },
+    "best": {
+      "rating": 1847,
+      "date": 1539472743,
+      "game": "https://www.chess.com/game/daily/284053096"
+    },
+    "record": {
+      "win": 43,
+      "loss": 35,
+      "draw": 7,
+      "time_per_move": 17905,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2215,
+      "date": 1772476351,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1675544579,
+      "game": "https://www.chess.com/game/live/69281885017"
+    },
+    "record": {
+      "win": 42,
+      "loss": 24,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2662,
+      "date": 1776000157,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2788,
+      "date": 1762489199,
+      "game": "https://www.chess.com/game/live/127332036315"
+    },
+    "record": {
+      "win": 892,
+      "loss": 702,
+      "draw": 137
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1776383186,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2724,
+      "date": 1775674467,
+      "game": "https://www.chess.com/game/live/166870114378"
+    },
+    "record": {
+      "win": 1867,
+      "loss": 1517,
+      "draw": 277
+    }
+  },
+  "fide": 2165,
+  "tactics": {
+    "highest": {
+      "rating": 2146,
+      "date": 1535640558
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1535640558
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

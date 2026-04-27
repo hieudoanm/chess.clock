@@ -1,0 +1,123 @@
+{
+  "player_id": 14074142,
+  "@id": "https://api.chess.com/pub/player/christopheryoo",
+  "url": "https://www.chess.com/member/ChristopherYoo",
+  "name": "Christopher Woojin Yoo",
+  "username": "christopheryoo",
+  "title": "GM",
+  "followers": 7679,
+  "country": "https://api.chess.com/pub/country/TV",
+  "last_online": 1776581381,
+  "joined": 1382868780,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1865,
+      "date": 1776569489,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1557206242,
+      "game": "https://www.chess.com/game/daily/885343479"
+    },
+    "record": {
+      "win": 220,
+      "loss": 80,
+      "draw": 10,
+      "time_per_move": 34866,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1701,
+      "date": 1704845839,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1701,
+      "date": 1704845839,
+      "game": "https://www.chess.com/game/daily/419649953"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 34866,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2746,
+      "date": 1776296620,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2871,
+      "date": 1606688097,
+      "game": "https://www.chess.com/game/live/50524238601"
+    },
+    "record": {
+      "win": 517,
+      "loss": 147,
+      "draw": 125
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3063,
+      "date": 1756271145,
+      "rd": 39
+    },
+    "best": {
+      "rating": 3162,
+      "date": 1740249082,
+      "game": "https://www.chess.com/game/live/29132954681"
+    },
+    "record": {
+      "win": 4052,
+      "loss": 1912,
+      "draw": 541
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3146,
+      "date": 1776579137,
+      "rd": 44
+    },
+    "best": {
+      "rating": 3161,
+      "date": 1776466340,
+      "game": "https://www.chess.com/game/live/126403147881"
+    },
+    "record": {
+      "win": 8474,
+      "loss": 3839,
+      "draw": 1635
+    }
+  },
+  "fide": 2607,
+  "tactics": {
+    "highest": {
+      "rating": 2614,
+      "date": 1382868780
+    },
+    "lowest": {
+      "rating": 2614,
+      "date": 1382868780
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

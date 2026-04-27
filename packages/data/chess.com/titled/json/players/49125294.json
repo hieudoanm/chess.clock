@@ -1,0 +1,98 @@
+{
+  "player_id": 49125294,
+  "@id": "https://api.chess.com/pub/player/politov_pavel",
+  "url": "https://www.chess.com/member/Politov_Pavel",
+  "name": "Pavel Politov",
+  "username": "politov_pavel",
+  "title": "FM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1763481988,
+  "joined": 1535261121,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1679567913,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 342119,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1649,
+      "date": 1637125651,
+      "rd": 178
+    },
+    "best": {
+      "rating": 1984,
+      "date": 1623339899,
+      "game": "https://www.chess.com/game/live/30864537029"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1763482323,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2599,
+      "date": 1763475440,
+      "game": "https://www.chess.com/game/live/10954050485"
+    },
+    "record": {
+      "win": 379,
+      "loss": 273,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2349,
+      "date": 1753201483,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1751384464,
+      "game": "https://www.chess.com/game/live/6428712465"
+    },
+    "record": {
+      "win": 642,
+      "loss": 590,
+      "draw": 66
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2337,
+      "date": 1535261121
+    },
+    "lowest": {
+      "rating": 2337,
+      "date": 1535261121
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

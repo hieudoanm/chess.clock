@@ -1,0 +1,104 @@
+{
+  "player_id": 40358710,
+  "@id": "https://api.chess.com/pub/player/darkalekhine",
+  "url": "https://www.chess.com/member/DarkAlekhine",
+  "name": "Stamatis Kourkoulos-Arditis",
+  "username": "darkalekhine",
+  "title": "GM",
+  "followers": 335,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776444668,
+  "joined": 1510663226,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1355,
+      "date": 1698226936,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1964,
+      "date": 1514837190,
+      "game": "https://www.chess.com/game/daily/179443744"
+    },
+    "record": {
+      "win": 7,
+      "loss": 25,
+      "draw": 0,
+      "time_per_move": 26544,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2510,
+      "date": 1773861469,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2510,
+      "date": 1773861469,
+      "game": "https://www.chess.com/game/live/168164414743"
+    },
+    "record": {
+      "win": 31,
+      "loss": 27,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2775,
+      "date": 1771948581,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2825,
+      "date": 1750150206,
+      "game": "https://www.chess.com/game/live/139996693950"
+    },
+    "record": {
+      "win": 129,
+      "loss": 108,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2958,
+      "date": 1773772201,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2981,
+      "date": 1772876570,
+      "game": "https://www.chess.com/game/live/168081618635"
+    },
+    "record": {
+      "win": 4675,
+      "loss": 4534,
+      "draw": 733
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2881,
+      "date": 1510663226
+    },
+    "lowest": {
+      "rating": 2881,
+      "date": 1510663226
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

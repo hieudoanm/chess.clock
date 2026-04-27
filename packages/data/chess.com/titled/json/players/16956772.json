@@ -1,0 +1,55 @@
+{
+  "player_id": 16956772,
+  "@id": "https://api.chess.com/pub/player/bmw326",
+  "url": "https://www.chess.com/member/bmw326",
+  "username": "bmw326",
+  "title": "GM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776127641,
+  "joined": 1397833422,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2097,
+      "date": 1627285798,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2637,
+      "date": 1639724813,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2758,
+      "date": 1626954553,
+      "game": "https://www.chess.com/game/live/18097859123"
+    },
+    "record": {
+      "win": 193,
+      "loss": 103,
+      "draw": 22
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2457,
+      "date": 1397833422
+    },
+    "lowest": {
+      "rating": 2457,
+      "date": 1397833422
+    }
+  },
+  "puzzle_rush": {}
+}

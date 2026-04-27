@@ -1,0 +1,103 @@
+{
+  "player_id": 47815314,
+  "@id": "https://api.chess.com/pub/player/austen48",
+  "url": "https://www.chess.com/member/Austen48",
+  "name": "Jenny Astrid Chirivi Castiblanco",
+  "username": "austen48",
+  "title": "WIM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776583456,
+  "joined": 1531399440,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1459,
+      "date": 1705009086,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1529,
+      "date": 1579467837,
+      "game": "https://www.chess.com/game/daily/246560192"
+    },
+    "record": {
+      "win": 16,
+      "loss": 4,
+      "draw": 2,
+      "time_per_move": 8103,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2116,
+      "date": 1648685328,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2283,
+      "date": 1597598911,
+      "game": "https://www.chess.com/game/live/5306425673"
+    },
+    "record": {
+      "win": 18,
+      "loss": 7,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2126,
+      "date": 1631289638,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2223,
+      "date": 1630595322,
+      "game": "https://www.chess.com/game/live/24334240641"
+    },
+    "record": {
+      "win": 136,
+      "loss": 92,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2251,
+      "date": 1733869658,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1683043049,
+      "game": "https://www.chess.com/game/live/112461682781"
+    },
+    "record": {
+      "win": 351,
+      "loss": 332,
+      "draw": 51
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2282,
+      "date": 1531399440
+    },
+    "lowest": {
+      "rating": 2282,
+      "date": 1531399440
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 39
+    }
+  }
+}

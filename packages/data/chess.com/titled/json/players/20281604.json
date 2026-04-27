@@ -1,0 +1,87 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20281604.4b3b6344.200x200o.fad6ddcfe647.jpeg",
+    "player_id": 20281604,
+    "@id": "https://api.chess.com/pub/player/kovkov",
+    "url": "https://www.chess.com/member/Kovkov",
+    "name": "Thal Abergel",
+    "username": "kovkov",
+    "title": "GM",
+    "followers": 40,
+    "country": "https://api.chess.com/pub/country/FR",
+    "location": "Paris, France",
+    "last_online": 1656633394,
+    "joined": 1419257962,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1077,
+            "date": 1545408015,
+            "rd": 311
+        },
+        "best": {
+            "rating": 2000,
+            "date": 1419257962,
+            "game": "https://www.chess.com/game/daily/212210992"
+        },
+        "record": {
+            "win": 1,
+            "loss": 0,
+            "draw": 0,
+            "time_per_move": 78273,
+            "timeout_percent": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2537,
+            "date": 1590075376,
+            "rd": 76
+        },
+        "best": {
+            "rating": 2599,
+            "date": 1542151625,
+            "game": "https://www.chess.com/game/live/1614539874"
+        },
+        "record": {
+            "win": 386,
+            "loss": 254,
+            "draw": 38
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2365,
+            "date": 1621082183,
+            "rd": 93
+        },
+        "best": {
+            "rating": 2536,
+            "date": 1543235634,
+            "game": "https://www.chess.com/game/live/1618120861"
+        },
+        "record": {
+            "win": 267,
+            "loss": 180,
+            "draw": 23
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 2697,
+            "date": 1464198161
+        },
+        "lowest": {
+            "rating": 1368,
+            "date": 1419258715
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 61,
+            "score": 58
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/31078808.5db7939d.200x200o.d57fe0bbbae6.jpeg",
+  "player_id": 31078808,
+  "@id": "https://api.chess.com/pub/player/rakesh",
+  "url": "https://www.chess.com/member/Rakesh",
+  "name": "Rakesh Kulkarni",
+  "username": "rakesh",
+  "title": "IM",
+  "followers": 8500,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776509050,
+  "joined": 1479819228,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/desiboys",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/desiboys"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1682,
+      "date": 1770761696,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1552074720,
+      "game": "https://www.chess.com/game/daily/282063124"
+    },
+    "record": {
+      "win": 103,
+      "loss": 62,
+      "draw": 21,
+      "time_per_move": 88218,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1631,
+      "date": 1669242870,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1589460230,
+      "game": "https://www.chess.com/game/daily/354201755"
+    },
+    "record": {
+      "win": 18,
+      "loss": 13,
+      "draw": 3,
+      "time_per_move": 88218,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2094,
+      "date": 1754132244,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1533112307,
+      "game": "https://www.chess.com/game/live/6405737711"
+    },
+    "record": {
+      "win": 45,
+      "loss": 22,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2683,
+      "date": 1776455948,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1770129026,
+      "game": "https://www.chess.com/game/live/148062414724"
+    },
+    "record": {
+      "win": 7258,
+      "loss": 6253,
+      "draw": 739
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1776115193,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1776033637,
+      "game": "https://www.chess.com/game/live/4726552633"
+    },
+    "record": {
+      "win": 689,
+      "loss": 482,
+      "draw": 102
+    }
+  },
+  "fide": 2363,
+  "tactics": {
+    "highest": {
+      "rating": 2402,
+      "date": 1757869306
+    },
+    "lowest": {
+      "rating": 2174,
+      "date": 1771108945
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

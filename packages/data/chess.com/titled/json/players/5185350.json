@@ -1,0 +1,80 @@
+{
+  "player_id": 5185350,
+  "@id": "https://api.chess.com/pub/player/rn2",
+  "url": "https://www.chess.com/member/rn2",
+  "name": "o",
+  "username": "rn2",
+  "title": "GM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1642056970,
+  "joined": 1306518248,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1086,
+      "date": 1706710278,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1500,
+      "date": 1306693744,
+      "game": "https://www.chess.com/game/daily/45353083"
+    },
+    "record": {
+      "win": 2,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 18862,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2586,
+      "date": 1310745016,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2517,
+      "date": 1310549488,
+      "game": "https://www.chess.com/game/live/151217487"
+    },
+    "record": {
+      "win": 358,
+      "loss": 110,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2152,
+      "date": 1310746815,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2211,
+      "date": 1307031202,
+      "game": "https://www.chess.com/game/live/147151800"
+    },
+    "record": {
+      "win": 161,
+      "loss": 98,
+      "draw": 9
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1306518248
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1306518248
+    }
+  },
+  "puzzle_rush": {}
+}

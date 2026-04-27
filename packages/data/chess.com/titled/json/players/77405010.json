@@ -1,0 +1,105 @@
+{
+  "player_id": 77405010,
+  "@id": "https://api.chess.com/pub/player/top_bu_tz",
+  "url": "https://www.chess.com/member/top_bu_tz",
+  "name": "Adnan Karahmetovic",
+  "username": "top_bu_tz",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/BA",
+  "last_online": 1743260372,
+  "joined": 1587490356,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2092,
+      "date": 1729998380,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1650891265,
+      "game": "https://www.chess.com/game/daily/399066083"
+    },
+    "record": {
+      "win": 107,
+      "loss": 20,
+      "draw": 15,
+      "time_per_move": 64612,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1997,
+      "date": 1662237262,
+      "rd": 143
+    },
+    "best": {
+      "rating": 1997,
+      "date": 1662237262,
+      "game": "https://www.chess.com/game/daily/399138635"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 64612,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1750,
+      "date": 1680981158,
+      "rd": 201
+    },
+    "best": {
+      "rating": 1750,
+      "date": 1680981158,
+      "game": "https://www.chess.com/game/live/74719492957"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2504,
+      "date": 1743262945,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1633377290,
+      "game": "https://www.chess.com/game/live/9821027241"
+    },
+    "record": {
+      "win": 103,
+      "loss": 82,
+      "draw": 4
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2320,
+      "date": 1587490356
+    },
+    "lowest": {
+      "rating": 2320,
+      "date": 1587490356
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

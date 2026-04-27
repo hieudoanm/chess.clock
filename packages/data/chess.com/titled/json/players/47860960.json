@@ -1,0 +1,103 @@
+{
+  "player_id": 47860960,
+  "@id": "https://api.chess.com/pub/player/playchesssimple",
+  "url": "https://www.chess.com/member/PlayChessSimple",
+  "name": "Polivanov Anatoliy",
+  "username": "playchesssimple",
+  "title": "IM",
+  "followers": 116,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776502699,
+  "joined": 1531553261,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2008,
+      "date": 1713083350,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2008,
+      "date": 1681515512,
+      "game": "https://www.chess.com/game/daily/420389305"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 17351,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1926,
+      "date": 1703888115,
+      "rd": 153
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1587318586,
+      "game": "https://www.chess.com/game/live/4934296778"
+    },
+    "record": {
+      "win": 45,
+      "loss": 20,
+      "draw": 23
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2366,
+      "date": 1649688281,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2549,
+      "date": 1588357210,
+      "game": "https://www.chess.com/game/live/4860575232"
+    },
+    "record": {
+      "win": 32,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2461,
+      "date": 1719003924,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2686,
+      "date": 1636488250,
+      "game": "https://www.chess.com/game/live/4814908090"
+    },
+    "record": {
+      "win": 303,
+      "loss": 134,
+      "draw": 83
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2283,
+      "date": 1531553261
+    },
+    "lowest": {
+      "rating": 2283,
+      "date": 1531553261
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

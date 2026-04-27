@@ -1,0 +1,84 @@
+{
+  "player_id": 20202860,
+  "@id": "https://api.chess.com/pub/player/opening_prep",
+  "url": "https://www.chess.com/member/Opening_Prep",
+  "name": "Jacob Furfine",
+  "username": "opening_prep",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776564465,
+  "joined": 1418769869,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2407,
+      "date": 1776388985,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1600479252,
+      "game": "https://www.chess.com/game/live/139527803038"
+    },
+    "record": {
+      "win": 34,
+      "loss": 15,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2673,
+      "date": 1756057603,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2752,
+      "date": 1676933748,
+      "game": "https://www.chess.com/game/live/70593095433"
+    },
+    "record": {
+      "win": 3535,
+      "loss": 3002,
+      "draw": 392
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1764438008,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2745,
+      "date": 1629173687,
+      "game": "https://www.chess.com/game/live/96255234829"
+    },
+    "record": {
+      "win": 2599,
+      "loss": 2137,
+      "draw": 390
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2610,
+      "date": 1766109716
+    },
+    "lowest": {
+      "rating": 2464,
+      "date": 1766109796
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

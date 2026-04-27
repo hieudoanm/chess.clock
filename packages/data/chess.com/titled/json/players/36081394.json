@@ -1,0 +1,104 @@
+{
+  "player_id": 36081394,
+  "@id": "https://api.chess.com/pub/player/bogdan363",
+  "url": "https://www.chess.com/member/Bogdan363",
+  "name": "Bogdan Carasca",
+  "username": "bogdan363",
+  "title": "CM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/RO",
+  "last_online": 1776352342,
+  "joined": 1496679393,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1135,
+      "date": 1753886073,
+      "rd": 97
+    },
+    "best": {
+      "rating": 1280,
+      "date": 1500298813,
+      "game": "https://www.chess.com/game/daily/168374080"
+    },
+    "record": {
+      "win": 15,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 31173,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2117,
+      "date": 1753886073,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1975,
+      "date": 1501414441,
+      "game": "https://www.chess.com/game/live/2236284536"
+    },
+    "record": {
+      "win": 24,
+      "loss": 21,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2107,
+      "date": 1766699231,
+      "rd": 84
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1755946910,
+      "game": "https://www.chess.com/game/live/5817741436"
+    },
+    "record": {
+      "win": 779,
+      "loss": 673,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2289,
+      "date": 1761994813,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2347,
+      "date": 1625320381,
+      "game": "https://www.chess.com/game/live/18966408961"
+    },
+    "record": {
+      "win": 2393,
+      "loss": 2160,
+      "draw": 261
+    }
+  },
+  "fide": 2117,
+  "tactics": {
+    "highest": {
+      "rating": 2239,
+      "date": 1766687236
+    },
+    "lowest": {
+      "rating": 2033,
+      "date": 1761216148
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

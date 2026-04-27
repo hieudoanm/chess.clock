@@ -1,0 +1,85 @@
+{
+  "player_id": 175790687,
+  "@id": "https://api.chess.com/pub/player/xhlc",
+  "url": "https://www.chess.com/member/xhlc",
+  "name": "Chao Xin Cheng",
+  "username": "xhlc",
+  "title": "WFM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1775023729,
+  "joined": 1646713242,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2087,
+      "date": 1756688635,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1669886065,
+      "game": "https://www.chess.com/game/live/63624486751"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2072,
+      "date": 1756690596,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1689765355,
+      "game": "https://www.chess.com/game/live/104851330639"
+    },
+    "record": {
+      "win": 715,
+      "loss": 636,
+      "draw": 45
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2161,
+      "date": 1756690977,
+      "rd": 170
+    },
+    "best": {
+      "rating": 2204,
+      "date": 1672494904,
+      "game": "https://www.chess.com/game/live/46597797777"
+    },
+    "record": {
+      "win": 34,
+      "loss": 18,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2257,
+      "date": 1758602355
+    },
+    "lowest": {
+      "rating": 2164,
+      "date": 1757749697
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "player_id": 344346957,
+  "@id": "https://api.chess.com/pub/player/thestoicstoic",
+  "url": "https://www.chess.com/member/TheStoicStoic",
+  "name": "Daniel Shirinyan",
+  "username": "thestoicstoic",
+  "title": "CM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/AM",
+  "location": "Bratislava(ish)",
+  "last_online": 1776434889,
+  "joined": 1707506708,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1395,
+      "date": 1738964306,
+      "rd": 263
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 244901,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2201,
+      "date": 1731325985,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2214,
+      "date": 1728910458,
+      "game": "https://www.chess.com/game/live/125062181075"
+    },
+    "record": {
+      "win": 4,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2324,
+      "date": 1776434003,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2424,
+      "date": 1732100692,
+      "game": "https://www.chess.com/game/live/125839698525"
+    },
+    "record": {
+      "win": 11,
+      "loss": 6,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2287,
+      "date": 1735134252,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2487,
+      "date": 1708092150,
+      "game": "https://www.chess.com/game/live/122746471141"
+    },
+    "record": {
+      "win": 104,
+      "loss": 97,
+      "draw": 13
+    }
+  },
+  "fide": 2250,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1707506708
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1707506708
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

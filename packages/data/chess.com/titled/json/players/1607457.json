@@ -1,0 +1,102 @@
+{
+  "player_id": 1607457,
+  "@id": "https://api.chess.com/pub/player/romamo",
+  "url": "https://www.chess.com/member/ROMAMO",
+  "username": "romamo",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/XO",
+  "last_online": 1776517153,
+  "joined": 1227196367,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1166,
+      "date": 1748939449,
+      "rd": 152
+    },
+    "best": {
+      "rating": 1497,
+      "date": 1240100050,
+      "game": "https://www.chess.com/game/daily/18616581"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 12180,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2176,
+      "date": 1771029277,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2190,
+      "date": 1771028116,
+      "game": "https://www.chess.com/game/live/164657540170"
+    },
+    "record": {
+      "win": 5,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2000,
+      "date": 1773031601,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1772855465,
+      "game": "https://www.chess.com/game/live/144501182560"
+    },
+    "record": {
+      "win": 75,
+      "loss": 46,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2166,
+      "date": 1776396022,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2194,
+      "date": 1774131664,
+      "game": "https://www.chess.com/game/live/167223005140"
+    },
+    "record": {
+      "win": 173,
+      "loss": 114,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2289,
+      "date": 1773965064
+    },
+    "lowest": {
+      "rating": 1637,
+      "date": 1771988002
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

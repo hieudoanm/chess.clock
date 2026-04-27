@@ -1,0 +1,83 @@
+{
+  "player_id": 408309285,
+  "@id": "https://api.chess.com/pub/player/vylagos",
+  "url": "https://www.chess.com/member/Vylagos",
+  "username": "vylagos",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1776495639,
+  "joined": 1733852337,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2260,
+      "date": 1774892552,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1774892552,
+      "game": "https://www.chess.com/game/live/164502219286"
+    },
+    "record": {
+      "win": 38,
+      "loss": 15,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2489,
+      "date": 1776495629,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1774528281,
+      "game": "https://www.chess.com/game/live/167288990520"
+    },
+    "record": {
+      "win": 107,
+      "loss": 74,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2354,
+      "date": 1775908960,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2412,
+      "date": 1761733565,
+      "game": "https://www.chess.com/game/live/127930834441"
+    },
+    "record": {
+      "win": 354,
+      "loss": 246,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2702,
+      "date": 1773686941
+    },
+    "lowest": {
+      "rating": 2474,
+      "date": 1756371636
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

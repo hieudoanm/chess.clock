@@ -1,0 +1,79 @@
+{
+  "player_id": 345591805,
+  "@id": "https://api.chess.com/pub/player/shaconage",
+  "url": "https://www.chess.com/member/Shaconage",
+  "username": "shaconage",
+  "title": "NM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776595176,
+  "joined": 1708061188,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2538,
+      "date": 1776501799,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2621,
+      "date": 1764065255,
+      "game": "https://www.chess.com/game/live/164624345788"
+    },
+    "record": {
+      "win": 310,
+      "loss": 166,
+      "draw": 42
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2656,
+      "date": 1775992829,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2814,
+      "date": 1710357620,
+      "game": "https://www.chess.com/game/live/102387835663"
+    },
+    "record": {
+      "win": 304,
+      "loss": 201,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2715,
+      "date": 1776589193,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2762,
+      "date": 1775837910,
+      "game": "https://www.chess.com/game/live/166900220326"
+    },
+    "record": {
+      "win": 764,
+      "loss": 595,
+      "draw": 125
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1708061188
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1708061188
+    }
+  },
+  "puzzle_rush": {}
+}

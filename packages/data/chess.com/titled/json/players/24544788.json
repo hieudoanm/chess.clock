@@ -1,0 +1,66 @@
+{
+  "player_id": 24544788,
+  "@id": "https://api.chess.com/pub/player/mikado81",
+  "url": "https://www.chess.com/member/mikado81",
+  "name": "Jacek Markiewicz",
+  "username": "mikado81",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1731277900,
+  "joined": 1444671060,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2350,
+      "date": 1586220223,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1652,
+      "date": 1538936783,
+      "game": "https://www.chess.com/game/live/1311599426"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2252,
+      "date": 1613333686,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1591103978,
+      "game": "https://www.chess.com/game/live/4678621632"
+    },
+    "record": {
+      "win": 68,
+      "loss": 28,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1444671060
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1444671060
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 27,
+      "score": 24
+    }
+  }
+}

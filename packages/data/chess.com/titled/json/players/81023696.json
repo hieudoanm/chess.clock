@@ -1,0 +1,84 @@
+{
+  "player_id": 81023696,
+  "@id": "https://api.chess.com/pub/player/somewhatunpredictable",
+  "url": "https://www.chess.com/member/somewhatunpredictable",
+  "name": "Gleb Pidluznij",
+  "username": "somewhatunpredictable",
+  "title": "IM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/LT",
+  "last_online": 1776407242,
+  "joined": 1590903031,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2399,
+      "date": 1772378798
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1612719433,
+      "game": "https://www.chess.com/game/live/8270582273"
+    },
+    "record": {
+      "win": 28,
+      "loss": 10,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2663,
+      "date": 1771837266,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2771,
+      "date": 1715269589,
+      "game": "https://www.chess.com/game/live/86476106619"
+    },
+    "record": {
+      "win": 354,
+      "loss": 172,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2865,
+      "date": 1775581900,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2908,
+      "date": 1773090757,
+      "game": "https://www.chess.com/game/live/169894247209"
+    },
+    "record": {
+      "win": 864,
+      "loss": 408,
+      "draw": 200
+    }
+  },
+  "fide": 2399,
+  "tactics": {
+    "highest": {
+      "rating": 2584,
+      "date": 1590903031
+    },
+    "lowest": {
+      "rating": 2584,
+      "date": 1590903031
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 75,
+      "score": 72
+    }
+  }
+}

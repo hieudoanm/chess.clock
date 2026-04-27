@@ -1,0 +1,76 @@
+{
+  "player_id": 433586501,
+  "@id": "https://api.chess.com/pub/player/starozhil",
+  "url": "https://www.chess.com/member/Starozhil",
+  "name": "Igor Khenkin",
+  "username": "starozhil",
+  "title": "GM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Wiesbaden",
+  "last_online": 1765128732,
+  "joined": 1740865838,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2504,
+      "date": 1743086742,
+      "rd": 49
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2538,
+      "date": 1743503608,
+      "rd": 42
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2573,
+      "date": 1765135162,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2644,
+      "date": 1748376451,
+      "game": "https://www.chess.com/game/live/144511165473"
+    },
+    "record": {
+      "win": 831,
+      "loss": 879,
+      "draw": 237
+    }
+  },
+  "fide": 2503,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1740865838
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1740865838
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

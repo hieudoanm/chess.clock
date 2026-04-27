@@ -1,0 +1,85 @@
+{
+  "player_id": 11579444,
+  "@id": "https://api.chess.com/pub/player/venturov",
+  "url": "https://www.chess.com/member/venturov",
+  "name": "Maxim Ventura",
+  "username": "venturov",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/XC",
+  "location": "Barcelona",
+  "last_online": 1776296641,
+  "joined": 1366387334,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1720187633,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1720187633,
+      "game": "https://www.chess.com/game/live/113925626989"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2454,
+      "date": 1774399856,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2465,
+      "date": 1774399715,
+      "game": "https://www.chess.com/game/live/166391684166"
+    },
+    "record": {
+      "win": 24,
+      "loss": 12,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2462,
+      "date": 1765294533,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1711467430,
+      "game": "https://www.chess.com/game/live/117323453849"
+    },
+    "record": {
+      "win": 202,
+      "loss": 220,
+      "draw": 42
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2311,
+      "date": 1366387334
+    },
+    "lowest": {
+      "rating": 2311,
+      "date": 1366387334
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

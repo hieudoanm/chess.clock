@@ -1,0 +1,81 @@
+{
+  "player_id": 23760932,
+  "@id": "https://api.chess.com/pub/player/profylax",
+  "url": "https://www.chess.com/member/Profylax",
+  "name": "Leif Ogaard",
+  "username": "profylax",
+  "title": "GM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Drobak city",
+  "last_online": 1774805597,
+  "joined": 1440151201,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2536,
+      "date": 1746622962,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1689082421,
+      "game": "https://www.chess.com/game/live/82820540379"
+    },
+    "record": {
+      "win": 32,
+      "loss": 10,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2550,
+      "date": 1586877573,
+      "rd": 246
+    },
+    "best": {
+      "rating": 1381,
+      "date": 1586600870,
+      "game": "https://www.chess.com/game/live/4706933202"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2447,
+      "date": 1748169873,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1671702577,
+      "game": "https://www.chess.com/game/live/3738660462"
+    },
+    "record": {
+      "win": 1128,
+      "loss": 733,
+      "draw": 111
+    }
+  },
+  "fide": 2356,
+  "tactics": {
+    "highest": {
+      "rating": 2237,
+      "date": 1440151201
+    },
+    "lowest": {
+      "rating": 2237,
+      "date": 1440151201
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,66 @@
+{
+    "player_id": 302823147,
+    "@id": "https://api.chess.com/pub/player/currentlyfarmingu",
+    "url": "https://www.chess.com/member/currentlyfarmingu",
+    "username": "currentlyfarmingu",
+    "title": "FM",
+    "followers": 6,
+    "country": "https://api.chess.com/pub/country/RS",
+    "last_online": 1741697051,
+    "joined": 1690692829,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Champion",
+    "streaming_platforms": [],
+    "chess_bullet": {
+        "last": {
+            "rating": 2674,
+            "date": 1741596376,
+            "rd": 28
+        },
+        "best": {
+            "rating": 2844,
+            "date": 1724812029,
+            "game": "https://www.chess.com/game/live/130609211389"
+        },
+        "record": {
+            "win": 1215,
+            "loss": 897,
+            "draw": 94
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2722,
+            "date": 1741195721,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2717,
+            "date": 1737198053,
+            "game": "https://www.chess.com/game/live/130937954977"
+        },
+        "record": {
+            "win": 273,
+            "loss": 177,
+            "draw": 21
+        }
+    },
+    "tactics": {
+        "highest": {
+            "rating": 1000,
+            "date": 1690692829
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1690692829
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 46,
+            "score": 43
+        }
+    }
+}

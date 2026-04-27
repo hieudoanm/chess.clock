@@ -1,0 +1,102 @@
+{
+  "player_id": 7153111,
+  "@id": "https://api.chess.com/pub/player/hawkcallen",
+  "url": "https://www.chess.com/member/hawkcallen",
+  "username": "hawkcallen",
+  "title": "NM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776559039,
+  "joined": 1333286820,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2254,
+      "date": 1752049688,
+      "rd": 150
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1720469872,
+      "game": "https://www.chess.com/game/daily/647101017"
+    },
+    "record": {
+      "win": 176,
+      "loss": 26,
+      "draw": 30,
+      "time_per_move": 33234,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1720,
+      "date": 1646491375,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2144,
+      "date": 1590860921,
+      "game": "https://www.chess.com/game/live/4929378322"
+    },
+    "record": {
+      "win": 4,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1691,
+      "date": 1775652917,
+      "rd": 33
+    },
+    "best": {
+      "rating": 1974,
+      "date": 1526092547,
+      "game": "https://www.chess.com/game/live/2804521832"
+    },
+    "record": {
+      "win": 151,
+      "loss": 164,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2284,
+      "date": 1776558415,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2435,
+      "date": 1765667108,
+      "game": "https://www.chess.com/game/live/6346741627"
+    },
+    "record": {
+      "win": 8990,
+      "loss": 7367,
+      "draw": 1347
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2338,
+      "date": 1773542400
+    },
+    "lowest": {
+      "rating": 2164,
+      "date": 1757768592
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

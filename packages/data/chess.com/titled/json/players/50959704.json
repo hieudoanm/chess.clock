@@ -1,0 +1,61 @@
+{
+  "player_id": 50959704,
+  "@id": "https://api.chess.com/pub/player/marchlo",
+  "url": "https://www.chess.com/member/marchlo",
+  "name": "Marlena Chlost",
+  "username": "marchlo",
+  "title": "WIM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1617973304,
+  "joined": 1540048075,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1953,
+      "date": 1613921119,
+      "rd": 154
+    },
+    "best": {
+      "rating": 2255,
+      "date": 1613761203,
+      "game": "https://www.chess.com/game/live/7582979339"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2005,
+      "date": 1613742233,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2161,
+      "date": 1613740036,
+      "game": "https://www.chess.com/game/live/7478589811"
+    },
+    "record": {
+      "win": 4,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1540048075
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1540048075
+    }
+  },
+  "puzzle_rush": {}
+}

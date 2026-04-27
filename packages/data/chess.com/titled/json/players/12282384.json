@@ -1,0 +1,85 @@
+{
+  "player_id": 12282384,
+  "@id": "https://api.chess.com/pub/player/mrms05nnb",
+  "url": "https://www.chess.com/member/Mrms05nnb",
+  "name": "Andrei Filip",
+  "username": "mrms05nnb",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Iasi",
+  "last_online": 1776273903,
+  "joined": 1371035876,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1657892497,
+      "rd": 82
+    },
+    "best": {
+      "rating": 1819,
+      "date": 1586421850,
+      "game": "https://www.chess.com/game/live/6251632101"
+    },
+    "record": {
+      "win": 39,
+      "loss": 24,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2505,
+      "date": 1775983542,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2505,
+      "date": 1772826326,
+      "game": "https://www.chess.com/game/live/101488368295"
+    },
+    "record": {
+      "win": 908,
+      "loss": 657,
+      "draw": 74
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2462,
+      "date": 1718101988,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1699380307,
+      "game": "https://www.chess.com/game/live/93118282045"
+    },
+    "record": {
+      "win": 256,
+      "loss": 127,
+      "draw": 30
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2352,
+      "date": 1770898546
+    },
+    "lowest": {
+      "rating": 2185,
+      "date": 1771841576
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

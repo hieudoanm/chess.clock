@@ -1,0 +1,85 @@
+{
+  "player_id": 39617188,
+  "@id": "https://api.chess.com/pub/player/quaide7",
+  "url": "https://www.chess.com/member/Quaide7",
+  "name": "Chris Duncan",
+  "username": "quaide7",
+  "title": "FM",
+  "followers": 30,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1776454754,
+  "joined": 1508521170,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2207,
+      "date": 1628453162,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1627819922,
+      "game": "https://www.chess.com/game/live/21555589393"
+    },
+    "record": {
+      "win": 35,
+      "loss": 11,
+      "draw": 18
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2274,
+      "date": 1627724386,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1609614408,
+      "game": "https://www.chess.com/game/live/6125016395"
+    },
+    "record": {
+      "win": 34,
+      "loss": 19,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2308,
+      "date": 1774261925,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2371,
+      "date": 1755035577,
+      "game": "https://www.chess.com/game/live/149342908867"
+    },
+    "record": {
+      "win": 112,
+      "loss": 125,
+      "draw": 26
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2346,
+      "date": 1508521170
+    },
+    "lowest": {
+      "rating": 2346,
+      "date": 1508521170
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

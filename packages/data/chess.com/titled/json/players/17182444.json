@@ -1,0 +1,83 @@
+{
+  "player_id": 17182444,
+  "@id": "https://api.chess.com/pub/player/canbroccoli",
+  "url": "https://www.chess.com/member/canbroccoli",
+  "username": "canbroccoli",
+  "title": "IM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1774464545,
+  "joined": 1399298441,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2133,
+      "date": 1758560164,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1597802307,
+      "game": "https://www.chess.com/game/live/5317847471"
+    },
+    "record": {
+      "win": 3,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2568,
+      "date": 1691971020,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2568,
+      "date": 1691971020,
+      "game": "https://www.chess.com/game/live/74291699009"
+    },
+    "record": {
+      "win": 65,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2307,
+      "date": 1700590224,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2307,
+      "date": 1592936561,
+      "game": "https://www.chess.com/game/live/4033677980"
+    },
+    "record": {
+      "win": 28,
+      "loss": 17,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2002,
+      "date": 1755821341
+    },
+    "lowest": {
+      "rating": 1910,
+      "date": 1755738530
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

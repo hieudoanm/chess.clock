@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10767030.b20746db.200x200o.6172f1b0095c.jpg",
+  "player_id": 10767030,
+  "@id": "https://api.chess.com/pub/player/andreikka",
+  "url": "https://www.chess.com/member/Andreikka",
+  "name": "Andrey Esipenko",
+  "username": "andreikka",
+  "title": "GM",
+  "followers": 3444,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776596302,
+  "joined": 1360502176,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 668,
+      "date": 1753713514,
+      "rd": 213
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1360502176,
+      "game": "https://www.chess.com/game/daily/343579327"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 231812,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2720,
+      "date": 1774292248,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2878,
+      "date": 1597516603,
+      "game": "https://www.chess.com/game/live/44562066741"
+    },
+    "record": {
+      "win": 154,
+      "loss": 75,
+      "draw": 102
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2910,
+      "date": 1717966764,
+      "rd": 121
+    },
+    "best": {
+      "rating": 3144,
+      "date": 1600639740,
+      "game": "https://www.chess.com/game/live/3247168264"
+    },
+    "record": {
+      "win": 885,
+      "loss": 765,
+      "draw": 113
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3146,
+      "date": 1776432302,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3219,
+      "date": 1760287688,
+      "game": "https://www.chess.com/game/live/151144697477"
+    },
+    "record": {
+      "win": 2245,
+      "loss": 1388,
+      "draw": 473
+    }
+  },
+  "fide": 2683,
+  "tactics": {
+    "highest": {
+      "rating": 2899,
+      "date": 1360502176
+    },
+    "lowest": {
+      "rating": 2899,
+      "date": 1360502176
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

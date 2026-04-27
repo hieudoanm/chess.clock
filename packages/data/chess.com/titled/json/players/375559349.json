@@ -1,0 +1,83 @@
+{
+  "player_id": 375559349,
+  "@id": "https://api.chess.com/pub/player/babbelimo",
+  "url": "https://www.chess.com/member/Babbelimo",
+  "username": "babbelimo",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776561256,
+  "joined": 1721079161,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2702,
+      "date": 1774042579,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1774042579,
+      "game": "https://www.chess.com/game/live/166213783260"
+    },
+    "record": {
+      "win": 139,
+      "loss": 74,
+      "draw": 35
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2800,
+      "date": 1729709193,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1729709193,
+      "game": "https://www.chess.com/game/live/122648053207"
+    },
+    "record": {
+      "win": 335,
+      "loss": 317,
+      "draw": 57
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2706,
+      "date": 1763381715,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1738375600,
+      "game": "https://www.chess.com/game/live/131327962849"
+    },
+    "record": {
+      "win": 553,
+      "loss": 505,
+      "draw": 118
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2537,
+      "date": 1756973124
+    },
+    "lowest": {
+      "rating": 2411,
+      "date": 1774988523
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

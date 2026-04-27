@@ -1,0 +1,68 @@
+{
+  "player_id": 30153539,
+  "@id": "https://api.chess.com/pub/player/alpope",
+  "url": "https://www.chess.com/member/alpope",
+  "name": "Alberto Portela Peleteiro",
+  "username": "alpope",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/XG",
+  "last_online": 1776542734,
+  "joined": 1475147269,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2551,
+      "date": 1776278601,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1776278474,
+      "game": "https://www.chess.com/game/live/27284529143"
+    },
+    "record": {
+      "win": 254,
+      "loss": 179,
+      "draw": 35
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2696,
+      "date": 1776453488,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2733,
+      "date": 1761325660,
+      "game": "https://www.chess.com/game/live/107623407741"
+    },
+    "record": {
+      "win": 3033,
+      "loss": 2488,
+      "draw": 492
+    }
+  },
+  "fide": 2357,
+  "tactics": {
+    "highest": {
+      "rating": 2620,
+      "date": 1475147269
+    },
+    "lowest": {
+      "rating": 2620,
+      "date": 1475147269
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

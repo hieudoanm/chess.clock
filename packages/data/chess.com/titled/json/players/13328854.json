@@ -1,0 +1,82 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/13328854.dffe9a6f.200x200o.11120a88baf1.jpeg",
+  "player_id": 13328854,
+  "@id": "https://api.chess.com/pub/player/frankdischinger",
+  "url": "https://www.chess.com/member/frankdischinger",
+  "name": "Frank Dischinger",
+  "username": "frankdischinger",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Aachen",
+  "last_online": 1458223284,
+  "joined": 1377807625,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2098,
+      "date": 1489480097,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2291,
+      "date": 1382541668,
+      "game": "https://www.chess.com/game/daily/77142292"
+    },
+    "record": {
+      "win": 65,
+      "loss": 8,
+      "draw": 7,
+      "time_per_move": 28367,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2305,
+      "date": 1421009865,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1421007819,
+      "game": "https://www.chess.com/game/live/601581079"
+    },
+    "record": {
+      "win": 34,
+      "loss": 13,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1797,
+      "date": 1379280896,
+      "rd": 221
+    },
+    "best": {
+      "rating": 1842,
+      "date": 1379280254,
+      "game": "https://www.chess.com/game/live/589643183"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1377807625
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1377807625
+    }
+  },
+  "puzzle_rush": {}
+}

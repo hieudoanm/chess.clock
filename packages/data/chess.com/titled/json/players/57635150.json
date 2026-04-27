@@ -1,0 +1,103 @@
+{
+  "player_id": 57635150,
+  "@id": "https://api.chess.com/pub/player/b_nn_t",
+  "url": "https://www.chess.com/member/B_nn_t",
+  "name": "Bennet Biastoch",
+  "username": "b_nn_t",
+  "title": "FM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775195778,
+  "joined": 1550767084,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1768387090,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1673464519,
+      "game": "https://www.chess.com/game/daily/461763975"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 28060,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2101,
+      "date": 1689517846,
+      "rd": 214
+    },
+    "best": {
+      "rating": 2384,
+      "date": 1671125940,
+      "game": "https://www.chess.com/game/live/64863250653"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2501,
+      "date": 1769703332,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1704566528,
+      "game": "https://www.chess.com/game/live/85602648623"
+    },
+    "record": {
+      "win": 76,
+      "loss": 114,
+      "draw": 18
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2658,
+      "date": 1773769268,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1738763570,
+      "game": "https://www.chess.com/game/live/168077419323"
+    },
+    "record": {
+      "win": 1561,
+      "loss": 1805,
+      "draw": 497
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2468,
+      "date": 1772916179
+    },
+    "lowest": {
+      "rating": 2176,
+      "date": 1772916500
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

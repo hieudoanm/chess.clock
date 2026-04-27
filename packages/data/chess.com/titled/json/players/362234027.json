@@ -1,0 +1,105 @@
+{
+  "player_id": 362234027,
+  "@id": "https://api.chess.com/pub/player/ninetowine",
+  "url": "https://www.chess.com/member/NineTOWine",
+  "username": "ninetowine",
+  "title": "WCM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776570949,
+  "joined": 1715316849,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1845,
+      "date": 1776570939,
+      "rd": 63
+    },
+    "best": {
+      "rating": 1942,
+      "date": 1763258752,
+      "game": "https://www.chess.com/game/daily/871417107"
+    },
+    "record": {
+      "win": 61,
+      "loss": 36,
+      "draw": 6,
+      "time_per_move": 21689,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1527,
+      "date": 1776537930,
+      "rd": 139
+    },
+    "best": {
+      "rating": 1568,
+      "date": 1763710901,
+      "game": "https://www.chess.com/game/daily/883221715"
+    },
+    "record": {
+      "win": 20,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 21689,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2284,
+      "date": 1768024460,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1767854601,
+      "game": "https://www.chess.com/game/live/147563247778"
+    },
+    "record": {
+      "win": 41,
+      "loss": 15,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2401,
+      "date": 1768731118,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1768731118,
+      "game": "https://www.chess.com/game/live/147946241882"
+    },
+    "record": {
+      "win": 61,
+      "loss": 34,
+      "draw": 4
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2233,
+      "date": 1758051738
+    },
+    "lowest": {
+      "rating": 2061,
+      "date": 1763869634
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 53288800,
+  "@id": "https://api.chess.com/pub/player/csativero",
+  "url": "https://www.chess.com/member/csativero",
+  "name": "Martin Botond Vodila",
+  "username": "csativero",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/MZ",
+  "last_online": 1776593825,
+  "joined": 1544895322,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1040,
+      "date": 1770838080,
+      "rd": 263
+    },
+    "best": {
+      "rating": 1040,
+      "date": 1770838079,
+      "game": "https://www.chess.com/game/daily/924945333"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 49599,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2309,
+      "date": 1757273662,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2317,
+      "date": 1712667351,
+      "game": "https://www.chess.com/game/live/106405143163"
+    },
+    "record": {
+      "win": 8,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2570,
+      "date": 1775499072,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1760554855,
+      "game": "https://www.chess.com/game/live/123294591721"
+    },
+    "record": {
+      "win": 335,
+      "loss": 198,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2449,
+      "date": 1775212489,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1767547901,
+      "game": "https://www.chess.com/game/live/147558371178"
+    },
+    "record": {
+      "win": 358,
+      "loss": 229,
+      "draw": 76
+    }
+  },
+  "fide": 2291,
+  "tactics": {
+    "highest": {
+      "rating": 2461,
+      "date": 1758296262
+    },
+    "lowest": {
+      "rating": 1971,
+      "date": 1758313777
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 32711682,
+  "@id": "https://api.chess.com/pub/player/leoloia",
+  "url": "https://www.chess.com/member/leoloia",
+  "name": "Leonardo Loiacono",
+  "username": "leoloia",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1767912174,
+  "joined": 1485525818,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2324,
+      "date": 1682021789,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2326,
+      "date": 1681416803,
+      "game": "https://www.chess.com/game/live/74548416423"
+    },
+    "record": {
+      "win": 44,
+      "loss": 13,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2377,
+      "date": 1749245193,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2499,
+      "date": 1656878007,
+      "game": "https://www.chess.com/game/live/66936690857"
+    },
+    "record": {
+      "win": 203,
+      "loss": 163,
+      "draw": 29
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2642,
+      "date": 1740768023,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2636,
+      "date": 1705180259,
+      "game": "https://www.chess.com/game/live/55793147087"
+    },
+    "record": {
+      "win": 877,
+      "loss": 700,
+      "draw": 218
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2218,
+      "date": 1485525818
+    },
+    "lowest": {
+      "rating": 2218,
+      "date": 1485525818
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/65687854.73da564b.200x200o.960feb0ab68b.jpeg",
+  "player_id": 65687854,
+  "@id": "https://api.chess.com/pub/player/angelaberbach",
+  "url": "https://www.chess.com/member/angelaberbach",
+  "name": "Angel Aberbach",
+  "username": "angelaberbach",
+  "title": "NM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/AR",
+  "location": "Buenos Aires",
+  "last_online": 1776390442,
+  "joined": 1568907934,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1859,
+      "date": 1776390425,
+      "rd": 157
+    },
+    "best": {
+      "rating": 1987,
+      "date": 1731529519,
+      "game": "https://www.chess.com/game/daily/728529247"
+    },
+    "record": {
+      "win": 27,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 10897,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1704,
+      "date": 1764552530,
+      "rd": 123
+    },
+    "best": {
+      "rating": 1969,
+      "date": 1695261207,
+      "game": "https://www.chess.com/game/live/88999849609"
+    },
+    "record": {
+      "win": 21,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1681,
+      "date": 1758594511,
+      "rd": 57
+    },
+    "best": {
+      "rating": 1893,
+      "date": 1734196864,
+      "game": "https://www.chess.com/game/live/134186340157"
+    },
+    "record": {
+      "win": 129,
+      "loss": 191,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1807,
+      "date": 1769496124,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1974,
+      "date": 1737308734,
+      "game": "https://www.chess.com/game/live/131235623101"
+    },
+    "record": {
+      "win": 625,
+      "loss": 391,
+      "draw": 46
+    }
+  },
+  "fide": 1890,
+  "tactics": {
+    "highest": {
+      "rating": 2121,
+      "date": 1767342385
+    },
+    "lowest": {
+      "rating": 1954,
+      "date": 1769757221
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "player_id": 61902074,
+  "@id": "https://api.chess.com/pub/player/bkl18",
+  "url": "https://www.chess.com/member/BKL18",
+  "username": "bkl18",
+  "title": "GM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776450658,
+  "joined": 1559653198,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2834,
+      "date": 1766248013,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2844,
+      "date": 1753217096,
+      "game": "https://www.chess.com/game/live/119823010433"
+    },
+    "record": {
+      "win": 131,
+      "loss": 109,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2934,
+      "date": 1776292932,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2992,
+      "date": 1760905136,
+      "game": "https://www.chess.com/game/live/98629022055"
+    },
+    "record": {
+      "win": 706,
+      "loss": 809,
+      "draw": 164
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2560,
+      "date": 1559653198
+    },
+    "lowest": {
+      "rating": 2560,
+      "date": 1559653198
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

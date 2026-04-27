@@ -1,0 +1,116 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/15995206.1456d025.200x200o.aaaced1cc7da.png",
+  "player_id": 15995206,
+  "@id": "https://api.chess.com/pub/player/nicolochessit",
+  "url": "https://www.chess.com/member/nicolochessit",
+  "name": "Nicol\u00f2 Napoli",
+  "username": "nicolochessit",
+  "title": "FM",
+  "followers": 758,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Ibiza",
+  "last_online": 1776543488,
+  "joined": 1392055172,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/nicolochess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/nicolochess"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@scacchipertutti"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1479,
+      "date": 1776541758,
+      "rd": 160
+    },
+    "best": {
+      "rating": 2053,
+      "date": 1399076417,
+      "game": "https://www.chess.com/game/daily/84876030"
+    },
+    "record": {
+      "win": 41,
+      "loss": 14,
+      "draw": 1,
+      "time_per_move": 56667,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2388,
+      "date": 1774979505,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2404,
+      "date": 1774372927,
+      "game": "https://www.chess.com/game/live/165847981954"
+    },
+    "record": {
+      "win": 40,
+      "loss": 9,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2545,
+      "date": 1768672420,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2698,
+      "date": 1763573261,
+      "game": "https://www.chess.com/game/live/144062408929"
+    },
+    "record": {
+      "win": 731,
+      "loss": 662,
+      "draw": 83
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2535,
+      "date": 1775340507,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1738279749,
+      "game": "https://www.chess.com/game/live/134843955743"
+    },
+    "record": {
+      "win": 780,
+      "loss": 773,
+      "draw": 124
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2109,
+      "date": 1392055172
+    },
+    "lowest": {
+      "rating": 2109,
+      "date": 1392055172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 63,
+      "score": 60
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7758806.a77de923.200x200o.f142bda29633.jpeg",
+  "player_id": 7758806,
+  "@id": "https://api.chess.com/pub/player/doctormove",
+  "url": "https://www.chess.com/member/DoctorMove",
+  "username": "doctormove",
+  "title": "NM",
+  "followers": 296,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776583022,
+  "joined": 1338587471,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 540,
+      "date": 1773730428,
+      "rd": 250
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1338587471,
+      "game": "https://www.chess.com/game/daily/938194123"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 48145,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1938,
+      "date": 1768247907,
+      "rd": 182
+    },
+    "best": {
+      "rating": 2192,
+      "date": 1447033849,
+      "game": "https://www.chess.com/game/live/1063232970"
+    },
+    "record": {
+      "win": 27,
+      "loss": 39,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1731,
+      "date": 1417317371,
+      "rd": 337
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2048,
+      "date": 1623367875,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1551556876,
+      "game": "https://www.chess.com/game/live/987464011"
+    },
+    "record": {
+      "win": 1644,
+      "loss": 1398,
+      "draw": 188
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1338587471
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1338587471
+    }
+  },
+  "puzzle_rush": {}
+}

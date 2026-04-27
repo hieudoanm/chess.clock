@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/55623404.42fb705c.200x200o.0f0b3a98ba20.jpg",
+  "player_id": 55623404,
+  "@id": "https://api.chess.com/pub/player/bastiandash",
+  "url": "https://www.chess.com/member/Bastiandash",
+  "name": "Juan Sebastian Melian",
+  "username": "bastiandash",
+  "title": "IM",
+  "followers": 99,
+  "country": "https://api.chess.com/pub/country/PY",
+  "last_online": 1776576876,
+  "joined": 1546820247,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1471,
+      "date": 1776387342,
+      "rd": 204
+    },
+    "best": {
+      "rating": 1557,
+      "date": 1586823004,
+      "game": "https://www.chess.com/game/daily/245065960"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 105503,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2139,
+      "date": 1726851116,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1677514948,
+      "game": "https://www.chess.com/game/live/24337346205"
+    },
+    "record": {
+      "win": 80,
+      "loss": 33,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2841,
+      "date": 1774719631,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2907,
+      "date": 1764986143,
+      "game": "https://www.chess.com/game/live/169032639703"
+    },
+    "record": {
+      "win": 5578,
+      "loss": 4749,
+      "draw": 603
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2820,
+      "date": 1776571385,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2820,
+      "date": 1776571385,
+      "game": "https://www.chess.com/game/live/47748079423"
+    },
+    "record": {
+      "win": 5266,
+      "loss": 4318,
+      "draw": 682
+    }
+  },
+  "fide": 2401,
+  "tactics": {
+    "highest": {
+      "rating": 2463,
+      "date": 1763498747
+    },
+    "lowest": {
+      "rating": 2416,
+      "date": 1760720451
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

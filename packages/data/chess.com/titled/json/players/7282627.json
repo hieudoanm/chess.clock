@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7282627.19809d68.200x200o.825600bbe79b.png",
+  "player_id": 7282627,
+  "@id": "https://api.chess.com/pub/player/latigre",
+  "url": "https://www.chess.com/member/latigre",
+  "name": "Andrea Gori",
+  "username": "latigre",
+  "title": "CM",
+  "followers": 826,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Milano",
+  "last_online": 1776499131,
+  "joined": 1334352939,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1849,
+      "date": 1718728535,
+      "rd": 317
+    },
+    "best": {
+      "rating": 1849,
+      "date": 1348867559,
+      "game": "https://www.chess.com/game/daily/59005252"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 53,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1932,
+      "date": 1771017422,
+      "rd": 89
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1348341090,
+      "game": "https://www.chess.com/game/live/53457081891"
+    },
+    "record": {
+      "win": 35,
+      "loss": 14,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1575,
+      "date": 1776369996,
+      "rd": 36
+    },
+    "best": {
+      "rating": 1846,
+      "date": 1642409258,
+      "game": "https://www.chess.com/game/live/35491022043"
+    },
+    "record": {
+      "win": 5598,
+      "loss": 4382,
+      "draw": 269
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1721,
+      "date": 1775987956,
+      "rd": 54
+    },
+    "best": {
+      "rating": 1933,
+      "date": 1645291290,
+      "game": "https://www.chess.com/game/live/53442008713"
+    },
+    "record": {
+      "win": 1649,
+      "loss": 850,
+      "draw": 103
+    }
+  },
+  "fide": 2100,
+  "tactics": {
+    "highest": {
+      "rating": 2347,
+      "date": 1775293043
+    },
+    "lowest": {
+      "rating": 2051,
+      "date": 1757101816
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 143736599,
+  "@id": "https://api.chess.com/pub/player/levanzovsky",
+  "url": "https://www.chess.com/member/Levanzovsky",
+  "name": "Yotam Shohat",
+  "username": "levanzovsky",
+  "title": "IM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/IL",
+  "last_online": 1776545666,
+  "joined": 1623159802,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2281,
+      "date": 1748450963,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1679938766,
+      "game": "https://www.chess.com/game/live/73672871789"
+    },
+    "record": {
+      "win": 8,
+      "loss": 10,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2546,
+      "date": 1748067010,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2701,
+      "date": 1650222462,
+      "game": "https://www.chess.com/game/live/90461920073"
+    },
+    "record": {
+      "win": 128,
+      "loss": 154,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2628,
+      "date": 1776545659,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1747576119,
+      "game": "https://www.chess.com/game/live/79252909565"
+    },
+    "record": {
+      "win": 2793,
+      "loss": 3407,
+      "draw": 481
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2481,
+      "date": 1623159802
+    },
+    "lowest": {
+      "rating": 2481,
+      "date": 1623159802
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

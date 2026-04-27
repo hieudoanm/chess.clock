@@ -1,0 +1,86 @@
+{
+  "player_id": 2313860,
+  "@id": "https://api.chess.com/pub/player/ilusha",
+  "url": "https://www.chess.com/member/Ilusha",
+  "name": "Ilya Krasik",
+  "username": "ilusha",
+  "title": "NM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Boston",
+  "last_online": 1776371384,
+  "joined": 1258706447,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1319,
+      "date": 1614199633,
+      "rd": 256
+    },
+    "best": {
+      "rating": 1319,
+      "date": 1585622196,
+      "game": "https://www.chess.com/game/live/4659264887"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1825,
+      "date": 1717830401,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1500337726,
+      "game": "https://www.chess.com/game/live/2210011201"
+    },
+    "record": {
+      "win": 22,
+      "loss": 18,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1943,
+      "date": 1698791068,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1464117242,
+      "game": "https://www.chess.com/game/live/1356287537"
+    },
+    "record": {
+      "win": 103,
+      "loss": 82,
+      "draw": 17
+    }
+  },
+  "fide": 2317,
+  "tactics": {
+    "highest": {
+      "rating": 2133,
+      "date": 1258706447
+    },
+    "lowest": {
+      "rating": 2133,
+      "date": 1258706447
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

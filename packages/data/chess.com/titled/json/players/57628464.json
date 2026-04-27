@@ -1,0 +1,86 @@
+{
+  "player_id": 57628464,
+  "@id": "https://api.chess.com/pub/player/snowball-03",
+  "url": "https://www.chess.com/member/Snowball-03",
+  "name": "Sergey Slugin",
+  "username": "snowball-03",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Saint-Petersburg",
+  "last_online": 1757591170,
+  "joined": 1550756022,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2212,
+      "date": 1755707701,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1755707701,
+      "game": "https://www.chess.com/game/live/142121056154"
+    },
+    "record": {
+      "win": 31,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2705,
+      "date": 1741866985,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2713,
+      "date": 1666104981,
+      "game": "https://www.chess.com/game/live/53272211733"
+    },
+    "record": {
+      "win": 555,
+      "loss": 433,
+      "draw": 62
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2649,
+      "date": 1755675798,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2766,
+      "date": 1666110533,
+      "game": "https://www.chess.com/game/live/59845742559"
+    },
+    "record": {
+      "win": 362,
+      "loss": 284,
+      "draw": 75
+    }
+  },
+  "fide": 2353,
+  "tactics": {
+    "highest": {
+      "rating": 2359,
+      "date": 1550756022
+    },
+    "lowest": {
+      "rating": 2359,
+      "date": 1550756022
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

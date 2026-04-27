@@ -1,0 +1,84 @@
+{
+  "player_id": 55786438,
+  "@id": "https://api.chess.com/pub/player/mathiaswomacka",
+  "url": "https://www.chess.com/member/MathiasWomacka",
+  "name": "Mathias Womacka",
+  "username": "mathiaswomacka",
+  "title": "GM",
+  "followers": 93,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776541703,
+  "joined": 1547147419,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2428,
+      "date": 1628628004,
+      "rd": 194
+    },
+    "best": {
+      "rating": 2428,
+      "date": 1628628004,
+      "game": "https://www.chess.com/game/live/3389828182"
+    },
+    "record": {
+      "win": 23,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2194,
+      "date": 1604234960,
+      "rd": 112
+    },
+    "best": {
+      "rating": 2263,
+      "date": 1604234088,
+      "game": "https://www.chess.com/game/live/3585040545"
+    },
+    "record": {
+      "win": 265,
+      "loss": 20,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2608,
+      "date": 1736899439,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1732035340,
+      "game": "https://www.chess.com/game/live/117300064055"
+    },
+    "record": {
+      "win": 2220,
+      "loss": 744,
+      "draw": 268
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1547147419
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1547147419
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

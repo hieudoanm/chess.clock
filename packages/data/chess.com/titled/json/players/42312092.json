@@ -1,0 +1,84 @@
+{
+  "player_id": 42312092,
+  "@id": "https://api.chess.com/pub/player/kubagepard",
+  "url": "https://www.chess.com/member/KubaGepard",
+  "name": "Jakob Leon Pajeken",
+  "username": "kubagepard",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776416573,
+  "joined": 1515931108,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2000,
+      "date": 1717096763,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2567,
+      "date": 1675890018,
+      "game": "https://www.chess.com/game/live/110835691725"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2497,
+      "date": 1772110160,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1716484656,
+      "game": "https://www.chess.com/game/live/110223637673"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2718,
+      "date": 1776415434,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2787,
+      "date": 1739266740,
+      "game": "https://www.chess.com/game/live/70736219445"
+    },
+    "record": {
+      "win": 1543,
+      "loss": 1529,
+      "draw": 303
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2602,
+      "date": 1759218047
+    },
+    "lowest": {
+      "rating": 2268,
+      "date": 1763634360
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

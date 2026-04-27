@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/51407538.e9dcbf8d.200x200o.11f4d922406b.jpeg",
+  "player_id": 51407538,
+  "@id": "https://api.chess.com/pub/player/yennefer1",
+  "url": "https://www.chess.com/member/yennefer1",
+  "username": "yennefer1",
+  "title": "WGM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776026868,
+  "joined": 1541182998,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2267,
+      "date": 1631302434,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1631295466,
+      "game": "https://www.chess.com/game/live/24949327219"
+    },
+    "record": {
+      "win": 11,
+      "loss": 8,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2461,
+      "date": 1774821122,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1766345442,
+      "game": "https://www.chess.com/game/live/16122977483"
+    },
+    "record": {
+      "win": 731,
+      "loss": 544,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1760737236,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2569,
+      "date": 1684001677,
+      "game": "https://www.chess.com/game/live/5726351768"
+    },
+    "record": {
+      "win": 138,
+      "loss": 95,
+      "draw": 46
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2233,
+      "date": 1757796002
+    },
+    "lowest": {
+      "rating": 2056,
+      "date": 1768249975
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

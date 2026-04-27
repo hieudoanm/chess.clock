@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/69234614.d71e990d.200x200o.ffdf40699c3b.jpg",
+  "player_id": 69234614,
+  "@id": "https://api.chess.com/pub/player/pelopidass",
+  "url": "https://www.chess.com/member/Pelopidass",
+  "name": "Georgios Kanakaris",
+  "username": "pelopidass",
+  "title": "IM",
+  "followers": 409,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776583741,
+  "joined": 1576158242,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2285,
+      "date": 1776545573,
+      "rd": 180
+    },
+    "best": {
+      "rating": 2285,
+      "date": 1776545573,
+      "game": "https://www.chess.com/game/daily/928650979"
+    },
+    "record": {
+      "win": 88,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 57710,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2370,
+      "date": 1706287801,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1676306244,
+      "game": "https://www.chess.com/game/live/85163650969"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2620,
+      "date": 1770254630,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1713901541,
+      "game": "https://www.chess.com/game/live/164108955578"
+    },
+    "record": {
+      "win": 623,
+      "loss": 657,
+      "draw": 94
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2612,
+      "date": 1757201640,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2915,
+      "date": 1586971768,
+      "game": "https://www.chess.com/game/live/130027202451"
+    },
+    "record": {
+      "win": 1394,
+      "loss": 1473,
+      "draw": 360
+    }
+  },
+  "fide": 2372,
+  "tactics": {
+    "highest": {
+      "rating": 2691,
+      "date": 1774426054
+    },
+    "lowest": {
+      "rating": 2691,
+      "date": 1774426054
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 81,
+      "score": 78
+    }
+  }
+}

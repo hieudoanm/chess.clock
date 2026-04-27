@@ -1,0 +1,86 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/52397302.397d6f71.200x200o.0ee27a84acca.jpeg",
+  "player_id": 52397302,
+  "@id": "https://api.chess.com/pub/player/davekoenig",
+  "url": "https://www.chess.com/member/davekoenig",
+  "name": "Dave Koenig",
+  "username": "davekoenig",
+  "title": "FM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776520745,
+  "joined": 1543287702,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2138,
+      "date": 1685386166,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2264,
+      "date": 1684172228,
+      "game": "https://www.chess.com/game/live/12966894045"
+    },
+    "record": {
+      "win": 10,
+      "loss": 16,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2086,
+      "date": 1726184356,
+      "rd": 133
+    },
+    "best": {
+      "rating": 2425,
+      "date": 1603306996,
+      "game": "https://www.chess.com/game/live/5666912846"
+    },
+    "record": {
+      "win": 21,
+      "loss": 28,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2227,
+      "date": 1670450469,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1609972447,
+      "game": "https://www.chess.com/game/live/7790523279"
+    },
+    "record": {
+      "win": 2913,
+      "loss": 2636,
+      "draw": 443
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2468,
+      "date": 1543287702
+    },
+    "lowest": {
+      "rating": 2468,
+      "date": 1543287702
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 28
+    }
+  }
+}

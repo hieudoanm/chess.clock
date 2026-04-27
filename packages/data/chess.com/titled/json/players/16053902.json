@@ -1,0 +1,81 @@
+{
+  "player_id": 16053902,
+  "@id": "https://api.chess.com/pub/player/calsamuel",
+  "url": "https://www.chess.com/member/calsamuel",
+  "name": "Caleb Samuel",
+  "username": "calsamuel",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/ZA",
+  "location": "Western Cape",
+  "last_online": 1772899218,
+  "joined": 1392395659,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2176,
+      "date": 1763735820,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1690802405,
+      "game": "https://www.chess.com/game/live/78945050923"
+    },
+    "record": {
+      "win": 122,
+      "loss": 151,
+      "draw": 39
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2395,
+      "date": 1675504904,
+      "rd": 191
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1675504904,
+      "game": "https://www.chess.com/game/live/68739820915"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2066,
+      "date": 1772899205,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2139,
+      "date": 1749840313,
+      "game": "https://www.chess.com/game/live/75387731995"
+    },
+    "record": {
+      "win": 302,
+      "loss": 393,
+      "draw": 55
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2218,
+      "date": 1762427464
+    },
+    "lowest": {
+      "rating": 2162,
+      "date": 1762427361
+    }
+  },
+  "puzzle_rush": {}
+}

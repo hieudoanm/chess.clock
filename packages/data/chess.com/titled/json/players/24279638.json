@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24279638.2384eda1.200x200o.98ed7516c8d4.webp",
+  "player_id": 24279638,
+  "@id": "https://api.chess.com/pub/player/superfelix",
+  "url": "https://www.chess.com/member/Superfelix",
+  "name": "Felix Meissner",
+  "username": "superfelix",
+  "title": "FM",
+  "followers": 135,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776508214,
+  "joined": 1443194044,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1881,
+      "date": 1776508207,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1881,
+      "date": 1769111492,
+      "game": "https://www.chess.com/game/daily/270537568"
+    },
+    "record": {
+      "win": 42,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 33131,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1973,
+      "date": 1701219930,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2155,
+      "date": 1674216605,
+      "game": "https://www.chess.com/game/live/61167605287"
+    },
+    "record": {
+      "win": 20,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2528,
+      "date": 1772145163,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2706,
+      "date": 1651618980,
+      "game": "https://www.chess.com/game/live/6007343116"
+    },
+    "record": {
+      "win": 1737,
+      "loss": 1169,
+      "draw": 188
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2509,
+      "date": 1772698844,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1764584298,
+      "game": "https://www.chess.com/game/live/102205459941"
+    },
+    "record": {
+      "win": 2332,
+      "loss": 1916,
+      "draw": 407
+    }
+  },
+  "fide": 2410,
+  "tactics": {
+    "highest": {
+      "rating": 2189,
+      "date": 1443194044
+    },
+    "lowest": {
+      "rating": 2189,
+      "date": 1443194044
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

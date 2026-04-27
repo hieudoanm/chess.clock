@@ -1,0 +1,104 @@
+{
+  "player_id": 16507616,
+  "@id": "https://api.chess.com/pub/player/popopuiyt",
+  "url": "https://www.chess.com/member/Popopuiyt",
+  "name": "Peter Lombaers",
+  "username": "popopuiyt",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Utrecht",
+  "last_online": 1764339001,
+  "joined": 1395141532,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 950,
+      "date": 1541009863,
+      "rd": 258
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1395141532,
+      "game": "https://www.chess.com/game/daily/206349416"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 75609,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1388,
+      "date": 1531153368,
+      "rd": 291
+    },
+    "best": {
+      "rating": 1388,
+      "date": 1531153368,
+      "game": "https://www.chess.com/game/live/2929103907"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2522,
+      "date": 1552776547,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1552775993,
+      "game": "https://www.chess.com/game/live/3540435071"
+    },
+    "record": {
+      "win": 30,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2334,
+      "date": 1639077757,
+      "rd": 100
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1638820886,
+      "game": "https://www.chess.com/game/live/4824753756"
+    },
+    "record": {
+      "win": 1751,
+      "loss": 1386,
+      "draw": 207
+    }
+  },
+  "fide": 2344,
+  "tactics": {
+    "highest": {
+      "rating": 2604,
+      "date": 1395141532
+    },
+    "lowest": {
+      "rating": 2604,
+      "date": 1395141532
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

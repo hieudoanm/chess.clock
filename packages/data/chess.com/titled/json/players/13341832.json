@@ -1,0 +1,84 @@
+{
+  "player_id": 13341832,
+  "@id": "https://api.chess.com/pub/player/doyen17",
+  "url": "https://www.chess.com/member/doyen17",
+  "name": "G S",
+  "username": "doyen17",
+  "title": "FM",
+  "followers": 59,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1775734810,
+  "joined": 1377897847,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2254,
+      "date": 1724622357,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2254,
+      "date": 1724622357,
+      "game": "https://www.chess.com/game/live/87082107983"
+    },
+    "record": {
+      "win": 48,
+      "loss": 16,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2117,
+      "date": 1758879413,
+      "rd": 163
+    },
+    "best": {
+      "rating": 2257,
+      "date": 1586722213,
+      "game": "https://www.chess.com/game/live/4713750462"
+    },
+    "record": {
+      "win": 40,
+      "loss": 37,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2338,
+      "date": 1775168350,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1714767578,
+      "game": "https://www.chess.com/game/live/86272805219"
+    },
+    "record": {
+      "win": 2304,
+      "loss": 1773,
+      "draw": 326
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2694,
+      "date": 1774820430
+    },
+    "lowest": {
+      "rating": 2694,
+      "date": 1774820430
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 347113685,
+  "@id": "https://api.chess.com/pub/player/mrclean011",
+  "url": "https://www.chess.com/member/mrclean011",
+  "name": "Alberto Pulito",
+  "username": "mrclean011",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776549291,
+  "joined": 1708726738,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1404,
+      "date": 1774008881,
+      "rd": 293
+    },
+    "best": {
+      "rating": 1622,
+      "date": 1716109069,
+      "game": "https://www.chess.com/game/daily/944145055"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 5543,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2203,
+      "date": 1752663310,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2212,
+      "date": 1752660439,
+      "game": "https://www.chess.com/game/live/138603275368"
+    },
+    "record": {
+      "win": 3,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2380,
+      "date": 1776549260,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2483,
+      "date": 1759868723,
+      "game": "https://www.chess.com/game/live/140875722516"
+    },
+    "record": {
+      "win": 619,
+      "loss": 436,
+      "draw": 61
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2142,
+      "date": 1708726738
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1708726738
+    }
+  },
+  "puzzle_rush": {}
+}

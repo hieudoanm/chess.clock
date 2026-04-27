@@ -1,0 +1,103 @@
+{
+  "player_id": 4042329,
+  "@id": "https://api.chess.com/pub/player/zq1",
+  "url": "https://www.chess.com/member/Zq1",
+  "name": "Dmitry Gurevich",
+  "username": "zq1",
+  "title": "GM",
+  "followers": 168,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776537836,
+  "joined": 1285678506,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 923,
+      "date": 1762128558,
+      "rd": 249
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1285678506,
+      "game": "https://www.chess.com/game/daily/877279013"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 72301,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2333,
+      "date": 1741819220,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2555,
+      "date": 1606698231,
+      "game": "https://www.chess.com/game/live/5850879207"
+    },
+    "record": {
+      "win": 11,
+      "loss": 16,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2026,
+      "date": 1775060620,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2594,
+      "date": 1554318142,
+      "game": "https://www.chess.com/game/live/127940999859"
+    },
+    "record": {
+      "win": 675,
+      "loss": 818,
+      "draw": 61
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2505,
+      "date": 1775234601,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2675,
+      "date": 1642010314,
+      "game": "https://www.chess.com/game/live/104621514221"
+    },
+    "record": {
+      "win": 5651,
+      "loss": 4529,
+      "draw": 924
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2643,
+      "date": 1761189674
+    },
+    "lowest": {
+      "rating": 2643,
+      "date": 1761189674
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

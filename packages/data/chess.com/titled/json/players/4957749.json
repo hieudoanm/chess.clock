@@ -1,0 +1,100 @@
+{
+  "player_id": 4957749,
+  "@id": "https://api.chess.com/pub/player/ivandrade10",
+  "url": "https://www.chess.com/member/ivandrade10",
+  "name": "Ivan Andrade",
+  "username": "ivandrade10",
+  "title": "FM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/MZ",
+  "location": "Maputo",
+  "last_online": 1776285998,
+  "joined": 1302208487,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1053,
+      "date": 1735151793,
+      "rd": 253
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 1880,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2133,
+      "date": 1774206544,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2154,
+      "date": 1747584708,
+      "game": "https://www.chess.com/game/live/141895246463"
+    },
+    "record": {
+      "win": 8,
+      "loss": 18,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2164,
+      "date": 1749917332,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1749315203,
+      "game": "https://www.chess.com/game/live/143628019409"
+    },
+    "record": {
+      "win": 17,
+      "loss": 36,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2380,
+      "date": 1776186676,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2472,
+      "date": 1750795554,
+      "game": "https://www.chess.com/game/live/145108773335"
+    },
+    "record": {
+      "win": 755,
+      "loss": 863,
+      "draw": 64
+    }
+  },
+  "fide": 2161,
+  "tactics": {
+    "highest": {
+      "rating": 2738,
+      "date": 1775040102
+    },
+    "lowest": {
+      "rating": 2107,
+      "date": 1767727716
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 36
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 16541272,
+  "@id": "https://api.chess.com/pub/player/deppblue",
+  "url": "https://www.chess.com/member/deppblue",
+  "name": "Depp Blue",
+  "username": "deppblue",
+  "title": "FM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Frankfurt",
+  "last_online": 1776018027,
+  "joined": 1395331092,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1394,
+      "date": 1772112484,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1394,
+      "date": 1482930239,
+      "game": "https://www.chess.com/game/daily/152585684"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 22352,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1441473189
+    },
+    "best": {
+      "rating": 1360,
+      "date": 1441473189,
+      "game": "https://www.chess.com/game/live/1270955510"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1529661717
+    },
+    "best": {
+      "rating": 2193,
+      "date": 1518695982,
+      "game": "https://www.chess.com/game/live/2664139094"
+    },
+    "record": {
+      "win": 695,
+      "loss": 652,
+      "draw": 36
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2352,
+      "date": 1774980059,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1774980059,
+      "game": "https://www.chess.com/game/live/2364036727"
+    },
+    "record": {
+      "win": 6038,
+      "loss": 5650,
+      "draw": 730
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1772228422
+    },
+    "lowest": {
+      "rating": 1973,
+      "date": 1768854617
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 32639130,
+  "@id": "https://api.chess.com/pub/player/jacobsfrog",
+  "url": "https://www.chess.com/member/jacobsfrog",
+  "username": "jacobsfrog",
+  "title": "NM",
+  "followers": 100,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776562875,
+  "joined": 1485279213,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1525,
+      "date": 1739525340,
+      "rd": 115
+    },
+    "best": {
+      "rating": 1850,
+      "date": 1673845523,
+      "game": "https://www.chess.com/game/daily/584304429"
+    },
+    "record": {
+      "win": 5,
+      "loss": 14,
+      "draw": 3,
+      "time_per_move": 41607,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2157,
+      "date": 1753192218,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2160,
+      "date": 1617416306,
+      "game": "https://www.chess.com/game/live/11154273267"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2521,
+      "date": 1776562862,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2702,
+      "date": 1760388836,
+      "game": "https://www.chess.com/game/live/143628100660"
+    },
+    "record": {
+      "win": 3000,
+      "loss": 2386,
+      "draw": 302
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1775926091,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2605,
+      "date": 1775324763,
+      "game": "https://www.chess.com/game/live/134596743861"
+    },
+    "record": {
+      "win": 8306,
+      "loss": 6303,
+      "draw": 1149
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2403,
+      "date": 1767329697
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1764363359
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 220677523,
+  "@id": "https://api.chess.com/pub/player/kylelancman",
+  "url": "https://www.chess.com/member/kylelancman",
+  "name": "Kyle Lancman",
+  "username": "kylelancman",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "NYC",
+  "last_online": 1776378224,
+  "joined": 1672937545,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1841,
+      "date": 1705737864,
+      "rd": 260
+    },
+    "best": {
+      "rating": 1841,
+      "date": 1705737864,
+      "game": "https://www.chess.com/game/daily/589744203"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37728,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2371,
+      "date": 1740524796,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1710281015,
+      "game": "https://www.chess.com/game/live/104018980141"
+    },
+    "record": {
+      "win": 9,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2376,
+      "date": 1775800888,
+      "rd": 123
+    },
+    "best": {
+      "rating": 2481,
+      "date": 1721769779,
+      "game": "https://www.chess.com/game/live/130733430973"
+    },
+    "record": {
+      "win": 71,
+      "loss": 25,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2571,
+      "date": 1776280154,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2645,
+      "date": 1775697638,
+      "game": "https://www.chess.com/game/live/117321647541"
+    },
+    "record": {
+      "win": 296,
+      "loss": 208,
+      "draw": 39
+    }
+  },
+  "fide": 2081,
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1672937545
+    },
+    "lowest": {
+      "rating": 2358,
+      "date": 1672937545
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 22
+    }
+  }
+}

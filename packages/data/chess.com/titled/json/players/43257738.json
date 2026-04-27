@@ -1,0 +1,118 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/43257738.c44a9328.200x200o.9841211d2f6b.png",
+  "player_id": 43257738,
+  "@id": "https://api.chess.com/pub/player/th3d4rkness",
+  "url": "https://www.chess.com/member/th3d4rkness",
+  "name": "Luciano Justi Antunes",
+  "username": "th3d4rkness",
+  "title": "NM",
+  "followers": 890,
+  "country": "https://api.chess.com/pub/country/BR",
+  "location": "Lages/SC",
+  "last_online": 1776596935,
+  "joined": 1518415738,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/justichess",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/justichess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1666,
+      "date": 1776573581,
+      "rd": 100
+    },
+    "best": {
+      "rating": 1800,
+      "date": 1704210975,
+      "game": "https://www.chess.com/game/daily/246924696"
+    },
+    "record": {
+      "win": 155,
+      "loss": 53,
+      "draw": 7,
+      "time_per_move": 27224,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 3
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2199,
+      "date": 1741552229,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1650156714,
+      "game": "https://www.chess.com/game/live/52507292879"
+    },
+    "record": {
+      "win": 488,
+      "loss": 307,
+      "draw": 85
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2016,
+      "date": 1717351711,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2140,
+      "date": 1660439937,
+      "game": "https://www.chess.com/game/live/104431928555"
+    },
+    "record": {
+      "win": 65,
+      "loss": 50,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2209,
+      "date": 1774288017,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1770917671,
+      "game": "https://www.chess.com/game/live/153578196283"
+    },
+    "record": {
+      "win": 6800,
+      "loss": 5632,
+      "draw": 943
+    }
+  },
+  "fide": 2045,
+  "tactics": {
+    "highest": {
+      "rating": 2000,
+      "date": 1776563062
+    },
+    "lowest": {
+      "rating": 1918,
+      "date": 1776563111
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

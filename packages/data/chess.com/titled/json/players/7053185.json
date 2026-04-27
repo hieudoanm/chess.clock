@@ -1,0 +1,86 @@
+{
+  "player_id": 7053185,
+  "@id": "https://api.chess.com/pub/player/brainwolf",
+  "url": "https://www.chess.com/member/brainwolf",
+  "name": "Hans Tikkanen",
+  "username": "brainwolf",
+  "title": "GM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/SE",
+  "location": "Vimmerby",
+  "last_online": 1776586622,
+  "joined": 1332442068,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1517,
+      "date": 1655796348,
+      "rd": 208
+    },
+    "best": {
+      "rating": 1517,
+      "date": 1655796348,
+      "game": "https://www.chess.com/game/live/49534172735"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1904,
+      "date": 1581709192,
+      "rd": 134
+    },
+    "best": {
+      "rating": 1754,
+      "date": 1572385896,
+      "game": "https://www.chess.com/game/live/4162676713"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2483,
+      "date": 1592321353,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1588845301,
+      "game": "https://www.chess.com/game/live/4447258784"
+    },
+    "record": {
+      "win": 133,
+      "loss": 59,
+      "draw": 19
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2928,
+      "date": 1761917379
+    },
+    "lowest": {
+      "rating": 2902,
+      "date": 1761910518
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

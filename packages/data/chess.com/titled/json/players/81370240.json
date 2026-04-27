@@ -1,0 +1,83 @@
+{
+  "player_id": 81370240,
+  "@id": "https://api.chess.com/pub/player/freshmozz",
+  "url": "https://www.chess.com/member/FreshMozz",
+  "name": "Graham Free",
+  "username": "freshmozz",
+  "title": "NM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1766612196,
+  "joined": 1591208588,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2033,
+      "date": 1635630296,
+      "rd": 114
+    },
+    "best": {
+      "rating": 2042,
+      "date": 1632597001,
+      "game": "https://www.chess.com/game/live/23318475567"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1958,
+      "date": 1595706854,
+      "rd": 34
+    },
+    "best": {
+      "rating": 1996,
+      "date": 1595693706,
+      "game": "https://www.chess.com/game/live/5202904663"
+    },
+    "record": {
+      "win": 47,
+      "loss": 57,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2434,
+      "date": 1634751833,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1592595192,
+      "game": "https://www.chess.com/game/live/5027009859"
+    },
+    "record": {
+      "win": 69,
+      "loss": 57,
+      "draw": 15
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2172,
+      "date": 1591208588
+    },
+    "lowest": {
+      "rating": 2172,
+      "date": 1591208588
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

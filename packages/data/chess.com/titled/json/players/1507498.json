@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1507498.39177a37.200x200o.018101040dcd.jpeg",
+  "player_id": 1507498,
+  "@id": "https://api.chess.com/pub/player/hightide",
+  "url": "https://www.chess.com/member/hightide",
+  "name": "Patrick Perry",
+  "username": "hightide",
+  "title": "NM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "kailua, hawaii",
+  "last_online": 1776581661,
+  "joined": 1221716042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1611327444,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 120487,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1379,
+      "date": 1750782182,
+      "rd": 159
+    },
+    "best": {
+      "rating": 1870,
+      "date": 1429162209,
+      "game": "https://www.chess.com/game/live/5566217779"
+    },
+    "record": {
+      "win": 16,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1470,
+      "date": 1729449403,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1427612400,
+      "game": "https://www.chess.com/game/live/123149978845"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2297,
+      "date": 1776581648,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2450,
+      "date": 1750305931,
+      "game": "https://www.chess.com/game/live/143899216305"
+    },
+    "record": {
+      "win": 23181,
+      "loss": 19796,
+      "draw": 3689
+    }
+  },
+  "fide": 2290,
+  "tactics": {
+    "highest": {
+      "rating": 2223,
+      "date": 1760993870
+    },
+    "lowest": {
+      "rating": 2081,
+      "date": 1775972171
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

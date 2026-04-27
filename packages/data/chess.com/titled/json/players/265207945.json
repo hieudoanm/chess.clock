@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/265207945.77dfb990.200x200o.c03d23ec3c0b.jpg",
+  "player_id": 265207945,
+  "@id": "https://api.chess.com/pub/player/bpm_90",
+  "url": "https://www.chess.com/member/bpm_90",
+  "name": "Marcel Kutowski",
+  "username": "bpm_90",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776597760,
+  "joined": 1679502831,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2480,
+      "date": 1776412787,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2480,
+      "date": 1776412787,
+      "game": "https://www.chess.com/game/live/167270536184"
+    },
+    "record": {
+      "win": 41,
+      "loss": 9,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2766,
+      "date": 1776597753,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2888,
+      "date": 1760996641,
+      "game": "https://www.chess.com/game/live/145659113158"
+    },
+    "record": {
+      "win": 3449,
+      "loss": 2770,
+      "draw": 556
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2823,
+      "date": 1776366621,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2868,
+      "date": 1758807591,
+      "game": "https://www.chess.com/game/live/146219643258"
+    },
+    "record": {
+      "win": 668,
+      "loss": 498,
+      "draw": 116
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2314,
+      "date": 1762439675
+    },
+    "lowest": {
+      "rating": 2231,
+      "date": 1776188796
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

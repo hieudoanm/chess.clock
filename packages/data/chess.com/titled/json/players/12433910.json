@@ -1,0 +1,85 @@
+{
+  "player_id": 12433910,
+  "@id": "https://api.chess.com/pub/player/eloveja",
+  "url": "https://www.chess.com/member/eloveja",
+  "username": "eloveja",
+  "title": "FM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776525387,
+  "joined": 1371935350,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 546,
+      "date": 1772033981,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1371935350,
+      "game": "https://www.chess.com/game/daily/519112077"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 11691,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2649,
+      "date": 1776433735,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2669,
+      "date": 1775832901,
+      "game": "https://www.chess.com/game/live/167121761650"
+    },
+    "record": {
+      "win": 1521,
+      "loss": 1154,
+      "draw": 126
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2355,
+      "date": 1752408515,
+      "rd": 216
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1575762750,
+      "game": "https://www.chess.com/game/live/4023903010"
+    },
+    "record": {
+      "win": 3921,
+      "loss": 3670,
+      "draw": 510
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2300,
+      "date": 1371935350
+    },
+    "lowest": {
+      "rating": 2300,
+      "date": 1371935350
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 35
+    }
+  }
+}

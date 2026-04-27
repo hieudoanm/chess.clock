@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/1479355796",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2016.02.28\"]\n[Round \"-\"]\n[White \"Grischuk\"]\n[Black \"sokua\"]\n[Result \"1-0\"]\n[CurrentPosition \"5rk1/5bp1/3N1p2/4p2p/Pn1p4/3P2P1/1P2PPBP/R1R3K1 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"A00\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Fianchetto-Opening\"]\n[UTCDate \"2016.02.28\"]\n[UTCTime \"13:14:07\"]\n[WhiteElo \"2760\"]\n[BlackElo \"2571\"]\n[TimeControl \"60\"]\n[Termination \"Grischuk won by resignation\"]\n[StartTime \"13:14:07\"]\n[EndDate \"2016.02.28\"]\n[EndTime \"13:15:10\"]\n[Link \"https://www.chess.com/game/live/1479355796\"]\n\n1. g3 {[%clk 0:01:00]} 1... c6 {[%clk 0:00:59]} 2. Bg2 {[%clk 0:00:59.5]} 2... d5 {[%clk 0:00:58.9]} 3. Nf3 {[%clk 0:00:58.9]} 3... Nf6 {[%clk 0:00:58.8]} 4. c4 {[%clk 0:00:58.5]} 4... Bf5 {[%clk 0:00:58.5]} 5. cxd5 {[%clk 0:00:57.1]} 5... cxd5 {[%clk 0:00:58.4]} 6. Qb3 {[%clk 0:00:56.7]} 6... Qb6 {[%clk 0:00:58.1]} 7. Qxb6 {[%clk 0:00:56]} 7... axb6 {[%clk 0:00:58]} 8. Nc3 {[%clk 0:00:55.8]} 8... Nc6 {[%clk 0:00:57.7]} 9. d3 {[%clk 0:00:54.6]} 9... e5 {[%clk 0:00:57.1]} 10. O-O {[%clk 0:00:52.9]} 10... d4 {[%clk 0:00:55.5]} 11. Nb5 {[%clk 0:00:51.6]} 11... Ra5 {[%clk 0:00:54.3]} 12. a4 {[%clk 0:00:49.3]} 12... Be7 {[%clk 0:00:50.1]} 13. Bd2 {[%clk 0:00:47.3]} 13... O-O {[%clk 0:00:47.3]} 14. Bxa5 {[%clk 0:00:45.4]} 14... bxa5 {[%clk 0:00:47.2]} 15. Nd2 {[%clk 0:00:44.4]} 15... Be6 {[%clk 0:00:45.6]} 16. Rfc1 {[%clk 0:00:42.8]} 16... Nd5 {[%clk 0:00:44.9]} 17. Ne4 {[%clk 0:00:41.4]} 17... f6 {[%clk 0:00:44.3]} 18. Nc5 {[%clk 0:00:40.5]} 18... Bf7 {[%clk 0:00:43.2]} 19. Nxb7 {[%clk 0:00:39.1]} 19... Ncb4 {[%clk 0:00:42.7]} 20. Nxa5 {[%clk 0:00:38]} 20... h5 {[%clk 0:00:39.3]} 21. Nc6 {[%clk 0:00:37.1]} 21... Bd6 {[%clk 0:00:36.7]} 22. Nxb4 {[%clk 0:00:35.2]} 22... Nxb4 {[%clk 0:00:36.3]} 23. Nxd6 {[%clk 0:00:34.1]} 1-0\n",
+    "time_control": "60",
+    "end_time": 1456665310,
+    "rated": true,
+    "accuracies": {
+      "white": 92.59,
+      "black": 77.7
+    },
+    "tcn": "owYQfoZJgv!TkA6LAJQJdr7PrPWPbs5Qlt0KegJBsH4Giy90cl8!lGPGvlLSfcTJlC1TCIS1IXQzXG3NGQ0RQzJzHR",
+    "uuid": "ad4dd2a8-5110-11e0-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "5rk1/5bp1/3N1p2/4p2p/Pn1p4/3P2P1/1P2PPBP/R1R3K1 b - -",
+    "time_class": "bullet",
+    "rules": "chess",
+    "white": {
+      "rating": 2760,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/grischuk",
+      "username": "Grischuk",
+      "uuid": "b5ffabc2-daa1-11e5-803a-000000000000"
+    },
+    "black": {
+      "rating": 2571,
+      "result": "resigned",
+      "@id": "https://api.chess.com/pub/player/sokua",
+      "username": "sokua",
+      "uuid": "991ff01a-49ea-11e3-8034-000000000000"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "player_id": 41793030,
+  "@id": "https://api.chess.com/pub/player/katuducha",
+  "url": "https://www.chess.com/member/Katuducha",
+  "name": "Manuel Alberto Alberto",
+  "username": "katuducha",
+  "title": "FM",
+  "followers": 126,
+  "country": "https://api.chess.com/pub/country/AO",
+  "last_online": 1763229839,
+  "joined": 1514545396,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1716366547,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 7,
+      "draw": 0,
+      "time_per_move": 84815,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1936,
+      "date": 1689249215,
+      "rd": 157
+    },
+    "best": {
+      "rating": 2296,
+      "date": 1596385840,
+      "game": "https://www.chess.com/game/live/80925791287"
+    },
+    "record": {
+      "win": 9,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1832,
+      "date": 1688654631,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2336,
+      "date": 1600264582,
+      "game": "https://www.chess.com/game/live/73145683471"
+    },
+    "record": {
+      "win": 419,
+      "loss": 263,
+      "draw": 41
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2188,
+      "date": 1762890804,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2436,
+      "date": 1677604885,
+      "game": "https://www.chess.com/game/live/74359433457"
+    },
+    "record": {
+      "win": 8858,
+      "loss": 7109,
+      "draw": 801
+    }
+  },
+  "fide": 2133,
+  "tactics": {
+    "highest": {
+      "rating": 2173,
+      "date": 1514545396
+    },
+    "lowest": {
+      "rating": 2173,
+      "date": 1514545396
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 18,
+      "score": 17
+    }
+  }
+}

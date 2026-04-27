@@ -1,0 +1,98 @@
+{
+  "player_id": 26471858,
+  "@id": "https://api.chess.com/pub/player/kaliopa",
+  "url": "https://www.chess.com/member/Kaliopa",
+  "name": "Beloslava Krasteva",
+  "username": "kaliopa",
+  "title": "WGM",
+  "followers": 101,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1775551905,
+  "joined": 1454398916,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1734655237,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 759118,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2082,
+      "date": 1698619847,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2118,
+      "date": 1698611318,
+      "game": "https://www.chess.com/game/live/92348580787"
+    },
+    "record": {
+      "win": 18,
+      "loss": 13,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2204,
+      "date": 1724712229,
+      "rd": 83
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1592662916,
+      "game": "https://www.chess.com/game/live/5030611423"
+    },
+    "record": {
+      "win": 9,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2186,
+      "date": 1751385535,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2334,
+      "date": 1634503498,
+      "game": "https://www.chess.com/game/live/10259003417"
+    },
+    "record": {
+      "win": 514,
+      "loss": 543,
+      "draw": 87
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1766243898
+    },
+    "lowest": {
+      "rating": 2501,
+      "date": 1766241086
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

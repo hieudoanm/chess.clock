@@ -1,0 +1,99 @@
+{
+    "player_id": 269876765,
+    "@id": "https://api.chess.com/pub/player/josetricks",
+    "url": "https://www.chess.com/member/Josetricks",
+    "name": "Jose Javier Gonz\u00e1lez",
+    "username": "josetricks",
+    "title": "CM",
+    "followers": 12,
+    "country": "https://api.chess.com/pub/country/ES",
+    "last_online": 1734118082,
+    "joined": 1680382631,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Silver",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1210,
+            "date": 1727128710,
+            "rd": 196
+        },
+        "best": {
+            "rating": 1600,
+            "date": 1680382631,
+            "game": "https://www.chess.com/game/daily/589648963"
+        },
+        "record": {
+            "win": 7,
+            "loss": 5,
+            "draw": 0,
+            "time_per_move": 16321,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2169,
+            "date": 1727797563,
+            "rd": 49
+        },
+        "record": {
+            "win": 0,
+            "loss": 1,
+            "draw": 0
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2365,
+            "date": 1727539474,
+            "rd": 66
+        },
+        "best": {
+            "rating": 2451,
+            "date": 1718292152,
+            "game": "https://www.chess.com/game/live/78312650693"
+        },
+        "record": {
+            "win": 96,
+            "loss": 110,
+            "draw": 15
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2559,
+            "date": 1734042182,
+            "rd": 33
+        },
+        "best": {
+            "rating": 2727,
+            "date": 1711469640,
+            "game": "https://www.chess.com/game/live/107040705321"
+        },
+        "record": {
+            "win": 619,
+            "loss": 728,
+            "draw": 124
+        }
+    },
+    "fide": 2148,
+    "tactics": {
+        "highest": {
+            "rating": 3211,
+            "date": 1718378416
+        },
+        "lowest": {
+            "rating": 1000,
+            "date": 1680382631
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 52,
+            "score": 49
+        }
+    }
+}

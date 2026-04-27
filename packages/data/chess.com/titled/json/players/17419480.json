@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17419480.a4c9dcc5.200x200o.9ebacee9fdda.jpg",
+  "player_id": 17419480,
+  "@id": "https://api.chess.com/pub/player/marcus_harvey",
+  "url": "https://www.chess.com/member/Marcus_Harvey",
+  "name": "Marcus Harvey",
+  "username": "marcus_harvey",
+  "title": "IM",
+  "followers": 960,
+  "country": "https://api.chess.com/pub/country/XE",
+  "location": "London",
+  "last_online": 1776591834,
+  "joined": 1400921605,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1237,
+      "date": 1717786126,
+      "rd": 248
+    },
+    "best": {
+      "rating": 1424,
+      "date": 1401400525,
+      "game": "https://www.chess.com/game/daily/90929124"
+    },
+    "record": {
+      "win": 1,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 62311,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2386,
+      "date": 1748825652,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2426,
+      "date": 1604063615,
+      "game": "https://www.chess.com/game/live/5659387805"
+    },
+    "record": {
+      "win": 32,
+      "loss": 9,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2839,
+      "date": 1764086714,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2903,
+      "date": 1667348044,
+      "game": "https://www.chess.com/game/live/5158161066"
+    },
+    "record": {
+      "win": 293,
+      "loss": 205,
+      "draw": 48
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2887,
+      "date": 1776548374,
+      "rd": 33
+    },
+    "best": {
+      "rating": 3002,
+      "date": 1755173778,
+      "game": "https://www.chess.com/game/live/166091141200"
+    },
+    "record": {
+      "win": 11762,
+      "loss": 8484,
+      "draw": 2462
+    }
+  },
+  "fide": 2445,
+  "tactics": {
+    "highest": {
+      "rating": 2399,
+      "date": 1400921605
+    },
+    "lowest": {
+      "rating": 2399,
+      "date": 1400921605
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

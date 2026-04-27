@@ -1,0 +1,66 @@
+{
+  "player_id": 123039534,
+  "@id": "https://api.chess.com/pub/player/damagedoers",
+  "url": "https://www.chess.com/member/DamageDoers",
+  "username": "damagedoers",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1651413448,
+  "joined": 1613967484,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2380,
+      "date": 1651438894,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1617737169,
+      "game": "https://www.chess.com/game/live/11354596409"
+    },
+    "record": {
+      "win": 305,
+      "loss": 260,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2228,
+      "date": 1651077887,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2396,
+      "date": 1614798616,
+      "game": "https://www.chess.com/game/live/15789278173"
+    },
+    "record": {
+      "win": 94,
+      "loss": 72,
+      "draw": 16
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2067,
+      "date": 1613967484
+    },
+    "lowest": {
+      "rating": 2067,
+      "date": 1613967484
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

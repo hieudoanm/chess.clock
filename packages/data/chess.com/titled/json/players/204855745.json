@@ -1,0 +1,84 @@
+{
+  "player_id": 204855745,
+  "@id": "https://api.chess.com/pub/player/fif_08",
+  "url": "https://www.chess.com/member/Fif_08",
+  "username": "fif_08",
+  "title": "CM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776337566,
+  "joined": 1667642486,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1761688307,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1761688307,
+      "game": "https://www.chess.com/game/live/133346954557"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2124,
+      "date": 1760785048,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2217,
+      "date": 1708179752,
+      "game": "https://www.chess.com/game/live/101481102013"
+    },
+    "record": {
+      "win": 100,
+      "loss": 67,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2267,
+      "date": 1760214072,
+      "rd": 108
+    },
+    "best": {
+      "rating": 2314,
+      "date": 1707327897,
+      "game": "https://www.chess.com/game/live/103636168645"
+    },
+    "record": {
+      "win": 153,
+      "loss": 108,
+      "draw": 25
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2421,
+      "date": 1667642486
+    },
+    "lowest": {
+      "rating": 2421,
+      "date": 1667642486
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "player_id": 33327635,
+  "@id": "https://api.chess.com/pub/player/tactictic",
+  "url": "https://www.chess.com/member/Tactictic",
+  "name": "Richard Bethke",
+  "username": "tactictic",
+  "title": "FM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1768507649,
+  "joined": 1487498954,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 699,
+      "date": 1592320851,
+      "rd": 279
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 30197,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2289,
+      "date": 1600430341,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2350,
+      "date": 1600429688,
+      "game": "https://www.chess.com/game/live/2905746575"
+    },
+    "record": {
+      "win": 9,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2589,
+      "date": 1763574383,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1645953668,
+      "game": "https://www.chess.com/game/live/39691212479"
+    },
+    "record": {
+      "win": 144,
+      "loss": 74,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2463,
+      "date": 1694531761,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1670952109,
+      "game": "https://www.chess.com/game/live/79802563095"
+    },
+    "record": {
+      "win": 486,
+      "loss": 457,
+      "draw": 45
+    }
+  },
+  "fide": 2337,
+  "tactics": {
+    "highest": {
+      "rating": 2443,
+      "date": 1487498954
+    },
+    "lowest": {
+      "rating": 2443,
+      "date": 1487498954
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 51
+    }
+  }
+}

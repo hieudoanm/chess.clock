@@ -1,0 +1,97 @@
+{
+  "player_id": 55625190,
+  "@id": "https://api.chess.com/pub/player/haotang007",
+  "url": "https://www.chess.com/member/haoTang007",
+  "username": "haotang007",
+  "title": "CM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/MY",
+  "last_online": 1759652256,
+  "joined": 1546824480,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1311,
+      "date": 1710232712,
+      "rd": 112
+    },
+    "best": {
+      "rating": 1725,
+      "date": 1588462014,
+      "game": "https://www.chess.com/game/daily/260575784"
+    },
+    "record": {
+      "win": 12,
+      "loss": 9,
+      "draw": 0,
+      "time_per_move": 23477,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2293,
+      "date": 1754369031,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2321,
+      "date": 1750669417,
+      "game": "https://www.chess.com/game/live/140203811842"
+    },
+    "record": {
+      "win": 1290,
+      "loss": 880,
+      "draw": 181
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1742,
+      "date": 1744513861,
+      "rd": 76
+    },
+    "record": {
+      "win": 10,
+      "loss": 10,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1883,
+      "date": 1745735298,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1699953082,
+      "game": "https://www.chess.com/game/live/96116598857"
+    },
+    "record": {
+      "win": 1031,
+      "loss": 913,
+      "draw": 87
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1641,
+      "date": 1546824480
+    },
+    "lowest": {
+      "rating": 1641,
+      "date": 1546824480
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

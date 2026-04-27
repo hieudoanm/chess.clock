@@ -1,0 +1,99 @@
+{
+  "player_id": 31085754,
+  "@id": "https://api.chess.com/pub/player/stayflow",
+  "url": "https://www.chess.com/member/STAYFlow",
+  "name": "Florian Daeschler",
+  "username": "stayflow",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1775565025,
+  "joined": 1479839072,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 641,
+      "date": 1708522093,
+      "rd": 216
+    },
+    "record": {
+      "win": 0,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 35055,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1176,
+      "date": 1613755033,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2013,
+      "date": 1606324126,
+      "game": "https://www.chess.com/game/live/6234302416"
+    },
+    "record": {
+      "win": 3,
+      "loss": 21,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2228,
+      "date": 1609603060,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1609446603,
+      "game": "https://www.chess.com/game/live/3587984087"
+    },
+    "record": {
+      "win": 113,
+      "loss": 88,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2553,
+      "date": 1766585867,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2582,
+      "date": 1766563036,
+      "game": "https://www.chess.com/game/live/50188846343"
+    },
+    "record": {
+      "win": 909,
+      "loss": 670,
+      "draw": 132
+    }
+  },
+  "fide": 2305,
+  "tactics": {
+    "highest": {
+      "rating": 2195,
+      "date": 1479839072
+    },
+    "lowest": {
+      "rating": 2195,
+      "date": 1479839072
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "player_id": 9171494,
+  "@id": "https://api.chess.com/pub/player/viswa_shaji",
+  "url": "https://www.chess.com/member/viswa_shaji",
+  "name": "Shaji V",
+  "username": "viswa_shaji",
+  "title": "WCM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/IN",
+  "location": "palakkad",
+  "last_online": 1741773103,
+  "joined": 1349604133,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1213,
+      "date": 1734275902,
+      "rd": 138
+    },
+    "best": {
+      "rating": 1351,
+      "date": 1482976802,
+      "game": "https://www.chess.com/game/daily/95387026"
+    },
+    "record": {
+      "win": 24,
+      "loss": 23,
+      "draw": 2,
+      "time_per_move": 9235,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 400,
+      "date": 1644981477
+    },
+    "best": {
+      "rating": 1774,
+      "date": 1634141764,
+      "game": "https://www.chess.com/game/live/4964861873"
+    },
+    "record": {
+      "win": 358,
+      "loss": 435,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 400,
+      "date": 1626855520
+    },
+    "best": {
+      "rating": 1781,
+      "date": 1624466903,
+      "game": "https://www.chess.com/game/live/18204065437"
+    },
+    "record": {
+      "win": 1003,
+      "loss": 1124,
+      "draw": 12
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 400,
+      "date": 1645124284
+    },
+    "best": {
+      "rating": 1626,
+      "date": 1634033015,
+      "game": "https://www.chess.com/game/live/4682215283"
+    },
+    "record": {
+      "win": 5060,
+      "loss": 5588,
+      "draw": 286
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2046,
+      "date": 1349604133
+    },
+    "lowest": {
+      "rating": 2046,
+      "date": 1349604133
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

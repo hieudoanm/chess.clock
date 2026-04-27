@@ -1,0 +1,85 @@
+{
+  "player_id": 342658271,
+  "@id": "https://api.chess.com/pub/player/rhwr",
+  "url": "https://www.chess.com/member/rhwr",
+  "name": "Paul Rohwer",
+  "username": "rhwr",
+  "title": "NM",
+  "followers": 279,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776569522,
+  "joined": 1706823379,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2275,
+      "date": 1773597863,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1731722134,
+      "game": "https://www.chess.com/game/live/104868726009"
+    },
+    "record": {
+      "win": 148,
+      "loss": 85,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2360,
+      "date": 1775690584,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2475,
+      "date": 1766694764,
+      "game": "https://www.chess.com/game/live/126729027379"
+    },
+    "record": {
+      "win": 23996,
+      "loss": 27445,
+      "draw": 2241
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2466,
+      "date": 1776569426,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2576,
+      "date": 1774560171,
+      "game": "https://www.chess.com/game/live/166872017509"
+    },
+    "record": {
+      "win": 2687,
+      "loss": 2480,
+      "draw": 420
+    }
+  },
+  "fide": 2225,
+  "tactics": {
+    "highest": {
+      "rating": 2505,
+      "date": 1766896137
+    },
+    "lowest": {
+      "rating": 2065,
+      "date": 1755550079
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 1,
+      "score": 0
+    }
+  }
+}

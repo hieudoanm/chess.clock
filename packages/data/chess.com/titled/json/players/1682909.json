@@ -1,0 +1,101 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1682909.896905b4.200x200o.4e1cc35223a2.jpeg",
+  "player_id": 1682909,
+  "@id": "https://api.chess.com/pub/player/jd001",
+  "url": "https://www.chess.com/member/jd001",
+  "name": "John Duneas",
+  "username": "jd001",
+  "title": "FM",
+  "followers": 80,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "location": "North Shore City",
+  "last_online": 1776593894,
+  "joined": 1230508007,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1764,
+      "date": 1644314994,
+      "rd": 140
+    },
+    "best": {
+      "rating": 1857,
+      "date": 1588405191,
+      "game": "https://www.chess.com/game/daily/260575546"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 5660,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2050,
+      "date": 1721611436,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2143,
+      "date": 1670722038,
+      "game": "https://www.chess.com/game/live/45692958833"
+    },
+    "record": {
+      "win": 55,
+      "loss": 33,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1927,
+      "date": 1499848304,
+      "rd": 116
+    },
+    "best": {
+      "rating": 1777,
+      "date": 1499847106,
+      "game": "https://www.chess.com/game/live/2004485405"
+    },
+    "record": {
+      "win": 16,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2254,
+      "date": 1776593865,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2456,
+      "date": 1758054560,
+      "game": "https://www.chess.com/game/live/147852453968"
+    },
+    "record": {
+      "win": 15695,
+      "loss": 13524,
+      "draw": 2216
+    }
+  },
+  "fide": 2147,
+  "tactics": {
+    "highest": {
+      "rating": 2432,
+      "date": 1764474894
+    },
+    "lowest": {
+      "rating": 2066,
+      "date": 1764477438
+    }
+  },
+  "puzzle_rush": {}
+}

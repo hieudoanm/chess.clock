@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/8066598.8064ea07.200x200o.9a7e415551ab.jpeg",
+  "player_id": 8066598,
+  "@id": "https://api.chess.com/pub/player/robertris",
+  "url": "https://www.chess.com/member/RobertRis",
+  "name": "Robert Ris",
+  "username": "robertris",
+  "title": "IM",
+  "followers": 891,
+  "country": "https://api.chess.com/pub/country/NL",
+  "location": "Amsterdam",
+  "last_online": 1776551409,
+  "joined": 1341190848,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2281,
+      "date": 1773496966,
+      "rd": 333
+    },
+    "best": {
+      "rating": 2281,
+      "date": 1773496966,
+      "game": "https://www.chess.com/game/daily/81867866"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5388,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1679,
+      "date": 1684339042,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1599984812,
+      "game": "https://www.chess.com/game/live/5550366885"
+    },
+    "record": {
+      "win": 48,
+      "loss": 16,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2397,
+      "date": 1748891214,
+      "rd": 99
+    },
+    "best": {
+      "rating": 2397,
+      "date": 1748891214,
+      "game": "https://www.chess.com/game/live/2147273469"
+    },
+    "record": {
+      "win": 110,
+      "loss": 39,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2741,
+      "date": 1776367752,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2875,
+      "date": 1760316288,
+      "game": "https://www.chess.com/game/live/144208662182"
+    },
+    "record": {
+      "win": 5450,
+      "loss": 3607,
+      "draw": 998
+    }
+  },
+  "fide": 2452,
+  "tactics": {
+    "highest": {
+      "rating": 1883,
+      "date": 1341190848
+    },
+    "lowest": {
+      "rating": 1883,
+      "date": 1341190848
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

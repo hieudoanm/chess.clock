@@ -1,0 +1,104 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/35982786.ba1b2cfc.200x200o.ffaa0f6252f2.jpg",
+  "player_id": 35982786,
+  "@id": "https://api.chess.com/pub/player/sergoy",
+  "url": "https://www.chess.com/member/sergoy",
+  "name": "Sergey Drygalov",
+  "username": "sergoy",
+  "title": "GM",
+  "followers": 512,
+  "country": "https://api.chess.com/pub/country/KR",
+  "last_online": 1776507271,
+  "joined": 1496330268,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 615,
+      "date": 1756722973,
+      "rd": 210
+    },
+    "best": {
+      "rating": 800,
+      "date": 1496330268,
+      "game": "https://www.chess.com/game/daily/810729782"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 91990,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2555,
+      "date": 1769617164,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1675462019,
+      "game": "https://www.chess.com/game/live/100462500901"
+    },
+    "record": {
+      "win": 58,
+      "loss": 31,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3022,
+      "date": 1751795189,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3074,
+      "date": 1751111262,
+      "game": "https://www.chess.com/game/live/145012762615"
+    },
+    "record": {
+      "win": 1569,
+      "loss": 1005,
+      "draw": 168
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3136,
+      "date": 1776507140,
+      "rd": 35
+    },
+    "best": {
+      "rating": 3167,
+      "date": 1770310898,
+      "game": "https://www.chess.com/game/live/152959596371"
+    },
+    "record": {
+      "win": 4922,
+      "loss": 3032,
+      "draw": 840
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2569,
+      "date": 1767088675
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1766996148
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

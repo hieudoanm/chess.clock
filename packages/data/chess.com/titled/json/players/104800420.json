@@ -1,0 +1,70 @@
+{
+  "player_id": 104800420,
+  "@id": "https://api.chess.com/pub/player/rowan-atkinson",
+  "url": "https://www.chess.com/member/Rowan-Atkinson",
+  "username": "rowan-atkinson",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776587810,
+  "joined": 1608132088,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2722,
+      "date": 1772218183,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2735,
+      "date": 1772142277,
+      "game": "https://www.chess.com/game/live/147198928848"
+    },
+    "record": {
+      "win": 314,
+      "loss": 196,
+      "draw": 77
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2624,
+      "date": 1774385209,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1739455679,
+      "game": "https://www.chess.com/game/live/132175794861"
+    },
+    "record": {
+      "win": 384,
+      "loss": 402,
+      "draw": 43
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2518,
+      "date": 1771087668
+    },
+    "lowest": {
+      "rating": 2422,
+      "date": 1759232274
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    },
+    "daily": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

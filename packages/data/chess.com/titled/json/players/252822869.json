@@ -1,0 +1,103 @@
+{
+  "player_id": 252822869,
+  "@id": "https://api.chess.com/pub/player/slow_jamz",
+  "url": "https://www.chess.com/member/slow_jamz",
+  "name": "Edward Lu",
+  "username": "slow_jamz",
+  "title": "NM",
+  "followers": 89,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776488196,
+  "joined": 1677351462,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1737571683,
+      "rd": 337
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1711221682,
+      "game": "https://www.chess.com/game/daily/484435819"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 278,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2491,
+      "date": 1737575290,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1710449716,
+      "game": "https://www.chess.com/game/live/104187601865"
+    },
+    "record": {
+      "win": 21,
+      "loss": 8,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2400,
+      "date": 1776485910,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2717,
+      "date": 1677536379,
+      "game": "https://www.chess.com/game/live/104263779215"
+    },
+    "record": {
+      "win": 5224,
+      "loss": 5004,
+      "draw": 596
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2652,
+      "date": 1743687691,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2712,
+      "date": 1715999637,
+      "game": "https://www.chess.com/game/live/94168930747"
+    },
+    "record": {
+      "win": 1464,
+      "loss": 1365,
+      "draw": 355
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2358,
+      "date": 1677351462
+    },
+    "lowest": {
+      "rating": 2358,
+      "date": 1677351462
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 44,
+      "score": 41
+    }
+  }
+}

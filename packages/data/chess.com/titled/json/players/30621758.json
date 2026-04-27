@@ -1,0 +1,69 @@
+{
+  "player_id": 30621758,
+  "@id": "https://api.chess.com/pub/player/eloist",
+  "url": "https://www.chess.com/member/Eloist",
+  "name": "Frank Buchenau",
+  "username": "eloist",
+  "title": "FM",
+  "followers": 44,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Germany",
+  "last_online": 1776566934,
+  "joined": 1477610137,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2430,
+      "date": 1740405238,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2423,
+      "date": 1609435626,
+      "game": "https://www.chess.com/game/live/6083461364"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2468,
+      "date": 1776566913,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1767717016,
+      "game": "https://www.chess.com/game/live/88291277055"
+    },
+    "record": {
+      "win": 3022,
+      "loss": 3264,
+      "draw": 509
+    }
+  },
+  "fide": 2269,
+  "tactics": {
+    "highest": {
+      "rating": 2588,
+      "date": 1756014627
+    },
+    "lowest": {
+      "rating": 2282,
+      "date": 1773939846
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 49
+    }
+  }
+}

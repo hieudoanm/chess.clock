@@ -1,0 +1,83 @@
+{
+  "player_id": 78210012,
+  "@id": "https://api.chess.com/pub/player/homosacer97",
+  "url": "https://www.chess.com/member/HomoSacer97",
+  "name": "Martin Istona",
+  "username": "homosacer97",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1776582916,
+  "joined": 1588247014,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2300,
+      "date": 1599169794,
+      "rd": 240
+    },
+    "best": {
+      "rating": 2113,
+      "date": 1590776739,
+      "game": "https://www.chess.com/game/live/4913749411"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2255,
+      "date": 1636115019,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1635867115,
+      "game": "https://www.chess.com/game/live/29853533841"
+    },
+    "record": {
+      "win": 64,
+      "loss": 15,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2319,
+      "date": 1595626808,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2319,
+      "date": 1595626808,
+      "game": "https://www.chess.com/game/live/5170113157"
+    },
+    "record": {
+      "win": 204,
+      "loss": 111,
+      "draw": 19
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2345,
+      "date": 1760165209
+    },
+    "lowest": {
+      "rating": 2197,
+      "date": 1769193750
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

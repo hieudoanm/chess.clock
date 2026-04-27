@@ -1,0 +1,104 @@
+{
+  "player_id": 49145054,
+  "@id": "https://api.chess.com/pub/player/springring",
+  "url": "https://www.chess.com/member/springring",
+  "name": "Bahar Hallaeva",
+  "username": "springring",
+  "title": "WFM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/TM",
+  "last_online": 1776552407,
+  "joined": 1535312317,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1741,
+      "date": 1720844276,
+      "rd": 137
+    },
+    "best": {
+      "rating": 1772,
+      "date": 1568930231,
+      "game": "https://www.chess.com/game/daily/237566694"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0,
+      "time_per_move": 19221,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2141,
+      "date": 1758766917,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2141,
+      "date": 1758766917,
+      "game": "https://www.chess.com/game/live/143172639508"
+    },
+    "record": {
+      "win": 8,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2226,
+      "date": 1746305046,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2341,
+      "date": 1720843830,
+      "game": "https://www.chess.com/game/live/63163766797"
+    },
+    "record": {
+      "win": 858,
+      "loss": 858,
+      "draw": 31
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2274,
+      "date": 1671584637,
+      "rd": 72
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1669695569,
+      "game": "https://www.chess.com/game/live/4454710090"
+    },
+    "record": {
+      "win": 561,
+      "loss": 602,
+      "draw": 63
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2524,
+      "date": 1535312317
+    },
+    "lowest": {
+      "rating": 2524,
+      "date": 1535312317
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 56
+    }
+  }
+}

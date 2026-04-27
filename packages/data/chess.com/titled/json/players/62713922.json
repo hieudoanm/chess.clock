@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62713922.dad1ddec.200x200o.a8e1dfe2a4bd.jpeg",
+  "player_id": 62713922,
+  "@id": "https://api.chess.com/pub/player/frankshar",
+  "url": "https://www.chess.com/member/frankshar",
+  "name": "Franciszek Sernecki",
+  "username": "frankshar",
+  "title": "FM",
+  "followers": 47,
+  "country": "https://api.chess.com/pub/country/PL",
+  "location": "Wroc\u0142aw",
+  "last_online": 1776245432,
+  "joined": 1561576494,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1713,
+      "date": 1707730148,
+      "rd": 232
+    },
+    "best": {
+      "rating": 1967,
+      "date": 1665120653,
+      "game": "https://www.chess.com/game/daily/425486103"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 154159,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2027,
+      "date": 1701424957,
+      "rd": 163
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1590425410,
+      "game": "https://www.chess.com/game/live/4906695233"
+    },
+    "record": {
+      "win": 13,
+      "loss": 4,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2418,
+      "date": 1750714165,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2469,
+      "date": 1662191666,
+      "game": "https://www.chess.com/game/live/145024173351"
+    },
+    "record": {
+      "win": 115,
+      "loss": 139,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2501,
+      "date": 1755532114,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2641,
+      "date": 1651011284,
+      "game": "https://www.chess.com/game/live/123974455037"
+    },
+    "record": {
+      "win": 355,
+      "loss": 329,
+      "draw": 74
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2495,
+      "date": 1561576494
+    },
+    "lowest": {
+      "rating": 2495,
+      "date": 1561576494
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

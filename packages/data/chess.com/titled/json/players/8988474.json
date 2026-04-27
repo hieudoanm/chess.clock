@@ -1,0 +1,105 @@
+{
+  "player_id": 8988474,
+  "@id": "https://api.chess.com/pub/player/chandradi",
+  "url": "https://www.chess.com/member/Chandradi",
+  "name": "Roman Mitra",
+  "username": "chandradi",
+  "title": "NM",
+  "followers": 61,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "London",
+  "last_online": 1776516830,
+  "joined": 1348250406,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1708,
+      "date": 1750251611,
+      "rd": 216
+    },
+    "best": {
+      "rating": 1803,
+      "date": 1486140123,
+      "game": "https://www.chess.com/game/daily/143384194"
+    },
+    "record": {
+      "win": 43,
+      "loss": 8,
+      "draw": 1,
+      "time_per_move": 13463,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2208,
+      "date": 1772736721,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1772736325,
+      "game": "https://www.chess.com/game/live/8172317275"
+    },
+    "record": {
+      "win": 52,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1752699615,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1619610747,
+      "game": "https://www.chess.com/game/live/14663366863"
+    },
+    "record": {
+      "win": 4361,
+      "loss": 3201,
+      "draw": 535
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1776516749,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1766705163,
+      "game": "https://www.chess.com/game/live/101578975233"
+    },
+    "record": {
+      "win": 5393,
+      "loss": 4501,
+      "draw": 846
+    }
+  },
+  "fide": 2744,
+  "tactics": {
+    "highest": {
+      "rating": 2252,
+      "date": 1766667124
+    },
+    "lowest": {
+      "rating": 2156,
+      "date": 1769797501
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 44
+    }
+  }
+}

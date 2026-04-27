@@ -1,0 +1,85 @@
+{
+  "player_id": 293265361,
+  "@id": "https://api.chess.com/pub/player/brown_mamba24",
+  "url": "https://www.chess.com/member/Brown_Mamba24",
+  "name": "Koby Kalavannan",
+  "username": "brown_mamba24",
+  "title": "FM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776534947,
+  "joined": 1686666396,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2465,
+      "date": 1714307681,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2680,
+      "date": 1689469190,
+      "game": "https://www.chess.com/game/live/96688118839"
+    },
+    "record": {
+      "win": 18,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2728,
+      "date": 1765455882,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2775,
+      "date": 1727130993,
+      "game": "https://www.chess.com/game/live/114023973335"
+    },
+    "record": {
+      "win": 204,
+      "loss": 221,
+      "draw": 23
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2802,
+      "date": 1763843493,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2841,
+      "date": 1757782894,
+      "game": "https://www.chess.com/game/live/142810358126"
+    },
+    "record": {
+      "win": 1123,
+      "loss": 1238,
+      "draw": 251
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2779,
+      "date": 1756164452
+    },
+    "lowest": {
+      "rating": 2656,
+      "date": 1762898673
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 48
+    }
+  }
+}

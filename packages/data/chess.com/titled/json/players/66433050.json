@@ -1,0 +1,75 @@
+{
+  "player_id": 66433050,
+  "@id": "https://api.chess.com/pub/player/best722000",
+  "url": "https://www.chess.com/member/best722000",
+  "username": "best722000",
+  "title": "WGM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1737378010,
+  "joined": 1570551180,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1737340007,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 1,
+      "time_per_move": 630468,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2313,
+      "date": 1592902887,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2362,
+      "date": 1588072746,
+      "game": "https://www.chess.com/game/live/5003927802"
+    },
+    "record": {
+      "win": 48,
+      "loss": 54,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2223,
+      "date": 1592743264,
+      "rd": 69
+    },
+    "best": {
+      "rating": 2410,
+      "date": 1575021942,
+      "game": "https://www.chess.com/game/live/4252829759"
+    },
+    "record": {
+      "win": 24,
+      "loss": 24,
+      "draw": 6
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2380,
+      "date": 1570551180
+    },
+    "lowest": {
+      "rating": 2380,
+      "date": 1570551180
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,102 @@
+{
+  "player_id": 138389242,
+  "@id": "https://api.chess.com/pub/player/xiaqiabc1",
+  "url": "https://www.chess.com/member/xiaqiabc1",
+  "username": "xiaqiabc1",
+  "title": "CM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1773042662,
+  "joined": 1619951501,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1746113806,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1713098107,
+      "game": "https://www.chess.com/game/daily/644904981"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 5942,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2132,
+      "date": 1727756988,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1704794738,
+      "game": "https://www.chess.com/game/live/111324065859"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2298,
+      "date": 1755355316,
+      "rd": 58
+    },
+    "best": {
+      "rating": 2349,
+      "date": 1739173119,
+      "game": "https://www.chess.com/game/live/67437022803"
+    },
+    "record": {
+      "win": 378,
+      "loss": 332,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2170,
+      "date": 1761710326,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2501,
+      "date": 1735044366,
+      "game": "https://www.chess.com/game/live/130750842503"
+    },
+    "record": {
+      "win": 2291,
+      "loss": 2428,
+      "draw": 327
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1939,
+      "date": 1619951501
+    },
+    "lowest": {
+      "rating": 1939,
+      "date": 1619951501
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 32,
+      "score": 29
+    }
+  }
+}

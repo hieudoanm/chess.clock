@@ -1,0 +1,89 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/6521325.f90f3104.200x200o.4c20078b4ae7.jpeg",
+  "player_id": 6521325,
+  "@id": "https://api.chess.com/pub/player/chessive94",
+  "url": "https://www.chess.com/member/ChessIve94",
+  "name": "Ivette Garc\u00eda Morales",
+  "username": "chessive94",
+  "title": "WIM",
+  "followers": 727,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "Chihuahua",
+  "last_online": 1775059682,
+  "joined": 1326942124,
+  "status": "staff",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/jugando_ajedrez",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/jugando_ajedrez"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1716366493,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 14,
+      "draw": 0,
+      "time_per_move": 14531,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1768,
+      "date": 1615160590,
+      "rd": 67
+    },
+    "best": {
+      "rating": 1956,
+      "date": 1588197608,
+      "game": "https://www.chess.com/game/live/4679708187"
+    },
+    "record": {
+      "win": 138,
+      "loss": 108,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1970,
+      "date": 1759343930,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2019,
+      "date": 1759339469,
+      "game": "https://www.chess.com/game/live/4828564555"
+    },
+    "record": {
+      "win": 323,
+      "loss": 283,
+      "draw": 46
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2166,
+      "date": 1326942124
+    },
+    "lowest": {
+      "rating": 2166,
+      "date": 1326942124
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "player_id": 48433910,
+  "@id": "https://api.chess.com/pub/player/blobica",
+  "url": "https://www.chess.com/member/blobica",
+  "name": "Jovan Radlovacki",
+  "username": "blobica",
+  "title": "IM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/RS",
+  "location": "Pancevo",
+  "last_online": 1774784301,
+  "joined": 1533300249,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2375,
+      "date": 1633205104,
+      "rd": 190
+    },
+    "best": {
+      "rating": 2375,
+      "date": 1633205104,
+      "game": "https://www.chess.com/game/live/26941905543"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2478,
+      "date": 1644692781,
+      "rd": 137
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1587924308,
+      "game": "https://www.chess.com/game/live/5441281528"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2579,
+      "date": 1758128181,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2687,
+      "date": 1701366366,
+      "game": "https://www.chess.com/game/live/4783887762"
+    },
+    "record": {
+      "win": 73,
+      "loss": 36,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2633,
+      "date": 1772554409
+    },
+    "lowest": {
+      "rating": 2539,
+      "date": 1772553644
+    }
+  },
+  "puzzle_rush": {}
+}

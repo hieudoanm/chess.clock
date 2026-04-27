@@ -1,0 +1,85 @@
+{
+  "player_id": 263547449,
+  "@id": "https://api.chess.com/pub/player/grnic1",
+  "url": "https://www.chess.com/member/grnic1",
+  "name": "Nikolai Grebennikov",
+  "username": "grnic1",
+  "title": "CM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/BG",
+  "last_online": 1776510699,
+  "joined": 1679177898,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2220,
+      "date": 1732020185,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2005,
+      "date": 1708173478,
+      "game": "https://www.chess.com/game/live/101912124713"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2202,
+      "date": 1776510689,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2390,
+      "date": 1686958175,
+      "game": "https://www.chess.com/game/live/93916780599"
+    },
+    "record": {
+      "win": 1592,
+      "loss": 1451,
+      "draw": 176
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1766006759,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2624,
+      "date": 1692138232,
+      "game": "https://www.chess.com/game/live/146480792000"
+    },
+    "record": {
+      "win": 102,
+      "loss": 56,
+      "draw": 20
+    }
+  },
+  "fide": 2220,
+  "tactics": {
+    "highest": {
+      "rating": 1320,
+      "date": 1679177898
+    },
+    "lowest": {
+      "rating": 1320,
+      "date": 1679177898
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

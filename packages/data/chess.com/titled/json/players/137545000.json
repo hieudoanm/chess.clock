@@ -1,0 +1,84 @@
+{
+  "player_id": 137545000,
+  "@id": "https://api.chess.com/pub/player/fm9714",
+  "url": "https://www.chess.com/member/fm9714",
+  "name": "Oleg Artemenko",
+  "username": "fm9714",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "last_online": 1776291763,
+  "joined": 1619514702,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2156,
+      "date": 1684166807,
+      "rd": 203
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1684163654,
+      "game": "https://www.chess.com/game/live/77901829057"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2568,
+      "date": 1760635314,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2677,
+      "date": 1671096060,
+      "game": "https://www.chess.com/game/live/68673221097"
+    },
+    "record": {
+      "win": 103,
+      "loss": 95,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2696,
+      "date": 1760284666,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2888,
+      "date": 1668447004,
+      "game": "https://www.chess.com/game/live/154522596581"
+    },
+    "record": {
+      "win": 311,
+      "loss": 269,
+      "draw": 49
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2717,
+      "date": 1771201756
+    },
+    "lowest": {
+      "rating": 2596,
+      "date": 1766828567
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

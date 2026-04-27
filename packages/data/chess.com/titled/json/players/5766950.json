@@ -1,0 +1,100 @@
+{
+  "player_id": 5766950,
+  "@id": "https://api.chess.com/pub/player/lonestarpawn",
+  "url": "https://www.chess.com/member/Lonestarpawn",
+  "name": "Andrew Tang",
+  "username": "lonestarpawn",
+  "title": "CM",
+  "followers": 67,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Texas",
+  "last_online": 1774927347,
+  "joined": 1315691204,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1335,
+      "date": 1704280712,
+      "rd": 194
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 49783,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1990,
+      "date": 1684167896,
+      "rd": 131
+    },
+    "best": {
+      "rating": 1990,
+      "date": 1682733604,
+      "game": "https://www.chess.com/game/live/973686649"
+    },
+    "record": {
+      "win": 155,
+      "loss": 122,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2101,
+      "date": 1774927341,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1728787940,
+      "game": "https://www.chess.com/game/live/116830202205"
+    },
+    "record": {
+      "win": 1159,
+      "loss": 1049,
+      "draw": 66
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2158,
+      "date": 1758403507,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1650211814,
+      "game": "https://www.chess.com/game/live/62617240293"
+    },
+    "record": {
+      "win": 803,
+      "loss": 628,
+      "draw": 81
+    }
+  },
+  "fide": 1200,
+  "tactics": {
+    "highest": {
+      "rating": 2158,
+      "date": 1759942292
+    },
+    "lowest": {
+      "rating": 1922,
+      "date": 1760997792
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "player_id": 43070876,
+  "@id": "https://api.chess.com/pub/player/dragonflow",
+  "url": "https://www.chess.com/member/Dragonflow",
+  "name": "Alessio Valsecchi",
+  "username": "dragonflow",
+  "title": "GM",
+  "followers": 247,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1771596789,
+  "joined": 1517944974,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2661,
+      "date": 1620331351,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2661,
+      "date": 1605461500,
+      "game": "https://www.chess.com/game/live/5296881374"
+    },
+    "record": {
+      "win": 6,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2674,
+      "date": 1718521797,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2815,
+      "date": 1707670450,
+      "game": "https://www.chess.com/game/live/102616865745"
+    },
+    "record": {
+      "win": 417,
+      "loss": 245,
+      "draw": 58
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2847,
+      "date": 1747158171,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2847,
+      "date": 1703496868,
+      "game": "https://www.chess.com/game/live/97145470515"
+    },
+    "record": {
+      "win": 1589,
+      "loss": 1166,
+      "draw": 363
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2142,
+      "date": 1517944974
+    },
+    "lowest": {
+      "rating": 2142,
+      "date": 1517944974
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

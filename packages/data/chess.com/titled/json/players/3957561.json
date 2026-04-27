@@ -1,0 +1,104 @@
+{
+  "player_id": 3957561,
+  "@id": "https://api.chess.com/pub/player/waldochess",
+  "url": "https://www.chess.com/member/WALDOCHESS",
+  "name": "ALEJANDRO WALDO",
+  "username": "waldochess",
+  "title": "NM",
+  "followers": 69,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "TORREON, COAHUILA",
+  "last_online": 1776574786,
+  "joined": 1284132338,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2122,
+      "date": 1759548228,
+      "rd": 263
+    },
+    "best": {
+      "rating": 2122,
+      "date": 1759548227,
+      "game": "https://www.chess.com/game/daily/275604036"
+    },
+    "record": {
+      "win": 24,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 27954,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2166,
+      "date": 1768368588,
+      "rd": 177
+    },
+    "best": {
+      "rating": 2331,
+      "date": 1615175137,
+      "game": "https://www.chess.com/game/live/5506522650"
+    },
+    "record": {
+      "win": 75,
+      "loss": 1,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2058,
+      "date": 1764135851,
+      "rd": 73
+    },
+    "best": {
+      "rating": 2067,
+      "date": 1601255262,
+      "game": "https://www.chess.com/game/live/5002155415"
+    },
+    "record": {
+      "win": 46,
+      "loss": 21,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2181,
+      "date": 1776574764,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2289,
+      "date": 1676395746,
+      "game": "https://www.chess.com/game/live/5092453498"
+    },
+    "record": {
+      "win": 1372,
+      "loss": 1116,
+      "draw": 154
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2574,
+      "date": 1773898454
+    },
+    "lowest": {
+      "rating": 2003,
+      "date": 1775506624
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "player_id": 73192600,
+  "@id": "https://api.chess.com/pub/player/sarahsun11",
+  "url": "https://www.chess.com/member/Sarahsun11",
+  "name": "Sarah Sun",
+  "username": "sarahsun11",
+  "title": "WCM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "location": "Auckland",
+  "last_online": 1775892498,
+  "joined": 1583624019,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1200,
+      "date": 1757948622,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 145069,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1792,
+      "date": 1757948622,
+      "rd": 140
+    },
+    "best": {
+      "rating": 1646,
+      "date": 1713171193,
+      "game": "https://www.chess.com/game/live/52132176499"
+    },
+    "record": {
+      "win": 213,
+      "loss": 158,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1792,
+      "date": 1757948622,
+      "rd": 128
+    },
+    "best": {
+      "rating": 1401,
+      "date": 1656405963,
+      "game": "https://www.chess.com/game/live/50195409925"
+    },
+    "record": {
+      "win": 4,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1792,
+      "date": 1757948622,
+      "rd": 164
+    },
+    "best": {
+      "rating": 1669,
+      "date": 1671598929,
+      "game": "https://www.chess.com/game/live/64905112539"
+    },
+    "record": {
+      "win": 100,
+      "loss": 36,
+      "draw": 4
+    }
+  },
+  "fide": 1792,
+  "tactics": {
+    "highest": {
+      "rating": 2129,
+      "date": 1755940219
+    },
+    "lowest": {
+      "rating": 1992,
+      "date": 1757291269
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

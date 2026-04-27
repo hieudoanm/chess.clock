@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7363571.af3ba32d.200x200o.0bb322de11eb.png",
+  "player_id": 7363571,
+  "@id": "https://api.chess.com/pub/player/williamvanr",
+  "url": "https://www.chess.com/member/williamvanr",
+  "name": "William Van Rensselaer",
+  "username": "williamvanr",
+  "title": "FM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/VI",
+  "last_online": 1774530120,
+  "joined": 1335033718,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2245,
+      "date": 1468221577,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1368890472,
+      "game": "https://www.chess.com/game/daily/67354454"
+    },
+    "record": {
+      "win": 21,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 42553,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2131,
+      "date": 1347117135,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1341087547,
+      "game": "https://www.chess.com/game/live/320468427"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1570,
+      "date": 1350836579,
+      "rd": 89
+    },
+    "best": {
+      "rating": 1429,
+      "date": 1338937319,
+      "game": "https://www.chess.com/game/live/308155527"
+    },
+    "record": {
+      "win": 14,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2092,
+      "date": 1406264991,
+      "rd": 95
+    },
+    "best": {
+      "rating": 2135,
+      "date": 1404532661,
+      "game": "https://www.chess.com/game/live/869280198"
+    },
+    "record": {
+      "win": 838,
+      "loss": 590,
+      "draw": 71
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2230,
+      "date": 1774530091
+    },
+    "lowest": {
+      "rating": 2212,
+      "date": 1774530040
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 30
+    }
+  }
+}

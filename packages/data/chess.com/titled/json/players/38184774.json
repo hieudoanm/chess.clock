@@ -1,0 +1,103 @@
+{
+  "player_id": 38184774,
+  "@id": "https://api.chess.com/pub/player/cmunda",
+  "url": "https://www.chess.com/member/cmunda",
+  "name": "Michal Provaznik",
+  "username": "cmunda",
+  "title": "CM",
+  "followers": 49,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776588304,
+  "joined": 1503941994,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1856,
+      "date": 1630534220,
+      "rd": 120
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1541879973,
+      "game": "https://www.chess.com/game/daily/188598644"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 5,
+      "time_per_move": 20708,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2088,
+      "date": 1724751373,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2199,
+      "date": 1617374766,
+      "game": "https://www.chess.com/game/live/86975463273"
+    },
+    "record": {
+      "win": 11,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1919,
+      "date": 1716580733,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2068,
+      "date": 1716578510,
+      "game": "https://www.chess.com/game/live/82398160167"
+    },
+    "record": {
+      "win": 62,
+      "loss": 91,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2292,
+      "date": 1776587938,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2351,
+      "date": 1759071383,
+      "game": "https://www.chess.com/game/live/25728046377"
+    },
+    "record": {
+      "win": 8757,
+      "loss": 8492,
+      "draw": 836
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2360,
+      "date": 1503941994
+    },
+    "lowest": {
+      "rating": 2360,
+      "date": 1503941994
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

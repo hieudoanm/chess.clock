@@ -1,0 +1,84 @@
+{
+  "player_id": 204734051,
+  "@id": "https://api.chess.com/pub/player/knightpromotor",
+  "url": "https://www.chess.com/member/knightpromotor",
+  "username": "knightpromotor",
+  "title": "CM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/AO",
+  "last_online": 1776577484,
+  "joined": 1667576274,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2123,
+      "date": 1676312166,
+      "rd": 186
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1676306996,
+      "game": "https://www.chess.com/game/live/70044742639"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2405,
+      "date": 1668018562,
+      "rd": 214
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1668018562,
+      "game": "https://www.chess.com/game/live/61757402741"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2382,
+      "date": 1737210591,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1683362880,
+      "game": "https://www.chess.com/game/live/76786840663"
+    },
+    "record": {
+      "win": 440,
+      "loss": 613,
+      "draw": 111
+    }
+  },
+  "fide": 1200,
+  "tactics": {
+    "highest": {
+      "rating": 2565,
+      "date": 1758534646
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1773937737
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45344350.9de3ec38.200x200o.fda5fc0db0e1.jpeg",
+  "player_id": 45344350,
+  "@id": "https://api.chess.com/pub/player/lion_dl",
+  "url": "https://www.chess.com/member/Lion_DL",
+  "name": "David Zakarian",
+  "username": "lion_dl",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776581449,
+  "joined": 1523870945,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1891,
+      "date": 1704671723,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2152,
+      "date": 1546433707,
+      "game": "https://www.chess.com/game/daily/230045418"
+    },
+    "record": {
+      "win": 60,
+      "loss": 21,
+      "draw": 4,
+      "time_per_move": 32536,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 2044,
+      "date": 1545445117,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2044,
+      "date": 1545445117,
+      "game": "https://www.chess.com/game/daily/210543478"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32536,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1731066330,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2262,
+      "date": 1590782423,
+      "game": "https://www.chess.com/game/live/4929646799"
+    },
+    "record": {
+      "win": 10,
+      "loss": 8,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2452,
+      "date": 1775894325,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1773160750,
+      "game": "https://www.chess.com/game/live/165832134950"
+    },
+    "record": {
+      "win": 1378,
+      "loss": 1425,
+      "draw": 134
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2521,
+      "date": 1776581439,
+      "rd": 21
+    },
+    "best": {
+      "rating": 2650,
+      "date": 1766519092,
+      "game": "https://www.chess.com/game/live/150553096057"
+    },
+    "record": {
+      "win": 7209,
+      "loss": 7077,
+      "draw": 1043
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2641,
+      "date": 1770701832
+    },
+    "lowest": {
+      "rating": 2583,
+      "date": 1770701328
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/294649525.7e5337dc.200x200o.3a7678fb4c83.jpg",
+  "player_id": 294649525,
+  "@id": "https://api.chess.com/pub/player/robert_angier",
+  "url": "https://www.chess.com/member/Robert_Angier",
+  "name": "Konstantin Popov",
+  "username": "robert_angier",
+  "title": "IM",
+  "followers": 161,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776209503,
+  "joined": 1687177916,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1670,
+      "date": 1753971333,
+      "rd": 298
+    },
+    "best": {
+      "rating": 1670,
+      "date": 1725723318,
+      "game": "https://www.chess.com/game/daily/689561437"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 37968,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3061,
+      "date": 1776079601,
+      "rd": 37
+    },
+    "best": {
+      "rating": 3094,
+      "date": 1768398042,
+      "game": "https://www.chess.com/game/live/120167400087"
+    },
+    "record": {
+      "win": 357,
+      "loss": 233,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3123,
+      "date": 1776022713,
+      "rd": 32
+    },
+    "best": {
+      "rating": 3216,
+      "date": 1771254012,
+      "game": "https://www.chess.com/game/live/144743381231"
+    },
+    "record": {
+      "win": 1715,
+      "loss": 1335,
+      "draw": 451
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1687177916
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1687177916
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

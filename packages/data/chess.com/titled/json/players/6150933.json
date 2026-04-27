@@ -1,0 +1,64 @@
+{
+  "player_id": 6150933,
+  "@id": "https://api.chess.com/pub/player/timmaz",
+  "url": "https://www.chess.com/member/Timmaz",
+  "name": "Tim Mazajchik",
+  "username": "timmaz",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1765360278,
+  "joined": 1321710566,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1325,
+      "date": 1765284779,
+      "rd": 330
+    },
+    "best": {
+      "rating": 1325,
+      "date": 1532715430,
+      "game": "https://www.chess.com/game/daily/200449416"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 459,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2172,
+      "date": 1765284779,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2080,
+      "date": 1344796087,
+      "game": "https://www.chess.com/game/live/210819299"
+    },
+    "record": {
+      "win": 283,
+      "loss": 209,
+      "draw": 31
+    }
+  },
+  "fide": 2172,
+  "tactics": {
+    "highest": {
+      "rating": 2172,
+      "date": 1321710566
+    },
+    "lowest": {
+      "rating": 2172,
+      "date": 1321710566
+    }
+  },
+  "puzzle_rush": {}
+}

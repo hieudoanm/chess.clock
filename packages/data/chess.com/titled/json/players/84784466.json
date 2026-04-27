@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/84784466.9dcb8380.200x200o.3114fe9f5119.png",
+  "player_id": 84784466,
+  "@id": "https://api.chess.com/pub/player/chessmarge",
+  "url": "https://www.chess.com/member/ChessMarge",
+  "name": "Marjorie Herrera",
+  "username": "chessmarge",
+  "title": "WCM",
+  "followers": 378,
+  "country": "https://api.chess.com/pub/country/SV",
+  "last_online": 1768687943,
+  "joined": 1593311663,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/chessmarge",
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/chessmarge"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 850,
+      "date": 1758590552,
+      "rd": 252
+    },
+    "best": {
+      "rating": 850,
+      "date": 1715384284,
+      "game": "https://www.chess.com/game/daily/593918625"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 313940,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1605,
+      "date": 1705718369,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2065,
+      "date": 1596822097,
+      "game": "https://www.chess.com/game/live/48739786179"
+    },
+    "record": {
+      "win": 236,
+      "loss": 174,
+      "draw": 28
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2131,
+      "date": 1761866804,
+      "rd": 178
+    },
+    "best": {
+      "rating": 2132,
+      "date": 1682640776,
+      "game": "https://www.chess.com/game/live/35016033863"
+    },
+    "record": {
+      "win": 753,
+      "loss": 518,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1403,
+      "date": 1768175981,
+      "rd": 72
+    },
+    "best": {
+      "rating": 1970,
+      "date": 1650767453,
+      "game": "https://www.chess.com/game/live/6369671815"
+    },
+    "record": {
+      "win": 389,
+      "loss": 260,
+      "draw": 36
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2066,
+      "date": 1593311663
+    },
+    "lowest": {
+      "rating": 2066,
+      "date": 1593311663
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 72,
+      "score": 69
+    }
+  }
+}

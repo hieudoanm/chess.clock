@@ -1,0 +1,85 @@
+{
+  "player_id": 97639880,
+  "@id": "https://api.chess.com/pub/player/ynubin",
+  "url": "https://www.chess.com/member/yNuBin",
+  "name": "Arthur Schena",
+  "username": "ynubin",
+  "title": "NM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1771892914,
+  "joined": 1605708165,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1727835341,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2100,
+      "date": 1708950449,
+      "game": "https://www.chess.com/game/live/102687077219"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1924,
+      "date": 1771077094,
+      "rd": 119
+    },
+    "best": {
+      "rating": 1998,
+      "date": 1672868217,
+      "game": "https://www.chess.com/game/live/66607947373"
+    },
+    "record": {
+      "win": 8,
+      "loss": 13,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2007,
+      "date": 1770308602,
+      "rd": 140
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1762817769,
+      "game": "https://www.chess.com/game/live/75438603167"
+    },
+    "record": {
+      "win": 99,
+      "loss": 48,
+      "draw": 3
+    }
+  },
+  "fide": 2013,
+  "tactics": {
+    "highest": {
+      "rating": 2149,
+      "date": 1605708165
+    },
+    "lowest": {
+      "rating": 2149,
+      "date": 1605708165
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 322578559,
+  "@id": "https://api.chess.com/pub/player/sinsyubgon",
+  "url": "https://www.chess.com/member/sinsyubgon",
+  "username": "sinsyubgon",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776599495,
+  "joined": 1698580997,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2205,
+      "date": 1720384570,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2205,
+      "date": 1720384570,
+      "game": "https://www.chess.com/game/live/114122458163"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2484,
+      "date": 1757784703,
+      "rd": 62
+    },
+    "best": {
+      "rating": 2531,
+      "date": 1732110510,
+      "game": "https://www.chess.com/game/live/124280966559"
+    },
+    "record": {
+      "win": 22,
+      "loss": 14,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2718,
+      "date": 1776600523,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2813,
+      "date": 1775846993,
+      "game": "https://www.chess.com/game/live/167086213282"
+    },
+    "record": {
+      "win": 2405,
+      "loss": 1928,
+      "draw": 372
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1698580997
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1698580997
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 37
+    }
+  }
+}

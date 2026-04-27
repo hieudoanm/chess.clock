@@ -1,0 +1,95 @@
+{
+  "player_id": 14784036,
+  "@id": "https://api.chess.com/pub/player/rumo75",
+  "url": "https://www.chess.com/member/Rumo75",
+  "name": "Arnold Huhndorf",
+  "username": "rumo75",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "K\u00f6ln",
+  "last_online": 1776202959,
+  "joined": 1385863093,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2047,
+      "date": 1706806087,
+      "rd": 299
+    },
+    "best": {
+      "rating": 2047,
+      "date": 1402529436,
+      "game": "https://www.chess.com/game/daily/91556526"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 4694,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1974,
+      "date": 1483344320,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2113,
+      "date": 1477131711,
+      "game": "https://www.chess.com/game/live/1863426849"
+    },
+    "record": {
+      "win": 28,
+      "loss": 15,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2268,
+      "date": 1479037165,
+      "rd": 294
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2323,
+      "date": 1775835385,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1718859765,
+      "game": "https://www.chess.com/game/live/132577885773"
+    },
+    "record": {
+      "win": 920,
+      "loss": 622,
+      "draw": 157
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 1839,
+      "date": 1385863093
+    },
+    "lowest": {
+      "rating": 1839,
+      "date": 1385863093
+    }
+  },
+  "puzzle_rush": {}
+}

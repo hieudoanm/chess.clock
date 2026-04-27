@@ -1,0 +1,99 @@
+{
+  "player_id": 45918796,
+  "@id": "https://api.chess.com/pub/player/omisoc",
+  "url": "https://www.chess.com/member/omisoc",
+  "name": "Geoff Lawton",
+  "username": "omisoc",
+  "title": "IM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Birmingham",
+  "last_online": 1776526541,
+  "joined": 1525531597,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1427,
+      "date": 1759747994,
+      "rd": 345
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 38503,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2279,
+      "date": 1720450387,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2413,
+      "date": 1627901237,
+      "game": "https://www.chess.com/game/live/34381150741"
+    },
+    "record": {
+      "win": 16,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2121,
+      "date": 1646500595,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1630164407,
+      "game": "https://www.chess.com/game/live/23905099641"
+    },
+    "record": {
+      "win": 96,
+      "loss": 99,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1931,
+      "date": 1765376522,
+      "rd": 186
+    },
+    "best": {
+      "rating": 2401,
+      "date": 1573143605,
+      "game": "https://www.chess.com/game/live/42718218311"
+    },
+    "record": {
+      "win": 663,
+      "loss": 532,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2673,
+      "date": 1525531597
+    },
+    "lowest": {
+      "rating": 2673,
+      "date": 1525531597
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 34
+    }
+  }
+}

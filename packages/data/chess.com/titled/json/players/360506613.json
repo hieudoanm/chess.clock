@@ -1,0 +1,86 @@
+{
+  "player_id": 360506613,
+  "@id": "https://api.chess.com/pub/player/the_black_queen2",
+  "url": "https://www.chess.com/member/the_black_queen2",
+  "username": "the_black_queen2",
+  "title": "FM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/NO",
+  "last_online": 1776580407,
+  "joined": 1714553767,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1670,
+      "date": 1773241833,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1692,
+      "date": 1765718358,
+      "game": "https://www.chess.com/game/daily/867114967"
+    },
+    "record": {
+      "win": 36,
+      "loss": 14,
+      "draw": 2,
+      "time_per_move": 7777,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2399,
+      "date": 1766525944,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1752656715,
+      "game": "https://www.chess.com/game/live/142531830752"
+    },
+    "record": {
+      "win": 666,
+      "loss": 474,
+      "draw": 88
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2599,
+      "date": 1776510358,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2704,
+      "date": 1772394003,
+      "game": "https://www.chess.com/game/live/165381518222"
+    },
+    "record": {
+      "win": 1199,
+      "loss": 803,
+      "draw": 139
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2454,
+      "date": 1763394817
+    },
+    "lowest": {
+      "rating": 2176,
+      "date": 1776580393
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 66,
+      "score": 63
+    }
+  }
+}

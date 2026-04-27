@@ -1,0 +1,83 @@
+{
+  "player_id": 372679967,
+  "@id": "https://api.chess.com/pub/player/mismaly",
+  "url": "https://www.chess.com/member/mismaly",
+  "username": "mismaly",
+  "title": "CM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/SC",
+  "last_online": 1776528869,
+  "joined": 1719743171,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2145,
+      "date": 1766424808,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2157,
+      "date": 1764869481,
+      "game": "https://www.chess.com/game/live/139177098744"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2396,
+      "date": 1775216064,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1775215944,
+      "game": "https://www.chess.com/game/live/166803880422"
+    },
+    "record": {
+      "win": 43,
+      "loss": 22,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1775490004,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1775490004,
+      "game": "https://www.chess.com/game/live/166737255612"
+    },
+    "record": {
+      "win": 358,
+      "loss": 237,
+      "draw": 51
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2414,
+      "date": 1775121666
+    },
+    "lowest": {
+      "rating": 2332,
+      "date": 1767655901
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

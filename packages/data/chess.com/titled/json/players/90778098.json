@@ -1,0 +1,66 @@
+{
+  "player_id": 90778098,
+  "@id": "https://api.chess.com/pub/player/wanderlust40",
+  "url": "https://www.chess.com/member/Wanderlust40",
+  "name": "Jhon Morales",
+  "username": "wanderlust40",
+  "title": "IM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1604843585,
+  "joined": 1599536523,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2200,
+      "date": 1601747517,
+      "rd": 223
+    },
+    "best": {
+      "rating": 2213,
+      "date": 1600223858,
+      "game": "https://www.chess.com/game/live/5451835865"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2140,
+      "date": 1604106990,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2354,
+      "date": 1604101795,
+      "game": "https://www.chess.com/game/live/5661464779"
+    },
+    "record": {
+      "win": 8,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2006,
+      "date": 1599536523
+    },
+    "lowest": {
+      "rating": 2006,
+      "date": 1599536523
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 34
+    }
+  }
+}

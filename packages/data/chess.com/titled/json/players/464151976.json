@@ -1,0 +1,67 @@
+{
+  "player_id": 464151976,
+  "@id": "https://api.chess.com/pub/player/milky_way_to_mate",
+  "url": "https://www.chess.com/member/milky_way_to_mate",
+  "username": "milky_way_to_mate",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/PA",
+  "last_online": 1776178790,
+  "joined": 1751543232,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2096,
+      "date": 1753022824,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2104,
+      "date": 1753021163,
+      "game": "https://www.chess.com/game/live/140900848380"
+    },
+    "record": {
+      "win": 21,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2373,
+      "date": 1770055916,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2373,
+      "date": 1770055916,
+      "game": "https://www.chess.com/game/live/164148325166"
+    },
+    "record": {
+      "win": 17,
+      "loss": 6,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1751543232
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1751543232
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

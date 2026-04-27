@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7701568.6739d050.200x200o.550010fd435c.jpeg",
+  "player_id": 7701568,
+  "@id": "https://api.chess.com/pub/player/asafgivon",
+  "url": "https://www.chess.com/member/AsafGivon",
+  "name": "Asaf Givon",
+  "username": "asafgivon",
+  "title": "IM",
+  "followers": 558,
+  "country": "https://api.chess.com/pub/country/IL",
+  "location": "Tel aviv",
+  "last_online": 1776582430,
+  "joined": 1338115722,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1895,
+      "date": 1753733455,
+      "rd": 302
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1338115722,
+      "game": "https://www.chess.com/game/daily/222921540"
+    },
+    "record": {
+      "win": 15,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 45510,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2519,
+      "date": 1772739519,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2560,
+      "date": 1677157611,
+      "game": "https://www.chess.com/game/live/49326570483"
+    },
+    "record": {
+      "win": 71,
+      "loss": 13,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2851,
+      "date": 1770512850,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2887,
+      "date": 1770506458,
+      "game": "https://www.chess.com/game/live/164383333010"
+    },
+    "record": {
+      "win": 447,
+      "loss": 228,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2782,
+      "date": 1776282806,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1747398625,
+      "game": "https://www.chess.com/game/live/138521223726"
+    },
+    "record": {
+      "win": 727,
+      "loss": 429,
+      "draw": 97
+    }
+  },
+  "fide": 2483,
+  "tactics": {
+    "highest": {
+      "rating": 2710,
+      "date": 1338115722
+    },
+    "lowest": {
+      "rating": 2710,
+      "date": 1338115722
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

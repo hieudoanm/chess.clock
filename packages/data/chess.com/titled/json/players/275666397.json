@@ -1,0 +1,110 @@
+{
+  "player_id": 275666397,
+  "@id": "https://api.chess.com/pub/player/new_player_0010",
+  "url": "https://www.chess.com/member/New_Player_0010",
+  "name": "Sofia Valente",
+  "username": "new_player_0010",
+  "title": "WCM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/PT",
+  "last_online": 1776525796,
+  "joined": 1681601368,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1343,
+      "date": 1776442863,
+      "rd": 110
+    },
+    "best": {
+      "rating": 1447,
+      "date": 1771426829,
+      "game": "https://www.chess.com/game/daily/931532783"
+    },
+    "record": {
+      "win": 29,
+      "loss": 5,
+      "draw": 1,
+      "time_per_move": 14685,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 0,
+      "count": 1,
+      "highest_finish": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2003,
+      "date": 1774305962,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2039,
+      "date": 1764590335,
+      "game": "https://www.chess.com/game/live/146171600972"
+    },
+    "record": {
+      "win": 12,
+      "loss": 12,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2449,
+      "date": 1775236373,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1775230976,
+      "game": "https://www.chess.com/game/live/140700068914"
+    },
+    "record": {
+      "win": 525,
+      "loss": 429,
+      "draw": 76
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2270,
+      "date": 1764540252,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2343,
+      "date": 1682815784,
+      "game": "https://www.chess.com/game/live/128211617699"
+    },
+    "record": {
+      "win": 118,
+      "loss": 146,
+      "draw": 15
+    }
+  },
+  "fide": 1949,
+  "tactics": {
+    "highest": {
+      "rating": 2260,
+      "date": 1763302931
+    },
+    "lowest": {
+      "rating": 1970,
+      "date": 1764417987
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

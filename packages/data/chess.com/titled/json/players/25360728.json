@@ -1,0 +1,85 @@
+{
+    "player_id": 25360728,
+    "@id": "https://api.chess.com/pub/player/newzorro",
+    "url": "https://www.chess.com/member/NewZorro",
+    "name": "Valery Popov",
+    "username": "newzorro",
+    "title": "GM",
+    "followers": 22,
+    "country": "https://api.chess.com/pub/country/RU",
+    "location": "St.Petersburg",
+    "last_online": 1688446737,
+    "joined": 1449009679,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2394,
+            "date": 1603983239,
+            "rd": 233
+        },
+        "best": {
+            "rating": 2634,
+            "date": 1603981981,
+            "game": "https://www.chess.com/game/live/5653578085"
+        },
+        "record": {
+            "win": 5,
+            "loss": 1,
+            "draw": 2
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2650,
+            "date": 1625440389,
+            "rd": 47
+        },
+        "best": {
+            "rating": 2770,
+            "date": 1571882512,
+            "game": "https://www.chess.com/game/live/4160370020"
+        },
+        "record": {
+            "win": 316,
+            "loss": 295,
+            "draw": 32
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2550,
+            "date": 1617470013,
+            "rd": 72
+        },
+        "best": {
+            "rating": 2836,
+            "date": 1571830769,
+            "game": "https://www.chess.com/game/live/4148715460"
+        },
+        "record": {
+            "win": 437,
+            "loss": 245,
+            "draw": 52
+        }
+    },
+    "fide": 2587,
+    "tactics": {
+        "highest": {
+            "rating": 3267,
+            "date": 1678590737
+        },
+        "lowest": {
+            "rating": 1357,
+            "date": 1449171938
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 63,
+            "score": 60
+        }
+    }
+}

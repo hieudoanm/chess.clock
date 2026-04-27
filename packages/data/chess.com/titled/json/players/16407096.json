@@ -1,0 +1,84 @@
+{
+  "player_id": 16407096,
+  "@id": "https://api.chess.com/pub/player/gululu",
+  "url": "https://www.chess.com/member/gululu",
+  "name": "Tianlu Gu",
+  "username": "gululu",
+  "title": "WIM",
+  "followers": 19,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1775641895,
+  "joined": 1394509791,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1631,
+      "date": 1717312267,
+      "rd": 210
+    },
+    "best": {
+      "rating": 1658,
+      "date": 1706691894,
+      "game": "https://www.chess.com/game/live/100428757825"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2298,
+      "date": 1600250117,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1600249934,
+      "game": "https://www.chess.com/game/live/5452990542"
+    },
+    "record": {
+      "win": 69,
+      "loss": 31,
+      "draw": 5
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2530,
+      "date": 1703776598,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2606,
+      "date": 1547384827,
+      "game": "https://www.chess.com/game/live/3372931777"
+    },
+    "record": {
+      "win": 330,
+      "loss": 239,
+      "draw": 45
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2645,
+      "date": 1394509791
+    },
+    "lowest": {
+      "rating": 2645,
+      "date": 1394509791
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "player_id": 345137615,
+  "@id": "https://api.chess.com/pub/player/zapheiros",
+  "url": "https://www.chess.com/member/Zapheiros",
+  "username": "zapheiros",
+  "title": "CM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776315576,
+  "joined": 1707854682,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2307,
+      "date": 1708070768,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2438,
+      "date": 1707994582,
+      "game": "https://www.chess.com/game/live/101733669773"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2163,
+      "date": 1773026435,
+      "rd": 165
+    },
+    "best": {
+      "rating": 2163,
+      "date": 1727518183,
+      "game": "https://www.chess.com/game/live/119183429993"
+    },
+    "record": {
+      "win": 27,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2425,
+      "date": 1774156925
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1767675983
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

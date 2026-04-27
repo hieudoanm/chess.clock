@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/12510568.144401be.200x200o.f93a1be7d1ce.jpeg",
+  "player_id": 12510568,
+  "@id": "https://api.chess.com/pub/player/tc58",
+  "url": "https://www.chess.com/member/TC58",
+  "name": "Tony Corkett",
+  "username": "tc58",
+  "title": "FM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/GB",
+  "location": "Hampshire",
+  "last_online": 1776593459,
+  "joined": 1372418049,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2176,
+      "date": 1740668324,
+      "rd": 249
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1376713466,
+      "game": "https://www.chess.com/game/daily/73767222"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 27346,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2236,
+      "date": 1748449344,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2342,
+      "date": 1667594225,
+      "game": "https://www.chess.com/game/live/61408236231"
+    },
+    "record": {
+      "win": 11,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2156,
+      "date": 1776592861,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2259,
+      "date": 1760884137,
+      "game": "https://www.chess.com/game/live/143088997850"
+    },
+    "record": {
+      "win": 1781,
+      "loss": 1595,
+      "draw": 144
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2410,
+      "date": 1776515397,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1776460254,
+      "game": "https://www.chess.com/game/live/139321301846"
+    },
+    "record": {
+      "win": 6952,
+      "loss": 6379,
+      "draw": 782
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2190,
+      "date": 1760869760
+    },
+    "lowest": {
+      "rating": 2041,
+      "date": 1774474270
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/49333228.bb7cead5.200x200o.85ce6eabd318.jpg",
+  "player_id": 49333228,
+  "@id": "https://api.chess.com/pub/player/adnan_habib",
+  "url": "https://www.chess.com/member/Adnan_Habib",
+  "name": "Habib Adnan",
+  "username": "adnan_habib",
+  "title": "CM",
+  "followers": 528,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776506021,
+  "joined": 1535819158,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1483,
+      "date": 1775394341,
+      "rd": 166
+    },
+    "best": {
+      "rating": 2152,
+      "date": 1660490508,
+      "game": "https://www.chess.com/game/daily/293340476"
+    },
+    "record": {
+      "win": 32,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 13092,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2405,
+      "date": 1770760653,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2439,
+      "date": 1727441858,
+      "game": "https://www.chess.com/game/live/100892026409"
+    },
+    "record": {
+      "win": 458,
+      "loss": 229,
+      "draw": 51
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2365,
+      "date": 1767852823,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2444,
+      "date": 1764519011,
+      "game": "https://www.chess.com/game/live/145234770009"
+    },
+    "record": {
+      "win": 1834,
+      "loss": 1421,
+      "draw": 107
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2520,
+      "date": 1776468171,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2643,
+      "date": 1755162714,
+      "game": "https://www.chess.com/game/live/168077419393"
+    },
+    "record": {
+      "win": 4040,
+      "loss": 3239,
+      "draw": 287
+    }
+  },
+  "fide": 2190,
+  "tactics": {
+    "highest": {
+      "rating": 2452,
+      "date": 1770500185
+    },
+    "lowest": {
+      "rating": 2322,
+      "date": 1774882901
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

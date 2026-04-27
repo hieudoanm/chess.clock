@@ -1,0 +1,85 @@
+{
+  "player_id": 403166833,
+  "@id": "https://api.chess.com/pub/player/bapttoche",
+  "url": "https://www.chess.com/member/Bapttoche",
+  "name": "Baptiste Lissillour",
+  "username": "bapttoche",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776549510,
+  "joined": 1731865208,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1892,
+      "date": 1746793490,
+      "rd": 123
+    },
+    "best": {
+      "rating": 1862,
+      "date": 1736454688,
+      "game": "https://www.chess.com/game/live/130117777811"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1546,
+      "date": 1746793490,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1433,
+      "date": 1736362340,
+      "game": "https://www.chess.com/game/live/130101031495"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2611,
+      "date": 1776547872,
+      "rd": 35
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1767645771,
+      "game": "https://www.chess.com/game/live/159800848437"
+    },
+    "record": {
+      "win": 976,
+      "loss": 953,
+      "draw": 133
+    }
+  },
+  "fide": 2318,
+  "tactics": {
+    "highest": {
+      "rating": 2620,
+      "date": 1761241466
+    },
+    "lowest": {
+      "rating": 2429,
+      "date": 1761259343
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 48
+    }
+  }
+}

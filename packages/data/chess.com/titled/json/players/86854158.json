@@ -1,0 +1,79 @@
+{
+  "player_id": 86854158,
+  "@id": "https://api.chess.com/pub/player/mona_khaled",
+  "url": "https://www.chess.com/member/Mona_Khaled",
+  "name": "Mona Khaled",
+  "username": "mona_khaled",
+  "title": "WGM",
+  "followers": 42,
+  "country": "https://api.chess.com/pub/country/EG",
+  "last_online": 1760559961,
+  "joined": 1594921985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2145,
+      "date": 1598197289,
+      "rd": 167
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1598193001,
+      "game": "https://www.chess.com/game/live/5338946139"
+    },
+    "record": {
+      "win": 3,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1876,
+      "date": 1684695761,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1681767253,
+      "game": "https://www.chess.com/game/live/78337278825"
+    },
+    "record": {
+      "win": 19,
+      "loss": 19,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2191,
+      "date": 1760560450,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1681612379,
+      "game": "https://www.chess.com/game/live/75438580537"
+    },
+    "record": {
+      "win": 515,
+      "loss": 445,
+      "draw": 40
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1594921985
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1594921985
+    }
+  },
+  "puzzle_rush": {}
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 3686134,
+  "@id": "https://api.chess.com/pub/player/littleozy",
+  "url": "https://www.chess.com/member/littleozy",
+  "name": "Zhi Yang Ooi",
+  "username": "littleozy",
+  "title": "IM",
+  "followers": 175,
+  "country": "https://api.chess.com/pub/country/MY",
+  "last_online": 1776293899,
+  "joined": 1278769272,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1694,
+      "date": 1703377475,
+      "rd": 272
+    },
+    "best": {
+      "rating": 1772,
+      "date": 1530369610,
+      "game": "https://www.chess.com/game/daily/195158988"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 188140,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2217,
+      "date": 1643736686,
+      "rd": 97
+    },
+    "best": {
+      "rating": 2399,
+      "date": 1609046890,
+      "game": "https://www.chess.com/game/live/2676449658"
+    },
+    "record": {
+      "win": 52,
+      "loss": 49,
+      "draw": 10
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2423,
+      "date": 1738245631,
+      "rd": 76
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1603946001,
+      "game": "https://www.chess.com/game/live/5577477950"
+    },
+    "record": {
+      "win": 2090,
+      "loss": 2140,
+      "draw": 213
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2549,
+      "date": 1774717104,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2647,
+      "date": 1640656207,
+      "game": "https://www.chess.com/game/live/34236574405"
+    },
+    "record": {
+      "win": 1672,
+      "loss": 1590,
+      "draw": 290
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2615,
+      "date": 1756205614
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1766453265
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

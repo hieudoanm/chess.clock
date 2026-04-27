@@ -1,0 +1,85 @@
+{
+  "player_id": 33811864,
+  "@id": "https://api.chess.com/pub/player/aqmarkin",
+  "url": "https://www.chess.com/member/aqmarkin",
+  "name": "Arden Markin",
+  "username": "aqmarkin",
+  "title": "NM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Alabama",
+  "last_online": 1776547753,
+  "joined": 1489032091,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2420,
+      "date": 1749345896,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2420,
+      "date": 1749345896,
+      "game": "https://www.chess.com/game/live/139337626528"
+    },
+    "record": {
+      "win": 133,
+      "loss": 55,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2348,
+      "date": 1753540476,
+      "rd": 53
+    },
+    "best": {
+      "rating": 2463,
+      "date": 1618419625,
+      "game": "https://www.chess.com/game/live/11033049925"
+    },
+    "record": {
+      "win": 4175,
+      "loss": 3216,
+      "draw": 304
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2446,
+      "date": 1776547745,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2544,
+      "date": 1764377022,
+      "game": "https://www.chess.com/game/live/145928161750"
+    },
+    "record": {
+      "win": 1269,
+      "loss": 998,
+      "draw": 155
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2429,
+      "date": 1489032091
+    },
+    "lowest": {
+      "rating": 2429,
+      "date": 1489032091
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

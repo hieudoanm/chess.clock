@@ -1,0 +1,84 @@
+{
+  "player_id": 37022608,
+  "@id": "https://api.chess.com/pub/player/stronger1799",
+  "url": "https://www.chess.com/member/Stronger1799",
+  "name": "Egor Kovalev",
+  "username": "stronger1799",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1769757938,
+  "joined": 1500027922,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2573,
+      "date": 1760983241,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2573,
+      "date": 1760358444,
+      "game": "https://www.chess.com/game/live/144236338536"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2715,
+      "date": 1635869083,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1610477817,
+      "game": "https://www.chess.com/game/live/6216398305"
+    },
+    "record": {
+      "win": 140,
+      "loss": 106,
+      "draw": 10
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2750,
+      "date": 1761855926,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2782,
+      "date": 1647080052,
+      "game": "https://www.chess.com/game/live/36268242961"
+    },
+    "record": {
+      "win": 3719,
+      "loss": 2984,
+      "draw": 422
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2524,
+      "date": 1761890026
+    },
+    "lowest": {
+      "rating": 2322,
+      "date": 1756374363
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

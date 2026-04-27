@@ -1,0 +1,85 @@
+{
+  "player_id": 51734996,
+  "@id": "https://api.chess.com/pub/player/copaamericano",
+  "url": "https://www.chess.com/member/CopaAmericANo",
+  "name": "Ahmet Uzumcu",
+  "username": "copaamericano",
+  "title": "FM",
+  "followers": 58,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776267539,
+  "joined": 1541969760,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2051,
+      "date": 1752008165,
+      "rd": 117
+    },
+    "best": {
+      "rating": 2075,
+      "date": 1557573037,
+      "game": "https://www.chess.com/game/live/3687001359"
+    },
+    "record": {
+      "win": 12,
+      "loss": 7,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2630,
+      "date": 1771709552,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1756033102,
+      "game": "https://www.chess.com/game/live/12860081267"
+    },
+    "record": {
+      "win": 1495,
+      "loss": 1573,
+      "draw": 204
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2391,
+      "date": 1776267420,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2613,
+      "date": 1753545271,
+      "game": "https://www.chess.com/game/live/4052352063"
+    },
+    "record": {
+      "win": 2799,
+      "loss": 3038,
+      "draw": 489
+    }
+  },
+  "fide": 2169,
+  "tactics": {
+    "highest": {
+      "rating": 2307,
+      "date": 1541969760
+    },
+    "lowest": {
+      "rating": 2307,
+      "date": 1541969760
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

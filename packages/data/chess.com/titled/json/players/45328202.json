@@ -1,0 +1,84 @@
+{
+  "player_id": 45328202,
+  "@id": "https://api.chess.com/pub/player/payto1",
+  "url": "https://www.chess.com/member/payto1",
+  "name": "Ekin Baris Ozenir",
+  "username": "payto1",
+  "title": "IM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776265094,
+  "joined": 1523816342,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2378,
+      "date": 1774813075,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2378,
+      "date": 1774813075,
+      "game": "https://www.chess.com/game/live/166598478688"
+    },
+    "record": {
+      "win": 39,
+      "loss": 17,
+      "draw": 21
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2326,
+      "date": 1609157473,
+      "rd": 121
+    },
+    "best": {
+      "rating": 2336,
+      "date": 1554320998,
+      "game": "https://www.chess.com/game/live/4874659963"
+    },
+    "record": {
+      "win": 22,
+      "loss": 24,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2804,
+      "date": 1775597060,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2835,
+      "date": 1710613593,
+      "game": "https://www.chess.com/game/live/102546599605"
+    },
+    "record": {
+      "win": 409,
+      "loss": 215,
+      "draw": 88
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2490,
+      "date": 1523816342
+    },
+    "lowest": {
+      "rating": 2490,
+      "date": 1523816342
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

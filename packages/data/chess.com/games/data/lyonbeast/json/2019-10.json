@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://www.chess.com/game/live/4163908889",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2019.10.30\"]\n[Round \"-\"]\n[White \"LyonBeast\"]\n[Black \"Pete\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1bq2nr/1pp1bQp1/3pPpn1/p2P3p/k1B4P/PP6/2PB1PP1/R3K2R b KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"C47\"]\n[ECOUrl \"https://www.chess.com/openings/Four-Knights-Game-Halloween-Gambit...5.d4-Ng6-6.e5-Ng8\"]\n[UTCDate \"2019.10.30\"]\n[UTCTime \"10:06:35\"]\n[WhiteElo \"2979\"]\n[BlackElo \"1825\"]\n[TimeControl \"180\"]\n[Termination \"LyonBeast won by checkmate\"]\n[StartTime \"10:06:35\"]\n[EndDate \"2019.10.30\"]\n[EndTime \"10:08:41\"]\n[Link \"https://www.chess.com/game/live/4163908889\"]\n\n1. e4 {[%clk 0:02:57.3]} 1... e5 {[%clk 0:02:59.3]} 2. Nf3 {[%clk 0:02:55.8]} 2... Nc6 {[%clk 0:02:55.5]} 3. Nc3 {[%clk 0:02:55.3]} 3... Nf6 {[%clk 0:02:54.9]} 4. Nxe5 {[%clk 0:02:54.4]} 4... Nxe5 {[%clk 0:02:53.5]} 5. d4 {[%clk 0:02:53.4]} 5... Ng6 {[%clk 0:02:52.5]} 6. e5 {[%clk 0:02:47.1]} 6... Ng8 {[%clk 0:02:51.4]} 7. h4 {[%clk 0:02:38.7]} 7... h5 {[%clk 0:02:49.2]} 8. Bc4 {[%clk 0:02:28.7]} 8... Bb4 {[%clk 0:02:46.1]} 9. Bg5 {[%clk 0:02:24.8]} 9... Be7 {[%clk 0:02:40.7]} 10. Qf3 {[%clk 0:02:22.6]} 10... f6 {[%clk 0:02:36.7]} 11. Qd5 {[%clk 0:02:20.5]} 11... d6 {[%clk 0:02:25.2]} 12. Qf7+ {[%clk 0:02:12.6]} 12... Kd7 {[%clk 0:02:23.7]} 13. e6+ {[%clk 0:02:06.2]} 13... Kc6 {[%clk 0:02:21.4]} 14. d5+ {[%clk 0:02:04.3]} 14... Kb6 {[%clk 0:02:20]} 15. Na4+ {[%clk 0:02:01.1]} 15... Ka5 {[%clk 0:02:18.3]} 16. Bd2+ {[%clk 0:02:00.2]} 16... Kxa4 {[%clk 0:02:15.3]} 17. a3 {[%clk 0:01:57.6]} 17... a5 {[%clk 0:02:08.2]} 18. b3# {[%clk 0:01:55.2]} 1-0\n",
+    "time_control": "180",
+    "end_time": 1572430121,
+    "rated": false,
+    "accuracies": {
+      "white": 98.83951550376473,
+      "black": 4.928682420072435
+    },
+    "tcn": "mC0Kgv5Qbs!TvKQKlBKUCKT!pF3NfA9zcMz0dv1TvJZRJ18ZKSZQBJQPsyPGMlGyiqWGjr",
+    "uuid": "910c5eda-470e-11e6-8000-000000010001",
+    "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "fen": "r1bq2nr/1pp1bQp1/3pPpn1/p2P3p/k1B4P/PP6/2PB1PP1/R3K2R b KQ -",
+    "time_class": "blitz",
+    "rules": "chess",
+    "white": {
+      "rating": 2979,
+      "result": "win",
+      "@id": "https://api.chess.com/pub/player/lyonbeast",
+      "username": "LyonBeast",
+      "uuid": "50ef5ad0-dc0f-11e3-8008-000000000000"
+    },
+    "black": {
+      "rating": 1825,
+      "result": "checkmated",
+      "@id": "https://api.chess.com/pub/player/pete",
+      "username": "Pete",
+      "uuid": "30b98ba0-fcda-11e3-8046-000000000000"
+    }
+  }
+]

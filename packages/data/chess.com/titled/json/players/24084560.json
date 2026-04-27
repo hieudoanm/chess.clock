@@ -1,0 +1,104 @@
+{
+  "player_id": 24084560,
+  "@id": "https://api.chess.com/pub/player/mamitobeibe",
+  "url": "https://www.chess.com/member/Mamitobeibe",
+  "name": "Matteo Montorsi",
+  "username": "mamitobeibe",
+  "title": "NM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776597158,
+  "joined": 1442089786,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 859,
+      "date": 1762882875,
+      "rd": 336
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1442089786,
+      "game": "https://www.chess.com/game/daily/526066503"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 43562,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2381,
+      "date": 1762958354,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2392,
+      "date": 1686848739,
+      "game": "https://www.chess.com/game/live/145423636304"
+    },
+    "record": {
+      "win": 28,
+      "loss": 6,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2832,
+      "date": 1776597155,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2932,
+      "date": 1775931473,
+      "game": "https://www.chess.com/game/live/167166270688"
+    },
+    "record": {
+      "win": 900,
+      "loss": 824,
+      "draw": 132
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1775900984,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2761,
+      "date": 1677182486,
+      "game": "https://www.chess.com/game/live/86741382851"
+    },
+    "record": {
+      "win": 910,
+      "loss": 952,
+      "draw": 146
+    }
+  },
+  "fide": 2226,
+  "tactics": {
+    "highest": {
+      "rating": 2837,
+      "date": 1770811580
+    },
+    "lowest": {
+      "rating": 2349,
+      "date": 1771174683
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

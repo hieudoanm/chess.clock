@@ -1,0 +1,84 @@
+{
+  "player_id": 8560240,
+  "@id": "https://api.chess.com/pub/player/masterleif",
+  "url": "https://www.chess.com/member/MasterLeif",
+  "username": "masterleif",
+  "title": "FM",
+  "followers": 111,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776573289,
+  "joined": 1345078407,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2051,
+      "date": 1641968851,
+      "rd": 147
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1621480496,
+      "game": "https://www.chess.com/game/live/5031753111"
+    },
+    "record": {
+      "win": 23,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2722,
+      "date": 1757386833,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2768,
+      "date": 1754867545,
+      "game": "https://www.chess.com/game/live/1627998274"
+    },
+    "record": {
+      "win": 19524,
+      "loss": 18590,
+      "draw": 3271
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2705,
+      "date": 1767753924,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2772,
+      "date": 1765342576,
+      "game": "https://www.chess.com/game/live/3647658376"
+    },
+    "record": {
+      "win": 4404,
+      "loss": 5324,
+      "draw": 1210
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2453,
+      "date": 1345078407
+    },
+    "lowest": {
+      "rating": 2453,
+      "date": 1345078407
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

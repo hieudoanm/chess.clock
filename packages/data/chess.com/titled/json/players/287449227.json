@@ -1,0 +1,61 @@
+{
+  "player_id": 287449227,
+  "@id": "https://api.chess.com/pub/player/alphazero_stockfish",
+  "url": "https://www.chess.com/member/alphazero_stockfish",
+  "username": "alphazero_stockfish",
+  "title": "NM",
+  "followers": 6,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776205319,
+  "joined": 1684687700,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2609,
+      "date": 1754704931,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2616,
+      "date": 1754704772,
+      "game": "https://www.chess.com/game/live/138797975882"
+    },
+    "record": {
+      "win": 40,
+      "loss": 8,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2598,
+      "date": 1759090952,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1759090952,
+      "game": "https://www.chess.com/game/live/141657263518"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2064,
+      "date": 1684687700
+    },
+    "lowest": {
+      "rating": 2064,
+      "date": 1684687700
+    }
+  },
+  "puzzle_rush": {}
+}

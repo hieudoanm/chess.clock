@@ -1,0 +1,80 @@
+{
+  "player_id": 374260113,
+  "@id": "https://api.chess.com/pub/player/keopki",
+  "url": "https://www.chess.com/member/keopki",
+  "name": "Juliette Cornileau",
+  "username": "keopki",
+  "title": "WFM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776545110,
+  "joined": 1720463723,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2069,
+      "date": 1773865144,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1910,
+      "date": 1775862832,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2092,
+      "date": 1747311255,
+      "game": "https://www.chess.com/game/live/138484545536"
+    },
+    "record": {
+      "win": 145,
+      "loss": 123,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2229,
+      "date": 1776368921,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2266,
+      "date": 1721153282,
+      "game": "https://www.chess.com/game/live/125166012693"
+    },
+    "record": {
+      "win": 241,
+      "loss": 238,
+      "draw": 27
+    }
+  },
+  "fide": 2078,
+  "tactics": {
+    "highest": {
+      "rating": 2442,
+      "date": 1761038987
+    },
+    "lowest": {
+      "rating": 2318,
+      "date": 1761039325
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

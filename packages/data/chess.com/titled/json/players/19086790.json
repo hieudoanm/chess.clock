@@ -1,0 +1,84 @@
+{
+  "player_id": 19086790,
+  "@id": "https://api.chess.com/pub/player/spriteball",
+  "url": "https://www.chess.com/member/Spriteball",
+  "name": "Davis Zong",
+  "username": "spriteball",
+  "title": "FM",
+  "followers": 100,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776042398,
+  "joined": 1411928065,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2176,
+      "date": 1743655286,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2176,
+      "date": 1692672968,
+      "game": "https://www.chess.com/game/live/53123368567"
+    },
+    "record": {
+      "win": 37,
+      "loss": 39,
+      "draw": 14
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2552,
+      "date": 1722613313,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2626,
+      "date": 1710884093,
+      "game": "https://www.chess.com/game/live/104623175035"
+    },
+    "record": {
+      "win": 3,
+      "loss": 9,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2544,
+      "date": 1760295321,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2559,
+      "date": 1755620076,
+      "game": "https://www.chess.com/game/live/113069476807"
+    },
+    "record": {
+      "win": 272,
+      "loss": 305,
+      "draw": 57
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2820,
+      "date": 1411928065
+    },
+    "lowest": {
+      "rating": 2820,
+      "date": 1411928065
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

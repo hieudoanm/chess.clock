@@ -1,0 +1,104 @@
+{
+  "player_id": 51032158,
+  "@id": "https://api.chess.com/pub/player/itskyell",
+  "url": "https://www.chess.com/member/ItsKyell",
+  "name": "Kyell-Jean Antonio",
+  "username": "itskyell",
+  "title": "CM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/AW",
+  "last_online": 1767965462,
+  "joined": 1540236035,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1622,
+      "date": 1728671737,
+      "rd": 333
+    },
+    "best": {
+      "rating": 1622,
+      "date": 1676053401,
+      "game": "https://www.chess.com/game/daily/468879649"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 34699,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1770,
+      "date": 1740103327,
+      "rd": 138
+    },
+    "best": {
+      "rating": 1770,
+      "date": 1740101537,
+      "game": "https://www.chess.com/game/live/5241639499"
+    },
+    "record": {
+      "win": 21,
+      "loss": 23,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1770,
+      "date": 1766688187,
+      "rd": 62
+    },
+    "best": {
+      "rating": 1770,
+      "date": 1740189395,
+      "game": "https://www.chess.com/game/live/119294464971"
+    },
+    "record": {
+      "win": 57,
+      "loss": 59,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1666,
+      "date": 1739367514,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1770,
+      "date": 1731323556,
+      "game": "https://www.chess.com/game/live/47589702789"
+    },
+    "record": {
+      "win": 92,
+      "loss": 86,
+      "draw": 10
+    }
+  },
+  "fide": 1770,
+  "tactics": {
+    "highest": {
+      "rating": 2222,
+      "date": 1540236035
+    },
+    "lowest": {
+      "rating": 2222,
+      "date": 1540236035
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

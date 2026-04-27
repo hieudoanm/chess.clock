@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/17351884.2987ab7d.200x200o.3d55f3e3e27d.jpeg",
+  "player_id": 17351884,
+  "@id": "https://api.chess.com/pub/player/el_greek",
+  "url": "https://www.chess.com/member/el_greek",
+  "name": "Gabriel Chess Trainer",
+  "username": "el_greek",
+  "title": "IM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/RO",
+  "location": "Bucharest, Romania",
+  "last_online": 1548337654,
+  "joined": 1400445066,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1513243695,
+      "rd": 290
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 57,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1603,
+      "date": 1410799655,
+      "rd": 243
+    },
+    "best": {
+      "rating": 1603,
+      "date": 1410799655,
+      "game": "https://www.chess.com/game/live/915195414"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2244,
+      "date": 1508109863,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2113,
+      "date": 1508025009,
+      "game": "https://www.chess.com/game/live/901636103"
+    },
+    "record": {
+      "win": 313,
+      "loss": 226,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2344,
+      "date": 1547598069,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1540680021,
+      "game": "https://www.chess.com/game/live/3171599330"
+    },
+    "record": {
+      "win": 178,
+      "loss": 152,
+      "draw": 24
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1400445066
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1400445066
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

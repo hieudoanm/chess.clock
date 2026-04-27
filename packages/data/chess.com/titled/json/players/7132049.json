@@ -1,0 +1,99 @@
+{
+  "player_id": 7132049,
+  "@id": "https://api.chess.com/pub/player/awesomeidiot",
+  "url": "https://www.chess.com/member/awesomeidiot",
+  "name": "Adithya Bala",
+  "username": "awesomeidiot",
+  "title": "NM",
+  "followers": 16,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1703356760,
+  "joined": 1333112810,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1463240587,
+      "rd": 318
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 11996,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2458,
+      "date": 1680648657,
+      "rd": 346
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1680648657,
+      "game": "https://www.chess.com/game/live/74387485475"
+    },
+    "record": {
+      "win": 10,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2354,
+      "date": 1703356899,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1535673201,
+      "game": "https://www.chess.com/game/live/1752542026"
+    },
+    "record": {
+      "win": 1161,
+      "loss": 1101,
+      "draw": 129
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2456,
+      "date": 1677863804,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2542,
+      "date": 1579192324,
+      "game": "https://www.chess.com/game/live/4479856887"
+    },
+    "record": {
+      "win": 2098,
+      "loss": 1963,
+      "draw": 311
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2357,
+      "date": 1333112810
+    },
+    "lowest": {
+      "rating": 2357,
+      "date": 1333112810
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 37
+    }
+  }
+}

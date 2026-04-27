@@ -1,0 +1,84 @@
+{
+  "player_id": 25062808,
+  "@id": "https://api.chess.com/pub/player/ftorodent",
+  "url": "https://www.chess.com/member/ftorodent",
+  "name": "Andrey Rychagov",
+  "username": "ftorodent",
+  "title": "GM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776337514,
+  "joined": 1447505855,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2336,
+      "date": 1721228568,
+      "rd": 79
+    },
+    "best": {
+      "rating": 2388,
+      "date": 1653151305,
+      "game": "https://www.chess.com/game/live/53540460693"
+    },
+    "record": {
+      "win": 22,
+      "loss": 33,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2487,
+      "date": 1608407598,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1608406341,
+      "game": "https://www.chess.com/game/live/6007951947"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2647,
+      "date": 1721149572,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2779,
+      "date": 1635268008,
+      "game": "https://www.chess.com/game/live/50170249945"
+    },
+    "record": {
+      "win": 461,
+      "loss": 298,
+      "draw": 65
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2120,
+      "date": 1447505855
+    },
+    "lowest": {
+      "rating": 2120,
+      "date": 1447505855
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

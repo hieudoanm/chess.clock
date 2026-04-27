@@ -1,0 +1,136 @@
+{
+  "player_id": 2572881,
+  "@id": "https://api.chess.com/pub/player/tavi001",
+  "url": "https://www.chess.com/member/tavi001",
+  "name": "Octavio Croes",
+  "username": "tavi001",
+  "title": "CM",
+  "followers": 65,
+  "country": "https://api.chess.com/pub/country/AW",
+  "location": "Pavia",
+  "last_online": 1776599393,
+  "joined": 1266718890,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1610,
+      "date": 1776595437,
+      "rd": 60
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1294664195,
+      "game": "https://www.chess.com/game/daily/130169530"
+    },
+    "record": {
+      "win": 1446,
+      "loss": 548,
+      "draw": 263,
+      "time_per_move": 16216,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 80,
+      "withdraw": 0,
+      "count": 3,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1632,
+      "date": 1770077821,
+      "rd": 135
+    },
+    "best": {
+      "rating": 1866,
+      "date": 1624528845,
+      "game": "https://www.chess.com/game/daily/340011319"
+    },
+    "record": {
+      "win": 17,
+      "loss": 12,
+      "draw": 3,
+      "time_per_move": 16216,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 80,
+      "withdraw": 0,
+      "count": 3,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1945,
+      "date": 1771812130,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2037,
+      "date": 1756740473,
+      "game": "https://www.chess.com/game/live/142490428664"
+    },
+    "record": {
+      "win": 411,
+      "loss": 318,
+      "draw": 80
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1513,
+      "date": 1697937433,
+      "rd": 127
+    },
+    "best": {
+      "rating": 1861,
+      "date": 1649536437,
+      "game": "https://www.chess.com/game/live/91675767243"
+    },
+    "record": {
+      "win": 13,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1531,
+      "date": 1776216952,
+      "rd": 34
+    },
+    "best": {
+      "rating": 1839,
+      "date": 1596566136,
+      "game": "https://www.chess.com/game/live/95798597441"
+    },
+    "record": {
+      "win": 5613,
+      "loss": 4416,
+      "draw": 887
+    }
+  },
+  "fide": 1801,
+  "tactics": {
+    "highest": {
+      "rating": 2095,
+      "date": 1767718185
+    },
+    "lowest": {
+      "rating": 1924,
+      "date": 1776214102
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

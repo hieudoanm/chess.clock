@@ -1,0 +1,84 @@
+{
+  "player_id": 29847148,
+  "@id": "https://api.chess.com/pub/player/sunerr",
+  "url": "https://www.chess.com/member/sunerr",
+  "username": "sunerr",
+  "title": "NM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1771358727,
+  "joined": 1473383798,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2161,
+      "date": 1735341767,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1710897547,
+      "game": "https://www.chess.com/game/live/104635771331"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2717,
+      "date": 1743572966,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2677,
+      "date": 1734936414,
+      "game": "https://www.chess.com/game/live/130552812039"
+    },
+    "record": {
+      "win": 2667,
+      "loss": 2368,
+      "draw": 409
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2600,
+      "date": 1760750720,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1760750720,
+      "game": "https://www.chess.com/game/live/107671382421"
+    },
+    "record": {
+      "win": 1444,
+      "loss": 1237,
+      "draw": 255
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2476,
+      "date": 1764025528
+    },
+    "lowest": {
+      "rating": 2293,
+      "date": 1764034510
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

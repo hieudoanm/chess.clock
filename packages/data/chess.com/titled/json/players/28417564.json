@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28417564.7097ffa7.200x200o.4f19f2979718.jpg",
+  "player_id": 28417564,
+  "@id": "https://api.chess.com/pub/player/lachesisq",
+  "url": "https://www.chess.com/member/lachesisQ",
+  "name": "Ian Nepomniachtchi",
+  "username": "lachesisq",
+  "title": "GM",
+  "followers": 16901,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Moscow",
+  "last_online": 1776596770,
+  "joined": 1464600099,
+  "status": "premium",
+  "is_streamer": true,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1008,
+      "date": 1754312304,
+      "rd": 262
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1464600099,
+      "game": "https://www.chess.com/game/daily/167769548"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32219,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2834,
+      "date": 1773688846,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2908,
+      "date": 1598722377,
+      "game": "https://www.chess.com/game/live/100717441951"
+    },
+    "record": {
+      "win": 136,
+      "loss": 63,
+      "draw": 114
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3088,
+      "date": 1763666520,
+      "rd": 47
+    },
+    "best": {
+      "rating": 3168,
+      "date": 1601841645,
+      "game": "https://www.chess.com/game/live/88532517589"
+    },
+    "record": {
+      "win": 270,
+      "loss": 211,
+      "draw": 67
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 3230,
+      "date": 1776376697,
+      "rd": 41
+    },
+    "best": {
+      "rating": 3322,
+      "date": 1770971483,
+      "game": "https://www.chess.com/game/live/163849904547"
+    },
+    "record": {
+      "win": 4624,
+      "loss": 2273,
+      "draw": 1097
+    }
+  },
+  "fide": 2779,
+  "tactics": {
+    "highest": {
+      "rating": 2645,
+      "date": 1756875819
+    },
+    "lowest": {
+      "rating": 2419,
+      "date": 1764675253
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 77,
+      "score": 74
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 51102472,
+  "@id": "https://api.chess.com/pub/player/edenhazard8",
+  "url": "https://www.chess.com/member/EdenHazard8",
+  "name": "Max Pert",
+  "username": "edenhazard8",
+  "title": "FM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776546180,
+  "joined": 1540408825,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2219,
+      "date": 1740147575,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2225,
+      "date": 1738869891,
+      "game": "https://www.chess.com/game/live/132607881635"
+    },
+    "record": {
+      "win": 104,
+      "loss": 65,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2553,
+      "date": 1740147711,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2561,
+      "date": 1732130383,
+      "game": "https://www.chess.com/game/live/125699918671"
+    },
+    "record": {
+      "win": 509,
+      "loss": 370,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2573,
+      "date": 1776538552,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2727,
+      "date": 1766061137,
+      "game": "https://www.chess.com/game/live/146852588658"
+    },
+    "record": {
+      "win": 1849,
+      "loss": 1435,
+      "draw": 221
+    }
+  },
+  "fide": 2215,
+  "tactics": {
+    "highest": {
+      "rating": 2465,
+      "date": 1765790081
+    },
+    "lowest": {
+      "rating": 2208,
+      "date": 1766056570
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 46,
+      "score": 43
+    }
+  }
+}

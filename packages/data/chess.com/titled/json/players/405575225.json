@@ -1,0 +1,84 @@
+{
+  "player_id": 405575225,
+  "@id": "https://api.chess.com/pub/player/skandachampion",
+  "url": "https://www.chess.com/member/SKandachampion",
+  "username": "skandachampion",
+  "title": "WFM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776599464,
+  "joined": 1732793060,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2114,
+      "date": 1761793765,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2114,
+      "date": 1761793765,
+      "game": "https://www.chess.com/game/live/144856403444"
+    },
+    "record": {
+      "win": 15,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2451,
+      "date": 1766518424,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2470,
+      "date": 1757495940,
+      "game": "https://www.chess.com/game/live/147090565426"
+    },
+    "record": {
+      "win": 29,
+      "loss": 52,
+      "draw": 6
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2630,
+      "date": 1775732426,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2754,
+      "date": 1770961719,
+      "game": "https://www.chess.com/game/live/166877703762"
+    },
+    "record": {
+      "win": 1301,
+      "loss": 1220,
+      "draw": 285
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2430,
+      "date": 1770281889
+    },
+    "lowest": {
+      "rating": 2167,
+      "date": 1760669952
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 191022291,
+  "@id": "https://api.chess.com/pub/player/jinx1996",
+  "url": "https://www.chess.com/member/Jinx1996",
+  "username": "jinx1996",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1766072882,
+  "joined": 1658665489,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2400,
+      "date": 1728818499
+    },
+    "best": {
+      "rating": 2340,
+      "date": 1663315717,
+      "game": "https://www.chess.com/game/live/57079658915"
+    },
+    "record": {
+      "win": 45,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2615,
+      "date": 1757132600,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2685,
+      "date": 1728154159,
+      "game": "https://www.chess.com/game/live/121883956841"
+    },
+    "record": {
+      "win": 244,
+      "loss": 176,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2693,
+      "date": 1758129374,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2855,
+      "date": 1736068264,
+      "game": "https://www.chess.com/game/live/129805732575"
+    },
+    "record": {
+      "win": 2058,
+      "loss": 1455,
+      "draw": 277
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2090,
+      "date": 1658665489
+    },
+    "lowest": {
+      "rating": 2090,
+      "date": 1658665489
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

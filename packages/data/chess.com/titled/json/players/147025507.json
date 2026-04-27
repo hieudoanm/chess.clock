@@ -1,0 +1,103 @@
+{
+  "player_id": 147025507,
+  "@id": "https://api.chess.com/pub/player/idk26282",
+  "url": "https://www.chess.com/member/Idk26282",
+  "username": "idk26282",
+  "title": "WCM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1764164583,
+  "joined": 1625597760,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1454,
+      "date": 1774254645,
+      "rd": 141
+    },
+    "best": {
+      "rating": 1454,
+      "date": 1692461851,
+      "game": "https://www.chess.com/game/daily/516867905"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 1,
+      "time_per_move": 43535,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2083,
+      "date": 1757080167,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2084,
+      "date": 1752148175,
+      "game": "https://www.chess.com/game/live/142757645194"
+    },
+    "record": {
+      "win": 298,
+      "loss": 207,
+      "draw": 22
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1709,
+      "date": 1758479880,
+      "rd": 76
+    },
+    "best": {
+      "rating": 1760,
+      "date": 1757030197,
+      "game": "https://www.chess.com/game/live/142736727136"
+    },
+    "record": {
+      "win": 290,
+      "loss": 278,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1934,
+      "date": 1763061217,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1757003552,
+      "game": "https://www.chess.com/game/live/142802423170"
+    },
+    "record": {
+      "win": 376,
+      "loss": 364,
+      "draw": 47
+    }
+  },
+  "fide": 1278,
+  "tactics": {
+    "highest": {
+      "rating": 2269,
+      "date": 1758717465
+    },
+    "lowest": {
+      "rating": 2157,
+      "date": 1758717317
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 38
+    }
+  }
+}

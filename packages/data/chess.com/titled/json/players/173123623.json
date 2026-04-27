@@ -1,0 +1,104 @@
+{
+    "avatar": "https://images.chesscomfiles.com/uploads/v1/user/173123623.f2f6a8a5.200x200o.e6a03a687ecd.jpg",
+    "player_id": 173123623,
+    "@id": "https://api.chess.com/pub/player/le-koala-fou",
+    "url": "https://www.chess.com/member/le-koala-fou",
+    "username": "le-koala-fou",
+    "title": "CM",
+    "followers": 35,
+    "country": "https://api.chess.com/pub/country/FR",
+    "last_online": 1741686064,
+    "joined": 1644781646,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_daily": {
+        "last": {
+            "rating": 1761,
+            "date": 1737560096,
+            "rd": 77
+        },
+        "best": {
+            "rating": 2125,
+            "date": 1711223240,
+            "game": "https://www.chess.com/game/daily/664916131"
+        },
+        "record": {
+            "win": 60,
+            "loss": 11,
+            "draw": 11,
+            "time_per_move": 17709,
+            "timeout_percent": 0
+        }
+    },
+    "chess_rapid": {
+        "last": {
+            "rating": 2215,
+            "date": 1730634838,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2336,
+            "date": 1646572033,
+            "game": "https://www.chess.com/game/live/75804167389"
+        },
+        "record": {
+            "win": 46,
+            "loss": 46,
+            "draw": 9
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2325,
+            "date": 1740580334,
+            "rd": 31
+        },
+        "best": {
+            "rating": 2475,
+            "date": 1705844770,
+            "game": "https://www.chess.com/game/live/78950559223"
+        },
+        "record": {
+            "win": 1438,
+            "loss": 1730,
+            "draw": 184
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2373,
+            "date": 1741687197,
+            "rd": 32
+        },
+        "best": {
+            "rating": 2531,
+            "date": 1731626062,
+            "game": "https://www.chess.com/game/live/66333199071"
+        },
+        "record": {
+            "win": 2547,
+            "loss": 2803,
+            "draw": 437
+        }
+    },
+    "fide": 2207,
+    "tactics": {
+        "highest": {
+            "rating": 3303,
+            "date": 1739922045
+        },
+        "lowest": {
+            "rating": 1209,
+            "date": 1645552152
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 57,
+            "score": 54
+        }
+    }
+}

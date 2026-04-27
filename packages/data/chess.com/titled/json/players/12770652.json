@@ -1,0 +1,86 @@
+{
+  "player_id": 12770652,
+  "@id": "https://api.chess.com/pub/player/olita21",
+  "url": "https://www.chess.com/member/olita21",
+  "name": "olita rause",
+  "username": "olita21",
+  "title": "IM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/LV",
+  "location": "Riga",
+  "last_online": 1776593070,
+  "joined": 1374226594,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1157,
+      "date": 1774105173,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2120,
+      "date": 1590425432,
+      "game": "https://www.chess.com/game/live/6039350189"
+    },
+    "record": {
+      "win": 31,
+      "loss": 21,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2284,
+      "date": 1589635045,
+      "rd": 116
+    },
+    "best": {
+      "rating": 2173,
+      "date": 1589634512,
+      "game": "https://www.chess.com/game/live/3153483307"
+    },
+    "record": {
+      "win": 18,
+      "loss": 27,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2031,
+      "date": 1773932706,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2203,
+      "date": 1588078976,
+      "game": "https://www.chess.com/game/live/143928993910"
+    },
+    "record": {
+      "win": 513,
+      "loss": 439,
+      "draw": 53
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2308,
+      "date": 1756485504
+    },
+    "lowest": {
+      "rating": 2054,
+      "date": 1757403440
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

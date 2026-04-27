@@ -1,0 +1,103 @@
+{
+  "player_id": 22573070,
+  "@id": "https://api.chess.com/pub/player/kumi29",
+  "url": "https://www.chess.com/member/Kumi29",
+  "name": "Aleksander Kumala",
+  "username": "kumi29",
+  "title": "CM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776594571,
+  "joined": 1432759617,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2063,
+      "date": 1639906097,
+      "rd": 126
+    },
+    "best": {
+      "rating": 2063,
+      "date": 1608314144,
+      "game": "https://www.chess.com/game/daily/274667910"
+    },
+    "record": {
+      "win": 40,
+      "loss": 7,
+      "draw": 2,
+      "time_per_move": 24459,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1524,
+      "date": 1666891442,
+      "rd": 189
+    },
+    "best": {
+      "rating": 1553,
+      "date": 1638814254,
+      "game": "https://www.chess.com/game/live/32552497899"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2483,
+      "date": 1652308425,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2627,
+      "date": 1652306963,
+      "game": "https://www.chess.com/game/live/46047033007"
+    },
+    "record": {
+      "win": 130,
+      "loss": 70,
+      "draw": 11
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2539,
+      "date": 1768702752,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2631,
+      "date": 1708449041,
+      "game": "https://www.chess.com/game/live/15189128491"
+    },
+    "record": {
+      "win": 410,
+      "loss": 278,
+      "draw": 56
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2513,
+      "date": 1756754101
+    },
+    "lowest": {
+      "rating": 2376,
+      "date": 1763311758
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 86531632,
+  "@id": "https://api.chess.com/pub/player/livvy2020",
+  "url": "https://www.chess.com/member/Livvy2020",
+  "name": "Olivia Smith",
+  "username": "livvy2020",
+  "title": "WFM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/XW",
+  "last_online": 1770770088,
+  "joined": 1594581849,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1633,
+      "date": 1748863730,
+      "rd": 315
+    },
+    "best": {
+      "rating": 1633,
+      "date": 1665497447,
+      "game": "https://www.chess.com/game/daily/435232751"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9831,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2125,
+      "date": 1639069046,
+      "rd": 71
+    },
+    "best": {
+      "rating": 2131,
+      "date": 1628234360,
+      "game": "https://www.chess.com/game/live/21157908109"
+    },
+    "record": {
+      "win": 59,
+      "loss": 40,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1783,
+      "date": 1719427911,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2142,
+      "date": 1628138307,
+      "game": "https://www.chess.com/game/live/22215020145"
+    },
+    "record": {
+      "win": 23,
+      "loss": 33,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1950,
+      "date": 1705036678,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2130,
+      "date": 1666886802,
+      "game": "https://www.chess.com/game/live/21135091887"
+    },
+    "record": {
+      "win": 111,
+      "loss": 89,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2276,
+      "date": 1594581849
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1594581849
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 34,
+      "score": 31
+    }
+  }
+}

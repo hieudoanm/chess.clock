@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/40760128.db8313c6.200x200o.70922cc30456.jpeg",
+  "player_id": 40760128,
+  "@id": "https://api.chess.com/pub/player/stanislavnovikov",
+  "url": "https://www.chess.com/member/StanislavNovikov",
+  "name": "Stanislav Novikov",
+  "username": "stanislavnovikov",
+  "title": "GM",
+  "followers": 101,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Moscow",
+  "last_online": 1776593413,
+  "joined": 1511731786,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1754664326,
+      "rd": 348
+    },
+    "best": {
+      "rating": 2001,
+      "date": 1754664326,
+      "game": "https://www.chess.com/game/daily/846861278"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2969,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2580,
+      "date": 1716033963,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2593,
+      "date": 1649223879,
+      "game": "https://www.chess.com/game/live/42962375885"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2726,
+      "date": 1776593399,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2899,
+      "date": 1774866810,
+      "game": "https://www.chess.com/game/live/139478485536"
+    },
+    "record": {
+      "win": 2130,
+      "loss": 1925,
+      "draw": 334
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2808,
+      "date": 1737711928,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2824,
+      "date": 1736085716,
+      "game": "https://www.chess.com/game/live/43674342793"
+    },
+    "record": {
+      "win": 243,
+      "loss": 213,
+      "draw": 72
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2748,
+      "date": 1756195699
+    },
+    "lowest": {
+      "rating": 2631,
+      "date": 1760381933
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 62,
+      "score": 59
+    }
+  }
+}

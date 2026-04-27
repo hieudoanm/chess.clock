@@ -1,0 +1,88 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/766041.d5a05031.200x200o.e8b83d94d673.jpeg",
+  "player_id": 766041,
+  "@id": "https://api.chess.com/pub/player/tao7",
+  "url": "https://www.chess.com/member/tao7",
+  "name": "Ted",
+  "username": "tao7",
+  "title": "FM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776339538,
+  "joined": 1198583042,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2001,
+      "date": 1717230489,
+      "rd": 241
+    },
+    "best": {
+      "rating": 2243,
+      "date": 1539895214,
+      "game": "https://www.chess.com/game/daily/8107022"
+    },
+    "record": {
+      "win": 42,
+      "loss": 14,
+      "draw": 6,
+      "time_per_move": 35404,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2024,
+      "date": 1700936867,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2127,
+      "date": 1668245102,
+      "game": "https://www.chess.com/game/live/61159780313"
+    },
+    "record": {
+      "win": 770,
+      "loss": 404,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2277,
+      "date": 1688215275,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2394,
+      "date": 1625297214,
+      "game": "https://www.chess.com/game/live/3313802199"
+    },
+    "record": {
+      "win": 732,
+      "loss": 494,
+      "draw": 57
+    }
+  },
+  "fide": 2281,
+  "tactics": {
+    "highest": {
+      "rating": 2433,
+      "date": 1198583042
+    },
+    "lowest": {
+      "rating": 2433,
+      "date": 1198583042
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 29,
+      "score": 26
+    }
+  }
+}

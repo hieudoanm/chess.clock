@@ -1,0 +1,100 @@
+{
+  "player_id": 42711456,
+  "@id": "https://api.chess.com/pub/player/kaiyrbekov",
+  "url": "https://www.chess.com/member/Kaiyrbekov",
+  "name": "\u0420\u0443\u0441\u0442\u0430\u043c \u041a\u0430\u0439\u044b\u0440\u0431\u0435\u043a\u043e\u0432",
+  "username": "kaiyrbekov",
+  "title": "IM",
+  "followers": 198,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "location": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+  "last_online": 1695916621,
+  "joined": 1516987806,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1728894533,
+      "rd": 350
+    },
+    "record": {
+      "win": 5,
+      "loss": 18,
+      "draw": 0,
+      "time_per_move": 294948,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2252,
+      "date": 1695403823,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2360,
+      "date": 1600434243,
+      "game": "https://www.chess.com/game/live/41620187019"
+    },
+    "record": {
+      "win": 144,
+      "loss": 62,
+      "draw": 12
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1729,
+      "date": 1695462602,
+      "rd": 39
+    },
+    "best": {
+      "rating": 2316,
+      "date": 1613664970,
+      "game": "https://www.chess.com/game/live/7475501697"
+    },
+    "record": {
+      "win": 529,
+      "loss": 449,
+      "draw": 46
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1663,
+      "date": 1695745859,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1560088886,
+      "game": "https://www.chess.com/game/live/89482926593"
+    },
+    "record": {
+      "win": 1456,
+      "loss": 1323,
+      "draw": 179
+    }
+  },
+  "fide": 2350,
+  "tactics": {
+    "highest": {
+      "rating": 1884,
+      "date": 1516987806
+    },
+    "lowest": {
+      "rating": 1884,
+      "date": 1516987806
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

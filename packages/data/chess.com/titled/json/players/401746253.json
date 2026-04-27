@@ -1,0 +1,68 @@
+{
+  "player_id": 401746253,
+  "@id": "https://api.chess.com/pub/player/pellegrino_chess",
+  "url": "https://www.chess.com/member/Pellegrino_Chess",
+  "name": "Santiago de Jesus Casares Ugueto",
+  "username": "pellegrino_chess",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776184102,
+  "joined": 1731285761,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2167,
+      "date": 1733953468,
+      "rd": 175
+    },
+    "best": {
+      "rating": 2167,
+      "date": 1733953468,
+      "game": "https://www.chess.com/game/live/127692065913"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2286,
+      "date": 1776184102,
+      "rd": 96
+    },
+    "best": {
+      "rating": 2550,
+      "date": 1731449176,
+      "game": "https://www.chess.com/game/live/125792378967"
+    },
+    "record": {
+      "win": 47,
+      "loss": 56,
+      "draw": 6
+    }
+  },
+  "fide": 1958,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1731285761
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1731285761
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

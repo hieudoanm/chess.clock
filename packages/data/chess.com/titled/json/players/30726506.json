@@ -1,0 +1,98 @@
+{
+  "player_id": 30726506,
+  "@id": "https://api.chess.com/pub/player/xiaopang123",
+  "url": "https://www.chess.com/member/xiaopang123",
+  "name": "Xueyi Li",
+  "username": "xiaopang123",
+  "title": "WGM",
+  "followers": 171,
+  "country": "https://api.chess.com/pub/country/CN",
+  "last_online": 1776567753,
+  "joined": 1478185814,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 800,
+      "date": 1653388378,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 22944,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1625,
+      "date": 1774573598,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2304,
+      "date": 1591926610,
+      "game": "https://www.chess.com/game/live/82215184535"
+    },
+    "record": {
+      "win": 168,
+      "loss": 199,
+      "draw": 73
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1712,
+      "date": 1769428688,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2406,
+      "date": 1616754040,
+      "game": "https://www.chess.com/game/live/16125911709"
+    },
+    "record": {
+      "win": 123,
+      "loss": 65,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1651,
+      "date": 1774667192,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1628492863,
+      "game": "https://www.chess.com/game/live/41700069957"
+    },
+    "record": {
+      "win": 292,
+      "loss": 363,
+      "draw": 41
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2394,
+      "date": 1756609573
+    },
+    "lowest": {
+      "rating": 2276,
+      "date": 1770024033
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 54182398,
+  "@id": "https://api.chess.com/pub/player/letsgoband",
+  "url": "https://www.chess.com/member/letsgoband",
+  "username": "letsgoband",
+  "title": "FM",
+  "followers": 37,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776480427,
+  "joined": 1545496172,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2151,
+      "date": 1594489884,
+      "rd": 119
+    },
+    "best": {
+      "rating": 2319,
+      "date": 1590254849,
+      "game": "https://www.chess.com/game/live/5134671643"
+    },
+    "record": {
+      "win": 8,
+      "loss": 7,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2639,
+      "date": 1776477684,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1774815595,
+      "game": "https://www.chess.com/game/live/166968132870"
+    },
+    "record": {
+      "win": 2328,
+      "loss": 1960,
+      "draw": 198
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2776,
+      "date": 1776133968,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2791,
+      "date": 1775718674,
+      "game": "https://www.chess.com/game/live/125643541619"
+    },
+    "record": {
+      "win": 4971,
+      "loss": 4737,
+      "draw": 719
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2521,
+      "date": 1545496172
+    },
+    "lowest": {
+      "rating": 2521,
+      "date": 1545496172
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

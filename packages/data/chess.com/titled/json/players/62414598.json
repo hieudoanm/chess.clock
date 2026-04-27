@@ -1,0 +1,111 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/62414598.f087e326.200x200o.aec789dce0b3.jpeg",
+  "player_id": 62414598,
+  "@id": "https://api.chess.com/pub/player/lilekoridze",
+  "url": "https://www.chess.com/member/LileKoridze",
+  "name": "Lile Koridze",
+  "username": "lilekoridze",
+  "title": "WFM",
+  "followers": 5760,
+  "country": "https://api.chess.com/pub/country/GE",
+  "location": "Tbilisi",
+  "last_online": 1776493990,
+  "joined": 1560860810,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/lilekoridze",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/lilekoridze"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1509,
+      "date": 1765027166,
+      "rd": 183
+    },
+    "best": {
+      "rating": 1509,
+      "date": 1605029981,
+      "game": "https://www.chess.com/game/daily/281415802"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 48168,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2420,
+      "date": 1776013384,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2429,
+      "date": 1774281357,
+      "game": "https://www.chess.com/game/live/102970284545"
+    },
+    "record": {
+      "win": 481,
+      "loss": 346,
+      "draw": 111
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2609,
+      "date": 1775930333,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2691,
+      "date": 1768075063,
+      "game": "https://www.chess.com/game/live/94676952113"
+    },
+    "record": {
+      "win": 4406,
+      "loss": 4477,
+      "draw": 578
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2604,
+      "date": 1776446725,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2604,
+      "date": 1776446725,
+      "game": "https://www.chess.com/game/live/108840647705"
+    },
+    "record": {
+      "win": 3222,
+      "loss": 3168,
+      "draw": 611
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2437,
+      "date": 1769088058
+    },
+    "lowest": {
+      "rating": 2113,
+      "date": 1772119340
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 78,
+      "score": 75
+    }
+  }
+}

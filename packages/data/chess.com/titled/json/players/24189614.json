@@ -1,0 +1,85 @@
+{
+  "player_id": 24189614,
+  "@id": "https://api.chess.com/pub/player/gmalex1971",
+  "url": "https://www.chess.com/member/GMAlex1971",
+  "name": "Alex Delchev",
+  "username": "gmalex1971",
+  "title": "GM",
+  "followers": 262,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Sofia",
+  "last_online": 1776259651,
+  "joined": 1442689017,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2473,
+      "date": 1742170912,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2535,
+      "date": 1613755644,
+      "game": "https://www.chess.com/game/live/5334459401"
+    },
+    "record": {
+      "win": 147,
+      "loss": 22,
+      "draw": 36
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2079,
+      "date": 1650040383,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2141,
+      "date": 1546791265,
+      "game": "https://www.chess.com/game/live/3354549947"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2466,
+      "date": 1701858132,
+      "rd": 110
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1590966991,
+      "game": "https://www.chess.com/game/live/4077109612"
+    },
+    "record": {
+      "win": 770,
+      "loss": 562,
+      "draw": 140
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2134,
+      "date": 1442689017
+    },
+    "lowest": {
+      "rating": 2134,
+      "date": 1442689017
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

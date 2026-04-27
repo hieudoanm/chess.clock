@@ -1,0 +1,100 @@
+{
+  "player_id": 192316285,
+  "@id": "https://api.chess.com/pub/player/varunkrishnanchess",
+  "url": "https://www.chess.com/member/varunkrishnanchess",
+  "name": "Varun Krishnan",
+  "username": "varunkrishnanchess",
+  "title": "IM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "LA JOLLA",
+  "last_online": 1776546207,
+  "joined": 1659679682,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1729116232,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 401485,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2278,
+      "date": 1767075776,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2319,
+      "date": 1687196383,
+      "game": "https://www.chess.com/game/live/80934275023"
+    },
+    "record": {
+      "win": 11,
+      "loss": 7,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2602,
+      "date": 1775539559,
+      "rd": 42
+    },
+    "best": {
+      "rating": 3002,
+      "date": 1701298906,
+      "game": "https://www.chess.com/game/live/147891802343"
+    },
+    "record": {
+      "win": 178,
+      "loss": 211,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2764,
+      "date": 1776505629,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2942,
+      "date": 1772355801,
+      "game": "https://www.chess.com/game/live/165128559922"
+    },
+    "record": {
+      "win": 2062,
+      "loss": 2290,
+      "draw": 536
+    }
+  },
+  "fide": 2306,
+  "tactics": {
+    "highest": {
+      "rating": 572,
+      "date": 1774505381
+    },
+    "lowest": {
+      "rating": 497,
+      "date": 1771214702
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

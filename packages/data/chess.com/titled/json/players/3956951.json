@@ -1,0 +1,122 @@
+{
+  "player_id": 3956951,
+  "@id": "https://api.chess.com/pub/player/landman",
+  "url": "https://www.chess.com/member/Landman",
+  "name": "Chris Land",
+  "username": "landman",
+  "title": "FM",
+  "followers": 32,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775221540,
+  "joined": 1284127654,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2080,
+      "date": 1700715269,
+      "rd": 129
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1646615167,
+      "game": "https://www.chess.com/game/daily/166161132"
+    },
+    "record": {
+      "win": 83,
+      "loss": 1,
+      "draw": 7,
+      "time_per_move": 19560,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1264,
+      "date": 1449074438,
+      "rd": 208
+    },
+    "best": {
+      "rating": 1346,
+      "date": 1448568282,
+      "game": "https://www.chess.com/game/daily/122894634"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 19560,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2041,
+      "date": 1717468678,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2041,
+      "date": 1717468678,
+      "game": "https://www.chess.com/game/live/111206464503"
+    },
+    "record": {
+      "win": 40,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1939,
+      "date": 1717549656,
+      "rd": 207
+    },
+    "best": {
+      "rating": 1939,
+      "date": 1717549656,
+      "game": "https://www.chess.com/game/live/111288071809"
+    },
+    "record": {
+      "win": 15,
+      "loss": 5,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2007,
+      "date": 1717992070,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2056,
+      "date": 1716657972,
+      "game": "https://www.chess.com/game/live/109472463303"
+    },
+    "record": {
+      "win": 113,
+      "loss": 45,
+      "draw": 6
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2340,
+      "date": 1768765733
+    },
+    "lowest": {
+      "rating": 2318,
+      "date": 1762737801
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

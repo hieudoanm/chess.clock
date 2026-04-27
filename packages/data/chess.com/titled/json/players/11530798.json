@@ -1,0 +1,100 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/11530798.ddf37f0f.200x200o.c97def10e8a2.jpeg",
+  "player_id": 11530798,
+  "@id": "https://api.chess.com/pub/player/ahmedotaleb",
+  "url": "https://www.chess.com/member/ahmedotaleb",
+  "name": "Ahmed Taleb",
+  "username": "ahmedotaleb",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/MR",
+  "location": "Nouakchott",
+  "last_online": 1776341034,
+  "joined": 1366035625,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 903,
+      "date": 1595692642,
+      "rd": 288
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 58931,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1647,
+      "date": 1596991544,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2233,
+      "date": 1595788935,
+      "game": "https://www.chess.com/game/live/5203042937"
+    },
+    "record": {
+      "win": 8,
+      "loss": 14,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2141,
+      "date": 1620531686,
+      "rd": 103
+    },
+    "best": {
+      "rating": 2141,
+      "date": 1620531686,
+      "game": "https://www.chess.com/game/live/1437690746"
+    },
+    "record": {
+      "win": 438,
+      "loss": 341,
+      "draw": 34
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2000,
+      "date": 1595652087,
+      "rd": 61
+    },
+    "best": {
+      "rating": 1966,
+      "date": 1532792624,
+      "game": "https://www.chess.com/game/live/2969412299"
+    },
+    "record": {
+      "win": 152,
+      "loss": 113,
+      "draw": 8
+    }
+  },
+  "fide": 2000,
+  "tactics": {
+    "highest": {
+      "rating": 2086,
+      "date": 1366035625
+    },
+    "lowest": {
+      "rating": 2086,
+      "date": 1366035625
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

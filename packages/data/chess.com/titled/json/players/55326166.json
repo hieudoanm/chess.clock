@@ -1,0 +1,104 @@
+{
+  "player_id": 55326166,
+  "@id": "https://api.chess.com/pub/player/dzuffin",
+  "url": "https://www.chess.com/member/dzuffin",
+  "name": "Sergey Kharitonov",
+  "username": "dzuffin",
+  "title": "CM",
+  "followers": 46,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776597605,
+  "joined": 1546207718,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1773261693,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1748689833,
+      "game": "https://www.chess.com/game/daily/819508420"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 1904,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2322,
+      "date": 1776545399,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2430,
+      "date": 1775241298,
+      "game": "https://www.chess.com/game/live/166820189286"
+    },
+    "record": {
+      "win": 119,
+      "loss": 86,
+      "draw": 13
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2227,
+      "date": 1776597067,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2352,
+      "date": 1774471696,
+      "game": "https://www.chess.com/game/live/166429637318"
+    },
+    "record": {
+      "win": 688,
+      "loss": 732,
+      "draw": 56
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2379,
+      "date": 1776597990,
+      "rd": 20
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1772048766,
+      "game": "https://www.chess.com/game/live/166455018189"
+    },
+    "record": {
+      "win": 4458,
+      "loss": 4742,
+      "draw": 391
+    }
+  },
+  "fide": 2014,
+  "tactics": {
+    "highest": {
+      "rating": 2245,
+      "date": 1774474078
+    },
+    "lowest": {
+      "rating": 1077,
+      "date": 1756232833
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

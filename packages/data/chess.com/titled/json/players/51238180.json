@@ -1,0 +1,85 @@
+{
+  "player_id": 51238180,
+  "@id": "https://api.chess.com/pub/player/whimsicaljam",
+  "url": "https://www.chess.com/member/WhimsicalJam",
+  "name": "Theo Khoury",
+  "username": "whimsicaljam",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1752848114,
+  "joined": 1540752539,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2194,
+      "date": 1732807218,
+      "rd": 68
+    },
+    "best": {
+      "rating": 1955,
+      "date": 1608377058,
+      "game": "https://www.chess.com/game/live/20974892035"
+    },
+    "record": {
+      "win": 75,
+      "loss": 28,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2194,
+      "date": 1732807218,
+      "rd": 65
+    },
+    "best": {
+      "rating": 1948,
+      "date": 1627810568,
+      "game": "https://www.chess.com/game/live/21461414999"
+    },
+    "record": {
+      "win": 70,
+      "loss": 38,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2297,
+      "date": 1733249394,
+      "rd": 57
+    },
+    "best": {
+      "rating": 2297,
+      "date": 1733249186,
+      "game": "https://www.chess.com/game/live/5021749441"
+    },
+    "record": {
+      "win": 155,
+      "loss": 95,
+      "draw": 20
+    }
+  },
+  "fide": 2194,
+  "tactics": {
+    "highest": {
+      "rating": 3212,
+      "date": 1540752539
+    },
+    "lowest": {
+      "rating": 3212,
+      "date": 1540752539
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 128,
+      "score": 126
+    }
+  }
+}

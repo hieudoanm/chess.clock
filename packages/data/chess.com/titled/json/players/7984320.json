@@ -1,0 +1,102 @@
+{
+  "player_id": 7984320,
+  "@id": "https://api.chess.com/pub/player/janumber1",
+  "url": "https://www.chess.com/member/janumber1",
+  "username": "janumber1",
+  "title": "CM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/NL",
+  "last_online": 1689154426,
+  "joined": 1340463160,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1579,
+      "date": 1717070263,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1699,
+      "date": 1604273305,
+      "game": "https://www.chess.com/game/daily/281939670"
+    },
+    "record": {
+      "win": 8,
+      "loss": 12,
+      "draw": 1,
+      "time_per_move": 14636,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2122,
+      "date": 1689108602,
+      "rd": 132
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1596218499,
+      "game": "https://www.chess.com/game/live/5231930795"
+    },
+    "record": {
+      "win": 26,
+      "loss": 7,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2526,
+      "date": 1689091268,
+      "rd": 148
+    },
+    "best": {
+      "rating": 2538,
+      "date": 1689031381,
+      "game": "https://www.chess.com/game/live/82830133951"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2276,
+      "date": 1689110793,
+      "rd": 87
+    },
+    "best": {
+      "rating": 2278,
+      "date": 1689110272,
+      "game": "https://www.chess.com/game/live/82848738335"
+    },
+    "record": {
+      "win": 121,
+      "loss": 110,
+      "draw": 10
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2333,
+      "date": 1340463160
+    },
+    "lowest": {
+      "rating": 2333,
+      "date": 1340463160
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 31
+    }
+  }
+}

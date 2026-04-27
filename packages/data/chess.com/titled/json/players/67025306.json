@@ -1,0 +1,104 @@
+{
+  "player_id": 67025306,
+  "@id": "https://api.chess.com/pub/player/khazhatulyalikhan",
+  "url": "https://www.chess.com/member/KhazhatulyAlikhan",
+  "name": "Alikhan Khazhatuly",
+  "username": "khazhatulyalikhan",
+  "title": "CM",
+  "followers": 56,
+  "country": "https://api.chess.com/pub/country/KZ",
+  "last_online": 1714495067,
+  "joined": 1571830018,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1874,
+      "date": 1756628946,
+      "rd": 66
+    },
+    "best": {
+      "rating": 1876,
+      "date": 1711264344,
+      "game": "https://www.chess.com/game/daily/510149713"
+    },
+    "record": {
+      "win": 64,
+      "loss": 27,
+      "draw": 7,
+      "time_per_move": 61306,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2235,
+      "date": 1701011723,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2245,
+      "date": 1686931078,
+      "game": "https://www.chess.com/game/live/81324150889"
+    },
+    "record": {
+      "win": 82,
+      "loss": 71,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2510,
+      "date": 1714138592,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1688650016,
+      "game": "https://www.chess.com/game/live/80067736475"
+    },
+    "record": {
+      "win": 544,
+      "loss": 481,
+      "draw": 91
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2516,
+      "date": 1714496901,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2539,
+      "date": 1714494037,
+      "game": "https://www.chess.com/game/live/108228101635"
+    },
+    "record": {
+      "win": 343,
+      "loss": 235,
+      "draw": 52
+    }
+  },
+  "fide": 1940,
+  "tactics": {
+    "highest": {
+      "rating": 2550,
+      "date": 1571830018
+    },
+    "lowest": {
+      "rating": 2550,
+      "date": 1571830018
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 51,
+      "score": 49
+    }
+  }
+}

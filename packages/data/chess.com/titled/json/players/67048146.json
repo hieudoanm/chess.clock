@@ -1,0 +1,66 @@
+{
+  "player_id": 67048146,
+  "@id": "https://api.chess.com/pub/player/nemofishy",
+  "url": "https://www.chess.com/member/nemofishy",
+  "username": "nemofishy",
+  "title": "GM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1687426578,
+  "joined": 1571865677,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2820,
+      "date": 1588104769,
+      "rd": 66
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1572558679,
+      "game": "https://www.chess.com/game/live/4186604438"
+    },
+    "record": {
+      "win": 30,
+      "loss": 21,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2737,
+      "date": 1675722187,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2843,
+      "date": 1573165364,
+      "game": "https://www.chess.com/game/live/4494892196"
+    },
+    "record": {
+      "win": 291,
+      "loss": 265,
+      "draw": 53
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2364,
+      "date": 1571865677
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1571865677
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

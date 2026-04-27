@@ -1,0 +1,80 @@
+{
+  "player_id": 76457474,
+  "@id": "https://api.chess.com/pub/player/vitarasik",
+  "url": "https://www.chess.com/member/VitaRasik",
+  "name": "Vitezslav Rasik",
+  "username": "vitarasik",
+  "title": "GM",
+  "followers": 51,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776598718,
+  "joined": 1586687695,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2465,
+      "date": 1650824382,
+      "rd": 91
+    },
+    "best": {
+      "rating": 2669,
+      "date": 1616256371,
+      "game": "https://www.chess.com/game/live/44533776949"
+    },
+    "record": {
+      "win": 38,
+      "loss": 4,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2303,
+      "date": 1651498488,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2337,
+      "date": 1588549031,
+      "game": "https://www.chess.com/game/live/4807512649"
+    },
+    "record": {
+      "win": 6,
+      "loss": 11,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2682,
+      "date": 1776599114,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2819,
+      "date": 1738243761,
+      "game": "https://www.chess.com/game/live/61774860043"
+    },
+    "record": {
+      "win": 8332,
+      "loss": 6998,
+      "draw": 1937
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2738,
+      "date": 1760778117
+    },
+    "lowest": {
+      "rating": 2448,
+      "date": 1763758286
+    }
+  },
+  "puzzle_rush": {}
+}

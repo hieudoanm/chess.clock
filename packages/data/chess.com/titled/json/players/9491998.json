@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9491998.c9f4086f.200x200o.02ca6664ed72.jpg",
+  "player_id": 9491998,
+  "@id": "https://api.chess.com/pub/player/farsgris",
+  "url": "https://www.chess.com/member/farsgris",
+  "name": "Lars Nielsen",
+  "username": "farsgris",
+  "title": "FM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/DK",
+  "location": "cph",
+  "last_online": 1776441644,
+  "joined": 1351879117,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1412,
+      "date": 1712219305,
+      "rd": 251
+    },
+    "best": {
+      "rating": 1412,
+      "date": 1680611122,
+      "game": "https://www.chess.com/game/daily/60515010"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 19552,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 836,
+      "date": 1625388615,
+      "rd": 207
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2404,
+      "date": 1776441635,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2497,
+      "date": 1767820655,
+      "game": "https://www.chess.com/game/live/148090523852"
+    },
+    "record": {
+      "win": 8408,
+      "loss": 7057,
+      "draw": 1658
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2253,
+      "date": 1765003271
+    },
+    "lowest": {
+      "rating": 2155,
+      "date": 1767340413
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 2,
+      "score": 1
+    }
+  }
+}

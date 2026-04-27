@@ -1,0 +1,83 @@
+{
+  "player_id": 344108081,
+  "@id": "https://api.chess.com/pub/player/victor-ryder",
+  "url": "https://www.chess.com/member/Victor-Ryder",
+  "username": "victor-ryder",
+  "title": "CM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1759169034,
+  "joined": 1707413217,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2551,
+      "date": 1759072572,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2562,
+      "date": 1758042431,
+      "game": "https://www.chess.com/game/live/142645144354"
+    },
+    "record": {
+      "win": 90,
+      "loss": 40,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2666,
+      "date": 1759165118,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2686,
+      "date": 1757789359,
+      "game": "https://www.chess.com/game/live/143045581414"
+    },
+    "record": {
+      "win": 308,
+      "loss": 241,
+      "draw": 40
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2710,
+      "date": 1762033436,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2703,
+      "date": 1759135840,
+      "game": "https://www.chess.com/game/live/143689505556"
+    },
+    "record": {
+      "win": 372,
+      "loss": 320,
+      "draw": 63
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2651,
+      "date": 1758951251
+    },
+    "lowest": {
+      "rating": 2334,
+      "date": 1759040145
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 49
+    }
+  }
+}

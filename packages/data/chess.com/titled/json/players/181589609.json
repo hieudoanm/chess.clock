@@ -1,0 +1,85 @@
+{
+  "player_id": 181589609,
+  "@id": "https://api.chess.com/pub/player/galaxyroman",
+  "url": "https://www.chess.com/member/GalaxyRoman",
+  "name": "Roman Dehtiarov",
+  "username": "galaxyroman",
+  "title": "IM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1775552339,
+  "joined": 1650867789,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2359,
+      "date": 1732181635,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2403,
+      "date": 1688410840,
+      "game": "https://www.chess.com/game/live/51644497917"
+    },
+    "record": {
+      "win": 118,
+      "loss": 74,
+      "draw": 15
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2681,
+      "date": 1763841205,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2681,
+      "date": 1763841205,
+      "game": "https://www.chess.com/game/live/78946428733"
+    },
+    "record": {
+      "win": 193,
+      "loss": 70,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2862,
+      "date": 1772283499,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2895,
+      "date": 1725952434,
+      "game": "https://www.chess.com/game/live/120934892809"
+    },
+    "record": {
+      "win": 2485,
+      "loss": 2236,
+      "draw": 423
+    }
+  },
+  "fide": 2319,
+  "tactics": {
+    "highest": {
+      "rating": 2622,
+      "date": 1771002806
+    },
+    "lowest": {
+      "rating": 2516,
+      "date": 1771002720
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 61,
+      "score": 58
+    }
+  }
+}

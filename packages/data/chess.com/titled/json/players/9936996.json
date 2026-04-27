@@ -1,0 +1,123 @@
+{
+  "player_id": 9936996,
+  "@id": "https://api.chess.com/pub/player/sjakkerntobi",
+  "url": "https://www.chess.com/member/Sjakkerntobi",
+  "name": "Tobias Lang Nilsen",
+  "username": "sjakkerntobi",
+  "title": "CM",
+  "followers": 74,
+  "country": "https://api.chess.com/pub/country/NO",
+  "location": "Moss",
+  "last_online": 1776591705,
+  "joined": 1354963178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1799,
+      "date": 1759067245,
+      "rd": 117
+    },
+    "best": {
+      "rating": 1989,
+      "date": 1615250953,
+      "game": "https://www.chess.com/game/daily/268137604"
+    },
+    "record": {
+      "win": 153,
+      "loss": 50,
+      "draw": 17,
+      "time_per_move": 24460,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1081,
+      "date": 1500803410,
+      "rd": 300
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1354963178,
+      "game": "https://www.chess.com/game/daily/169717620"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 24460,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2468,
+      "date": 1776172970,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2509,
+      "date": 1753536074,
+      "game": "https://www.chess.com/game/live/142749032728"
+    },
+    "record": {
+      "win": 238,
+      "loss": 131,
+      "draw": 26
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2648,
+      "date": 1776586311,
+      "rd": 23
+    },
+    "best": {
+      "rating": 2823,
+      "date": 1734876375,
+      "game": "https://www.chess.com/game/live/122151602143"
+    },
+    "record": {
+      "win": 2997,
+      "loss": 2137,
+      "draw": 357
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2615,
+      "date": 1776261929,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2739,
+      "date": 1774186552,
+      "game": "https://www.chess.com/game/live/131214046797"
+    },
+    "record": {
+      "win": 2423,
+      "loss": 2017,
+      "draw": 368
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2391,
+      "date": 1757495359
+    },
+    "lowest": {
+      "rating": 2146,
+      "date": 1758282380
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

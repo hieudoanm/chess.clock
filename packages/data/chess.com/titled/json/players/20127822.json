@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/20127822.bc73a97a.200x200o.1c5cfe89c4f4.jpeg",
+  "player_id": 20127822,
+  "@id": "https://api.chess.com/pub/player/nfds",
+  "url": "https://www.chess.com/member/nfds",
+  "name": "Gabriel Petesch",
+  "username": "nfds",
+  "title": "FM",
+  "followers": 434,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776121497,
+  "joined": 1418318474,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2305,
+      "date": 1708974979,
+      "rd": 334
+    },
+    "best": {
+      "rating": 2356,
+      "date": 1457138501,
+      "game": "https://www.chess.com/game/daily/129549492"
+    },
+    "record": {
+      "win": 42,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 22186,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1479,
+      "date": 1663718788,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2260,
+      "date": 1484189019,
+      "game": "https://www.chess.com/game/live/23063479393"
+    },
+    "record": {
+      "win": 44,
+      "loss": 2,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2784,
+      "date": 1724763913,
+      "rd": 50
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1616995380,
+      "game": "https://www.chess.com/game/live/10731383879"
+    },
+    "record": {
+      "win": 1551,
+      "loss": 1133,
+      "draw": 163
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2550,
+      "date": 1760458710,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2759,
+      "date": 1560323353,
+      "game": "https://www.chess.com/game/live/29611874343"
+    },
+    "record": {
+      "win": 4675,
+      "loss": 3657,
+      "draw": 575
+    }
+  },
+  "fide": 2394,
+  "tactics": {
+    "highest": {
+      "rating": 2608,
+      "date": 1762006311
+    },
+    "lowest": {
+      "rating": 2350,
+      "date": 1766022392
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 57,
+      "score": 54
+    }
+  }
+}

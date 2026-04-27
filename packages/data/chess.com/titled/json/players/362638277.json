@@ -1,0 +1,84 @@
+{
+    "player_id": 362638277,
+    "@id": "https://api.chess.com/pub/player/eptsiberia",
+    "url": "https://www.chess.com/member/eptsiberia",
+    "username": "eptsiberia",
+    "title": "CM",
+    "followers": 13,
+    "country": "https://api.chess.com/pub/country/RU",
+    "last_online": 1763718397,
+    "joined": 1715483042,
+    "status": "premium",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": [],
+    "chess_rapid": {
+        "last": {
+            "rating": 2417,
+            "date": 1762305454,
+            "rd": 49
+        },
+        "best": {
+            "rating": 2417,
+            "date": 1762305454,
+            "game": "https://www.chess.com/game/live/145128224858"
+        },
+        "record": {
+            "win": 105,
+            "loss": 45,
+            "draw": 11
+        }
+    },
+    "chess_bullet": {
+        "last": {
+            "rating": 2477,
+            "date": 1760097000,
+            "rd": 90
+        },
+        "best": {
+            "rating": 2477,
+            "date": 1760097000,
+            "game": "https://www.chess.com/game/live/144124491252"
+        },
+        "record": {
+            "win": 47,
+            "loss": 23,
+            "draw": 3
+        }
+    },
+    "chess_blitz": {
+        "last": {
+            "rating": 2629,
+            "date": 1763717773,
+            "rd": 25
+        },
+        "best": {
+            "rating": 2722,
+            "date": 1748768223,
+            "game": "https://www.chess.com/game/live/140017770210"
+        },
+        "record": {
+            "win": 1117,
+            "loss": 880,
+            "draw": 258
+        }
+    },
+    "fide": 2080,
+    "tactics": {
+        "highest": {
+            "rating": 400,
+            "date": 1760144582
+        },
+        "lowest": {
+            "rating": 400,
+            "date": 1760144582
+        }
+    },
+    "puzzle_rush": {
+        "best": {
+            "total_attempts": 49,
+            "score": 46
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+  "player_id": 502190557,
+  "@id": "https://api.chess.com/pub/player/lokeshgair",
+  "url": "https://www.chess.com/member/Lokeshgair",
+  "username": "lokeshgair",
+  "title": "FM",
+  "followers": 0,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1776191653,
+  "joined": 1763492780,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2445,
+      "date": 1773425212,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2437,
+      "date": 1770492184,
+      "game": "https://www.chess.com/game/live/164373405702"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2740,
+      "date": 1774862021,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2786,
+      "date": 1774289341,
+      "game": "https://www.chess.com/game/live/166620432096"
+    },
+    "record": {
+      "win": 158,
+      "loss": 143,
+      "draw": 30
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2400,
+      "date": 1763492780
+    },
+    "lowest": {
+      "rating": 2400,
+      "date": 1763492780
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 79,
+      "score": 76
+    }
+  }
+}

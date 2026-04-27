@@ -1,0 +1,104 @@
+{
+  "player_id": 43209406,
+  "@id": "https://api.chess.com/pub/player/nadeev_sergey",
+  "url": "https://www.chess.com/member/Nadeev_Sergey",
+  "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041d\u0430\u0434\u0435\u0435\u0432",
+  "username": "nadeev_sergey",
+  "title": "FM",
+  "followers": 81,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1776004941,
+  "joined": 1518289928,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1907,
+      "date": 1666513714,
+      "rd": 214
+    },
+    "best": {
+      "rating": 2002,
+      "date": 1628294840,
+      "game": "https://www.chess.com/game/daily/338955799"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 27771,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2294,
+      "date": 1773475725,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1620719262,
+      "game": "https://www.chess.com/game/live/38175796693"
+    },
+    "record": {
+      "win": 373,
+      "loss": 70,
+      "draw": 39
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2439,
+      "date": 1761984069,
+      "rd": 80
+    },
+    "best": {
+      "rating": 2467,
+      "date": 1760791262,
+      "game": "https://www.chess.com/game/live/36792648171"
+    },
+    "record": {
+      "win": 1671,
+      "loss": 660,
+      "draw": 65
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2566,
+      "date": 1771264502,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2584,
+      "date": 1755016105,
+      "game": "https://www.chess.com/game/live/148719510873"
+    },
+    "record": {
+      "win": 1089,
+      "loss": 639,
+      "draw": 153
+    }
+  },
+  "fide": 2431,
+  "tactics": {
+    "highest": {
+      "rating": 2698,
+      "date": 1763798449
+    },
+    "lowest": {
+      "rating": 2342,
+      "date": 1755585314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

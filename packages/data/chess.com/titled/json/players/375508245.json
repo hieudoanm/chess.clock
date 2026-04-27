@@ -1,0 +1,103 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/375508245.a1387728.200x200o.814479aa86a3.jpg",
+  "player_id": 375508245,
+  "@id": "https://api.chess.com/pub/player/nakmansong",
+  "url": "https://www.chess.com/member/nakmansong",
+  "username": "nakmansong",
+  "title": "FM",
+  "followers": 13,
+  "country": "https://api.chess.com/pub/country/LU",
+  "last_online": 1776472637,
+  "joined": 1721058284,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1585,
+      "date": 1765964126,
+      "rd": 217
+    },
+    "best": {
+      "rating": 1696,
+      "date": 1725636658,
+      "game": "https://www.chess.com/game/daily/685599481"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 15243,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2082,
+      "date": 1770348684,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2082,
+      "date": 1766521514,
+      "game": "https://www.chess.com/game/live/115963215001"
+    },
+    "record": {
+      "win": 16,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2442,
+      "date": 1772394474,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2462,
+      "date": 1721883680,
+      "game": "https://www.chess.com/game/live/142257266658"
+    },
+    "record": {
+      "win": 131,
+      "loss": 114,
+      "draw": 20
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2576,
+      "date": 1776472568,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2679,
+      "date": 1764979940,
+      "game": "https://www.chess.com/game/live/165695020062"
+    },
+    "record": {
+      "win": 2344,
+      "loss": 2665,
+      "draw": 528
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2576,
+      "date": 1763685991
+    },
+    "lowest": {
+      "rating": 2357,
+      "date": 1757034916
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

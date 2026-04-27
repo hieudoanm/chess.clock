@@ -1,0 +1,98 @@
+{
+  "player_id": 98794504,
+  "@id": "https://api.chess.com/pub/player/chinguunsu",
+  "url": "https://www.chess.com/member/ChinguunSu",
+  "name": "Chinguun Sumiya",
+  "username": "chinguunsu",
+  "title": "IM",
+  "followers": 28,
+  "country": "https://api.chess.com/pub/country/MN",
+  "last_online": 1776526198,
+  "joined": 1606138901,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1472,
+      "date": 1755012811,
+      "rd": 347
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 68868,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2292,
+      "date": 1770255828,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2300,
+      "date": 1607254245,
+      "game": "https://www.chess.com/game/live/142192723510"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1776526189,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2607,
+      "date": 1698053158,
+      "game": "https://www.chess.com/game/live/147315775098"
+    },
+    "record": {
+      "win": 16,
+      "loss": 14,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2857,
+      "date": 1776521173,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2870,
+      "date": 1751978164,
+      "game": "https://www.chess.com/game/live/92503952629"
+    },
+    "record": {
+      "win": 527,
+      "loss": 494,
+      "draw": 100
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2258,
+      "date": 1760345519
+    },
+    "lowest": {
+      "rating": 2165,
+      "date": 1760090126
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 8578950,
+  "@id": "https://api.chess.com/pub/player/sarfk",
+  "url": "https://www.chess.com/member/sarfk",
+  "name": "Robert Keating",
+  "username": "sarfk",
+  "title": "NM",
+  "followers": 36,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776556201,
+  "joined": 1345218999,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2265,
+      "date": 1776556163,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2466,
+      "date": 1769316481,
+      "game": "https://www.chess.com/game/live/148449492150"
+    },
+    "record": {
+      "win": 10917,
+      "loss": 7224,
+      "draw": 2121
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1523,
+      "date": 1499656614,
+      "rd": 290
+    },
+    "best": {
+      "rating": 1373,
+      "date": 1499656614,
+      "game": "https://www.chess.com/game/live/2196754478"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2113,
+      "date": 1599536571,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2302,
+      "date": 1567742209,
+      "game": "https://www.chess.com/game/live/3307929933"
+    },
+    "record": {
+      "win": 3372,
+      "loss": 1763,
+      "draw": 443
+    }
+  },
+  "fide": 2236,
+  "tactics": {
+    "highest": {
+      "rating": 2531,
+      "date": 1345218999
+    },
+    "lowest": {
+      "rating": 2531,
+      "date": 1345218999
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 40
+    }
+  }
+}

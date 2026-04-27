@@ -1,0 +1,66 @@
+{
+  "player_id": 22545398,
+  "@id": "https://api.chess.com/pub/player/midefaster",
+  "url": "https://www.chess.com/member/MideFaster",
+  "username": "midefaster",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1772194590,
+  "joined": 1432588822,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1727175668,
+      "rd": 260
+    },
+    "best": {
+      "rating": 2094,
+      "date": 1664619186,
+      "game": "https://www.chess.com/game/live/1304026229"
+    },
+    "record": {
+      "win": 345,
+      "loss": 266,
+      "draw": 9
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2300,
+      "date": 1727175668,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2209,
+      "date": 1548198676,
+      "game": "https://www.chess.com/game/live/1435669237"
+    },
+    "record": {
+      "win": 269,
+      "loss": 203,
+      "draw": 12
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2309,
+      "date": 1432588822
+    },
+    "lowest": {
+      "rating": 2309,
+      "date": 1432588822
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

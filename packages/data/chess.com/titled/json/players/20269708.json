@@ -1,0 +1,84 @@
+{
+  "player_id": 20269708,
+  "@id": "https://api.chess.com/pub/player/cms13",
+  "url": "https://www.chess.com/member/CMS13",
+  "name": "Sanjana Vittal",
+  "username": "cms13",
+  "title": "WFM",
+  "followers": 40,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776532536,
+  "joined": 1419184657,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2141,
+      "date": 1769630643,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1664045101,
+      "game": "https://www.chess.com/game/live/60809440829"
+    },
+    "record": {
+      "win": 49,
+      "loss": 17,
+      "draw": 11
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2244,
+      "date": 1775865346,
+      "rd": 54
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1689378885,
+      "game": "https://www.chess.com/game/live/82350054807"
+    },
+    "record": {
+      "win": 310,
+      "loss": 318,
+      "draw": 38
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2234,
+      "date": 1770837271,
+      "rd": 70
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1688002488,
+      "game": "https://www.chess.com/game/live/59184647361"
+    },
+    "record": {
+      "win": 304,
+      "loss": 373,
+      "draw": 69
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2594,
+      "date": 1770748660
+    },
+    "lowest": {
+      "rating": 2280,
+      "date": 1770748824
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

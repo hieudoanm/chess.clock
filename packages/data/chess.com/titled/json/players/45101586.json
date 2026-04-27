@@ -1,0 +1,69 @@
+{
+  "player_id": 45101586,
+  "@id": "https://api.chess.com/pub/player/snavr",
+  "url": "https://www.chess.com/member/snavr",
+  "name": "Anatoly Vaisser",
+  "username": "snavr",
+  "title": "GM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Kremlin Bicetre",
+  "last_online": 1774737278,
+  "joined": 1523203604,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2585,
+      "date": 1613845828,
+      "rd": 192
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1613845828,
+      "game": "https://www.chess.com/game/live/7583541789"
+    },
+    "record": {
+      "win": 7,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2511,
+      "date": 1691526390,
+      "rd": 339
+    },
+    "best": {
+      "rating": 2511,
+      "date": 1614459753,
+      "game": "https://www.chess.com/game/live/8198613725"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "fide": 2484,
+  "tactics": {
+    "highest": {
+      "rating": 2479,
+      "date": 1774192353
+    },
+    "lowest": {
+      "rating": 2287,
+      "date": 1774208414
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": 13143210,
+  "@id": "https://api.chess.com/pub/player/wcmariel",
+  "url": "https://www.chess.com/member/WCMariel",
+  "name": "Ariel Barrett",
+  "username": "wcmariel",
+  "title": "WCM",
+  "followers": 18,
+  "country": "https://api.chess.com/pub/country/JM",
+  "location": "Kingston",
+  "last_online": 1770399001,
+  "joined": 1376498301,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1148,
+      "date": 1775954324,
+      "rd": 223
+    },
+    "best": {
+      "rating": 1308,
+      "date": 1468688722,
+      "game": "https://www.chess.com/game/daily/134385828"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 107228,
+      "timeout_percent": 50
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1097,
+      "date": 1436048897,
+      "rd": 246
+    },
+    "record": {
+      "win": 0,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1265,
+      "date": 1663014181,
+      "rd": 98
+    },
+    "best": {
+      "rating": 1485,
+      "date": 1552013810,
+      "game": "https://www.chess.com/game/live/3516767412"
+    },
+    "record": {
+      "win": 199,
+      "loss": 168,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2156,
+      "date": 1758870917
+    },
+    "lowest": {
+      "rating": 2110,
+      "date": 1758819474
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 21,
+      "score": 20
+    }
+  }
+}

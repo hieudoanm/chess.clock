@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/24241358.bdbbf76f.200x200o.2472d2e2b616.jpg",
+  "player_id": 24241358,
+  "@id": "https://api.chess.com/pub/player/sombrini",
+  "url": "https://www.chess.com/member/sombrini",
+  "name": "Diogo Fernando",
+  "username": "sombrini",
+  "title": "IM",
+  "followers": 35,
+  "country": "https://api.chess.com/pub/country/PT",
+  "location": "Lisbon",
+  "last_online": 1776534516,
+  "joined": 1442976376,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2071,
+      "date": 1714897721,
+      "rd": 184
+    },
+    "best": {
+      "rating": 2071,
+      "date": 1683321351,
+      "game": "https://www.chess.com/game/daily/494447087"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 10517,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1551,
+      "date": 1712406965,
+      "rd": 156
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1454486400,
+      "game": "https://www.chess.com/game/live/59594496683"
+    },
+    "record": {
+      "win": 1,
+      "loss": 3,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2079,
+      "date": 1545506703,
+      "rd": 65
+    },
+    "best": {
+      "rating": 2102,
+      "date": 1515675113,
+      "game": "https://www.chess.com/game/live/2542896383"
+    },
+    "record": {
+      "win": 37,
+      "loss": 31,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2400,
+      "date": 1776534497,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2630,
+      "date": 1760181405,
+      "game": "https://www.chess.com/game/live/143957130766"
+    },
+    "record": {
+      "win": 10529,
+      "loss": 8630,
+      "draw": 963
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2302,
+      "date": 1758477336
+    },
+    "lowest": {
+      "rating": 2121,
+      "date": 1775638295
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

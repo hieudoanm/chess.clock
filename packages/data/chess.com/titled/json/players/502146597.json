@@ -1,0 +1,82 @@
+{
+  "player_id": 502146597,
+  "@id": "https://api.chess.com/pub/player/malaric2011",
+  "url": "https://www.chess.com/member/Malaric2011",
+  "name": "Marko Malaric",
+  "username": "malaric2011",
+  "title": "CM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/HR",
+  "last_online": 1776590697,
+  "joined": 1763482873,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1129,
+      "date": 1772847523,
+      "rd": 326
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 37785,
+      "timeout_percent": 100
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2147,
+      "date": 1769609551,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1764354960,
+      "game": "https://www.chess.com/game/live/160564021653"
+    },
+    "record": {
+      "win": 105,
+      "loss": 211,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2267,
+      "date": 1775804326,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1769295377,
+      "game": "https://www.chess.com/game/live/168683069067"
+    },
+    "record": {
+      "win": 210,
+      "loss": 225,
+      "draw": 27
+    }
+  },
+  "fide": 2202,
+  "tactics": {
+    "highest": {
+      "rating": 2427,
+      "date": 1773412692
+    },
+    "lowest": {
+      "rating": 1605,
+      "date": 1764267245
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 42,
+      "score": 39
+    }
+  }
+}

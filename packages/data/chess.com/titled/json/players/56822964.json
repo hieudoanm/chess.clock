@@ -1,0 +1,103 @@
+{
+  "player_id": 56822964,
+  "@id": "https://api.chess.com/pub/player/etcoco",
+  "url": "https://www.chess.com/member/ETcoco",
+  "name": "Estefan\u00eda C\u00e9spedes",
+  "username": "etcoco",
+  "title": "WCM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776357328,
+  "joined": 1549053196,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1150,
+      "date": 1611766627,
+      "rd": 285
+    },
+    "best": {
+      "rating": 1150,
+      "date": 1606019265,
+      "game": "https://www.chess.com/game/daily/283683142"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 27060,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1707,
+      "date": 1611932460,
+      "rd": 80
+    },
+    "best": {
+      "rating": 1852,
+      "date": 1599790358,
+      "game": "https://www.chess.com/game/live/6345802829"
+    },
+    "record": {
+      "win": 23,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1678,
+      "date": 1686683719,
+      "rd": 162
+    },
+    "best": {
+      "rating": 1828,
+      "date": 1686617079,
+      "game": "https://www.chess.com/game/live/80415196583"
+    },
+    "record": {
+      "win": 2,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1827,
+      "date": 1651970102,
+      "rd": 107
+    },
+    "best": {
+      "rating": 1878,
+      "date": 1646629133,
+      "game": "https://www.chess.com/game/live/5301462223"
+    },
+    "record": {
+      "win": 274,
+      "loss": 205,
+      "draw": 14
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2451,
+      "date": 1549053196
+    },
+    "lowest": {
+      "rating": 2451,
+      "date": 1549053196
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 43,
+      "score": 41
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 64218362,
+  "@id": "https://api.chess.com/pub/player/kicaps",
+  "url": "https://www.chess.com/member/kiCaps",
+  "name": "Bela Jakab",
+  "username": "kicaps",
+  "title": "FM",
+  "followers": 29,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1776197058,
+  "joined": 1565605978,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2249,
+      "date": 1738308681,
+      "rd": 225
+    },
+    "best": {
+      "rating": 2249,
+      "date": 1681125141,
+      "game": "https://www.chess.com/game/daily/500096455"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3738,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2458,
+      "date": 1773345628,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2458,
+      "date": 1773345628,
+      "game": "https://www.chess.com/game/live/53459455611"
+    },
+    "record": {
+      "win": 30,
+      "loss": 15,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2740,
+      "date": 1775009896,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2875,
+      "date": 1762212861,
+      "game": "https://www.chess.com/game/live/99804105179"
+    },
+    "record": {
+      "win": 3941,
+      "loss": 4397,
+      "draw": 719
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2707,
+      "date": 1772478552,
+      "rd": 29
+    },
+    "best": {
+      "rating": 2883,
+      "date": 1757611240,
+      "game": "https://www.chess.com/game/live/146245978218"
+    },
+    "record": {
+      "win": 2711,
+      "loss": 2791,
+      "draw": 554
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2559,
+      "date": 1764210721
+    },
+    "lowest": {
+      "rating": 2395,
+      "date": 1774365843
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 58,
+      "score": 55
+    }
+  }
+}

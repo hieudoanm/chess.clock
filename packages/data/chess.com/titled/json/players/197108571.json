@@ -1,0 +1,78 @@
+{
+  "player_id": 197108571,
+  "@id": "https://api.chess.com/pub/player/mahua_sake",
+  "url": "https://www.chess.com/member/Mahua_Sake",
+  "username": "mahua_sake",
+  "title": "IM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1720550479,
+  "joined": 1663099596,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2405,
+      "date": 1714154070,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2926,
+      "date": 1720390250,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2960,
+      "date": 1720101417,
+      "game": "https://www.chess.com/game/live/114129006197"
+    },
+    "record": {
+      "win": 90,
+      "loss": 40,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2938,
+      "date": 1720389930,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2949,
+      "date": 1720389629,
+      "game": "https://www.chess.com/game/live/114127235443"
+    },
+    "record": {
+      "win": 109,
+      "loss": 43,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1663099596
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1663099596
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 54,
+      "score": 51
+    }
+  }
+}

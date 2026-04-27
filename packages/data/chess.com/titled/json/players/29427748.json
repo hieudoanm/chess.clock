@@ -1,0 +1,104 @@
+{
+  "player_id": 29427748,
+  "@id": "https://api.chess.com/pub/player/lolo9292",
+  "url": "https://www.chess.com/member/lolo9292",
+  "name": "Loic Travadon",
+  "username": "lolo9292",
+  "title": "IM",
+  "followers": 147,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776340559,
+  "joined": 1470868970,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1023,
+      "date": 1732526923,
+      "rd": 300
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1470868970,
+      "game": "https://www.chess.com/game/daily/583871373"
+    },
+    "record": {
+      "win": 1,
+      "loss": 6,
+      "draw": 0,
+      "time_per_move": 46500,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1686339462,
+      "rd": 229
+    },
+    "best": {
+      "rating": 2494,
+      "date": 1599678899,
+      "game": "https://www.chess.com/game/live/5422053046"
+    },
+    "record": {
+      "win": 9,
+      "loss": 5,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2588,
+      "date": 1705165054,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2600,
+      "date": 1703769982,
+      "game": "https://www.chess.com/game/live/62629801899"
+    },
+    "record": {
+      "win": 362,
+      "loss": 199,
+      "draw": 19
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2204,
+      "date": 1705365816,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2656,
+      "date": 1590040255,
+      "game": "https://www.chess.com/game/live/88270319213"
+    },
+    "record": {
+      "win": 4731,
+      "loss": 4424,
+      "draw": 460
+    }
+  },
+  "fide": 2351,
+  "tactics": {
+    "highest": {
+      "rating": 2231,
+      "date": 1470868970
+    },
+    "lowest": {
+      "rating": 2231,
+      "date": 1470868970
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

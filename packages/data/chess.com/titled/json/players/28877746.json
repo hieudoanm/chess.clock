@@ -1,0 +1,68 @@
+{
+  "player_id": 28877746,
+  "@id": "https://api.chess.com/pub/player/fivetrick",
+  "url": "https://www.chess.com/member/Fivetrick",
+  "name": "Manuel Pena Gomez",
+  "username": "fivetrick",
+  "title": "GM",
+  "followers": 50,
+  "country": "https://api.chess.com/pub/country/HK",
+  "last_online": 1776179157,
+  "joined": 1467395691,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2723,
+      "date": 1762782421,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2743,
+      "date": 1760424596,
+      "game": "https://www.chess.com/game/live/145142173164"
+    },
+    "record": {
+      "win": 80,
+      "loss": 49,
+      "draw": 8
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2726,
+      "date": 1776179147,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2842,
+      "date": 1760372358,
+      "game": "https://www.chess.com/game/live/75549048017"
+    },
+    "record": {
+      "win": 664,
+      "loss": 560,
+      "draw": 116
+    }
+  },
+  "fide": 2494,
+  "tactics": {
+    "highest": {
+      "rating": 2475,
+      "date": 1467395691
+    },
+    "lowest": {
+      "rating": 2475,
+      "date": 1467395691
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

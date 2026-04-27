@@ -1,0 +1,103 @@
+{
+  "player_id": 41433586,
+  "@id": "https://api.chess.com/pub/player/thelonepika",
+  "url": "https://www.chess.com/member/TheLonePika",
+  "name": "Mahip Singh",
+  "username": "thelonepika",
+  "title": "NM",
+  "followers": 60,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1772354620,
+  "joined": 1513562491,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1856,
+      "date": 1710715285,
+      "rd": 199
+    },
+    "best": {
+      "rating": 1976,
+      "date": 1521674408,
+      "game": "https://www.chess.com/game/daily/189036096"
+    },
+    "record": {
+      "win": 33,
+      "loss": 16,
+      "draw": 0,
+      "time_per_move": 26915,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2024,
+      "date": 1661184750,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2024,
+      "date": 1661184750,
+      "game": "https://www.chess.com/game/live/54920876427"
+    },
+    "record": {
+      "win": 6,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2603,
+      "date": 1770429507,
+      "rd": 44
+    },
+    "best": {
+      "rating": 2603,
+      "date": 1770429507,
+      "game": "https://www.chess.com/game/live/104194758323"
+    },
+    "record": {
+      "win": 2103,
+      "loss": 1424,
+      "draw": 162
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2475,
+      "date": 1767671373,
+      "rd": 138
+    },
+    "best": {
+      "rating": 2533,
+      "date": 1703032012,
+      "game": "https://www.chess.com/game/live/4325751661"
+    },
+    "record": {
+      "win": 1117,
+      "loss": 869,
+      "draw": 130
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2496,
+      "date": 1770356077
+    },
+    "lowest": {
+      "rating": 2247,
+      "date": 1771014281
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

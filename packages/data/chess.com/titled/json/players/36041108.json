@@ -1,0 +1,84 @@
+{
+  "player_id": 36041108,
+  "@id": "https://api.chess.com/pub/player/macp1988",
+  "url": "https://www.chess.com/member/macp1988",
+  "name": "Miguel Alfredo Carrillo Parra",
+  "username": "macp1988",
+  "title": "FM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/CO",
+  "last_online": 1776547228,
+  "joined": 1496528206,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2128,
+      "date": 1734146363,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2272,
+      "date": 1619906574,
+      "game": "https://www.chess.com/game/live/5472618612"
+    },
+    "record": {
+      "win": 17,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1952,
+      "date": 1579752940,
+      "rd": 58
+    },
+    "best": {
+      "rating": 1834,
+      "date": 1579196028,
+      "game": "https://www.chess.com/game/live/4404935268"
+    },
+    "record": {
+      "win": 31,
+      "loss": 5,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2601,
+      "date": 1776224539,
+      "rd": 24
+    },
+    "best": {
+      "rating": 2718,
+      "date": 1774898832,
+      "game": "https://www.chess.com/game/live/149345307697"
+    },
+    "record": {
+      "win": 3546,
+      "loss": 3061,
+      "draw": 324
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2489,
+      "date": 1760909577
+    },
+    "lowest": {
+      "rating": 2311,
+      "date": 1757644994
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

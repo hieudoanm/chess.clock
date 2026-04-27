@@ -1,0 +1,99 @@
+{
+  "player_id": 77267970,
+  "@id": "https://api.chess.com/pub/player/juko7812",
+  "url": "https://www.chess.com/member/juko7812",
+  "name": "Lada Zelbova",
+  "username": "juko7812",
+  "title": "WFM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1741518727,
+  "joined": 1587369300,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1100,
+      "date": 1734539342,
+      "rd": 260
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 360896,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1903,
+      "date": 1734539343,
+      "rd": 146
+    },
+    "best": {
+      "rating": 1692,
+      "date": 1589730738,
+      "game": "https://www.chess.com/game/live/14572089861"
+    },
+    "record": {
+      "win": 42,
+      "loss": 36,
+      "draw": 9
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1903,
+      "date": 1734539343,
+      "rd": 88
+    },
+    "best": {
+      "rating": 1578,
+      "date": 1719344089,
+      "game": "https://www.chess.com/game/live/113082621693"
+    },
+    "record": {
+      "win": 19,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1903,
+      "date": 1734539343,
+      "rd": 155
+    },
+    "best": {
+      "rating": 1785,
+      "date": 1617440411,
+      "game": "https://www.chess.com/game/live/11177650127"
+    },
+    "record": {
+      "win": 141,
+      "loss": 111,
+      "draw": 15
+    }
+  },
+  "fide": 1903,
+  "tactics": {
+    "highest": {
+      "rating": 2389,
+      "date": 1587369300
+    },
+    "lowest": {
+      "rating": 2389,
+      "date": 1587369300
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 47,
+      "score": 44
+    }
+  }
+}

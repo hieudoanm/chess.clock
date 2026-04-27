@@ -1,0 +1,83 @@
+{
+  "player_id": 55916270,
+  "@id": "https://api.chess.com/pub/player/artemchessru",
+  "url": "https://www.chess.com/member/ArtemChessRU",
+  "username": "artemchessru",
+  "title": "CM",
+  "followers": 25,
+  "country": "https://api.chess.com/pub/country/UZ",
+  "location": "\u043a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+  "last_online": 1775157021,
+  "joined": 1547377339,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2100,
+      "date": 1647702556
+    },
+    "best": {
+      "rating": 2216,
+      "date": 1642240455,
+      "game": "https://www.chess.com/game/live/38387021627"
+    },
+    "record": {
+      "win": 91,
+      "loss": 46,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2284,
+      "date": 1647244489,
+      "rd": 42
+    },
+    "best": {
+      "rating": 2400,
+      "date": 1643034175,
+      "game": "https://www.chess.com/game/live/6003697250"
+    },
+    "record": {
+      "win": 355,
+      "loss": 189,
+      "draw": 30
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2320,
+      "date": 1684947436,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2370,
+      "date": 1610821419,
+      "game": "https://www.chess.com/game/live/6251031505"
+    },
+    "record": {
+      "win": 934,
+      "loss": 594,
+      "draw": 93
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2447,
+      "date": 1547377339
+    },
+    "lowest": {
+      "rating": 2447,
+      "date": 1547377339
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

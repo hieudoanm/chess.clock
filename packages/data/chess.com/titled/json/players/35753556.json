@@ -1,0 +1,61 @@
+{
+  "player_id": 35753556,
+  "@id": "https://api.chess.com/pub/player/tgrade",
+  "url": "https://www.chess.com/member/TGrade",
+  "username": "tgrade",
+  "title": "GM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1495622580,
+  "joined": 1495556590,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2728,
+      "date": 1495645356,
+      "rd": 130
+    },
+    "best": {
+      "rating": 2731,
+      "date": 1495644249,
+      "game": "https://www.chess.com/game/live/2117844525"
+    },
+    "record": {
+      "win": 3,
+      "loss": 6,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2335,
+      "date": 1495637453,
+      "rd": 306
+    },
+    "best": {
+      "rating": 2335,
+      "date": 1495637453,
+      "game": "https://www.chess.com/game/live/2117693499"
+    },
+    "record": {
+      "win": 1,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1495556590
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1495556590
+    }
+  },
+  "puzzle_rush": {}
+}

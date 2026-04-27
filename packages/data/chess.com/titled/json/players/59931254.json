@@ -1,0 +1,60 @@
+{
+  "player_id": 59931254,
+  "@id": "https://api.chess.com/pub/player/blitzrider0",
+  "url": "https://www.chess.com/member/blitzrider0",
+  "username": "blitzrider0",
+  "title": "FM",
+  "followers": 4,
+  "country": "https://api.chess.com/pub/country/TR",
+  "last_online": 1776338056,
+  "joined": 1555520696,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 2385,
+      "date": 1559522630,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2235,
+      "date": 1559522630,
+      "game": "https://www.chess.com/game/live/3751129765"
+    },
+    "record": {
+      "win": 93,
+      "loss": 20,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1824,
+      "date": 1570824216,
+      "rd": 202
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1559,
+      "date": 1555520696
+    },
+    "lowest": {
+      "rating": 1559,
+      "date": 1555520696
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

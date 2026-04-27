@@ -1,0 +1,97 @@
+{
+  "player_id": 13403922,
+  "@id": "https://api.chess.com/pub/player/jodmar",
+  "url": "https://www.chess.com/member/JodMar",
+  "username": "jodmar",
+  "title": "NM",
+  "followers": 22,
+  "country": "https://api.chess.com/pub/country/CA",
+  "last_online": 1776550053,
+  "joined": 1378340305,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1747145736,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 2923,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2230,
+      "date": 1767676958,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1767676958,
+      "game": "https://www.chess.com/game/live/147646404846"
+    },
+    "record": {
+      "win": 5,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2327,
+      "date": 1773151793,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2367,
+      "date": 1767059838,
+      "game": "https://www.chess.com/game/live/165761100166"
+    },
+    "record": {
+      "win": 69,
+      "loss": 33,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2328,
+      "date": 1776550041,
+      "rd": 25
+    },
+    "best": {
+      "rating": 2504,
+      "date": 1764080721,
+      "game": "https://www.chess.com/game/live/102790334751"
+    },
+    "record": {
+      "win": 4442,
+      "loss": 3893,
+      "draw": 627
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2196,
+      "date": 1759763346
+    },
+    "lowest": {
+      "rating": 1332,
+      "date": 1760386082
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 34
+    }
+  }
+}

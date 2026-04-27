@@ -1,0 +1,105 @@
+{
+  "player_id": 216855677,
+  "@id": "https://api.chess.com/pub/player/kev4444444444",
+  "url": "https://www.chess.com/member/Kev4444444444",
+  "name": "Kevin Haack",
+  "username": "kev4444444444",
+  "title": "FM",
+  "followers": 26,
+  "country": "https://api.chess.com/pub/country/DE",
+  "location": "Frankfurt",
+  "last_online": 1776581335,
+  "joined": 1672047555,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2004,
+      "date": 1757335091,
+      "rd": 304
+    },
+    "best": {
+      "rating": 2004,
+      "date": 1716096039,
+      "game": "https://www.chess.com/game/daily/646134045"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 41823,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2252,
+      "date": 1775128044,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2252,
+      "date": 1775128044,
+      "game": "https://www.chess.com/game/live/74009073927"
+    },
+    "record": {
+      "win": 27,
+      "loss": 8,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2177,
+      "date": 1763231782,
+      "rd": 135
+    },
+    "best": {
+      "rating": 2177,
+      "date": 1763231782,
+      "game": "https://www.chess.com/game/live/145553432758"
+    },
+    "record": {
+      "win": 42,
+      "loss": 12,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2536,
+      "date": 1775729715,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2570,
+      "date": 1757450184,
+      "game": "https://www.chess.com/game/live/151763283783"
+    },
+    "record": {
+      "win": 164,
+      "loss": 96,
+      "draw": 9
+    }
+  },
+  "fide": 2311,
+  "tactics": {
+    "highest": {
+      "rating": 2493,
+      "date": 1758173232
+    },
+    "lowest": {
+      "rating": 2331,
+      "date": 1776151943
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

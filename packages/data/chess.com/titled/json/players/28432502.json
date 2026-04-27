@@ -1,0 +1,93 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/28432502.37dda18b.200x200o.7bae8db8ccf6.jpeg",
+  "player_id": 28432502,
+  "@id": "https://api.chess.com/pub/player/evgenyt",
+  "url": "https://www.chess.com/member/EvgenyT",
+  "name": "Evgeny Tomashevsky",
+  "username": "evgenyt",
+  "title": "GM",
+  "followers": 405,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Saratov",
+  "last_online": 1732721045,
+  "joined": 1464694128,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/tomash_games",
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/tomash_games"
+    }
+  ],
+  "chess_rapid": {
+    "last": {
+      "rating": 2667,
+      "date": 1695838352,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2832,
+      "date": 1601099210,
+      "game": "https://www.chess.com/game/live/89398238363"
+    },
+    "record": {
+      "win": 28,
+      "loss": 21,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2440,
+      "date": 1531513862,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2290,
+      "date": 1531513862,
+      "game": "https://www.chess.com/game/live/2937867931"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2988,
+      "date": 1673374116,
+      "rd": 90
+    },
+    "best": {
+      "rating": 2988,
+      "date": 1673374116,
+      "game": "https://www.chess.com/game/live/18212501837"
+    },
+    "record": {
+      "win": 672,
+      "loss": 382,
+      "draw": 249
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2426,
+      "date": 1464694128
+    },
+    "lowest": {
+      "rating": 2426,
+      "date": 1464694128
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 73,
+      "score": 70
+    }
+  }
+}

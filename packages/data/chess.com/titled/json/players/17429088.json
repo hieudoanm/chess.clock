@@ -1,0 +1,105 @@
+{
+  "player_id": 17429088,
+  "@id": "https://api.chess.com/pub/player/criticalmoment",
+  "url": "https://www.chess.com/member/CriticalMoment",
+  "name": "Scott Wastney",
+  "username": "criticalmoment",
+  "title": "FM",
+  "followers": 62,
+  "country": "https://api.chess.com/pub/country/NZ",
+  "location": "Wellington",
+  "last_online": 1776485203,
+  "joined": 1400983848,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2051,
+      "date": 1596711653,
+      "rd": 307
+    },
+    "best": {
+      "rating": 2051,
+      "date": 1435039332,
+      "game": "https://www.chess.com/game/daily/101807150"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 56326,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2098,
+      "date": 1745455621,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2294,
+      "date": 1596707530,
+      "game": "https://www.chess.com/game/live/5258492083"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2450,
+      "date": 1596711654,
+      "rd": 291
+    },
+    "best": {
+      "rating": 2138,
+      "date": 1416986890,
+      "game": "https://www.chess.com/game/live/980691288"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2271,
+      "date": 1719299968,
+      "rd": 238
+    },
+    "best": {
+      "rating": 2297,
+      "date": 1537917266,
+      "game": "https://www.chess.com/game/live/3085301100"
+    },
+    "record": {
+      "win": 573,
+      "loss": 402,
+      "draw": 42
+    }
+  },
+  "fide": 2304,
+  "tactics": {
+    "highest": {
+      "rating": 2634,
+      "date": 1761807021
+    },
+    "lowest": {
+      "rating": 2524,
+      "date": 1775878294
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 42
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "player_id": 10288430,
+  "@id": "https://api.chess.com/pub/player/typicality",
+  "url": "https://www.chess.com/member/typicality",
+  "username": "typicality",
+  "title": "NM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1723758739,
+  "joined": 1357273518,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_bullet": {
+    "last": {
+      "rating": 1820,
+      "date": 1720706198,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2248,
+      "date": 1404540478,
+      "game": "https://www.chess.com/game/live/852207215"
+    },
+    "record": {
+      "win": 1981,
+      "loss": 1730,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2197,
+      "date": 1653863703,
+      "rd": 104
+    },
+    "best": {
+      "rating": 2240,
+      "date": 1586113556,
+      "game": "https://www.chess.com/game/live/4683819348"
+    },
+    "record": {
+      "win": 1653,
+      "loss": 1375,
+      "draw": 240
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2117,
+      "date": 1357273518
+    },
+    "lowest": {
+      "rating": 2117,
+      "date": 1357273518
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

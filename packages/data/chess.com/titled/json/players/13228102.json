@@ -1,0 +1,109 @@
+{
+  "player_id": 13228102,
+  "@id": "https://api.chess.com/pub/player/talstactician",
+  "url": "https://www.chess.com/member/talstactician",
+  "username": "talstactician",
+  "title": "NM",
+  "followers": 31,
+  "country": "https://api.chess.com/pub/country/XE",
+  "last_online": 1776545359,
+  "joined": 1377092666,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1666,
+      "date": 1769797871,
+      "rd": 143
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1656800405,
+      "game": "https://www.chess.com/game/daily/391162903"
+    },
+    "record": {
+      "win": 98,
+      "loss": 30,
+      "draw": 6,
+      "time_per_move": 40441,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 0,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 9
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2199,
+      "date": 1717500302,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2218,
+      "date": 1653235395,
+      "game": "https://www.chess.com/game/live/73064956817"
+    },
+    "record": {
+      "win": 136,
+      "loss": 71,
+      "draw": 17
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2293,
+      "date": 1743001285,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2315,
+      "date": 1486659344,
+      "game": "https://www.chess.com/game/live/18373821163"
+    },
+    "record": {
+      "win": 1203,
+      "loss": 913,
+      "draw": 96
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2495,
+      "date": 1776247258,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2495,
+      "date": 1776247258,
+      "game": "https://www.chess.com/game/live/3865766329"
+    },
+    "record": {
+      "win": 1684,
+      "loss": 1224,
+      "draw": 167
+    }
+  },
+  "fide": 2096,
+  "tactics": {
+    "highest": {
+      "rating": 2473,
+      "date": 1377092666
+    },
+    "lowest": {
+      "rating": 2473,
+      "date": 1377092666
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

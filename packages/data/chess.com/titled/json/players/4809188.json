@@ -1,0 +1,135 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/4809188.5a580884.200x200o.ac74893f69a8.jpg",
+  "player_id": 4809188,
+  "@id": "https://api.chess.com/pub/player/tsubasa",
+  "url": "https://www.chess.com/member/Tsubasa",
+  "name": "Marcin Szyma\u0144ski",
+  "username": "tsubasa",
+  "title": "IM",
+  "followers": 799,
+  "country": "https://api.chess.com/pub/country/PL",
+  "last_online": 1776595532,
+  "joined": 1299327814,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2142,
+      "date": 1776595074,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1648374292,
+      "game": "https://www.chess.com/game/daily/563833725"
+    },
+    "record": {
+      "win": 668,
+      "loss": 77,
+      "draw": 108,
+      "time_per_move": 38139,
+      "timeout_percent": 22
+    },
+    "tournament": {
+      "points": 81,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1687,
+      "date": 1738663460,
+      "rd": 84
+    },
+    "best": {
+      "rating": 1687,
+      "date": 1738663460,
+      "game": "https://www.chess.com/game/daily/738622863"
+    },
+    "record": {
+      "win": 65,
+      "loss": 6,
+      "draw": 3,
+      "time_per_move": 38139,
+      "timeout_percent": 0
+    },
+    "tournament": {
+      "points": 81,
+      "withdraw": 1,
+      "count": 1,
+      "highest_finish": 1
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2519,
+      "date": 1762606953,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2586,
+      "date": 1610882394,
+      "game": "https://www.chess.com/game/live/102965426367"
+    },
+    "record": {
+      "win": 40,
+      "loss": 5,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2601,
+      "date": 1734459625,
+      "rd": 34
+    },
+    "best": {
+      "rating": 2601,
+      "date": 1734459624,
+      "game": "https://www.chess.com/game/live/128005230687"
+    },
+    "record": {
+      "win": 1651,
+      "loss": 1148,
+      "draw": 170
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2500,
+      "date": 1774634046,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2556,
+      "date": 1732733840,
+      "game": "https://www.chess.com/game/live/117913742769"
+    },
+    "record": {
+      "win": 297,
+      "loss": 209,
+      "draw": 53
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2401,
+      "date": 1771228138
+    },
+    "lowest": {
+      "rating": 2082,
+      "date": 1766092438
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "player_id": 208217279,
+  "@id": "https://api.chess.com/pub/player/un_poisson_chess",
+  "url": "https://www.chess.com/member/un_poisson_chess",
+  "username": "un_poisson_chess",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1686306924,
+  "joined": 1669236002,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1991,
+      "date": 1704101492,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2083,
+      "date": 1670930883,
+      "game": "https://www.chess.com/game/daily/451053667"
+    },
+    "record": {
+      "win": 19,
+      "loss": 3,
+      "draw": 1,
+      "time_per_move": 9110,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1739,
+      "date": 1672143962,
+      "rd": 230
+    },
+    "best": {
+      "rating": 1739,
+      "date": 1672143962,
+      "game": "https://www.chess.com/game/daily/451078299"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9110,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2339,
+      "date": 1682412580,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2393,
+      "date": 1670328279,
+      "game": "https://www.chess.com/game/live/64359669229"
+    },
+    "record": {
+      "win": 32,
+      "loss": 19,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2300,
+      "date": 1685452467,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2358,
+      "date": 1670248808,
+      "game": "https://www.chess.com/game/live/64191177969"
+    },
+    "record": {
+      "win": 9,
+      "loss": 8,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2290,
+      "date": 1686298539,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2290,
+      "date": 1686298539,
+      "game": "https://www.chess.com/game/live/63036608403"
+    },
+    "record": {
+      "win": 52,
+      "loss": 20,
+      "draw": 2
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2545,
+      "date": 1669236002
+    },
+    "lowest": {
+      "rating": 2545,
+      "date": 1669236002
+    }
+  },
+  "puzzle_rush": {}
+}

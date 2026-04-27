@@ -1,0 +1,84 @@
+{
+  "player_id": 11577350,
+  "@id": "https://api.chess.com/pub/player/gergo85",
+  "url": "https://www.chess.com/member/Gergo85",
+  "name": "Gergely Antal",
+  "username": "gergo85",
+  "title": "GM",
+  "followers": 7,
+  "country": "https://api.chess.com/pub/country/HU",
+  "last_online": 1752077606,
+  "joined": 1366375096,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2563,
+      "date": 1594733957,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2563,
+      "date": 1578502585,
+      "game": "https://www.chess.com/game/live/4376219618"
+    },
+    "record": {
+      "win": 1,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2468,
+      "date": 1520512105,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1494578325,
+      "game": "https://www.chess.com/game/live/2386437186"
+    },
+    "record": {
+      "win": 1032,
+      "loss": 873,
+      "draw": 109
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2631,
+      "date": 1746545365,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1686064021,
+      "game": "https://www.chess.com/game/live/68833055247"
+    },
+    "record": {
+      "win": 5006,
+      "loss": 4168,
+      "draw": 1081
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2636,
+      "date": 1366375096
+    },
+    "lowest": {
+      "rating": 2636,
+      "date": 1366375096
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 52,
+      "score": 50
+    }
+  }
+}

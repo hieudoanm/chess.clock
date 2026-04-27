@@ -1,0 +1,123 @@
+{
+  "player_id": 12113464,
+  "@id": "https://api.chess.com/pub/player/ubdip",
+  "url": "https://www.chess.com/member/ubdip",
+  "name": "Fabian Fichter",
+  "username": "ubdip",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1776549022,
+  "joined": 1370095370,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2009,
+      "date": 1712928556,
+      "rd": 101
+    },
+    "best": {
+      "rating": 2009,
+      "date": 1397167409,
+      "game": "https://www.chess.com/game/daily/87505234"
+    },
+    "record": {
+      "win": 11,
+      "loss": 0,
+      "draw": 3,
+      "time_per_move": 6201,
+      "timeout_percent": 0
+    }
+  },
+  "chess960_daily": {
+    "last": {
+      "rating": 1823,
+      "date": 1398073896,
+      "rd": 121
+    },
+    "best": {
+      "rating": 1823,
+      "date": 1398073896,
+      "game": "https://www.chess.com/game/daily/87875802"
+    },
+    "record": {
+      "win": 7,
+      "loss": 1,
+      "draw": 2,
+      "time_per_move": 6201,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2302,
+      "date": 1741803011,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2305,
+      "date": 1739722591,
+      "game": "https://www.chess.com/game/live/133460373011"
+    },
+    "record": {
+      "win": 22,
+      "loss": 21,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2284,
+      "date": 1750523840,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2295,
+      "date": 1734800728,
+      "game": "https://www.chess.com/game/live/129144223859"
+    },
+    "record": {
+      "win": 104,
+      "loss": 115,
+      "draw": 17
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2392,
+      "date": 1751387541,
+      "rd": 63
+    },
+    "best": {
+      "rating": 2522,
+      "date": 1715116703,
+      "game": "https://www.chess.com/game/live/107624643811"
+    },
+    "record": {
+      "win": 878,
+      "loss": 832,
+      "draw": 151
+    }
+  },
+  "fide": 2300,
+  "tactics": {
+    "highest": {
+      "rating": 2480,
+      "date": 1370095370
+    },
+    "lowest": {
+      "rating": 2480,
+      "date": 1370095370
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

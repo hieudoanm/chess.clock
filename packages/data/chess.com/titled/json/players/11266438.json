@@ -1,0 +1,102 @@
+{
+  "player_id": 11266438,
+  "@id": "https://api.chess.com/pub/player/kotchy",
+  "url": "https://www.chess.com/member/kotchy",
+  "username": "kotchy",
+  "title": "NM",
+  "followers": 130,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776592951,
+  "joined": 1364171085,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1988,
+      "date": 1706183722,
+      "rd": 196
+    },
+    "best": {
+      "rating": 2050,
+      "date": 1418581103,
+      "game": "https://www.chess.com/game/daily/99050912"
+    },
+    "record": {
+      "win": 5,
+      "loss": 0,
+      "draw": 1,
+      "time_per_move": 17532,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2092,
+      "date": 1451961039,
+      "rd": 275
+    },
+    "best": {
+      "rating": 2514,
+      "date": 1421739907,
+      "game": "https://www.chess.com/game/live/1034700304"
+    },
+    "record": {
+      "win": 2,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1706,
+      "date": 1762240874,
+      "rd": 243
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1408516838,
+      "game": "https://www.chess.com/game/live/13596138311"
+    },
+    "record": {
+      "win": 2,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1823,
+      "date": 1776592920,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2040,
+      "date": 1677309096,
+      "game": "https://www.chess.com/game/live/71071506269"
+    },
+    "record": {
+      "win": 28778,
+      "loss": 23634,
+      "draw": 2891
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2161,
+      "date": 1764016125
+    },
+    "lowest": {
+      "rating": 1878,
+      "date": 1770921477
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 25,
+      "score": 23
+    }
+  }
+}

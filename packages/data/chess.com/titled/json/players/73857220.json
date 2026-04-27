@@ -1,0 +1,79 @@
+{
+  "player_id": 73857220,
+  "@id": "https://api.chess.com/pub/player/joattack",
+  "url": "https://www.chess.com/member/JoAttack",
+  "name": "Johanna Paasikangas",
+  "username": "joattack",
+  "title": "FM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/FI",
+  "last_online": 1776541458,
+  "joined": 1584620474,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2081,
+      "date": 1663858120,
+      "rd": 188
+    },
+    "best": {
+      "rating": 2210,
+      "date": 1601201361,
+      "game": "https://www.chess.com/game/live/4716178088"
+    },
+    "record": {
+      "win": 9,
+      "loss": 2,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1905,
+      "date": 1597474700,
+      "rd": 295
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2365,
+      "date": 1774434385,
+      "rd": 68
+    },
+    "best": {
+      "rating": 2391,
+      "date": 1771575324,
+      "game": "https://www.chess.com/game/live/39703730143"
+    },
+    "record": {
+      "win": 1588,
+      "loss": 1121,
+      "draw": 177
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2433,
+      "date": 1774179378
+    },
+    "lowest": {
+      "rating": 2056,
+      "date": 1755768023
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 35
+    }
+  }
+}

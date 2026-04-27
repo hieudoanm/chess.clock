@@ -1,0 +1,85 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/483513289.00c0af6d.200x200o.7102b949dc26.webp",
+  "player_id": 483513289,
+  "@id": "https://api.chess.com/pub/player/better-than-you32",
+  "url": "https://www.chess.com/member/better-than-you32",
+  "username": "better-than-you32",
+  "title": "FM",
+  "followers": 2,
+  "country": "https://api.chess.com/pub/country/RU",
+  "last_online": 1771439909,
+  "joined": 1757886942,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2215,
+      "date": 1771355048,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2225,
+      "date": 1771153127,
+      "game": "https://www.chess.com/game/live/164718882906"
+    },
+    "record": {
+      "win": 5,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2682,
+      "date": 1771416794,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2800,
+      "date": 1758886766,
+      "game": "https://www.chess.com/game/live/143148730838"
+    },
+    "record": {
+      "win": 271,
+      "loss": 297,
+      "draw": 26
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2816,
+      "date": 1771430155,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2902,
+      "date": 1764358322,
+      "game": "https://www.chess.com/game/live/146064329232"
+    },
+    "record": {
+      "win": 429,
+      "loss": 403,
+      "draw": 65
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 1795,
+      "date": 1761252507
+    },
+    "lowest": {
+      "rating": 775,
+      "date": 1758798144
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 60,
+      "score": 57
+    }
+  }
+}

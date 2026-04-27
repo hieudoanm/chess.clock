@@ -1,0 +1,93 @@
+{
+  "player_id": 371454457,
+  "@id": "https://api.chess.com/pub/player/ryan_zhong",
+  "url": "https://www.chess.com/member/Ryan_Zhong",
+  "name": "Ryan Yunhui Zhong",
+  "username": "ryan_zhong",
+  "title": "FM",
+  "followers": 14,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776274919,
+  "joined": 1719148551,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1776208589,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 329690,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2011,
+      "date": 1772547759,
+      "rd": 49
+    },
+    "record": {
+      "win": 0,
+      "loss": 2,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2448,
+      "date": 1773522047,
+      "rd": 67
+    },
+    "best": {
+      "rating": 2460,
+      "date": 1773027058,
+      "game": "https://www.chess.com/game/live/134588344297"
+    },
+    "record": {
+      "win": 88,
+      "loss": 117,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2362,
+      "date": 1770410199,
+      "rd": 94
+    },
+    "best": {
+      "rating": 2675,
+      "date": 1719190904,
+      "game": "https://www.chess.com/game/live/128192347275"
+    },
+    "record": {
+      "win": 33,
+      "loss": 86,
+      "draw": 5
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2352,
+      "date": 1767020492
+    },
+    "lowest": {
+      "rating": 2278,
+      "date": 1767192250
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

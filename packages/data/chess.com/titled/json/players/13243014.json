@@ -1,0 +1,105 @@
+{
+  "player_id": 13243014,
+  "@id": "https://api.chess.com/pub/player/richomi",
+  "url": "https://www.chess.com/member/richomi",
+  "name": "Richard Gerbery",
+  "username": "richomi",
+  "title": "FM",
+  "followers": 307,
+  "country": "https://api.chess.com/pub/country/SK",
+  "location": "FM",
+  "last_online": 1776579892,
+  "joined": 1377197711,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2171,
+      "date": 1774629761,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2171,
+      "date": 1774629761,
+      "game": "https://www.chess.com/game/daily/933028651"
+    },
+    "record": {
+      "win": 34,
+      "loss": 0,
+      "draw": 5,
+      "time_per_move": 3397,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2519,
+      "date": 1734280966,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2526,
+      "date": 1695408207,
+      "game": "https://www.chess.com/game/live/89145537161"
+    },
+    "record": {
+      "win": 4,
+      "loss": 1,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2297,
+      "date": 1776357562,
+      "rd": 38
+    },
+    "best": {
+      "rating": 2320,
+      "date": 1772262883,
+      "game": "https://www.chess.com/game/live/132688139237"
+    },
+    "record": {
+      "win": 3319,
+      "loss": 3672,
+      "draw": 647
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2341,
+      "date": 1769185666,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1760453808,
+      "game": "https://www.chess.com/game/live/101245896209"
+    },
+    "record": {
+      "win": 9865,
+      "loss": 11164,
+      "draw": 2100
+    }
+  },
+  "fide": 2124,
+  "tactics": {
+    "highest": {
+      "rating": 2261,
+      "date": 1762278240
+    },
+    "lowest": {
+      "rating": 2033,
+      "date": 1771684917
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 36,
+      "score": 33
+    }
+  }
+}

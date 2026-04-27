@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/34687540.005f6129.200x200o.01c1ff68aa34.png",
+  "player_id": 34687540,
+  "@id": "https://api.chess.com/pub/player/im_alex_ivanov",
+  "url": "https://www.chess.com/member/IM_Alex_Ivanov",
+  "name": "Alex Ivanov",
+  "username": "im_alex_ivanov",
+  "title": "IM",
+  "followers": 98,
+  "country": "https://api.chess.com/pub/country/XX",
+  "location": "Kazan",
+  "last_online": 1776535805,
+  "joined": 1491897612,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2012,
+      "date": 1771491108,
+      "rd": 342
+    },
+    "best": {
+      "rating": 2012,
+      "date": 1771491106,
+      "game": "https://www.chess.com/game/daily/916041859"
+    },
+    "record": {
+      "win": 3,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9810,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1803,
+      "date": 1764669071,
+      "rd": 345
+    },
+    "best": {
+      "rating": 1803,
+      "date": 1764669071,
+      "game": "https://www.chess.com/game/live/146214368324"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2696,
+      "date": 1776535106,
+      "rd": 27
+    },
+    "best": {
+      "rating": 2930,
+      "date": 1761943996,
+      "game": "https://www.chess.com/game/live/167223610769"
+    },
+    "record": {
+      "win": 3035,
+      "loss": 2642,
+      "draw": 378
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2766,
+      "date": 1773166249,
+      "rd": 36
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1772560719,
+      "game": "https://www.chess.com/game/live/163238828955"
+    },
+    "record": {
+      "win": 656,
+      "loss": 508,
+      "draw": 98
+    }
+  },
+  "fide": 2415,
+  "tactics": {
+    "highest": {
+      "rating": 2630,
+      "date": 1762550384
+    },
+    "lowest": {
+      "rating": 2415,
+      "date": 1768826600
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

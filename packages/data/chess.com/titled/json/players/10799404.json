@@ -1,0 +1,110 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/10799404.738495d4.200x200o.7b78fd984c87.jpg",
+  "player_id": 10799404,
+  "@id": "https://api.chess.com/pub/player/masruri_rahman",
+  "url": "https://www.chess.com/member/masruri_rahman",
+  "name": "Masruri Rahman",
+  "username": "masruri_rahman",
+  "title": "IM",
+  "followers": 2487,
+  "country": "https://api.chess.com/pub/country/ID",
+  "location": "Jakarta",
+  "last_online": 1776590334,
+  "joined": 1360734127,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/rlchessreal",
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/rlchessreal"
+    },
+    {
+      "type": "youtube",
+      "channel_url": "https://youtube.com/@rlchess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 400,
+      "date": 1774339401,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 55387,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2537,
+      "date": 1776489260,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2598,
+      "date": 1773499649,
+      "game": "https://www.chess.com/game/live/142450092266"
+    },
+    "record": {
+      "win": 192,
+      "loss": 61,
+      "draw": 43
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3049,
+      "date": 1776590174,
+      "rd": 25
+    },
+    "best": {
+      "rating": 3066,
+      "date": 1776496848,
+      "game": "https://www.chess.com/game/live/124637983529"
+    },
+    "record": {
+      "win": 1943,
+      "loss": 1502,
+      "draw": 256
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2832,
+      "date": 1776589435,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2950,
+      "date": 1773413783,
+      "game": "https://www.chess.com/game/live/143969390732"
+    },
+    "record": {
+      "win": 2665,
+      "loss": 2045,
+      "draw": 560
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2713,
+      "date": 1759170791
+    },
+    "lowest": {
+      "rating": 2472,
+      "date": 1773063967
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 46
+    }
+  }
+}

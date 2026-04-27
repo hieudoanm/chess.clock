@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/45747586.e7b3bf5c.200x200o.d10d89ffa0ab.jpg",
+  "player_id": 45747586,
+  "@id": "https://api.chess.com/pub/player/matols",
+  "url": "https://www.chess.com/member/Matols",
+  "name": "Olga Matveeva",
+  "username": "matols",
+  "title": "WIM",
+  "followers": 463,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "Perm",
+  "last_online": 1776532211,
+  "joined": 1525022202,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1448,
+      "date": 1653575001,
+      "rd": 259
+    },
+    "best": {
+      "rating": 1448,
+      "date": 1613802138,
+      "game": "https://www.chess.com/game/daily/312061808"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3335,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2271,
+      "date": 1775632057,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2293,
+      "date": 1768036161,
+      "game": "https://www.chess.com/game/live/146498530280"
+    },
+    "record": {
+      "win": 77,
+      "loss": 40,
+      "draw": 24
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2111,
+      "date": 1773020463,
+      "rd": 82
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1606837232,
+      "game": "https://www.chess.com/game/live/5030781133"
+    },
+    "record": {
+      "win": 107,
+      "loss": 124,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2515,
+      "date": 1776186610,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2537,
+      "date": 1755622325,
+      "game": "https://www.chess.com/game/live/164447987197"
+    },
+    "record": {
+      "win": 1743,
+      "loss": 2140,
+      "draw": 353
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2489,
+      "date": 1773006414
+    },
+    "lowest": {
+      "rating": 2382,
+      "date": 1773002596
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

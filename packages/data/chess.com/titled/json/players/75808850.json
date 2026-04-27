@@ -1,0 +1,87 @@
+{
+  "player_id": 75808850,
+  "@id": "https://api.chess.com/pub/player/tendepa",
+  "url": "https://www.chess.com/member/Tendepa",
+  "name": "Lenin Gonz\u00e1lez Arroyo",
+  "username": "tendepa",
+  "title": "FM",
+  "followers": 21,
+  "country": "https://api.chess.com/pub/country/MX",
+  "location": "Morelia",
+  "last_online": 1776462691,
+  "joined": 1586134043,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2000,
+      "date": 1731317953,
+      "rd": 349
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1716989328,
+      "game": "https://www.chess.com/game/daily/647160701"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 9684,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2055,
+      "date": 1736979406,
+      "rd": 222
+    },
+    "best": {
+      "rating": 2055,
+      "date": 1736979406,
+      "game": "https://www.chess.com/game/live/130717257357"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2041,
+      "date": 1765839513,
+      "rd": 118
+    },
+    "best": {
+      "rating": 2251,
+      "date": 1586269268,
+      "game": "https://www.chess.com/game/live/4690680899"
+    },
+    "record": {
+      "win": 39,
+      "loss": 17,
+      "draw": 1
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2327,
+      "date": 1771263688
+    },
+    "lowest": {
+      "rating": 2118,
+      "date": 1776445763
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

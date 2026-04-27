@@ -1,0 +1,79 @@
+{
+  "player_id": 15687678,
+  "@id": "https://api.chess.com/pub/player/talaris",
+  "url": "https://www.chess.com/member/Talaris",
+  "name": "Christoph Pfrommer",
+  "username": "talaris",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/DE",
+  "last_online": 1775920794,
+  "joined": 1390341595,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2146,
+      "date": 1590013587,
+      "rd": 241
+    },
+    "best": {
+      "rating": 2146,
+      "date": 1590013587,
+      "game": "https://www.chess.com/game/live/4884222703"
+    },
+    "record": {
+      "win": 6,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2162,
+      "date": 1410295444,
+      "rd": 290
+    },
+    "record": {
+      "win": 0,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2188,
+      "date": 1761865264,
+      "rd": 139
+    },
+    "best": {
+      "rating": 2188,
+      "date": 1761865264,
+      "game": "https://www.chess.com/game/live/3529849922"
+    },
+    "record": {
+      "win": 194,
+      "loss": 111,
+      "draw": 22
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2605,
+      "date": 1390341595
+    },
+    "lowest": {
+      "rating": 2605,
+      "date": 1390341595
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 35,
+      "score": 33
+    }
+  }
+}

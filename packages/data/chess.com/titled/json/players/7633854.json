@@ -1,0 +1,85 @@
+{
+  "player_id": 7633854,
+  "@id": "https://api.chess.com/pub/player/yarosavich",
+  "url": "https://www.chess.com/member/yarosavich",
+  "name": "Erik Santarius",
+  "username": "yarosavich",
+  "title": "IM",
+  "followers": 366,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1775857957,
+  "joined": 1337510978,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2529,
+      "date": 1734141623,
+      "rd": 251
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1590889169,
+      "game": "https://www.chess.com/game/live/4930723458"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2682,
+      "date": 1563323191,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2748,
+      "date": 1457293541,
+      "game": "https://www.chess.com/game/live/1477621513"
+    },
+    "record": {
+      "win": 12626,
+      "loss": 4856,
+      "draw": 936
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2545,
+      "date": 1726966219,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2776,
+      "date": 1555872933,
+      "game": "https://www.chess.com/game/live/1362241872"
+    },
+    "record": {
+      "win": 10173,
+      "loss": 4496,
+      "draw": 1333
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2777,
+      "date": 1337510978
+    },
+    "lowest": {
+      "rating": 2777,
+      "date": 1337510978
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "player_id": 92860526,
+  "@id": "https://api.chess.com/pub/player/gora2012",
+  "url": "https://www.chess.com/member/GORA2012",
+  "name": "Gabriel Rueda",
+  "username": "gora2012",
+  "title": "CM",
+  "followers": 85,
+  "country": "https://api.chess.com/pub/country/CO",
+  "location": "Barranquilla",
+  "last_online": 1776561426,
+  "joined": 1602358594,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1545,
+      "date": 1776467848,
+      "rd": 124
+    },
+    "best": {
+      "rating": 1661,
+      "date": 1757858859,
+      "game": "https://www.chess.com/game/daily/737835269"
+    },
+    "record": {
+      "win": 72,
+      "loss": 15,
+      "draw": 0,
+      "time_per_move": 40233,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2230,
+      "date": 1775058898,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2230,
+      "date": 1775058898,
+      "game": "https://www.chess.com/game/live/166254892458"
+    },
+    "record": {
+      "win": 112,
+      "loss": 41,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2727,
+      "date": 1776535086,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2787,
+      "date": 1774807322,
+      "game": "https://www.chess.com/game/live/166616415181"
+    },
+    "record": {
+      "win": 2868,
+      "loss": 2959,
+      "draw": 475
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1774988155,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2708,
+      "date": 1772584153,
+      "game": "https://www.chess.com/game/live/163845105541"
+    },
+    "record": {
+      "win": 917,
+      "loss": 719,
+      "draw": 121
+    }
+  },
+  "fide": 1975,
+  "tactics": {
+    "highest": {
+      "rating": 2368,
+      "date": 1768178777
+    },
+    "lowest": {
+      "rating": 2106,
+      "date": 1768178798
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 39,
+      "score": 39
+    }
+  }
+}

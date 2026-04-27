@@ -1,0 +1,83 @@
+{
+  "player_id": 175413263,
+  "@id": "https://api.chess.com/pub/player/ch3ssbot2021",
+  "url": "https://www.chess.com/member/Ch3ssbot2021",
+  "username": "ch3ssbot2021",
+  "title": "FM",
+  "followers": 1,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1685712866,
+  "joined": 1646427050,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2414,
+      "date": 1687897293,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2419,
+      "date": 1679750112,
+      "game": "https://www.chess.com/game/live/73488713085"
+    },
+    "record": {
+      "win": 13,
+      "loss": 3,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2812,
+      "date": 1685578438,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2931,
+      "date": 1682953602,
+      "game": "https://www.chess.com/game/live/78098994419"
+    },
+    "record": {
+      "win": 532,
+      "loss": 387,
+      "draw": 80
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2836,
+      "date": 1685672331,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2836,
+      "date": 1685672331,
+      "game": "https://www.chess.com/game/live/79409449027"
+    },
+    "record": {
+      "win": 270,
+      "loss": 146,
+      "draw": 31
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2411,
+      "date": 1646427050
+    },
+    "lowest": {
+      "rating": 2411,
+      "date": 1646427050
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 61
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 55838626,
+  "@id": "https://api.chess.com/pub/player/needmoreflow",
+  "url": "https://www.chess.com/member/needmoreflow",
+  "username": "needmoreflow",
+  "title": "WGM",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/XX",
+  "last_online": 1775235010,
+  "joined": 1547245100,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2770,
+      "date": 1672255554,
+      "rd": 260
+    },
+    "best": {
+      "rating": 2770,
+      "date": 1672255554,
+      "game": "https://www.chess.com/game/live/65990056749"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2580,
+      "date": 1762374120,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2696,
+      "date": 1685328825,
+      "game": "https://www.chess.com/game/live/98255058077"
+    },
+    "record": {
+      "win": 196,
+      "loss": 186,
+      "draw": 25
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2677,
+      "date": 1775146955,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2797,
+      "date": 1683220620,
+      "game": "https://www.chess.com/game/live/76959253173"
+    },
+    "record": {
+      "win": 822,
+      "loss": 813,
+      "draw": 131
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2510,
+      "date": 1547245100
+    },
+    "lowest": {
+      "rating": 2510,
+      "date": 1547245100
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 47
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "player_id": 3302802,
+  "@id": "https://api.chess.com/pub/player/mf_malo",
+  "url": "https://www.chess.com/member/MF_Malo",
+  "name": "Mario Andres Fern\u00e1ndez S\u00e1nchez",
+  "username": "mf_malo",
+  "title": "FM",
+  "followers": 73,
+  "country": "https://api.chess.com/pub/country/CG",
+  "last_online": 1776562755,
+  "joined": 1255311739,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2002,
+      "date": 1707236623,
+      "rd": 109
+    },
+    "best": {
+      "rating": 2006,
+      "date": 1594905602,
+      "game": "https://www.chess.com/game/daily/270657576"
+    },
+    "record": {
+      "win": 115,
+      "loss": 27,
+      "draw": 9,
+      "time_per_move": 4926,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2203,
+      "date": 1745423959,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2290,
+      "date": 1600555941,
+      "game": "https://www.chess.com/game/live/7411395849"
+    },
+    "record": {
+      "win": 15,
+      "loss": 3,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2107,
+      "date": 1745887224,
+      "rd": 134
+    },
+    "best": {
+      "rating": 2299,
+      "date": 1590012711,
+      "game": "https://www.chess.com/game/live/4884480891"
+    },
+    "record": {
+      "win": 41,
+      "loss": 34,
+      "draw": 3
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2136,
+      "date": 1776562730,
+      "rd": 61
+    },
+    "best": {
+      "rating": 2365,
+      "date": 1648045080,
+      "game": "https://www.chess.com/game/live/74384545241"
+    },
+    "record": {
+      "win": 3305,
+      "loss": 2624,
+      "draw": 635
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2371,
+      "date": 1759174813
+    },
+    "lowest": {
+      "rating": 1976,
+      "date": 1771858879
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 56,
+      "score": 53
+    }
+  }
+}

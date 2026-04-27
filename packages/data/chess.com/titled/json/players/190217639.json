@@ -1,0 +1,84 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/190217639.a470b88f.200x200o.56046c1d9d4a.jpeg",
+  "player_id": 190217639,
+  "@id": "https://api.chess.com/pub/player/rory-gilmore",
+  "url": "https://www.chess.com/member/Rory-Gilmore",
+  "username": "rory-gilmore",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/XB",
+  "last_online": 1776436396,
+  "joined": 1658005585,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2178,
+      "date": 1706998213,
+      "rd": 247
+    },
+    "best": {
+      "rating": 2178,
+      "date": 1706998213,
+      "game": "https://www.chess.com/game/live/100735996525"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2702,
+      "date": 1776127076,
+      "rd": 40
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1751154285,
+      "game": "https://www.chess.com/game/live/130891163255"
+    },
+    "record": {
+      "win": 264,
+      "loss": 269,
+      "draw": 47
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2773,
+      "date": 1774111686,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2798,
+      "date": 1769991636,
+      "game": "https://www.chess.com/game/live/164116679706"
+    },
+    "record": {
+      "win": 392,
+      "loss": 364,
+      "draw": 97
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1440,
+      "date": 1770829648
+    },
+    "lowest": {
+      "rating": 1101,
+      "date": 1755873179
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 49,
+      "score": 46
+    }
+  }
+}

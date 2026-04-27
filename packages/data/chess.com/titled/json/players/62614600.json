@@ -1,0 +1,103 @@
+{
+  "player_id": 62614600,
+  "@id": "https://api.chess.com/pub/player/polpeboss",
+  "url": "https://www.chess.com/member/polpeboss",
+  "name": "Francesco Mattia Liloni",
+  "username": "polpeboss",
+  "title": "NM",
+  "followers": 23,
+  "country": "https://api.chess.com/pub/country/IT",
+  "last_online": 1776024146,
+  "joined": 1561323739,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1240,
+      "date": 1773923782,
+      "rd": 310
+    },
+    "best": {
+      "rating": 1240,
+      "date": 1691131278,
+      "game": "https://www.chess.com/game/daily/545745635"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 2627,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2178,
+      "date": 1702384203
+    },
+    "best": {
+      "rating": 2014,
+      "date": 1692540658,
+      "game": "https://www.chess.com/game/live/12676750661"
+    },
+    "record": {
+      "win": 30,
+      "loss": 4,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2228,
+      "date": 1774566146,
+      "rd": 77
+    },
+    "best": {
+      "rating": 2228,
+      "date": 1774566146,
+      "game": "https://www.chess.com/game/live/166361029974"
+    },
+    "record": {
+      "win": 147,
+      "loss": 74,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2435,
+      "date": 1775580721,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1775084825,
+      "game": "https://www.chess.com/game/live/169891848683"
+    },
+    "record": {
+      "win": 1335,
+      "loss": 1007,
+      "draw": 154
+    }
+  },
+  "fide": 2178,
+  "tactics": {
+    "highest": {
+      "rating": 2178,
+      "date": 1561323739
+    },
+    "lowest": {
+      "rating": 2178,
+      "date": 1561323739
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

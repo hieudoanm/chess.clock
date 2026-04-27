@@ -1,0 +1,87 @@
+{
+  "player_id": 1615448,
+  "@id": "https://api.chess.com/pub/player/simplechess",
+  "url": "https://www.chess.com/member/simplechess",
+  "name": "Andreas van Elst",
+  "username": "simplechess",
+  "title": "FM",
+  "followers": 33,
+  "country": "https://api.chess.com/pub/country/FR",
+  "location": "Toulouse",
+  "last_online": 1774708430,
+  "joined": 1227556911,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2833,
+      "date": 1336728734,
+      "rd": 151
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1336728734,
+      "game": "https://www.chess.com/game/daily/40934179"
+    },
+    "record": {
+      "win": 59,
+      "loss": 3,
+      "draw": 32,
+      "time_per_move": 17921,
+      "timeout_percent": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2195,
+      "date": 1439988019,
+      "rd": 52
+    },
+    "best": {
+      "rating": 2059,
+      "date": 1292372025,
+      "game": "https://www.chess.com/game/live/73828460"
+    },
+    "record": {
+      "win": 299,
+      "loss": 129,
+      "draw": 7
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2308,
+      "date": 1753997876,
+      "rd": 197
+    },
+    "best": {
+      "rating": 2308,
+      "date": 1706731226,
+      "game": "https://www.chess.com/game/live/5280386864"
+    },
+    "record": {
+      "win": 1772,
+      "loss": 1109,
+      "draw": 85
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2294,
+      "date": 1761263140
+    },
+    "lowest": {
+      "rating": 2212,
+      "date": 1761263212
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 45,
+      "score": 43
+    }
+  }
+}

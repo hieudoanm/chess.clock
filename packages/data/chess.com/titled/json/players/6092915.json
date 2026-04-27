@@ -1,0 +1,98 @@
+{
+  "player_id": 6092915,
+  "@id": "https://api.chess.com/pub/player/aungtz",
+  "url": "https://www.chess.com/member/AungTZ",
+  "name": "Aung Thant Zin",
+  "username": "aungtz",
+  "title": "FM",
+  "followers": 181,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776594955,
+  "joined": 1320840985,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1346,
+      "date": 1757500983,
+      "rd": 290
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 18,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1676,
+      "date": 1614802861,
+      "rd": 212
+    },
+    "best": {
+      "rating": 1861,
+      "date": 1414717074,
+      "game": "https://www.chess.com/game/live/8541357865"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1645,
+      "date": 1765617938,
+      "rd": 105
+    },
+    "best": {
+      "rating": 2099,
+      "date": 1444197600,
+      "game": "https://www.chess.com/game/live/1410430130"
+    },
+    "record": {
+      "win": 1816,
+      "loss": 1765,
+      "draw": 79
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1999,
+      "date": 1776594892,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2301,
+      "date": 1464920763,
+      "game": "https://www.chess.com/game/live/107645610729"
+    },
+    "record": {
+      "win": 12867,
+      "loss": 12862,
+      "draw": 889
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 1944,
+      "date": 1320840985
+    },
+    "lowest": {
+      "rating": 1944,
+      "date": 1320840985
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 11,
+      "score": 10
+    }
+  }
+}

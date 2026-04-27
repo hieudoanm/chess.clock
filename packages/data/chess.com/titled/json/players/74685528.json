@@ -1,0 +1,104 @@
+{
+  "player_id": 74685528,
+  "@id": "https://api.chess.com/pub/player/alrs-sps",
+  "url": "https://www.chess.com/member/ALRS-SPS",
+  "name": "Lindolfo Luiz Da Silva",
+  "username": "alrs-sps",
+  "title": "NM",
+  "followers": 244,
+  "country": "https://api.chess.com/pub/country/BR",
+  "last_online": 1776547599,
+  "joined": 1585314294,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1354,
+      "date": 1748939366,
+      "rd": 203
+    },
+    "best": {
+      "rating": 1364,
+      "date": 1696164815,
+      "game": "https://www.chess.com/game/daily/554561291"
+    },
+    "record": {
+      "win": 4,
+      "loss": 0,
+      "draw": 2,
+      "time_per_move": 66698,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2072,
+      "date": 1709769244,
+      "rd": 92
+    },
+    "best": {
+      "rating": 2282,
+      "date": 1680695513,
+      "game": "https://www.chess.com/game/live/74434365677"
+    },
+    "record": {
+      "win": 41,
+      "loss": 16,
+      "draw": 7
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2603,
+      "date": 1758829985,
+      "rd": 18
+    },
+    "best": {
+      "rating": 2667,
+      "date": 1749839742,
+      "game": "https://www.chess.com/game/live/78454854157"
+    },
+    "record": {
+      "win": 12278,
+      "loss": 12367,
+      "draw": 1146
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2700,
+      "date": 1773789040,
+      "rd": 22
+    },
+    "best": {
+      "rating": 2700,
+      "date": 1773789040,
+      "game": "https://www.chess.com/game/live/166077128590"
+    },
+    "record": {
+      "win": 6372,
+      "loss": 6162,
+      "draw": 746
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2522,
+      "date": 1776539830
+    },
+    "lowest": {
+      "rating": 2398,
+      "date": 1764850550
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 38,
+      "score": 36
+    }
+  }
+}

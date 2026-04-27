@@ -1,0 +1,86 @@
+{
+  "player_id": 4044418,
+  "@id": "https://api.chess.com/pub/player/dzil",
+  "url": "https://www.chess.com/member/dzil",
+  "name": "Dmitry Zilberstein",
+  "username": "dzil",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "San Francisco",
+  "last_online": 1776577060,
+  "joined": 1285711703,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1369,
+      "date": 1734847848,
+      "rd": 349
+    },
+    "best": {
+      "rating": 1706,
+      "date": 1597365450,
+      "game": "https://www.chess.com/game/live/5294478260"
+    },
+    "record": {
+      "win": 4,
+      "loss": 2,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2510,
+      "date": 1775972054,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2676,
+      "date": 1738569583,
+      "game": "https://www.chess.com/game/live/142422611021"
+    },
+    "record": {
+      "win": 1787,
+      "loss": 2031,
+      "draw": 287
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2602,
+      "date": 1776577051,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2762,
+      "date": 1768893587,
+      "game": "https://www.chess.com/game/live/158608648235"
+    },
+    "record": {
+      "win": 1127,
+      "loss": 1259,
+      "draw": 298
+    }
+  },
+  "fide": 2454,
+  "tactics": {
+    "highest": {
+      "rating": 1810,
+      "date": 1759260153
+    },
+    "lowest": {
+      "rating": 1658,
+      "date": 1758786721
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 37,
+      "score": 35
+    }
+  }
+}

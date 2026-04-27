@@ -1,0 +1,99 @@
+{
+  "player_id": 330123999,
+  "@id": "https://api.chess.com/pub/player/onewany",
+  "url": "https://www.chess.com/member/onewany",
+  "name": "Ivan Sidletskyi",
+  "username": "onewany",
+  "title": "FM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/UA",
+  "last_online": 1776519021,
+  "joined": 1701600611,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1600,
+      "date": 1775682878,
+      "rd": 350
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 32775,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2499,
+      "date": 1776428424,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2500,
+      "date": 1734132776,
+      "game": "https://www.chess.com/game/live/125629103683"
+    },
+    "record": {
+      "win": 13,
+      "loss": 7,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2791,
+      "date": 1776519021,
+      "rd": 26
+    },
+    "best": {
+      "rating": 2928,
+      "date": 1766144590,
+      "game": "https://www.chess.com/game/live/140513915024"
+    },
+    "record": {
+      "win": 1604,
+      "loss": 1562,
+      "draw": 225
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2659,
+      "date": 1776493477,
+      "rd": 31
+    },
+    "best": {
+      "rating": 2788,
+      "date": 1764979821,
+      "game": "https://www.chess.com/game/live/125793588013"
+    },
+    "record": {
+      "win": 950,
+      "loss": 864,
+      "draw": 149
+    }
+  },
+  "fide": 2322,
+  "tactics": {
+    "highest": {
+      "rating": 2567,
+      "date": 1766064888
+    },
+    "lowest": {
+      "rating": 2336,
+      "date": 1764691403
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 48,
+      "score": 45
+    }
+  }
+}

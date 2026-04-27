@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/296624453.9e3b40d0.200x200o.6b6ab44a9ed6.jpg",
+  "player_id": 296624453,
+  "@id": "https://api.chess.com/pub/player/mfatigue",
+  "url": "https://www.chess.com/member/MFatigue",
+  "name": "Theo Bressy",
+  "username": "mfatigue",
+  "title": "FM",
+  "followers": 149,
+  "country": "https://api.chess.com/pub/country/FR",
+  "last_online": 1776546954,
+  "joined": 1687988667,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1825,
+      "date": 1767551758,
+      "rd": 111
+    },
+    "best": {
+      "rating": 2003,
+      "date": 1743807433,
+      "game": "https://www.chess.com/game/daily/790043119"
+    },
+    "record": {
+      "win": 43,
+      "loss": 4,
+      "draw": 2,
+      "time_per_move": 11063,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2359,
+      "date": 1774212395,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2421,
+      "date": 1695395857,
+      "game": "https://www.chess.com/game/live/89230798593"
+    },
+    "record": {
+      "win": 22,
+      "loss": 18,
+      "draw": 6
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2537,
+      "date": 1773660158,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2585,
+      "date": 1750670808,
+      "game": "https://www.chess.com/game/live/144117570988"
+    },
+    "record": {
+      "win": 171,
+      "loss": 169,
+      "draw": 27
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2555,
+      "date": 1776544382,
+      "rd": 30
+    },
+    "best": {
+      "rating": 2822,
+      "date": 1772793324,
+      "game": "https://www.chess.com/game/live/157985854451"
+    },
+    "record": {
+      "win": 4564,
+      "loss": 4900,
+      "draw": 1346
+    }
+  },
+  "fide": 0,
+  "tactics": {
+    "highest": {
+      "rating": 2469,
+      "date": 1759495132
+    },
+    "lowest": {
+      "rating": 2179,
+      "date": 1757681460
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 67,
+      "score": 64
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": 79111148,
+  "@id": "https://api.chess.com/pub/player/chessonado",
+  "url": "https://www.chess.com/member/chessonado",
+  "username": "chessonado",
+  "title": "GM",
+  "followers": 225,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776555389,
+  "joined": 1589124268,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1995,
+      "date": 1753301303,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2682,
+      "date": 1655751920,
+      "game": "https://www.chess.com/game/live/31369148967"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2802,
+      "date": 1664252850,
+      "rd": 51
+    },
+    "best": {
+      "rating": 2959,
+      "date": 1632173833,
+      "game": "https://www.chess.com/game/live/21996607741"
+    },
+    "record": {
+      "win": 1835,
+      "loss": 680,
+      "draw": 137
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2815,
+      "date": 1758068119,
+      "rd": 49
+    },
+    "best": {
+      "rating": 3023,
+      "date": 1634680649,
+      "game": "https://www.chess.com/game/live/5346974408"
+    },
+    "record": {
+      "win": 1565,
+      "loss": 908,
+      "draw": 371
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2596,
+      "date": 1755616461
+    },
+    "lowest": {
+      "rating": 2442,
+      "date": 1773570052
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

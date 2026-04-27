@@ -1,0 +1,104 @@
+{
+  "player_id": 12376852,
+  "@id": "https://api.chess.com/pub/player/lore97",
+  "url": "https://www.chess.com/member/Lore97",
+  "name": "Lorenzo Bardone",
+  "username": "lore97",
+  "title": "NM",
+  "followers": 8,
+  "country": "https://api.chess.com/pub/country/IT",
+  "location": "Biella",
+  "last_online": 1776273534,
+  "joined": 1371574010,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1800,
+      "date": 1705915697,
+      "rd": 143
+    },
+    "best": {
+      "rating": 1200,
+      "date": 1371574010,
+      "game": "https://www.chess.com/game/daily/444784995"
+    },
+    "record": {
+      "win": 8,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 3920,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2205,
+      "date": 1773091848,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2215,
+      "date": 1773090652,
+      "game": "https://www.chess.com/game/live/15969369729"
+    },
+    "record": {
+      "win": 50,
+      "loss": 9,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2036,
+      "date": 1655321379,
+      "rd": 46
+    },
+    "best": {
+      "rating": 2036,
+      "date": 1655321379,
+      "game": "https://www.chess.com/game/live/46910445565"
+    },
+    "record": {
+      "win": 63,
+      "loss": 30,
+      "draw": 4
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2200,
+      "date": 1773003225,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2268,
+      "date": 1717500614,
+      "game": "https://www.chess.com/game/live/111082903751"
+    },
+    "record": {
+      "win": 108,
+      "loss": 66,
+      "draw": 11
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2715,
+      "date": 1763677946
+    },
+    "lowest": {
+      "rating": 2270,
+      "date": 1765107163
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

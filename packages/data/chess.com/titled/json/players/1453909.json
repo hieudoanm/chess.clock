@@ -1,0 +1,106 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1453909.87f8f193.200x200o.5673ffed1afd.jpg",
+  "player_id": 1453909,
+  "@id": "https://api.chess.com/pub/player/charlie101",
+  "url": "https://www.chess.com/member/Charlie101",
+  "name": "Charles Galofre",
+  "username": "charlie101",
+  "title": "FM",
+  "followers": 669,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Miami",
+  "last_online": 1776475411,
+  "joined": 1217307197,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1974,
+      "date": 1773543064,
+      "rd": 197
+    },
+    "best": {
+      "rating": 2253,
+      "date": 1247426225,
+      "game": "https://www.chess.com/game/daily/25760990"
+    },
+    "record": {
+      "win": 61,
+      "loss": 61,
+      "draw": 13,
+      "time_per_move": 48111,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2113,
+      "date": 1768435248,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2125,
+      "date": 1748651145,
+      "game": "https://www.chess.com/game/live/39994260041"
+    },
+    "record": {
+      "win": 25,
+      "loss": 2,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2381,
+      "date": 1766829896,
+      "rd": 102
+    },
+    "best": {
+      "rating": 2493,
+      "date": 1698976982,
+      "game": "https://www.chess.com/game/live/266071625"
+    },
+    "record": {
+      "win": 1489,
+      "loss": 1227,
+      "draw": 50
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2127,
+      "date": 1761353490,
+      "rd": 144
+    },
+    "best": {
+      "rating": 2416,
+      "date": 1699065296,
+      "game": "https://www.chess.com/game/live/88438211867"
+    },
+    "record": {
+      "win": 335,
+      "loss": 263,
+      "draw": 50
+    }
+  },
+  "fide": 2320,
+  "tactics": {
+    "highest": {
+      "rating": 2455,
+      "date": 1772469236
+    },
+    "lowest": {
+      "rating": 2292,
+      "date": 1756922327
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 40,
+      "score": 37
+    }
+  }
+}

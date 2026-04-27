@@ -1,0 +1,103 @@
+{
+  "player_id": 270449515,
+  "@id": "https://api.chess.com/pub/player/inepton_fermion",
+  "url": "https://www.chess.com/member/Inepton_Fermion",
+  "name": "David Blanco Diez",
+  "username": "inepton_fermion",
+  "title": "FM",
+  "followers": 20,
+  "country": "https://api.chess.com/pub/country/EU",
+  "last_online": 1774398236,
+  "joined": 1680518160,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1403,
+      "date": 1718267808,
+      "rd": 178
+    },
+    "best": {
+      "rating": 1760,
+      "date": 1684844940,
+      "game": "https://www.chess.com/game/daily/519628657"
+    },
+    "record": {
+      "win": 7,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 11326,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2084,
+      "date": 1684106496,
+      "rd": 161
+    },
+    "best": {
+      "rating": 2206,
+      "date": 1681745805,
+      "game": "https://www.chess.com/game/live/75484242005"
+    },
+    "record": {
+      "win": 2,
+      "loss": 3,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2427,
+      "date": 1747266597,
+      "rd": 85
+    },
+    "best": {
+      "rating": 2484,
+      "date": 1709129284,
+      "game": "https://www.chess.com/game/live/102905990613"
+    },
+    "record": {
+      "win": 263,
+      "loss": 107,
+      "draw": 13
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2413,
+      "date": 1753805923,
+      "rd": 81
+    },
+    "best": {
+      "rating": 2546,
+      "date": 1736272683,
+      "game": "https://www.chess.com/game/live/130004428715"
+    },
+    "record": {
+      "win": 419,
+      "loss": 397,
+      "draw": 70
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2616,
+      "date": 1768410698
+    },
+    "lowest": {
+      "rating": 2583,
+      "date": 1768410553
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

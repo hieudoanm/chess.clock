@@ -1,0 +1,104 @@
+{
+  "player_id": 3934133,
+  "@id": "https://api.chess.com/pub/player/komaromy31",
+  "url": "https://www.chess.com/member/komaromy31",
+  "name": "Gabriel Ewing",
+  "username": "komaromy31",
+  "title": "NM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "New York City",
+  "last_online": 1775429150,
+  "joined": 1283714860,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Wood",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1932,
+      "date": 1703540078,
+      "rd": 85
+    },
+    "best": {
+      "rating": 1954,
+      "date": 1429813433,
+      "game": "https://www.chess.com/game/daily/78476218"
+    },
+    "record": {
+      "win": 40,
+      "loss": 21,
+      "draw": 10,
+      "time_per_move": 24177,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2516,
+      "date": 1592705386,
+      "rd": 273
+    },
+    "best": {
+      "rating": 2516,
+      "date": 1592705386,
+      "game": "https://www.chess.com/game/live/833821171"
+    },
+    "record": {
+      "win": 21,
+      "loss": 10,
+      "draw": 2
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2105,
+      "date": 1571452613,
+      "rd": 193
+    },
+    "best": {
+      "rating": 2094,
+      "date": 1507594044,
+      "game": "https://www.chess.com/game/live/2360462727"
+    },
+    "record": {
+      "win": 15,
+      "loss": 8,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 1753,
+      "date": 1770046234,
+      "rd": 260
+    },
+    "best": {
+      "rating": 2229,
+      "date": 1582251637,
+      "game": "https://www.chess.com/game/live/4519310822"
+    },
+    "record": {
+      "win": 202,
+      "loss": 98,
+      "draw": 21
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2309,
+      "date": 1283714860
+    },
+    "lowest": {
+      "rating": 2309,
+      "date": 1283714860
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 69,
+      "score": 66
+    }
+  }
+}

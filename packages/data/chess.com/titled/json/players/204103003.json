@@ -1,0 +1,83 @@
+{
+  "player_id": 204103003,
+  "@id": "https://api.chess.com/pub/player/skkyfall2005",
+  "url": "https://www.chess.com/member/Skkyfall2005",
+  "username": "skkyfall2005",
+  "title": "IM",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/US",
+  "last_online": 1776517464,
+  "joined": 1667219358,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2734,
+      "date": 1738909851,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2734,
+      "date": 1738909851,
+      "game": "https://www.chess.com/game/live/132647962733"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2762,
+      "date": 1771566717,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2783,
+      "date": 1733474607,
+      "game": "https://www.chess.com/game/live/126644394071"
+    },
+    "record": {
+      "win": 287,
+      "loss": 273,
+      "draw": 37
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2877,
+      "date": 1776517446,
+      "rd": 39
+    },
+    "best": {
+      "rating": 3022,
+      "date": 1772964151,
+      "game": "https://www.chess.com/game/live/140674442752"
+    },
+    "record": {
+      "win": 1472,
+      "loss": 1517,
+      "draw": 351
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2553,
+      "date": 1667219358
+    },
+    "lowest": {
+      "rating": 2553,
+      "date": 1667219358
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 55,
+      "score": 52
+    }
+  }
+}

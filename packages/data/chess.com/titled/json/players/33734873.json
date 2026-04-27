@@ -1,0 +1,98 @@
+{
+  "player_id": 33734873,
+  "@id": "https://api.chess.com/pub/player/delphin11",
+  "url": "https://www.chess.com/member/delphin11",
+  "username": "delphin11",
+  "title": "IM",
+  "followers": 11,
+  "country": "https://api.chess.com/pub/country/RU",
+  "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+  "last_online": 1775216809,
+  "joined": 1488793230,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1400,
+      "date": 1657175403,
+      "rd": 350
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 4498830,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2387,
+      "date": 1758957239,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1624970121,
+      "game": "https://www.chess.com/game/live/17219000755"
+    },
+    "record": {
+      "win": 76,
+      "loss": 26,
+      "draw": 8
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2395,
+      "date": 1707768337,
+      "rd": 146
+    },
+    "best": {
+      "rating": 2612,
+      "date": 1660480862,
+      "game": "https://www.chess.com/game/live/2892254983"
+    },
+    "record": {
+      "win": 8584,
+      "loss": 7513,
+      "draw": 284
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2714,
+      "date": 1770280315,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2742,
+      "date": 1763475215,
+      "game": "https://www.chess.com/game/live/126531572219"
+    },
+    "record": {
+      "win": 8792,
+      "loss": 7400,
+      "draw": 681
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2451,
+      "date": 1488793230
+    },
+    "lowest": {
+      "rating": 2451,
+      "date": 1488793230
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 70,
+      "score": 67
+    }
+  }
+}

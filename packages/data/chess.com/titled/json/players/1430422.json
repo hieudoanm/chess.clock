@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/1430422.e86499a9.200x200o.088a50c0b6cd.jpeg",
+  "player_id": 1430422,
+  "@id": "https://api.chess.com/pub/player/hunninn",
+  "url": "https://www.chess.com/member/Hunninn",
+  "name": "Bjorn Thorfinnsson",
+  "username": "hunninn",
+  "title": "IM",
+  "followers": 675,
+  "country": "https://api.chess.com/pub/country/IS",
+  "location": "Gardabaer",
+  "last_online": 1776560427,
+  "joined": 1215190779,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1712,
+      "date": 1775682076,
+      "rd": 270
+    },
+    "best": {
+      "rating": 2058,
+      "date": 1362686296,
+      "game": "https://www.chess.com/game/daily/64086204"
+    },
+    "record": {
+      "win": 8,
+      "loss": 4,
+      "draw": 0,
+      "time_per_move": 74408,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2053,
+      "date": 1762123679,
+      "rd": 210
+    },
+    "best": {
+      "rating": 2416,
+      "date": 1586435226,
+      "game": "https://www.chess.com/game/live/4707764726"
+    },
+    "record": {
+      "win": 8,
+      "loss": 8,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2569,
+      "date": 1764895912,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2715,
+      "date": 1735220757,
+      "game": "https://www.chess.com/game/live/128730771957"
+    },
+    "record": {
+      "win": 5128,
+      "loss": 3321,
+      "draw": 564
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2776,
+      "date": 1776560421,
+      "rd": 32
+    },
+    "best": {
+      "rating": 2833,
+      "date": 1758114973,
+      "game": "https://www.chess.com/game/live/131841031917"
+    },
+    "record": {
+      "win": 13389,
+      "loss": 9509,
+      "draw": 2961
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2496,
+      "date": 1775678676
+    },
+    "lowest": {
+      "rating": 2433,
+      "date": 1774205460
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 64,
+      "score": 61
+    }
+  }
+}

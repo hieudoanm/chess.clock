@@ -1,0 +1,85 @@
+{
+  "player_id": 72032402,
+  "@id": "https://api.chess.com/pub/player/greekplayer1",
+  "url": "https://www.chess.com/member/greekplayer1",
+  "name": "Dimitris Makridis",
+  "username": "greekplayer1",
+  "title": "FM",
+  "followers": 110,
+  "country": "https://api.chess.com/pub/country/GR",
+  "last_online": 1776097303,
+  "joined": 1581419376,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2372,
+      "date": 1770251293,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2372,
+      "date": 1731794355,
+      "game": "https://www.chess.com/game/live/26141492215"
+    },
+    "record": {
+      "win": 55,
+      "loss": 10,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 3000,
+      "date": 1774575793,
+      "rd": 43
+    },
+    "best": {
+      "rating": 3068,
+      "date": 1769798772,
+      "game": "https://www.chess.com/game/live/148378318366"
+    },
+    "record": {
+      "win": 476,
+      "loss": 349,
+      "draw": 54
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2955,
+      "date": 1773520520,
+      "rd": 38
+    },
+    "best": {
+      "rating": 3021,
+      "date": 1766175420,
+      "game": "https://www.chess.com/game/live/146846288468"
+    },
+    "record": {
+      "win": 667,
+      "loss": 421,
+      "draw": 99
+    }
+  },
+  "fide": 2372,
+  "tactics": {
+    "highest": {
+      "rating": 2806,
+      "date": 1768125268
+    },
+    "lowest": {
+      "rating": 2555,
+      "date": 1768021314
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 76,
+      "score": 73
+    }
+  }
+}

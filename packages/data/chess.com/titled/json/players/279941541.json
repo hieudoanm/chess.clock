@@ -1,0 +1,104 @@
+{
+  "player_id": 279941541,
+  "@id": "https://api.chess.com/pub/player/byb1112345",
+  "url": "https://www.chess.com/member/BYB1112345",
+  "name": "Bojun (Bryan) Yang",
+  "username": "byb1112345",
+  "title": "CM",
+  "followers": 15,
+  "country": "https://api.chess.com/pub/country/AU",
+  "last_online": 1776561985,
+  "joined": 1682651232,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 989,
+      "date": 1770621585,
+      "rd": 111
+    },
+    "best": {
+      "rating": 1021,
+      "date": 1741857255,
+      "game": "https://www.chess.com/game/daily/844660754"
+    },
+    "record": {
+      "win": 26,
+      "loss": 10,
+      "draw": 0,
+      "time_per_move": 21812,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2525,
+      "date": 1776389380,
+      "rd": 41
+    },
+    "best": {
+      "rating": 2525,
+      "date": 1776389380,
+      "game": "https://www.chess.com/game/live/147403374138"
+    },
+    "record": {
+      "win": 199,
+      "loss": 68,
+      "draw": 20
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2692,
+      "date": 1776568014,
+      "rd": 19
+    },
+    "best": {
+      "rating": 2788,
+      "date": 1772746553,
+      "game": "https://www.chess.com/game/live/165493122576"
+    },
+    "record": {
+      "win": 2329,
+      "loss": 1955,
+      "draw": 207
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2612,
+      "date": 1776391757,
+      "rd": 28
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1775625674,
+      "game": "https://www.chess.com/game/live/148022927520"
+    },
+    "record": {
+      "win": 850,
+      "loss": 685,
+      "draw": 108
+    }
+  },
+  "fide": 1990,
+  "tactics": {
+    "highest": {
+      "rating": 2353,
+      "date": 1759717397
+    },
+    "lowest": {
+      "rating": 1973,
+      "date": 1759473178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 68,
+      "score": 65
+    }
+  }
+}

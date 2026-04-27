@@ -1,0 +1,100 @@
+{
+  "player_id": 283101,
+  "@id": "https://api.chess.com/pub/player/dhaydon19",
+  "url": "https://www.chess.com/member/Dhaydon19",
+  "name": "David Haydon",
+  "username": "dhaydon19",
+  "title": "FM",
+  "followers": 663,
+  "country": "https://api.chess.com/pub/country/XE",
+  "location": "Grays, England",
+  "last_online": 1776591642,
+  "joined": 1193331178,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 100,
+      "date": 1775024916,
+      "rd": 230
+    },
+    "record": {
+      "win": 0,
+      "loss": 3,
+      "draw": 0,
+      "time_per_move": 30423,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2604,
+      "date": 1773602128,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2632,
+      "date": 1773595215,
+      "game": "https://www.chess.com/game/live/167907617603"
+    },
+    "record": {
+      "win": 12,
+      "loss": 2,
+      "draw": 3
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2781,
+      "date": 1776529360,
+      "rd": 33
+    },
+    "best": {
+      "rating": 2971,
+      "date": 1763315449,
+      "game": "https://www.chess.com/game/live/132168627755"
+    },
+    "record": {
+      "win": 7394,
+      "loss": 5475,
+      "draw": 1027
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2842,
+      "date": 1776596329,
+      "rd": 21
+    },
+    "best": {
+      "rating": 3062,
+      "date": 1775822597,
+      "game": "https://www.chess.com/game/live/141612397534"
+    },
+    "record": {
+      "win": 7344,
+      "loss": 5632,
+      "draw": 1386
+    }
+  },
+  "fide": 2294,
+  "tactics": {
+    "highest": {
+      "rating": 2479,
+      "date": 1193331178
+    },
+    "lowest": {
+      "rating": 2479,
+      "date": 1193331178
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 53,
+      "score": 50
+    }
+  }
+}

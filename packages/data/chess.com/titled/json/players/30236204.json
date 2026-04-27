@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/30236204.f6bc73d7.200x200o.f644940729e1.jpg",
+  "player_id": 30236204,
+  "@id": "https://api.chess.com/pub/player/anna_chess",
+  "url": "https://www.chess.com/member/Anna_Chess",
+  "name": "Anna Rudolf",
+  "username": "anna_chess",
+  "title": "IM",
+  "followers": 12187,
+  "country": "https://api.chess.com/pub/country/ES",
+  "last_online": 1776546370,
+  "joined": 1475618378,
+  "status": "premium",
+  "is_streamer": true,
+  "twitch_url": "https://twitch.tv/anna_chess",
+  "verified": false,
+  "league": "Silver",
+  "streaming_platforms": [
+    {
+      "type": "twitch",
+      "channel_url": "https://twitch.tv/anna_chess"
+    }
+  ],
+  "chess_daily": {
+    "last": {
+      "rating": 1631,
+      "date": 1776084139,
+      "rd": 349
+    },
+    "record": {
+      "win": 0,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 80167,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2376,
+      "date": 1690464198,
+      "rd": 231
+    },
+    "best": {
+      "rating": 2380,
+      "date": 1617113909,
+      "game": "https://www.chess.com/game/live/82410153697"
+    },
+    "record": {
+      "win": 9,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1996,
+      "date": 1680191716,
+      "rd": 113
+    },
+    "best": {
+      "rating": 2422,
+      "date": 1522608910,
+      "game": "https://www.chess.com/game/live/17509427105"
+    },
+    "record": {
+      "win": 162,
+      "loss": 107,
+      "draw": 15
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2049,
+      "date": 1738707200,
+      "rd": 93
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1507673246,
+      "game": "https://www.chess.com/game/live/29369432865"
+    },
+    "record": {
+      "win": 264,
+      "loss": 105,
+      "draw": 24
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2107,
+      "date": 1772467387
+    },
+    "lowest": {
+      "rating": 1853,
+      "date": 1772467947
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

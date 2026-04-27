@@ -1,0 +1,105 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/2798969.05274c50.200x200o.ace66b42e2bc.jpeg",
+  "player_id": 2798969,
+  "@id": "https://api.chess.com/pub/player/chesscoach4u",
+  "url": "https://www.chess.com/member/chesscoach4u",
+  "name": "Tim Steiner",
+  "username": "chesscoach4u",
+  "title": "CM",
+  "followers": 54,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Dallas",
+  "last_online": 1575494674,
+  "joined": 1272947052,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1287,
+      "date": 1541267721,
+      "rd": 333
+    },
+    "best": {
+      "rating": 1287,
+      "date": 1519231883,
+      "game": "https://www.chess.com/game/daily/186236604"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0,
+      "time_per_move": 10882,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1366,
+      "date": 1566745344,
+      "rd": 114
+    },
+    "best": {
+      "rating": 1521,
+      "date": 1455475616,
+      "game": "https://www.chess.com/game/live/3967598499"
+    },
+    "record": {
+      "win": 11,
+      "loss": 4,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 1744,
+      "date": 1573257404,
+      "rd": 80
+    },
+    "best": {
+      "rating": 1594,
+      "date": 1573257404,
+      "game": "https://www.chess.com/game/live/4035760884"
+    },
+    "record": {
+      "win": 32,
+      "loss": 19,
+      "draw": 1
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2112,
+      "date": 1575424996,
+      "rd": 37
+    },
+    "best": {
+      "rating": 2175,
+      "date": 1544248543,
+      "game": "https://www.chess.com/game/live/3840707665"
+    },
+    "record": {
+      "win": 1172,
+      "loss": 755,
+      "draw": 142
+    }
+  },
+  "fide": 2012,
+  "tactics": {
+    "highest": {
+      "rating": 1511,
+      "date": 1272947052
+    },
+    "lowest": {
+      "rating": 1511,
+      "date": 1272947052
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 30,
+      "score": 27
+    }
+  }
+}

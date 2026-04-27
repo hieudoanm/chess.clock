@@ -1,0 +1,90 @@
+{
+  "player_id": 26735280,
+  "@id": "https://api.chess.com/pub/player/astralpulse",
+  "url": "https://www.chess.com/member/astralpulse",
+  "name": "Alex Goldin",
+  "username": "astralpulse",
+  "title": "GM",
+  "followers": 145,
+  "country": "https://api.chess.com/pub/country/US",
+  "location": "Chicago",
+  "last_online": 1776553672,
+  "joined": 1455562544,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2722,
+      "date": 1772933200,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2722,
+      "date": 1772933200,
+      "game": "https://www.chess.com/game/live/61874379241"
+    },
+    "record": {
+      "win": 93,
+      "loss": 34,
+      "draw": 16
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2395,
+      "date": 1737322341,
+      "rd": 283
+    },
+    "best": {
+      "rating": 2395,
+      "date": 1737322341,
+      "game": "https://www.chess.com/game/live/131061010097"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2582,
+      "date": 1774738229,
+      "rd": 43
+    },
+    "best": {
+      "rating": 2766,
+      "date": 1599160649,
+      "game": "https://www.chess.com/game/live/67710218567"
+    },
+    "record": {
+      "win": 7349,
+      "loss": 6643,
+      "draw": 950
+    }
+  },
+  "fide": 2617,
+  "tactics": {
+    "highest": {
+      "rating": 2845,
+      "date": 1759098687
+    },
+    "lowest": {
+      "rating": 2787,
+      "date": 1756662920
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 88,
+      "score": 85
+    },
+    "daily": {
+      "total_attempts": 71,
+      "score": 68
+    }
+  }
+}

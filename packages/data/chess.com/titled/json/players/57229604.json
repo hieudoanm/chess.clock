@@ -1,0 +1,104 @@
+{
+  "player_id": 57229604,
+  "@id": "https://api.chess.com/pub/player/piscatorox",
+  "url": "https://www.chess.com/member/piscatorox",
+  "name": "Joseph P Conlon",
+  "username": "piscatorox",
+  "title": "CM",
+  "followers": 5,
+  "country": "https://api.chess.com/pub/country/GB",
+  "last_online": 1776580656,
+  "joined": 1549901062,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Bronze",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 2025,
+      "date": 1717243929,
+      "rd": 209
+    },
+    "best": {
+      "rating": 2025,
+      "date": 1590947471,
+      "game": "https://www.chess.com/game/daily/263614708"
+    },
+    "record": {
+      "win": 2,
+      "loss": 0,
+      "draw": 0,
+      "time_per_move": 12579,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 1967,
+      "date": 1608730859,
+      "rd": 107
+    },
+    "best": {
+      "rating": 2328,
+      "date": 1604092506,
+      "game": "https://www.chess.com/game/live/5660593225"
+    },
+    "record": {
+      "win": 12,
+      "loss": 3,
+      "draw": 5
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2257,
+      "date": 1609615695,
+      "rd": 55
+    },
+    "best": {
+      "rating": 2424,
+      "date": 1609094493,
+      "game": "https://www.chess.com/game/live/6073637454"
+    },
+    "record": {
+      "win": 218,
+      "loss": 162,
+      "draw": 22
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2212,
+      "date": 1776548341,
+      "rd": 88
+    },
+    "best": {
+      "rating": 2366,
+      "date": 1648923784,
+      "game": "https://www.chess.com/game/live/4898182415"
+    },
+    "record": {
+      "win": 523,
+      "loss": 279,
+      "draw": 91
+    }
+  },
+  "fide": 2211,
+  "tactics": {
+    "highest": {
+      "rating": 400,
+      "date": 1549901062
+    },
+    "lowest": {
+      "rating": 400,
+      "date": 1549901062
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 33,
+      "score": 32
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "player_id": 56287888,
+  "@id": "https://api.chess.com/pub/player/jakuboss22005",
+  "url": "https://www.chess.com/member/Jakuboss22005",
+  "name": "Jakub Ocel\u00e1k",
+  "username": "jakuboss22005",
+  "title": "CM",
+  "followers": 45,
+  "country": "https://api.chess.com/pub/country/CZ",
+  "last_online": 1776505423,
+  "joined": 1548001443,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Champion",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1575,
+      "date": 1699000148,
+      "rd": 174
+    },
+    "best": {
+      "rating": 1903,
+      "date": 1550314579,
+      "game": "https://www.chess.com/game/daily/377691101"
+    },
+    "record": {
+      "win": 2,
+      "loss": 5,
+      "draw": 0,
+      "time_per_move": 210258,
+      "timeout_percent": 0
+    }
+  },
+  "chess_rapid": {
+    "last": {
+      "rating": 2085,
+      "date": 1761214802,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2126,
+      "date": 1664176564,
+      "game": "https://www.chess.com/game/live/42667219639"
+    },
+    "record": {
+      "win": 103,
+      "loss": 22,
+      "draw": 25
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2567,
+      "date": 1773955550,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2602,
+      "date": 1694940292,
+      "game": "https://www.chess.com/game/live/82486374325"
+    },
+    "record": {
+      "win": 1796,
+      "loss": 1317,
+      "draw": 225
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2592,
+      "date": 1775934007,
+      "rd": 48
+    },
+    "best": {
+      "rating": 2609,
+      "date": 1775932246,
+      "game": "https://www.chess.com/game/live/146906605015"
+    },
+    "record": {
+      "win": 1493,
+      "loss": 916,
+      "draw": 242
+    }
+  },
+  "fide": 2149,
+  "tactics": {
+    "highest": {
+      "rating": 2679,
+      "date": 1548001443
+    },
+    "lowest": {
+      "rating": 2679,
+      "date": 1548001443
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 65,
+      "score": 62
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": 27396084,
+  "@id": "https://api.chess.com/pub/player/dayan64",
+  "url": "https://www.chess.com/member/Dayan64",
+  "name": "Dayan Ninov",
+  "username": "dayan64",
+  "title": "FM",
+  "followers": 3,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Veliko Tarnovo",
+  "last_online": 1775597716,
+  "joined": 1458776212,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Stone",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1956,
+      "date": 1667773833,
+      "rd": 128
+    },
+    "best": {
+      "rating": 2201,
+      "date": 1586453629,
+      "game": "https://www.chess.com/game/live/61505970375"
+    },
+    "record": {
+      "win": 3,
+      "loss": 5,
+      "draw": 4
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2297,
+      "date": 1663196518,
+      "rd": 75
+    },
+    "best": {
+      "rating": 2329,
+      "date": 1663173321,
+      "game": "https://www.chess.com/game/live/56887773491"
+    },
+    "record": {
+      "win": 890,
+      "loss": 695,
+      "draw": 84
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2140,
+      "date": 1663175363,
+      "rd": 127
+    },
+    "best": {
+      "rating": 2418,
+      "date": 1530440012,
+      "game": "https://www.chess.com/game/live/2994303023"
+    },
+    "record": {
+      "win": 158,
+      "loss": 157,
+      "draw": 25
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2364,
+      "date": 1458776212
+    },
+    "lowest": {
+      "rating": 2364,
+      "date": 1458776212
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 41,
+      "score": 39
+    }
+  }
+}

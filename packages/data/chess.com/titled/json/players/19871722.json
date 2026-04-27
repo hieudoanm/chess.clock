@@ -1,0 +1,83 @@
+{
+  "player_id": 19871722,
+  "@id": "https://api.chess.com/pub/player/jps520",
+  "url": "https://www.chess.com/member/jpS520",
+  "username": "jps520",
+  "title": "FM",
+  "followers": 12,
+  "country": "https://api.chess.com/pub/country/IN",
+  "last_online": 1774986482,
+  "joined": 1416807162,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 1992,
+      "date": 1749141971,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2000,
+      "date": 1749139424,
+      "game": "https://www.chess.com/game/live/143452224739"
+    },
+    "record": {
+      "win": 1,
+      "loss": 0,
+      "draw": 1
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2472,
+      "date": 1774971960,
+      "rd": 47
+    },
+    "best": {
+      "rating": 2658,
+      "date": 1766755777,
+      "game": "https://www.chess.com/game/live/147187764002"
+    },
+    "record": {
+      "win": 626,
+      "loss": 460,
+      "draw": 101
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2248,
+      "date": 1638894199,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2529,
+      "date": 1610478263,
+      "game": "https://www.chess.com/game/live/6216728900"
+    },
+    "record": {
+      "win": 330,
+      "loss": 255,
+      "draw": 65
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2383,
+      "date": 1416807162
+    },
+    "lowest": {
+      "rating": 2383,
+      "date": 1416807162
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 59,
+      "score": 56
+    }
+  }
+}

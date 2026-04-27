@@ -1,0 +1,84 @@
+{
+  "player_id": 25097080,
+  "@id": "https://api.chess.com/pub/player/tonysoprano8",
+  "url": "https://www.chess.com/member/TonySoprano8",
+  "name": "Laszlo Takacs",
+  "username": "tonysoprano8",
+  "title": "FM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/SK",
+  "last_online": 1776007689,
+  "joined": 1447687189,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Elite",
+  "streaming_platforms": [],
+  "chess_rapid": {
+    "last": {
+      "rating": 2242,
+      "date": 1722525236,
+      "rd": 49
+    },
+    "best": {
+      "rating": 2242,
+      "date": 1722525236,
+      "game": "https://www.chess.com/game/live/3914802151"
+    },
+    "record": {
+      "win": 1,
+      "loss": 1,
+      "draw": 0
+    }
+  },
+  "chess_bullet": {
+    "last": {
+      "rating": 2322,
+      "date": 1675787773,
+      "rd": 189
+    },
+    "best": {
+      "rating": 2322,
+      "date": 1675787773,
+      "game": "https://www.chess.com/game/live/2732168185"
+    },
+    "record": {
+      "win": 254,
+      "loss": 183,
+      "draw": 16
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2357,
+      "date": 1775999709,
+      "rd": 59
+    },
+    "best": {
+      "rating": 2405,
+      "date": 1539294380,
+      "game": "https://www.chess.com/game/live/122743463633"
+    },
+    "record": {
+      "win": 1024,
+      "loss": 897,
+      "draw": 144
+    }
+  },
+  "tactics": {
+    "highest": {
+      "rating": 2735,
+      "date": 1762445105
+    },
+    "lowest": {
+      "rating": 2529,
+      "date": 1755789629
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 74,
+      "score": 71
+    }
+  }
+}

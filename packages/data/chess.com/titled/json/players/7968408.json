@@ -1,0 +1,72 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/7968408.05df5234.200x200o.2d1a4240e9ce.png",
+  "player_id": 7968408,
+  "@id": "https://api.chess.com/pub/player/houdima",
+  "url": "https://www.chess.com/member/HouDima",
+  "name": "Dmitri Shneider",
+  "username": "houdima",
+  "title": "IM",
+  "followers": 17,
+  "country": "https://api.chess.com/pub/country/ES",
+  "location": "Barcelona",
+  "last_online": 1776553546,
+  "joined": 1340324941,
+  "status": "staff",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Crystal",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1921,
+      "date": 1775775434,
+      "rd": 106
+    },
+    "best": {
+      "rating": 2200,
+      "date": 1340324941,
+      "game": "https://www.chess.com/game/daily/729496803"
+    },
+    "record": {
+      "win": 42,
+      "loss": 13,
+      "draw": 9,
+      "time_per_move": 53119,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2475,
+      "date": 1776446104,
+      "rd": 74
+    },
+    "best": {
+      "rating": 2543,
+      "date": 1676817472,
+      "game": "https://www.chess.com/game/live/66690193921"
+    },
+    "record": {
+      "win": 228,
+      "loss": 159,
+      "draw": 17
+    }
+  },
+  "fide": 2506,
+  "tactics": {
+    "highest": {
+      "rating": 2517,
+      "date": 1761422208
+    },
+    "lowest": {
+      "rating": 2405,
+      "date": 1757278392
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 50,
+      "score": 47
+    }
+  }
+}

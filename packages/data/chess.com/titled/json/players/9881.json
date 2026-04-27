@@ -1,0 +1,72 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/9881.83f97c23.200x200o.f3a0c7590596.jpeg",
+  "player_id": 9881,
+  "@id": "https://api.chess.com/pub/player/chessvr",
+  "url": "https://www.chess.com/member/chessvr",
+  "name": "Plamen Stefanov",
+  "username": "chessvr",
+  "title": "NM",
+  "followers": 43,
+  "country": "https://api.chess.com/pub/country/BG",
+  "location": "Vratsa",
+  "last_online": 1776455988,
+  "joined": 1184703440,
+  "status": "premium",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": [],
+  "chess_daily": {
+    "last": {
+      "rating": 1895,
+      "date": 1681633690,
+      "rd": 83
+    },
+    "best": {
+      "rating": 1895,
+      "date": 1650055803,
+      "game": "https://www.chess.com/game/daily/391188055"
+    },
+    "record": {
+      "win": 41,
+      "loss": 4,
+      "draw": 1,
+      "time_per_move": 25857,
+      "timeout_percent": 0
+    }
+  },
+  "chess_blitz": {
+    "last": {
+      "rating": 2201,
+      "date": 1754495889,
+      "rd": 45
+    },
+    "best": {
+      "rating": 2256,
+      "date": 1646157048,
+      "game": "https://www.chess.com/game/live/146905401393"
+    },
+    "record": {
+      "win": 1976,
+      "loss": 1854,
+      "draw": 375
+    }
+  },
+  "fide": 2071,
+  "tactics": {
+    "highest": {
+      "rating": 1717,
+      "date": 1184703440
+    },
+    "lowest": {
+      "rating": 1717,
+      "date": 1184703440
+    }
+  },
+  "puzzle_rush": {
+    "best": {
+      "total_attempts": 7,
+      "score": 7
+    }
+  }
+}
