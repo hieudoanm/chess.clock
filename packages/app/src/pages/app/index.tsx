@@ -36,17 +36,6 @@ const APPS = [
     symbol: '♜', // Rook → structure / rating foundation
     symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
   },
-  {
-    id: 'chess-openings',
-    href: '/app/openings',
-    title: 'Openings',
-    subtitle: 'Opening Explorer',
-    description:
-      'Browse and study chess openings. Explore lines, variations, and common positions to improve your early game.',
-    meta: 'ECO · Lines · Variations',
-    symbol: '♝', // Bishop → theory / diagonals / long-term planning
-    symbolClass: 'text-[4.5rem] font-serif font-bold leading-none',
-  },
 ];
 
 const AppPage: NextPage = () => {

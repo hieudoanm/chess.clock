@@ -1,9 +1,10 @@
 import { Chessboard } from '@chess/components/ChessBoard';
-import { useStockfish } from '@chess/hooks/use-stockfish';
-import { INITIAL_FEN, INITIAL_GAME, INITIAL_ID } from '@chess/constants/app';
+import { INITIAL_FEN, INITIAL_ID } from '@chess/constants/app';
 import { chess960 } from '@chess/data/chess960';
-import { chess960BackRankToInitialFEN } from '@chess/utils/chess/fen';
+import { Opening, openings } from '@chess/data/openings';
+import { useStockfish } from '@chess/hooks/use-stockfish';
 import { download } from '@chess/utils/canvas';
+import { chess960BackRankToInitialFEN } from '@chess/utils/chess/fen';
 import { getHeaders, getMoves, simplifyPGN } from '@chess/utils/chess/pgn';
 import { addZero, range } from '@chess/utils/number';
 import { Chess } from 'chess.js';
@@ -14,12 +15,16 @@ import { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { DraggingPieceDataType, PieceDataType } from 'react-chessboard';
 import {
   PiArrowCounterClockwise,
+  PiArrowLeft,
+  PiArrowRight,
   PiDownloadSimple,
   PiEye,
   PiFilmStrip,
   PiFrameCorners,
   PiRobot,
   PiShuffle,
+  PiSkipBack,
+  PiSkipForward,
 } from 'react-icons/pi';
 
 /* ══════════════════════════════════════════════
@@ -27,7 +32,28 @@ import {
 ══════════════════════════════════════════════ */
 
 type BoardMode = 'explore' | 'play';
-type SidePanel = 'position' | 'engine' | 'export';
+type SidePanel = 'position' | 'engine' | 'export' | 'openings';
+
+/* ══════════════════════════════════════════════
+   OPENINGS — pre-computed tree
+══════════════════════════════════════════════ */
+
+// Unique sorted groups
+const ecoGroups: string[] = [
+  ...new Set(openings.map(({ group }) => group)),
+].sort();
+
+// group → sorted subgroups
+const ecoSubgroups = (group: string): string[] =>
+  [
+    ...new Set(
+      openings.filter((o) => o.group === group).map((o) => o.subgroup ?? '')
+    ),
+  ].sort();
+
+// group + subgroup → openings list
+const ecoOpenings = (group: string, subgroup: string): Opening[] =>
+  openings.filter((o) => o.group === group && (o.subgroup ?? '') === subgroup);
 
 /* ══════════════════════════════════════════════
    GIF HELPERS
@@ -77,7 +103,7 @@ const downloadGIF = ({
    PAGE
 ══════════════════════════════════════════════ */
 
-const BoardPage: NextPage = () => {
+const ChessWorkbenchPage: NextPage = () => {
   /* ─── refs ─── */
   const boardRef = useRef<HTMLDivElement | null>(null);
   const gameRef = useRef<Chess>(new Chess(INITIAL_FEN));
@@ -87,18 +113,64 @@ const BoardPage: NextPage = () => {
   const [boardMode, setBoardMode] = useState<BoardMode>('explore');
   const [thinking, setThinking] = useState(false);
 
-  /* ─── chess960 state ─── */
+  /* ─── chess960 ─── */
   const [positionId, setPositionId] = useState<number>(INITIAL_ID);
 
-  /* ─── panel state ─── */
+  /* ─── side panel ─── */
   const [panel, setPanel] = useState<SidePanel>('position');
 
-  /* ─── PGN ─── */
+  /* ─── PGN / GIF ─── */
   const [pgn, setPgn] = useState<string>('');
   const [gifLoading, setGifLoading] = useState(false);
 
   /* ─── engine ─── */
   const { analyze, bestMove, evaluation } = useStockfish();
+
+  /* ─── ECO explorer state ─── */
+  const [ecoGroup, setEcoGroup] = useState<string>(ecoGroups[0] ?? '');
+  const [ecoSubgroup, setEcoSubgroup] = useState<string>(
+    ecoSubgroups(ecoGroups[0] ?? '')[0] ?? ''
+  );
+  const [ecoIndex, setEcoIndex] = useState<number>(0); // index within filtered list
+  const [ecoCursor, setEcoCursor] = useState<number>(0); // move cursor (0 = start)
+
+  const ecoList = ecoOpenings(ecoGroup, ecoSubgroup);
+  const ecoOpening: Opening | undefined = ecoList[ecoIndex];
+  const ecoMoves = ecoOpening ? getMoves(ecoOpening.pgn) : [];
+  const ecoTotal = ecoMoves.length;
+
+  // FEN at current cursor inside the ECO explorer
+  const ecoFenAtCursor = (): string => {
+    const g = new Chess();
+    for (let i = 0; i < ecoCursor; i++) {
+      try {
+        g.move(ecoMoves[i]!);
+      } catch {
+        break;
+      }
+    }
+    return g.fen();
+  };
+
+  // When the selected opening or group changes, reset cursor
+  useEffect(() => {
+    setEcoCursor(0);
+  }, [ecoOpening?.pgn]);
+
+  // When the main board is in openings panel and ECO explorer is active,
+  // update the left board to mirror the ECO position
+  useEffect(() => {
+    if (panel !== 'openings') return;
+    const ecoPenFen = ecoFenAtCursor();
+    setFen(ecoPenFen);
+  }, [ecoCursor, ecoOpening?.pgn, panel]);
+
+  // Reset board when leaving openings panel
+  useEffect(() => {
+    if (panel !== 'openings') {
+      syncGame(gameRef.current); // restore workbench FEN
+    }
+  }, [panel]);
 
   /* ══════════════════════════════════════════
      HELPERS
@@ -124,7 +196,7 @@ const BoardPage: NextPage = () => {
     try {
       syncGame(new Chess(value));
     } catch {
-      /* ignore invalid */
+      /* ignore */
     }
   };
 
@@ -157,9 +229,9 @@ const BoardPage: NextPage = () => {
     sourceSquare: string;
     targetSquare: string | null;
   }): boolean => {
-    const game = gameRef.current;
+    if (panel === 'openings') return false; // board is read-only in ECO mode
 
-    // In play mode: only white
+    const game = gameRef.current;
     if (boardMode === 'play' && game.turn() !== 'w') return false;
 
     let move = null;
@@ -177,7 +249,6 @@ const BoardPage: NextPage = () => {
 
     setFen(game.fen());
     setPgn(simplifyPGN(game.pgn()));
-
     if (boardMode === 'play') setThinking(true);
     return true;
   };
@@ -189,8 +260,9 @@ const BoardPage: NextPage = () => {
     piece: PieceDataType;
     square: string | null;
   }) => {
+    if (panel === 'openings') return false;
     if (boardMode === 'play') return piece.pieceType.startsWith('w');
-    return true; // explore: all pieces
+    return true;
   };
 
   /* ══════════════════════════════════════════
@@ -228,34 +300,23 @@ const BoardPage: NextPage = () => {
   ══════════════════════════════════════════ */
 
   const switchBoardMode = (next: BoardMode) => {
-    // re-build from current 960 position when switching
     syncGame(build960(positionId));
     setBoardMode(next);
   };
 
   /* ══════════════════════════════════════════
-     EVAL BAR
-     Stockfish reports eval from the side to move's perspective.
-     We normalise to always be from White's POV:
-       - White to move: keep sign as-is
-       - Black to move: flip sign
+     EVAL
   ══════════════════════════════════════════ */
 
-  const whiteEval = (() => {
-    if (evaluation === null || boardMode !== 'play') return null;
-    const fromWhite = gameRef.current.turn() === 'w' ? evaluation : -evaluation;
-    return fromWhite;
-  })();
+  const whiteEval =
+    evaluation !== null && boardMode === 'play' ? evaluation : null;
 
-  const evalPercent = (() => {
-    if (whiteEval === null) return 50;
-    return 50 + Math.max(-1000, Math.min(1000, whiteEval)) / 20;
-  })();
+  const evalPercent =
+    whiteEval === null
+      ? 50
+      : 50 + Math.max(-1000, Math.min(1000, whiteEval)) / 20;
 
-  const evalLabel = (() => {
-    if (whiteEval === null) return '0.0';
-    return (whiteEval / 100).toFixed(1);
-  })();
+  const evalLabel = whiteEval === null ? '0.0' : (whiteEval / 100).toFixed(1);
 
   /* ══════════════════════════════════════════
      STATUS
@@ -291,41 +352,67 @@ const BoardPage: NextPage = () => {
      EXPORT
   ══════════════════════════════════════════ */
 
-  const exportPNG = () => {
-    download({ ref: boardRef, output: 'chess-position' });
-  };
+  const exportPNG = () => download({ ref: boardRef, output: 'chess-position' });
 
   const exportGIF = async () => {
     if (!pgn) return;
     setGifLoading(true);
-
     const moves = getMoves(pgn);
     const tempGame = new Chess();
     const base64s: string[] = [];
-
     for (const move of moves) {
       tempGame.move(move);
       gameRef.current = new Chess(tempGame.fen());
       setFen(tempGame.fen());
-
       if (boardRef.current) {
         const canvas = await html2canvas(boardRef.current);
         base64s.push(canvas.toDataURL('image/png'));
       }
     }
-
     await downloadGIF({ base64s, pgn });
     setGifLoading(false);
   };
 
   /* ══════════════════════════════════════════
+     ECO EXPLORER HANDLERS
+  ══════════════════════════════════════════ */
+
+  const handleEcoGroupChange = (g: string) => {
+    setEcoGroup(g);
+    const subs = ecoSubgroups(g);
+    const sub = subs[0] ?? '';
+    setEcoSubgroup(sub);
+    setEcoIndex(0);
+    setEcoCursor(0);
+  };
+
+  const handleEcoSubgroupChange = (s: string) => {
+    setEcoSubgroup(s);
+    setEcoIndex(0);
+    setEcoCursor(0);
+  };
+
+  const handleEcoOpeningChange = (i: number) => {
+    setEcoIndex(i);
+    setEcoCursor(0);
+  };
+
+  const ecoPrev = () => setEcoCursor((c) => Math.max(0, c - 1));
+  const ecoNext = () => setEcoCursor((c) => Math.min(ecoTotal, c + 1));
+  const ecoStart = () => setEcoCursor(0);
+  const ecoEnd = () => setEcoCursor(ecoTotal);
+
+  /* ══════════════════════════════════════════
      UI
   ══════════════════════════════════════════ */
+
+  // In openings mode the board shows the ECO position (read-only)
+  const displayFen = panel === 'openings' ? ecoFenAtCursor() : fen;
 
   return (
     <div className="bg-base-200 flex min-h-screen w-screen items-start justify-center p-4 py-8 md:p-8">
       <div className="flex w-full max-w-4xl flex-col gap-6 lg:flex-row lg:items-start">
-        {/* ── LEFT: Board column ── */}
+        {/* ══ LEFT: Board ══ */}
         <div className="flex flex-1 flex-col gap-4">
           {/* Title + 960 selector */}
           <div className="flex items-center justify-between">
@@ -352,46 +439,58 @@ const BoardPage: NextPage = () => {
               </button>
               <button
                 className="btn btn-ghost btn-sm"
-                title="Reset to start"
+                title="Reset"
                 onClick={resetToStart}>
                 <PiArrowCounterClockwise />
               </button>
             </div>
           </div>
 
-          {/* Board mode tabs */}
-          <div role="tablist" className="tabs tabs-boxed w-full">
-            <button
-              role="tab"
-              className={`tab flex-1 gap-1 ${boardMode === 'explore' ? 'tab-active' : ''}`}
-              onClick={() => switchBoardMode('explore')}>
-              <PiEye /> Explore
-            </button>
-            <button
-              role="tab"
-              className={`tab flex-1 gap-1 ${boardMode === 'play' ? 'tab-active' : ''}`}
-              onClick={() => switchBoardMode('play')}>
-              <PiRobot /> vs Stockfish
-            </button>
-          </div>
+          {/* Board mode tabs — hidden in openings panel */}
+          {panel !== 'openings' && (
+            <div role="tablist" className="tabs tabs-boxed w-full">
+              <button
+                role="tab"
+                className={`tab flex-1 gap-1 ${boardMode === 'explore' ? 'tab-active' : ''}`}
+                onClick={() => switchBoardMode('explore')}>
+                <PiEye /> Explore
+              </button>
+              <button
+                role="tab"
+                className={`tab flex-1 gap-1 ${boardMode === 'play' ? 'tab-active' : ''}`}
+                onClick={() => switchBoardMode('play')}>
+                <PiRobot /> vs Stockfish
+              </button>
+            </div>
+          )}
 
-          {/* Board + eval bar */}
+          {/* Openings mode label */}
+          {panel === 'openings' && ecoOpening && (
+            <div className="bg-base-100 rounded-lg px-4 py-2">
+              <p className="text-base-content/40 text-[10px] font-semibold tracking-widest uppercase">
+                {ecoOpening.eco}
+              </p>
+              <p className="truncate font-bold">{ecoOpening.name}</p>
+            </div>
+          )}
+
+          {/* Board + vertical eval bar */}
           <div className="flex items-stretch gap-2">
             <div
               ref={boardRef}
               className="border-base-content/20 flex-1 overflow-hidden rounded border">
               <Chessboard
-                allowDragging
-                position={fen}
+                allowDragging={panel !== 'openings'}
+                position={displayFen}
                 onPieceDrop={onPieceDrop}
                 canDragPiece={canDragPiece}
               />
             </div>
 
-            {/* Eval bar */}
+            {/* Eval bar — only in play mode */}
             <div
               className={`border-base-content/20 bg-base-100 relative w-6 overflow-hidden rounded border transition-opacity duration-300 ${
-                boardMode === 'play'
+                boardMode === 'play' && panel !== 'openings'
                   ? 'opacity-100'
                   : 'pointer-events-none opacity-0'
               }`}
@@ -407,39 +506,111 @@ const BoardPage: NextPage = () => {
             </div>
           </div>
 
+          {/* Move stepper — shown in openings panel */}
+          {panel === 'openings' && ecoTotal > 0 && (
+            <div className="flex flex-col gap-2">
+              {/* Progress bar */}
+              <div className="bg-base-300 h-1.5 w-full overflow-hidden rounded-full">
+                <div
+                  className="bg-primary h-full rounded-full transition-all duration-200"
+                  style={{ width: `${(ecoCursor / ecoTotal) * 100}%` }}
+                />
+              </div>
+
+              {/* Move list — token pills */}
+              <div className="flex flex-wrap gap-1">
+                {ecoMoves.map((move, i) => {
+                  const moveNum = Math.floor(i / 2) + 1;
+                  const isWhite = i % 2 === 0;
+                  const isActive = i + 1 === ecoCursor;
+                  const isPast = i + 1 <= ecoCursor;
+                  return (
+                    <button
+                      key={i}
+                      onClick={() => setEcoCursor(i + 1)}
+                      className={`rounded px-1.5 py-0.5 font-mono text-xs transition-colors ${
+                        isActive
+                          ? 'bg-primary text-primary-content font-bold'
+                          : isPast
+                            ? 'bg-base-content/10 text-base-content/70'
+                            : 'text-base-content/30 hover:text-base-content/60'
+                      }`}>
+                      {isWhite && (
+                        <span className="text-base-content/30 mr-0.5">
+                          {moveNum}.
+                        </span>
+                      )}
+                      {move}
+                    </button>
+                  );
+                })}
+              </div>
+
+              {/* Step controls */}
+              <div className="flex items-center justify-between">
+                <span className="text-base-content/40 font-mono text-xs">
+                  {ecoCursor}/{ecoTotal}
+                </span>
+                <div className="flex gap-1">
+                  <button
+                    className="btn btn-ghost btn-xs"
+                    onClick={ecoStart}
+                    disabled={ecoCursor === 0}>
+                    <PiSkipBack size={14} />
+                  </button>
+                  <button
+                    className="btn btn-ghost btn-xs"
+                    onClick={ecoPrev}
+                    disabled={ecoCursor === 0}>
+                    <PiArrowLeft size={14} />
+                  </button>
+                  <button
+                    className="btn btn-ghost btn-xs"
+                    onClick={ecoNext}
+                    disabled={ecoCursor >= ecoTotal}>
+                    <PiArrowRight size={14} />
+                  </button>
+                  <button
+                    className="btn btn-ghost btn-xs"
+                    onClick={ecoEnd}
+                    disabled={ecoCursor >= ecoTotal}>
+                    <PiSkipForward size={14} />
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+
           {/* Status */}
-          {statusLabel && (
+          {statusLabel && panel !== 'openings' && (
             <p className="text-base-content/60 text-center text-sm">
               {statusLabel}
             </p>
           )}
         </div>
 
-        {/* ── RIGHT: Side panel ── */}
+        {/* ══ RIGHT: Side panel ══ */}
         <div className="flex w-full flex-col gap-4 lg:w-72">
-          {/* Panel tabs */}
-          <div role="tablist" className="tabs tabs-boxed w-full">
-            <button
-              role="tab"
-              className={`tab flex-1 text-xs ${panel === 'position' ? 'tab-active' : ''}`}
-              onClick={() => setPanel('position')}>
-              Position
-            </button>
-            <button
-              role="tab"
-              className={`tab flex-1 text-xs ${panel === 'engine' ? 'tab-active' : ''}`}
-              onClick={() => setPanel('engine')}>
-              Engine
-            </button>
-            <button
-              role="tab"
-              className={`tab flex-1 text-xs ${panel === 'export' ? 'tab-active' : ''}`}
-              onClick={() => setPanel('export')}>
-              Export
-            </button>
+          {/* 4-tab switcher */}
+          <div className="grid grid-cols-4 gap-1">
+            {(
+              [
+                { key: 'position', label: 'Position' },
+                { key: 'engine', label: 'Engine' },
+                { key: 'export', label: 'Export' },
+                { key: 'openings', label: 'Openings' },
+              ] as { key: SidePanel; label: string }[]
+            ).map(({ key, label }) => (
+              <button
+                key={key}
+                className={`btn btn-xs ${panel === key ? 'btn-primary' : 'btn-ghost'}`}
+                onClick={() => setPanel(key)}>
+                {label}
+              </button>
+            ))}
           </div>
 
-          {/* ── POSITION PANEL ── */}
+          {/* ── POSITION ── */}
           {panel === 'position' && (
             <div className="flex flex-col gap-3">
               <label className="text-base-content/60 text-xs font-semibold tracking-widest uppercase">
@@ -480,7 +651,7 @@ const BoardPage: NextPage = () => {
             </div>
           )}
 
-          {/* ── ENGINE PANEL ── */}
+          {/* ── ENGINE ── */}
           {panel === 'engine' && (
             <div className="flex flex-col gap-3">
               <div className="flex items-center justify-between">
@@ -488,14 +659,11 @@ const BoardPage: NextPage = () => {
                   Stockfish 18
                 </span>
                 <span
-                  className={`badge badge-sm ${
-                    boardMode === 'play' ? 'badge-success' : 'badge-ghost'
-                  }`}>
+                  className={`badge badge-sm ${boardMode === 'play' ? 'badge-success' : 'badge-ghost'}`}>
                   {boardMode === 'play' ? 'Active' : 'Off'}
                 </span>
               </div>
 
-              {/* Big eval display */}
               <div className="bg-base-100 flex flex-col items-center gap-1 rounded-xl p-4">
                 <span className="text-base-content/40 text-xs">Evaluation</span>
                 <span className="font-mono text-3xl font-black">
@@ -504,7 +672,6 @@ const BoardPage: NextPage = () => {
                     : '—'}
                 </span>
 
-                {/* Eval bar horizontal */}
                 <div className="bg-base-300 mt-2 h-3 w-full overflow-hidden rounded-full">
                   <div
                     className="h-full rounded-full bg-white transition-all duration-300"
@@ -517,16 +684,14 @@ const BoardPage: NextPage = () => {
                 </div>
               </div>
 
-              <div className="flex gap-2">
-                <button
-                  className={`btn btn-sm flex-1 ${boardMode === 'play' ? 'btn-error' : 'btn-primary'}`}
-                  onClick={() =>
-                    switchBoardMode(boardMode === 'play' ? 'explore' : 'play')
-                  }>
-                  <PiRobot />
-                  {boardMode === 'play' ? 'Stop Engine' : 'Start Engine'}
-                </button>
-              </div>
+              <button
+                className={`btn btn-sm w-full ${boardMode === 'play' ? 'btn-error' : 'btn-primary'}`}
+                onClick={() =>
+                  switchBoardMode(boardMode === 'play' ? 'explore' : 'play')
+                }>
+                <PiRobot />
+                {boardMode === 'play' ? 'Stop Engine' : 'Start Engine'}
+              </button>
 
               {statusLabel && (
                 <div className="bg-base-100 rounded-lg p-3 text-center text-sm font-semibold">
@@ -544,14 +709,13 @@ const BoardPage: NextPage = () => {
             </div>
           )}
 
-          {/* ── EXPORT PANEL ── */}
+          {/* ── EXPORT ── */}
           {panel === 'export' && (
             <div className="flex flex-col gap-3">
               <span className="text-base-content/60 text-xs font-semibold tracking-widest uppercase">
                 Export
               </span>
 
-              {/* PNG export */}
               <div className="bg-base-100 flex flex-col gap-2 rounded-xl p-4">
                 <div className="flex items-center gap-2">
                   <PiFrameCorners className="text-lg" />
@@ -569,7 +733,6 @@ const BoardPage: NextPage = () => {
                 </button>
               </div>
 
-              {/* GIF export */}
               <div className="bg-base-100 flex flex-col gap-2 rounded-xl p-4">
                 <div className="flex items-center gap-2">
                   <PiFilmStrip className="text-lg" />
@@ -603,10 +766,82 @@ const BoardPage: NextPage = () => {
               </div>
             </div>
           )}
+
+          {/* ── ECO EXPLORER ── */}
+          {panel === 'openings' && (
+            <div className="flex flex-col gap-3">
+              {/* Group */}
+              <div>
+                <label className="text-base-content/60 mb-1 block text-xs font-semibold tracking-widest uppercase">
+                  Group
+                </label>
+                <select
+                  className="select select-bordered select-sm w-full"
+                  value={ecoGroup}
+                  onChange={(e) => handleEcoGroupChange(e.target.value)}>
+                  {ecoGroups.map((g) => (
+                    <option key={g} value={g}>
+                      {g}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              {/* Subgroup */}
+              <div>
+                <label className="text-base-content/60 mb-1 block text-xs font-semibold tracking-widest uppercase">
+                  Variation
+                </label>
+                <select
+                  className="select select-bordered select-sm w-full"
+                  value={ecoSubgroup}
+                  onChange={(e) => handleEcoSubgroupChange(e.target.value)}>
+                  {ecoSubgroups(ecoGroup).map((s) => (
+                    <option key={s} value={s}>
+                      {s || '(main line)'}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              {/* Opening list */}
+              <div>
+                <label className="text-base-content/60 mb-1 block text-xs font-semibold tracking-widest uppercase">
+                  Line ({ecoList.length})
+                </label>
+                <div className="flex max-h-48 flex-col gap-0.5 overflow-y-auto">
+                  {ecoList.map((o, i) => (
+                    <button
+                      key={`${o.eco}-${i}`}
+                      onClick={() => handleEcoOpeningChange(i)}
+                      className={`flex w-full items-start gap-2 rounded px-2 py-1.5 text-left transition-colors ${
+                        i === ecoIndex
+                          ? 'bg-primary/10 text-primary'
+                          : 'hover:bg-base-content/5'
+                      }`}>
+                      <span className="bg-base-300 mt-0.5 shrink-0 rounded px-1 font-mono text-[10px]">
+                        {o.eco}
+                      </span>
+                      <span className="truncate text-xs">{o.name}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {/* Selected opening PGN */}
+              {ecoOpening && (
+                <div className="bg-base-100 rounded-lg p-3">
+                  <p className="text-primary font-mono text-[10px] leading-relaxed">
+                    {ecoOpening.pgn}
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
     </div>
   );
 };
 
-export default BoardPage;
+export default ChessWorkbenchPage;
